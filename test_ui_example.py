@@ -10,8 +10,6 @@ with tabs[0]:
     st.subheader("Generate Dataset")
 
     prompt = st.text_area("Enter prompt", "Generate employee dataset...")
-    rows = st.number_input("Rows", 100, 10000, 1000)
-    columns = st.number_input("Columns", 5, 50, 10)
     model = st.selectbox("Model", ["GPT-4o-mini", "Claude", "LLaMA"])
     fmt = st.selectbox("Format", ["CSV", "JSON", "Parquet"])
 
@@ -36,8 +34,6 @@ with tabs[0]:
     if st.session_state.show_report:
         st.info("Report")
         st.metric("Model", model)
-        st.metric("Rows", rows)
-        st.metric("Columns", columns)
         st.metric("Duplicates", "2")
         st.metric("Null Values", "20")
         st.metric("Bias", "Gender RR=0.83")
@@ -49,8 +45,6 @@ with tabs[1]:
     st.file_uploader("Upload dataset", type=["csv","json","parquet"])
     if st.button("Run Audit"):
         st.info("Audit results")
-        st.metric("Rows", "1000")
-        st.metric("Columns", "10")
         st.metric("Duplicates", "2")
         st.metric("Null Values", "20")
         st.metric("Bias", "Gender RR=0.83")
