@@ -1,0 +1,540 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,City,AR,Arkansas,1991-07-04,,,1,,,Black or African American,Not Specified,1,Aggravated Assault,1.0,Residence/Home,Anti-Black or African American,Individual,S,S
+1991,City,AR,Arkansas,1991-12-24,,,1,,,Black or African American,Not Specified,2,Aggravated Assault;Destruction/Damage/Vandalism of Property,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Individual,M,S
+1991,City,AR,Arkansas,1991-07-10,,,1,,,Black or African American,Not Specified,2,Aggravated Assault;Murder and Nonnegligent Manslaughter,2.0,Residence/Home,Anti-White,Individual,M,S
+1991,City,AR,Arkansas,1991-10-06,,,2,,,Black or African American,Not Specified,1,Intimidation,1.0,Residence/Home,Anti-White,Individual,S,S
+1991,County,MA,Massachusetts,1991-07-22,0,1,,0,3,White,Not Hispanic or Latino,1,Aggravated Assault;Destruction/Damage/Vandalism of Property,1.0,Restaurant,Anti-Asian,Individual,M,S
+1991,Tribal,OR,Oregon,1991-07-23,0,1,1,0,,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,1,Motor Vehicle Theft;Intimidation,1.0,Commercial/Office Building,Anti-Catholic,Individual,M,S
+1991,County,SC,South Carolina,1991-09-12,1,1,3,3,0,Black or African American,Hispanic or Latino,2,Burglary/Breaking and Entering;Robbery,0.0,Church/Synagogue/Temple/Mosque,Anti-Hispanic or Latino,Society/Public,M,S
+1991,Tribal,DE,Delaware,1991-08-03,1,0,,,0,Native Hawaiian or Other Pacific Islander,Unknown,1,Aggravated Assault;Simple Assault,0.0,Parking Lot/Garage,Anti-Lesbian,Society/Public,M,S
+1991,Federal,AR,Arkansas,1991-12-26,3,,2,2,0,White,Not Specified,3,Motor Vehicle Theft;Burglary/Breaking and Entering,0.0,Parking Lot/Garage,Anti-Catholic,Society/Public,M,N
+1991,City,NY,New York,1991-03-27,2,1,2,1,1,Native Hawaiian or Other Pacific Islander,Unknown,3,Motor Vehicle Theft,0.0,Restaurant,Anti-Lesbian,Religious Organization,S,S
+1991,University/College,AL,Alabama,1991-10-29,0,2,1,1,0,Native Hawaiian or Other Pacific Islander,Unknown,2,Motor Vehicle Theft,0.0,Parking Lot/Garage,Anti-Muslim,Religious Organization,S,N
+1991,University/College,MT,Montana,1991-07-21,3,,,1,0,White,Hispanic or Latino,3,Destruction/Damage/Vandalism of Property,3.0,Government/Public Building,Anti-Catholic,Individual,S,N
+1991,City,SC,South Carolina,1991-02-06,1,,1,1,0,White,Not Hispanic or Latino,1,Burglary/Breaking and Entering;Arson,0.0,Government/Public Building,Anti-Native American/Alaska Native,Law Enforcement Officer,M,S
+1991,City,ND,North Dakota,1991-04-16,0,1,3,2,1,Native Hawaiian or Other Pacific Islander,Unknown,1,Simple Assault;Robbery,0.0,School/College,Anti-Lesbian,Other,M,S
+1991,University/College,KS,Kansas,1991-04-27,2,0,1,1,0,Asian,Not Specified,2,Aggravated Assault,0.0,Commercial/Office Building,Anti-Protestant,Religious Organization,S,N
+1991,County,CO,Colorado,1991-02-22,1,0,1,1,0,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,1,Arson,0.0,Government/Public Building,Anti-Lesbian,Other,S,S
+1991,County,NM,New Mexico,1991-08-11,1,0,3,2,1,Unknown,Hispanic or Latino,1,Motor Vehicle Theft;Simple Assault,1.0,School/College,Anti-Muslim,Individual,M,N
+1991,State Police,TX,Texas,1991-03-21,0,,3,1,2,Unknown,Hispanic or Latino,1,Murder and Nonnegligent Manslaughter,0.0,Restaurant,Anti-Protestant,Other,S,N
+1991,Tribal,KY,Kentucky,1991-08-03,2,1,1,0,1,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,3,Murder and Nonnegligent Manslaughter;Motor Vehicle Theft,0.0,Bar/Nightclub,Anti-Muslim,Society/Public,M,S
+1992,County,ID,Idaho,1992-08-30,,,3,,3,White,Not Hispanic or Latino,3,Murder and Nonnegligent Manslaughter;Arson,0.0,Church/Synagogue/Temple/Mosque,Anti-Protestant,Government,M,S
+1992,State Police,NH,New Hampshire,1992-11-09,2,1,3,1,2,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,3,Murder and Nonnegligent Manslaughter;Arson,0.0,Bar/Nightclub,Anti-Multiple Religions,Society/Public,M,N
+1992,Federal,CA,California,1992-05-03,1,0,2,0,2,Unknown,Unknown,1,Intimidation,0.0,School/College,Anti-Multiple Religions,Business,S,S
+1992,Federal,HI,Hawaii,1992-08-08,1,1,,3,0,Asian,Not Hispanic or Latino,2,Burglary/Breaking and Entering,0.0,Parking Lot/Garage,Anti-Black or African American,Government,S,S
+1992,County,DE,Delaware,1992-02-23,0,2,1,1,0,Black or African American,Not Specified,2,Robbery,0.0,Commercial/Office Building,Anti-LGBT (Mixed Group),Business,S,S
+1992,City,NV,Nevada,1992-05-17,0,2,1,0,,Asian,Not Hispanic or Latino,2,Simple Assault,0.0,Government/Public Building,Anti-Black or African American,Government,S,S
+1992,County,DE,Delaware,1992-05-14,1,,1,,1,Asian,Not Specified,1,Murder and Nonnegligent Manslaughter;Destruction/Damage/Vandalism of Property,0.0,Bar/Nightclub,Anti-Catholic,Government,M,S
+1992,University/College,NC,North Carolina,1992-05-05,3,0,2,0,2,Native Hawaiian or Other Pacific Islander,Unknown,3,Murder and Nonnegligent Manslaughter;Motor Vehicle Theft,0.0,Church/Synagogue/Temple/Mosque,Anti-Other Religion,Government,M,S
+1992,City,FL,Florida,1992-02-06,0,2,3,2,1,Unknown,Not Specified,2,Simple Assault,0.0,Bar/Nightclub,Anti-Atheist/Agnostic,Society/Public,S,N
+1992,State Police,MS,Mississippi,1992-10-07,1,0,2,0,,Black or African American,Not Hispanic or Latino,1,Burglary/Breaking and Entering,1.0,Parking Lot/Garage,Anti-LGBT (Mixed Group),Individual,S,N
+1992,County,CO,Colorado,1992-07-23,0,2,3,0,,White,Hispanic or Latino,2,Robbery;Destruction/Damage/Vandalism of Property,0.0,Restaurant,Anti-Gay (Male),Religious Organization,M,N
+1992,Federal,WA,Washington,1992-09-15,1,2,1,0,1,White,Hispanic or Latino,3,Aggravated Assault,0.0,Parking Lot/Garage,Anti-Jewish,Law Enforcement Officer,S,N
+1992,City,KY,Kentucky,1992-08-21,0,3,1,,1,Asian,Hispanic or Latino,3,Robbery;Simple Assault,0.0,Church/Synagogue/Temple/Mosque,Anti-Other Religion,Religious Organization,M,N
+1992,City,WY,Wyoming,1992-11-11,0,1,,1,2,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,1,Robbery;Murder and Nonnegligent Manslaughter,1.0,Residence/Home,Anti-Immigrant/Non-Citizen,Individual,M,N
+1992,University/College,NJ,New Jersey,1992-08-26,0,2,1,,,American Indian or Alaska Native,Not Hispanic or Latino,2,Aggravated Assault;Robbery,0.0,Bar/Nightclub,Anti-Native American/Alaska Native,Government,M,N
+1993,County,MS,Mississippi,1993-11-05,1,0,3,2,1,American Indian or Alaska Native,Not Specified,1,Arson,1.0,Residence/Home,Anti-Catholic,Individual,S,N
+1993,City,MA,Massachusetts,1993-06-19,,1,1,,0,Unknown,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,0.0,Commercial/Office Building,Anti-Multiple Religions,Government,S,N
+1993,State Police,AR,Arkansas,1993-02-22,1,2,1,1,0,American Indian or Alaska Native,Unknown,3,Robbery,0.0,Church/Synagogue/Temple/Mosque,Anti-Lesbian,Other,S,S
+1993,City,WA,Washington,1993-01-26,2,0,3,3,0,American Indian or Alaska Native,Not Hispanic or Latino,2,Robbery,0.0,Bar/Nightclub,Anti-Muslim,Business,S,N
+1993,Federal,MT,Montana,1993-05-03,3,0,2,1,1,Unknown,Hispanic or Latino,3,Intimidation,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Protestant,Society/Public,S,N
+1993,County,NV,Nevada,1993-10-08,0,1,1,0,1,Asian,Hispanic or Latino,1,Murder and Nonnegligent Manslaughter;Simple Assault,0.0,Parking Lot/Garage,Anti-Multiple Religions,Other,M,S
+1993,State Police,MO,Missouri,1993-06-23,2,0,1,1,0,White,Unknown,2,Intimidation;Destruction/Damage/Vandalism of Property,0.0,Church/Synagogue/Temple/Mosque,Anti-LGBT (Mixed Group),Law Enforcement Officer,M,S
+1993,University/College,AZ,Arizona,1993-12-30,0,2,2,2,0,Native Hawaiian or Other Pacific Islander,Not Specified,2,Motor Vehicle Theft,0.0,Government/Public Building,Anti-Other Religion,Other,S,N
+1993,Tribal,CO,Colorado,1993-01-21,0,1,1,0,1,Native Hawaiian or Other Pacific Islander,Not Specified,1,Intimidation;Robbery,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,M,S
+1993,Tribal,AL,Alabama,1993-06-04,2,0,2,,1,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,2,Arson,2.0,Bar/Nightclub,Anti-Other Religion,Individual,S,N
+1993,State Police,CO,Colorado,1993-04-27,,2,3,,0,Unknown,Not Specified,2,Aggravated Assault;Burglary/Breaking and Entering,0.0,Parking Lot/Garage,Anti-LGBT (Mixed Group),Business,M,S
+1993,County,MD,Maryland,1993-04-29,1,,2,0,,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,2,Arson,0.0,Church/Synagogue/Temple/Mosque,Anti-Immigrant/Non-Citizen,Law Enforcement Officer,S,S
+1993,County,RI,Rhode Island,1993-08-01,1,0,1,0,1,White,Hispanic or Latino,1,Burglary/Breaking and Entering;Simple Assault,0.0,Parking Lot/Garage,Anti-Protestant,Business,M,N
+1993,University/College,MI,Michigan,1993-03-28,1,0,1,0,,American Indian or Alaska Native,Not Hispanic or Latino,1,Burglary/Breaking and Entering,0.0,Bar/Nightclub,Anti-Protestant,Law Enforcement Officer,S,N
+1993,State Police,IL,Illinois,1993-10-05,1,1,,0,,Black or African American,Not Specified,2,Aggravated Assault;Motor Vehicle Theft,2.0,Residence/Home,Anti-LGBT (Mixed Group),Individual,M,N
+1994,State Police,MS,Mississippi,1994-06-21,2,0,3,0,3,White,Not Hispanic or Latino,2,Robbery;Murder and Nonnegligent Manslaughter,2.0,Residence/Home,Anti-Other Religion,Individual,M,N
+1994,County,NY,New York,1994-09-12,2,,1,0,1,Asian,Unknown,3,Destruction/Damage/Vandalism of Property,0.0,Government/Public Building,Anti-Lesbian,Other,S,S
+1994,City,TN,Tennessee,1994-09-04,1,0,3,2,1,Asian,Not Hispanic or Latino,1,Simple Assault,0.0,Church/Synagogue/Temple/Mosque,Anti-Jewish,Law Enforcement Officer,S,S
+1994,Tribal,WV,West Virginia,1994-12-07,1,1,1,1,0,Unknown,Unknown,2,Burglary/Breaking and Entering;Robbery,0.0,Church/Synagogue/Temple/Mosque,Anti-Native American/Alaska Native,Business,M,S
+1994,State Police,MT,Montana,1994-05-06,,3,3,1,2,White,Not Specified,3,Aggravated Assault;Simple Assault,0.0,Church/Synagogue/Temple/Mosque,Anti-Native American/Alaska Native,Government,M,S
+1994,State Police,CA,California,1994-09-20,2,,1,,0,Unknown,Unknown,3,Simple Assault,0.0,Church/Synagogue/Temple/Mosque,Anti-White,Government,S,S
+1994,State Police,AL,Alabama,1994-07-29,1,0,3,2,1,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Bar/Nightclub,Anti-Immigrant/Non-Citizen,Individual,S,S
+1994,Federal,MT,Montana,1994-05-19,2,1,2,1,1,Unknown,Unknown,3,Aggravated Assault;Robbery,3.0,Restaurant,Anti-Asian,Individual,M,S
+1994,University/College,AL,Alabama,1994-03-22,1,0,2,0,2,Black or African American,Not Hispanic or Latino,1,Arson;Intimidation,0.0,Residence/Home,Anti-Muslim,Religious Organization,M,S
+1994,State Police,GA,Georgia,1994-05-26,,1,1,0,1,Asian,Hispanic or Latino,1,Arson;Destruction/Damage/Vandalism of Property,0.0,Residence/Home,Anti-Immigrant/Non-Citizen,Government,M,S
+1994,County,SD,South Dakota,1994-11-14,1,0,2,2,0,White,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Bar/Nightclub,Anti-Catholic,Law Enforcement Officer,S,S
+1994,State Police,TX,Texas,1994-03-02,2,0,2,,0,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,2,Motor Vehicle Theft;Robbery,0.0,Restaurant,Anti-LGBT (Mixed Group),Religious Organization,M,N
+1994,University/College,KS,Kansas,1994-11-13,1,1,2,,2,Black or African American,Unknown,2,Simple Assault,2.0,Restaurant,Anti-Lesbian,Individual,S,N
+1994,Federal,WY,Wyoming,1994-09-19,3,0,1,0,1,White,Not Hispanic or Latino,3,Aggravated Assault,0.0,Church/Synagogue/Temple/Mosque,Anti-Muslim,Law Enforcement Officer,S,S
+1994,State Police,CA,California,1994-11-09,2,0,,0,2,Asian,Not Specified,2,Arson;Intimidation,0.0,Church/Synagogue/Temple/Mosque,Anti-Multiple Religions,Society/Public,M,N
+1995,State Police,UT,Utah,1995-07-12,0,1,1,1,0,Asian,Not Specified,1,Arson;Simple Assault,0.0,Parking Lot/Garage,Anti-Multiple Religions,Law Enforcement Officer,M,S
+1995,Federal,SC,South Carolina,1995-01-25,1,1,2,2,0,Black or African American,Hispanic or Latino,2,Aggravated Assault;Murder and Nonnegligent Manslaughter,0.0,Commercial/Office Building,Anti-Asian,Law Enforcement Officer,M,S
+1995,City,AR,Arkansas,1995-10-18,1,0,2,1,1,Native Hawaiian or Other Pacific Islander,Unknown,1,Motor Vehicle Theft,0.0,School/College,Anti-Protestant,Government,S,S
+1995,City,NH,New Hampshire,1995-02-02,2,1,,,,White,Unknown,3,Robbery;Aggravated Assault,0.0,Government/Public Building,Anti-Other Race/Ethnicity/Ancestry,Religious Organization,M,S
+1995,County,KS,Kansas,1995-01-30,,2,1,0,1,Black or African American,Not Specified,3,Motor Vehicle Theft,0.0,School/College,Anti-Other Race/Ethnicity/Ancestry,Government,S,S
+1995,University/College,MO,Missouri,1995-08-27,0,1,1,,0,Black or African American,Not Hispanic or Latino,1,Robbery,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Religious Organization,S,N
+1995,Tribal,UT,Utah,1995-05-16,0,1,2,2,0,Asian,Hispanic or Latino,1,Intimidation,0.0,Church/Synagogue/Temple/Mosque,Anti-Catholic,Religious Organization,S,N
+1995,Tribal,NM,New Mexico,1995-12-24,,0,1,0,1,Black or African American,Not Specified,2,Robbery,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Catholic,Business,S,S
+1995,City,AK,Alaska,1995-03-12,0,3,3,0,3,Native Hawaiian or Other Pacific Islander,Unknown,3,Simple Assault,0.0,Church/Synagogue/Temple/Mosque,Anti-Hispanic or Latino,Other,S,S
+1995,Federal,AZ,Arizona,1995-02-14,0,,3,2,1,Unknown,Hispanic or Latino,2,Simple Assault,0.0,Commercial/Office Building,Anti-Gay (Male),Government,S,N
+1995,Tribal,MA,Massachusetts,1995-09-15,,3,2,1,1,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,3,Aggravated Assault;Motor Vehicle Theft,0.0,Parking Lot/Garage,Anti-Immigrant/Non-Citizen,Religious Organization,M,N
+1995,University/College,HI,Hawaii,1995-01-01,0,2,3,1,2,American Indian or Alaska Native,Not Hispanic or Latino,2,Burglary/Breaking and Entering,0.0,Government/Public Building,Anti-Catholic,Law Enforcement Officer,S,S
+1995,County,VT,Vermont,1995-09-13,0,3,1,0,1,Unknown,Unknown,3,Murder and Nonnegligent Manslaughter;Simple Assault,0.0,Parking Lot/Garage,Anti-Jewish,Law Enforcement Officer,M,N
+1995,State Police,IN,Indiana,1995-05-15,1,2,2,2,0,Black or African American,Not Hispanic or Latino,3,Destruction/Damage/Vandalism of Property;Arson,0.0,Parking Lot/Garage,Anti-Gay (Male),Society/Public,M,N
+1995,State Police,VT,Vermont,1995-10-24,1,1,1,0,1,Black or African American,Unknown,2,Murder and Nonnegligent Manslaughter,0.0,Commercial/Office Building,Anti-Muslim,Religious Organization,S,N
+1996,State Police,IL,Illinois,1996-02-22,1,0,1,0,1,Asian,Unknown,1,Intimidation,0.0,Restaurant,Anti-Multiple Religions,Business,S,S
+1996,University/College,MT,Montana,1996-12-21,0,2,1,1,0,Native Hawaiian or Other Pacific Islander,Not Specified,2,Robbery,0.0,Residence/Home,Anti-Other Religion,Other,S,S
+1996,County,UT,Utah,1996-11-24,1,1,1,1,0,Black or African American,Not Specified,2,Simple Assault;Motor Vehicle Theft,0.0,School/College,Anti-Multiple Religions,Other,M,S
+1996,State Police,TN,Tennessee,1996-01-06,0,1,2,1,,Black or African American,Hispanic or Latino,1,Murder and Nonnegligent Manslaughter;Destruction/Damage/Vandalism of Property,1.0,Bar/Nightclub,Anti-Lesbian,Individual,M,N
+1996,State Police,ND,North Dakota,1996-07-29,0,,,3,0,Unknown,Unknown,1,Murder and Nonnegligent Manslaughter;Simple Assault,0.0,Residence/Home,Anti-Multiple Religions,Government,M,N
+1996,State Police,PA,Pennsylvania,1996-02-25,,0,1,1,0,American Indian or Alaska Native,Hispanic or Latino,3,Motor Vehicle Theft,0.0,School/College,Anti-Muslim,Other,S,S
+1996,Federal,MN,Minnesota,1996-11-23,2,0,2,,1,Asian,Hispanic or Latino,2,Arson,0.0,Commercial/Office Building,Anti-LGBT (Mixed Group),Religious Organization,S,N
+1996,County,MN,Minnesota,1996-12-01,1,1,2,1,1,Black or African American,Unknown,2,Simple Assault;Burglary/Breaking and Entering,2.0,Restaurant,Anti-White,Individual,M,S
+1996,City,TX,Texas,1996-04-17,2,0,1,1,0,Black or African American,Hispanic or Latino,2,Intimidation,0.0,Government/Public Building,Anti-Lesbian,Other,S,S
+1996,Tribal,TX,Texas,1996-11-21,2,0,2,0,2,White,Not Specified,2,Murder and Nonnegligent Manslaughter,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Government,S,S
+1996,University/College,VT,Vermont,1996-05-06,0,3,2,0,2,American Indian or Alaska Native,Not Specified,3,Burglary/Breaking and Entering,0.0,Commercial/Office Building,Anti-Native American/Alaska Native,Government,S,S
+1996,Tribal,AK,Alaska,1996-01-24,1,0,3,2,1,Black or African American,Not Specified,1,Intimidation;Aggravated Assault,1.0,School/College,Anti-Gay (Male),Individual,M,S
+1996,University/College,ME,Maine,1996-06-24,0,3,2,1,1,American Indian or Alaska Native,Not Specified,3,Robbery;Burglary/Breaking and Entering,0.0,Parking Lot/Garage,Anti-Other Race/Ethnicity/Ancestry,Government,M,S
+1996,Federal,MA,Massachusetts,1996-06-02,1,0,1,0,1,American Indian or Alaska Native,Unknown,1,Murder and Nonnegligent Manslaughter;Aggravated Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Individual,M,N
+1996,County,SC,South Carolina,1996-11-16,0,1,,0,3,Unknown,Hispanic or Latino,1,Intimidation;Simple Assault,0.0,Residence/Home,Anti-Asian,Other,M,N
+1997,Federal,OK,Oklahoma,1997-05-13,0,2,2,0,2,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,2,Aggravated Assault;Motor Vehicle Theft,2.0,Government/Public Building,Anti-Other Race/Ethnicity/Ancestry,Individual,M,S
+1997,Federal,AL,Alabama,1997-07-18,,,3,1,2,Unknown,Not Specified,2,Simple Assault,0.0,Church/Synagogue/Temple/Mosque,Anti-Muslim,Religious Organization,S,S
+1997,City,IN,Indiana,1997-03-08,2,0,2,0,2,Unknown,Hispanic or Latino,2,Arson,0.0,Residence/Home,Anti-Lesbian,Other,S,N
+1997,Federal,NJ,New Jersey,1997-05-11,0,1,1,0,1,American Indian or Alaska Native,Unknown,1,Simple Assault,0.0,Commercial/Office Building,Anti-Catholic,Other,S,N
+1997,County,UT,Utah,1997-03-16,,2,1,1,0,American Indian or Alaska Native,Unknown,3,Arson;Motor Vehicle Theft,0.0,Parking Lot/Garage,Anti-Atheist/Agnostic,Government,M,S
+1997,Tribal,GA,Georgia,1997-06-08,1,0,3,3,0,American Indian or Alaska Native,Unknown,1,Motor Vehicle Theft;Destruction/Damage/Vandalism of Property,0.0,Residence/Home,Anti-Gay (Male),Government,M,N
+1997,Tribal,GA,Georgia,1997-03-17,3,0,2,2,0,Native Hawaiian or Other Pacific Islander,Not Specified,3,Murder and Nonnegligent Manslaughter;Simple Assault,0.0,Restaurant,Anti-Protestant,Other,M,N
+1997,County,VA,Virginia,1997-05-11,1,1,3,0,3,Asian,Not Hispanic or Latino,2,Murder and Nonnegligent Manslaughter,0.0,Church/Synagogue/Temple/Mosque,Anti-LGBT (Mixed Group),Society/Public,S,S
+1997,County,IL,Illinois,1997-04-09,2,1,1,0,1,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,3,Burglary/Breaking and Entering;Motor Vehicle Theft,0.0,Church/Synagogue/Temple/Mosque,Anti-White,Law Enforcement Officer,M,S
+1997,State Police,MN,Minnesota,1997-09-23,,1,3,0,3,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,1,Arson,0.0,Commercial/Office Building,Anti-Multiple Religions,Law Enforcement Officer,S,S
+1997,County,MI,Michigan,1997-04-03,0,1,2,0,2,Asian,Not Specified,1,Murder and Nonnegligent Manslaughter,0.0,Government/Public Building,Anti-Hispanic or Latino,Other,S,S
+1997,City,TN,Tennessee,1997-12-09,1,,3,,0,Black or African American,Hispanic or Latino,1,Burglary/Breaking and Entering,0.0,School/College,Anti-White,Government,S,N
+1997,Tribal,DC,District of Columbia,1997-12-30,0,1,3,3,0,White,Hispanic or Latino,1,Burglary/Breaking and Entering,0.0,Commercial/Office Building,Anti-Native American/Alaska Native,Other,S,N
+1997,University/College,HI,Hawaii,1997-05-03,2,0,,0,1,Black or African American,Hispanic or Latino,2,Aggravated Assault,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Lesbian,Religious Organization,S,S
+1997,State Police,NH,New Hampshire,1997-06-15,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Burglary/Breaking and Entering,0.0,School/College,Anti-Native American/Alaska Native,Society/Public,S,S
+1998,Tribal,LA,Louisiana,1998-06-01,,1,2,0,2,American Indian or Alaska Native,Not Specified,2,Burglary/Breaking and Entering,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Muslim,Society/Public,S,N
+1998,State Police,DE,Delaware,1998-04-14,0,2,2,1,1,American Indian or Alaska Native,Unknown,2,Simple Assault,2.0,Restaurant,Anti-Catholic,Individual,S,N
+1998,County,NC,North Carolina,1998-08-15,1,0,1,1,,Black or African American,Unknown,1,Aggravated Assault;Motor Vehicle Theft,0.0,School/College,Anti-Muslim,Other,M,S
+1998,Federal,RI,Rhode Island,1998-09-11,0,1,2,0,2,Black or African American,Not Hispanic or Latino,1,Robbery,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Other Race/Ethnicity/Ancestry,Law Enforcement Officer,S,N
+1998,City,CO,Colorado,1998-07-29,2,1,,0,2,Native Hawaiian or Other Pacific Islander,Unknown,3,Intimidation,0.0,Residence/Home,Anti-Catholic,Religious Organization,S,S
+1998,State Police,DE,Delaware,1998-05-06,2,0,,2,0,White,Not Specified,2,Robbery,2.0,Government/Public Building,Anti-Other Race/Ethnicity/Ancestry,Individual,S,S
+1998,City,HI,Hawaii,1998-06-09,0,1,2,2,,Asian,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,0.0,Government/Public Building,Anti-Other Race/Ethnicity/Ancestry,Business,S,S
+1998,University/College,NJ,New Jersey,1998-10-27,0,1,3,2,1,Black or African American,Hispanic or Latino,1,Motor Vehicle Theft,0.0,Church/Synagogue/Temple/Mosque,Anti-Muslim,Religious Organization,S,N
+1998,University/College,VT,Vermont,1998-11-02,0,2,3,0,3,Black or African American,Unknown,2,Burglary/Breaking and Entering;Motor Vehicle Theft,0.0,Restaurant,Anti-Gay (Male),Other,M,N
+1998,University/College,KS,Kansas,1998-12-06,,2,3,0,3,Asian,Not Specified,2,Simple Assault,0.0,Church/Synagogue/Temple/Mosque,Anti-Other Race/Ethnicity/Ancestry,Religious Organization,S,S
+1998,City,AZ,Arizona,1998-11-25,2,,3,2,1,Asian,Not Hispanic or Latino,3,Simple Assault,0.0,Bar/Nightclub,Anti-Black or African American,Law Enforcement Officer,S,S
+1998,Tribal,RI,Rhode Island,1998-05-18,1,2,1,1,0,Asian,Not Specified,3,Simple Assault;Intimidation,0.0,Commercial/Office Building,Anti-Multiple Religions,Business,M,S
+1998,University/College,TN,Tennessee,1998-04-14,2,0,3,2,1,Asian,Not Hispanic or Latino,2,Arson;Murder and Nonnegligent Manslaughter,0.0,Church/Synagogue/Temple/Mosque,Anti-Gay (Male),Business,M,S
+1998,State Police,KS,Kansas,1998-10-13,1,1,,1,1,White,Not Hispanic or Latino,2,Robbery,0.0,School/College,Anti-Hispanic or Latino,Society/Public,S,S
+1998,County,ND,North Dakota,1998-12-13,1,1,3,1,2,Native Hawaiian or Other Pacific Islander,Unknown,2,Intimidation;Destruction/Damage/Vandalism of Property,0.0,Bar/Nightclub,Anti-Jewish,Religious Organization,M,S
+1999,City,NE,Nebraska,1999-01-03,0,3,2,2,0,American Indian or Alaska Native,Unknown,3,Motor Vehicle Theft;Intimidation,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-LGBT (Mixed Group),Other,M,N
+1999,State Police,TN,Tennessee,1999-01-04,1,1,3,3,0,Black or African American,Not Specified,2,Intimidation;Robbery,2.0,Restaurant,Anti-Other Religion,Individual,M,N
+1999,University/College,IN,Indiana,1999-01-06,2,0,1,0,1,Native Hawaiian or Other Pacific Islander,Not Specified,2,Robbery;Murder and Nonnegligent Manslaughter,0.0,Bar/Nightclub,Anti-Other Race/Ethnicity/Ancestry,Religious Organization,M,S
+1999,City,UT,Utah,1999-09-26,1,1,1,0,1,Black or African American,Not Specified,2,Murder and Nonnegligent Manslaughter;Intimidation,0.0,Government/Public Building,Anti-LGBT (Mixed Group),Law Enforcement Officer,M,S
+1999,State Police,HI,Hawaii,1999-06-12,2,0,2,0,2,Unknown,Unknown,2,Simple Assault,0.0,Parking Lot/Garage,Anti-Other Race/Ethnicity/Ancestry,Law Enforcement Officer,S,N
+1999,City,ID,Idaho,1999-11-19,2,,,,3,White,Not Hispanic or Latino,2,Motor Vehicle Theft,0.0,Commercial/Office Building,Anti-Black or African American,Government,S,N
+1999,Tribal,TN,Tennessee,1999-09-21,2,0,1,0,1,Black or African American,Not Hispanic or Latino,2,Intimidation,2.0,Residence/Home,Anti-Jewish,Individual,S,S
+1999,City,TN,Tennessee,1999-12-17,0,1,,2,1,White,Unknown,1,Robbery;Intimidation,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Government,M,S
+1999,City,NH,New Hampshire,1999-11-14,0,1,1,0,1,Asian,Not Hispanic or Latino,1,Intimidation,0.0,Government/Public Building,Anti-Atheist/Agnostic,Law Enforcement Officer,S,N
+1999,Federal,UT,Utah,1999-10-27,1,1,1,1,0,White,Hispanic or Latino,2,Aggravated Assault;Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Lesbian,Law Enforcement Officer,M,N
+1999,University/College,MI,Michigan,1999-11-30,1,1,,0,1,Black or African American,Not Specified,2,Motor Vehicle Theft,0.0,Commercial/Office Building,Anti-Lesbian,Business,S,S
+1999,County,CO,Colorado,1999-05-19,3,0,3,1,2,Asian,Unknown,3,Destruction/Damage/Vandalism of Property;Intimidation,0.0,Church/Synagogue/Temple/Mosque,Anti-LGBT (Mixed Group),Law Enforcement Officer,M,N
+1999,County,UT,Utah,1999-12-28,2,0,2,2,0,American Indian or Alaska Native,Hispanic or Latino,2,Murder and Nonnegligent Manslaughter;Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Jewish,Religious Organization,M,S
+1999,City,MD,Maryland,1999-07-19,1,2,,0,3,Black or African American,Not Hispanic or Latino,3,Burglary/Breaking and Entering,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Lesbian,Other,S,S
+1999,University/College,VA,Virginia,1999-05-25,,0,2,1,1,Black or African American,Not Hispanic or Latino,2,Robbery,0.0,Parking Lot/Garage,Anti-Lesbian,Law Enforcement Officer,S,S
+2000,State Police,ID,Idaho,2000-02-28,1,2,,2,0,White,Hispanic or Latino,3,Motor Vehicle Theft,0.0,Restaurant,Anti-Protestant,Other,S,S
+2000,County,OR,Oregon,2000-10-18,2,,2,2,0,White,Unknown,3,Burglary/Breaking and Entering;Aggravated Assault,0.0,Residence/Home,Anti-White,Business,M,S
+2000,Federal,NE,Nebraska,2000-07-20,2,0,3,1,2,American Indian or Alaska Native,Not Specified,2,Burglary/Breaking and Entering,0.0,Parking Lot/Garage,Anti-Other Race/Ethnicity/Ancestry,Religious Organization,S,S
+2000,Federal,NV,Nevada,2000-09-19,0,1,1,,0,Unknown,Hispanic or Latino,1,Intimidation;Murder and Nonnegligent Manslaughter,0.0,Bar/Nightclub,Anti-Multiple Religions,Business,M,S
+2000,Federal,FL,Florida,2000-12-27,0,2,2,2,0,Native Hawaiian or Other Pacific Islander,Not Specified,2,Aggravated Assault,0.0,School/College,Anti-Lesbian,Religious Organization,S,S
+2000,University/College,OK,Oklahoma,2000-03-27,3,,3,1,2,Unknown,Unknown,3,Destruction/Damage/Vandalism of Property;Simple Assault,0.0,Residence/Home,Anti-Lesbian,Law Enforcement Officer,M,N
+2000,County,DE,Delaware,2000-06-15,2,1,2,1,1,White,Not Hispanic or Latino,3,Intimidation;Simple Assault,3.0,Government/Public Building,Anti-Immigrant/Non-Citizen,Individual,M,N
+2000,County,NY,New York,2000-10-05,0,2,2,0,2,White,Hispanic or Latino,2,Robbery;Destruction/Damage/Vandalism of Property,0.0,Residence/Home,Anti-Black or African American,Other,M,S
+2000,Federal,CT,Connecticut,2000-06-07,0,2,,2,1,Asian,Hispanic or Latino,2,Burglary/Breaking and Entering;Destruction/Damage/Vandalism of Property,0.0,Bar/Nightclub,Anti-Lesbian,Other,M,N
+2000,County,AR,Arkansas,2000-09-10,1,2,2,1,1,Unknown,Hispanic or Latino,3,Simple Assault;Intimidation,0.0,School/College,Anti-Muslim,Law Enforcement Officer,M,S
+2000,State Police,WA,Washington,2000-01-02,,0,1,1,0,Native Hawaiian or Other Pacific Islander,Not Specified,1,Aggravated Assault,0.0,Parking Lot/Garage,Anti-Hispanic or Latino,Law Enforcement Officer,S,S
+2000,Tribal,NH,New Hampshire,2000-12-11,1,0,2,,0,Asian,Not Specified,1,Murder and Nonnegligent Manslaughter,0.0,Restaurant,Anti-Muslim,Law Enforcement Officer,S,N
+2000,Tribal,OR,Oregon,2000-08-03,1,2,2,1,1,Black or African American,Hispanic or Latino,3,Burglary/Breaking and Entering;Aggravated Assault,0.0,Government/Public Building,Anti-Hispanic or Latino,Business,M,N
+2000,State Police,MT,Montana,2000-02-28,0,1,1,0,1,Unknown,Not Hispanic or Latino,1,Robbery,0.0,Church/Synagogue/Temple/Mosque,Anti-Other Race/Ethnicity/Ancestry,Religious Organization,S,S
+2000,Tribal,WV,West Virginia,2000-10-28,2,0,3,0,3,Black or African American,Not Hispanic or Latino,2,Arson,0.0,Bar/Nightclub,Anti-Jewish,Law Enforcement Officer,S,S
+2000,State Police,FL,Florida,2000-11-12,0,1,1,1,0,Unknown,Hispanic or Latino,1,Aggravated Assault;Murder and Nonnegligent Manslaughter,1.0,Government/Public Building,Anti-Atheist/Agnostic,Individual,M,S
+2000,State Police,WA,Washington,2000-03-27,2,0,2,2,0,White,Hispanic or Latino,2,Robbery,0.0,Parking Lot/Garage,Anti-Other Race/Ethnicity/Ancestry,Religious Organization,S,N
+2000,State Police,OK,Oklahoma,2000-11-04,1,2,,0,1,Unknown,Not Specified,3,Burglary/Breaking and Entering;Destruction/Damage/Vandalism of Property,3.0,Residence/Home,Anti-Native American/Alaska Native,Individual,M,N
+2000,Federal,UT,Utah,2000-07-13,2,1,,1,0,Asian,Hispanic or Latino,3,Aggravated Assault;Murder and Nonnegligent Manslaughter,0.0,Government/Public Building,Anti-Other Race/Ethnicity/Ancestry,Law Enforcement Officer,M,N
+2000,County,NM,New Mexico,2000-12-20,0,1,2,1,1,Asian,Hispanic or Latino,1,Burglary/Breaking and Entering;Destruction/Damage/Vandalism of Property,0.0,Residence/Home,Anti-Protestant,Business,M,N
+2000,State Police,AL,Alabama,2000-10-23,0,,2,1,1,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,1,Arson,0.0,School/College,Anti-Muslim,Government,S,S
+2000,City,VT,Vermont,2000-10-14,2,0,1,0,1,Asian,Hispanic or Latino,2,Burglary/Breaking and Entering,0.0,School/College,Anti-Hispanic or Latino,Government,S,N
+2000,City,MI,Michigan,2000-12-26,1,1,2,2,0,Asian,Hispanic or Latino,2,Destruction/Damage/Vandalism of Property;Murder and Nonnegligent Manslaughter,2.0,School/College,Anti-Protestant,Individual,M,S
+2000,City,PA,Pennsylvania,2000-03-14,1,1,2,2,0,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,2,Simple Assault;Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Atheist/Agnostic,Society/Public,M,S
+2000,State Police,NY,New York,2000-03-30,0,3,2,1,,Black or African American,Not Hispanic or Latino,3,Robbery,0.0,Church/Synagogue/Temple/Mosque,Anti-White,Law Enforcement Officer,S,S
+2001,City,WA,Washington,2001-03-08,0,,3,0,,Black or African American,Unknown,1,Intimidation;Aggravated Assault,0.0,Bar/Nightclub,Anti-Black or African American,Religious Organization,M,N
+2001,Tribal,MT,Montana,2001-12-14,1,0,,0,2,Unknown,Unknown,1,Simple Assault,0.0,Government/Public Building,Anti-LGBT (Mixed Group),Government,S,N
+2001,University/College,AR,Arkansas,2001-11-11,0,1,3,2,1,Black or African American,Hispanic or Latino,1,Intimidation,0.0,Bar/Nightclub,Anti-Hispanic or Latino,Government,S,N
+2001,Federal,IA,Iowa,2001-11-13,0,2,,2,0,Native Hawaiian or Other Pacific Islander,Unknown,2,Murder and Nonnegligent Manslaughter;Arson,0.0,Parking Lot/Garage,Anti-Other Race/Ethnicity/Ancestry,Society/Public,M,N
+2001,Federal,GA,Georgia,2001-04-27,0,1,2,0,2,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,1,Aggravated Assault,0.0,Bar/Nightclub,Anti-Catholic,Government,S,S
+2001,City,ND,North Dakota,2001-06-29,1,1,3,,2,American Indian or Alaska Native,Not Specified,2,Burglary/Breaking and Entering,0.0,Church/Synagogue/Temple/Mosque,Anti-Gay (Male),Other,S,N
+2001,State Police,UT,Utah,2001-01-31,1,1,1,1,0,Asian,Not Hispanic or Latino,2,Aggravated Assault,0.0,Commercial/Office Building,Anti-Asian,Business,S,N
+2001,Tribal,IN,Indiana,2001-03-22,1,0,2,1,1,White,Not Specified,1,Simple Assault;Burglary/Breaking and Entering,0.0,Church/Synagogue/Temple/Mosque,Anti-Catholic,Government,M,S
+2001,State Police,WV,West Virginia,2001-01-24,0,2,2,0,2,Black or African American,Not Hispanic or Latino,2,Aggravated Assault;Simple Assault,0.0,School/College,Anti-Atheist/Agnostic,Business,M,N
+2001,Federal,MI,Michigan,2001-12-07,0,2,3,3,,Unknown,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,0.0,Residence/Home,Anti-Muslim,Society/Public,S,N
+2001,City,CA,California,2001-03-03,3,0,2,,2,Black or African American,Hispanic or Latino,3,Intimidation,3.0,Bar/Nightclub,Anti-Other Race/Ethnicity/Ancestry,Individual,S,S
+2001,City,WA,Washington,2001-05-20,,0,3,1,2,Black or African American,Not Hispanic or Latino,1,Simple Assault;Aggravated Assault,0.0,Restaurant,Anti-Lesbian,Government,M,N
+2001,Federal,WV,West Virginia,2001-05-18,,0,2,1,1,American Indian or Alaska Native,Not Specified,2,Motor Vehicle Theft;Intimidation,0.0,Restaurant,Anti-Muslim,Religious Organization,M,N
+2001,County,KS,Kansas,2001-12-06,0,,1,0,1,Unknown,Unknown,3,Motor Vehicle Theft,0.0,Government/Public Building,Anti-Gay (Male),Law Enforcement Officer,S,N
+2001,Federal,KS,Kansas,2001-07-13,1,0,2,2,0,Unknown,Hispanic or Latino,1,Burglary/Breaking and Entering;Simple Assault,0.0,Commercial/Office Building,Anti-Multiple Religions,Other,M,S
+2001,Tribal,CA,California,2001-07-06,1,2,3,1,2,Black or African American,Not Specified,3,Destruction/Damage/Vandalism of Property;Intimidation,0.0,School/College,Anti-White,Government,M,N
+2001,City,MO,Missouri,2001-07-06,2,1,2,2,,American Indian or Alaska Native,Unknown,3,Simple Assault;Robbery,0.0,Government/Public Building,Anti-Jewish,Law Enforcement Officer,M,S
+2001,University/College,MS,Mississippi,2001-09-24,2,1,3,1,2,White,Hispanic or Latino,3,Motor Vehicle Theft;Robbery,3.0,Residence/Home,Anti-Multiple Religions,Individual,M,N
+2001,City,NH,New Hampshire,2001-09-26,0,1,3,3,0,Asian,Unknown,1,Motor Vehicle Theft,0.0,Residence/Home,Anti-Native American/Alaska Native,Law Enforcement Officer,S,N
+2001,County,MN,Minnesota,2001-07-17,1,2,3,1,2,Asian,Not Hispanic or Latino,3,Simple Assault;Destruction/Damage/Vandalism of Property,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Native American/Alaska Native,Law Enforcement Officer,M,S
+2001,Tribal,PA,Pennsylvania,2001-08-25,1,,2,2,0,American Indian or Alaska Native,Not Specified,2,Intimidation;Simple Assault,0.0,Government/Public Building,Anti-Muslim,Society/Public,M,N
+2001,State Police,OK,Oklahoma,2001-07-18,0,1,2,0,2,White,Not Specified,1,Aggravated Assault,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Protestant,Society/Public,S,N
+2001,County,PA,Pennsylvania,2001-07-28,1,1,1,0,1,White,Hispanic or Latino,2,Murder and Nonnegligent Manslaughter,0.0,Bar/Nightclub,Anti-Multiple Religions,Society/Public,S,N
+2001,City,UT,Utah,2001-06-07,1,1,2,0,2,Black or African American,Not Hispanic or Latino,2,Robbery;Destruction/Damage/Vandalism of Property,0.0,Church/Synagogue/Temple/Mosque,Anti-Lesbian,Law Enforcement Officer,M,N
+2001,Tribal,VA,Virginia,2001-12-06,0,1,1,1,0,Asian,Hispanic or Latino,1,Burglary/Breaking and Entering;Aggravated Assault,0.0,Government/Public Building,Anti-Atheist/Agnostic,Business,M,N
+2002,County,IN,Indiana,2002-01-30,0,3,1,1,0,White,Not Specified,3,Intimidation,0.0,School/College,Anti-Black or African American,Religious Organization,S,N
+2002,Tribal,IN,Indiana,2002-03-23,0,3,1,0,1,White,Not Hispanic or Latino,3,Simple Assault;Destruction/Damage/Vandalism of Property,0.0,Restaurant,Anti-Other Religion,Religious Organization,M,S
+2002,County,AZ,Arizona,2002-08-17,2,1,2,0,2,Asian,Unknown,3,Robbery,0.0,Bar/Nightclub,Anti-Protestant,Business,S,S
+2002,State Police,TN,Tennessee,2002-04-25,1,0,3,0,3,American Indian or Alaska Native,Unknown,1,Intimidation,1.0,Restaurant,Anti-Jewish,Individual,S,S
+2002,University/College,ME,Maine,2002-06-28,0,1,1,1,0,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,1,Robbery;Murder and Nonnegligent Manslaughter,0.0,Church/Synagogue/Temple/Mosque,Anti-Muslim,Law Enforcement Officer,M,S
+2002,Tribal,PA,Pennsylvania,2002-02-21,0,1,1,1,0,Asian,Unknown,1,Aggravated Assault;Intimidation,0.0,Government/Public Building,Anti-Immigrant/Non-Citizen,Business,M,N
+2002,Federal,CT,Connecticut,2002-10-10,3,0,1,0,1,White,Not Hispanic or Latino,3,Aggravated Assault;Murder and Nonnegligent Manslaughter,0.0,Restaurant,Anti-Muslim,Law Enforcement Officer,M,S
+2002,City,TX,Texas,2002-06-19,0,2,1,1,0,Black or African American,Not Hispanic or Latino,2,Simple Assault;Murder and Nonnegligent Manslaughter,0.0,School/College,Anti-Immigrant/Non-Citizen,Government,M,N
+2002,County,MS,Mississippi,2002-05-26,0,1,2,2,0,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,1,Murder and Nonnegligent Manslaughter,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Individual,S,S
+2002,County,CO,Colorado,2002-03-20,1,1,2,0,2,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,2,Robbery,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Protestant,Business,S,S
+2002,State Police,RI,Rhode Island,2002-02-20,1,,1,0,1,American Indian or Alaska Native,Hispanic or Latino,3,Burglary/Breaking and Entering;Simple Assault,0.0,Residence/Home,Anti-Gay (Male),Law Enforcement Officer,M,S
+2002,State Police,GA,Georgia,2002-03-13,1,,1,,1,American Indian or Alaska Native,Not Hispanic or Latino,1,Aggravated Assault,0.0,Government/Public Building,Anti-Other Race/Ethnicity/Ancestry,Other,S,S
+2002,University/College,MS,Mississippi,2002-02-17,1,2,3,2,1,Asian,Unknown,3,Arson;Intimidation,0.0,Residence/Home,Anti-Native American/Alaska Native,Other,M,N
+2002,Tribal,WV,West Virginia,2002-09-30,1,0,3,,3,Black or African American,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Bar/Nightclub,Anti-Other Religion,Law Enforcement Officer,S,N
+2002,Federal,DC,District of Columbia,2002-12-16,0,,2,1,1,Unknown,Not Specified,2,Burglary/Breaking and Entering,0.0,Commercial/Office Building,Anti-Black or African American,Government,S,N
+2002,County,NJ,New Jersey,2002-06-21,1,0,3,1,2,Asian,Unknown,1,Arson;Aggravated Assault,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Multiple Religions,Business,M,S
+2002,County,MO,Missouri,2002-07-19,1,0,2,1,1,Asian,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Commercial/Office Building,Anti-Immigrant/Non-Citizen,Government,S,S
+2002,Tribal,MT,Montana,2002-01-05,0,1,1,0,,Unknown,Not Hispanic or Latino,1,Robbery;Burglary/Breaking and Entering,0.0,Bar/Nightclub,Anti-Other Race/Ethnicity/Ancestry,Religious Organization,M,N
+2002,State Police,NH,New Hampshire,2002-06-01,3,0,2,1,1,American Indian or Alaska Native,Unknown,3,Arson,0.0,Residence/Home,Anti-White,Other,S,S
+2002,Tribal,WA,Washington,2002-08-23,0,2,1,1,0,Black or African American,Hispanic or Latino,2,Robbery,0.0,Bar/Nightclub,Anti-White,Law Enforcement Officer,S,S
+2002,Tribal,NE,Nebraska,2002-07-28,3,0,3,0,,Asian,Hispanic or Latino,3,Burglary/Breaking and Entering;Robbery,0.0,Government/Public Building,Anti-White,Other,M,N
+2002,Tribal,WV,West Virginia,2002-03-29,1,0,3,2,1,Asian,Unknown,1,Burglary/Breaking and Entering;Intimidation,0.0,Government/Public Building,Anti-Protestant,Society/Public,M,N
+2002,University/College,DC,District of Columbia,2002-05-17,3,0,1,0,1,White,Hispanic or Latino,3,Intimidation;Burglary/Breaking and Entering,0.0,Commercial/Office Building,Anti-Immigrant/Non-Citizen,Religious Organization,M,N
+2002,State Police,ND,North Dakota,2002-11-19,0,2,1,,0,Unknown,Unknown,2,Murder and Nonnegligent Manslaughter,0.0,Parking Lot/Garage,Anti-Lesbian,Government,S,N
+2002,City,VA,Virginia,2002-06-07,0,3,1,0,1,American Indian or Alaska Native,Not Specified,3,Motor Vehicle Theft;Burglary/Breaking and Entering,0.0,Government/Public Building,Anti-Gay (Male),Government,M,N
+2003,County,FL,Florida,2003-06-23,0,2,3,0,3,Native Hawaiian or Other Pacific Islander,Not Specified,2,Destruction/Damage/Vandalism of Property,0.0,Restaurant,Anti-Protestant,Society/Public,S,S
+2003,County,TX,Texas,2003-09-14,1,0,1,1,0,Native Hawaiian or Other Pacific Islander,Unknown,1,Intimidation;Motor Vehicle Theft,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Other Race/Ethnicity/Ancestry,Government,M,S
+2003,City,MS,Mississippi,2003-12-25,,0,3,0,,American Indian or Alaska Native,Hispanic or Latino,1,Aggravated Assault,0.0,Government/Public Building,Anti-Multiple Religions,Society/Public,S,N
+2003,University/College,DE,Delaware,2003-04-25,1,,2,2,,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,0.0,Commercial/Office Building,Anti-Black or African American,Business,S,N
+2003,City,WA,Washington,2003-10-27,2,0,1,1,0,Asian,Unknown,2,Destruction/Damage/Vandalism of Property;Aggravated Assault,0.0,Commercial/Office Building,Anti-Hispanic or Latino,Religious Organization,M,N
+2003,State Police,IL,Illinois,2003-11-12,0,2,1,0,1,Unknown,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property;Simple Assault,0.0,Government/Public Building,Anti-Protestant,Other,M,N
+2003,City,WV,West Virginia,2003-11-10,1,0,3,0,,White,Unknown,1,Motor Vehicle Theft,0.0,Bar/Nightclub,Anti-Lesbian,Religious Organization,S,S
+2003,State Police,VT,Vermont,2003-08-04,1,0,1,1,0,Asian,Not Specified,1,Intimidation,0.0,Government/Public Building,Anti-Hispanic or Latino,Government,S,N
+2003,University/College,NC,North Carolina,2003-04-18,0,3,2,1,1,Native Hawaiian or Other Pacific Islander,Not Specified,3,Robbery,0.0,Restaurant,Anti-Catholic,Other,S,N
+2003,City,AK,Alaska,2003-02-14,0,1,2,0,2,American Indian or Alaska Native,Hispanic or Latino,1,Burglary/Breaking and Entering;Arson,0.0,Residence/Home,Anti-Other Religion,Business,M,S
+2003,University/College,NH,New Hampshire,2003-10-20,0,1,3,,0,Unknown,Hispanic or Latino,1,Intimidation;Motor Vehicle Theft,0.0,Government/Public Building,Anti-Immigrant/Non-Citizen,Society/Public,M,S
+2003,University/College,AL,Alabama,2003-10-17,0,3,3,1,,Black or African American,Not Hispanic or Latino,3,Simple Assault,3.0,Residence/Home,Anti-Native American/Alaska Native,Individual,S,N
+2003,City,KY,Kentucky,2003-03-20,0,2,2,0,,Black or African American,Hispanic or Latino,2,Intimidation,2.0,Bar/Nightclub,Anti-Gay (Male),Individual,S,S
+2003,Federal,OK,Oklahoma,2003-02-13,0,3,3,0,3,Unknown,Not Hispanic or Latino,3,Arson;Motor Vehicle Theft,3.0,Bar/Nightclub,Anti-Protestant,Individual,M,S
+2003,University/College,TX,Texas,2003-02-26,2,1,3,0,3,Unknown,Hispanic or Latino,3,Simple Assault,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Government,S,N
+2003,County,WY,Wyoming,2003-01-04,0,1,1,0,1,American Indian or Alaska Native,Not Specified,1,Murder and Nonnegligent Manslaughter,0.0,Restaurant,Anti-Protestant,Other,S,S
+2003,Federal,TX,Texas,2003-03-11,1,0,2,0,2,Asian,Unknown,1,Robbery;Intimidation,0.0,Parking Lot/Garage,Anti-Black or African American,Government,M,N
+2003,Tribal,WI,Wisconsin,2003-06-16,1,0,2,,2,Black or African American,Unknown,1,Burglary/Breaking and Entering,0.0,Parking Lot/Garage,Anti-Black or African American,Other,S,S
+2003,University/College,MA,Massachusetts,2003-11-18,0,1,2,1,1,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,1,Intimidation;Destruction/Damage/Vandalism of Property,0.0,Bar/Nightclub,Anti-Other Religion,Law Enforcement Officer,M,S
+2003,City,ME,Maine,2003-05-14,,1,2,2,0,American Indian or Alaska Native,Hispanic or Latino,1,Intimidation;Robbery,1.0,Parking Lot/Garage,Anti-Multiple Religions,Individual,M,S
+2003,City,TN,Tennessee,2003-11-03,0,2,1,1,0,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,2,Simple Assault,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Lesbian,Individual,S,N
+2003,University/College,WY,Wyoming,2003-04-02,1,,1,1,0,Unknown,Not Hispanic or Latino,2,Intimidation;Arson,0.0,Government/Public Building,Anti-Gay (Male),Government,M,N
+2003,State Police,TX,Texas,2003-05-23,0,,3,0,3,Unknown,Unknown,1,Intimidation,1.0,Commercial/Office Building,Anti-Catholic,Individual,S,S
+2003,City,AR,Arkansas,2003-06-01,1,0,1,1,0,Black or African American,Unknown,1,Murder and Nonnegligent Manslaughter;Intimidation,0.0,Commercial/Office Building,Anti-Lesbian,Government,M,N
+2003,City,WI,Wisconsin,2003-04-25,1,0,3,1,2,Asian,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property;Arson,0.0,Residence/Home,Anti-Jewish,Religious Organization,M,S
+2004,Tribal,NJ,New Jersey,2004-12-30,0,2,2,0,2,Black or African American,Not Specified,2,Arson;Intimidation,2.0,Government/Public Building,Anti-White,Individual,M,S
+2004,Tribal,CA,California,2004-04-23,1,0,2,2,0,American Indian or Alaska Native,Not Hispanic or Latino,1,Aggravated Assault,0.0,Church/Synagogue/Temple/Mosque,Anti-Other Race/Ethnicity/Ancestry,Business,S,N
+2004,Federal,DC,District of Columbia,2004-03-08,2,1,1,,0,Asian,Unknown,3,Destruction/Damage/Vandalism of Property,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Religious Organization,S,S
+2004,University/College,TN,Tennessee,2004-12-17,1,2,3,0,,Black or African American,Not Specified,3,Intimidation;Burglary/Breaking and Entering,0.0,Parking Lot/Garage,Anti-White,Other,M,N
+2004,City,WA,Washington,2004-08-18,,1,1,0,,Asian,Unknown,2,Destruction/Damage/Vandalism of Property,0.0,Church/Synagogue/Temple/Mosque,Anti-Hispanic or Latino,Law Enforcement Officer,S,N
+2004,Federal,NC,North Carolina,2004-09-08,1,2,,1,2,Black or African American,Unknown,3,Arson,0.0,Government/Public Building,Anti-Multiple Religions,Business,S,S
+2004,State Police,OR,Oregon,2004-03-23,1,0,1,0,1,Black or African American,Unknown,1,Arson;Motor Vehicle Theft,0.0,Church/Synagogue/Temple/Mosque,Anti-Jewish,Government,M,S
+2004,County,HI,Hawaii,2004-08-04,3,0,1,0,,Black or African American,Unknown,3,Robbery;Destruction/Damage/Vandalism of Property,3.0,Restaurant,Anti-Jewish,Individual,M,S
+2004,University/College,FL,Florida,2004-02-07,2,0,,3,0,Black or African American,Not Specified,2,Arson,0.0,Bar/Nightclub,Anti-Lesbian,Society/Public,S,S
+2004,State Police,VT,Vermont,2004-11-25,2,0,1,1,0,Native Hawaiian or Other Pacific Islander,Not Specified,2,Simple Assault;Aggravated Assault,0.0,Church/Synagogue/Temple/Mosque,Anti-Gay (Male),Other,M,S
+2004,State Police,NJ,New Jersey,2004-04-29,1,0,2,0,2,Asian,Unknown,1,Intimidation;Destruction/Damage/Vandalism of Property,0.0,Restaurant,Anti-Immigrant/Non-Citizen,Other,M,S
+2004,Tribal,MT,Montana,2004-08-03,2,,3,0,3,Asian,Not Specified,2,Burglary/Breaking and Entering;Murder and Nonnegligent Manslaughter,0.0,Parking Lot/Garage,Anti-Catholic,Other,M,N
+2004,Federal,OK,Oklahoma,2004-04-14,1,2,3,1,,Black or African American,Not Hispanic or Latino,3,Robbery;Murder and Nonnegligent Manslaughter,0.0,Government/Public Building,Anti-White,Business,M,S
+2004,City,ID,Idaho,2004-12-22,,,1,0,,Unknown,Hispanic or Latino,1,Robbery,1.0,Residence/Home,Anti-Black or African American,Individual,S,N
+2004,State Police,MA,Massachusetts,2004-08-01,1,1,3,3,0,Asian,Hispanic or Latino,2,Simple Assault,2.0,Commercial/Office Building,Anti-Hispanic or Latino,Individual,S,N
+2004,University/College,NC,North Carolina,2004-03-13,,0,1,0,1,Black or African American,Unknown,1,Robbery;Aggravated Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Immigrant/Non-Citizen,Individual,M,S
+2004,City,SC,South Carolina,2004-12-05,0,2,2,2,,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Native American/Alaska Native,Business,S,S
+2004,City,WA,Washington,2004-04-23,,0,3,2,1,Black or African American,Unknown,1,Intimidation,0.0,Commercial/Office Building,Anti-Muslim,Business,S,N
+2004,State Police,MT,Montana,2004-09-24,1,0,3,,1,White,Unknown,1,Robbery,0.0,Bar/Nightclub,Anti-Other Religion,Business,S,N
+2004,Federal,UT,Utah,2004-08-31,0,1,3,2,1,American Indian or Alaska Native,Not Specified,1,Motor Vehicle Theft,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Multiple Religions,Other,S,N
+2004,University/College,OH,Ohio,2004-06-10,1,0,3,,3,Black or African American,Not Hispanic or Latino,1,Robbery,1.0,Bar/Nightclub,Anti-Muslim,Individual,S,N
+2004,Tribal,NV,Nevada,2004-02-13,,3,1,1,0,Asian,Hispanic or Latino,3,Aggravated Assault,0.0,Bar/Nightclub,Anti-Jewish,Religious Organization,S,S
+2004,University/College,MO,Missouri,2004-12-28,0,1,2,1,1,White,Unknown,1,Murder and Nonnegligent Manslaughter;Simple Assault,0.0,Restaurant,Anti-Immigrant/Non-Citizen,Business,M,S
+2004,County,WV,West Virginia,2004-09-08,0,1,1,1,,Unknown,Hispanic or Latino,1,Murder and Nonnegligent Manslaughter;Arson,0.0,Parking Lot/Garage,Anti-Gay (Male),Business,M,S
+2004,Tribal,IA,Iowa,2004-06-25,0,3,1,1,0,Black or African American,Unknown,3,Burglary/Breaking and Entering,0.0,Commercial/Office Building,Anti-Lesbian,Government,S,N
+2005,Federal,WI,Wisconsin,2005-10-18,1,2,1,0,,Asian,Unknown,3,Robbery,0.0,Restaurant,Anti-Asian,Other,S,S
+2005,County,MA,Massachusetts,2005-12-13,,0,3,0,,Unknown,Hispanic or Latino,3,Arson;Murder and Nonnegligent Manslaughter,0.0,Parking Lot/Garage,Anti-Lesbian,Business,M,N
+2005,Tribal,CA,California,2005-02-04,0,1,2,2,0,American Indian or Alaska Native,Not Specified,1,Motor Vehicle Theft;Robbery,0.0,Commercial/Office Building,Anti-Immigrant/Non-Citizen,Government,M,S
+2005,Tribal,RI,Rhode Island,2005-09-23,1,1,1,,0,Black or African American,Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,0.0,Parking Lot/Garage,Anti-Lesbian,Religious Organization,S,N
+2005,Federal,AK,Alaska,2005-03-09,1,0,2,0,2,Unknown,Not Hispanic or Latino,1,Simple Assault;Destruction/Damage/Vandalism of Property,0.0,Church/Synagogue/Temple/Mosque,Anti-Lesbian,Religious Organization,M,N
+2005,Tribal,MI,Michigan,2005-04-06,0,3,2,2,0,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,3,Motor Vehicle Theft,0.0,School/College,Anti-Black or African American,Religious Organization,S,S
+2005,City,NC,North Carolina,2005-09-15,,0,3,1,2,Black or African American,Hispanic or Latino,3,Murder and Nonnegligent Manslaughter,0.0,School/College,Anti-Native American/Alaska Native,Other,S,S
+2005,Federal,NC,North Carolina,2005-08-28,1,0,1,0,1,Native Hawaiian or Other Pacific Islander,Unknown,1,Destruction/Damage/Vandalism of Property,0.0,Church/Synagogue/Temple/Mosque,Anti-Other Race/Ethnicity/Ancestry,Other,S,S
+2005,University/College,WV,West Virginia,2005-12-31,1,1,3,1,2,White,Not Specified,2,Arson,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Other,S,N
+2005,Federal,NE,Nebraska,2005-05-06,1,0,1,0,1,Asian,Hispanic or Latino,1,Motor Vehicle Theft;Robbery,1.0,Church/Synagogue/Temple/Mosque,Anti-Native American/Alaska Native,Individual,M,N
+2005,Tribal,WY,Wyoming,2005-09-06,,0,2,1,1,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,2,Arson,0.0,Bar/Nightclub,Anti-Catholic,Business,S,N
+2005,State Police,MI,Michigan,2005-12-27,1,2,3,3,0,White,Not Specified,3,Murder and Nonnegligent Manslaughter;Aggravated Assault,0.0,Parking Lot/Garage,Anti-Other Race/Ethnicity/Ancestry,Religious Organization,M,S
+2005,County,UT,Utah,2005-11-17,1,1,2,2,0,Black or African American,Not Specified,2,Burglary/Breaking and Entering,2.0,School/College,Anti-Atheist/Agnostic,Individual,S,N
+2005,State Police,NY,New York,2005-07-06,2,0,3,0,3,Asian,Unknown,2,Arson;Simple Assault,2.0,Restaurant,Anti-Multiple Religions,Individual,M,N
+2005,State Police,MI,Michigan,2005-09-11,0,1,1,1,0,White,Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Atheist/Agnostic,Business,S,S
+2005,Tribal,GA,Georgia,2005-10-10,0,2,1,0,,Unknown,Not Specified,2,Arson,0.0,Restaurant,Anti-Hispanic or Latino,Religious Organization,S,S
+2005,City,HI,Hawaii,2005-01-20,1,2,1,1,0,Black or African American,Not Hispanic or Latino,3,Arson,0.0,School/College,Anti-Protestant,Society/Public,S,N
+2005,University/College,MT,Montana,2005-05-10,0,2,,0,2,Black or African American,Hispanic or Latino,2,Intimidation,0.0,Parking Lot/Garage,Anti-White,Law Enforcement Officer,S,S
+2005,University/College,NH,New Hampshire,2005-01-12,3,0,,2,1,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,3,Aggravated Assault,0.0,Government/Public Building,Anti-Catholic,Religious Organization,S,S
+2005,University/College,MS,Mississippi,2005-12-28,3,0,3,1,2,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,3,Burglary/Breaking and Entering;Arson,0.0,Parking Lot/Garage,Anti-LGBT (Mixed Group),Business,M,N
+2005,Federal,MA,Massachusetts,2005-10-14,,2,2,2,0,American Indian or Alaska Native,Not Hispanic or Latino,2,Robbery;Simple Assault,0.0,School/College,Anti-Asian,Other,M,S
+2005,Tribal,CO,Colorado,2005-03-10,0,2,1,1,0,White,Not Specified,2,Arson;Robbery,2.0,Parking Lot/Garage,Anti-Jewish,Individual,M,N
+2005,Tribal,IN,Indiana,2005-09-14,2,1,3,3,0,Unknown,Not Specified,3,Burglary/Breaking and Entering;Motor Vehicle Theft,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Religious Organization,M,S
+2005,Federal,MN,Minnesota,2005-07-12,0,3,,1,0,White,Not Hispanic or Latino,3,Arson;Aggravated Assault,0.0,Residence/Home,Anti-Protestant,Law Enforcement Officer,M,S
+2005,Federal,FL,Florida,2005-03-03,2,1,3,1,2,Black or African American,Not Specified,3,Intimidation;Murder and Nonnegligent Manslaughter,0.0,Church/Synagogue/Temple/Mosque,Anti-Multiple Religions,Government,M,S
+2006,University/College,SD,South Dakota,2006-09-30,0,1,3,3,0,Unknown,Not Hispanic or Latino,1,Arson;Burglary/Breaking and Entering,0.0,Restaurant,Anti-Other Religion,Religious Organization,M,S
+2006,State Police,OK,Oklahoma,2006-07-27,1,1,1,0,1,White,Not Specified,2,Robbery;Burglary/Breaking and Entering,0.0,Parking Lot/Garage,Anti-Catholic,Government,M,N
+2006,University/College,MI,Michigan,2006-10-23,0,2,3,1,2,White,Unknown,2,Destruction/Damage/Vandalism of Property;Arson,0.0,Government/Public Building,Anti-Lesbian,Society/Public,M,S
+2006,Federal,OH,Ohio,2006-12-09,0,1,1,1,0,Unknown,Not Hispanic or Latino,1,Robbery;Destruction/Damage/Vandalism of Property,0.0,Restaurant,Anti-Black or African American,Business,M,S
+2006,State Police,UT,Utah,2006-02-21,0,2,1,,1,Asian,Not Hispanic or Latino,2,Simple Assault;Robbery,0.0,Bar/Nightclub,Anti-Asian,Government,M,S
+2006,City,IA,Iowa,2006-04-18,2,1,1,1,0,White,Not Specified,3,Motor Vehicle Theft;Aggravated Assault,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Multiple Religions,Society/Public,M,N
+2006,Tribal,SC,South Carolina,2006-12-01,2,0,2,0,2,Asian,Unknown,2,Murder and Nonnegligent Manslaughter;Intimidation,0.0,Commercial/Office Building,Anti-Muslim,Business,M,S
+2006,University/College,OK,Oklahoma,2006-07-31,0,1,2,2,0,Black or African American,Hispanic or Latino,1,Motor Vehicle Theft,0.0,Residence/Home,Anti-Other Religion,Other,S,N
+2006,City,WI,Wisconsin,2006-04-24,,0,,0,3,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,2,Aggravated Assault,0.0,Church/Synagogue/Temple/Mosque,Anti-Hispanic or Latino,Government,S,N
+2006,Tribal,CA,California,2006-08-17,1,0,1,0,1,Unknown,Not Specified,1,Burglary/Breaking and Entering;Simple Assault,0.0,School/College,Anti-White,Law Enforcement Officer,M,S
+2006,Tribal,ME,Maine,2006-01-21,0,1,2,0,2,Unknown,Hispanic or Latino,1,Intimidation;Destruction/Damage/Vandalism of Property,0.0,Restaurant,Anti-Multiple Religions,Religious Organization,M,S
+2006,University/College,IL,Illinois,2006-02-14,1,1,,,,Unknown,Unknown,2,Robbery,0.0,Church/Synagogue/Temple/Mosque,Anti-White,Law Enforcement Officer,S,S
+2006,Federal,KY,Kentucky,2006-02-21,3,0,2,2,0,Unknown,Not Specified,3,Destruction/Damage/Vandalism of Property;Simple Assault,3.0,Government/Public Building,Anti-Atheist/Agnostic,Individual,M,S
+2006,Federal,TX,Texas,2006-01-13,0,3,3,1,2,Asian,Hispanic or Latino,3,Simple Assault,0.0,Residence/Home,Anti-Other Religion,Society/Public,S,N
+2006,University/College,HI,Hawaii,2006-08-13,0,1,,,1,Unknown,Unknown,1,Destruction/Damage/Vandalism of Property;Intimidation,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Other,M,N
+2006,State Police,PA,Pennsylvania,2006-10-14,1,2,3,3,0,American Indian or Alaska Native,Unknown,3,Murder and Nonnegligent Manslaughter;Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Lesbian,Government,M,S
+2006,University/College,NE,Nebraska,2006-12-07,1,0,3,1,2,Asian,Not Specified,1,Simple Assault;Arson,0.0,Church/Synagogue/Temple/Mosque,Anti-Other Race/Ethnicity/Ancestry,Society/Public,M,N
+2006,Federal,MA,Massachusetts,2006-12-16,2,0,1,1,,White,Unknown,2,Arson;Burglary/Breaking and Entering,0.0,Church/Synagogue/Temple/Mosque,Anti-Other Religion,Other,M,S
+2006,State Police,MI,Michigan,2006-07-29,2,1,1,,0,Asian,Not Specified,3,Burglary/Breaking and Entering,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Catholic,Law Enforcement Officer,S,N
+2006,University/College,NE,Nebraska,2006-05-28,,2,,0,2,Asian,Unknown,2,Intimidation,0.0,Residence/Home,Anti-Other Religion,Government,S,N
+2006,City,NC,North Carolina,2006-02-27,3,0,2,1,1,American Indian or Alaska Native,Hispanic or Latino,3,Aggravated Assault;Motor Vehicle Theft,0.0,Restaurant,Anti-Black or African American,Religious Organization,M,S
+2006,City,IN,Indiana,2006-10-24,0,2,3,,2,Black or African American,Not Specified,2,Destruction/Damage/Vandalism of Property,2.0,Parking Lot/Garage,Anti-Jewish,Individual,S,S
+2006,University/College,IN,Indiana,2006-06-09,0,1,,1,1,American Indian or Alaska Native,Hispanic or Latino,1,Burglary/Breaking and Entering,0.0,Restaurant,Anti-Other Religion,Government,S,N
+2006,Federal,NM,New Mexico,2006-09-03,1,0,2,0,2,Native Hawaiian or Other Pacific Islander,Not Specified,1,Destruction/Damage/Vandalism of Property;Intimidation,0.0,Bar/Nightclub,Anti-LGBT (Mixed Group),Business,M,S
+2006,University/College,MD,Maryland,2006-04-19,0,1,3,0,3,Asian,Not Hispanic or Latino,1,Intimidation,0.0,Restaurant,Anti-Asian,Society/Public,S,S
+2007,Tribal,NC,North Carolina,2007-09-10,2,0,1,1,0,American Indian or Alaska Native,Unknown,2,Destruction/Damage/Vandalism of Property,0.0,Parking Lot/Garage,Anti-Multiple Religions,Government,S,N
+2007,State Police,FL,Florida,2007-12-12,1,0,1,1,0,Black or African American,Not Specified,1,Burglary/Breaking and Entering,0.0,Residence/Home,Anti-Catholic,Religious Organization,S,N
+2007,State Police,HI,Hawaii,2007-01-30,1,0,1,1,0,Native Hawaiian or Other Pacific Islander,Not Specified,1,Aggravated Assault;Arson,1.0,Church/Synagogue/Temple/Mosque,Anti-Catholic,Individual,M,S
+2007,Tribal,TX,Texas,2007-06-10,1,2,2,2,0,Asian,Unknown,3,Simple Assault;Intimidation,0.0,Commercial/Office Building,Anti-Protestant,Society/Public,M,N
+2007,County,OR,Oregon,2007-07-06,1,,2,1,,White,Not Hispanic or Latino,3,Simple Assault,0.0,Bar/Nightclub,Anti-Muslim,Government,S,S
+2007,City,NH,New Hampshire,2007-12-19,0,1,,2,,Unknown,Unknown,1,Burglary/Breaking and Entering,0.0,Residence/Home,Anti-Muslim,Government,S,N
+2007,State Police,TX,Texas,2007-06-03,1,0,3,0,3,White,Unknown,1,Murder and Nonnegligent Manslaughter;Aggravated Assault,1.0,Church/Synagogue/Temple/Mosque,Anti-Atheist/Agnostic,Individual,M,N
+2007,Tribal,VT,Vermont,2007-08-26,,1,2,1,1,Black or African American,Unknown,1,Robbery;Destruction/Damage/Vandalism of Property,0.0,Restaurant,Anti-White,Business,M,N
+2007,Tribal,AK,Alaska,2007-12-29,0,1,2,1,1,Black or African American,Hispanic or Latino,1,Arson;Motor Vehicle Theft,0.0,Restaurant,Anti-Catholic,Law Enforcement Officer,M,S
+2007,State Police,KY,Kentucky,2007-06-28,1,1,3,0,3,American Indian or Alaska Native,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property;Burglary/Breaking and Entering,0.0,Commercial/Office Building,Anti-Multiple Religions,Other,M,S
+2007,Federal,ME,Maine,2007-02-18,1,1,3,3,,Black or African American,Not Specified,2,Destruction/Damage/Vandalism of Property;Simple Assault,0.0,School/College,Anti-Other Race/Ethnicity/Ancestry,Business,M,S
+2007,University/College,HI,Hawaii,2007-10-28,2,0,3,1,2,Black or African American,Not Specified,2,Simple Assault;Aggravated Assault,0.0,Residence/Home,Anti-Jewish,Society/Public,M,S
+2007,State Police,TN,Tennessee,2007-07-10,0,,1,,0,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,1,Intimidation;Robbery,0.0,Residence/Home,Anti-White,Business,M,N
+2007,State Police,AL,Alabama,2007-08-25,1,0,1,1,,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,0.0,Parking Lot/Garage,Anti-Jewish,Law Enforcement Officer,S,N
+2007,Federal,NE,Nebraska,2007-10-01,1,1,2,0,2,Unknown,Not Specified,2,Murder and Nonnegligent Manslaughter,0.0,Restaurant,Anti-Other Race/Ethnicity/Ancestry,Other,S,S
+2007,City,TX,Texas,2007-10-14,1,2,1,1,0,Unknown,Unknown,3,Simple Assault,3.0,Restaurant,Anti-Black or African American,Individual,S,N
+2007,Federal,NV,Nevada,2007-11-22,1,0,3,1,2,White,Not Specified,1,Robbery,0.0,Government/Public Building,Anti-Gay (Male),Society/Public,S,N
+2007,Tribal,MD,Maryland,2007-12-19,0,1,1,0,1,Unknown,Hispanic or Latino,1,Aggravated Assault;Burglary/Breaking and Entering,0.0,Restaurant,Anti-Other Race/Ethnicity/Ancestry,Religious Organization,M,N
+2007,University/College,CT,Connecticut,2007-04-27,1,1,2,0,2,White,Not Hispanic or Latino,2,Motor Vehicle Theft;Robbery,0.0,Government/Public Building,Anti-Multiple Religions,Other,M,S
+2007,County,NV,Nevada,2007-05-20,0,3,1,0,1,Native Hawaiian or Other Pacific Islander,Not Specified,3,Simple Assault;Aggravated Assault,0.0,Commercial/Office Building,Anti-Native American/Alaska Native,Religious Organization,M,S
+2007,State Police,MO,Missouri,2007-03-06,0,1,2,0,2,Black or African American,Not Hispanic or Latino,1,Murder and Nonnegligent Manslaughter,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Protestant,Society/Public,S,S
+2007,City,MA,Massachusetts,2007-10-16,3,0,3,0,3,White,Not Specified,3,Aggravated Assault;Simple Assault,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Protestant,Society/Public,M,S
+2007,University/College,ME,Maine,2007-10-27,2,1,2,1,1,Native Hawaiian or Other Pacific Islander,Not Specified,3,Simple Assault,0.0,Parking Lot/Garage,Anti-Other Religion,Government,S,N
+2007,State Police,NC,North Carolina,2007-11-01,1,1,3,1,2,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,2,Destruction/Damage/Vandalism of Property;Intimidation,2.0,Bar/Nightclub,Anti-Black or African American,Individual,M,N
+2007,County,NJ,New Jersey,2007-11-30,0,3,1,1,0,Unknown,Not Specified,3,Arson,0.0,Residence/Home,Anti-Protestant,Law Enforcement Officer,S,N
+2008,Federal,MT,Montana,2008-10-18,0,,2,2,0,Native Hawaiian or Other Pacific Islander,Not Specified,2,Intimidation;Burglary/Breaking and Entering,0.0,Residence/Home,Anti-Hispanic or Latino,Business,M,N
+2008,University/College,DC,District of Columbia,2008-08-31,2,1,2,1,1,Unknown,Hispanic or Latino,3,Murder and Nonnegligent Manslaughter,0.0,School/College,Anti-Hispanic or Latino,Business,S,S
+2008,Tribal,VA,Virginia,2008-04-24,,2,2,,1,White,Not Specified,2,Destruction/Damage/Vandalism of Property;Motor Vehicle Theft,0.0,Church/Synagogue/Temple/Mosque,Anti-LGBT (Mixed Group),Law Enforcement Officer,M,S
+2008,State Police,MT,Montana,2008-05-03,2,0,1,0,1,Black or African American,Not Specified,2,Murder and Nonnegligent Manslaughter;Simple Assault,2.0,Commercial/Office Building,Anti-Protestant,Individual,M,S
+2008,Federal,SD,South Dakota,2008-10-27,,2,3,3,0,Asian,Unknown,3,Intimidation;Arson,0.0,Restaurant,Anti-Catholic,Business,M,N
+2008,State Police,IL,Illinois,2008-10-17,1,0,3,2,1,Asian,Unknown,1,Aggravated Assault,0.0,Commercial/Office Building,Anti-Multiple Religions,Law Enforcement Officer,S,S
+2008,Tribal,VT,Vermont,2008-03-30,1,2,1,0,1,Black or African American,Not Specified,3,Intimidation,0.0,Parking Lot/Garage,Anti-Protestant,Government,S,S
+2008,University/College,ID,Idaho,2008-02-08,0,1,1,1,,American Indian or Alaska Native,Hispanic or Latino,1,Motor Vehicle Theft;Simple Assault,0.0,School/College,Anti-White,Society/Public,M,S
+2008,City,MA,Massachusetts,2008-11-06,1,0,,0,2,White,Not Hispanic or Latino,1,Aggravated Assault,0.0,Restaurant,Anti-Immigrant/Non-Citizen,Religious Organization,S,N
+2008,State Police,SD,South Dakota,2008-07-28,2,0,,0,3,White,Not Specified,2,Simple Assault;Arson,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Immigrant/Non-Citizen,Religious Organization,M,N
+2008,Tribal,AZ,Arizona,2008-08-03,0,3,,2,1,Native Hawaiian or Other Pacific Islander,Not Specified,3,Destruction/Damage/Vandalism of Property;Burglary/Breaking and Entering,0.0,Restaurant,Anti-Jewish,Government,M,N
+2008,Federal,OR,Oregon,2008-01-15,1,2,2,1,1,Unknown,Unknown,3,Robbery;Aggravated Assault,0.0,Residence/Home,Anti-Muslim,Government,M,S
+2008,County,KY,Kentucky,2008-07-14,1,2,1,1,0,American Indian or Alaska Native,Not Specified,3,Destruction/Damage/Vandalism of Property,0.0,Parking Lot/Garage,Anti-Muslim,Other,S,N
+2008,University/College,DC,District of Columbia,2008-01-27,1,0,,0,1,Asian,Not Hispanic or Latino,1,Burglary/Breaking and Entering,0.0,School/College,Anti-LGBT (Mixed Group),Business,S,N
+2008,County,NC,North Carolina,2008-09-06,1,0,1,0,1,White,Unknown,1,Aggravated Assault,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Catholic,Other,S,S
+2008,State Police,ID,Idaho,2008-12-27,1,2,3,3,0,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,3,Robbery;Murder and Nonnegligent Manslaughter,0.0,School/College,Anti-Lesbian,Business,M,S
+2008,State Police,MD,Maryland,2008-02-20,3,,3,,1,White,Not Hispanic or Latino,3,Arson,0.0,Parking Lot/Garage,Anti-LGBT (Mixed Group),Business,S,S
+2008,County,FL,Florida,2008-08-20,2,0,3,0,3,American Indian or Alaska Native,Unknown,2,Simple Assault;Aggravated Assault,0.0,Church/Synagogue/Temple/Mosque,Anti-Other Religion,Society/Public,M,S
+2008,City,MO,Missouri,2008-05-29,2,0,2,1,1,American Indian or Alaska Native,Unknown,2,Destruction/Damage/Vandalism of Property,0.0,Government/Public Building,Anti-Atheist/Agnostic,Business,S,S
+2008,City,NH,New Hampshire,2008-10-17,1,1,2,1,1,Black or African American,Hispanic or Latino,2,Motor Vehicle Theft;Simple Assault,0.0,Bar/Nightclub,Anti-Asian,Business,M,N
+2008,City,TN,Tennessee,2008-10-12,2,0,3,0,3,American Indian or Alaska Native,Hispanic or Latino,2,Robbery,0.0,Commercial/Office Building,Anti-Gay (Male),Law Enforcement Officer,S,S
+2008,State Police,ID,Idaho,2008-11-23,2,0,3,0,3,Native Hawaiian or Other Pacific Islander,Not Specified,2,Robbery,0.0,Parking Lot/Garage,Anti-Protestant,Law Enforcement Officer,S,S
+2008,Federal,CO,Colorado,2008-04-23,1,0,2,1,1,Asian,Not Specified,1,Arson;Motor Vehicle Theft,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Other Religion,Individual,M,N
+2008,University/College,OR,Oregon,2008-11-19,3,0,,0,1,Asian,Not Specified,3,Robbery;Motor Vehicle Theft,0.0,Government/Public Building,Anti-White,Law Enforcement Officer,M,S
+2008,County,IN,Indiana,2008-09-12,,0,2,1,1,Unknown,Not Hispanic or Latino,3,Aggravated Assault,0.0,School/College,Anti-Protestant,Religious Organization,S,S
+2009,State Police,OK,Oklahoma,2009-12-02,0,1,2,0,2,Asian,Not Hispanic or Latino,1,Arson,0.0,Restaurant,Anti-Multiple Religions,Government,S,N
+2009,State Police,VA,Virginia,2009-03-10,0,3,3,3,0,Asian,Unknown,3,Robbery,0.0,Bar/Nightclub,Anti-Other Religion,Religious Organization,S,S
+2009,Federal,NH,New Hampshire,2009-08-09,1,1,3,,1,Asian,Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,0.0,Parking Lot/Garage,Anti-Immigrant/Non-Citizen,Society/Public,S,S
+2009,Tribal,PA,Pennsylvania,2009-12-21,2,1,2,,0,Unknown,Hispanic or Latino,3,Destruction/Damage/Vandalism of Property;Motor Vehicle Theft,0.0,Government/Public Building,Anti-White,Law Enforcement Officer,M,S
+2009,University/College,SD,South Dakota,2009-11-16,2,0,3,1,2,Asian,Not Specified,2,Intimidation;Destruction/Damage/Vandalism of Property,2.0,Parking Lot/Garage,Anti-Black or African American,Individual,M,N
+2009,State Police,DE,Delaware,2009-10-29,1,1,1,0,1,Asian,Unknown,2,Robbery;Arson,0.0,Commercial/Office Building,Anti-Black or African American,Business,M,S
+2009,Federal,WA,Washington,2009-06-08,2,1,,0,2,Asian,Not Hispanic or Latino,3,Destruction/Damage/Vandalism of Property,3.0,Parking Lot/Garage,Anti-Gay (Male),Individual,S,N
+2009,Tribal,ND,North Dakota,2009-01-22,2,,2,1,,American Indian or Alaska Native,Unknown,3,Arson,0.0,School/College,Anti-Other Religion,Government,S,S
+2009,Tribal,FL,Florida,2009-12-15,1,1,,1,1,Unknown,Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,0.0,Restaurant,Anti-Other Race/Ethnicity/Ancestry,Law Enforcement Officer,S,S
+2009,Tribal,NC,North Carolina,2009-03-31,1,2,3,0,3,Black or African American,Unknown,3,Intimidation;Robbery,0.0,Government/Public Building,Anti-Hispanic or Latino,Law Enforcement Officer,M,N
+2009,County,IL,Illinois,2009-10-07,3,0,3,,3,Asian,Hispanic or Latino,3,Simple Assault,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Protestant,Other,S,S
+2009,Federal,MD,Maryland,2009-07-16,1,1,2,1,1,Black or African American,Not Specified,2,Murder and Nonnegligent Manslaughter;Aggravated Assault,0.0,School/College,Anti-Hispanic or Latino,Business,M,S
+2009,Federal,ND,North Dakota,2009-01-23,1,0,3,1,2,White,Not Specified,1,Robbery;Murder and Nonnegligent Manslaughter,1.0,Commercial/Office Building,Anti-Other Race/Ethnicity/Ancestry,Individual,M,S
+2009,Federal,SD,South Dakota,2009-12-12,1,0,3,2,1,American Indian or Alaska Native,Not Specified,1,Burglary/Breaking and Entering;Aggravated Assault,1.0,Residence/Home,Anti-Other Race/Ethnicity/Ancestry,Individual,M,S
+2009,University/College,NY,New York,2009-03-31,,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Robbery;Simple Assault,0.0,Government/Public Building,Anti-Lesbian,Society/Public,M,S
+2009,City,AK,Alaska,2009-06-18,0,1,1,1,0,Black or African American,Not Hispanic or Latino,1,Motor Vehicle Theft,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Immigrant/Non-Citizen,Law Enforcement Officer,S,S
+2009,Tribal,GA,Georgia,2009-12-15,0,2,3,3,0,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,2,Burglary/Breaking and Entering,0.0,Parking Lot/Garage,Anti-Jewish,Religious Organization,S,S
+2009,Federal,UT,Utah,2009-01-25,0,3,3,2,1,Black or African American,Unknown,3,Motor Vehicle Theft;Aggravated Assault,3.0,Restaurant,Anti-Asian,Individual,M,N
+2009,Tribal,MD,Maryland,2009-02-16,,0,2,,2,American Indian or Alaska Native,Not Specified,2,Motor Vehicle Theft,0.0,School/College,Anti-Jewish,Government,S,N
+2009,State Police,UT,Utah,2009-01-30,1,1,1,0,1,White,Hispanic or Latino,2,Arson;Motor Vehicle Theft,2.0,School/College,Anti-Lesbian,Individual,M,S
+2009,Federal,NV,Nevada,2009-04-21,3,0,1,1,0,Unknown,Not Hispanic or Latino,3,Simple Assault,0.0,Restaurant,Anti-Asian,Business,S,S
+2009,State Police,OR,Oregon,2009-02-16,1,0,2,2,0,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,1,Burglary/Breaking and Entering,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Multiple Religions,Law Enforcement Officer,S,N
+2009,County,OK,Oklahoma,2009-03-29,1,2,2,2,0,American Indian or Alaska Native,Hispanic or Latino,3,Robbery;Murder and Nonnegligent Manslaughter,0.0,Commercial/Office Building,Anti-Multiple Religions,Religious Organization,M,S
+2009,State Police,WA,Washington,2009-03-30,1,1,2,1,1,White,Not Specified,2,Intimidation;Burglary/Breaking and Entering,0.0,Commercial/Office Building,Anti-Catholic,Society/Public,M,N
+2009,University/College,VT,Vermont,2009-09-20,,1,3,1,2,White,Not Specified,1,Murder and Nonnegligent Manslaughter;Robbery,0.0,School/College,Anti-Hispanic or Latino,Government,M,N
+2010,State Police,LA,Louisiana,2010-12-13,0,3,3,0,3,Black or African American,Unknown,3,Aggravated Assault,0.0,Bar/Nightclub,Anti-Hispanic or Latino,Other,S,N
+2010,City,NJ,New Jersey,2010-06-06,2,0,2,0,,Unknown,Not Hispanic or Latino,2,Murder and Nonnegligent Manslaughter;Robbery,0.0,Church/Synagogue/Temple/Mosque,Anti-Gay (Male),Government,M,N
+2010,Tribal,MN,Minnesota,2010-04-06,1,1,3,3,0,Unknown,Unknown,2,Intimidation,0.0,School/College,Anti-Jewish,Society/Public,S,N
+2010,University/College,PA,Pennsylvania,2010-03-26,0,1,1,1,0,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,1,Intimidation;Aggravated Assault,0.0,School/College,Anti-Muslim,Government,M,N
+2010,County,TN,Tennessee,2010-10-05,0,2,3,2,1,Black or African American,Not Specified,2,Arson,0.0,Restaurant,Anti-Catholic,Business,S,S
+2010,State Police,ND,North Dakota,2010-11-07,,1,2,2,0,Asian,Unknown,1,Simple Assault;Intimidation,0.0,Restaurant,Anti-Black or African American,Society/Public,M,N
+2010,City,MA,Massachusetts,2010-03-16,0,3,3,2,1,Unknown,Hispanic or Latino,3,Burglary/Breaking and Entering;Murder and Nonnegligent Manslaughter,0.0,Government/Public Building,Anti-Native American/Alaska Native,Religious Organization,M,S
+2010,Federal,MN,Minnesota,2010-12-22,2,1,,3,0,Black or African American,Not Hispanic or Latino,3,Arson;Robbery,0.0,Commercial/Office Building,Anti-Hispanic or Latino,Religious Organization,M,S
+2010,Tribal,NE,Nebraska,2010-10-03,,1,1,0,1,Unknown,Not Hispanic or Latino,1,Arson,0.0,Church/Synagogue/Temple/Mosque,Anti-White,Business,S,S
+2010,Tribal,HI,Hawaii,2010-10-22,0,2,2,1,1,Asian,Not Specified,2,Burglary/Breaking and Entering,0.0,Residence/Home,Anti-Lesbian,Law Enforcement Officer,S,N
+2010,City,TN,Tennessee,2010-12-31,1,2,3,,0,American Indian or Alaska Native,Not Specified,3,Burglary/Breaking and Entering,0.0,Parking Lot/Garage,Anti-Black or African American,Religious Organization,S,S
+2010,Federal,KY,Kentucky,2010-08-18,2,0,3,0,3,American Indian or Alaska Native,Hispanic or Latino,2,Robbery;Burglary/Breaking and Entering,0.0,Restaurant,Anti-Hispanic or Latino,Law Enforcement Officer,M,S
+2010,County,KS,Kansas,2010-05-04,1,0,1,1,0,White,Not Specified,1,Robbery;Aggravated Assault,0.0,Commercial/Office Building,Anti-LGBT (Mixed Group),Society/Public,M,N
+2010,State Police,NJ,New Jersey,2010-07-25,2,0,1,0,1,Unknown,Not Specified,2,Intimidation;Aggravated Assault,0.0,School/College,Anti-Other Religion,Government,M,N
+2010,Tribal,MO,Missouri,2010-02-27,2,1,2,1,1,White,Not Hispanic or Latino,3,Intimidation;Murder and Nonnegligent Manslaughter,0.0,Government/Public Building,Anti-Gay (Male),Business,M,N
+2010,Tribal,KY,Kentucky,2010-01-14,2,1,1,1,0,Unknown,Not Specified,3,Murder and Nonnegligent Manslaughter,0.0,Commercial/Office Building,Anti-Black or African American,Government,S,S
+2010,Federal,OK,Oklahoma,2010-09-28,1,0,3,3,0,Unknown,Unknown,1,Murder and Nonnegligent Manslaughter,0.0,Parking Lot/Garage,Anti-Jewish,Business,S,S
+2010,Federal,ID,Idaho,2010-09-30,2,0,2,2,0,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,2,Robbery;Motor Vehicle Theft,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Society/Public,M,S
+2010,University/College,NE,Nebraska,2010-10-30,0,1,2,1,1,Black or African American,Hispanic or Latino,1,Murder and Nonnegligent Manslaughter,0.0,Commercial/Office Building,Anti-Native American/Alaska Native,Other,S,S
+2010,State Police,RI,Rhode Island,2010-06-13,1,1,1,,1,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2.0,Government/Public Building,Anti-Protestant,Individual,S,S
+2010,University/College,MA,Massachusetts,2010-06-11,1,1,2,0,2,American Indian or Alaska Native,Not Specified,2,Burglary/Breaking and Entering,0.0,School/College,Anti-Jewish,Religious Organization,S,N
+2010,City,FL,Florida,2010-11-10,,1,3,3,0,American Indian or Alaska Native,Hispanic or Latino,2,Intimidation;Motor Vehicle Theft,0.0,Government/Public Building,Anti-Atheist/Agnostic,Society/Public,M,S
+2010,University/College,KS,Kansas,2010-12-20,1,1,2,2,0,Black or African American,Unknown,2,Destruction/Damage/Vandalism of Property,2.0,Parking Lot/Garage,Anti-Hispanic or Latino,Individual,S,N
+2010,University/College,AL,Alabama,2010-02-06,3,0,3,0,3,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,3,Aggravated Assault,0.0,Church/Synagogue/Temple/Mosque,Anti-Lesbian,Law Enforcement Officer,S,S
+2010,City,WY,Wyoming,2010-05-08,0,3,2,2,,White,Not Hispanic or Latino,3,Robbery,0.0,Residence/Home,Anti-LGBT (Mixed Group),Society/Public,S,N
+2010,Tribal,GA,Georgia,2010-01-19,,0,1,1,,White,Unknown,2,Murder and Nonnegligent Manslaughter;Arson,2.0,Parking Lot/Garage,Anti-Lesbian,Individual,M,N
+2010,Federal,DE,Delaware,2010-09-03,,2,1,0,1,American Indian or Alaska Native,Hispanic or Latino,2,Simple Assault;Destruction/Damage/Vandalism of Property,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Society/Public,M,S
+2010,Federal,ND,North Dakota,2010-11-21,0,1,1,0,1,Asian,Unknown,1,Intimidation,0.0,Restaurant,Anti-White,Government,S,S
+2010,County,WY,Wyoming,2010-06-22,3,0,,0,2,White,Unknown,3,Robbery,0.0,Restaurant,Anti-Other Religion,Law Enforcement Officer,S,N
+2010,Federal,AR,Arkansas,2010-02-14,0,1,3,0,3,Black or African American,Not Specified,1,Murder and Nonnegligent Manslaughter,0.0,Restaurant,Anti-Other Religion,Government,S,N
+2011,Tribal,KY,Kentucky,2011-08-27,0,1,1,1,,Unknown,Not Hispanic or Latino,1,Robbery;Burglary/Breaking and Entering,1.0,Bar/Nightclub,Anti-Muslim,Individual,M,N
+2011,City,HI,Hawaii,2011-10-05,0,2,2,1,1,Unknown,Hispanic or Latino,2,Aggravated Assault;Robbery,0.0,Parking Lot/Garage,Anti-Muslim,Law Enforcement Officer,M,N
+2011,City,TX,Texas,2011-11-29,1,,1,0,1,Black or African American,Not Hispanic or Latino,2,Arson,0.0,Bar/Nightclub,Anti-Native American/Alaska Native,Society/Public,S,N
+2011,City,ND,North Dakota,2011-12-03,2,1,1,0,1,Black or African American,Not Specified,3,Simple Assault,0.0,Parking Lot/Garage,Anti-Jewish,Business,S,S
+2011,University/College,KY,Kentucky,2011-10-21,1,0,1,1,0,American Indian or Alaska Native,Hispanic or Latino,1,Motor Vehicle Theft;Simple Assault,0.0,School/College,Anti-Muslim,Other,M,S
+2011,Tribal,NY,New York,2011-03-28,0,1,,,1,Asian,Unknown,1,Simple Assault;Arson,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Other Religion,Individual,M,S
+2011,State Police,CT,Connecticut,2011-05-04,2,1,3,3,0,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,3,Motor Vehicle Theft;Murder and Nonnegligent Manslaughter,0.0,Bar/Nightclub,Anti-White,Government,M,N
+2011,Federal,IA,Iowa,2011-12-30,1,1,1,1,0,Unknown,Unknown,2,Robbery;Motor Vehicle Theft,0.0,Government/Public Building,Anti-White,Law Enforcement Officer,M,N
+2011,University/College,CT,Connecticut,2011-09-05,1,0,1,,1,Native Hawaiian or Other Pacific Islander,Unknown,1,Burglary/Breaking and Entering;Arson,0.0,Bar/Nightclub,Anti-Gay (Male),Law Enforcement Officer,M,S
+2011,State Police,MN,Minnesota,2011-06-14,2,0,3,3,0,Black or African American,Hispanic or Latino,2,Intimidation,0.0,Parking Lot/Garage,Anti-Other Religion,Law Enforcement Officer,S,S
+2011,Tribal,TN,Tennessee,2011-11-01,0,3,1,1,0,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,3,Murder and Nonnegligent Manslaughter,0.0,Commercial/Office Building,Anti-Lesbian,Law Enforcement Officer,S,S
+2011,University/College,IA,Iowa,2011-05-19,,3,1,1,0,White,Not Specified,3,Arson,0.0,Bar/Nightclub,Anti-Multiple Religions,Other,S,S
+2011,State Police,NM,New Mexico,2011-05-12,0,,1,1,0,Native Hawaiian or Other Pacific Islander,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Other Religion,Law Enforcement Officer,S,S
+2011,Tribal,NC,North Carolina,2011-05-26,0,3,1,1,0,Unknown,Hispanic or Latino,3,Intimidation;Destruction/Damage/Vandalism of Property,0.0,Bar/Nightclub,Anti-Native American/Alaska Native,Business,M,S
+2011,University/College,MA,Massachusetts,2011-02-05,1,1,1,1,0,Unknown,Not Hispanic or Latino,2,Robbery,0.0,School/College,Anti-Other Religion,Society/Public,S,N
+2011,University/College,ND,North Dakota,2011-04-03,1,1,1,,,White,Not Hispanic or Latino,2,Arson,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Business,S,S
+2011,University/College,WY,Wyoming,2011-09-24,0,3,2,0,2,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,3,Murder and Nonnegligent Manslaughter,0.0,Government/Public Building,Anti-Native American/Alaska Native,Other,S,S
+2011,State Police,KS,Kansas,2011-11-01,1,,3,0,3,Black or African American,Not Specified,2,Arson,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Protestant,Business,S,S
+2011,County,CA,California,2011-05-15,0,1,,2,1,Black or African American,Not Hispanic or Latino,1,Burglary/Breaking and Entering,0.0,School/College,Anti-Protestant,Society/Public,S,S
+2011,Federal,CO,Colorado,2011-02-24,,0,2,1,1,White,Hispanic or Latino,3,Burglary/Breaking and Entering;Arson,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Native American/Alaska Native,Other,M,N
+2011,City,ID,Idaho,2011-10-26,0,2,,2,0,Native Hawaiian or Other Pacific Islander,Unknown,2,Aggravated Assault,0.0,Parking Lot/Garage,Anti-Immigrant/Non-Citizen,Other,S,S
+2011,County,OH,Ohio,2011-07-17,1,1,,0,2,Unknown,Unknown,2,Intimidation;Robbery,2.0,Church/Synagogue/Temple/Mosque,Anti-Atheist/Agnostic,Individual,M,N
+2011,Federal,KY,Kentucky,2011-06-02,0,,1,1,0,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,2,Arson,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Protestant,Society/Public,S,N
+2011,City,NM,New Mexico,2011-09-22,,,2,1,1,American Indian or Alaska Native,Not Hispanic or Latino,1,Arson,0.0,Parking Lot/Garage,Anti-Lesbian,Business,S,S
+2011,University/College,CO,Colorado,2011-01-16,2,0,,2,0,White,Not Hispanic or Latino,2,Murder and Nonnegligent Manslaughter,0.0,Restaurant,Anti-Native American/Alaska Native,Society/Public,S,S
+2011,Federal,IL,Illinois,2011-11-27,1,1,1,1,0,Native Hawaiian or Other Pacific Islander,Unknown,2,Intimidation;Murder and Nonnegligent Manslaughter,2.0,Residence/Home,Anti-Jewish,Individual,M,N
+2011,State Police,ID,Idaho,2011-03-18,0,1,2,2,0,White,Not Specified,1,Simple Assault,1.0,Parking Lot/Garage,Anti-Immigrant/Non-Citizen,Individual,S,S
+2011,Tribal,NY,New York,2011-06-17,2,0,2,2,0,Native Hawaiian or Other Pacific Islander,Unknown,2,Arson,0.0,Restaurant,Anti-Atheist/Agnostic,Religious Organization,S,N
+2011,City,NM,New Mexico,2011-05-17,0,1,3,,1,Black or African American,Unknown,1,Arson,0.0,Residence/Home,Anti-Asian,Law Enforcement Officer,S,N
+2011,City,ME,Maine,2011-10-18,0,2,3,3,0,Unknown,Unknown,2,Murder and Nonnegligent Manslaughter;Aggravated Assault,0.0,Restaurant,Anti-White,Government,M,N
+2012,City,NH,New Hampshire,2012-11-29,,0,1,1,0,White,Not Specified,2,Robbery,0.0,Parking Lot/Garage,Anti-Lesbian,Society/Public,S,N
+2012,City,CA,California,2012-07-02,0,3,1,0,1,Unknown,Not Hispanic or Latino,3,Robbery;Destruction/Damage/Vandalism of Property,0.0,Parking Lot/Garage,Anti-Black or African American,Society/Public,M,N
+2012,City,ME,Maine,2012-10-03,0,2,3,0,3,Unknown,Hispanic or Latino,2,Robbery;Aggravated Assault,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Protestant,Law Enforcement Officer,M,N
+2012,City,IN,Indiana,2012-10-12,0,,3,0,3,Native Hawaiian or Other Pacific Islander,Not Specified,2,Burglary/Breaking and Entering,0.0,Residence/Home,Anti-Protestant,Society/Public,S,N
+2012,County,DC,District of Columbia,2012-06-30,3,0,,1,2,White,Unknown,3,Burglary/Breaking and Entering,0.0,Government/Public Building,Anti-Protestant,Government,S,S
+2012,University/College,MN,Minnesota,2012-07-06,3,,1,,1,Unknown,Not Specified,3,Murder and Nonnegligent Manslaughter;Robbery,0.0,School/College,Anti-Protestant,Business,M,S
+2012,City,VA,Virginia,2012-11-28,2,0,3,1,2,American Indian or Alaska Native,Not Specified,2,Simple Assault;Arson,0.0,Parking Lot/Garage,Anti-LGBT (Mixed Group),Other,M,N
+2012,Federal,IL,Illinois,2012-06-26,2,1,1,1,0,American Indian or Alaska Native,Hispanic or Latino,3,Robbery,0.0,Parking Lot/Garage,Anti-Jewish,Government,S,N
+2012,Tribal,VA,Virginia,2012-11-30,1,0,2,1,1,Black or African American,Unknown,1,Arson,0.0,School/College,Anti-Catholic,Religious Organization,S,N
+2012,Federal,GA,Georgia,2012-12-15,0,,3,,1,Unknown,Not Hispanic or Latino,1,Motor Vehicle Theft;Arson,0.0,Parking Lot/Garage,Anti-Immigrant/Non-Citizen,Government,M,N
+2012,Tribal,MS,Mississippi,2012-05-09,0,1,1,0,1,American Indian or Alaska Native,Hispanic or Latino,1,Burglary/Breaking and Entering,0.0,Restaurant,Anti-Black or African American,Other,S,N
+2012,University/College,FL,Florida,2012-10-24,,2,1,1,,American Indian or Alaska Native,Unknown,2,Robbery,0.0,Commercial/Office Building,Anti-White,Other,S,S
+2012,Tribal,NY,New York,2012-11-29,,0,1,1,0,Black or African American,Hispanic or Latino,1,Aggravated Assault,0.0,School/College,Anti-White,Society/Public,S,N
+2012,Tribal,VA,Virginia,2012-01-20,0,3,2,2,0,Asian,Hispanic or Latino,3,Burglary/Breaking and Entering;Aggravated Assault,0.0,Restaurant,Anti-White,Society/Public,M,S
+2012,City,MO,Missouri,2012-03-25,3,,1,0,1,American Indian or Alaska Native,Not Specified,3,Aggravated Assault,0.0,Residence/Home,Anti-Protestant,Other,S,N
+2012,City,IA,Iowa,2012-12-25,2,0,2,0,2,Native Hawaiian or Other Pacific Islander,Unknown,2,Simple Assault;Motor Vehicle Theft,0.0,Government/Public Building,Anti-White,Law Enforcement Officer,M,N
+2012,City,AR,Arkansas,2012-03-15,1,,2,,0,American Indian or Alaska Native,Hispanic or Latino,1,Motor Vehicle Theft;Robbery,0.0,Residence/Home,Anti-Black or African American,Business,M,S
+2012,County,CO,Colorado,2012-07-10,0,3,3,3,0,Native Hawaiian or Other Pacific Islander,Not Specified,3,Murder and Nonnegligent Manslaughter;Simple Assault,0.0,Government/Public Building,Anti-Catholic,Law Enforcement Officer,M,S
+2012,University/College,OH,Ohio,2012-06-29,0,3,2,0,2,Unknown,Not Specified,3,Burglary/Breaking and Entering,0.0,Church/Synagogue/Temple/Mosque,Anti-Immigrant/Non-Citizen,Business,S,N
+2012,State Police,NE,Nebraska,2012-09-11,,1,2,0,2,American Indian or Alaska Native,Not Specified,2,Arson,0.0,Parking Lot/Garage,Anti-Immigrant/Non-Citizen,Other,S,S
+2012,City,CA,California,2012-04-15,0,1,2,0,2,Native Hawaiian or Other Pacific Islander,Unknown,1,Robbery,0.0,School/College,Anti-Atheist/Agnostic,Business,S,S
+2012,Tribal,TN,Tennessee,2012-02-15,2,0,3,,0,Black or African American,Not Specified,2,Murder and Nonnegligent Manslaughter,0.0,School/College,Anti-Hispanic or Latino,Religious Organization,S,S
+2012,Tribal,WI,Wisconsin,2012-05-22,1,,1,1,0,Unknown,Hispanic or Latino,2,Murder and Nonnegligent Manslaughter,0.0,School/College,Anti-Immigrant/Non-Citizen,Other,S,S
+2012,County,FL,Florida,2012-02-07,0,1,1,0,1,Black or African American,Unknown,1,Aggravated Assault;Simple Assault,0.0,Parking Lot/Garage,Anti-Hispanic or Latino,Society/Public,M,S
+2012,University/College,HI,Hawaii,2012-02-03,,1,1,0,1,Unknown,Hispanic or Latino,1,Simple Assault;Destruction/Damage/Vandalism of Property,0.0,Parking Lot/Garage,Anti-Black or African American,Government,M,N
+2012,State Police,NC,North Carolina,2012-11-19,,,1,1,0,Asian,Not Hispanic or Latino,3,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Multiple Religions,Religious Organization,S,S
+2012,Tribal,KY,Kentucky,2012-12-24,0,,2,1,1,Native Hawaiian or Other Pacific Islander,Unknown,1,Arson,0.0,Residence/Home,Anti-Multiple Religions,Government,S,N
+2012,Federal,NM,New Mexico,2012-05-28,0,1,,3,0,Asian,Not Hispanic or Latino,1,Intimidation;Robbery,1.0,Restaurant,Anti-Black or African American,Individual,M,N
+2012,Tribal,MA,Massachusetts,2012-03-26,,0,3,3,0,American Indian or Alaska Native,Hispanic or Latino,3,Robbery,0.0,Parking Lot/Garage,Anti-Multiple Religions,Religious Organization,S,N
+2012,County,NV,Nevada,2012-06-28,1,0,2,0,2,White,Unknown,1,Arson;Intimidation,0.0,Restaurant,Anti-Muslim,Government,M,N
+2013,City,UT,Utah,2013-02-26,2,,,0,1,Black or African American,Hispanic or Latino,3,Simple Assault;Murder and Nonnegligent Manslaughter,3.0,Parking Lot/Garage,Anti-Other Race/Ethnicity/Ancestry,Individual,M,S
+2013,State Police,FL,Florida,2013-08-13,0,1,3,1,2,White,Not Hispanic or Latino,1,Arson,1.0,Bar/Nightclub,Anti-White,Individual,S,N
+2013,Tribal,WI,Wisconsin,2013-10-22,2,1,1,1,0,Asian,Not Hispanic or Latino,3,Robbery;Motor Vehicle Theft,0.0,School/College,Anti-Other Race/Ethnicity/Ancestry,Other,M,S
+2013,University/College,CT,Connecticut,2013-05-18,1,1,3,,0,Native Hawaiian or Other Pacific Islander,Not Specified,2,Murder and Nonnegligent Manslaughter,0.0,Commercial/Office Building,Anti-Atheist/Agnostic,Government,S,N
+2013,Tribal,AK,Alaska,2013-06-13,0,2,2,1,,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,0.0,Commercial/Office Building,Anti-Immigrant/Non-Citizen,Society/Public,S,S
+2013,City,VT,Vermont,2013-11-01,1,0,1,,,White,Not Specified,1,Motor Vehicle Theft,0.0,Residence/Home,Anti-Jewish,Government,S,S
+2013,Federal,WI,Wisconsin,2013-06-01,1,0,3,3,0,Unknown,Hispanic or Latino,1,Destruction/Damage/Vandalism of Property;Motor Vehicle Theft,0.0,Residence/Home,Anti-Gay (Male),Society/Public,M,N
+2013,County,LA,Louisiana,2013-09-22,1,,,,0,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,0.0,Government/Public Building,Anti-Other Race/Ethnicity/Ancestry,Religious Organization,S,N
+2013,State Police,NE,Nebraska,2013-05-27,1,1,2,0,2,Asian,Unknown,2,Destruction/Damage/Vandalism of Property;Robbery,0.0,School/College,Anti-Atheist/Agnostic,Other,M,N
+2013,State Police,NH,New Hampshire,2013-07-05,1,1,2,2,0,Black or African American,Not Hispanic or Latino,2,Intimidation;Burglary/Breaking and Entering,0.0,Residence/Home,Anti-Protestant,Government,M,N
+2013,County,IA,Iowa,2013-06-12,1,,3,,3,Unknown,Unknown,2,Destruction/Damage/Vandalism of Property,0.0,Commercial/Office Building,Anti-Other Religion,Religious Organization,S,S
+2013,University/College,ME,Maine,2013-11-21,0,3,3,1,,Black or African American,Hispanic or Latino,3,Intimidation,3.0,Church/Synagogue/Temple/Mosque,Anti-Hispanic or Latino,Individual,S,S
+2013,County,ME,Maine,2013-02-04,,0,1,0,1,Native Hawaiian or Other Pacific Islander,Unknown,1,Simple Assault;Aggravated Assault,1.0,Parking Lot/Garage,Anti-White,Individual,M,N
+2013,County,VT,Vermont,2013-12-26,0,1,3,0,3,Unknown,Unknown,1,Arson,0.0,School/College,Anti-Black or African American,Business,S,N
+2013,County,ND,North Dakota,2013-11-30,3,,2,2,0,Native Hawaiian or Other Pacific Islander,Not Specified,3,Aggravated Assault;Destruction/Damage/Vandalism of Property,0.0,Restaurant,Anti-Protestant,Government,M,N
+2013,Tribal,IA,Iowa,2013-03-06,0,3,1,0,1,Unknown,Not Specified,3,Arson;Intimidation,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Lesbian,Other,M,S
+2013,Tribal,GA,Georgia,2013-10-20,,1,3,1,2,Asian,Not Specified,1,Robbery;Arson,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Atheist/Agnostic,Other,M,S
+2013,Tribal,CA,California,2013-10-31,1,2,1,1,,Black or African American,Not Specified,3,Intimidation,0.0,School/College,Anti-Lesbian,Society/Public,S,S
+2013,City,AK,Alaska,2013-03-09,,0,1,0,1,White,Not Hispanic or Latino,2,Murder and Nonnegligent Manslaughter;Destruction/Damage/Vandalism of Property,0.0,Church/Synagogue/Temple/Mosque,Anti-Protestant,Law Enforcement Officer,M,S
+2013,City,CO,Colorado,2013-10-29,0,2,3,0,,Native Hawaiian or Other Pacific Islander,Unknown,2,Murder and Nonnegligent Manslaughter,0.0,Commercial/Office Building,Anti-Black or African American,Society/Public,S,N
+2013,University/College,CO,Colorado,2013-03-09,2,1,1,1,0,White,Hispanic or Latino,3,Aggravated Assault;Motor Vehicle Theft,3.0,Church/Synagogue/Temple/Mosque,Anti-Other Religion,Individual,M,S
+2013,State Police,CT,Connecticut,2013-11-11,0,1,1,1,0,Asian,Hispanic or Latino,1,Burglary/Breaking and Entering,1.0,Residence/Home,Anti-Hispanic or Latino,Individual,S,S
+2013,County,KY,Kentucky,2013-06-20,1,1,3,3,0,White,Unknown,2,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Immigrant/Non-Citizen,Government,S,N
+2013,County,NY,New York,2013-01-03,0,1,3,2,1,American Indian or Alaska Native,Hispanic or Latino,1,Burglary/Breaking and Entering;Robbery,0.0,Bar/Nightclub,Anti-Lesbian,Law Enforcement Officer,M,N
+2013,University/College,MI,Michigan,2013-11-16,0,1,2,2,0,Unknown,Not Hispanic or Latino,1,Arson,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Catholic,Law Enforcement Officer,S,S
+2013,Federal,KS,Kansas,2013-06-16,1,1,1,0,1,American Indian or Alaska Native,Not Specified,2,Aggravated Assault;Burglary/Breaking and Entering,0.0,Parking Lot/Garage,Anti-Protestant,Government,M,S
+2013,County,NE,Nebraska,2013-01-07,1,0,,3,0,White,Not Hispanic or Latino,1,Murder and Nonnegligent Manslaughter;Arson,0.0,Parking Lot/Garage,Anti-Other Race/Ethnicity/Ancestry,Society/Public,M,S
+2013,State Police,FL,Florida,2013-06-11,0,2,2,2,0,Asian,Unknown,2,Simple Assault,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Protestant,Religious Organization,S,N
+2013,County,IN,Indiana,2013-03-04,2,0,2,0,2,Asian,Hispanic or Latino,2,Simple Assault,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Immigrant/Non-Citizen,Individual,S,N
+2013,Tribal,RI,Rhode Island,2013-04-12,,,3,0,3,American Indian or Alaska Native,Not Hispanic or Latino,2,Aggravated Assault,0.0,School/College,Anti-Catholic,Law Enforcement Officer,S,N
+2014,State Police,MI,Michigan,2014-02-22,0,1,2,,1,Native Hawaiian or Other Pacific Islander,Unknown,1,Aggravated Assault,1.0,Church/Synagogue/Temple/Mosque,Anti-Muslim,Individual,S,N
+2014,State Police,KY,Kentucky,2014-07-03,1,1,,3,0,Asian,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property;Burglary/Breaking and Entering,0.0,Restaurant,Anti-Atheist/Agnostic,Other,M,N
+2014,City,NJ,New Jersey,2014-12-29,1,2,2,2,0,Asian,Not Specified,3,Intimidation;Motor Vehicle Theft,0.0,Bar/Nightclub,Anti-Muslim,Society/Public,M,S
+2014,University/College,MT,Montana,2014-01-09,0,1,1,0,1,Black or African American,Not Specified,1,Murder and Nonnegligent Manslaughter;Intimidation,1.0,Residence/Home,Anti-Immigrant/Non-Citizen,Individual,M,N
+2014,County,OH,Ohio,2014-11-25,0,1,1,1,,Asian,Not Specified,1,Burglary/Breaking and Entering,0.0,Restaurant,Anti-White,Society/Public,S,N
+2014,Tribal,OR,Oregon,2014-12-28,1,1,3,2,1,Black or African American,Not Specified,2,Burglary/Breaking and Entering,0.0,Restaurant,Anti-Multiple Religions,Other,S,S
+2014,County,WA,Washington,2014-07-31,2,0,1,1,0,Black or African American,Not Specified,2,Robbery,2.0,Parking Lot/Garage,Anti-Black or African American,Individual,S,N
+2014,State Police,OR,Oregon,2014-12-19,1,0,2,2,,Unknown,Not Specified,1,Motor Vehicle Theft,0.0,Bar/Nightclub,Anti-Atheist/Agnostic,Law Enforcement Officer,S,S
+2014,Tribal,NH,New Hampshire,2014-08-21,0,2,3,3,0,Unknown,Hispanic or Latino,2,Arson,0.0,Parking Lot/Garage,Anti-White,Government,S,N
+2014,County,PA,Pennsylvania,2014-07-22,,0,1,1,0,American Indian or Alaska Native,Unknown,1,Murder and Nonnegligent Manslaughter,0.0,Bar/Nightclub,Anti-Hispanic or Latino,Religious Organization,S,N
+2014,Federal,NJ,New Jersey,2014-12-29,2,0,3,,3,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,2,Arson,0.0,Residence/Home,Anti-Atheist/Agnostic,Business,S,N
+2014,City,AK,Alaska,2014-06-03,1,0,2,1,1,Asian,Unknown,1,Robbery,0.0,Church/Synagogue/Temple/Mosque,Anti-LGBT (Mixed Group),Government,S,S
+2014,County,NM,New Mexico,2014-02-18,2,0,,1,1,Unknown,Not Specified,2,Burglary/Breaking and Entering;Intimidation,0.0,School/College,Anti-Black or African American,Government,M,N
+2014,Federal,AK,Alaska,2014-07-04,0,2,1,1,0,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,2,Arson,0.0,Restaurant,Anti-Immigrant/Non-Citizen,Government,S,S
+2014,Federal,MO,Missouri,2014-12-11,,3,2,0,2,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,3,Burglary/Breaking and Entering;Motor Vehicle Theft,0.0,Bar/Nightclub,Anti-Atheist/Agnostic,Society/Public,M,S
+2014,University/College,WI,Wisconsin,2014-08-04,0,1,3,0,3,American Indian or Alaska Native,Unknown,1,Arson,0.0,Government/Public Building,Anti-Native American/Alaska Native,Law Enforcement Officer,S,S
+2014,Tribal,MO,Missouri,2014-11-02,2,,,2,1,American Indian or Alaska Native,Not Hispanic or Latino,2,Burglary/Breaking and Entering,2.0,Commercial/Office Building,Anti-Other Religion,Individual,S,N
+2014,University/College,NY,New York,2014-07-19,1,0,,2,0,Asian,Hispanic or Latino,1,Robbery;Burglary/Breaking and Entering,0.0,Restaurant,Anti-Protestant,Other,M,N
+2014,County,WI,Wisconsin,2014-07-15,,2,2,0,2,Asian,Unknown,2,Intimidation;Aggravated Assault,0.0,School/College,Anti-White,Society/Public,M,S
+2014,Federal,WV,West Virginia,2014-07-12,0,3,,0,1,White,Not Specified,3,Murder and Nonnegligent Manslaughter;Motor Vehicle Theft,0.0,Restaurant,Anti-Lesbian,Business,M,S
+2014,County,NM,New Mexico,2014-06-09,0,1,1,1,0,Asian,Unknown,1,Robbery,0.0,Bar/Nightclub,Anti-Catholic,Law Enforcement Officer,S,S
+2014,City,ME,Maine,2014-08-06,0,3,3,,,Asian,Unknown,3,Aggravated Assault,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Multiple Religions,Business,S,N
+2014,Federal,AZ,Arizona,2014-08-21,3,0,,2,1,Native Hawaiian or Other Pacific Islander,Unknown,3,Robbery;Motor Vehicle Theft,0.0,Parking Lot/Garage,Anti-Gay (Male),Law Enforcement Officer,M,N
+2014,State Police,IA,Iowa,2014-02-26,1,0,3,1,2,Unknown,Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,0.0,Government/Public Building,Anti-Other Religion,Society/Public,S,N
+2014,Federal,NJ,New Jersey,2014-04-14,3,0,3,3,0,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,3,Motor Vehicle Theft,0.0,Commercial/Office Building,Anti-Other Race/Ethnicity/Ancestry,Law Enforcement Officer,S,N
+2014,State Police,WV,West Virginia,2014-09-11,0,3,2,1,1,Asian,Not Hispanic or Latino,3,Arson,3.0,Bar/Nightclub,Anti-Hispanic or Latino,Individual,S,S
+2014,State Police,SC,South Carolina,2014-04-16,2,0,3,0,3,American Indian or Alaska Native,Not Hispanic or Latino,2,Robbery,0.0,Bar/Nightclub,Anti-Black or African American,Business,S,S
+2014,County,WV,West Virginia,2014-11-15,1,0,3,0,,Black or African American,Not Hispanic or Latino,1,Motor Vehicle Theft,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Muslim,Other,S,N
+2014,City,MS,Mississippi,2014-01-30,0,2,1,0,1,Unknown,Unknown,2,Intimidation;Simple Assault,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Business,M,S
+2014,University/College,MI,Michigan,2014-01-17,1,0,3,3,0,White,Not Hispanic or Latino,1,Robbery,0.0,Commercial/Office Building,Anti-Protestant,Society/Public,S,S
