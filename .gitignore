@@ -2,3 +2,5 @@
 /real_datasets/lending/year_2024.csv
 /real_datasets/criminal_justice/hate_crime.csv
 /real_datasets/employment/uk_gender_pay_gap_data_2024_to_2025.csv
+/real_datasets/criminal_justice/preproccesed/hate_crime_preproccesed.csv
+/real_datasets/criminal_justice/raw/hate_crime.csv
