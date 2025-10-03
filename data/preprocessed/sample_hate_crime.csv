@@ -1,0 +1,201 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1998,City,NJ,New Jersey,1998-05-04,,,0,,,Unknown,Not Specified,1,Intimidation,1.0,Government/Public Building,Anti-Black or African American,Individual,S,S
+1995,City,VT,Vermont,1995-04-15,,,1,,,White,Not Specified,2,Aggravated Assault;Destruction/Damage/Vandalism of Property,2.0,Parking/Drop Lot/Garage,Anti-Black or African American,Business;Individual,M,S
+2017,City,TN,Tennessee,2017-05-12,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Aggravated Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,S,S
+2020,City,VT,Vermont,2020-08-05,0.0,0.0,0,,,Not Specified,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Business,S,S
+2002,City,CA,California,2002-09-13,,,1,,,Unknown,Not Specified,1,Intimidation,1.0,Bar/Nightclub,Anti-Jewish,Individual,S,S
+1994,City,AZ,Arizona,1994-04-05,,,4,,,White,Not Specified,1,Intimidation,1.0,Other/Unknown,Anti-Jewish,Individual,S,S
+2017,City,NJ,New Jersey,2017-02-15,,,0,,,Unknown,Not Specified,0,Destruction/Damage/Vandalism of Property,,School/College,Anti-Black or African American,Other,S,S
+2005,City,NJ,New Jersey,2005-04-01,,,1,,,White,Not Specified,1,Intimidation,1.0,School/College,Anti-Hispanic or Latino,Individual,S,S
+2024,City,NV,Nevada,2024-06-13,2.0,0.0,1,0.0,0.0,White,Unknown,1,Aggravated Assault,2.0,Restaurant,Anti-Hispanic or Latino,Individual,S,S
+1994,City,NY,New York,1994-11-13,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Residence/Home,Anti-Jewish,Other,S,S
+2008,City,CO,Colorado,2008-09-08,,,0,,,Unknown,Not Specified,1,Impersonation,1.0,Residence/Home,Anti-Gay (Male),Individual,S,S
+2008,City,AK,Alaska,2008-05-31,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-Black or African American,Individual,S,S
+2001,University or College,NC,North Carolina,2001-09-14,,,1,,,White,Not Specified,1,Intimidation,1.0,School/College,Anti-Islamic (Muslim),Individual,S,S
+1999,City,CA,California,1999-05-28,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-Asian,Individual,S,S
+2024,City,IA,Iowa,2024-10-07,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Intimidation,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Individual,S,S
+2010,County,CA,California,2010-09-04,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-Hispanic or Latino,Individual,S,S
+2022,City,ID,Idaho,2022-01-02,1.0,0.0,2,2.0,0.0,White,Not Specified,1,Aggravated Assault,1.0,Other/Unknown,Anti-White,Individual,S,S
+2006,City,MA,Massachusetts,2006-12-16,,,0,,,Unknown,Not Specified,1,Burglary/Breaking & Entering,1.0,Parking/Drop Lot/Garage,Anti-White,Individual,S,S
+2024,University or College,WY,Wyoming,2024-11-27,1.0,0.0,0,,,Not Specified,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,School-College/University,Anti-Gay (Male),Individual,S,S
+1996,City,CA,California,1996-06-20,,,1,,,White,Not Specified,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Other Race/Ethnicity/Ancestry,Individual,S,S
+2001,City,MA,Massachusetts,2001-06-25,,,3,,,White,Not Specified,1,Intimidation,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Lesbian (Female),Individual,S,S
+2014,County,CA,California,2014-08-12,0.0,0.0,3,0.0,0.0,White,Not Specified,1,Aggravated Assault,1.0,Jail/Prison/Penitentiary/Corrections Facility,Anti-Gay (Male),Individual,S,S
+2007,County,VA,Virginia,2007-07-21,,,2,,,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Other/Unknown,Anti-Black or African American,Individual,S,S
+2019,City,CA,California,2019-10-10,0.0,1.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Aggravated Assault,1.0,School-Elementary/Secondary,Anti-Hispanic or Latino,Individual,S,S
+2004,City,NV,Nevada,2004-06-16,,,1,,,White,Not Specified,1,Destruction/Damage/Vandalism of Property,2.0,Parking/Drop Lot/Garage,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",Individual,S,S
+2024,City,MA,Massachusetts,2024-06-21,0.0,0.0,0,,,Not Specified,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Church/Synagogue/Temple/Mosque,Anti-Jewish,Religious Organization,S,S
+2006,County,NY,New York,2006-02-07,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Other/Unknown,Anti-Black or African American,Unknown,S,S
+1996,City,CA,California,1996-05-11,,,0,,,Unknown,Not Specified,1,Intimidation,1.0,Residence/Home,Anti-Black or African American,Individual,S,S
+1992,City,CT,Connecticut,1992-10-11,,,3,,,Black or African American,Not Specified,1,Aggravated Assault,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,S,S
+2024,City,OH,Ohio,2024-05-07,0.0,0.0,2,2.0,0.0,White,Hispanic or Latino,1,Drug Equipment Violations,0.0,Park/Playground,Anti-White,Society/Public,S,S
+2013,City,WI,Wisconsin,2013-01-29,0.0,0.0,0,0.0,0.0,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Other/Unknown,Anti-Asian,Individual,S,S
+2007,City,CT,Connecticut,2007-06-08,,,3,,,Multiple,Not Specified,1,Simple Assault,3.0,School/College,"Anti-Multiple Races, Group",Individual,S,S
+1996,City,NJ,New Jersey,1996-11-17,,,0,,,White,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Residence/Home,Anti-Black or African American,Other,S,S
+2001,City,NJ,New Jersey,2001-04-06,,,0,,,Unknown,Not Specified,1,Intimidation,1.0,Specialty Store,Anti-Black or African American,Individual,S,S
+2014,City,KS,Kansas,2014-03-17,0.0,0.0,1,0.0,0.0,White,Not Specified,2,Aggravated Assault;Destruction/Damage/Vandalism of Property,2.0,Government/Public Building,Anti-Black or African American,Government;Individual,M,S
+2013,City,CA,California,2013-03-02,0.0,0.0,1,0.0,0.0,White,Not Specified,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Individual,S,S
+1997,City,CO,Colorado,1997-03-17,,,1,,,White,Not Specified,1,Intimidation,1.0,Restaurant,Anti-Hispanic or Latino,Individual,S,S
+1994,City,MD,Maryland,1994-03-18,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Individual,S,S
+2002,University or College,DE,Delaware,2002-11-09,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Gay (Male),Government,S,S
+2000,City,CA,California,2000-02-04,,,2,,,White,Not Specified,1,Aggravated Assault,1.0,Restaurant,Anti-Other Race/Ethnicity/Ancestry,Individual,S,S
+2013,City,OH,Ohio,2013-10-18,0.0,0.0,0,0.0,0.0,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Physical Disability,Individual,S,S
+2007,City,NJ,New Jersey,2007-04-11,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Air/Bus/Train Terminal,Anti-Jewish,Business,S,S
+2015,City,CA,California,2015-12-18,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Arab,Individual,S,S
+2006,City,CA,California,2006-08-16,,,2,,,White,Not Specified,1,Intimidation,1.0,Residence/Home,Anti-Black or African American,Individual,S,S
+2007,City,DE,Delaware,2007-11-10,,,2,,,White,Not Specified,1,Simple Assault,1.0,Convenience Store,Anti-Hispanic or Latino,Individual,S,S
+2011,City,AZ,Arizona,2011-03-18,0.0,0.0,1,0.0,0.0,White,Not Specified,1,Simple Assault,3.0,Air/Bus/Train Terminal,Anti-Asian,Individual,S,S
+2004,County,VA,Virginia,2004-06-04,,,1,,,White,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Residence/Home,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",Individual,S,S
+2002,University or College,MI,Michigan,2002-11-04,,,1,,,White,Not Specified,1,Intimidation,0.0,School/College,Anti-Islamic (Muslim),Individual,S,S
+2001,City,NJ,New Jersey,2001-09-20,,,1,,,White,Not Specified,1,Intimidation,1.0,Service/Gas Station,Anti-Arab,Individual,S,S
+1991,City,MD,Maryland,1991-11-15,,,1,,,White,Not Specified,1,Intimidation,1.0,Residence/Home,Anti-Black or African American,Individual,S,S
+1997,City,AZ,Arizona,1997-06-28,,,1,,,White,Not Specified,1,Simple Assault,1.0,Commercial/Office Building,Anti-Black or African American,Individual,S,S
+1998,City,CA,California,1998-01-16,,,1,,,Black or African American,Not Specified,1,Aggravated Assault,1.0,Air/Bus/Train Terminal,Anti-Asian,Individual,S,S
+2023,City,IL,Illinois,2023-10-24,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Intimidation,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Individual,S,S
+2016,City,CA,California,2016-10-06,1.0,0.0,0,0.0,0.0,Unknown,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Individual,S,S
+1996,City,CA,California,1996-01-08,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Other/Unknown,Anti-Black or African American,Business,S,S
+2022,City,AL,Alabama,2022-07-08,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Home,Anti-Black or African American,Individual,S,S
+1999,City,CO,Colorado,1999-07-07,,,2,,,White,Not Specified,2,Destruction/Damage/Vandalism of Property;Intimidation,6.0,Residence/Home,Anti-Jewish,Business;Government;Individual,M,S
+2006,City,CA,California,2006-04-06,,,0,,,Unknown,Not Specified,1,Intimidation,1.0,Drug Store/Doctor's Office/Hospital,Anti-Jewish,Individual,S,S
+2023,City,MI,Michigan,2023-12-24,0.0,1.0,2,0.0,2.0,Multiple,Not Specified,1,Intimidation,1.0,Residence/Home,Anti-White,Individual,S,S
+2008,City,DE,Delaware,2008-04-20,,,2,,,Black or African American,Not Specified,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Individual,S,S
+1999,City,FL,Florida,1999-02-24,,,1,,,White,Not Specified,1,Murder and Nonnegligent Manslaughter,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Individual,S,S
+2009,City,MA,Massachusetts,2009-08-03,,,0,,,Unknown,Not Specified,1,Simple Assault,1.0,Hotel/Motel/Etc.,Anti-Lesbian (Female),Individual,S,S
+1995,City,CT,Connecticut,1995-08-28,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Individual,S,S
+2004,City,CA,California,2004-04-26,,,1,,,Asian,Not Specified,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Individual,S,S
+2019,Federal,FS,Federal,2019-07-17,3.0,0.0,2,2.0,0.0,White,Not Hispanic or Latino,1,Intimidation,3.0,Residence/Home,Anti-Black or African American,Individual,S,S
+2018,City,KY,Kentucky,2018-01-14,0.0,0.0,0,,,Not Specified,Not Specified,1,All Other Larceny,0.0,Department/Discount Store,Anti-Jehovah's Witness,Business,S,S
+1994,County,WA,Washington,1994-04-16,,,1,,,Black or African American,Not Specified,1,Intimidation,2.0,Bar/Nightclub,Anti-White,Individual,S,S
+1993,City,IL,Illinois,1993-02-20,,,3,,,White,Not Specified,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,S,S
+1995,City,MA,Massachusetts,1995-07-14,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Black or African American,Society/Public,S,S
+2003,City,NY,New York,2003-09-19,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Other/Unknown,Anti-Jewish,Other,S,S
+1995,City,NJ,New Jersey,1995-08-02,,,0,,,Unknown,Not Specified,1,Simple Assault,1.0,Service/Gas Station,Anti-Arab,Individual,S,S
+2010,City,MI,Michigan,2010-07-18,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,2.0,Parking/Drop Lot/Garage,Anti-Black or African American,Individual,S,S
+1994,City,NY,New York,1994-06-05,,,1,,,Black or African American,Not Specified,1,Intimidation,1.0,Other/Unknown,Anti-White,Individual,S,S
+2012,City,AZ,Arizona,2012-10-31,,,1,,,White,Not Specified,1,Simple Assault,1.0,Other/Unknown,Anti-Black or African American,Individual,S,S
+2019,City,NJ,New Jersey,2019-09-27,,1.0,1,0.0,1.0,White,Unknown,1,Intimidation,1.0,School-Elementary/Secondary,Anti-Asian,Individual,S,S
+2007,City,TN,Tennessee,2007-05-11,,,4,,,Black or African American,Not Specified,1,Simple Assault,2.0,Residence/Home,Anti-White,Individual,S,S
+2006,City,MA,Massachusetts,2006-12-20,,,1,,,Black or African American,Not Specified,1,Intimidation,1.0,Parking/Drop Lot/Garage,Anti-White,Individual,S,S
+2002,City,WA,Washington,2002-08-20,,,1,,,Unknown,Not Specified,1,Intimidation,1.0,Residence/Home,Anti-Black or African American,Individual,S,S
+1996,City,WA,Washington,1996-07-09,,,5,,,Black or African American,Not Specified,1,Intimidation,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Other Race/Ethnicity/Ancestry,Individual,S,S
+2013,City,OR,Oregon,2013-03-04,0.0,0.0,1,0.0,0.0,White,Not Specified,1,Aggravated Assault,1.0,Other/Unknown,Anti-Gay (Male),Individual,S,S
+2002,County,CA,California,2002-03-21,,,5,,,Multiple,Not Specified,1,Simple Assault,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Mental Disability,Individual,S,S
+2000,County,TX,Texas,2000-05-04,,,2,,,White,Not Specified,1,Intimidation,1.0,Service/Gas Station,Anti-Black or African American,Individual,S,S
+2002,City,NJ,New Jersey,2002-07-18,,,1,,,White,Not Specified,1,Intimidation,1.0,Other/Unknown,Anti-Hispanic or Latino,Individual,S,S
+2004,County,SC,South Carolina,2004-10-26,,,1,,,White,Not Specified,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",Individual,S,S
+2012,City,NJ,New Jersey,2012-09-25,,,1,,,White,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Jewish,Other,S,S
+1996,City,CA,California,1996-03-06,,,0,,,Unknown,Not Specified,1,Intimidation,1.0,Residence/Home,Anti-Hispanic or Latino,Individual,S,S
+2008,City,TN,Tennessee,2008-01-30,,,1,,,Black or African American,Not Specified,1,Intimidation,1.0,Drug Store/Doctor's Office/Hospital,Anti-White,Individual,S,S
+2009,City,MA,Massachusetts,2009-10-01,,,3,,,Black or African American,Not Specified,1,Intimidation,1.0,Church/Synagogue/Temple/Mosque,Anti-Catholic,Individual,S,S
+2013,City,OR,Oregon,2013-05-31,0.0,0.0,0,0.0,0.0,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-Other Race/Ethnicity/Ancestry,Individual,S,S
+2002,City,MN,Minnesota,2002-10-10,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Residence/Home,Anti-Black or African American,Society/Public,S,S
+1992,City,OK,Oklahoma,1992-11-13,,,1,,,White,Not Specified,1,Aggravated Assault,1.0,School/College,Anti-Black or African American,Individual,S,S
+2006,City,NJ,New Jersey,2006-05-08,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Drug Store/Doctor's Office/Hospital,Anti-Black or African American,Business,S,S
+2008,City,MI,Michigan,2008-10-04,,,2,,,Black or African American,Not Specified,1,Stolen Property Offenses,0.0,Residence/Home,Anti-White,Business,S,S
+1995,City,CA,California,1995-10-17,,,4,,,Black or African American,Not Specified,1,Simple Assault,1.0,Grocery/Supermarket,Anti-White,Individual,S,S
+2024,City,NM,New Mexico,2024-03-30,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Individual,S,S
+2006,State Police,DE,Delaware,2006-01-15,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Physical Disability,Business,S,S
+2005,City,NC,North Carolina,2005-03-03,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Black or African American,Other,S,S
+2018,City,WV,West Virginia,2018-11-01,0.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Drug/Narcotic Violations,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Society/Public,S,S
+2019,City,NY,New York,2019-08-04,,,1,,,Unknown,Not Specified,1,Simple Assault,1.0,Other/Unknown,Anti-Other Race/Ethnicity/Ancestry,Individual,S,S
+1998,City,MI,Michigan,1998-04-02,,,1,,,White,Not Specified,1,Simple Assault,1.0,Residence/Home,Anti-Black or African American,Individual,S,S
+2017,City,CA,California,2017-02-09,1.0,0.0,1,1.0,0.0,White,Not Specified,1,Simple Assault,1.0,Restaurant,Anti-Hispanic or Latino,Individual,S,S
+2000,City,OH,Ohio,2000-11-20,,,1,,,White,Not Specified,1,Intimidation,1.0,Residence/Home,Anti-Black or African American,Individual,S,S
+2001,City,MI,Michigan,2001-04-08,,,2,,,White,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Residence/Home,Anti-Mental Disability,Individual,S,S
+2016,City,MO,Missouri,2016-06-04,0.0,0.0,1,0.0,0.0,White,Not Specified,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Individual,S,S
+2004,City,MN,Minnesota,2004-11-01,,,1,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Other,S,S
+2023,University or College,WA,Washington,2023-09-13,0.0,0.0,0,,,Not Specified,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Residence/Home,Anti-Jewish,Government,S,S
+2016,City,CA,California,2016-03-23,0.0,0.0,0,0.0,0.0,Unknown,Unknown,1,Destruction/Damage/Vandalism of Property,0.0,Commercial/Office Building,Anti-Black or African American,Business,S,S
+2004,City,MI,Michigan,2004-05-19,,,2,,,Multiple,Not Specified,1,Intimidation,0.0,Residence/Home,Anti-Islamic (Muslim),Individual,S,S
+2024,City,NC,North Carolina,2024-09-05,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Restaurant,Anti-Hispanic or Latino,Individual,S,S
+1993,City,CA,California,1993-10-21,,,0,,,Unknown,Not Specified,1,Intimidation,1.0,Residence/Home,Anti-Gay (Male),Individual,S,S
+2007,City,CA,California,2007-09-16,,,1,,,Black or African American,Not Specified,1,Intimidation,3.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Individual,S,S
+2003,City,MD,Maryland,2003-09-14,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Individual,S,S
+2016,State Police,CT,Connecticut,2016-08-01,1.0,0.0,1,1.0,0.0,Black or African American,Unknown,1,Intimidation,1.0,Government/Public Building,Anti-White,Individual,S,S
+1995,City,MI,Michigan,1995-10-07,,,1,,,White,Not Specified,1,Intimidation,2.0,Service/Gas Station,Anti-Other Race/Ethnicity/Ancestry,Individual,S,S
+1994,City,UT,Utah,1994-01-01,,,1,,,White,Not Specified,1,Shoplifting,0.0,Grocery/Supermarket,Anti-White,Business,S,S
+1993,City,CT,Connecticut,1993-04-26,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Commercial/Office Building,Anti-Black or African American,Business;Society/Public,S,S
+2010,City,CA,California,2010-11-06,,,1,,,Black or African American,Not Specified,1,Destruction/Damage/Vandalism of Property,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Individual,S,S
+1993,City,NJ,New Jersey,1993-11-16,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,School/College,"Anti-Multiple Races, Group",Society/Public,S,S
+2006,City,OH,Ohio,2006-01-24,,,1,,,Unknown,Not Specified,1,Intimidation,1.0,Other/Unknown,Anti-Jewish,Individual,S,S
+2021,City,CA,California,2021-06-03,1.0,0.0,0,0.0,0.0,Unknown,Unknown,1,Not Specified,1.0,Commercial/Office Building,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",Individual,S,S
+1997,County,MD,Maryland,1997-12-01,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Jewish,Government,S,S
+1998,City,NY,New York,1998-07-08,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-Jewish,Individual;Other,S,S
+2022,City,NJ,New Jersey,2022-12-06,1.0,,1,1.0,0.0,White,Unknown,1,Intimidation,1.0,Commercial/Office Building,Anti-Jewish,Individual,S,S
+2020,City,NJ,New Jersey,2020-11-07,1.0,,0,0.0,0.0,Unknown,Unknown,1,Intimidation,1.0,Parking/Drop Lot/Garage,Anti-Black or African American,Individual,S,S
+2019,City,ME,Maine,2019-04-07,2.0,1.0,1,1.0,0.0,White,Unknown,1,Intimidation,3.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Individual,S,S
+2016,City,MA,Massachusetts,2016-07-07,0.0,0.0,1,0.0,0.0,Black or African American,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Transgender,Individual,S,S
+2020,County,NM,New Mexico,2020-03-09,1.0,0.0,2,2.0,0.0,White,Hispanic or Latino,3,Aggravated Assault;Destruction/Damage/Vandalism of Property;Weapon Law Violations,1.0,Auto Dealership New/Used;Specialty Store,Anti-Black or African American,Individual;Society/Public,M,S
+1993,City,CA,California,1993-01-14,,,1,,,Unknown,Not Specified,1,Not Specified,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,S,S
+2008,City,MA,Massachusetts,2008-08-05,,,1,,,Black or African American,Not Specified,1,Intimidation,1.0,Commercial/Office Building,Anti-White,Individual,S,S
+1994,City,NY,New York,1994-04-08,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Other/Unknown,Anti-Jewish,Society/Public,S,S
+2007,University or College,CA,California,2007-10-14,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Black or African American,Government,S,S
+1995,City,ME,Maine,1995-08-06,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Jewish,Society/Public,S,S
+2020,City,NJ,New Jersey,2020-06-19,1.0,,0,0.0,0.0,Unknown,Unknown,1,Intimidation,1.0,Commercial/Office Building,Anti-Jewish,Individual,S,S
+1996,City,CA,California,1996-06-25,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,2.0,Residence/Home,Anti-Black or African American,Individual,S,S
+2015,County,TX,Texas,2015-05-30,,,1,,,Black or African American,Not Specified,1,Simple Assault,2.0,Residence/Home,Anti-Lesbian (Female),Individual,S,S
+1999,City,MA,Massachusetts,1999-06-01,,,3,,,White,Not Specified,1,Intimidation,3.0,Other/Unknown,Anti-Gay (Male),Individual,S,S
+2007,City,OH,Ohio,2007-07-13,,,2,,,White,Not Specified,1,Simple Assault,1.0,Commercial/Office Building,Anti-Black or African American,Individual,S,S
+2009,City,PA,Pennsylvania,2009-09-01,,,1,,,White,Not Specified,1,Simple Assault,1.0,Residence/Home,Anti-Black or African American,Individual,S,S
+2024,City,AZ,Arizona,2024-11-19,2.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,2.0,Service/Gas Station,Anti-Hispanic or Latino,Individual,S,S
+2018,City,MD,Maryland,2018-04-15,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-Black or African American,Individual,S,S
+2000,City,TX,Texas,2000-09-10,,,0,,,Unknown,Not Specified,2,Burglary/Breaking & Entering;Destruction/Damage/Vandalism of Property,1.0,Residence/Home,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",Individual,M,S
+1998,City,UT,Utah,1998-02-01,,,2,,,White,Not Specified,1,Intimidation,1.0,Residence/Home,Anti-Black or African American,Individual,S,S
+1993,City,CA,California,1993-10-05,,,1,,,White,Not Specified,1,Intimidation,1.0,Residence/Home,Anti-Asian,Individual,S,S
+1995,City,CA,California,1995-08-28,,,3,,,White,Not Specified,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Individual,S,S
+2007,City,TX,Texas,2007-07-29,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Church/Synagogue/Temple/Mosque,Anti-Black or African American,Religious Organization,S,S
+2000,City,VT,Vermont,2000-04-15,,,1,,,Black or African American,Not Specified,1,Simple Assault,1.0,Government/Public Building,Anti-White,Individual,S,S
+2010,City,NY,New York,2010-11-29,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Other/Unknown,Anti-Black or African American,Individual;Other,S,S
+2009,City,CA,California,2009-02-17,,,1,,,White,Not Specified,1,Not Specified,1.0,Residence/Home,Anti-Other Race/Ethnicity/Ancestry,Individual,S,S
+2016,City,UT,Utah,2016-06-19,1.0,0.0,1,0.0,1.0,Unknown,Unknown,1,Simple Assault,1.0,Residence/Home,Anti-Hispanic or Latino,Individual,S,S
+1992,Other State Agency,CO,Colorado,1992-08-02,,,1,,,White,Not Specified,1,Intimidation,4.0,Lake/Waterway/Beach,Anti-Arab,Individual,S,S
+2021,City,WA,Washington,2021-04-18,1.0,0.0,2,2.0,0.0,White,Multiple,1,Aggravated Assault,1.0,Residence/Home,Anti-Gay (Male),Individual,S,S
+1999,City,NJ,New Jersey,1999-01-01,,,1,,,White,Not Specified,1,Intimidation,1.0,Other/Unknown,Anti-Black or African American,Individual,S,S
+1999,County,TX,Texas,1999-06-15,,,0,,,Unknown,Not Specified,1,Intimidation,7.0,Residence/Home,Anti-Black or African American,Individual,S,S
+2024,City,CA,California,2024-07-16,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Intimidation,1.0,Church/Synagogue/Temple/Mosque,Anti-Jewish,Individual,S,S
+2017,City,CA,California,2017-04-23,1.0,0.0,1,1.0,0.0,White,Not Specified,1,Intimidation,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,S,S
+1999,City,MN,Minnesota,1999-04-09,,,1,,,White,Not Specified,1,Intimidation,2.0,Other/Unknown,Anti-White,Individual,S,S
+2022,City,CA,California,2022-05-15,1.0,0.0,1,1.0,0.0,Black or African American,Unknown,1,Robbery,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Individual,S,S
+1992,City,NJ,New Jersey,1992-09-21,,,0,,,Unknown,Not Specified,1,Intimidation,1.0,Bank/Savings and Loan,Anti-Black or African American,Individual,S,S
+1997,Other,KY,Kentucky,1997-08-21,,,1,,,White,Not Specified,1,Intimidation,1.0,Air/Bus/Train Terminal,Anti-Black or African American,Individual,S,S
+2006,City,NY,New York,2006-05-21,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Church/Synagogue/Temple/Mosque,Anti-Jewish,Religious Organization,S,S
+2022,County,SC,South Carolina,2022-09-06,1.0,0.0,4,4.0,0.0,White,Not Hispanic or Latino,1,All Other Larceny,1.0,Residence/Home,Anti-American Indian or Alaska Native,Individual,S,S
+2020,City,KY,Kentucky,2020-06-06,2.0,0.0,1,1.0,0.0,Black or African American,Not Specified,2,Aggravated Assault;Destruction/Damage/Vandalism of Property,2.0,Parking/Drop Lot/Garage,"Anti-Multiple Races, Group",Individual,M,S
+2008,City,MO,Missouri,2008-08-23,,,2,,,White,Not Specified,1,Aggravated Assault,1.0,Bar/Nightclub,Anti-American Indian or Alaska Native,Individual,S,S
+2000,City,NJ,New Jersey,2000-04-17,,,1,,,White,Not Specified,1,Simple Assault,1.0,School/College,Anti-Hispanic or Latino,Individual,S,S
+2024,City,PA,Pennsylvania,2024-07-26,0.0,1.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Mental Disability;Anti-White,Business;Individual,S,M
+2019,City,IN,Indiana,2019-11-27,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Intimidation,1.0,Residence/Home,Anti-Black or African American,Individual,S,S
+2024,Other State Agency,MD,Maryland,2024-08-20,5.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Aggravated Assault,5.0,Air/Bus/Train Terminal,Anti-American Indian or Alaska Native,Individual,S,S
+2000,City,MI,Michigan,2000-09-02,,,0,,,Unknown,Not Specified,1,Aggravated Assault,1.0,Field/Woods,Anti-Black or African American,Individual,S,S
+2021,City,NY,New York,2021-01-02,,,1,,,Black or African American,Not Specified,1,Simple Assault,1.0,Other/Unknown,Anti-Female,Individual,S,S
+2007,Other,MI,Michigan,2007-06-24,,,3,,,White,Not Specified,1,Intimidation,3.0,Highway/Road/Alley/Street/Sidewalk,"Anti-Multiple Races, Group",Individual,S,S
+2011,City,KY,Kentucky,2011-05-29,0.0,0.0,1,0.0,0.0,White,Not Specified,1,Intimidation,4.0,Government/Public Building,Anti-Black or African American,Individual,S,S
+1996,City,CA,California,1996-07-24,,,1,,,Black or African American,Not Specified,1,Simple Assault,1.0,Air/Bus/Train Terminal,Anti-Gay (Male),Individual,S,S
+2018,City,CA,California,2018-06-08,1.0,0.0,1,1.0,0.0,Unknown,Hispanic or Latino,1,Robbery,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,S,S
+1995,City,MI,Michigan,1995-01-26,,,1,,,Unknown,Not Specified,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,S,S
+2019,County,MO,Missouri,2019-11-07,1.0,0.0,1,0.0,1.0,Unknown,Unknown,1,Motor Vehicle Theft,1.0,Residence/Home,"Anti-Eastern Orthodox (Russian, Greek, Other)",Individual,S,S
+2016,County,VA,Virginia,2016-02-13,1.0,0.0,0,0.0,0.0,Unknown,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,Church/Synagogue/Temple/Mosque,Anti-Jewish,Individual,S,S
+2021,City,NJ,New Jersey,2021-09-29,1.0,,1,1.0,0.0,White,Unknown,1,Intimidation,1.0,Other/Unknown,Anti-Black or African American,Individual,S,S
+1993,City,IL,Illinois,1993-09-12,,,1,,,Unknown,Not Specified,1,Simple Assault,1.0,Restaurant,Anti-White,Individual,S,S
+2005,County,VA,Virginia,2005-06-07,,,1,,,White,Not Specified,1,Simple Assault,1.0,Commercial/Office Building,Anti-Black or African American,Individual,S,S
+2017,City,UT,Utah,2017-10-15,1.0,0.0,0,,,Not Specified,Not Specified,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,"Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",Individual,S,S
+2024,City,CA,California,2024-09-21,1.0,0.0,1,1.0,0.0,White,Hispanic or Latino,1,Aggravated Assault,1.0,Parking/Drop Lot/Garage,Anti-Hispanic or Latino,Individual,S,S
+2006,City,CA,California,2006-07-16,,,1,,,White,Not Specified,1,Intimidation,1.0,Commercial/Office Building,Anti-Jewish,Individual,S,S
+2005,City,NJ,New Jersey,2005-10-06,,,1,,,White,Not Specified,1,Intimidation,1.0,School/College,Anti-Black or African American,Individual,S,S
+2007,City,KS,Kansas,2007-05-18,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-Black or African American,Individual,S,S
+1996,City,NJ,New Jersey,1996-09-27,,,1,,,Black or African American,Not Specified,1,Intimidation,1.0,Residence/Home,Anti-Jewish,Individual,S,S
+1995,City,MA,Massachusetts,1995-11-26,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Church/Synagogue/Temple/Mosque,Anti-Black or African American,Religious Organization,S,S
+2010,City,CT,Connecticut,2010-09-06,,,3,,,Multiple,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Other/Unknown,Anti-Jewish,Government,S,S
+2002,City,CA,California,2002-11-07,,,1,,,Unknown,Not Specified,1,Intimidation,1.0,Residence/Home,Anti-Other Race/Ethnicity/Ancestry,Individual,S,S
+2001,City,MA,Massachusetts,2001-09-07,,,0,,,Unknown,Not Specified,1,Aggravated Assault,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-Catholic,Individual,S,S
+2018,City,OH,Ohio,2018-10-21,1.0,0.0,0,,,Not Specified,Not Specified,1,Burglary/Breaking & Entering,1.0,Other/Unknown,Anti-Mental Disability,Individual,S,S
+2007,City,MI,Michigan,2007-10-27,,,1,,,White,Not Specified,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Individual,S,S
+2023,City,MI,Michigan,2023-02-17,6.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Intimidation,6.0,Residence/Home,Anti-Black or African American,Individual,S,S
+2024,City,NY,New York,2024-12-26,1.0,0.0,1,0.0,0.0,Unknown,Unknown,1,Intimidation,1.0,Church/Synagogue/Temple/Mosque,Anti-Jewish,Individual,S,S
+1994,City,ID,Idaho,1994-05-25,,,1,,,White,Not Specified,1,Intimidation,1.0,Specialty Store,Anti-White,Individual,S,S
+1992,City,MD,Maryland,1992-06-16,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Government/Public Building,Anti-Black or African American,Society/Public,S,S
+2016,City,TX,Texas,2016-05-08,0.0,0.0,1,0.0,0.0,White,Not Specified,1,Aggravated Assault,1.0,Convenience Store,Anti-Black or African American,Individual,S,S
+2004,City,CA,California,2004-10-15,,,1,,,White,Not Specified,1,Intimidation,1.0,Parking/Drop Lot/Garage,Anti-Black or African American,Individual,S,S
+2024,University or College,PA,Pennsylvania,2024-11-07,1.0,,0,0.0,0.0,Unknown,Unknown,1,Intimidation,1.0,School-College/University,Anti-Black or African American,Individual,S,S
+1993,City,MO,Missouri,1993-12-17,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Commercial/Office Building,Anti-Black or African American,Individual,S,S
+2004,City,CA,California,2004-11-01,,,2,,,White,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Commercial/Office Building,Anti-Black or African American,Business,S,S
