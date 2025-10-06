@@ -2,5 +2,9 @@
 /data/raw/*
 /data/preprocessed/*
 !data/raw/sample_*.csv
+!data/raw/sample_*.json
+!data/raw/sample_*.paruqet
 !data/raw/README.md
 !data/preprocessed/sample_*.csv
+!data/preprocessed/sample_*.json
+!data/preprocessed/sample_*.parquet
