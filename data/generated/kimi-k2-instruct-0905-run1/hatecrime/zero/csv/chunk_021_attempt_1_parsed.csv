@@ -1,0 +1,41 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1992,City,CA,California,1992-03-15,1,0,2,2,0,White,Non-Hispanic,1,Intimidation,1,Residence/Home,Anti-Black,Individual,No,No
+1995,County,TX,Texas,1995-07-22,0,1,1,1,0,Black,Hispanic,1,Simple Assault,1,School/College,Anti-Hispanic,Juvenile,No,No
+1998,State,NY,New York,1998-11-08,2,0,3,3,0,White,Non-Hispanic,2,Aggravated Assault,2,Highway/Road,Anti-Jewish,Individual,Yes,No
+1991,City,FL,Florida,1991-02-28,1,0,1,0,1,Asian,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Church/Synagogue/Temple,Anti-Christian,Individual,No,No
+1994,County,PA,Pennsylvania,1994-09-14,0,0,2,1,1,White,Non-Hispanic,0,Destruction/Damage/Vandalism,0,Residence/Home,Anti-Black,Society/Public,No,No
+1997,City,IL,Illinois,1997-04-03,1,0,1,1,0,Black,Non-Hispanic,1,Robbery,1,Convenience Store,Anti-White,Individual,No,No
+2000,County,OH,Ohio,2000-08-19,0,1,2,2,0,White,Hispanic,1,Simple Assault,1,Park/Playground,Anti-Hispanic,Juvenile,No,No
+2003,State,MI,Michigan,2003-12-25,2,0,1,1,0,White,Non-Hispanic,2,Intimidation,2,Residence/Home,Anti-Islamic,Individual,No,No
+2005,City,GA,Georgia,2005-05-11,1,0,3,3,0,Black,Non-Hispanic,1,Aggravated Assault,1,Bar/Nightclub,Anti-Gay (Male),Individual,No,No
+2008,County,NC,North Carolina,2008-10-30,0,0,1,1,0,White,Non-Hispanic,0,Destruction/Damage/Vandalism,0,Church/Synagogue/Temple,Anti-Jewish,Society/Public,No,No
+2010,City,NJ,New Jersey,2010-01-17,1,0,2,1,1,White,Non-Hispanic,1,Simple Assault,1,Residence/Home,Anti-Asian,Individual,No,No
+2012,State,VA,Virginia,2012-06-05,0,1,1,1,0,Black,Non-Hispanic,1,Intimidation,1,School/College,Anti-White,Juvenile,No,No
+2014,County,WA,Washington,2014-08-23,2,0,2,2,0,Asian,Non-Hispanic,2,Aggravated Assault,2,Parking Lot,Anti-LGBTQ,Individual,No,No
+1993,City,MA,Massachusetts,1993-04-09,0,0,1,1,0,White,Non-Hispanic,0,Destruction/Damage/Vandalism,0,Residence/Home,Anti-Black,Society/Public,No,No
+1996,County,AZ,Arizona,1996-10-12,1,0,3,3,0,White,Hispanic,1,Intimidation,1,Highway/Road,Anti-Hispanic,Individual,No,No
+1999,City,CO,Colorado,1999-07-04,0,1,1,0,1,White,Non-Hispanic,1,Simple Assault,1,Park/Playground,Anti-LGBTQ,Juvenile,No,No
+2001,State,TN,Tennessee,2001-03-20,2,0,2,2,0,Black,Non-Hispanic,2,Robbery,2,Gas Station,Anti-White,Individual,Yes,No
+2004,County,MN,Minnesota,2004-11-15,1,0,1,1,0,White,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Church/Synagogue/Temple,Anti-Islamic,Individual,No,No
+2006,City,MO,Missouri,2006-02-27,0,0,2,1,1,White,Non-Hispanic,0,Destruction/Damage/Vandalism,0,School/College,Anti-Jewish,Society/Public,No,No
+2009,State,OR,Oregon,2009-09-08,1,0,3,3,0,White,Non-Hispanic,1,Aggravated Assault,1,Bar/Nightclub,Anti-Gay (Male),Individual,No,No
+2011,County,WI,Wisconsin,2011-12-31,0,1,2,2,0,Black,Hispanic,1,Intimidation,1,Residence/Home,Anti-Hispanic,Juvenile,No,No
+2013,City,MD,Maryland,2013-05-14,2,0,1,1,0,White,Non-Hispanic,2,Simple Assault,2,Convenience Store,Anti-Black,Individual,No,No
+1994,State,AL,Alabama,1994-06-18,1,0,2,2,0,White,Non-Hispanic,1,Intimidation,1,Highway/Road,Anti-Black,Individual,No,No
+1997,County,SC,South Carolina,1997-01-29,0,0,1,1,0,Black,Non-Hispanic,0,Destruction/Damage/Vandalism,0,Church/Synagogue/Temple,Anti-Christian,Society/Public,No,No
+2000,City,IN,Indiana,2000-10-07,0,1,1,0,1,White,Non-Hispanic,1,Simple Assault,1,School/College,Anti-LGBTQ,Juvenile,No,No
+2002,State,LA,Louisiana,2002-08-12,2,0,3,3,0,Black,Hispanic,2,Aggravated Assault,2,Parking Lot,Anti-Hispanic,Individual,Yes,No
+2005,County,KY,Kentucky,2005-03-25,1,0,2,1,1,White,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Residence/Home,Anti-Gay (Male),Individual,No,No
+2007,City,OK,Oklahoma,2007-11-03,0,0,1,1,0,Asian,Non-Hispanic,0,Destruction/Damage/Vandalism,0,Residence/Home,Anti-Asian,Society/Public,No,No
+2010,State,CT,Connecticut,2010-07-19,1,0,2,2,0,White,Non-Hispanic,1,Robbery,1,Bar/Nightclub,Anti-Jewish,Individual,No,No
+2012,County,NV,Nevada,2012-04-22,0,1,1,1,0,White,Hispanic,1,Intimidation,1,Park/Playground,Anti-Hispanic,Juvenile,No,No
+2014,City,KS,Kansas,2014-09-30,2,0,2,2,0,Black,Non-Hispanic,2,Simple Assault,2,Gas Station,Anti-White,Individual,No,No
+1992,State,AR,Arkansas,1992-05-13,1,0,1,1,0,White,Non-Hispanic,1,Aggravated Assault,1,Highway/Road,Anti-Black,Individual,No,No
+1995,County,MS,Mississippi,1995-08-08,0,0,2,1,1,Black,Non-Hispanic,0,Destruction/Damage/Vandalism,0,Church/Synagogue/Temple,Anti-Christian,Society/Public,No,No
+1998,City,UT,Utah,1998-12-20,0,1,3,3,0,White,Non-Hispanic,1,Intimidation,1,School/College,Anti-LGBTQ,Juvenile,No,No
+2001,State,NM,New Mexico,2001-02-11,2,0,1,1,0,White,Hispanic,2,Destruction/Damage/Vandalism,2,Residence/Home,Anti-Hispanic,Individual,No,No
+2003,County,WV,West Virginia,2003-06-27,1,0,2,2,0,White,Non-Hispanic,1,Simple Assault,1,Bar/Nightclub,Anti-Gay (Male),Individual,No,No
+2006,City,IA,Iowa,2006-10-14,0,0,1,1,0,Black,Non-Hispanic,0,Destruction/Damage/Vandalism,0,Residence/Home,Anti-Black,Society/Public,No,No
+2008,State,ME,Maine,2008-01-05,1,0,3,3,0,White,Non-Hispanic,1,Robbery,1,Convenience Store,Anti-Islamic,Individual,Yes,No
+2011,County,NH,New Hampshire,2011-07-30,0,1,2,2,0,White,Non-Hispanic,1,Aggravated Assault,1,Park/Playground,Anti-White,Juvenile,No,No
+2013,City,RI,Rhode Island,2013-11-11,2,0,1,1,0,Asian,Non-Hispanic,2,Intimidation,2,Parking Lot,Anti-Asian,Individual,No,No

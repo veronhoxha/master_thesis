@@ -1,0 +1,50 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1992,City,CA,California,1992-04-12,1,0,2,2,0,White,Non-Hispanic,1,Intimidation,1,Residence/Home,Anti-Black,Individual,No,No
+1995,County,TX,Texas,1995-11-03,0,1,1,0,1,Black,Hispanic,1,Vandalism,1,School,Anti-Hispanic,Individual,No,No
+1998,State,NY,New York,1998-07-19,2,0,3,3,0,Asian,Non-Hispanic,2,Simple Assault,2,Highway/Road,Anti-Asian,Individuals,Yes,No
+2001,City,FL,Florida,2001-02-28,1,0,1,1,0,White,Non-Hispanic,1,Aggravated Assault,1,Bar/Nightclub,Anti-Gay (Male),Individual,No,No
+2004,County,IL,Illinois,2004-09-15,0,2,2,1,1,White,Hispanic,2,Intimidation,2,Residence/Home,Anti-Hispanic,Juveniles,No,No
+2007,State,PA,Pennsylvania,2007-12-22,1,0,2,2,0,Black,Non-Hispanic,1,Robbery,1,Convenience Store,Anti-Black,Individual,No,No
+2010,City,OH,Ohio,2010-05-07,0,1,1,0,1,White,Non-Hispanic,1,Vandalism,1,School,Anti-Jewish,Juvenile,No,No
+2013,County,MI,Michigan,2013-08-11,2,0,1,1,0,White,Non-Hispanic,2,Murder,2,Residence/Home,Anti-White,Individuals,No,No
+1994,State,CA,California,1994-03-29,1,0,3,2,1,White,Hispanic,1,Simple Assault,1,Parking Lot,Anti-Hispanic,Individual,Yes,No
+1999,City,TX,Texas,1999-10-14,0,1,2,1,1,Black,Non-Hispanic,1,Vandalism,1,Religious Facility,Anti-Islamic,Juvenile,No,No
+2002,County,NY,New York,2002-06-03,1,0,1,1,0,Asian,Non-Hispanic,1,Intimidation,1,Residence/Home,Anti-Asian,Individual,No,No
+2005,State,FL,Florida,2005-01-26,0,2,2,0,2,White,Non-Hispanic,2,Aggravated Assault,2,School,Anti-Black,Juveniles,No,No
+2008,City,IL,Illinois,2008-10-09,1,0,1,1,0,White,Hispanic,1,Vandalism,1,Residence/Home,Anti-Hispanic,Individual,No,No
+2011,County,PA,Pennsylvania,2011-07-20,2,0,2,2,0,Black,Non-Hispanic,2,Simple Assault,2,Highway/Road,Anti-White,Individuals,Yes,No
+1993,State,OH,Ohio,1993-12-05,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,School,Anti-Gay (Male),Juvenile,No,No
+1996,City,MI,Michigan,1996-08-30,1,0,3,3,0,White,Non-Hispanic,1,Aggravated Assault,1,Bar/Nightclub,Anti-Black,Individual,Yes,No
+2000,County,CA,California,2000-04-17,0,1,2,1,1,Black,Hispanic,1,Vandalism,1,Residence/Home,Anti-Hispanic,Juvenile,No,No
+2003,State,TX,Texas,2003-11-22,2,0,1,1,0,Asian,Non-Hispanic,2,Murder,2,Residence/Home,Anti-Asian,Individuals,No,No
+2006,City,NY,New York,2006-02-13,1,0,2,2,0,White,Non-Hispanic,1,Simple Assault,1,Parking Lot,Anti-Jewish,Individual,No,No
+2009,County,FL,Florida,2009-09-04,0,2,2,0,2,White,Hispanic,2,Intimidation,2,School,Anti-Hispanic,Juveniles,No,No
+2012,State,IL,Illinois,2012-05-28,1,0,1,1,0,Black,Non-Hispanic,1,Vandalism,1,Religious Facility,Anti-Islamic,Individual,No,No
+1991,City,PA,Pennsylvania,1991-07-02,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,Residence/Home,Anti-White,Juvenile,No,No
+1997,County,OH,Ohio,1997-10-15,2,0,3,2,1,White,Hispanic,2,Aggravated Assault,2,Bar/Nightclub,Anti-Hispanic,Individuals,Yes,No
+2000,State,MI,Michigan,2000-03-11,1,0,2,2,0,Black,Non-Hispanic,1,Simple Assault,1,Highway/Road,Anti-Black,Individual,No,No
+2004,City,CA,California,2004-12-24,0,1,1,0,1,Asian,Non-Hispanic,1,Vandalism,1,School,Anti-Asian,Juvenile,No,No
+2007,County,TX,Texas,2007-06-18,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Residence/Home,Anti-Gay (Male),Individual,No,No
+2010,State,NY,New York,2010-01-29,0,2,2,1,1,White,Hispanic,2,Robbery,2,Convenience Store,Anti-Hispanic,Juveniles,No,No
+2013,City,FL,Florida,2013-10-06,2,0,2,2,0,Black,Non-Hispanic,2,Murder,2,Residence/Home,Anti-White,Individuals,No,No
+1995,State,IL,Illinois,1995-05-12,1,0,3,3,0,White,Non-Hispanic,1,Vandalism,1,Religious Facility,Anti-Jewish,Individual,Yes,No
+1998,City,PA,Pennsylvania,1998-08-07,0,1,2,1,1,Black,Hispanic,1,Simple Assault,1,School,Anti-Hispanic,Juvenile,No,No
+2001,County,OH,Ohio,2001-11-30,1,0,1,1,0,White,Non-Hispanic,1,Aggravated Assault,1,Bar/Nightclub,Anti-Black,Individual,No,No
+2005,State,MI,Michigan,2005-02-14,0,1,1,0,1,Asian,Non-Hispanic,1,Intimidation,1,Residence/Home,Anti-Asian,Juvenile,No,No
+2008,City,CA,California,2008-07-23,2,0,2,2,0,White,Hispanic,2,Vandalism,2,Highway/Road,Anti-Hispanic,Individuals,No,No
+2011,County,TX,Texas,2011-04-16,1,0,1,1,0,Black,Non-Hispanic,1,Simple Assault,1,Parking Lot,Anti-Islamic,Individual,No,No
+2014,State,NY,New York,2014-09-02,0,2,2,0,2,White,Non-Hispanic,2,Intimidation,2,School,Anti-Gay (Male),Juveniles,No,No
+1992,City,FL,Florida,1992-10-25,1,0,3,2,1,White,Non-Hispanic,1,Murder,1,Residence/Home,Anti-White,Individual,Yes,No
+1996,State,IL,Illinois,1996-06-08,0,1,1,0,1,Black,Non-Hispanic,1,Vandalism,1,Religious Facility,Anti-Black,Juvenile,No,No
+1999,County,PA,Pennsylvania,1999-01-19,2,0,2,2,0,White,Non-Hispanic,2,Aggravated Assault,2,Bar/Nightclub,Anti-Jewish,Individuals,No,No
+2003,City,OH,Ohio,2003-08-04,1,0,1,1,0,Asian,Hispanic,1,Simple Assault,1,Residence/Home,Anti-Hispanic,Individual,No,No
+2006,State,MI,Michigan,2006-03-27,0,1,2,1,1,White,Non-Hispanic,1,Intimidation,1,School,Anti-Asian,Juvenile,No,No
+2009,County,CA,California,2009-11-13,1,0,2,2,0,Black,Non-Hispanic,1,Robbery,1,Convenience Store,Anti-Black,Individual,No,No
+2012,City,TX,Texas,2012-07-30,0,2,2,0,2,White,Hispanic,2,Vandalism,2,Residence/Home,Anti-Hispanic,Juveniles,No,No
+1994,State,NY,New York,1994-05-21,2,0,1,1,0,White,Non-Hispanic,2,Murder,2,Highway/Road,Anti-Gay (Male),Individuals,No,No
+1997,County,FL,Florida,1997-12-17,1,0,3,3,0,Black,Non-Hispanic,1,Simple Assault,1,Parking Lot,Anti-Islamic,Individual,Yes,No
+2000,City,IL,Illinois,2000-09-09,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,Residence/Home,Anti-White,Juvenile,No,No
+2005,State,PA,Pennsylvania,2005-02-03,1,0,2,1,1,Black,Hispanic,1,Aggravated Assault,1,Bar/Nightclub,Anti-Hispanic,Individual,No,No
+2008,County,OH,Ohio,2008-10-28,2,0,2,2,0,Asian,Non-Hispanic,2,Vandalism,2,School,Anti-Asian,Individuals,No,No
+2011,City,MI,Michigan,2011-06-14,1,0,1,1,0,White,Non-Hispanic,1,Simple Assault,1,Religious Facility,Anti-Jewish,Individual,No,No
+2014,State,CA,California,2014-12-20,0,1,2,1,1,White,Hispanic,1,Intimidation,1,Residence/Home,Anti-Hispanic,Juvenile,No,No

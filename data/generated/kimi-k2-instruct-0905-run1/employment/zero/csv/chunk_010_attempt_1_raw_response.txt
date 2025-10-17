@@ -1,0 +1,49 @@
+EmployerName,SicCodes,DiffMeanHourlyPercent,DiffMedianHourlyPercent,DiffMeanBonusPercent,DiffMedianBonusPercent,MaleBonusPercent,FemaleBonusPercent,MaleLowerQuartile,FemaleLowerQuartile,MaleLowerMiddleQuartile,FemaleLowerMiddleQuartile,MaleUpperMiddleQuartile,FemaleUpperMiddleQuartile,MaleTopQuartile,FemaleTopQuartile,EmployerSize,DateSubmitted
+Thameslink Logistics Ltd,52290,14.7,18.2,32.1,28.4,12.3,8.7,58,42,62,38,68,32,72,28,Medium,2024-11-03
+Brighton Bay Hotels Group,55110,9.3,11.5,22.0,19.8,15.6,12.1,46,54,48,52,52,48,56,44,Large,2024-10-12
+Peak District Foods Ltd,10890,6.8,5.4,18.5,16.2,21.0,18.3,42,58,44,56,49,51,53,47,Medium,2025-01-08
+Caledonian IT Solutions,62020,22.5,24.8,45.7,41.3,18.9,14.2,72,28,75,25,79,21,83,17,Large,2024-12-01
+Cornwall Community Care,86101,4.1,2.9,11.2,9.5,8.4,6.2,18,82,16,84,22,78,25,75,Small,2025-02-14
+Midlands Automotive Parts,29320,18.9,21.3,38.6,34.7,25.3,20.1,64,36,67,33,71,29,76,24,Medium,2024-11-27
+Yorkshire Legal Services,69110,16.2,19.5,42.1,38.9,31.7,27.4,55,45,58,42,63,37,69,31,Medium,2025-01-20
+Oxford BioMed Innovations,72190,12.4,14.6,28.3,25.7,22.5,19.1,52,48,55,45,59,41,64,36,Small,2024-09-30
+Glasgow City Retail Co,47110,10.7,13.2,24.9,22.1,19.8,16.5,48,52,51,49,56,44,61,39,Large,2024-10-05
+Norfolk Construction Ltd,41202,26.3,29.1,51.2,47.8,35.4,29.7,78,22,81,19,85,15,88,12,Medium,2025-03-02
+Bristol Financial Advisors,66121,20.5,23.7,48.9,44.2,38.6,33.1,68,32,71,29,75,25,80,20,Small,2024-11-11
+Liverpool Leisure Centres,93130,7.2,9.8,16.4,14.3,11.2,8.9,38,62,41,59,46,54,51,49,Medium,2025-02-28
+Cambridge EduTech Ltd,85600,15.6,17.9,30.2,27.5,24.1,20.8,59,41,62,38,66,34,70,30,Small,2024-12-15
+Cardiff Waste Solutions,38110,11.3,13.8,26.7,23.9,16.7,13.4,54,46,57,43,62,38,67,33,Medium,2025-01-25
+Exeter Fashion Retailers,47710,19.8,22.4,41.5,37.2,29.3,24.6,66,34,69,31,73,27,78,22,Large,2024-10-20
+Belfast Maritime Services,52230,13.7,16.1,31.4,28.0,20.5,17.2,61,39,64,36,68,32,72,28,Medium,2025-03-10
+Derby Engineering Works,28110,24.6,27.2,49.8,45.3,32.1,27.5,75,25,78,22,82,18,86,14,Medium,2024-11-14
+Sheffield Arts Council,90030,8.5,10.9,19.7,17.1,13.8,11.0,44,56,47,53,52,48,57,43,Small,2025-02-03
+Plymouth Green Energy,35110,17.2,19.8,35.4,31.7,26.9,22.7,63,37,66,34,70,30,74,26,Medium,2024-12-22
+Newcastle Property Managers,68100,14.9,17.3,33.1,29.6,23.4,19.8,58,42,61,39,65,35,69,31,Small,2025-01-12
+Nottingham Insurance Brokers,66220,18.3,21.0,40.2,36.5,30.1,25.8,65,35,68,32,72,28,76,24,Medium,2024-10-28
+Reading Logistics Hub,52242,16.5,18.7,34.8,31.2,21.7,18.3,62,38,65,35,69,31,73,27,Large,2025-03-05
+Aberdeen Fishing Co,03110,21.4,24.0,46.3,42.1,33.5,28.9,70,30,73,27,77,23,81,19,Small,2024-11-30
+Leeds Recruitment Agency,78109,25.1,27.9,50.7,46.2,36.8,31.4,74,26,77,23,81,19,85,15,Medium,2025-02-17
+Brighton Digital Marketing,73110,13.2,15.8,29.5,26.1,25.3,21.7,56,44,59,41,63,37,67,33,Small,2024-12-08
+Bath Health Clinics,86210,5.9,7.6,14.2,12.0,10.1,7.8,32,68,35,65,40,60,45,55,Small,2025-01-30
+Swansea Manufacturing Ltd,25120,23.8,26.5,48.1,43.6,34.2,29.7,76,24,79,21,83,17,87,13,Medium,2024-10-15
+Manchester Music Venues,90040,9.7,12.1,21.8,19.2,16.4,13.5,49,51,52,48,57,43,62,38,Medium,2025-03-12
+Birmingham Childcare Services,88910,3.2,1.8,8.5,6.9,5.7,4.1,14,86,12,88,16,84,19,81,Small,2024-11-25
+Lincoln Agricultural Coops,11000,15.4,17.6,32.7,29.3,20.1,16.8,60,40,63,37,67,33,71,29,Medium,2025-02-09
+Durham University Labs,72110,11.8,14.2,27.1,24.0,19.6,16.4,53,47,56,44,60,40,64,36,Large,2024-12-30
+Kent Garden Centres,47760,12.6,15.0,28.9,25.8,18.3,15.2,57,43,60,40,64,36,68,32,Small,2025-01-18
+Blackpool Entertainment Ltd,90020,10.3,12.7,23.5,20.8,14.9,12.3,50,50,53,47,58,42,63,37,Medium,2024-10-22
+Chester Veterinary Clinics,75000,6.1,4.5,15.8,13.4,9.7,7.5,28,72,31,69,36,64,41,59,Small,2025-03-08
+Inverness Transport Co,49390,17.9,20.3,36.2,32.8,24.7,21.1,64,36,67,33,71,29,75,25,Medium,2024-11-19
+Coventry Security Services,80100,19.5,22.1,39.7,35.9,27.5,23.4,67,33,70,30,74,26,78,22,Small,2025-02-24
+Worcester Food Processing,10720,8.4,6.7,19.3,16.8,13.5,10.9,41,59,44,56,49,51,54,46,Large,2024-12-12
+Bradford Housing Assoc,68201,7.6,9.2,17.0,14.7,11.8,9.3,39,61,42,58,47,53,52,48,Medium,2025-01-22
+Peterborough Logistics,49410,20.2,22.8,41.9,38.1,28.6,24.3,69,31,72,28,76,24,80,20,Large,2024-10-18
+Canterbury Insurance,65120,16.8,19.2,35.6,32.0,26.1,22.4,61,39,64,36,68,32,72,28,Small,2025-03-15
+Hull Maritime Logistics,50200,22.7,25.3,47.2,42.9,33.8,29.2,73,27,76,24,80,20,84,16,Medium,2024-11-12
+Stoke Medical Devices,32500,13.9,16.3,30.8,27.4,21.6,18.2,58,42,61,39,65,35,69,31,Small,2025-02-21
+Portsmouth Naval Architects,71111,19.1,21.7,40.5,36.8,29.7,25.3,66,34,69,31,73,27,77,23,Medium,2024-12-25
+Exeter Renewable Energy,35140,15.7,18.1,33.4,30.0,23.8,20.2,60,40,63,37,67,33,71,29,Small,2025-01-15
+Luton Airport Services,51101,14.2,16.6,31.5,28.2,22.0,18.7,59,41,62,38,66,34,70,30,Large,2024-10-30
+Dundee Textile Mills,13100,24.0,26.8,49.3,44.7,35.1,30.6,75,25,78,22,82,18,86,14,Medium,2025-03-18
+Preston Legal Consultants,69109,17.4,19.9,36.8,33.1,27.3,23.5,63,37,66,34,70,30,74,26,Small,2024-11-08
+Oxford Eco Packaging,17021,11.5,13.9,26.2,23.6,18.9,15.8,54,46,57,43,61,39,65,35,Medium,2025-02-14

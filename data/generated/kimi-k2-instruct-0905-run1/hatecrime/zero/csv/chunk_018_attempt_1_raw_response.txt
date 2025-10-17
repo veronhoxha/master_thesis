@@ -1,0 +1,51 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1992,City,CA,California,1992-03-15,1,0,2,2,0,White,Non-Hispanic,1,Intimidation,1,Residence/Home,Anti-Black,Gay Male,No,No
+1995,Sheriff,TX,Texas,1995-07-22,0,1,1,1,0,Black,Hispanic,1,Simple Assault,1,Highway/Road,Anti-Hispanic,Individual,No,No
+1998,City,NY,New York,1998-11-03,2,0,3,2,1,White,Non-Hispanic,2,Aggravated Assault,2,Restaurant,Anti-Jewish,Family,Yes,No
+1991,State Police,FL,Florida,1991-09-05,1,0,1,1,0,Asian,Non-Hispanic,1,Destruction/Damage/Vandalism,1,School/College,Anti-Islamic,Individual,No,No
+1994,City,IL,Illinois,1994-12-18,0,1,2,1,1,Black,Non-Hispanic,1,Intimidation,1,Residence/Home,Anti-White,Juvenile,No,No
+1997,Sheriff,PA,Pennsylvania,1997-02-27,1,0,1,1,0,White,Non-Hispanic,1,Simple Assault,1,Service/Gas Station,Anti-Male Homosexual,Gay Male,No,No
+2000,City,OH,Ohio,2000-08-14,1,0,2,2,0,White,Hispanic,1,Aggravated Assault,1,Parking Lot/Garage,Anti-Hispanic,Individual,No,No
+1993,State Police,MI,Michigan,1993-05-30,0,2,1,1,0,White,Non-Hispanic,2,Destruction/Damage/Vandalism,2,Church/Synagogue/Temple,Anti-Catholic,Juvenile,No,No
+1999,Sheriff,GA,Georgia,1999-10-09,2,0,3,3,0,Black,Non-Hispanic,2,Intimidation,2,Residence/Home,Anti-White,Family,No,No
+1996,City,NC,North Carolina,1996-01-12,1,0,1,1,0,White,Non-Hispanic,1,Simple Assault,1,Bar/Nightclub,Anti-Black,Individual,No,No
+1992,City,CA,California,1992-04-21,0,1,2,1,1,Asian,Non-Hispanic,1,Aggravated Assault,1,School/College,Anti-Asian,Juvenile,No,No
+1994,Sheriff,TX,Texas,1994-06-07,1,0,1,1,0,White,Hispanic,1,Destruction/Damage/Vandalism,1,Residence/Home,Anti-Hispanic,Individual,No,No
+1997,City,NY,New York,1997-12-03,3,0,2,2,0,Black,Non-Hispanic,3,Intimidation,3,Highway/Road,Anti-Jewish,Group,Yes,No
+1991,State Police,FL,Florida,1991-08-25,0,1,1,0,1,White,Non-Hispanic,1,Simple Assault,1,Park/Playground,Anti-Male Homosexual,Juvenile,No,No
+1995,City,IL,Illinois,1995-10-14,2,0,1,1,0,White,Non-Hispanic,2,Aggravated Assault,2,Service/Gas Station,Anti-Islamic,Individual,No,No
+1998,Sheriff,PA,Pennsylvania,1998-03-19,1,0,2,1,1,Black,Hispanic,1,Destruction/Damage/Vandalism,1,School/College,Anti-Hispanic,Individual,No,No
+2000,City,OH,Ohio,2000-07-02,0,2,3,2,1,White,Non-Hispanic,2,Intimidation,2,Residence/Home,Anti-Catholic,Juvenile,No,No
+1993,State Police,MI,Michigan,1993-11-11,1,0,1,1,0,Asian,Non-Hispanic,1,Simple Assault,1,Bar/Nightclub,Anti-Asian,Individual,No,No
+1999,City,GA,Georgia,1999-05-26,0,1,1,1,0,White,Non-Hispanic,1,Aggravated Assault,1,Highway/Road,Anti-Black,Juvenile,No,No
+1996,Sheriff,NC,North Carolina,1996-09-08,2,0,2,2,0,Black,Non-Hispanic,2,Destruction/Damage/Vandalism,2,Church/Synagogue/Temple,Anti-Protestant,Family,No,No
+1992,City,CA,California,1992-12-30,1,0,1,0,1,White,Hispanic,1,Intimidation,1,Parking Lot/Garage,Anti-Hispanic,Individual,No,No
+1995,Sheriff,TX,Texas,1995-02-13,0,1,2,1,1,Black,Non-Hispanic,1,Simple Assault,1,School/College,Anti-White,Juvenile,No,No
+1998,City,NY,New York,1998-06-24,3,0,3,3,0,White,Non-Hispanic,3,Aggravated Assault,3,Residence/Home,Anti-Jewish,Group,Yes,No
+1991,State Police,FL,Florida,1991-10-17,1,0,1,1,0,White,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Service/Gas Station,Anti-Male Homosexual,Gay Male,No,No
+1994,City,IL,Illinois,1994-01-29,0,2,1,1,0,Black,Hispanic,2,Intimidation,2,Park/Playground,Anti-Hispanic,Juvenile,No,No
+1997,Sheriff,PA,Pennsylvania,1997-08-06,2,0,2,1,1,Asian,Non-Hispanic,2,Simple Assault,2,Bar/Nightclub,Anti-Asian,Individual,No,No
+2000,City,OH,Ohio,2000-04-18,1,0,3,2,1,White,Non-Hispanic,1,Aggravated Assault,1,Highway/Road,Anti-Catholic,Individual,No,No
+1993,State Police,MI,Michigan,1993-07-01,0,1,1,1,0,Black,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Residence/Home,Anti-White,Juvenile,No,No
+1999,Sheriff,GA,Georgia,1999-12-22,2,0,1,1,0,White,Hispanic,2,Intimidation,2,Church/Synagogue/Temple,Anti-Hispanic,Family,No,No
+1996,City,NC,North Carolina,1996-03-15,1,0,2,2,0,White,Non-Hispanic,1,Simple Assault,1,Parking Lot/Garage,Anti-Black,Individual,No,No
+1992,City,CA,California,1992-09-04,0,1,1,0,1,Black,Non-Hispanic,1,Aggravated Assault,1,School/College,Anti-Male Homosexual,Juvenile,No,No
+1994,Sheriff,TX,Texas,1994-10-08,3,0,2,1,1,White,Non-Hispanic,3,Destruction/Damage/Vandalism,3,Service/Gas Station,Anti-Jewish,Group,Yes,No
+1997,City,NY,New York,1997-05-11,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Bar/Nightclub,Anti-Hispanic,Individual,No,No
+1991,State Police,FL,Florida,1991-06-19,0,2,3,2,1,Black,Non-Hispanic,2,Simple Assault,2,Park/Playground,Anti-White,Juvenile,No,No
+1995,City,IL,Illinois,1995-11-26,2,0,2,2,0,White,Non-Hispanic,2,Aggravated Assault,2,Highway/Road,Anti-Islamic,Individual,No,No
+1998,Sheriff,PA,Pennsylvania,1998-02-04,1,0,1,1,0,White,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Residence/Home,Anti-Catholic,Individual,No,No
+2000,City,OH,Ohio,2000-10-13,0,1,2,1,1,Black,Hispanic,1,Intimidation,1,School/College,Anti-Hispanic,Juvenile,No,No
+1993,State Police,MI,Michigan,1993-08-30,3,0,3,3,0,White,Non-Hispanic,3,Simple Assault,3,Church/Synagogue/Temple,Anti-Protestant,Group,Yes,No
+1999,City,GA,Georgia,1999-04-07,1,0,1,0,1,Black,Non-Hispanic,1,Aggravated Assault,1,Parking Lot/Garage,Anti-Black,Individual,No,No
+1996,Sheriff,NC,North Carolina,1996-12-20,0,2,1,1,0,Asian,Non-Hispanic,2,Destruction/Damage/Vandalism,2,Service/Gas Station,Anti-Asian,Juvenile,No,No
+1992,City,CA,California,1992-07-25,2,0,2,1,1,White,Hispanic,2,Intimidation,2,Bar/Nightclub,Anti-Hispanic,Family,No,No
+1995,Sheriff,TX,Texas,1995-03-31,1,0,3,2,1,Black,Non-Hispanic,1,Simple Assault,1,Highway/Road,Anti-White,Individual,No,No
+1998,City,NY,New York,1998-09-16,0,1,1,1,0,White,Non-Hispanic,1,Aggravated Assault,1,Park/Playground,Anti-Male Homosexual,Juvenile,No,No
+2001,State Police,FL,Florida,2001-01-28,2,0,2,2,0,Black,Non-Hispanic,2,Destruction/Damage/Vandalism,2,Residence/Home,Anti-Jewish,Individual,No,No
+2003,City,IL,Illinois,2003-06-09,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Church/Synagogue/Temple,Anti-Catholic,Gay Male,No,No
+2005,Sheriff,PA,Pennsylvania,2005-10-22,0,1,2,1,1,Asian,Hispanic,1,Simple Assault,1,Parking Lot/Garage,Anti-Hispanic,Juvenile,No,No
+2007,City,OH,Ohio,2007-04-14,3,0,3,3,0,White,Non-Hispanic,3,Aggravated Assault,3,Service/Gas Station,Anti-Islamic,Group,Yes,No
+2009,State Police,MI,Michigan,2009-08-03,1,0,2,2,0,Black,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Bar/Nightclub,Anti-Black,Individual,No,No
+2011,City,GA,Georgia,2011-11-17,0,2,1,1,0,White,Non-Hispanic,2,Intimidation,2,Highway/Road,Anti-White,Juvenile,No,No
+2013,Sheriff,NC,North Carolina,2013-02-26,2,0,1,1,0,Black,Hispanic,2,Simple Assault,2,Park/Playground,Anti-Hispanic,Family,No,No

@@ -1,0 +1,49 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,City,CA,California,1991-03-15,2,0,3,2,1,White,Not Hispanic,2,Intimidation,2,Residence/Home,Anti-Black or African American,Individuals,N,S
+1992,County,TX,Texas,1992-07-22,1,0,1,1,0,Black,Hispanic,1,Simple Assault,1,Highway/Road/Alley,Anti-White,Individual,N,S
+1993,State Police,NY,New York,1993-11-08,0,1,2,1,1,Asian,Not Specified,1,Destruction/Damage/Vandalism of Property,0,Church/Synagogue,Anti-Jewish,Organization,N,S
+1994,City,FL,Florida,1994-02-28,3,1,4,3,1,White,Not Hispanic,4,Aggravated Assault,4,Restaurant,Anti-Hispanic or Latino,Individuals,Y,S
+1995,Sheriff,IL,Illinois,1995-09-14,1,0,2,2,0,Black,Not Hispanic,1,Robbery,1,Gas Station,Anti-White,Individual,N,S
+1996,City,PA,Pennsylvania,1996-04-30,0,2,1,0,1,White,Not Specified,2,Intimidation,2,School/College,Anti-Black or African American,Juveniles,N,S
+1997,County,OH,Ohio,1997-08-17,1,0,1,1,0,White,Not Hispanic,1,Murder and Nonnegligent Manslaughter,1,Residence/Home,Anti-Gay (Male),Individual,N,S
+1998,State Police,MI,Michigan,1998-12-05,2,0,3,3,0,Black,Not Hispanic,2,Aggravated Assault,2,Parking Lot,Anti-White,Individuals,Y,S
+1999,City,WA,Washington,1999-01-19,0,1,2,1,1,Unknown,Hispanic,1,Simple Assault,1,School/College,Anti-Asian,Juvenile,N,S
+2000,Sheriff,GA,Georgia,2000-06-11,1,0,1,1,0,White,Not Hispanic,1,Intimidation,1,Residence/Home,Anti-Black or African American,Individual,N,S
+2001,County,NC,North Carolina,2001-10-26,3,0,4,4,0,White,Hispanic,3,Destruction/Damage/Vandalism of Property,0,Residence/Home,Anti-Hispanic or Latino,Individuals,Y,S
+2002,City,NJ,New Jersey,2002-05-03,0,2,3,2,1,Black,Not Hispanic,2,Simple Assault,2,School/College,Anti-White,Juveniles,N,S
+2003,State Police,AZ,Arizona,2003-08-14,1,0,2,1,1,White,Hispanic,1,Aggravated Assault,1,Highway/Road/Alley,Anti-Native Hawaiian or Other Pacific Islander,Individual,N,S
+2004,City,MA,Massachusetts,2004-03-27,2,0,1,1,0,Asian,Not Specified,2,Intimidation,2,Residence/Home,Anti-Black or African American,Individuals,N,S
+2005,Sheriff,VA,Virginia,2005-07-09,0,1,1,0,1,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0,School/College,Anti-Jewish,Juvenile,N,S
+2006,County,CO,Colorado,2006-11-22,1,0,3,2,1,White,Not Hispanic,1,Robbery,1,Convenience Store,Anti-Islamic,Individual,Y,S
+2007,City,TN,Tennessee,2007-02-18,4,0,5,4,1,Black,Not Hispanic,4,Aggravated Assault,4,Restaurant,Anti-White,Individuals,Y,S
+2008,State Police,OR,Oregon,2008-09-30,0,2,2,1,1,White,Not Hispanic,2,Simple Assault,2,Park/Playground,Anti-Gay (Male),Juveniles,N,S
+2009,City,MN,Minnesota,2009-04-12,1,0,1,1,0,American Indian,Hispanic,1,Murder and Nonnegligent Manslaughter,1,Residence/Home,Anti-Hispanic or Latino,Individual,N,S
+2010,County,WI,Wisconsin,2010-08-05,2,1,3,2,1,Black,Not Hispanic,3,Intimidation,3,School/College,Anti-White,Individuals,Y,S
+2011,Sheriff,MD,Maryland,2011-12-20,0,1,1,0,1,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0,Church/Synagogue,Anti-Jewish,Juvenile,N,S
+2012,City,SC,South Carolina,2012-06-03,1,0,2,1,1,White,Hispanic,1,Simple Assault,1,Highway/Road/Alley,Anti-Black or African American,Individual,N,S
+2013,State Police,UT,Utah,2013-01-15,3,0,4,3,1,Asian,Not Specified,3,Aggravated Assault,3,Bar/Nightclub,Anti-Mormon,Individuals,Y,S
+2014,County,AL,Alabama,2014-10-28,0,2,2,1,1,Black,Not Hispanic,2,Intimidation,2,School/College,Anti-White,Juveniles,N,S
+1991,City,NV,Nevada,1991-07-04,1,0,1,1,0,White,Not Hispanic,1,Destruction/Damage/Vandalism of Property,0,Residence/Home,Anti-Asian,Individual,N,S
+1992,County,IN,Indiana,1992-03-11,2,0,3,2,1,Black,Hispanic,2,Robbery,2,Gas Station,Anti-Hispanic or Latino,Individuals,Y,S
+1993,City,MO,Missouri,1993-09-25,0,1,1,0,1,White,Not Specified,1,Simple Assault,1,School/College,Anti-Black or African American,Juvenile,N,S
+1994,State Police,LA,Louisiana,1994-12-14,1,0,2,1,1,Unknown,Not Hispanic,1,Intimidation,1,Residence/Home,Anti-White,Individual,N,S
+1995,Sheriff,KY,Kentucky,1995-04-07,3,1,4,3,1,White,Not Hispanic,4,Aggravated Assault,4,Park/Playground,Anti-Black or African American,Individuals,Y,S
+1996,City,AR,Arkansas,1996-10-30,1,0,1,1,0,Black,Not Hispanic,1,Murder and Nonnegligent Manslaughter,1,Highway/Road/Alley,Anti-Gay (Male),Individual,N,S
+1997,County,MS,Mississippi,1997-05-13,0,2,2,1,1,American Indian,Hispanic,2,Destruction/Damage/Vandalism of Property,0,School/College,Anti-Hispanic or Latino,Juveniles,N,S
+1998,City,OK,Oklahoma,1998-08-09,2,0,3,2,1,White,Not Hispanic,2,Simple Assault,2,Convenience Store,Anti-Islamic,Individuals,N,S
+1999,State Police,KS,Kansas,1999-02-22,1,0,1,1,0,Black,Not Specified,1,Intimidation,1,Residence/Home,Anti-White,Individual,N,S
+2000,City,CT,Connecticut,2000-11-17,0,1,2,1,1,Unknown,Hispanic,1,Robbery,1,School/College,Anti-Black or African American,Juvenile,Y,S
+2001,Sheriff,WV,West Virginia,2001-06-04,4,0,5,4,1,Asian,Not Hispanic,4,Aggravated Assault,4,Bar/Nightclub,Anti-White,Individuals,Y,S
+2002,County,ME,Maine,2002-01-29,1,0,1,1,0,White,Not Hispanic,1,Destruction/Damage/Vandalism of Property,0,Church/Synagogue,Anti-Jewish,Individual,N,S
+2003,City,NM,New Mexico,2003-07-12,0,2,3,2,1,Black,Not Specified,2,Simple Assault,2,Park/Playground,Anti-White,Juveniles,N,S
+2004,State Police,NH,New Hampshire,2004-09-03,2,1,2,1,1,White,Hispanic,3,Intimidation,3,Residence/Home,Anti-Hispanic or Latino,Individuals,Y,S
+2005,City,MT,Montana,2005-03-18,1,0,1,1,0,American Indian,Not Hispanic,1,Murder and Nonnegligent Manslaughter,1,Highway/Road/Alley,Anti-Native Hawaiian or Other Pacific Islander,Individual,N,S
+2006,County,ND,North Dakota,2006-12-07,0,1,1,0,1,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0,School/College,Anti-Mormon,Juvenile,N,S
+2007,City,SD,South Dakota,2007-05-26,3,0,4,3,1,White,Not Hispanic,3,Robbery,3,Gas Station,Anti-Black or African American,Individuals,Y,S
+2008,Sheriff,VT,Vermont,2008-08-14,1,0,2,1,1,Black,Hispanic,1,Aggravated Assault,1,Residence/Home,Anti-Hispanic or Latino,Individual,N,S
+2009,State Police,WY,Wyoming,2009-04-21,0,2,2,1,1,Asian,Not Specified,2,Simple Assault,2,School/College,Anti-Gay (Male),Juveniles,N,S
+2010,City,DE,Delaware,2010-10-02,2,0,3,2,1,White,Not Hispanic,2,Intimidation,2,Parking Lot,Anti-Islamic,Individuals,N,S
+2011,County,AK,Alaska,2011-01-16,1,0,1,1,0,Black,Not Hispanic,1,Destruction/Damage/Vandalism of Property,0,Residence/Home,Anti-White,Individual,N,S
+2012,City,HI,Hawaii,2012-07-29,0,1,2,1,1,Unknown,Hispanic,1,Simple Assault,1,Park/Playground,Anti-Asian,Juvenile,Y,S
+2013,State Police,DC,District of Columbia,2013-11-11,4,0,5,4,1,American Indian,Not Specified,4,Aggravated Assault,4,Bar/Nightclub,Anti-Black or African American,Individuals,Y,S
+2014,County,RI,Rhode Island,2014-02-05,1,1,3,2,1,White,Not Hispanic,2,Murder and Nonnegligent Manslaughter,2,Convenience Store,Anti-Jewish,Individuals,Y,S

@@ -1,0 +1,49 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1992,County Police,AL,Alabama,1992-04-12,1,0,2,2,0,White,Non-Hispanic,1,Intimidation,1,Highway/Roadway,Anti-Black,Individual,No,No
+1994,City,CA,California,1994-07-03,0,1,1,1,0,Asian,Hispanic,1,Simple Assault,1,Restaurant,Anti-Hispanic,Individual,No,No
+1996,State Police,NY,New York,1996-11-25,2,0,3,2,1,Black,Non-Hispanic,2,Aggravated Assault,2,Residence/Home,Anti-White,Individual,Yes,No
+1998,City,TX,Texas,1998-02-14,1,1,1,1,0,White,Non-Hispanic,2,Vandalism,2,Church/Synagogue,Anti-Jewish,Religious,No,Yes
+1991,County Police,FL,Florida,1991-09-30,0,2,2,1,1,White,Non-Hispanic,2,Intimidation,2,School-College,Anti-Black,Individual,No,No
+1993,City,IL,Illinois,1993-01-18,1,0,1,1,0,Black,Non-Hispanic,1,Robbery,1,Gas Station,Anti-White,Individual,No,No
+1995,State Police,PA,Pennsylvania,1995-06-08,0,1,2,2,0,White,Non-Hispanic,1,Simple Assault,1,Bar/Nightclub,Anti-Gay (Male),Individual,No,No
+1997,County Police,OH,Ohio,1997-10-22,2,0,1,1,0,White,Non-Hispanic,2,Murder,2,Residence/Home,Anti-Black,Individual,No,No
+1999,City,MI,Michigan,1999-03-15,1,0,3,3,0,Black,Non-Hispanic,1,Aggravated Assault,1,Parking Lot,Anti-White,Individual,Yes,No
+2000,State Police,GA,Georgia,2000-08-04,0,1,1,0,1,White,Hispanic,1,Intimidation,1,School-Elementary,Anti-Hispanic,Individual,No,No
+2001,County Police,NC,North Carolina,2001-12-01,2,0,2,1,1,White,Non-Hispanic,2,Vandalism,2,Department Store,Anti-Black,Individual,No,No
+2002,City,NJ,New Jersey,2002-05-19,1,0,1,1,0,Asian,Non-Hispanic,1,Simple Assault,1,Residence/Home,Anti-Asian,Individual,No,No
+2003,State Police,VA,Virginia,2003-09-07,0,2,2,2,0,White,Non-Hispanic,2,Intimidation,2,Playground,Anti-Black,Individual,No,No
+2004,County Police,WA,Washington,2004-01-28,1,0,1,1,0,White,Non-Hispanic,1,Vandalism,1,Church/Synagogue,Anti-Jewish,Religious,No,No
+2005,City,AZ,Arizona,2005-07-11,1,1,3,2,1,Black,Non-Hispanic,2,Aggravated Assault,2,Highway/Roadway,Anti-White,Individual,Yes,No
+2006,State Police,MA,Massachusetts,2006-10-05,0,1,1,1,0,White,Non-Hispanic,1,Intimidation,1,School-Middle,Anti-Gay (Male),Individual,No,No
+2007,County Police,TN,Tennessee,2007-04-23,2,0,2,2,0,White,Non-Hispanic,2,Simple Assault,2,Bar/Nightclub,Anti-Black,Individual,No,No
+2008,City,IN,Indiana,2008-11-12,1,0,1,1,0,White,Non-Hispanic,1,Vandalism,1,Mosque,Anti-Islamic,Religious,No,No
+2009,State Police,MO,Missouri,2009-02-26,0,2,1,1,0,Black,Non-Hispanic,2,Intimidation,2,Playground,Anti-White,Individual,No,No
+2010,County Police,MD,Maryland,2010-06-14,1,0,2,1,1,White,Hispanic,1,Aggravated Assault,1,Parking Lot,Anti-Hispanic,Individual,No,No
+2011,City,WI,Wisconsin,2011-09-03,2,0,3,3,0,White,Non-Hispanic,2,Murder,2,Residence/Home,Anti-Black,Individual,No,No
+2012,State Police,CO,Colorado,2012-03-20,0,1,1,0,1,White,Non-Hispanic,1,Simple Assault,1,School-High,Anti-Lesbian,Individual,No,No
+2013,County Police,MN,Minnesota,2013-08-17,1,1,2,2,0,Black,Non-Hispanic,2,Vandalism,2,Gas Station,Anti-White,Individual,No,No
+2014,City,OR,Oregon,2014-12-25,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Church/Synagogue,Anti-Jewish,Religious,No,No
+1992,State Police,LA,Louisiana,1992-05-30,0,2,2,1,1,White,Non-Hispanic,2,Aggravated Assault,2,Abandoned Building,Anti-Black,Individual,Yes,No
+1994,County Police,KY,Kentucky,1994-10-13,1,0,1,1,0,White,Non-Hispanic,1,Vandalism,1,Residence/Home,Anti-Gay (Male),Individual,No,No
+1996,City,SC,South Carolina,1996-12-09,2,0,2,2,0,Black,Non-Hispanic,2,Simple Assault,2,Bar/Nightclub,Anti-White,Individual,No,No
+1998,State Police,OK,Oklahoma,1998-07-26,0,1,1,1,0,White,Hispanic,1,Intimidation,1,Construction Site,Anti-Hispanic,Individual,No,No
+1991,County Police,AR,Aransas,1991-03-04,1,1,3,2,1,White,Non-Hispanic,2,Robbery,2,Highway/Roadway,Anti-Black,Individual,No,Yes
+1993,City,MS,Mississippi,1993-08-22,2,0,1,1,0,White,Non-Hispanic,2,Murder,2,Residence/Home,Anti-Black,Individual,No,No
+1995,State Police,NV,Nevada,1995-01-15,0,1,2,2,0,Black,Non-Hispanic,1,Vandalism,1,School-Elementary,Anti-White,Individual,No,No
+1997,County Police,NM,New Mexico,1997-04-30,1,0,1,1,0,Asian,Non-Hispanic,1,Simple Assault,1,Restaurant,Anti-Asian,Individual,No,No
+1999,City,UT,Utah,1999-11-03,0,2,2,1,1,White,Non-Hispanic,2,Intimidation,2,Playground,Anti-Black,Individual,No,No
+2000,State Police,CT,Connecticut,2000-06-18,1,0,1,1,0,White,Non-Hispanic,1,Aggravated Assault,1,Parking Garage,Anti-Jewish,Individual,No,No
+2001,County Police,ME,Maine,2001-02-07,2,0,2,2,0,White,Non-Hispanic,2,Vandalism,2,Church/Synagogue,Anti-Islamic,Religious,No,No
+2002,City,NH,New Hampshire,2002-09-29,0,1,1,0,1,Black,Hispanic,1,Intimidation,1,School-College,Anti-Hispanic,Individual,No,No
+2003,State Police,VT,Vermont,2003-05-11,1,1,3,3,0,White,Non-Hispanic,2,Simple Assault,2,Highway/Roadway,Anti-Black,Individual,Yes,No
+2004,County Police,ND,North Dakota,2004-10-24,2,0,1,1,0,White,Non-Hispanic,2,Murder,2,Abandoned Building,Anti-White,Individual,No,No
+2005,City,SD,South Dakota,2005-07-06,0,2,2,2,0,White,Non-Hispanic,2,Intimidation,2,School-Elementary,Anti-Black,Individual,No,No
+2006,State Police,MT,Montana,2006-03-17,1,0,1,1,0,White,Non-Hispanic,1,Vandalism,1,Residence/Home,Anti-Gay (Male),Individual,No,No
+2007,County Police,WY,Wyoming,2007-12-30,2,0,2,1,1,Black,Non-Hispanic,2,Aggravated Assault,2,Bar/Nightclub,Anti-White,Individual,No,No
+2008,City,ID,Idaho,2008-08-13,0,1,1,1,0,White,Hispanic,1,Simple Assault,1,Construction Site,Anti-Hispanic,Individual,No,No
+2009,State Police,HI,Hawaii,2009-04-25,1,1,2,2,0,Asian,Non-Hispanic,2,Intimidation,2,Beach,Anti-Black,Individual,No,No
+2010,County Police,WV,West Virginia,2010-11-08,2,0,3,2,1,White,Non-Hispanic,2,Vandalism,2,School-High,Anti-Black,Individual,Yes,No
+2011,City,DE,Delaware,2011-01-21,1,0,1,1,0,White,Non-Hispanic,1,Robbery,1,Gas Station,Anti-Jewish,Individual,No,No
+2012,State Police,AK,Alaska,2012-06-04,0,2,2,1,1,White,Non-Hispanic,2,Aggravated Assault,2,Playground,Anti-White,Individual,No,No
+2013,County Police,DC,District of Columbia,2013-10-16,1,0,1,1,0,Black,Non-Hispanic,1,Murder,1,Alley,Anti-Gay (Male),Individual,No,No
+2014,City,RI,Rhode Island,2014-02-28,2,0,2,2,0,White,Non-Hispanic,2,Simple Assault,2,Parking Lot,Anti-Black,Individual,No,No

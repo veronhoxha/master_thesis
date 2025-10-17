@@ -1,0 +1,51 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1992,City,CA,California,1992-04-12,1,0,2,2,0,White,Non-Hispanic,1,Intimidation,1,Residence/Home,Anti-Black,Individual,No,No
+1995,County,TX,Texas,1995-07-03,0,1,1,0,1,Black,Hispanic,1,Simple Assault,1,School/College,Anti-Hispanic,Juvenile,No,No
+1998,City,NY,New York,1998-11-25,2,0,3,3,0,Asian,Non-Hispanic,2,Aggravated Assault,2,Highway/Road,Anti-Asian,Individual,Yes,No
+1991,State,FL,Florida,1991-02-28,1,0,1,1,0,White,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Church/Synagogue/Temple,Anti-Jewish,Organization,No,No
+1994,City,IL,Illinois,1994-09-15,0,2,2,1,1,Black,Non-Hispanic,2,Intimidation,2,Residence/Home,Anti-White,Juvenile,No,Yes
+1997,County,PA,Pennsylvania,1997-01-20,1,0,1,1,0,White,Non-Hispanic,1,Simple Assault,1,Restaurant,Anti-Male Homosexual,Individual,No,No
+2000,City,OH,Ohio,2000-06-08,0,1,1,1,0,American Indian/Alaskan Native,Hispanic,1,Destruction/Damage/Vandalism,1,School/College,Anti-American Indian/Alaskan Native,Juvenile,No,No
+1993,City,MI,Michigan,1993-10-04,2,0,2,2,0,Black,Non-Hispanic,2,Robbery,2,Parking/Drop Lot/Garage,Anti-Black,Individual,Yes,No
+1996,County,GA,Georgia,1996-03-17,1,0,3,2,1,White,Hispanic,1,Aggravated Assault,1,Residence/Home,Anti-Hispanic,Individual,No,Yes
+1999,State,NC,North Carolina,1999-08-22,0,2,2,1,1,Asian,Non-Hispanic,2,Intimidation,2,School/College,Anti-Asian,Juvenile,No,No
+1992,City,NJ,New Jersey,1992-12-30,1,0,1,1,0,White,Non-Hispanic,1,Murder and Nonnegligent Manslaughter,1,Highway/Road,Anti-Black,Individual,No,No
+1995,County,VA,Virginia,1995-05-11,0,1,1,0,1,Black,Non-Hispanic,1,Simple Assault,1,Parking/Drop Lot/Garage,Anti-White,Juvenile,No,No
+1998,City,WA,Washington,1998-07-19,2,0,2,2,0,White,Non-Hispanic,2,Destruction/Damage/Vandalism,2,Church/Synagogue/Temple,Anti-Jewish,Organization,No,No
+1991,State,AZ,Arizona,1991-09-06,1,0,1,1,0,American Indian/Alaskan Native,Non-Hispanic,1,Intimidation,1,Residence/Home,Anti-American Indian/Alaskan Native,Individual,No,No
+1994,City,MA,Massachusetts,1994-01-13,0,2,3,2,1,Asian,Hispanic,2,Aggravated Assault,2,School/College,Anti-Hispanic,Juvenile,No,Yes
+1997,County,TN,Tennessee,1997-04-28,1,0,1,1,0,White,Non-Hispanic,1,Simple Assault,1,Bar/Nightclub,Anti-Female Homosexual,Individual,No,No
+2000,City,MO,Missouri,2000-10-02,0,1,1,0,1,Black,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Highway/Road,Anti-Black,Juvenile,No,No
+1993,City,IN,Indiana,1993-06-24,2,0,2,1,1,White,Hispanic,2,Robbery,2,Residence/Home,Anti-Hispanic,Individual,Yes,No
+1996,County,MD,Maryland,1996-11-07,1,0,1,1,0,Black,Non-Hispanic,1,Intimidation,1,Church/Synagogue/Temple,Anti-Jewish,Organization,No,No
+1999,State,OR,Oregon,1999-02-14,0,2,2,2,0,White,Non-Hispanic,2,Aggravated Assault,2,Parking/Drop Lot/Garage,Anti-White,Juvenile,No,No
+1992,City,CO,Colorado,1992-08-03,1,0,3,3,0,Asian,Non-Hispanic,1,Simple Assault,1,Restaurant,Anti-Asian,Individual,No,Yes
+1995,County,MN,Minnesota,1995-12-16,0,1,1,1,0,American Indian/Alaskan Native,Hispanic,1,Destruction/Damage/Vandalism,1,School/College,Anti-American Indian/Alaskan Native,Juvenile,No,No
+1998,City,WI,Wisconsin,1998-05-27,2,0,1,1,0,Black,Non-Hispanic,2,Murder and Nonnegligent Manslaughter,2,Highway/Road,Anti-Black,Individual,No,No
+1991,State,AL,Alabama,1991-03-09,1,0,2,1,1,White,Non-Hispanic,1,Intimidation,1,Residence/Home,Anti-Black,Individual,No,No
+1994,City,LA,Louisiana,1994-10-20,0,2,1,0,1,Black,Hispanic,2,Simple Assault,2,Bar/Nightclub,Anti-Hispanic,Juvenile,No,No
+1997,County,SC,South Carolina,1997-07-31,1,0,1,1,0,White,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Church/Synagogue/Temple,Anti-Jewish,Organization,No,No
+2000,City,KY,Kentucky,2000-01-14,0,1,2,2,0,Asian,Non-Hispanic,1,Aggravated Assault,1,School/College,Anti-Asian,Juvenile,Yes,No
+1993,City,OK,Oklahoma,1993-09-25,2,0,3,2,1,White,Hispanic,2,Robbery,2,Parking/Drop Lot/Garage,Anti-Hispanic,Individual,No,Yes
+1996,County,AR,Aransas,1996-06-05,1,0,1,1,0,Black,Non-Hispanic,1,Intimidation,1,Highway/Road,Anti-White,Individual,No,No
+1999,State,CT,Connecticut,1999-12-11,0,2,2,1,1,American Indian/Alaskan Native,Non-Hispanic,2,Simple Assault,2,Residence/Home,Anti-American Indian/Alaskan Native,Juvenile,No,No
+1992,City,NV,Nevada,1992-07-22,1,0,1,1,0,White,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Bar/Nightclub,Anti-Male Homosexual,Individual,No,No
+1995,County,UT,Utah,1995-02-08,0,1,1,0,1,Black,Non-Hispanic,1,Intimidation,1,Church/Synagogue/Temple,Anti-Black,Juvenile,No,No
+1998,City,KS,Kansas,1998-11-03,2,0,2,2,0,Asian,Hispanic,2,Aggravated Assault,2,Highway/Road,Anti-Hispanic,Individual,No,No
+1991,State,DE,Delaware,1991-08-17,1,0,3,3,0,White,Non-Hispanic,1,Simple Assault,1,School/College,Anti-White,Individual,No,Yes
+1994,City,MS,Mississippi,1994-04-29,0,2,1,1,0,American Indian/Alaskan Native,Hispanic,2,Destruction/Damage/Vandalism,2,Residence/Home,Anti-American Indian/Alaskan Native,Juvenile,No,No
+1997,County,MT,Montana,1997-10-12,1,0,2,1,1,Black,Non-Hispanic,1,Robbery,1,Parking/Drop Lot/Garage,Anti-Black,Individual,Yes,No
+2000,City,ME,Maine,2000-05-26,0,1,1,1,0,White,Non-Hispanic,1,Intimidation,1,Highway/Road,Anti-Female Homosexual,Juvenile,No,No
+1993,City,ND,North Dakota,1993-01-21,2,0,1,0,1,Black,Non-Hispanic,2,Murder and Nonnegligent Manslaughter,2,Bar/Nightclub,Anti-White,Individual,No,No
+1996,County,NE,Nebraska,1996-09-18,1,0,2,2,0,Asian,Non-Hispanic,1,Simple Assault,1,Church/Synagogue/Temple,Anti-Asian,Organization,No,No
+1999,State,WV,West Virginia,1999-04-04,0,2,3,2,1,White,Hispanic,2,Destruction/Damage/Vandalism,2,School/College,Anti-Hispanic,Juvenile,No,Yes
+1992,City,HI,Hawaii,1992-12-07,1,0,1,1,0,American Indian/Alaskan Native,Non-Hispanic,1,Aggravated Assault,1,Residence/Home,Anti-American Indian/Alaskan Native,Individual,No,No
+1995,County,NH,New Hampshire,1995-07-30,0,1,1,1,0,Black,Non-Hispanic,1,Intimidation,1,Highway/Road,Anti-Black,Juvenile,No,No
+1998,City,ID,Idaho,1998-02-13,2,0,2,1,1,White,Non-Hispanic,2,Robbery,2,Parking/Drop Lot/Garage,Anti-White,Individual,Yes,No
+2001,State,RI,Rhode Island,2001-08-09,1,0,1,1,0,Asian,Hispanic,1,Destruction/Damage/Vandalism,1,Bar/Nightclub,Anti-Hispanic,Individual,No,No
+2003,County,VT,Vermont,2003-11-26,0,2,2,0,2,White,Non-Hispanic,2,Simple Assault,2,Residence/Home,Anti-Male Homosexual,Juvenile,No,No
+2005,City,AK,Alaska,2005-03-15,1,0,3,3,0,Black,Non-Hispanic,1,Intimidation,1,School/College,Anti-Black,Individual,No,Yes
+2007,County,WY,Wyoming,2007-06-21,0,1,1,1,0,American Indian/Alaskan Native,Hispanic,1,Aggravated Assault,1,Highway/Road,Anti-American Indian/Alaskan Native,Juvenile,No,No
+2009,City,DC,District of Columbia,2009-10-05,2,0,2,2,0,White,Non-Hispanic,2,Destruction/Damage/Vandalism,2,Church/Synagogue/Temple,Anti-Jewish,Organization,No,No
+2011,State,NM,New Mexico,2011-01-30,1,0,1,0,1,Asian,Non-Hispanic,1,Simple Assault,1,Parking/Drop Lot/Garage,Anti-Asian,Individual,No,No
+2013,County,SD,South Dakota,2013-09-12,0,2,1,1,0,Black,Hispanic,2,Robbery,2,Bar/Nightclub,Anti-Hispanic,Juvenile,No,No
