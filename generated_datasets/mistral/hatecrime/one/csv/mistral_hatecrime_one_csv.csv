@@ -1,0 +1,29 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,County,NY,New York,1991-07-04,2,,3,2,1,White,Not Specified,2,Assault,0.0,Business,Anti-Jewish,Other,N,N
+1994,City,CA,California,1994-08-21,1,1,2,2,0,Hispanic,Latinx,3,Bias Intimidation,1.0,Park,Anti-Arab,Other,Y,N
+1997,State,IL,Illinois,1997-12-18,,,1,1,0,Asian,Not Specified,1,Intimidation,0.0,Religious Institution,Anti-Arab,Other,N,Y
+2002,City,TX,Texas,2002-03-05,4,,6,5,1,Black,Not Specified,8,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Black or African American,Other,N,S
+2007,State,FL,Florida,2007-05-13,1,,3,2,1,White,Not Specified,2,Bias Intimidation,1.0,Hospital/Clinic,Anti-Arab,Other,Y,N
+2010,City,OH,Ohio,2010-10-31,3,,4,3,1,Hispanic,Latinx,6,Assault,0.0,Government Building,Anti-Hispanic or Latino,Other,N,S
+2013,County,PA,Pennsylvania,2013-06-28,,,2,2,0,Asian,Not Specified,2,Intimidation,0.0,Restaurant,Anti-Asian,Other,N,Y
+2016,State,AZ,Arizona,2016-07-04,5,,8,6,2,White,Not Specified,10,Destruction/Damage/Vandalism of Property,0.0,Church or Synagogue,Anti-Jewish,Other,N,S
+2009,City,WA,Washington,2009-02-14,1,,3,2,1,Black,Not Specified,2,Bias Intimidation,1.0,School/College,Anti-Black or African American,Other,Y,N
+1992,FBI Field Office,CA,California,1992-06-03,2,1,3,2,1,White,Not Specified,5,Assault,4.0,Hospital/Clinic,Anti-Jewish (ethnic/national origin),Other,N,N
+1993,City Police Department,NY,New York,1993-12-16,,,1,1,Hispanic,Not Specified,4,Bias Intimidation,0.0,Restaurant,Anti-Asian or Pacific Islander,Other,N,S,
+1994,State Police,TX,Texas,1994-08-23,4,3,6,5,2,Black,Not Specified,1,Destruction/Damage/Vandalism of Property,2.0,Park,Anti-Gay or Lesbian,Other,Y,N
+1995,County Sheriff's Office,IL,Illinois,1995-03-07,,,0,,,Asian,Not Specified,1,Hate Crime,0.0,Library,Anti-Middle Eastern or Arab,Other,N,S
+1996,FBI Field Office,FL,Florida,1996-10-30,1,2,3,3,0,White,Not Specified,4,Intimidation,1.0,School/College,Anti-Black or African American,Other,Y,S
+1997,City Police Department,PA,Pennsylvania,1997-05-26,3,1,5,4,1,White,Not Specified,1,Robbery,3.0,Business,Anti-Jewish (ethnic/national origin),Other,N,S
+1998,State Police,NC,North Carolina,1998-07-24,,,1,1,Hispanic,Not Specified,2,Burglary,0.0,Church,Anti-Gay or Lesbian,Other,N,S,
+1999,City Police Department,MI,Michigan,1999-06-30,5,4,7,6,1,Black,Not Specified,2,Assault,5.0,Museum,Anti-Asian or Pacific Islander,Other,Y,N
+2000,FBI Field Office,WI,Wisconsin,2000-10-07,,,0,,,"White""",Not Specified,4,Hate Crime,0.0,Airport,Anti-Middle Eastern or Arab,Other,N,S
+2001,State Police,VA,Virginia,2001-11-05,6,2,8,7,1,Black,Not Specified,3,Intimidation,4.0,Shopping Mall,Anti-Jewish (ethnic/national origin),Other,Y,N
+1991,County,CA,California,1991-12-31,4,2,5,"""4""",1,White,Not Specified,8,Assault,0.0,Home,Anti-Asian or Pacific Islander,Other,N,S
+1992,City,NY,New York,1992-03-07,3,1,"""4""",1,Hispanic,Not Specified,5,Intimidation,0.0,Religious Institution,Anti-Jewish (religion),Single,N,,
+1993,State,TX,Texas,1993-08-20,6,4,"""8""",4,Black,Not Specified,7,Murder & Non-Negligent Manslaughter,0.0,Park,Anti-Homosexual (sexual orientation),Single,N,,
+1994,City,IL,Illinois,1994-02-15,2,1,"""3""",2,White,Not Specified,6,Robbery,0.0,Workplace,Anti-Hispanic (ethnicity/national origin),Single,N,,
+1995,County,FL,Florida,1995-10-07,3,1,"""4""",2,Black,Not Specified,4,Bias Intimidation Including Cross Burning,0.0,School/College,Anti-Black or African American,Multiple,S,,
+1996,City,PA,Pennsylvania,1996-08-23,5,3,"""7""",4,White,Not Specified,9,Larceny-Theft,0.0,Restaurant/Bar,Anti-Hispanic (ethnicity/national origin),Multiple,N,,
+1997,State,WA,Washington,1997-05-16,3,2,"""4""",3,Asian or Pacific Islander,Not Specified,8,Vandalism,0.0,Church,Anti-Jewish (religion),Multiple,N,,
+1998,City,OH,Ohio,1998-07-15,2,3,"""5""",4,White,Not Specified,6,Robbery,0.0,Hospital/Clinic,Anti-Black or African American,Multiple,N,,
+1999,County,GA,Georgia,1999-12-28,2,3,"""5""",4,White,Not Specified,7,Bias Intimidation Including Cross Burning,0.0,Workplace,Anti-Hispanic (ethnicity/national origin),Multiple,N,,

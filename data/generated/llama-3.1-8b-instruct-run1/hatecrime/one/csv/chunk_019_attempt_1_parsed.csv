@@ -1,0 +1,40 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2004,City,CA,California,2004-06-17,1,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence/Apartment,Anti-Hispanic or Latino,Adult,Other,Y
+2004,Township,NJ,New Jersey,2004-06-08,0,0,1,1,0,White,White,1,Intimidation,1.0,Residence/Apartment,Anti-Jewish,Adult,Other,Y
+2004,County,GA,Georgia,2004-05-28,1,0,2,1,1,Yellow/Asian,White,2,Crimes Against Property,2.0,Business,Anti-White,Adult,Other,Y
+2004,City,CA,California,2004-06-04,0,0,1,1,0,Black/African American,Not Specified,1,Simple Assault,1.0,Residence/Apartment,Anti-Hispanic or Latino,Adult,Other,Y
+2004,County,PA,Pennsylvania,2004-05-25,0,0,1,1,0,Unknown,Unknown,1,Intimidation,1.0,Residence/Apartment,Anti-White,Adult,Other,Y
+2004,Municipality,FL,Florida,2004-06-14,1,0,2,1,1,White,Black/African American,2,Burglary,2.0,Business,Anti-White,Adult,Other,N
+2004,City,IL,Illinois,2004-05-31,0,0,1,1,0,White,White,1,Simple Assault,1.0,Residence/Apartment,Anti-Jewish,Adult,Other,Y
+2004,Township,NJ,New Jersey,2004-06-18,0,0,1,1,0,Black/African American,Not Specified,1,Intimidation,1.0,Residence/Apartment,Anti-Hispanic or Latino,Adult,Other,Y
+2004,Municipality,NC,North Carolina,2004-05-24,0,0,1,1,0,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Business,Anti-Homosexual,Adult,Other,Y
+2004,City,CA,California,2004-05-22,0,0,1,1,0,White,Not Specified,1,Simple Assault,1.0,Residence/Apartment,Anti-Jewish,Adult,Other,Y
+2004,County,TX,Texas,2004-06-02,0,0,1,1,0,Unknown,Unknown,1,Intimidation,1.0,Residence/Apartment,Anti-White,Adult,Other,Y
+2004,Municipality,CO,Colorado,2004-05-10,0,0,1,1,0,Black/African American,Not Specified,1,Simple Assault,1.0,Residence/Apartment,Anti-Hispanic or Latino,Adult,Other,Y
+2004,City,MI,Michigan,2004-06-09,0,0,1,1,0,Unknown,Unknown,1,Crimes Against Property,1.0,Residence/Apartment,Anti-White,Adult,Other,Y
+2004,County,GA,Georgia,2004-05-27,1,0,2,1,1,White,White,2,Simple Assault,2.0,Business,Anti-Jewish,Adult,Other,Y
+2004,Municipality,FL,Florida,2004-06-07,0,0,1,1,0,Unknown,Unknown,1,Intimidation,1.0,Residence/Apartment,Anti-White,Adult,Other,Y
+2004,City,NY,NY,2004-05-21,0,0,1,1,0,White,White,1,Crimes Against Property,1.0,Residence/Apartment,Anti-Jewish,Adult,Other,Y
+2004,Township,NJ,New Jersey,2004-06-15,0,0,1,1,0,White,Black/African American,1,Simple Assault,1.0,Residence/Apartment,Anti-White,Adult,Other,Y
+2004,County,PA,Pennsylvania,2004-05-30,0,0,1,1,0,Unknown,Unknown,1,Intimidation,1.0,Residence/Apartment,Anti-White,Adult,Other,Y
+2004,Municipality,NC,North Carolina,2004-05-25,0,0,1,1,0,White,White,1,Crimes Against Property,1.0,Business,Anti-Homosexual,Adult,Other,Y
+2004,City,CA,California,2004-06-10,0,0,1,1,0,White,Not Specified,1,Simple Assault,1.0,Residence/Apartment,Anti-Jewish,Adult,Other,Y
+2004,County,GA,Georgia,2004-05-14,0,0,1,1,0,Black/African American,Not Specified,1,Intimidation,1.0,Residence/Apartment,Anti-Hispanic or Latino,Adult,Other,Y
+2004,Municipality,CO,Colorado,2004-05-12,1,0,2,1,1,White,White,2,Destruction/Damage/Vandalism of Property,2.0,Business,Anti-Jewish,Adult,Other,Y
+2004,City,MI,Michigan,2004-06-17,0,0,1,1,0,White,Not Specified,1,Crimes Against Property,1.0,Residence/Apartment,Anti-Jewish,Adult,Other,Y
+2004,County,TX,Texas,2004-05-23,0,0,1,1,0,Black/African American,Not Specified,1,Simple Assault,1.0,Residence/Apartment,Anti-Hispanic or Latino,Adult,Other,Y
+2004,Municipality,FL,Florida,2004-06-09,1,0,2,1,1,White,White,2,Destruction/Damage/Vandalism of Property,2.0,Business,Anti-White,Adult,Other,Y
+2004,City,NY,NY,2004-05-28,0,0,1,1,0,Unknown,Unknown,1,Intimidation,1.0,Residence/Apartment,Anti-White,Adult,Other,Y
+2004,Township,NJ,New Jersey,2004-06-02,0,0,1,1,0,Black/African American,Not Specified,1,Crimes Against Property,1.0,Residence/Apartment,Anti-Hispanic or Latino,Adult,Other,Y
+2004,County,PA,Pennsylvania,2004-05-15,1,0,2,1,1,White,Black/African American,2,Burglary,2.0,Business,Anti-White,Adult,Other,Y
+2004,Municipality,NC,North Carolina,2004-05-20,0,0,1,1,0,White,White,1,Crimes Against Property,1.0,Business,Anti-Homosexual,Adult,Other,Y
+2004,City,CA,California,2004-06-05,0,0,1,1,0,White,Not Specified,1,Simple Assault,1.0,Residence/Apartment,Anti-Jewish,Adult,Other,Y
+2004,County,GA,Georgia,2004-05-11,0,0,1,1,0,Black/African American,Not Specified,1,Intimidation,1.0,Residence/Apartment,Anti-Hispanic or Latino,Adult,Other,Y
+2004,Municipality,CO,Colorado,2004-05-09,0,0,1,1,0,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Business,Anti-Jewish,Adult,Other,Y
+2004,City,MI,Michigan,2004-06-06,0,0,1,1,0,White,Not Specified,1,Crimes Against Property,1.0,Residence/Apartment,Anti-Jewish,Adult,Other,Y
+2004,County,TX,Texas,2004-05-16,1,0,2,1,1,Unknown,White,2,Burglary,2.0,Business,Anti-White,Adult,Other,Y
+2004,Municipality,FL,Florida,2004-06-08,0,0,1,1,0,Black/African American,Not Specified,1,Simple Assault,1.0,Residence/Apartment,Anti-Hispanic or Latino,Adult,Other,Y
+2004,City,NY,NY,2004-05-29,0,0,1,1,0,White,White,1,Crimes Against Property,1.0,Residence/Apartment,Anti-Jewish,Adult,Other,Y
+2004,Township,NJ,New Jersey,2004-06-01,0,0,1,1,0,Black/African American,Not Specified,1,Intimidation,1.0,Residence/Apartment,Anti-Hispanic or Latino,Adult,Other,Y
+2004,County,PA,Pennsylvania,2004-05-13,0,0,1,1,0,Unknown,Unknown,1,Crimes Against Property,1.0,Residence/Apartment,Anti-White,Adult,Other,Y
+2004,Municipality,NC,North Carolina,2004-05-18,0,0,1,1,0,White,White,1,Simple Assault,1.0,Business,Anti-Homosexual,Adult,Other,Y

@@ -1,0 +1,45 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2009,City,CA,California,2009-06-17,0,0,2,2,0,African American,Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-White,Adult,M,F
+2005,City,FL,Florida,2005-09-25,0,0,1,1,0,Asian,Pacific Islander,1,Intimidation,1.0,Street/Sidwalk,Anti-Hispanic or Latino,Adult,M,M
+2005,City,FL,Florida,2005-09-25,0,0,1,1,0,Asian,Pacific Islander,1,Intimidation,1.0,Street/Sidwalk,Anti-Hispanic or Latino,Adult,M,M
+2008,City,IL,Illinois,2008-04-28,0,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-American Indian or Alaska Native,Adult,M,F
+2010,City,NY,New York,2010-08-24,0,1,2,1,1,White,Not Hispanic or Latino,2,Simple Assault,2.0,School/College,Anti-Black or African American,Adult,J,M
+2002,City,NC,North Carolina,2002-03-29,0,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1.0,Street/Sidwalk,Anti-Hispanic or Latino,Adult,M,M
+2006,City,GA,Georgia,2006-09-15,0,0,1,1,0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Apartment,Anti-Jewish,Adult,M,F
+2007,City,MI,Michigan,2007-01-16,0,0,1,1,0,Unknown,Not Specified,1,Simple Assault,1.0,Street/Sidwalk,Anti-Asian,Adult,M,M
+2005,City,OH,Ohio,2005-04-23,1,0,1,1,0,African American,Not Hispanic or Latino,2,Simple Assault,2.0,Residence/Apartment,Anti-White,Adult,J,F
+2002,City,PA,Pennsylvania,2002-11-19,0,0,1,1,0,African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Apartment,Anti-Hispanic or Latino,Adult,M,F
+2003,City,TX,Texas,2003-12-14,0,0,1,1,0,Unknown,Not Specified,1,Simple Assault,1.0,Street/Sidwalk,Anti-American Indian or Alaska Native,Adult,M,M
+2009,City,CA,California,2009-07-29,0,0,1,1,0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Street/Sidwalk,Anti-Asian,Adult,M,F
+2008,City,IL,Illinois,2008-03-12,0,0,2,2,0,African American,Not Hispanic or Latino,2,Simple Assault,2.0,Residence/Apartment,Anti-Hispanic or Latino,Adult,M,F
+2005,City,FL,Florida,2005-11-01,0,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Sidwalk,Anti-Arab,Adult,M,M
+2002,City,NC,North Carolina,2002-08-02,1,0,1,1,0,African American,Not Hispanic or Latino,2,Simple Assault,2.0,Residence/Apartment,Anti-White,Adult,J,F
+2007,City,MI,Michigan,2007-09-01,0,0,1,1,0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Street/Sidwalk,Anti-Jewish,Adult,M,F
+2006,City,GA,Georgia,2006-04-09,0,0,1,1,0,African American,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Sidwalk,Anti-Hispanic or Latino,Adult,M,M
+2002,City,PA,Pennsylvania,2002-10-16,0,0,2,2,0,African American,Not Hispanic or Latino,2,Simple Assault,2.0,Residence/Apartment,Anti-American Indian or Alaska Native,Adult,M,F
+2003,City,TX,Texas,2003-05-24,0,0,1,1,0,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Street/Sidwalk,Anti-Asian,Adult,M,F
+2008,City,IL,Illinois,2008-11-18,0,0,1,1,0,African American,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Sidwalk,Anti-Hispanic or Latino,Adult,M,M
+2005,City,OH,Ohio,2005-06-24,0,0,2,2,0,White,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2.0,Residence/Apartment,Anti-Black or African American,Adult,M,F
+2002,City,NC,North Carolina,2002-12-14,0,0,1,1,0,African American,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Sidwalk,Anti-Jewish,Adult,M,M
+2007,City,MI,Michigan,2007-08-22,0,0,1,1,0,African American,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Sidwalk,Anti-Hispanic or Latino,Adult,M,M
+2006,City,GA,Georgia,2006-03-08,0,0,1,1,0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Apartment,Anti-Asian,Adult,M,F
+2002,City,PA,Pennsylvania,2002-05-27,0,0,1,1,0,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Street/Sidwalk,Anti-Arab,Adult,M,M
+2003,City,TX,Texas,2003-01-31,0,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Sidwalk,Anti-Jewish,Adult,M,F
+2009,City,CA,California,2009-04-16,0,0,1,1,0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Street/Sidwalk,Anti-American Indian or Alaska Native,Adult,M,F
+2008,City,IL,Illinois,2008-06-14,0,0,1,1,0,African American,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Sidwalk,Anti-Hispanic or Latino,Adult,M,M
+2005,City,FL,Florida,2005-03-19,0,0,1,1,0,African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Street/Sidwalk,Anti-Asian,Adult,M,M
+2002,City,NC,North Carolina,2002-02-12,0,0,1,1,0,African American,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Sidwalk,Anti-Jewish,Adult,M,F
+2007,City,MI,Michigan,2007-02-14,0,0,1,1,0,African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Street/Sidwalk,Anti-Asian,Adult,M,F
+2006,City,GA,Georgia,2006-02-06,0,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Sidwalk,Anti-Hispanic or Latino,Adult,M,M
+2002,City,PA,Pennsylvania,2002-07-19,0,0,1,1,0,African American,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Sidwalk,Anti-Black or African American,Adult,M,M
+2003,City,TX,Texas,2003-09-08,0,0,1,1,0,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Street/Sidwalk,Anti-American Indian or Alaska Native,Adult,M,F
+2009,City,CA,California,2009-09-10,0,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Sidwalk,Anti-Jewish,Adult,M,F
+2008,City,IL,Illinois,2008-09-18,0,0,1,1,0,African American,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Sidwalk,Anti-Hispanic or Latino,Adult,M,M
+2005,City,OH,Ohio,2005-11-18,0,0,1,1,0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Apartment,Anti-American Indian or Alaska Native,Adult,M,F
+2002,City,NC,North Carolina,2002-01-18,0,0,1,1,0,African American,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Sidwalk,Anti-Jewish,Adult,M,M
+2007,City,MI,Michigan,2007-10-25,0,0,1,1,0,African American,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Sidwalk,Anti-Hispanic or Latino,Adult,M,M
+2006,City,GA,Georgia,2006-11-15,0,0,1,1,0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Apartment,Anti-Asian,Adult,M,F
+2002,City,PA,Pennsylvania,2002-06-22,0,0,1,1,0,Unknown,Not Specified,1,Simple Assault,1.0,Street/Sidwalk,Anti-Arab,Adult,M,M
+2003,City,TX,Texas,2003-03-09,0,0,1,1,0,African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Street/Sidwalk,Anti-Jewish,Adult,M,F
+2009,City,CA,California,2009-02-25,0,0,1,1,0,Unknown,Not Specified,1,Simple Assault,1.0,Residence/Apartment,Anti-Black or African American,Adult,M,F
+2008,City,IL,Illinois,2008-02-16,0,0,1,1,0,African American,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Sidwalk,Anti-Hispanic or Latino,Adult,M,M

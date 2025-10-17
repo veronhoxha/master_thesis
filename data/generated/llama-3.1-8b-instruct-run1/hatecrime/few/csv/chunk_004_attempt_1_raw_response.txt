@@ -1,0 +1,42 @@
+2004,City,AL,Alabama,2004-03-25,,,0,1.0,0.0,White,Not Hispanic or Latino,1,Intimidation,1.0,Residential Area,Anti-White,Individual,S,Y
+2004,City,FL,Florida,2004-10-12,1.0,0.0,2,1.0,1.0,Hispanic or Latino,Not Hispanic or Latino,2,Simple Assault,2.0,Public Park,Anti-Hispanic,Individual,S,S
+1995,Other,GA,Georgia,1995-06-28,0.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Vandalism,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,S,Y
+2006,City,IL,Illinois,2006-02-15,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,College/University,Anti-Asian,Individual,S,S
+1992,Other,IN,Indiana,1992-08-03,2.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,2,Larceny Theft,2.0,Public Housing,Anti-Hispanic,Group,S,S
+2007,City,KS,Kansas,2007-11-22,0.0,1.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Residential Area,Anti-White,Individual,S,S
+2001,City,LA,Louisiana,2001-05-20,0.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Vandalism,1.0,Public Park,Anti-Gay (Male),Individual,S,S
+1999,Other,MD,Maryland,1999-01-25,0.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Public Highway,Anti-Hispanic,Individual,S,Y
+2000,City,MA,Massachusetts,2000-07-29,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Larceny Theft,1.0,Residential Area,Anti-White,Individual,S,S
+2009,City,MI,Michigan,2009-03-20,0.0,0.0,1,1.0,0.0,Unknown,Not Hispanic or Latino,1,Simple Assault,1.0,Public Building,Anti-Black or African American,Individual,S,S
+1998,Other,MO,Missouri,1998-11-14,0.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Vandalism,1.0,Public Park,Anti-Asian,Individual,S,Y
+2005,City,MT,Montana,2005-09-28,0.0,0.0,1,1.0,0.0,Unknown,Not Hispanic or Latino,1,Larceny Theft,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,S,S
+1996,Other,NC,North Carolina,1996-04-19,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Public Highway,Anti-White,Individual,S,Y
+2003,City,NJ,New Jersey,2003-08-27,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Vandalism,1.0,College/University,Anti-Hispanic,Individual,S,S
+2008,City,OH,Ohio,2008-01-25,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Public Building,Anti-Black or African American,Individual,S,S
+1994,Other,OK,Oklahoma,1994-07-22,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Public Highway,Anti-Asian,Individual,S,S
+2002,City,OR,Oregon,2002-02-18,1.0,0.0,1,1.0,0.0,Unknown,Not Hispanic or Latino,1,Vandalism,1.0,Public Park,Anti-Gay (Male),Individual,S,S
+2006,City,PA,Pennsylvania,2006-06-21,0.0,1.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,College/University,Anti-Hispanic,Individual,S,S
+1993,Other,SC,South Carolina,1993-09-23,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Larceny Theft,1.0,Public Building,Anti-White,Individual,S,S
+2007,City,TN,Tennessee,2007-01-16,0.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Public Highway,Anti-Asian,Individual,S,S
+1999,Other,TX,Texas,1999-10-29,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Vandalism,1.0,Public Highway,Anti-Black or African American,Individual,S,S
+2009,City,VA,Virginia,2009-03-28,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Public Building,Anti-Hispanic,Individual,S,S
+2005,City,WA,Washington,2005-04-25,1.0,0.0,1,1.0,0.0,Unknown,Not Hispanic or Latino,1,Larceny Theft,1.0,Public Highway,Anti-Gay (Male),Individual,S,S
+1997,Other,WI,Wisconsin,1997-02-11,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Vandalism,1.0,Public Housing,Anti-White,Individual,S,S
+2008,City,WV,West Virginia,2008-12-17,0.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Public Building,Anti-Asian,Individual,S,S
+2000,City,WY,Wyoming,2000-06-22,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Public Highway,Anti-Black or African American,Individual,S,S
+2001,City,AK,Alaska,2001-08-04,0.0,1.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Vandalism,1.0,Public Highway,Anti-Hispanic,Individual,S,S
+1995,Other,AZ,Arizona,1995-07-17,0.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Larceny Theft,1.0,Public Building,Anti-Asian,Individual,S,Y
+2006,City,CT,Connecticut,2006-09-14,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Public Highway,Anti-White,Individual,S,S
+2003,City,DE,Delaware,2003-11-14,0.0,0.0,1,1.0,0.0,Unknown,Not Hispanic or Latino,1,Vandalism,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,S,Y
+1998,Other,HI,Hawaii,1998-10-24,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Public Building,Anti-Hispanic,Individual,S,S
+2004,City,ID,Idaho,2004-08-16,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Larceny Theft,1.0,Public Highway,Anti-Asian,Individual,S,S
+1992,Other,IA,Iowa,1992-07-27,0.0,0.0,1,1.0,0.0,Unknown,Not Hispanic or Latino,1,Simple Assault,1.0,Public Building,Anti-Gay (Male),Individual,S,S
+2009,City,ME,Maine,2009-02-20,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Vandalism,1.0,Public Highway,Anti-Black or African American,Individual,S,Y
+2002,City,MD,Maryland,2002-01-16,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Larceny Theft,1.0,Public Highway,Anti-White,Individual,S,S
+1996,Other,MN,Minn,1996-04-27,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Public Building,Anti-Hispanic,Individual,S,Y
+2001,City,MS,Mississippi,2001-08-22,0.0,1.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Vandalism,1.0,Public Highway,Anti-Asian,Individual,S,Y
+2005,City,ND,North Dakota,2005-01-03,1.0,0.0,1,1.0,0.0,Unknown,Not Hispanic or Latino,1,Larceny Theft,1.0,Public Highway,Anti-Gay (Male),Individual,S,S
+1993,Other,NE,Nebraska,1993-04-23,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Vandalism,1.0,Public Building,Anti-White,Individual,S,S
+2000,City,NV,Nevada,2000-09-01,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Public Highway,Anti-Black or African American,Individual,S,Y
+2008,City,NY,NY,2008-10-15,0.0,1.0,1,0.0,1.0,Unknown,Not Hispanic or Latino,1,Vandalism,1.0,Public Building,Anti-Gay (Male),Individual,S,S
+2007,City,NC,North Carolina,2007-08-23,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Larceny Theft,1.0,Public Highway,Anti-Asian,Individual,S,S

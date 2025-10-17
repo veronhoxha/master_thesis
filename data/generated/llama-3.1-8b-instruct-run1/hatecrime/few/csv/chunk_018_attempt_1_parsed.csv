@@ -1,0 +1,55 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2004,City,NJ,New Jersey,2004-05-13,,,0,,,White,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Residence/Apartment,Anti-White,Individual,N,R
+2004,Other,CA,California,2004-02-27,1.0,0.0,1,1.0,0.0,Black or African American,Hispanic or Latino,1,Simple Assault,1.0,Shopping Center/Mall,Anti-Asian,Individual,S,S
+2004,City,FL,Florida,2004-11-18,0.0,1.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Church/Place of Worship,Anti-Hispanic or Latino,Group,N,N
+2001,State,GA,Georgia,2001-07-01,1.0,0.0,2,1.0,0.0,White,Not Specified,2,Simple Assault,2.0,Street/Road,Other,Individual,R,R
+2014,City,IL,Illinois,2014-03-15,,,0,,,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Gas Station/Service Station,Anti-Gay (Male),Individual,S,R
+2011,Other,NY,New York,2011-09-18,1.0,0.0,1,1.0,0.0,Native American or Alaska Native,Not Hispanic or Latino,1,Simple Assault,1.0,Hotel/Motel,Anti-Arab,Individual,R,N
+2008,City,OH,Ohio,2008-01-28,0.0,1.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Business/Office,Other,Group,N,R
+2003,City,TX,Texas,2003-10-14,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-White,Individual,N,R
+2002,City,MI,Michigan,2002-12-05,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Road,Anti-Gay (Male),Individual,S,N
+1999,City,PA,Pennsylvania,1999-04-05,0.0,1.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Hispanic or Latino,Group,R,R
+2006,Other,MA,Massachusetts,2006-11-06,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Road,Anti-Gay (Male),Individual,N,R
+2006,City,NC,North Carolina,2006-08-15,0.0,1.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Black or African American,Group,N,N
+2007,City,AL,Alabama,2007-06-03,1.0,0.0,1,1.0,0.0,Native American or Alaska Native,Not Hispanic or Latino,1,Simple Assault,1.0,Business/Office,Anti-Arab,Individual,R,R
+2012,City,CO,Colorado,2012-01-27,0.0,1.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Group,N,R
+2005,City,WI,Wisconsin,2005-03-29,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Gay (Male),Individual,N,R
+1998,State,WI,Wisconsin,1998-09-01,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Road,Anti-Hispanic or Latino,Individual,R,R
+2002,Other,VA,Virginia,2002-05-27,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Asian,Individual,N,N
+1993,City,IL,Illinois,1993-11-15,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Arab,Individual,R,R
+2001,City,UT,Utah,2001-02-02,0.0,1.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Road,Anti-Gay (Male),Group,N,N
+2007,Other,NJ,New Jersey,2007-11-04,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Hotel/Motel,Anti-Asian,Individual,R,R
+2009,City,IN,Indiana,2009-08-19,0.0,1.0,1,0.0,1.0,Native American or Alaska Native,Not Hispanic or Latino,1,Simple Assault,1.0,Business/Office,Anti-Arab,Group,N,N
+2009,Other,GA,Georgia,2009-05-05,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Black or African American,Individual,N,N
+2013,City,CT,Connecticut,2013-12-02,0.0,1.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Road,Anti-Hispanic or Latino,Group,R,N
+2004,State,NC,North Carolina,2004-04-29,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,R,R
+2008,Other,IA,Iowa,2008-09-04,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Hotel/Motel,Anti-Asian,Individual,N,R
+1996,City,MI,Michigan,1996-06-18,0.0,1.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Asian,Group,R,N
+2005,State,MA,Massachusetts,2005-07-25,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Road,Anti-Gay (Male),Individual,R,N
+2007,Other,CT,Connecticut,2007-01-17,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Individual,N,N
+2011,City,OR,Oregon,2011-09-01,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Hispanic or Latino,Individual,R,R
+1993,City,CA,California,1993-05-09,1.0,0.0,1,1.0,0.0,Native American or Alaska Native,Not Hispanic or Latino,1,Simple Assault,1.0,Business/Office,Anti-Arab,Individual,N,R
+2000,City,VT,Vermont,2000-09-07,0.0,1.0,1,0.0,1.0,Native American or Alaska Native,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Gay (Male),Group,R,N
+1997,City,GA,Georgia,1997-03-13,0.0,1.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Arab,Group,R,N
+2004,State,IN,Indiana,2004-09-22,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Hotel/Motel,Anti-Hispanic or Latino,Individual,R,R
+2010,City,NY,NY,2010-10-15,0.0,1.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Gay (Male),Group,N,R
+2003,City,OH,Ohio,2003-12-04,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Road,Anti-Asian,Individual,R,R
+2008,City,AR,Arkansas,2008-07-18,0.0,1.0,1,0.0,1.0,Native American or Alaska Native,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Group,N,N
+2005,City,KS,Kansas,2005-04-05,0.0,1.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Arab,Group,R,R
+2009,City,MO,Missouri,2009-01-21,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Gay (Male),Individual,N,R
+2006,City,WY,Wyoming,2006-08-15,0.0,1.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Business/Office,Anti-Black or African American,Group,N,N
+2012,City,ID,Idaho,2012-04-18,0.0,1.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Road,Anti-Gay (Male),Group,R,R
+2002,City,TN,Tennessee,2002-11-01,1.0,0.0,1,1.0,0.0,Native American or Alaska Native,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Arab,Individual,R,R
+2009,City,SC,South Carolina,2009-02-12,0.0,1.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Group,R,N
+2013,City,DE,Delaware,2013-03-27,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Road,Anti-Gay (Male),Individual,R,R
+2005,State,WI,Wisconsin,2005-01-05,1.0,0.0,1,1.0,0.0,Native American or Alaska Native,Not Hispanic or Latino,1,Simple Assault,1.0,Hotel/Motel,Anti-Hispanic or Latino,Individual,R,N
+2006,City,IA,Iowa,2006-05-03,0.0,1.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Asian,Group,R,R
+1992,City,NC,North Carolina,1992-04-05,1.0,0.0,1,1.0,0.0,Native American or Alaska Native,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Road,Anti-Arab,Individual,R,R
+2000,State,NY,NY,2000-06-01,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Hispanic or Latino,Individual,N,R
+2002,Other,CO,Colorado,2002-07-10,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Business/Office,Anti-Gay (Male),Individual,N,R
+2003,City,VT,Vermont,2003-09-22,0.0,1.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Group,R,R
+2004,State,TN,Tennessee,2004-08-20,0.0,1.0,1,0.0,1.0,Native American or Alaska Native,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Road,Anti-Hispanic or Latino,Group,N,R
+2007,Other,ME,Maine,2007-04-29,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Hotel/Motel,Anti-Asian,Individual,N,R
+2008,City,NM,New Mexico,2008-09-24,0.0,1.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Hispanic or Latino,Group,R,N
+2004,State,MO,Missouri,2004-01-28,0.0,1.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Road,Anti-Gay (Male),Group,N,R
+1996,City,ND,North Dakota,1996-06-28,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Business/Office,Anti-Asian,Individual,N,R

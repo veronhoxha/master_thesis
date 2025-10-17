@@ -1,0 +1,42 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2004,Police Department,CA,California,2004-10-12,1,0,3,2,1,White,Non-Hispanic,1,Assault,1,Residence,Anti-Black or African American,Person,Yes,No
+2006,College Campus,IL,Illinois,2006-04-18,2,0,1,1,0,White,Non-Hispanic,2,Vandalism,2,Other,Anti-Jewish,Property,No,No
+2007,Sheriff's Office,KY,Kentucky,2007-09-21,1,0,2,2,0,White,Non-Hispanic,1,Larceny-Theft,1,Bus,Anti-White or Caucasian,Property,No,Yes
+1999,Police Department,MI,Michigan,1999-11-30,1,0,1,1,0,Black,Non-Hispanic,1,Assault,1,Bar or Club,Anti-Asian,Person,No,No
+2001,Police Department,OH,Ohio,2001-05-17,1,0,2,2,0,White,Non-Hispanic,1,Robbery,1,Street,Anti-Gay (Male),Person,No,No
+2009,College Campus,TN,Tennessee,2009-02-24,1,0,1,1,0,White,Non-Hispanic,1,Assault,1,Highway,Anti-Jewish,Person,No,No
+2010,Police Department,FL,Florida,2010-08-15,1,0,2,2,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-Asian,Person,No,No
+2013,Police Department,GA,Georgia,2013-12-05,1,0,1,1,0,White,Non-Hispanic,1,Assault,1,Residence,Anti-Black or African American,Person,No,No
+2000,Police Department,NY,New York,2000-07-11,1,0,1,1,0,White,Non-Hispanic,1,Assault,1,Public Building (Government,Courthouse,Etc.),Anti-Gender Non-Conforming,Person
+2003,Police Department,TX,Texas,2003-03-01,1,0,2,2,0,White,Non-Hispanic,1,Robbery,1,Hotel or Motel,Anti-Lesbian (Female),Person,No,No
+2008,Police Department,NC,North Carolina,2008-06-24,1,0,1,1,0,Black,Non-Hispanic,1,Assault,1,Residence,Anti-White or Caucasian,Person,No,No
+2005,Police Department,AZ,Arizona,2005-01-12,1,0,2,2,0,White,Non-Hispanic,1,Assault,1,Convenience Store or Gas Station,Anti-Lesbian (Female),Person,No,No
+2002,Police Department,PA,Pennsylvania,2002-11-27,1,0,2,2,0,White,Non-Hispanic,1,Assault,1,Street,Anti-Black or African American,Person,No,No
+2011,Police Department,MA,Massachusetts,2011-04-07,1,0,1,1,0,White,Non-Hispanic,1,Assault,1,Public Building (Government,Courthouse,Etc.),Anti-Jewish,Person
+2012,Police Department,NJ,New Jersey,2012-09-19,1,0,2,2,0,White,Non-Hispanic,1,Assault,1,Bar or Club,Anti-Gay (Male),Person,No,No
+1998,Police Department,OR,Oregon,1998-08-03,1,0,1,1,0,White,Non-Hispanic,1,Assault,1,Street,Anti-Asian,Person,No,No
+2004,College Campus,WA,Washington,2004-12-23,1,0,2,2,0,White,Non-Hispanic,1,Assault,1,Bus,Anti-Jewish,Person,No,No
+2009,Police Department,CT,Connecticut,2009-07-25,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-Asian,Person,No,No
+2010,Police Department,SC,South Carolina,2010-11-10,1,0,2,2,0,White,Non-Hispanic,1,Assault,1,Residence,Anti-Black or African American,Person,No,No
+2007,Police Department,WA,Washington,2007-10-04,1,0,1,1,0,White,Non-Hispanic,1,Assault,1,Highway,Anti-Jewish,Person,No,No
+2011,Police Department,PA,Pennsylvania,2011-05-28,1,0,2,2,0,White,Non-Hispanic,1,Assault,1,Public Building (Government,Courthouse,Etc.),Anti-Gay (Male),Person
+2012,Police Department,GA,Georgia,2012-09-19,1,0,1,1,0,White,Non-Hispanic,1,Assault,1,Hotel or Motel,Anti-Asian,Person,No,No
+2003,Police Department,VA,Virginia,2003-03-01,1,0,2,2,0,White,Non-Hispanic,1,Robbery,1,Convenience Store or Gas Station,Anti-Black or African American,Person,No,No
+2001,Police Department,AL,Alabama,2001-05-17,1,0,2,2,0,White,Non-Hispanic,1,Assault,1,Bar or Club,Anti-Jewish,Person,No,No
+2005,Police Department,CA,California,2005-01-12,1,0,2,2,0,White,Non-Hispanic,1,Assault,1,Street,Anti-Asian,Person,No,No
+2006,Police Department,AZ,Arizona,2006-04-18,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Public Building (Government,Courthouse,Etc.),Anti-Jewish,Person
+2007,College Campus,NC,North Carolina,2007-09-21,2,0,1,1,0,White,Non-Hispanic,2,Vandalism,2,Other,Anti-Gender Non-Conforming,Property,No,No
+1999,Police Department,FL,Florida,1999-11-30,1,0,1,1,0,Black,Non-Hispanic,1,Assault,1,Bar or Club,Anti-Gay (Male),Person,No,No
+2008,Police Department,GA,Georgia,2008-06-24,1,0,1,1,0,White,Non-Hispanic,1,Assault,1,Residence,Anti-Black or African American,Person,No,No
+2009,Police Department,IL,Illinois,2009-02-24,1,0,2,2,0,White,Non-Hispanic,1,Robbery,1,Hotel or Motel,Anti-Jewish,Person,No,No
+2010,Police Department,MA,Massachusetts,2010-08-15,1,0,1,1,0,White,Non-Hispanic,1,Assault,1,Street,Anti-Asian,Person,No,No
+2011,Police Department,NJ,New Jersey,2011-04-07,1,0,2,2,0,White,Non-Hispanic,1,Assault,1,Public Building (Government,Courthouse,Etc.),Anti-Lesbian (Female),Person
+2012,Police Department,OH,Ohio,2012-09-19,1,0,1,1,0,White,Non-Hispanic,1,Assault,1,Bar or Club,Anti-Gay (Male),Person,No,No
+2003,Police Department,PA,Pennsylvania,2003-03-01,1,0,2,2,0,White,Non-Hispanic,1,Robbery,1,Convenience Store or Gas Station,Anti-Black or African American,Person,No,No
+2005,Police Department,SC,South Carolina,2005-01-12,1,0,2,2,0,White,Non-Hispanic,1,Assault,1,Street,Anti-Asian,Person,No,No
+2006,Police Department,TN,Tennessee,2006-04-18,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Public Building (Government,Courthouse,Etc.),Anti-Jewish,Person
+2007,Police Department,VA,Virginia,2007-09-21,1,0,2,2,0,White,Non-Hispanic,1,Assault,1,Residence,Anti-Black or African American,Person,No,No
+2013,Police Department,AL,Alabama,2013-12-05,1,0,1,1,0,White,Non-Hispanic,1,Assault,1,Public Building (Government,Courthouse,Etc.),Anti-Gay (Male),Person
+2001,Police Department,CT,Connecticut,2001-05-17,1,0,2,2,0,White,Non-Hispanic,1,Assault,1,Bar or Club,Anti-Jewish,Person,No,No
+2002,Police Department,FL,Florida,2002-11-27,1,0,2,2,0,White,Non-Hispanic,1,Assault,1,Street,Anti-Asian,Person,No,No
+2003,Police Department,GA,Georgia,2003-03-01,1,0,2,2,0,White,Non-Hispanic,1,Robbery,1,Hotel or Motel,Anti-Black or African American,Person,No,No

@@ -1,0 +1,45 @@
+"data_year","agency_type_name","state_abbr","state_name","incident_date","adult_victim_count","juvenile_victim_count","total_offender_count","adult_offender_count","juvenile_offender_count","offender_race","offender_ethnicity","victim_count","offense_name","total_individual_victims","location_name","bias_desc","victim_types","multiple_offense","multiple_bias"
+,"2011","State": "State Police","CA","California","3/2/2011",1,0,1,1,0,"White","Hispanic or Latino",1,"Intimidation","1","Park or Playground","Racial Bias","Adult",TRUE,FALSE
+,"2011","County": "County Police","FL","Florida","5/3/2011",0,1,2,2,0,"Black or African American","Asian","2","Simple Assault","2","Street","Ethnicity Bias","Juvenile",TRUE,FALSE
+,"2011","City": "City Police Department","NY","New York","10/20/2011",1,0,1,1,0,"Hispanic or Latino","White","1","Vandalism","1","School","Racial Bias","Adult",TRUE,FALSE
+,"2011","City": "City Police Department","TX","Texas","7/2/2011",0,1,1,1,0,"Asian","Hispanic or Latino","1","Aggravated Assault","1","Street","Ethnicity Bias","Juvenile",TRUE,FALSE
+,"2011","State": "State Police","IL","Illinois","9/15/2011",1,0,1,1,0,"White","Asian","1","Simple Assault","1","Park or Playground","Racial Bias","Adult",TRUE,FALSE
+,"2011","County": "County Police","GA","Georgia","3/22/2011",0,1,2,2,0,"Black or African American","Hispanic or Latino","2","Vandalism","2","Street","Ethnicity Bias","Juvenile",TRUE,FALSE
+,"2011","City": "City Police Department","NC","North Carolina","8/14/2011",1,0,1,1,0,"Hispanic or Latino","White","1","Intimidation","1","School","Racial Bias","Adult",TRUE,FALSE
+,"2011","City": "City Police Department","OH","Ohio","6/17/2011",0,1,1,1,0,"Asian","Black or African American","1","Simple Assault","1","Street","Ethnicity Bias","Juvenile",TRUE,FALSE
+,"2011","State": "State Police","AZ","Arizona","4/28/2011",1,0,1,1,0,"White","Asian","1","Vandalism","1","Park or Playground","Racial Bias","Adult",TRUE,FALSE
+,"2011","County": "County Police","CO","Colorado","11/15/2011",0,1,2,2,0,"Black or African American","Hispanic or Latino","2","Aggravated Assault","2","Street","Ethnicity Bias","Juvenile",TRUE,FALSE
+,"2011","City": "City Police Department","CT","Connecticut","2/25/2011",1,0,1,1,0,"Hispanic or Latino","White","1","Intimidation","1","School","Racial Bias","Adult",TRUE,FALSE
+,"2011","City": "City Police Department","DE","Delaware","1/15/2011",0,1,1,1,0,"Asian","Black or African American","1","Simple Assault","1","Street","Ethnicity Bias","Juvenile",TRUE,FALSE
+,"2011","State": "State Police","FL","Florida","9/12/2011",1,0,1,1,0,"White","Asian","1","Vandalism","1","Park or Playground","Racial Bias","Adult",TRUE,FALSE
+,"2011","County": "County Police","IA","Iowa","8/28/2011",0,1,2,2,0,"Black or African American","Hispanic or Latino","2","Aggravated Assault","2","Street","Ethnicity Bias","Juvenile",TRUE,FALSE
+,"2011","City": "City Police Department","KS","Kansas","6/1/2011",1,0,1,1,0,"Hispanic or Latino","White","1","Intimidation","1","School","Racial Bias","Adult",TRUE,FALSE
+,"2011","City": "City Police Department","KY","Kentucky","5/15/2011",0,1,1,1,0,"Asian","Black or African American","1","Simple Assault","1","Street","Ethnicity Bias","Juvenile",TRUE,FALSE
+,"2011","State": "State Police","LA","Louisiana","10/29/2011",1,0,1,1,0,"White","Asian","1","Vandalism","1","Park or Playground","Racial Bias","Adult",TRUE,FALSE
+,"2011","County": "County Police","MA","Massachusetts","7/10/2011",0,1,2,2,0,"Black or African American","Hispanic or Latino","2","Aggravated Assault","2","Street","Ethnicity Bias","Juvenile",TRUE,FALSE
+,"2011","City": "City Police Department","MD","Maryland","9/20/2011",1,0,1,1,0,"Hispanic or Latino","White","1","Intimidation","1","School","Racial Bias","Adult",TRUE,FALSE
+,"2011","City": "City Police Department","ME","Maine","11/22/2011",0,1,1,1,0,"Asian","Black or African American","1","Simple Assault","1","Street","Ethnicity Bias","Juvenile",TRUE,FALSE
+,"2011","State": "State Police","MI","Michigan","8/18/2011",1,0,1,1,0,"White","Asian","1","Vandalism","1","Park or Playground","Racial Bias","Adult",TRUE,FALSE
+,"2011","County": "County Police","MN","Minnesota","4/25/2011",0,1,2,2,0,"Black or African American","Hispanic or Latino","2","Aggravated Assault","2","Street","Ethnicity Bias","Juvenile",TRUE,FALSE
+,"2011","City": "City Police Department","MO","Missouri","3/17/2011",1,0,1,1,0,"Hispanic or Latino","White","1","Intimidation","1","School","Racial Bias","Adult",TRUE,FALSE
+,"2011","City": "City Police Department","MS","Mississippi","10/9/2011",0,1,1,1,0,"Asian","Black or African American","1","Simple Assault","1","Street","Ethnicity Bias","Juvenile",TRUE,FALSE
+,"2011","State": "State Police","MT","Montana","9/3/2011",1,0,1,1,0,"White","Asian","1","Vandalism","1","Park or Playground","Racial Bias","Adult",TRUE,FALSE
+,"2011","County": "County Police","NE","Nebraska","11/7/2011",0,1,2,2,0,"Black or African American","Hispanic or Latino","2","Aggravated Assault","2","Street","Ethnicity Bias","Juvenile",TRUE,FALSE
+,"2011","City": "City Police Department","NH","New Hampshire","7/28/2011",1,0,1,1,0,"Hispanic or Latino","White","1","Intimidation","1","School","Racial Bias","Adult",TRUE,FALSE
+,"2011","City": "City Police Department","NJ","New Jersey","9/6/2011",0,1,1,1,0,"Asian","Black or African American","1","Simple Assault","1","Street","Ethnicity Bias","Juvenile",TRUE,FALSE
+,"2011","State": "State Police","NM","New Mexico","8/12/2011",1,0,1,1,0,"White","Asian","1","Vandalism","1","Park or Playground","Racial Bias","Adult",TRUE,FALSE
+,"2011","County": "County Police","NV","Nevada","10/27/2011",0,1,2,2,0,"Black or African American","Hispanic or Latino","2","Aggravated Assault","2","Street","Ethnicity Bias","Juvenile",TRUE,FALSE
+,"2011","City": "City Police Department","ND","North Dakota","11/10/2011",1,0,1,1,0,"Hispanic or Latino","White","1","Intimidation","1","School","Racial Bias","Adult",TRUE,FALSE
+,"2011","City": "City Police Department","OK","Oklahoma","9/25/2011",0,1,1,1,0,"Asian","Black or African American","1","Simple Assault","1","Street","Ethnicity Bias","Juvenile",TRUE,FALSE
+,"2011","State": "State Police","OR","Oregon","7/23/2011",1,0,1,1,0,"White","Asian","1","Vandalism","1","Park or Playground","Racial Bias","Adult",TRUE,FALSE
+,"2011","County": "County Police","RI","Rhode Island","8/19/2011",0,1,2,2,0,"Black or African American","Hispanic or Latino","2","Aggravated Assault","2","Street","Ethnicity Bias","Juvenile",TRUE,FALSE
+,"2011","City": "City Police Department","SC","South Carolina","10/11/2011",1,0,1,1,0,"Hispanic or Latino","White","1","Intimidation","1","School","Racial Bias","Adult",TRUE,FALSE
+,"2011","City": "City Police Department","SD","South Dakota","4/22/2011",0,1,1,1,0,"Asian","Black or African American","1","Simple Assault","1","Street","Ethnicity Bias","Juvenile",TRUE,FALSE
+,"2011","State": "State Police","TN","Tennessee","11/25/2011",1,0,1,1,0,"White","Asian","1","Vandalism","1","Park or Playground","Racial Bias","Adult",TRUE,FALSE
+,"2011","County": "County Police","UT","Utah","8/30/2011",0,1,2,2,0,"Black or African American","Hispanic or Latino","2","Aggravated Assault","2","Street","Ethnicity Bias","Juvenile",TRUE,FALSE
+,"2011","City": "City Police Department","VT","Vermont","9/14/2011",1,0,1,1,0,"Hispanic or Latino","White","1","Intimidation","1","School","Racial Bias","Adult",TRUE,FALSE
+,"2011","City": "City Police Department","VA","Virginia","7/1/2011",0,1,1,1,0,"Asian","Black or African American","1","Simple Assault","1","Street","Ethnicity Bias","Juvenile",TRUE,FALSE
+,"2011","State": "State Police","WA","Washington","10/26/2011",1,0,1,1,0,"White","Asian","1","Vandalism","1","Park or Playground","Racial Bias","Adult",TRUE,FALSE
+,"2011","County": "County Police","WV","West Virginia","11/21/2011",0,1,2,2,0,"Black or African American","Hispanic or Latino","2","Aggravated Assault","2","Street","Ethnicity Bias","Juvenile",TRUE,FALSE
+,"2011","City": "City Police Department","WI","Wisconsin","9/21/2011",1,0,1,1,0,"Hispanic or Latino","White","1","Intimidation","1","School","Racial Bias","Adult",TRUE,FALSE
+,"2011","City": "City Police Department","WY","Wyoming","8/9/2011",0,1,1,1,0,"Asian","Black or African American","1","Simple Assault","1","Street","Ethnicity Bias","Juvenile",TRUE,FALSE

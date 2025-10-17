@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "2025-10-15T14:53:59.368326",
+    "model": "llava:7b",
+    "domain": "hatecrime",
+    "shot_type": "zero",
+    "format_type": "csv",
+    "chunk_id": 1,
+    "retries": 1,
+    "success": true,
+    "error_type": null,
+    "rows_generated": 10,
+    "duration_s": 32.07,
+    "raw_path": "chunk_001_attempt_1_raw_response.txt",
+    "parsed_path": "chunk_001_attempt_1_parsed.csv",
+    "had_schema_mismatch": true,
+    "schema_correction_type": "column_rename",
+    "schema_corrections_count": 1,
+    "header_present": true,
+    "used_expected_schema": true
+  },
+  {
+    "timestamp": "2025-10-15T14:54:28.300069",
+    "model": "llava:7b",
+    "domain": "hatecrime",
+    "shot_type": "zero",
+    "format_type": "csv",
+    "chunk_id": 2,
+    "retries": 1,
+    "success": true,
+    "error_type": null,
+    "rows_generated": 10,
+    "duration_s": 28.93,
+    "raw_path": "chunk_002_attempt_1_raw_response.txt",
+    "parsed_path": "chunk_002_attempt_1_parsed.csv",
+    "had_schema_mismatch": true,
+    "schema_correction_type": "column_rename",
+    "schema_corrections_count": 1,
+    "header_present": true,
+    "used_expected_schema": true
+  }
+]

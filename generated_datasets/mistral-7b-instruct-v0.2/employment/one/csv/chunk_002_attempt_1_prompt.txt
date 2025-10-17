@@ -1,0 +1,18 @@
+Generate 10 rows of realistic employment data in CSV format.
+
+DOMAIN: UK Gender Pay Gap Data
+TIME PERIOD: 2024-2025
+REQUIRED COLUMNS (in this exact order): EmployerName,SicCodes,DiffMeanHourlyPercent,DiffMedianHourlyPercent,DiffMeanBonusPercent,DiffMedianBonusPercent,MaleBonusPercent,FemaleBonusPercent,MaleLowerQuartile,FemaleLowerQuartile,MaleLowerMiddleQuartile,FemaleLowerMiddleQuartile,MaleUpperMiddleQuartile,FemaleUpperMiddleQuartile,MaleTopQuartile,FemaleTopQuartile,EmployerSize,DateSubmitted
+
+INSTRUCTIONS:
+1. Output ONLY the CSV data with NO explanations or commentary
+2. Start with the header row containing the exact column names above
+3. Then provide exactly 10 data rows
+4. Use realistic, varied data appropriate for the time period
+5. DO NOT include markdown code blocks or formatting
+
+EXAMPLE FORMAT:
+EmployerName,SicCodes,DiffMeanHourlyPercent,DiffMedianHourlyPercent,DiffMeanBonusPercent,DiffMedianBonusPercent,MaleBonusPercent,FemaleBonusPercent,MaleLowerQuartile,FemaleLowerQuartile,MaleLowerMiddleQuartile,FemaleLowerMiddleQuartile,MaleUpperMiddleQuartile,FemaleUpperMiddleQuartile,MaleTopQuartile,FemaleTopQuartile,EmployerSize,DateSubmitted
+ACME Corp,64209,30.4,23.6,73.9,30.0,55.4,64.0,25.4,74.6,15.1,84.9,27.0,73.0,55.6,44.4,500-999,2025-04-03
+
+Now generate the data:

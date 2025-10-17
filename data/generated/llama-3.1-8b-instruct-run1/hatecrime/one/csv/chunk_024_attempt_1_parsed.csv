@@ -1,0 +1,43 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2005,City,NM,New Mexico,2005-08-22,1,0,1,1,0,Asian/Hawaiian/Native Hawaiian/Other Pacific Islander,Not Hispanic or Latino,2,Hate Crime Against People With Disabilities,2.0,Store/Restaurant,Bias Against People With Disabilities,People With Disabilities,M,M
+2005,City,FL,Florida,2005-06-15,1,0,1,1,0,White,Hispanic or Latino,1,Kidnapping,1.0,Residence/Business,Anti-White,Other,S,S
+2005,City,CA,California,2005-09-12,1,0,1,1,0,Unknown,Not Specified,1,Vandalism,1.0,Park/Garden,Sexual Orientation,Lesbian,Gay,Bisexual or Transgender
+2005,Municipality,TX,Texas,2005-01-20,1,0,1,1,0,Asian/Native Hawaiian/Other Pacific Islander,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Business,Anti-Hispanic,Hispanic or Latino,M,M
+2005,Municipality,NY,New York,2005-07-31,1,0,1,1,0,Unknown,Not Specified,1,Intimidation,1.0,Store/Restaurant,Anti-Jewish,Other,S,S
+2005,Suburban,AZ,Arizona,2005-03-25,1,0,1,1,0,Unknown,Not Specified,1,Aggravated Assault,2.0,Park/Garden,Anti-Asian or Asian American,Asian/Native Hawaiian/Other Pacific Islander,S,S
+2005,Municipality,OK,Oklahoma,2005-05-07,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Business,Anti-White,Other,M,M
+2005,City,GA,Georgia,2005-10-12,1,0,1,1,0,Asian/Native Hawaiian/Other Pacific Islander,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Business,Anti-Asian or Asian American,Asian/Native Hawaiian/Other Pacific Islander,S,S
+2005,Suburban,IL,Illinois,2005-02-15,1,0,1,1,0,Unknown,Not Specified,1,Aggravated Assault,1.0,Store/Restaurant,Anti-Jewish,Other,S,S
+2005,City,MO,Missouri,2005-08-10,1,0,1,1,0,White,Not Hispanic or Latino,1,Vandalism,1.0,Residence/Business,Anti-Hispanic,Hispanic or Latino,M,M
+2005,Municipality,WI,Wisconsin,2005-11-20,1,0,1,1,0,Unknown,Not Specified,1,Simple Assault,1.0,Residence/Business,Anti-White,Other,M,M
+2005,Suburban,CO,Colorado,2005-09-05,1,0,1,1,0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Park/Garden,Anti-Lesbian,Gay,Bisexual or Transgender,People With Disabilities
+2005,City,MI,Michigan,2005-04-12,1,0,1,1,0,Asian/Native Hawaiian/Other Pacific Islander,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Business,Anti-Jewish,Other,M,M
+2005,Municipality,NC,North Carolina,2005-06-25,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1.0,Residence/Business,Anti-Hispanic,Hispanic or Latino,M,M
+2005,Suburban,TX,Texas,2005-01-22,1,1,1,1,1,Unknown,Not Specified,2,Robbery,2.0,Park/Garden,Anti-Jewish,Other,S,S
+2005,City,LA,Louisiana,2005-03-28,1,0,1,1,0,Unknown,Not Specified,1,Vandalism,1.0,Residence/Business,Anti-Hispanic,Hispanic or Latino,S,S
+2005,Municipality,MT,Montana,2005-09-15,1,0,1,1,0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Business,Anti-Hispanic,Hispanic or Latino,M,M
+2005,City,VT,Vermont,2005-10-01,1,0,1,1,0,Asian/Native Hawaiian/Other Pacific Islander,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Business,Anti-Jewish,Other,S,S
+2005,Suburban,ME,Maine,2005-07-18,1,0,1,1,0,Unknown,Not Specified,1,Intimidation,1.0,Residence/Business,Anti-Asian or Asian American,Asian/Native Hawaiian/Other Pacific Islander,M,M
+2005,Municipality,DE,Delaware,2005-02-14,1,0,1,1,0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Business,Anti-Hispanic,Hispanic or Latino,S,S
+2005,City,OR,Oregon,2005-08-29,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Business,Anti-Asian or Asian American,Asian/Native Hawaiian/Other Pacific Islander,S,S
+2005,Suburban,CT,Connecticut,2005-05-03,1,0,1,1,0,Unknown,Not Specified,1,Vandalism,1.0,Park/Garden,Anti-Jewish,Other,M,M
+2005,Municipality,SD,South Dakota,2005-04-25,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Business,Anti-Asian or Asian American,Asian/Native Hawaiian/Other Pacific Islander,M,M
+2005,City,AK,Alaska,2005-10-29,1,0,1,1,0,Asian/Native Hawaiian/Other Pacific Islander,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Business,Anti-White,Other,S,S
+2005,Suburban,MA,Massachusetts,2005-12-18,1,0,1,1,0,Unknown,Not Specified,1,Intimidation,1.0,Residence/Business,Anti-Asian or Asian American,Asian/Native Hawaiian/Other Pacific Islander,S,S
+2005,Municipality,IA,Iowa,2005-03-28,1,0,1,1,0,White,Not Hispanic or Latino,1,Vandalism,1.0,Store/Restaurant,Anti-Jewish,Other,M,M
+2005,City,ND,North Dakota,2005-06-22,1,0,1,1,0,Unknown,Not Specified,1,Simple Assault,1.0,Residence/Business,Anti-Hispanic,Hispanic or Latino,S,S
+2005,Suburban,HI,Hawaii,2005-09-02,1,0,1,1,0,Unknown,Not Specified,1,Aggravated Assault,1.0,Park/Garden,Anti-Asian or Asian American,Asian/Native Hawaiian/Other Pacific Islander,M,M
+2005,Municipality,ID,Idaho,2005-08-01,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1.0,Store/Restaurant,Anti-Asian or Asian American,Asian/Native Hawaiian/Other Pacific Islander,S,S
+2005,City,WY,Wyoming,2005-11-01,1,0,1,1,0,Unknown,Not Specified,1,Vandalism,1.0,Residence/Business,Anti-White,Other,S,S
+2005,Suburban,MD,Maryland,2005-07-10,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Park/Garden,Anti-Jewish,Other,M,M
+2005,Municipality,NE,Nebaska,2005-01-05,1,0,1,1,0,Asian/Native Hawaiian/Other Pacific Islander,Not Hispanic or Latino,1,Aggravated Assault,2.0,Residence/Business,Anti-Asian or Asian American,Asian/Native Hawaiian/Other Pacific Islander,M,M
+2005,City,KS,Kansas,2005-04-11,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1.0,Store/Restaurant,Anti-Hispanic,Hispanic or Latino,S,S
+2005,Suburban,SC,South Carolina,2005-09-17,1,0,1,1,0,Unknown,Not Specified,1,Vandalism,1.0,Park/Garden,Anti-Asian or Asian American,Asian/Native Hawaiian/Other Pacific Islander,M,M
+2005,Municipality,WV,West Virginia,2005-02-14,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Business,Anti-Lesbian,Gay,Bisexual or Transgender,People With Disabilities
+2005,City,AR,Arkansas,2005-11-04,1,0,1,1,0,Asian/Native Hawaiian/Other Pacific Islander,Not Hispanic or Latino,1,Intimidation,1.0,Residence/Business,Anti-Jewish,Other,S,S
+2005,Suburban,RI,Rhode Island,2005-08-26,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Store/Restaurant,Anti-Asian or Asian American,Asian/Native Hawaiian/Other Pacific Islander,M,M
+2005,Municipality,KY,Kentucky,2005-05-05,1,0,1,1,0,Asian/Native Hawaiian/Other Pacific Islander,Not Hispanic or Latino,1,Vandalism,1.0,Park/Garden,Anti-Lesbian,Gay,Bisexual or Transgender,People With Disabilities
+2005,City,IN,Indiana,2005-01-15,1,0,1,1,0,White,Not Hispanic or Latino,1,Aggravated Assault,2.0,Park/Garden,Anti-Asian or Asian American,Asian/Native Hawaiian/Other Pacific Islander,S,S
+2005,Suburban,PA,Pennsylvania,2005-03-22,1,0,1,1,0,Unknown,Not Specified,1,Simple Assault,1.0,Residence/Business,Anti-Jewish,Other,M,M
+2005,Municipality,OH,Ohio,2005-06-09,1,0,1,1,0,White,Not Hispanic or Latino,1,Vandalism,1.0,Store/Restaurant,Anti-Jewish,Other,S,S
+2005,City,TN,Tennessee,2005-09-22,1,0,1,1,0,Asian/Native Hawaiian/Other Pacific Islander,Not Hispanic or Latino,1,Intimidation,1.0,Residence/Business,Anti-Asian or Asian American,Asian/Native Hawaiian/Other Pacific Islander,S,S

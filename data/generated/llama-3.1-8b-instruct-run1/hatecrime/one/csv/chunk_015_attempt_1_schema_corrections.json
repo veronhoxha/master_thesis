@@ -1,0 +1,37 @@
+{
+  "chunk_id": 15,
+  "attempt": 1,
+  "model": "meta-llama/Llama-3.1-8B-Instruct",
+  "domain": "hatecrime",
+  "timestamp": "2025-10-16T22:50:59.789934",
+  "had_schema_mismatch": true,
+  "original_columns": null,
+  "expected_columns": [
+    "data_year",
+    "agency_type_name",
+    "state_abbr",
+    "state_name",
+    "incident_date",
+    "adult_victim_count",
+    "juvenile_victim_count",
+    "total_offender_count",
+    "adult_offender_count",
+    "juvenile_offender_count",
+    "offender_race",
+    "offender_ethnicity",
+    "victim_count",
+    "offense_name",
+    "total_individual_victims",
+    "location_name",
+    "bias_desc",
+    "victim_types",
+    "multiple_offense",
+    "multiple_bias"
+  ],
+  "correction_type": "add_header_and_columns",
+  "corrections_made": [
+    "Added expected schema columns (no header in LLM output)"
+  ],
+  "header_present": false,
+  "used_expected_schema": true
+}

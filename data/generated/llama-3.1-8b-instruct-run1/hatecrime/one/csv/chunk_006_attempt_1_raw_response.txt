@@ -1,0 +1,39 @@
+2004,State,CA,California,1995-11-27,0,1,1,1,Asian/Pacific Islander,Asian,1,Hate Crime Against People With Disabilities,1.0,Street/Highway/Airport,Disability,People with disabilities,B,Unknown
+2004,Municipality,MA,Massachusetts,1996-06-17,1,0,1,1,White,Non-Specific,2,Simple Assault,2.0,Residence,Anti-White or Caucasian,Other,S,Unknown
+2004,Local,AL,Alabama,1997-08-24,0,0,1,1,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Public Park,Anti-Jewish,Other,Y,Unknown
+2004,Tribal,OK,Okla,1998-02-17,0,0,1,1,Native American,Not Specified,1,Intimidation,1.0,Public Building,Anti-Hispanic or Latino,Other,N,Unknown
+2004,State,FL,Florida,1998-07-11,0,1,1,1,White,Non-Specific,1,Simple Assault,1.0,Residence,Anti-Asian or Pacific Islander,Other,Y,Unknown
+2004,City,NY,New York,1999-01-04,0,1,1,1,Asian/Pacific Islander,Asian,1,Aggravated Assault,1.0,Street/Highway/Airport,Anti-Homosexual,Other,Y,Unknown
+2004,Municipality,GA,Georgia,1999-09-23,0,0,1,1,Unknown,Not Specified,1,Vandalism,0.0,Public Park,Anti-Black or African American,Other,S,Unknown
+2004,Local,IL,Illinois,2000-03-01,0,0,1,1,Native American,Native American,1,Simple Assault,1.0,Residence,Anti-Asian or Pacific Islander,Other,Y,Unknown
+2004,Tribal,NC,North Carolina,2000-04-13,0,0,1,1,Unknown,Not Specified,1,Intimidation,1.0,Public Building,Anti-Homosexual,Other,N,Unknown
+2004,State,IN,Indiana,2000-08-12,1,0,1,1,Native American,Native American,1,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-Jewish,Other,Y,Unknown
+2004,City,MI,Michigan,2001-01-28,0,1,1,1,White,Non-Specific,1,Vandalism,0.0,Public Park,Anti-White or Caucasian,Other,S,Unknown
+2004,Municipality,AL,Alabama,2001-03-15,0,0,1,1,Native American,Native American,1,Hate Crime Against People With Disabilities,1.0,Street/Highway/Airport,Anti-Hispanic or Latino,Other,N,Unknown
+2004,Local,FL,Florida,2001-05-02,0,1,1,1,Unknown,Not Specified,1,Aggravated Assault,1.0,Public Building,Anti-Jewish,Other,Y,Unknown
+2004,Tribal,WY,Wyoming,2001-06-10,1,0,1,1,Black or African American,Non-Specific,1,Simple Assault,1.0,Residence,Anti-Homosexual,Other,Y,Unknown
+2004,State,SC,South Carolina,2001-08-23,0,0,1,1,Unknown,Not Specified,1,Intimidation,1.0,Public Park,Anti-Asian or Pacific Islander,Other,S,Unknown
+2004,City,OH,Ohio,2001-11-04,0,1,1,1,White,Non-Specific,1,Destruction/Damage/Vandalism of Property,0.0,Public Building,Anti-Jewish,Other,Y,Unknown
+2004,Municipality,TX,Texas,2002-01-19,1,0,1,1,Native American,Native American,1,Simple Assault,1.0,Street/Highway/Airport,Anti-Hispanic or Latino,Other,N,Unknown
+2004,Local,IL,Illinois,2002-03-15,0,0,1,1,Unknown,Not Specified,1,Aggravated Assault,1.0,Public Park,Anti-White or Caucasian,Other,Y,Unknown
+2004,Tribal,NM,N.Mexico,2002-06-11,0,0,1,1,White,Non-Specific,1,Vandalism,0.0,Residence,Anti-Homosexual,Other,S,Unknown
+2004,State,NC,North Carolina,2002-07-31,0,1,1,1,Native American,Native American,1,Hate Crime Against People With Disabilities,1.0,Public Park,Anti-Jewish,Other,N,Unknown
+2004,City,MA,Massachusetts,2002-09-17,0,0,1,1,Unknown,Not Specified,1,Intimidation,1.0,Street/Highway/Airport,Anti-Hispanic or Latino,Other,S,Unknown
+2004,Municipality,GA,Georgia,2003-01-03,1,0,1,1,Asian/Pacific Islander,Asian,1,Simple Assault,1.0,Public Building,Anti-Homosexual,Other,Y,Unknown
+2004,Local,IN,Indiana,2003-03-15,0,1,1,1,Native American,Native American,1,Aggravated Assault,1.0,Residence,Anti-Asian or Pacific Islander,Other,Y,Unknown
+2004,Tribal,OK,Okla,2003-05-06,1,0,1,1,Black or African American,Non-Specific,1,Simple Assault,1.0,Public Park,Anti-Jewish,Other,N,Unknown
+2004,State,FL,Florida,2003-07-26,0,0,1,1,Unknown,Not Specified,1,Vandalism,0.0,Street/Highway/Airport,Anti-Hispanic or Latino,Other,Y,Unknown
+2004,City,MI,Michigan,2003-09-19,0,1,1,1,White,Non-Specific,1,Destruction/Damage/Vandalism of Property,0.0,Public Building,Anti-White or Caucasian,Other,S,Unknown
+2004,Municipality,AL,Alabama,2004-01-03,0,0,1,1,Native American,Native American,1,Hate Crime Against People With Disabilities,1.0,Residence,Anti-Asian or Pacific Islander,Other,N,Unknown
+2004,Local,FL,Florida,2004-03-04,1,0,1,1,Unknown,Not Specified,1,Intimidation,1.0,Public Park,Anti-Homosexual,Other,Y,Unknown
+2004,Tribal,WY,Wyoming,2004-05-15,0,1,1,1,Black or African American,Non-Specific,1,Simple Assault,1.0,Street/Highway/Airport,Anti-Jewish,Other,N,Unknown
+2004,State,SC,South Carolina,2004-06-18,0,0,1,1,Unknown,Not Specified,1,Vandalism,0.0,Public Building,Anti-Asian or Pacific Islander,Other,S,Unknown
+2004,City,OH,Ohio,2004-08-22,0,1,1,1,White,Non-Specific,1,Destruction/Damage/Vandalism of Property,0.0,Public Park,Anti-Hispanic or Latino,Other,Y,Unknown
+2004,Municipality,TX,Texas,2004-10-14,1,0,1,1,Native American,Native American,1,Aggravated Assault,1.0,Residence,Anti-Jewish,Other,N,Unknown
+2004,Local,IL,Illinois,2004-12-06,0,0,1,1,Unknown,Not Specified,1,Intimidation,1.0,Street/Highway/Airport,Anti-Homosexual,Other,Y,Unknown
+2004,Tribal,NM,N.Mexico,2005-01-04,0,1,1,1,Native American,Native American,1,Hate Crime Against People With Disabilities,1.0,Public Building,Anti-Asian or Pacific Islander,Other,N,Unknown
+2004,State,NC,North Carolina,2005-03-11,0,0,1,1,Black or African American,Non-Specific,1,Destruction/Damage/Vandalism of Property,0.0,Public Park,Anti-Jewish,Other,S,Unknown
+2004,City,MA,Massachusetts,2005-05-14,1,0,1,1,Asian/Pacific Islander,Asian,1,Simple Assault,1.0,Street/Highway/Airport,Anti-Hispanic or Latino,Other,Y,Unknown
+2004,Municipality,GA,Georgia,2005-07-05,0,1,1,1,White,Non-Specific,1,Aggravated Assault,1.0,Residence,Anti-Asian or Pacific Islander,Other,Y,Unknown
+2004,Local,IN,Indiana,2005-09-08,1,0,1,1,Unknown,Not Specified,1,Vandalism,0.0,Public Building,Anti-Homosexual,Other,N,Unknown
+2004,Tribal,OK,Okla,2005-12-04,0,0,1,1,Native American,Native American,1,Hate Crime Against People With Disabilities,1.0,Public Park,Anti-Jewish,Other,N,Unknown

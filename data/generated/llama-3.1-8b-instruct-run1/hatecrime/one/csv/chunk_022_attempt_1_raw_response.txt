@@ -1,0 +1,48 @@
+2004,City,NJ,New Jersey,2004-03-16,1,0,1,1,0,Unknown,Not Specified,2,Simple Assault,2.0,Residential Area,Anti-Hispanic or Latino,Adult,Other,S
+2004,State,NY,New York,2004-08-22,0,1,1,0,0,White,Not Specified,1,Intimidation,1.0,Public Transportation,Bias Against Sexual Orientation,Adult,Other,S
+1996,City,CA,California,1996-01-10,0,0,2,2,0,African American,Not Specified,2,Aggravated Assault,2.0,Park or Playground,Bias Against Sexual Orientation,Adult,Other,S
+2002,State,FL,Florida,2002-09-15,0,0,1,1,0,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Residential Area,Anti-White,Adult,Other,S
+2005,City,IL,Illinois,2005-11-20,1,0,1,1,0,Hispanic or Latino,Not Specified,1,Simple Assault,1.0,Public Parking Lot or Garage,Anti-Jewish,Adult,Other,S
+1993,State,GA,Georgia,1993-06-05,0,1,1,0,0,White,Not Specified,1,Vandalism,1.0,Public School,Anti-Black or African American,Adult,Other,S
+1999,City,MA,Massachusetts,1999-02-14,0,0,1,1,0,African American,Not Specified,1,Intimidation,1.0,Public Housing,Anti-Asian or Native American,Adult,Other,S
+2008,State,NC,North Carolina,2008-04-18,0,0,1,1,0,Unknown,Not Specified,1,Simple Assault,1.0,Residential Area,Anti-Homosexual,Adult,Other,S
+1997,State,AZ,Arizona,1997-10-29,0,0,1,1,0,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Public School,Anti-Black or African American,Adult,Other,S
+2006,City,CO,Colorado,2006-01-28,1,0,1,1,0,Hispanic or Latino,Not Specified,1,Simple Assault,1.0,Public Parking Lot or Garage,Anti-Asian or Native American,Adult,Other,S
+1994,State,TX,Texas,1994-03-22,0,1,1,0,0,Unknown,Not Specified,1,Vandalism,1.0,Public School,Anti-Hispanic or Latino,Adult,Other,S
+2009,City,OH,Ohio,2009-12-25,0,0,1,1,0,African American,Not Specified,1,Simple Assault,1.0,Residential Area,Anti-White,Adult,Other,S
+1998,State,OR,Oregon,1998-07-24,1,0,1,1,0,Hispanic or Latino,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Public School,Bias Against Sexual Orientation,Adult,Other,S
+2003,City,MI,Michigan,2003-05-09,0,0,1,1,0,White,Not Specified,1,Intimidation,1.0,Public Housing,Anti-Jewish,Adult,Other,S
+1992,State,PA,Pennsylvania,1992-09-01,1,0,1,1,0,Hispanic or Latino,Not Specified,1,Vandalism,1.0,Public School,Anti-Asian or Native American,Adult,Other,S
+2010,State,IN,Indiana,2010-02-14,0,1,1,0,0,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Public School,Bias Against Sexual Orientation,Adult,Other,S
+2007,State,SC,South Carolina,2007-08-25,0,0,1,1,0,African American,Not Specified,1,Simple Assault,1.0,Public Housing,Anti-White,Adult,Other,S
+1995,State,MS,Mississippi,1995-01-03,0,0,2,2,0,White,Not Specified,2,Aggravated Assault,2.0,Public School,Bias Against Sexual Orientation,Adult,Other,S
+2001,City,CT,Connecticut,2001-04-05,1,0,1,1,0,Unknown,Not Specified,1,Simple Assault,1.0,Residential Area,Anti-Jewish,Adult,Other,S
+1991,City,WA,Washington,1991-10-14,0,0,1,1,0,Hispanic or Latino,Not Specified,1,Vandalism,1.0,Public Parking Lot or Garage,Anti-Homosexual,Adult,Other,S
+2000,City,GA,Georgia,2000-09-19,0,0,1,1,0,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Public School,Anti-Asian or Native American,Adult,Other,S
+1996,State,ID,Idaho,1996-11-23,1,0,1,1,0,Hispanic or Latino,Not Specified,1,Simple Assault,1.0,Public School,Bias Against Sexual Orientation,Adult,Other,S
+2002,State,IA,Iowa,2002-06-14,0,0,2,2,0,White,Not Specified,2,Aggravated Assault,2.0,Public School,Bias Against Sexual Orientation,Adult,Other,S
+2005,State,WI,Wisconsin,2005-02-11,0,0,1,1,0,African American,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Public School,Bias Against Sexual Orientation,Adult,Other,S
+1999,City,ME,Maine,1999-10-22,1,0,1,1,0,White,Not Specified,1,Intimidation,1.0,Residential Area,Anti-White,Adult,Other,S
+2004,State,VT,Vermont,2004-06-08,0,0,1,1,0,Unknown,Not Specified,1,Simple Assault,1.0,Public School,Bias Against Sexual Orientation,Adult,Other,S
+1997,State,KY,Kentucky,1997-04-01,0,1,1,0,0,African American,Not Specified,1,Vandalism,1.0,Public School,Anti-Hispanic or Latino,Adult,Other,S
+2006,State,MT,Montana,2006-03-25,0,0,1,1,0,White,Not Specified,1,Simple Assault,1.0,Public Parking Lot or Garage,Anti-Arab,Adult,Other,S
+2009,State,DE,Delaware,2009-07-15,1,0,1,1,0,Hispanic or Latino,Not Specified,1,Intimidation,1.0,Public School,Bias Against Sexual Orientation,Adult,Other,S
+2000,State,NM,New Mexico,2000-09-01,0,0,2,2,0,White,Not Specified,2,Aggravated Assault,2.0,Public School,Bias Against Sexual Orientation,Adult,Other,S
+1993,State,ND,North Dakota,1993-08-25,0,0,1,1,0,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Public School,Anti-Homosexual,Adult,Other,S
+2008,State,MN,Minnnesota,2008-01-17,1,0,1,1,0,White,Not Specified,1,Vandalism,1.0,Public School,Bias Against Sexual Orientation,Adult,Other,S
+2001,State,ND,North Dakota,2001-10-15,0,0,1,1,0,Hispanic or Latino,Not Specified,1,Simple Assault,1.0,Public Parking Lot or Garage,Anti-Jewish,Adult,Other,S
+1992,State,NE,Nebraska,1992-01-19,0,0,2,2,0,African American,Not Specified,2,Destruction/Damage/Vandalism of Property,2.0,Public School,Bias Against Sexual Orientation,Adult,Other,S
+2007,State,CO,Colorado,2007-10-20,0,0,1,1,0,White,Not Specified,1,Intimidation,1.0,Public School,Anti-Asian or Native American,Adult,Other,S
+1995,State,SD,South Dakota,1995-02-20,0,0,1,1,0,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Public School,Bias Against Sexual Orientation,Adult,Other,S
+2004,State,KS,Kansas,2004-03-28,0,0,2,2,0,African American,Not Specified,2,Aggravated Assault,2.0,Public School,Anti-White,Adult,Other,S
+2009,State,IL,Illinois,2009-05-01,0,0,1,1,0,Hispanic or Latino,Not Specified,1,Vandalism,1.0,Public School,Anti-Jewish,Adult,Other,S
+1999,State,ME,Maine,1999-07-30,0,1,1,0,0,African American,Not Specified,1,Simple Assault,1.0,Public Parking Lot or Garage,Anti-Hispanic or Latino,Adult,Other,S
+2001,City,NY,New York,2001-02-04,1,0,1,1,0,Unknown,Not Specified,1,Simple Assault,1.0,Residential Area,Anti-Asian or Native American,Adult,Other,S
+2006,State,UT,Utah,2006-09-25,0,0,1,1,0,White,Not Specified,1,Intimidation,1.0,Public School,Bias Against Sexual Orientation,Adult,Other,S
+1996,State,WV,West Virginia,1996-06-22,1,0,1,1,0,Hispanic or Latino,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Public School,Anti-Homosexual,Adult,Other,S
+2005,State,MO,Missouri,2005-01-08,0,0,1,1,0,African American,Not Specified,1,Simple Assault,1.0,Public School,Bias Against Sexual Orientation,Adult,Other,S
+2002,State,AR,Arkansas,2002-08-01,0,1,1,0,0,Unknown,Not Specified,1,Vandalism,1.0,Public School,Anti-Jewish,Adult,Other,S
+1998,City,NJ,New Jersey,1998-05-11,0,0,2,2,0,White,Not Specified,2,Destruction/Damage/Vandalism of Property,2.0,Public Parking Lot or Garage,Bias Against Sexual Orientation,Adult,Other,S
+2003,State,RI,Rhode Island,2003-11-05,0,0,1,1,0,Hispanic or Latino,Not Specified,1,Intimidation,1.0,Public School,Anti-Asian or Native American,Adult,Other,S
+1994,State,OK,Oklaoma,1994-01-15,1,0,1,1,0,Unknown,Not Specified,1,Simple Assault,1.0,Public School,Anti-Hispanic or Latino,Adult,Other,S
+2009,City,CA,California,2009-08-22,0,0,1,1,0,White,Not Specified,1,Simple Assault,1.0,Residential Area,Bias Against Sexual Orientation,Adult,Other,S

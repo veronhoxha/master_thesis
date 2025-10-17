@@ -1,0 +1,46 @@
+2001,City,NY,New York,2001-08-09,0,0,1,0,1,Multiple,Race,Not Hispanic or Latino,2,Simple Assault,2.0,Street/Hwy/Ramp,Premise,Anti-White,Hispanic or Latino,M,M
+1995,State,AL,Alabama,1995-02-25,0,0,2,0,2,Multiple,Asian,Asian,3,Intimidation,3.0,Street/Hwy/Ramp,Premise,Anti-Asian,Hispanic or Latino,M,M
+1998,Suburban,FL,Florida,1998-10-27,1,0,1,1,0,Singl,e,White, White,1,Simple Assault,1.0,School/College,Premise,Anti-Hispanic or Latino,Black or African American,S,S
+2002,State,CA,California,2002-03-16,1,0,1,1,0,Singl,e,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,Street/Hwy/Ramp,Premise,Anti-White,Not Specified,M,M
+2007,City,IL,Illinois,2007-07-25,2,0,2,2,0,Multiple,White,White,2,Destruction/Damage/Vandalism of Property,2.0,Street/Hwy/Ramp,Premise,Anti-Hispanic or Latino,Asian,M,M
+1993,Suburban,MA,Massachusetts,1993-11-22,0,0,1,0,1,Multiple,Race,Not Hispanic or Latino,2,Simple Assault,2.0,School/College,Premise,Anti-White,Black or African American,M,M
+2005,State,TX,Texas,2005-09-01,0,0,1,0,1,Multiple,White,White,1,Intimidation,1.0,Street/Hwy/Ramp,Premise,Anti-Hispanic or Latino,Not Specified,M,M
+2003,State,MI,Michigan,2003-04-11,0,0,1,0,1,Multiple,Asian,Asian,1,Simple Assault,1.0,Street/Hwy/Ramp,Premise,Unknown,Hispanic or Latino,M,M
+2008,City,NC,North Carolina,2008-01-23,0,0,1,0,1,Multiple,Black or African American,Black or African American,1,Destruction/Damage/Vandalism of Property,1.0,School/College,Premise,Anti-White,Not Specified,S,S
+2004,Suburban,GA,Georgia,2004-02-21,0,0,1,0,1,Multiple,White,White,1,Simple Assault,1.0,School/College,Premise,Anti-Hispanic or Latino,Not Specified,M,M
+2002,State,WI,Wisconsin,2002-06-15,0,0,1,0,1,Multiple,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Street/Hwy/Ramp,Premise,Unknown,Asian,M,M
+2005,City,MN,Minnnesota,2005-03-01,0,0,1,0,1,Multiple,Not Specified,Not Specified,1,Vandalism,1.0,School/College,Premise,Anti-White,Black or African American,M,M
+2003,Suburban,NJ,New Jersey,2003-09-15,0,0,1,0,1,Multiple,Asian,Asian,1,Simple Assault,1.0,Street/Hwy/Ramp,Premise,Anti-Black or African American,Hispanic or Latino,M,M
+2008,State,IN,Indiana,2008-04-23,0,0,1,0,1,Multiple,White,White,1,Simple Assault,1.0,Street/Hwy/Ramp,Premise,Anti-Hispanic or Latino,Not Specified,M,M
+2002,Suburban,IA,Iowa,2002-07-18,0,0,1,0,1,Multiple,Black or African American,Black or African American,1,Vandalism,1.0,Street/Hwy/Ramp,Premise,Anti-White,Not Specified,M,M
+2000,City,OH,Ohio,2000-06-18,0,0,1,0,1,Multiple,Not Specified,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Street/Hwy/Ramp,Premise,Anti-White,Not Specified,M,M
+1997,State,SC,South Carolina,1997-01-12,0,0,1,0,1,Multiple,Black or African American,Black or African American,1,Simple Assault,1.0,Street/Hwy/Ramp,Premise,Anti-White,Not Specified,M,M
+2005,State,KY,Kentucky,2005-08-26,0,0,1,0,1,Multiple,Asian,Asian,1,Vandalism,1.0,School/College,Premise,Anti-Hispanic or Latino,Not Specified,M,M
+2009,City,WA,Washington,2009-02-15,0,0,1,0,1,Multiple,Asian,Asian,1,Simple Assault,1.0,School/College,Premise,Anti-White,Not Specified,M,M
+2007,Suburban,UT,Utah,2007-01-30,0,0,1,0,1,Multiple,Hispanic or Latino,Hispanic or Latino,1,Vandalism,1.0,School/College,Premise,Anti-Black or African American,Not Specified,M,M
+2000,Suburban,VT,Vermont,2000-09-28,0,0,1,0,1,Multiple,White,White,1,Simple Assault,1.0,School/College,Premise,Anti-Hispanic or Latino,Not Specified,M,M
+2003,State,MT,Montana,2003-10-07,0,0,1,0,1,Multiple,Asian,Asian,1,Destruction/Damage/Vandalism of Property,1.0,School/College,Premise,Anti-Black or African American,Not Specified,M,M
+2009,City,MO,Missouri,2009-08-12,0,0,1,0,1,Multiple,White,White,1,Simple Assault,1.0,Street/Hwy/Ramp,Premise,Anti-Hispanic or Latino,Not Specified,M,M
+1996,State,DE,Delaware,1996-09-01,0,0,1,0,1,Multiple,White,White,1,Vandalism,1.0,School/College,Premise,Anti-Hispanic or Latino,Not Specified,M,M
+2003,Suburban,MN,Minnnesota,2003-04-05,0,0,1,0,1,Multiple,White,White,1,Simple Assault,1.0,School/College,Premise,Anti-Asian,Not Specified,M,M
+2008,State,ME,Maine,2008-03-10,0,0,1,0,1,Multiple,Asian,Asian,1,Vandalism,1.0,Street/Hwy/Ramp,Premise,Anti-Hispanic or Latino,Not Specified,M,M
+2005,State,AZ,Arizona,2005-01-31,0,0,1,0,1,Multiple,Asian,Asian,1,Destruction/Damage/Vandalism of Property,1.0,Street/Hwy/Ramp,Premise,Anti-White,Not Specified,M,M
+2007,City,NE,Neb.,2007-05-11,0,0,1,0,1,Multiple,White,White,1,Vandalism,1.0,Street/Hwy/Ramp,Premise,Anti-Hispanic or Latino,Not Specified,M,M
+2001,State,NC,North Carolina,2001-01-28,0,0,1,0,1,Multiple,Asian,Asian,1,Simple Assault,1.0,School/College,Premise,Anti-Black or African American,Not Specified,M,M
+2006,State,ND,North Dakota,2006-09-16,0,0,1,0,1,Multiple,Not Specified,Not Specified,1,Simple Assault,1.0,Street/Hwy/Ramp,Premise,Anti-Hispanic or Latino,Not Specified,M,M
+2009,Suburban,CA,California,2009-07-05,0,0,1,0,1,Multiple,Asian,Asian,1,Vandalism,1.0,Street/Hwy/Ramp,Premise,Anti-White,Not Specified,M,M
+2005,City,CO,Colorado,2005-10-29,0,0,1,0,1,Multiple,White,White,1,Simple Assault,1.0,School/College,Premise,Anti-Asian,Not Specified,M,M
+2009,City,VT,Vermont,2009-07-05,0,0,1,0,1,Multiple,Asian,Asian,1,Vandalism,1.0,Street/Hwy/Ramp,Premise,Anti-Black or African American,Not Specified,M,M
+2009,State,HI,Hawaii,2009-05-18,0,0,1,0,1,Multiple,Asian,Asian,1,Simple Assault,1.0,Street/Hwy/Ramp,Premise,Anti-Hispanic or Latino,Not Specified,M,M
+2004,State,WV,West Virginia,2004-01-11,0,0,1,0,1,Multiple,Asian,Asian,1,Vandalism,1.0,Street/Hwy/Ramp,Premise,Anti-White,Not Specified,M,M
+2002,City,CT,Connecticut,2002-11-25,0,0,1,0,1,Multiple,White,White,1,Destruction/Damage/Vandalism of Property,1.0,School/College,Premise,Anti-Hispanic or Latino,Not Specified,M,M
+2006,State,GA,Georgia,2006-07-24,0,0,1,0,1,Multiple,Asian,Asian,1,Vandalism,1.0,Street/Hwy/Ramp,Premise,Anti-Black or African American,Not Specified,M,M
+2005,State,LA,Louisiana,2005-01-21,0,0,1,0,1,Multiple,Asian,Asian,1,Destruction/Damage/Vandalism of Property,1.0,Street/Hwy/Ramp,Premise,Anti-Asian,Not Specified,M,M
+2000,State,VT,Vermont,2000-06-17,0,0,1,0,1,Multiple,Asian,Asian,1,Vandalism,1.0,School/College,Premise,Anti-Black or African American,Not Specified,M,M
+2008,City,DE,Delaware,2008-09-18,0,0,1,0,1,Multiple,White,White,1,Simple Assault,1.0,Street/Hwy/Ramp,Premise,Anti-Hispanic or Latino,Not Specified,M,M
+2007,City,KS,Kansas,2007-01-16,0,0,1,0,1,Multiple,Asian,Asian,1,Simple Assault,1.0,Street/Hwy/Ramp,Premise,Anti-White,Not Specified,M,M
+2005,State,Rhode Island,2005-08-21,0,0,1,0,1,Multiple,Asian,Asian,1,Destruction/Damage/Vandalism of Property,1.0,Street/Hwy/Ramp,Premise,Anti-Hispanic or Latino,Not Specified,M,M
+2001,City,IL,Illinois,2001-01-22,1,0,1,1,0,Singl,e,White, White,1,Vandalism,1.0,Street/Hwy/Ramp,Premise,Anti-Asian,Not Specified,S,S
+2002,City,AK,Alaska,2002-08-11,0,0,1,0,1,Multiple,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Street/Hwy/Ramp,Premise,Anti-Asian,Not Specified,M,M
+2000,State,FL,Florida,2000-06-25,0,0,1,0,1,Multiple,Asian,Asian,1,Simple Assault,1.0,Street/Hwy/Ramp,Premise,Anti-Hispanic or Latino,Not Specified,M,M
+2000,City,ME,Maine,2000-04-08,0,0,1,0,1,Multiple,Asian,Asian,1,Destruction/Damage/Vandalism of Property,1.0,Street/Hwy/Ramp,Premise,Anti-Black or African American,Not Specified,M,M

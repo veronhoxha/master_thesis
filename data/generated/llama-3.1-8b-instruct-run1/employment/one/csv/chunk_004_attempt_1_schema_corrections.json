@@ -1,0 +1,35 @@
+{
+  "chunk_id": 4,
+  "attempt": 1,
+  "model": "meta-llama/Llama-3.1-8B-Instruct",
+  "domain": "employment",
+  "timestamp": "2025-10-16T23:38:16.569634",
+  "had_schema_mismatch": true,
+  "original_columns": null,
+  "expected_columns": [
+    "EmployerName",
+    "SicCodes",
+    "DiffMeanHourlyPercent",
+    "DiffMedianHourlyPercent",
+    "DiffMeanBonusPercent",
+    "DiffMedianBonusPercent",
+    "MaleBonusPercent",
+    "FemaleBonusPercent",
+    "MaleLowerQuartile",
+    "FemaleLowerQuartile",
+    "MaleLowerMiddleQuartile",
+    "FemaleLowerMiddleQuartile",
+    "MaleUpperMiddleQuartile",
+    "FemaleUpperMiddleQuartile",
+    "MaleTopQuartile",
+    "FemaleTopQuartile",
+    "EmployerSize",
+    "DateSubmitted"
+  ],
+  "correction_type": "add_header_and_columns",
+  "corrections_made": [
+    "Added expected schema columns (no header in LLM output)"
+  ],
+  "header_present": false,
+  "used_expected_schema": true
+}

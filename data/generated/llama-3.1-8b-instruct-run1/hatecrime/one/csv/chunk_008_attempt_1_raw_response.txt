@@ -1,0 +1,56 @@
+"2004","City","TX","Texas","2004-10-05",0,0,0,0,0,"White",Not Specified,1,"Larceny/Theft",1.0,"Street/Hwy/Ramp","Anti-White or Caucasian",Other,M,M
+"1995","Shire","ME","Maine","1995-07-22",0,0,1,0,1,"Black or African American",Not Specified,1,"Simple Assault",1.0,"Other/Unknown","Anti-Asian or Asian/Pacific Islander",Other,S,M
+"2007","City","CA","California","2007-03-21",0,0,0,0,0,"Unknown",Not Specified,1,"Intimidation",1.0,"Other/Unknown","Anti-Gay/Lesbian/Bisexual/Transgender",Other,S,S
+"2001","City","NY","New York","2001-09-10",1,0,1,1,0,"White",Not Specified,3,"Vandalism",3.0,"Business/Office","Anti-Jewish",Other,M,M
+"1993","Town","CO","Colorado","1993-02-01",0,0,0,0,0,"Unknown",Not Specified,1,"Vandalism",1.0,"Other/Unknown","Anti-American Indian or Alaska Native",Other,M,M
+"2002","City","LA","Louisiana","2002-11-14",0,0,1,0,1,"Black or African American",Not Specified,1,"Simple Assault",1.0,"Other/Unknown","Anti-Hispanic or Latino",Other,S,M
+"1999","City","FL","Florida","1999-05-09",0,0,0,0,0,"Unknown",Not Specified,1,"Larceny/Theft",1.0,"Other/Unknown","Anti-Asian or Asian/Pacific Islander",Other,S,M
+"2006","City","GA","Georgia","2006-02-01",0,0,0,0,0,"Unknown",Not Specified,1,"Vandalism",1.0,"Other/Unknown","Anti-Gay/Lesbian/Bisexual/Transgender",Other,M,M
+"2008","Shire","VT","Vermont","2008-04-13",0,0,0,0,0,"Unknown",Not Specified,1,"Destruction/Damage/Vandalism of Property",1.0,"Other/Unknown","Anti-Jewish",Other,S,S
+"2003","City","IL","Illinois","2003-03-02",0,0,0,0,0,"Unknown",Not Specified,1,"Larceny/Theft",1.0,"Other/Unknown","Anti-Arab or Muslim",Other,S,M
+"2009","City","AZ","Arizona","2009-08-29",0,0,0,0,0,"Unknown",Not Specified,1,"Intimidation",1.0,"Other/Unknown","Anti-Hispanic or Latino",Other,S,S
+"1996","Town","NC","North Carolina","1996-06-20",0,0,0,0,0,"Unknown",Not Specified,1,"Vandalism",1.0,"Other/Unknown","Anti-Gay/Lesbian/Bisexual/Transgender",Other,S,S
+"2010","City","OH","Ohio","2010-09-30",0,0,0,0,0,"Unknown",Not Specified,1,"Destruction/Damage/Vandalism of Property",1.0,"Other/Unknown","Anti-Jewish",Other,M,M
+"2005","City","WA","Washington","2005-05-13",0,0,0,0,0,"Unknown",Not Specified,1,"Larceny/Theft",1.0,"Other/Unknown","Anti-American Indian or Alaska Native",Other,M,M
+"1998","Shire","RI","Rhode Island","1998-12-13",0,0,0,0,0,"Unknown",Not Specified,1,"Intimidation",1.0,"Other/Unknown","Anti-Hispanic or Latino",Other,S,M
+"2000","Town","MI","Michigan","2000-02-10",0,0,0,0,0,"Unknown",Not Specified,1,"Vandalism",1.0,"Other/Unknown","Anti-Arab or Muslim",Other,M,S
+"1992","City","PA","Pennsylvania","1992-01-22",0,0,0,0,0,"Unknown",Not Specified,1,"Destruction/Damage/Vandalism of Property",1.0,"Other/Unknown","Anti-Gay/Lesbian/Bisexual/Transgender",Other,M,M
+"2004","City","NM","New Mexico","2004-06-03",0,0,0,0,0,"Unknown",Not Specified,1,"Larceny/Theft",1.0,"Other/Unknown","Anti-Jewish",Other,S,S
+"1997","Shire","DE","Delaware","1997-10-20",0,0,0,0,0,"Unknown",Not Specified,1,"Intimidation",1.0,"Other/Unknown","Anti-Asian or Asian/Pacific Islander",Other,M,M
+"2002","Town","TN","Tennessee","2002-09-12",0,0,0,0,0,"Unknown",Not Specified,1,"Vandalism",1.0,"Other/Unknown","Anti-Hispanic or Latino",Other,M,S
+"1994","City","MA","Massachusetts","1994-03-21",0,0,1,0,1,"White",Not Specified,1,"Simple Assault",1.0,"Other/Unknown","Anti-American Indian or Alaska Native",Other,M,M
+"2005","City","SC","South Carolina","2005-12-23",0,0,0,0,0,"Unknown",Not Specified,1,"Destruction/Damage/Vandalism of Property",1.0,"Other/Unknown","Anti-Jewish",Other,S,M
+"2001","Shire","KY","Kentucky","2001-08-24",0,0,0,0,0,"Unknown",Not Specified,1,"Larceny/Theft",1.0,"Other/Unknown","Anti-Hispanic or Latino",Other,S,M
+"2011","City","UT","Utah","2011-02-01",0,0,0,0,0,"Unknown",Not Specified,1,"Intimidation",1.0,"Other/Unknown","Anti-Asian or Asian/Pacific Islander",Other,S,S
+"2006","City","KY","Kentucky","2006-10-13",0,0,0,0,0,"Unknown",Not Specified,1,"Destruction/Damage/Vandalism of Property",1.0,"Other/Unknown","Anti-Jewish",Other,S,M
+"2009","Town","ID","Idaho","2009-04-26",0,0,0,0,0,"Unknown",Not Specified,1,"Larceny/Theft",1.0,"Other/Unknown","Anti-Gay/Lesbian/Bisexual/Transgender",Other,M,S
+"2008","City","NV","Nevada","2008-01-18",0,0,0,0,0,"Unknown",Not Specified,1,"Vandalism",1.0,"Other/Unknown","Anti-Hispanic or Latino",Other,S,M
+"1999","Shire","WV","West Virginia","1999-08-04",0,0,0,0,0,"Unknown",Not Specified,1,"Intimidation",1.0,"Other/Unknown","Anti-Jewish",Other,M,S
+"2003","City","OK","Oklahoma","2003-09-20",0,0,0,0,0,"Unknown",Not Specified,1,"Destruction/Damage/Vandalism of Property",1.0,"Other/Unknown","Anti-Arab or Muslim",Other,M,M
+"2007","Town","NE","Nebraska","2007-05-25",0,0,0,0,0,"Unknown",Not Specified,1,"Larceny/Theft",1.0,"Other/Unknown","Anti-Gay/Lesbian/Bisexual/Transgender",Other,M,M
+"1996","City","AL","Alabama","1996-06-25",0,0,0,0,0,"Unknown",Not Specified,1,"Vandalism",1.0,"Other/Unknown","Anti-Asian or Asian/Pacific Islander",Other,M,S
+"2002","City","AR","Arkansas","2002-03-28",0,0,1,0,1,"White",Not Specified,1,"Simple Assault",1.0,"Other/Unknown","Anti-Jewish",Other,M,S
+"2004","City","OR","Oregon","2004-07-15",0,0,0,0,0,"Unknown",Not Specified,1,"Destruction/Damage/Vandalism of Property",1.0,"Other/Unknown","Anti-Asian or Asian/Pacific Islander",Other,S,M
+"2012","City","MS","Mississippi","2012-06-24",0,0,0,0,0,"Unknown",Not Specified,1,"Intimidation",1.0,"Other/Unknown","Anti-Hispanic or Latino",Other,M,M
+"2006","City","IA","Iowa","2006-06-28",0,0,0,0,0,"Unknown",Not Specified,1,"Larceny/Theft",1.0,"Other/Unknown","Anti-Gay/Lesbian/Bisexual/Transgender",Other,S,S
+"2005","City","MO","Missouri","2005-08-01",0,0,0,0,0,"Unknown",Not Specified,1,"Vandalism",1.0,"Other/Unknown","Anti-Jewish",Other,S,S
+"1995","City","CT","Connecticut","1995-11-01",0,0,0,0,0,"Unknown",Not Specified,1,"Destruction/Damage/Vandalism of Property",1.0,"Other/Unknown","Anti-American Indian or Alaska Native",Other,S,M
+"2001","City","RI","Rhode Island","2001-01-07",0,0,0,0,0,"Unknown",Not Specified,1,"Larceny/Theft",1.0,"Other/Unknown","Anti-Hispanic or Latino",Other,S,S
+"2009","City","VT","Vermont","2009-09-18",0,0,0,0,0,"Unknown",Not Specified,1,"Intimidation",1.0,"Other/Unknown","Anti-Jewish",Other,S,S
+"2008","Town","NC","North Carolina","2008-04-23",0,0,0,0,0,"Unknown",Not Specified,1,"Destruction/Damage/Vandalism of Property",1.0,"Other/Unknown","Anti-Gay/Lesbian/Bisexual/Transgender",Other,M,M
+"1997","City","ME","Maine","1997-09-19",0,0,0,0,0,"Unknown",Not Specified,1,"Vandalism",1.0,"Other/Unknown","Anti-Asian or Asian/Pacific Islander",Other,M,M
+"2004","City","MT","Montana","2004-05-29",0,0,0,0,0,"Unknown",Not Specified,1,"Larceny/Theft",1.0,"Other/Unknown","Anti-Jewish",Other,M,M
+"2002","City","TX","Texas","2002-09-01",0,0,0,0,0,"Unknown",Not Specified,1,"Intimidation",1.0,"Other/Unknown","Anti-Hispanic or Latino",Other,S,M
+"1993","Shire","IN","Indiana","1993-11-07",0,0,0,0,0,"Unknown",Not Specified,1,"Destruction/Damage/Vandalism of Property",1.0,"Other/Unknown","Anti-Gay/Lesbian/Bisexual/Transgender",Other,M,M
+"2007","City","OH","Ohio","2007-01-22",0,0,0,0,0,"Unknown",Not Specified,1,"Vandalism",1.0,"Other/Unknown","Anti-Asian or Asian/Pacific Islander",Other,M,M
+"2000","City","MN","Minnesota","2000-09-05",0,0,0,0,0,"Unknown",Not Specified,1,"Larceny/Theft",1.0,"Other/Unknown","Anti-Hispanic or Latino",Other,S,S
+"1994","Town","NY","New York","1994-06-25",0,0,0,0,0,"Unknown",Not Specified,1,"Intimidation",1.0,"Other/Unknown","Anti-Gay/Lesbian/Bisexual/Transgender",Other,M,M
+"2005","City","WY","Wyoming","2005-02-14",0,0,0,0,0,"Unknown",Not Specified,1,"Destruction/Damage/Vandalism of Property",1.0,"Other/Unknown","Anti-American Indian or Alaska Native",Other,M,S
+"2006","City","ND","North Dakota","2006-04-02",0,0,0,0,0,"Unknown",Not Specified,1,"Larceny/Theft",1.0,"Other/Unknown","Anti-Hispanic or Latino",Other,S,M
+"2013","City","KS","Kansas","2013-02-10",0,0,0,0,0,"Unknown",Not Specified,1,"Vandalism",1.0,"Other/Unknown","Anti-Asian or Asian/Pacific Islander",Other,M,M
+"2009","City","TN","Tennessee","2009-11-03",0,0,0,0,0,"Unknown",Not Specified,1,"Intimidation",1.0,"Other/Unknown","Anti-Jewish",Other,S,M
+"2002","City","CO","Colorado","2002-07-14",0,0,1,0,1,"White",Not Specified,1,"Simple Assault",1.0,"Other/Unknown","Anti-Gay/Lesbian/Bisexual/Transgender",Other,M,M
+"1998","Shire","GA","Georgia","1998-07-23",0,0,0,0,0,"Unknown",Not Specified,1,"Destruction/Damage/Vandalism of Property",1.0,"Other/Unknown","Anti-Hispanic or Latino",Other,S,S
+"2003","City","HI","Hawaii","2003-05-24",0,0,0,0,0,"Unknown",Not Specified,1,"Larceny/Theft",1.0,"Other/Unknown","Anti-Asian or Asian/Pacific Islander",Other,S,M
+"2008","City","KS","Kansas","2008-02-12",0,0,0,0,0,"Unknown",Not Specified,1,"Vandalism",1.0,"Other/Unknown","Anti-Jewish",Other,M,M
+"2000","City","WI","Wisconsin","2000-11-11",0,0,0,0,0,"Unknown",Not Specified,1,"Intimidation",1.0,"Other/Unknown","Anti-Gay/Lesbian/Bisexual/Transgender",Other,M,S

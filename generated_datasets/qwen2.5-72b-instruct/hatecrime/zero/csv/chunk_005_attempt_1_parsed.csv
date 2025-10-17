@@ -1,0 +1,41 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1995,Tribal,NM,New Mexico,1995-11-12,1,0,1,1,0,White,Non-Hispanic,1,Larceny,1,Residence,ANTI-MEXICAN,Individual,No,Yes
+1997,Tribal,SD,South Dakota,1997-08-23,1,1,2,1,1,White,Hispanic,2,Threats,2,Other,ANTI-ABORIGINAL/ANTI-NATIVE AMERICAN,Individual,Yes,No
+1999,Tribal,OK,Oklahoma,1999-04-04,2,0,2,2,0,Black,Non-Hispanic,2,Assault,2,Residence,ANTI-BLACK,Individual,No,No
+2001,Tribal,ND,North Dakota,2001-07-07,1,1,2,1,1,White,Hispanic,2,Vandalism,2,Residence,ANTI-WHITE,Individual,Yes,No
+2003,Tribal,MT,Montana,2003-03-15,2,1,3,2,1,White,Non-Hispanic,3,Vandalism,3,Other,ANTI-ASIAN,Individual,No,No
+2005,Tribal,SD,South Dakota,2005-12-22,1,0,1,1,0,Black,Hispanic,1,Threats,1,Residence,ANTI-BLACK,Individual,No,Yes
+2007,Tribal,OK,Oklahoma,2007-09-19,1,1,2,1,1,White,Non-Hispanic,2,Assault,2,Residence,ANTI-GAY (MALE),Individual,Yes,No
+2009,Tribal,ND,North Dakota,2009-08-08,2,0,2,2,0,Black,Non-Hispanic,2,Vandalism,2,Other,ANTI-JEWISH,Individual,No,No
+2011,Tribal,MT,Montana,2011-07-03,1,1,2,1,1,White,Hispanic,2,Threats,2,Residence,ANTI-WHITE,Individual,Yes,No
+2013,Tribal,SD,South Dakota,2013-06-06,1,0,1,1,0,Black,Non-Hispanic,1,Assault,1,Other,ANTI-BLACK,Individual,No,Yes
+1996,Sheriff's Office,CA,California,1996-09-15,2,0,2,2,0,White,Non-Hispanic,2,Assault,2,Other,ANTI-HISPANIC,Individual,No,No
+1998,Sheriff's Office,FL,Florida,1998-10-18,1,1,2,1,1,Black,Hispanic,2,Threats,2,Residence,ANTI-BLACK,Individual,Yes,No
+2000,Sheriff's Office,TX,Texas,2000-11-20,2,0,2,2,0,White,Non-Hispanic,2,Vandalism,2,Other,ANTI-MEXICAN,Individual,No,No
+2002,Sheriff's Office,CA,California,2002-12-21,1,0,1,1,0,Black,Hispanic,1,Threats,1,Residence,ANTI-BLACK,Individual,No,Yes
+2004,Sheriff's Office,FL,Florida,2004-01-14,2,1,3,2,1,White,Non-Hispanic,3,Assault,3,Residence,ANTI-COLOMBIAN,Individual,Yes,No
+2006,Sheriff's Office,TX,Texas,2006-02-17,1,1,2,1,1,Black,Hispanic,2,Vandalism,2,Other,ANTI-HISPANIC,Individual,No,No
+2008,Sheriff's Office,CA,California,2008-07-02,2,0,2,2,0,White,Non-Hispanic,2,Threats,2,Other,ANTI-WHITE,Individual,No,No
+2010,Sheriff's Office,FL,Florida,2010-08-16,1,1,2,1,1,Black,Hispanic,2,Assault,2,Residence,ANTI-TRANSGENDER,Individual,Yes,No
+2012,Sheriff's Office,TX,Texas,2012-09-26,2,0,2,2,0,White,Non-Hispanic,2,Vandalism,2,Other,ANTI-BLACK,Individual,No,No
+2014,Sheriff's Office,CA,California,2014-10-27,1,0,1,1,0,Black,Hispanic,1,Threats,1,Residence,ANTI-BLACK,Individual,No,Yes
+1995,Police Department,MI,Michigan,1995-12-13,1,1,2,1,1,White,Non-Hispanic,2,Vandalism,2,Other,ANTI-WHITE,Individual,No,No
+1997,Police Department,OH,Ohio,1997-06-06,2,0,2,2,0,Black,Hispanic,2,Assault,2,Residence,ANTI-BLACK,Individual,Yes,No
+1999,Police Department,IL,Illinois,1999-07-04,1,0,1,1,0,White,Non-Hispanic,1,Threats,1,Other,ANTI-ASIAN,Individual,No,No
+2001,Police Department,MI,Michigan,2001-08-13,2,1,3,2,1,Black,Hispanic,3,Vandalism,3,Residence,ANTI-HISPANIC,Individual,No,No
+2003,Police Department,OH,Ohio,2003-09-11,1,1,2,1,1,White,Non-Hispanic,2,Assault,2,Other,ANTI-BLACK,Individual,Yes,No
+2005,Police Department,IL,Illinois,2005-10-10,2,0,2,2,0,Black,Hispanic,2,Threats,2,Residence,ANTI-WHITE,Individual,No,No
+2007,Police Department,MI,Michigan,2007-07-12,1,0,1,1,0,White,Non-Hispanic,1,Vandalism,1,Other,ANTI-ASIAN,Individual,No,No
+2009,Police Department,OH,Ohio,2009-08-11,2,1,3,2,1,Black,Hispanic,3,Assault,3,Residence,ANTI-HISPANIC,Individual,No,No
+2011,Police Department,IL,Illinois,2011-05-19,1,1,2,1,1,White,Non-Hispanic,2,Threats,2,Other,ANTI-BLACK,Individual,Yes,No
+2013,Police Department,MI,Michigan,2013-11-06,2,0,2,2,0,Black,Hispanic,2,Vandalism,2,Residence,ANTI-WHITE,Individual,No,No
+1996,FBI,MO,Missouri,1996-09-15,1,0,1,1,0,White,Non-Hispanic,1,Threats,1,Other,ANTI-WHITE,Individual,No,No
+1998,FBI,IA,Iowa,1998-07-17,2,1,3,2,1,Black,Hispanic,3,Assault,3,Residence,ANTI-BLACK,Individual,Yes,No
+2000,FBI,MO,Missouri,2000-06-04,1,0,1,1,0,White,Non-Hispanic,1,Vandalism,1,Other,ANTI-ASIAN,Individual,No,No
+2002,FBI,IA,Iowa,2002-08-12,2,1,3,2,1,Black,Hispanic,3,Assault,3,Residence,ANTI-HISPANIC,Individual,No,No
+2004,FBI,MO,Missouri,2004-05-13,1,0,1,1,0,White,Non-Hispanic,1,Threats,1,Other,ANTI-WHITE,Individual,No,No
+2006,FBI,IA,Iowa,2006-04-11,2,1,3,2,1,Black,Hispanic,3,Vandalism,3,Residence,ANTI-BLACK,Individual,Yes,No
+2008,FBI,MO,Missouri,2008-03-10,1,0,1,1,0,White,Non-Hispanic,1,Threats,1,Other,ANTI-ASIAN,Individual,No,No
+2010,FBI,IA,Iowa,2010-11-18,2,1,3,2,1,Black,Hispanic,3,Assault,3,Residence,ANTI-HISPANIC,Individual,No,No
+2012,FBI,MO,Missouri,2012-02-16,1,0,1,1,0,White,Non-Hispanic,1,Vandalism,1,Other,ANTI-WHITE,Individual,No,No
+2014,FBI,IA,Iowa,2014-01-14,2,1,3,2,1,Black,Hispanic,3,Threats,3,Residence,ANTI-BLACK,Individual,Yes,No

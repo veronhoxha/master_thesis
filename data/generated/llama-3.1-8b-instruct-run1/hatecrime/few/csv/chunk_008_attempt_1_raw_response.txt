@@ -1,0 +1,66 @@
+"2004,City,MA,Massachusetts,2004-09-19,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Intimidation,1.0,Residence/Apartment,Anti-Jewish,Individual,S,S
+2011,Other,GA,Georgia,2011-06-10,0.0,0.0,2,0.0,2.0,American Indian or Alaska Native,Not Hispanic or Latino,1,Simple Assault,1.0,Other Place of Worship,Anti-Male,Individual,S,S
+1995,City,FL,Florida,1995-10-28,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Specified,1,Larceny/Theft,1.0,Street Park or Plaza,Anti-Female,Individual,S,S
+2003,City,IL,Illinois,2003-03-02,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,1,Simple Assault,1.0,Other Place of Worship,Anti-Transgender,Individual,S,S
+2013,Other,MI,Michigan,2013-09-03,0.0,0.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Vandalism,1.0,Other Place of Worship,Anti-Homosexual,Individual,S,S
+1999,City,TX,Texas,1999-05-13,1.0,0.0,1,1.0,0.0,Black or African American,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Street Park or Plaza,Anti-Female,Individual,S,S
+2001,Other,NC,North Carolina,2001-07-24,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Specified,1,Intimidation,1.0,Residence/Apartment,Anti-White,Other,S,S
+2014,City,IN,Indiana,2014-03-19,0.0,0.0,2,0.0,2.0,Unknown,Not Specified,1,Simple Assault,1.0,School/College,Anti-Black or African American,Individual,S,S
+1993,City,OH,Ohio,1993-09-20,0.0,0.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Street Park or Plaza,Anti-Other,Individual,S,S
+2008,Other,WI,Wisconsin,2008-01-07,0.0,0.0,1,0.0,1.0,American Indian or Alaska Native,Not Hispanic or Latino,1,Robbery,1.0,Other Place of Worship,Anti-Male,Individual,S,S
+1991,City,NY,NY,1991-05-02,0.0,0.0,1,0.0,1.0,Hispanic or Latino,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Apartment,Anti-Transgender,Individual,S,S
+2006,City,SC,South Carolina,2006-06-05,1.0,0.0,1,1.0,0.0,Black or African American,Not Specified,1,Intimidation,1.0,Other Place of Worship,Anti-Female,Individual,S,S
+2012,Other,IA,Iowa,2012-09-09,0.0,1.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Other Place of Worship,Anti-Other,Individual,S,S
+1996,City,WI,Wisconsin,1996-04-09,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,1,Intimidation,1.0,Street Park or Plaza,Anti-Jewish,Individual,S,S
+2009,Other,MD,Maryland,2009-10-04,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Apartment,Anti-Homosexual,Individual,S,S
+2005,City,GA,Georgia,2005-02-26,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,1,Robbery,1.0,Other Place of Worship,Anti-Female,Individual,S,S
+2010,Other,KS,Kansas,2010-05-16,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Street Park or Plaza,Anti-Asian,Individual,S,S
+1998,City,OR,Oregon,1998-08-02,1.0,0.0,1,1.0,0.0,Black or African American,Not Specified,1,Intimidation,1.0,Other Place of Worship,Anti-Black or African American,Individual,S,S
+2002,City,AL,Alabama,2002-06-14,0.0,0.0,1,0.0,1.0,Hispanic or Latino,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Apartment,Anti-Other,Individual,S,S
+2016,Other,ME,Maine,2016-08-27,0.0,0.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Vandalism,1.0,Street Park or Plaza,Anti-Jewish,Individual,S,S
+1994,City,MI,Michigan,1994-04-18,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Specified,1,Larceny/Theft,1.0,Residence/Apartment,Anti-Homosexual,Individual,S,S
+2007,City,OK,Oklaoma,2007-07-08,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,1,Intimidation,1.0,Other Place of Worship,Anti-Male,Individual,S,S
+2000,City,CO,Colorado,2000-01-11,0.0,1.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Street Park or Plaza,Anti-Female,Individual,S,S
+2015,Other,VT,Vermont,2015-09-12,0.0,0.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Vandalism,1.0,Other Place of Worship,Anti-Black or African American,Individual,S,S
+1992,City,IN,Indiana,1992-10-14,0.0,0.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Intimidation,1.0,Street Park or Plaza,Anti-Female,Individual,S,S
+2001,City,WV,West Virginia,2001-08-14,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,1,Simple Assault,1.0,Residence/Apartment,Anti-Jewish,Individual,S,S
+2013,Other,UT,Utah,2013-02-17,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Other Place of Worship,Anti-Jewish,Individual,S,S
+1997,City,CT,Connecticut,1997-02-13,0.0,0.0,1,0.0,1.0,Hispanic or Latino,Not Specified,1,Intimidation,1.0,Other Place of Worship,Anti-Female,Individual,S,S
+2006,City,TN,Tennessee,2006-07-21,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Street Park or Plaza,Anti-Asian,Individual,S,S
+2012,Other,AK,Alaska,2012-11-14,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,1,Intimidation,1.0,Other Place of Worship,Anti-Homosexual,Individual,S,S
+1999,City,MT,Montana,1999-08-27,0.0,0.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Other Place of Worship,Anti-Black or African American,Individual,S,S
+2004,City,IA,Iowa,2004-09-05,0.0,0.0,2,0.0,2.0,Unknown,Not Specified,1,Intimidation,1.0,Residence/Apartment,Anti-Asian,Individual,S,S
+2011,Other,SC,South Carolina,2011-07-02,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Robbery,1.0,Street Park or Plaza,Anti-Asian,Individual,S,S
+1996,City,OH,Ohio,1996-03-03,0.0,0.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Vandalism,1.0,Other Place of Worship,Anti-Female,Individual,S,S
+2003,City,MS,Mississippi,2003-08-28,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Intimidation,1.0,Residence/Apartment,Anti-Homosexual,Individual,S,S
+2014,City,ND,North Dakota,2014-01-31,0.0,0.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Other Place of Worship,Anti-Black or African American,Individual,S,S
+1993,City,VT,Vermont,1993-09-06,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,1,Intimidation,1.0,Street Park or Plaza,Anti-Asian,Individual,S,S
+2009,City,NM,New Mexico,2009-03-23,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Robbery,1.0,Other Place of Worship,Anti-Homosexual,Individual,S,S
+2005,City,LA,Louisiana,2005-09-07,0.0,0.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Street Park or Plaza,Anti-Female,Individual,S,S
+2010,City,WY,Wyoming,2010-08-04,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Simple Assault,1.0,Other Place of Worship,Anti-Jewish,Individual,S,S
+1998,City,DE,Delaware,1998-01-05,0.0,0.0,1,0.0,1.0,Hispanic or Latino,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Apartment,Anti-Asian,Individual,S,S
+2002,City,KS,Kansas,2002-07-20,0.0,0.0,2,0.0,2.0,Unknown,Not Specified,1,Intimidation,1.0,Other Place of Worship,Anti-Male,Individual,S,S
+2017,Other,HI,Hawaii,2017-04-25,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Vandalism,1.0,Other Place of Worship,Anti-Female,Individual,S,S
+1995,City,NY,NY,1995-01-30,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,1,Intimidation,1.0,Street Park or Plaza,Anti-Jewish,Individual,S,S"
+"1994,City,IA,Iowa,1994-02-19,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Apartment,Anti-Homosexual,Individual,S,S
+1992,City,NE,Nebraska,1992-05-16,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Other Place of Worship,Anti-Asian,Individual,S,S
+2006,City,GA,Georgia,2006-01-19,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,1,Vandalism,1.0,Street Park or Plaza,Anti-Male,Individual,S,S
+2013,Other,CO,Colorado,2013-09-25,0.0,0.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Other Place of Worship,Anti-Female,Individual,S,S
+1999,City,IL,Illinois,1999-03-08,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Specified,1,Larceny/Theft,1.0,Street Park or Plaza,Anti-Jewish,Individual,S,S
+2003,City,ND,North Dakota,2003-01-17,0.0,0.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Intimidation,1.0,Other Place of Worship,Anti-Asian,Individual,S,S
+2014,City,OK,Oklaoma,2014-06-12,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Robbery,1.0,Street Park or Plaza,Anti-Asian,Individual,S,S
+1996,City,VT,Vermont,1996-09-28,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,1,Vandalism,1.0,Other Place of Worship,Anti-Asian,Individual,S,S
+2007,City,MA,Massachusetts,2007-02-09,0.0,0.0,2,0.0,2.0,Unknown,Not Specified,1,Simple Assault,1.0,Other Place of Worship,Anti-Homosexual,Individual,S,S
+2002,City,PA,Pennsylvania,2002-11-18,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Apartment,Anti-Asian,Individual,S,S
+2015,Other,CA,California,2015-08-19,0.0,0.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Vandalism,1.0,Street Park or Plaza,Anti-Black or African American,Individual,S,S
+1993,City,FL,Florida,1993-02-22,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,1,Intimidation,1.0,Other Place of Worship,Anti-Jewish,Individual,S,S
+2009,City,AR,Arkansas,2009-09-26,0.0,0.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Street Park or Plaza,Anti-Asian,Individual,S,S
+2005,City,NY,NY,2005-04-17,0.0,0.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Intimidation,1.0,Other Place of Worship,Anti-Asian,Individual,S,S
+2011,City,OR,Oregon,2011-07-18,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Apartment,Anti-Jewish,Individual,S,S
+1998,City,GA,Georgia,1998-09-19,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Simple Assault,1.0,Other Place of Worship,Anti-Homosexual,Individual,S,S
+2000,City,NC,North Carolina,2000-08-29,0.0,0.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Street Park or Plaza,Anti-Female,Individual,S,S
+2018,Other,NM,New Mexico,2018-06-16,0.0,0.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Vandalism,1.0,Other Place of Worship,Anti-Asian,Individual,S,S
+1997,City,CO,Colorado,1997-05-05,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Larceny/Theft,1.0,Other Place of Worship,Anti-Female,Individual,S,S
+2004,City,KS,Kansas,2004-03-16,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,1,Simple Assault,1.0,Street Park or Plaza,Anti-Jewish,Individual,S,S
+2013,City,DC,District of Columbia,2013-01-06,0.0,0.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Intimidation,1.0,Other Place of Worship,Anti-Female,Individual,S,S
+1992,City,VT,Vermont,1992-10-11,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,1,Intimidation,1.0,Street Park or Plaza,Anti-Male,Individual,S,S"

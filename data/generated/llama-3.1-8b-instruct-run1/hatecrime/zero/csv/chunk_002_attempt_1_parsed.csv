@@ -1,0 +1,49 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1995,State Police Department,NY,New York,1995-02-15,1,0,2,1,1,White,Non-Hispanic,2,Simple Assault,2,Central Park,Racial Bias,Adult and Juvenile,True,Racial Bias
+1992,Sheriff's Department,CA,California,1992-09-20,0,1,1,0,1,Hispanic or Latino,Hispanic,1,Intimidation,1,Los Angeles,Ethnic/National Origin Bias,Juvenile,False,Ethnic/National Origin Bias
+1998,City Police Department,TX,Texas,1998-07-12,2,0,1,2,0,Black or African American,Non-Hispanic,2,Aggravated Assault,2,Houston,Racial Bias,Adult,True,Racial Bias
+2001,State Police Department,IL,Illinois,2001-08-25,1,0,1,1,0,Asian,Non-Hispanic,1,Simple Assault,1,Chicago,Racial Bias,Adult,False,Racial Bias
+1996,City Police Department,FL,Florida,1996-11-01,0,1,2,0,2,Hispanic or Latino,Hispanic,2,Threats,2,Miami,Ethnic/National Origin Bias,Juvenile,True,Ethnic/National Origin Bias
+1994,Sheriff's Department,GA,Georgia,1994-06-15,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Atlanta,Racial Bias,Adult,False,Racial Bias
+2003,City Police Department,NJ,New Jersey,2003-04-20,2,0,1,2,0,Black or African American,Non-Hispanic,2,Aggravated Assault,2,Newark,Racial Bias,Adult,True,Racial Bias
+2004,State Police Department,NC,North Carolina,2004-05-10,0,1,1,0,1,Hispanic or Latino,Hispanic,1,Simple Assault,1,Raleigh,Ethnic/National Origin Bias,Juvenile,False,Ethnic/National Origin Bias
+1993,Sheriff's Department,AZ,Arizona,1993-03-25,1,0,1,1,0,Asian,Non-Hispanic,1,Intimidation,1,Phoenix,Racial Bias,Adult,False,Racial Bias
+1999,City Police Department,MI,Michigan,1999-01-15,2,0,2,2,0,White,Non-Hispanic,2,Aggravated Assault,2,Detroit,Racial Bias,Adult,True,Racial Bias
+2005,State Police Department,SC,South Carolina,2005-12-01,1,0,1,1,0,Black or African American,Non-Hispanic,1,Simple Assault,1,Columbia,Racial Bias,Adult,False,Racial Bias
+1997,City Police Department,TN,Tennessee,1997-10-20,0,1,1,0,1,Hispanic or Latino,Hispanic,1,Intimidation,1,Nashville,Ethnic/National Origin Bias,Juvenile,False,Ethnic/National Origin Bias
+2002,Sheriff's Department,KY,Kentucky,2002-08-01,2,0,1,2,0,White,Non-Hispanic,2,Aggravated Assault,2,Louisville,Racial Bias,Adult,True,Racial Bias
+1991,State Police Department,WI,Wisconsin,1991-09-15,1,0,1,1,0,Asian,Non-Hispanic,1,Simple Assault,1,Madison,Racial Bias,Adult,False,Racial Bias
+2006,City Police Department,OH,Ohio,2006-11-15,0,1,1,0,1,Black or African American,Non-Hispanic,1,Intimidation,1,Columbus,Racial Bias,Juvenile,False,Racial Bias
+1992,Sheriff's Department,LA,Louisiana,1992-07-20,2,0,1,2,0,White,Non-Hispanic,2,Aggravated Assault,2,New Orleans,Racial Bias,Adult,True,Racial Bias
+1994,City Police Department,UT,Utah,1994-03-10,1,0,1,1,0,Hispanic or Latino,Hispanic,1,Simple Assault,1,Salt Lake City,Ethnic/National Origin Bias,Adult,False,Ethnic/National Origin Bias
+2000,State Police Department,VT,Vermont,2000-12-25,0,1,1,0,1,Asian,Non-Hispanic,1,Intimidation,1,Burlington,Racial Bias,Juvenile,False,Racial Bias
+2007,City Police Department,WV,West Virginia,2007-10-01,1,0,1,1,0,Black or African American,Non-Hispanic,1,Simple Assault,1,Charleston,Racial Bias,Adult,False,Racial Bias
+1996,Sheriff's Department,MO,Missouri,1996-01-20,2,0,1,2,0,White,Non-Hispanic,2,Aggravated Assault,2,Kansas City,Racial Bias,Adult,True,Racial Bias
+2005,City Police Department,AR,Arkansas,2005-05-25,0,1,1,0,1,Hispanic or Latino,Hispanic,1,Simple Assault,1,Little Rock,Ethnic/National Origin Bias,Juvenile,False,Ethnic/National Origin Bias
+1993,State Police Department,ME,Maine,1993-02-20,1,0,1,1,0,Asian,Non-Hispanic,1,Intimidation,1,Portland,Racial Bias,Adult,False,Racial Bias
+2008,Sheriff's Department,OK,Oklahoma,2008-09-01,2,0,1,2,0,Black or African American,Non-Hispanic,2,Aggravated Assault,2,Oklahoma City,Racial Bias,Adult,True,Racial Bias
+1995,City Police Department,RI,Rhode Island,1995-04-01,0,1,1,0,1,Hispanic or Latino,Hispanic,1,Simple Assault,1,Providence,Ethnic/National Origin Bias,Juvenile,False,Ethnic/National Origin Bias
+2009,State Police Department,MS,Mississippi,2009-06-01,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Jackson,Racial Bias,Adult,False,Racial Bias
+1992,Sheriff's Department,IA,Iowa,1992-03-01,2,0,1,2,0,Asian,Non-Hispanic,2,Aggravated Assault,2,Des Moines,Racial Bias,Adult,True,Racial Bias
+2010,City Police Department,AL,Alabama,2010-11-10,0,1,1,0,1,Black or African American,Non-Hispanic,1,Simple Assault,1,Birmingham,Racial Bias,Juvenile,False,Racial Bias
+1994,State Police Department,MT,Montana,1994-08-10,1,0,1,1,0,Hispanic or Latino,Hispanic,1,Intimidation,1,Helena,Ethnic/National Origin Bias,Adult,False,Ethnic/National Origin Bias
+2001,City Police Department,CT,Connecticut,2001-01-01,2,0,1,2,0,White,Non-Hispanic,2,Aggravated Assault,2,Hartford,Racial Bias,Adult,True,Racial Bias
+2011,Sheriff's Department,ID,Idaho,2011-07-01,1,0,1,1,0,Asian,Non-Hispanic,1,Simple Assault,1,Boise,Racial Bias,Adult,False,Racial Bias
+1997,State Police Department,SD,South Dakota,1997-04-15,0,1,1,0,1,Hispanic or Latino,Hispanic,1,Intimidation,1,Pierre,Ethnic/National Origin Bias,Juvenile,False,Ethnic/National Origin Bias
+2012,City Police Department,NC,North Carolina,2012-12-10,2,0,1,2,0,Black or African American,Non-Hispanic,2,Aggravated Assault,2,Raleigh,Racial Bias,Adult,True,Racial Bias
+1998,Sheriff's Department,NE,Nebraska,1998-10-15,1,0,1,1,0,White,Non-Hispanic,1,Simple Assault,1,Omaha,Racial Bias,Adult,False,Racial Bias
+2002,City Police Department,PA,Pennsylvania,2002-06-01,0,1,1,0,1,Hispanic or Latino,Hispanic,1,Intimidation,1,Philadelphia,Ethnic/National Origin Bias,Juvenile,False,Ethnic/National Origin Bias
+2013,State Police Department,CO,Colorado,2013-09-25,2,0,1,2,0,Asian,Non-Hispanic,2,Aggravated Assault,2,Denver,Racial Bias,Adult,True,Racial Bias
+1999,Sheriff's Department,DE,Delaware,1999-02-01,1,0,1,1,0,Black or African American,Non-Hispanic,1,Simple Assault,1,Wilmington,Racial Bias,Adult,False,Racial Bias
+2014,City Police Department,MN,Minnesota,2014-08-01,0,1,1,0,1,Hispanic or Latino,Hispanic,1,Intimidation,1,Minneapolis,Ethnic/National Origin Bias,Juvenile,False,Ethnic/National Origin Bias
+1994,State Police Department,NV,Nevada,1994-05-01,2,0,1,2,0,White,Non-Hispanic,2,Aggravated Assault,2,Las Vegas,Racial Bias,Adult,True,Racial Bias
+2003,Sheriff's Department,OR,Oregon,2003-11-25,1,0,1,1,0,Asian,Non-Hispanic,1,Simple Assault,1,Portland,Racial Bias,Adult,False,Racial Bias
+2004,City Police Department,IN,Indiana,2004-07-01,0,1,1,0,1,Black or African American,Non-Hispanic,1,Intimidation,1,Indianapolis,Racial Bias,Juvenile,False,Racial Bias
+1996,State Police Department,HI,Hawaii,1996-10-01,2,0,1,2,0,White,Non-Hispanic,2,Aggravated Assault,2,Honolulu,Racial Bias,Adult,True,Racial Bias
+2007,City Police Department,WA,Washington,2007-01-10,1,0,1,1,0,Hispanic or Latino,Hispanic,1,Simple Assault,1,Seattle,Ethnic/National Origin Bias,Adult,False,Ethnic/National Origin Bias
+1995,Sheriff's Department,KS,Kansas,1995-08-20,0,1,1,0,1,Black or African American,Non-Hispanic,1,Intimidation,1,Topeka,Racial Bias,Juvenile,False,Racial Bias
+2008,State Police Department,MD,Maryland,2008-06-22,2,0,1,2,0,Asian,Non-Hispanic,2,Aggravated Assault,2,Baltimore,Racial Bias,Adult,True,Racial Bias
+1997,City Police Department,ND,North Dakota,1997-04-01,1,0,1,1,0,White,Non-Hispanic,1,Simple Assault,1,Bismarck,Racial Bias,Adult,False,Racial Bias
+2010,Sheriff's Department,VT,Vermont,2010-03-25,0,1,1,0,1,Hispanic or Latino,Hispanic,1,Intimidation,1,Montpelier,Ethnic/National Origin Bias,Juvenile,False,Ethnic/National Origin Bias
+1993,State Police Department,WY,Wyoming,1993-02-22,2,0,1,2,0,Black or African American,Non-Hispanic,2,Aggravated Assault,2,Cheyenne,Racial Bias,Adult,True,Racial Bias
+2009,City Police Department,AK,Alaska,2009-09-10,1,0,1,1,0,Asian,Non-Hispanic,1,Simple Assault,1,Anchorage,Racial Bias,Adult,False,Racial Bias

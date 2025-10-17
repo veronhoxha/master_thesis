@@ -1,0 +1,10 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2006,County,GA,Georgia,2006-08-27,0.0,0.0,1,,Hispanic or Latino,Not Specified,1,Intimidation,0.0,Office Building,Anti-Hispanic,Group,M,N,
+2014,State,NY,New York,2014-03-06,0.0,2.0,2,,White,Not Specified,4,Simple Assault,1.0,Hospital/Clinic,Anti-Jewish (Religion Based),Group,M,N,
+1993,City,TX,Texas,1993-06-09,,,2,,,Black or African American,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,0.0,Park,Anti-Gay (Male),Individual,S,S
+2012,City,FL,Florida,2012-09-28,1.0,0.0,1,,Asian,Not Specified,2,Larceny-Theft,0.0,Shopping Mall,Anti-Asian,Individual,S,N,
+2013,City,IL,Illinois,2013-04-15,,,1,,,White,Not Hispanic or Latino,1,Homicide,1.0,Residential Building (Other Than Single Family),Anti-Black or African American,Individual,M,S
+2008,City,PA,Pennsylvania,2008-12-13,,,1,,,Native Hawaiian or Other Pacific Islander,Not Specified,1,Intimidation,0.0,Public Housing/Government Building,Anti-Native Hawaiian or Other Pacific Islander,Individual,S,N
+2009,City,MI,Michigan,2009-08-17,0.0,0.0,2,,White,Not Specified,2,Intimidation,0.0,School/College,Anti-Arab,Group,M,N,
+2005,State,CA,California,2005-06-14,,,1,,,American Indian or Alaska Native,Not Specified,1,Intimidation,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-American Indian or Alaska Native,Individual,S,N
+2007,City,AZ,Arizona,2007-04-19,,,3,,,White,Not Specified,6,Simple Assault,0.0,Hospital/Clinic,Anti-Muslim (Religion Based),Group,M,N

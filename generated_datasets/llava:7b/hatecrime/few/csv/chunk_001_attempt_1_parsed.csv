@@ -1,0 +1,10 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2014,Other,NY,New York,2014-12-31,0.5,0.0,1,0.5,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,0.5,Park/Recreation Area,Anti-Latinx (Hispanic),Individual,S,S
+2013,City,IL,Illinois,2013-09-16,0.0,1.0,1,1.0,0.0,White,Not Specified,1,Rape/Revenge Rape,1.0,Business/Commercial,Anti-White,Individual,S,S
+2010,Other,MA,Massachusetts,2010-10-23,0.5,0.0,1,0.5,0.0,Asian or Pacific Islander,Not Hispanic or Latino,1,Aggravated Assault,0.5,Nursing Home/Residential Facility,Anti-Asian,Individual,S,S
+2007,Other,IN,Indiana,2007-09-16,0.0,1.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Rape/Revenge Rape,1.0,Cemetery,Anti-Gay (Male),Individual,S,S
+2005,City,PA,Pennsylvania,2005-06-03,0.0,0.0,1,0.0,0.0,White,Not Specified,1,Simple Assault,0.0,Church/Religious Institution,Anti-White,Individual,S,S
+2002,Other,OH,Ohio,2002-04-19,0.5,0.0,1,0.5,0.0,Asian or Pacific Islander,Not Hispanic or Latino,1,Aggravated Assault,0.5,Air/Bus/Train Terminal,Anti-Asian,Individual,S,S
+2001,Other,NE,Nebraska,2001-09-16,0.0,1.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Rape/Revenge Rape,1.0,School/College,Anti-Gay (Male),Individual,S,S
+2000,City,NJ,New Jersey,2000-05-28,0.0,0.0,1,0.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Individual,S,S
+1998,Other,MD,Maryland,1998-06-04,,,,,,,,,,,,,,,

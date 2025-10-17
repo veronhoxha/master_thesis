@@ -1,0 +1,20 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,FBI,CA,California,1991-07-26,3,1,4,2,2,Black,African American,6,Assault,6,Los Angeles,Race,Male,False,False
+1994,Sheriff's Department,NY,New York,1994-03-17,2,1,3,2,1,Asian,Asian,3,Theft,3,New York City,Ethnicity,Female,False,False
+1995,State Police,IL,Illinois,1995-09-28,1,0,1,1,0,White,Non-Hispanic,1,Bias Intimidation,1,Chicago,Sexual Orientation,Male,False,False
+1996,Police Department,TX,Texas,1996-11-19,1,1,3,2,1,Hispanic,Hispanic,3,Vandalism,3,El Paso,Disability,Female,False,False
+1997,Metro Transit Police,MN,Minnesota,1997-05-03,3,0,4,3,1,White,Non-Hispanic,4,Robbery,4,Minneapolis,Religion,Male,True,False
+1998,Corrections Department,FL,Florida,1998-02-12,1,0,1,1,0,Black,African American,1,Intimidation,1,Tallahassee,Race,Male,False,False
+1999,University Police,PA,Pennsylvania,1999-11-18,2,0,3,2,1,Asian,Asian,3,Simple Assault,3,Philadelphia,National Origin,Female,False,False
+2000,State Police,MI,Michigan,2000-05-23,1,1,3,1,2,White,Non-Hispanic,4,Intimidation,4,Detroit,Sexual Orientation,Male,True,False
+2001,FBI,VA,Virginia,2001-10-25,3,0,3,3,0,Hispanic,Hispanic,3,Robbery,3,Richmond,Disability,Female,False,False
+2002,Police Department,OR,Oregon,2002-08-11,1,1,2,1,1,Black,African American,2,Simple Assault,2,Portland,Religion,Male,True,True
+1992,City Police,WA,Washington,1992-11-20,1,0,1,1,0,Asian,Asian,1,Vandalism,1,Seattle,Ethnicity,Female,False,False
+1993,Sheriff's Office,GA,Georgia,1993-02-23,2,0,3,2,1,White,Non-Hispanic,3,Intimidation,3,Atlanta,Race,Male,False,False
+1995,Metro Transit Police,WV,West Virginia,1995-06-05,1,1,2,1,1,Hispanic,Hispanic,2,Simple Assault,2,Charleston,National Origin,Male,True,False
+1996,Police Department,WI,Wisconsin,1996-07-10,1,1,2,1,1,Black,African American,2,Simple Assault,2,Milwaukee,Race,Male,False,False
+1998,State Police,IN,Indiana,1998-04-26,1,1,2,1,1,Asian,Asian,2,Robbery,2,Indianapolis,Ethnicity,Female,False,False
+1999,FBI,CO,Colorado,1999-12-21,3,0,3,3,0,White,Non-Hispanic,3,Intimidation,3,Denver,Religion,Male,True,False
+2003,Police Department,NM,New Mexico,2003-03-24,1,1,2,1,1,Hispanic,Hispanic,2,Assault,2,Albuquerque,Disability,Female,False,False
+1998,City Police,MA,Massachusetts,1998-10-01,2,1,4,2,2,Black,African American,4,Vandalism,4,Boston,Sexual Orientation,Male,False,False
+2002,State Police,MD,Maryland,2002-06-15,1,1,2,1,1,White,Non-Hispanic,2,Intimidation,2,Baltimore,Race,Male,False,False

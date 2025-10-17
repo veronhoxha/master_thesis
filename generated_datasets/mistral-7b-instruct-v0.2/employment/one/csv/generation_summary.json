@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-10-16T11:12:45.554863",
+  "model": "mistralai/Mistral-7B-Instruct-v0.2",
+  "domain": "employment",
+  "shot_type": "one",
+  "format_type": "csv",
+  "target_rows": 20,
+  "achieved_rows": 27,
+  "duration_s": 101.89,
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "total_attempts": 1,
+      "successful_attempt": 1,
+      "chunk_duration_seconds": 37.26,
+      "success": true,
+      "final_rows": 9,
+      "final_columns": 18
+    },
+    {
+      "chunk_number": 2,
+      "total_attempts": 1,
+      "successful_attempt": 1,
+      "chunk_duration_seconds": 32.56,
+      "success": true,
+      "final_rows": 9,
+      "final_columns": 18
+    },
+    {
+      "chunk_number": 3,
+      "total_attempts": 1,
+      "successful_attempt": 1,
+      "chunk_duration_seconds": 32.07,
+      "success": true,
+      "final_rows": 9,
+      "final_columns": 18
+    }
+  ]
+}

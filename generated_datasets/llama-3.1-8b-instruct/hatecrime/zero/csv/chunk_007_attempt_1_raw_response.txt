@@ -1,0 +1,48 @@
+"date","data_year","agency_type_name","state_abbr","state_name","incident_date","adult_victim_count","juvenile_victim_count","total_offender_count","adult_offender_count","juvenile_offender_count","offender_race","offender_ethnicity","victim_count","offense_name","total_individual_victims","location_name","bias_desc","victim_types","multiple_offense","multiple_bias"
+"1995-01-01","1995","State",NY,"New York","1995-01-01",1,0,1,1,0,"White","Not Hispanic or Latino",1,"Vandalism","1","New York City","Anti-Jewish","Adults Only",false,false
+"1992-06-15","1992","Local",CA,"California","1992-06-15",0,1,1,1,0,"Black","Not Hispanic or Latino",1,"Simple Assault","1","Los Angeles, CA","Anti-Black","Minors Only",true,false
+"1991-09-20","1991","Federal","US","United States","1991-09-20",1,0,2,1,1,"White","Not Hispanic or Latino",2,"Intimidation","2","Washington, D.C.","Anti-Government","Adults Only",false,true
+"1993-05-25","1993","Local",TX,"Texas","1993-05-25",0,1,1,1,0,"Asian","Not Hispanic or Latino",1,"Vandalism","1","Houston, TX","Anti-Asian","Minors Only",false,false
+"1994-03-10","1994","State",FL,"Florida","1994-03-10",1,0,1,1,0,"White","Not Hispanic or Latino",1,"Simple Assault","1","Miami, FL","Anti-White","Adults Only",true,false
+"1992-11-22","1992","Federal","US","United States","1992-11-22",0,1,1,0,1,"Black","Not Hispanic or Latino",1,"Intimidation","1","New York City","Anti-Government","Minors Only",true,false
+"1996-08-12","1996","Local",GA,"Georgia","1996-08-12",0,1,1,1,0,"White","Not Hispanic or Latino",1,"Vandalism","1","Atlanta, GA","Anti-Christian","Minors Only",false,false
+"1993-10-15","1993","State",OH,"Ohio","1993-10-15",1,0,2,1,1,"White","Not Hispanic or Latino",2,"Simple Assault","2","Columbus, OH","Anti-Homosexual","Adults Only",true,false
+"1995-12-01","1995","Local",NC,"North Carolina","1995-12-01",0,1,1,1,0,"Black","Not Hispanic or Latino",1,"Vandalism","1","Charlotte, NC","Anti-Black","Minors Only",false,false
+"1994-02-20","1994","Federal","US","United States","1994-02-20",0,1,1,1,0,"White","Not Hispanic or Latino",1,"Simple Assault","1","Washington, D.C.","Anti-Government","Adults Only",false,false
+"1997-05-01","1997","Local",IL,"Illinois","1997-05-01",0,1,1,1,0,"Asian","Not Hispanic or Latino",1,"Vandalism","1","Chicago, IL","Anti-Asian","Minors Only",false,false
+"1992-07-05","1992","State",MI,"Michigan","1992-07-05",1,0,1,1,0,"White","Not Hispanic or Latino",1,"Simple Assault","1","Detroit, MI","Anti-White","Adults Only",false,false
+"1994-09-15","1994","Local",WA,"Washington","1994-09-15",0,1,1,1,0,"Black","Not Hispanic or Latino",1,"Vandalism","1","Seattle, WA","Anti-Black","Minors Only",false,false
+"1996-02-10","1996","Federal","US","United States","1996-02-10",1,0,2,1,1,"White","Not Hispanic or Latino",2,"Simple Assault","2","New York City","Anti-Government","Adults Only",true,false
+"1995-09-20","1995","State",PA,"Pennsylvania","1995-09-20",0,1,1,1,0,"Asian","Not Hispanic or Latino",1,"Vandalism","1","Philadelphia, PA","Anti-Asian","Minors Only",false,false
+"1993-08-25","1993","Local",SC,"South Carolina","1993-08-25",1,0,1,1,0,"White","Not Hispanic or Latino",1,"Simple Assault","1","Columbia, SC","Anti-White","Adults Only",false,false
+"1992-04-15","1992","Federal","US","United States","1992-04-15",0,1,1,1,0,"White","Not Hispanic or Latino",1,"Vandalism","1","Washington, D.C.","Anti-Government","Adults Only",false,false
+"1996-11-20","1996","Local",CO,"Colorado","1996-11-20",0,1,1,1,0,"Black","Not Hispanic or Latino",1,"Vandalism","1","Denver, CO","Anti-Black","Minors Only",false,false
+"1997-03-15","1997","State",AZ,"Arizona","1997-03-15",1,0,1,1,0,"White","Not Hispanic or Latino",1,"Simple Assault","1","Phoenix, AZ","Anti-White","Adults Only",false,false
+"1994-01-10","1994","Local",KY,"Kentucky","1994-01-10",0,1,1,1,0,"Asian","Not Hispanic or Latino",1,"Vandalism","1","Louisville, KY","Anti-Asian","Minors Only",false,false
+"1992-09-22","1992","Federal","US","United States","1992-09-22",0,1,1,0,1,"White","Not Hispanic or Latino",1,"Simple Assault","1","New York City","Anti-Government","Minors Only",true,false
+"1993-02-20","1993","State",GA,"Georgia","1993-02-20",1,0,1,1,0,"White","Not Hispanic or Latino",1,"Simple Assault","1","Atlanta, GA","Anti-Christian","Adults Only",false,false
+"1995-06-15","1995","Local",NJ,"New Jersey","1995-06-15",0,1,1,1,0,"Black","Not Hispanic or Latino",1,"Vandalism","1","Newark, NJ","Anti-Black","Minors Only",false,false
+"1992-10-01","1992","Federal","US","United States","1992-10-01",0,1,1,1,0,"White","Not Hispanic or Latino",1,"Simple Assault","1","Washington, D.C.","Anti-Government","Adults Only",false,false
+"1997-01-20","1997","Local",TN,"Tennessee","1997-01-20",0,1,1,1,0,"Asian","Not Hispanic or Latino",1,"Vandalism","1","Nashville, TN","Anti-Asian","Minors Only",false,false
+"1994-05-25","1994","State",NC,"North Carolina","1994-05-25",1,0,1,1,0,"White","Not Hispanic or Latino",1,"Simple Assault","1","Charlotte, NC","Anti-Christian","Adults Only",false,false
+"1996-04-10","1996","Local",UT,"Utah","1996-04-10",0,1,1,1,0,"Black","Not Hispanic or Latino",1,"Vandalism","1","Salt Lake City, UT","Anti-Black","Minors Only",false,false
+"1993-06-15","1993","Federal","US","United States","1993-06-15",0,1,1,1,0,"White","Not Hispanic or Latino",1,"Simple Assault","1","New York City","Anti-Government","Adults Only",false,false
+"1992-03-22","1992","State",IN,"Indiana","1992-03-22",1,0,1,1,0,"White","Not Hispanic or Latino",1,"Simple Assault","1","Indianapolis, IN","Anti-Christian","Adults Only",false,false
+"1997-10-01","1997","Local",OR","Oregon","1997-10-01",0,1,1,1,0,"Asian","Not Hispanic or Latino",1,"Vandalism","1","Portland, OR","Anti-Asian","Minors Only",false,false
+"1994-07-20","1994","State",TN,"Tennessee","1994-07-20",1,0,1,1,0,"White","Not Hispanic or Latino",1,"Simple Assault","1","Nashville, TN","Anti-Christian","Adults Only",false,false
+"1995-11-15","1995","Local",VT,"Vermont","1995-11-15",0,1,1,1,0,"Black","Not Hispanic or Latino",1,"Vandalism","1","Burlington, VT","Anti-Black","Minors Only",false,false
+"1996-09-01","1996","Federal","US","United States","1996-09-01",0,1,1,1,0,"White","Not Hispanic or Latino",1,"Simple Assault","1","Washington, D.C.","Anti-Government","Adults Only",false,false
+"1997-06-20","1997","State",MD,"Maryland","1997-06-20",1,0,1,1,0,"White","Not Hispanic or Latino",1,"Simple Assault","1","Baltimore, MD","Anti-Christian","Adults Only",false,false
+"1993-11-15","1993","Local",IA","Iowa","1993-11-15",0,1,1,1,0,"Asian","Not Hispanic or Latino",1,"Vandalism","1","Des Moines, IA","Anti-Asian","Minors Only",false,false
+"1992-01-10","1992","Federal","US","United States","1992-01-10",0,1,1,1,0,"White","Not Hispanic or Latino",1,"Simple Assault","1","New York City","Anti-Government","Adults Only",false,false
+"1994-09-25","1994","State",WV,"West Virginia","1994-09-25",1,0,1,1,0,"White","Not Hispanic or Latino",1,"Simple Assault","1","Charleston, WV","Anti-Christian","Adults Only",false,false
+"1996-01-15","1996","Local",AK","Alaska","1996-01-15",0,1,1,1,0,"Black","Not Hispanic or Latino",1,"Vandalism","1","Anchorage, AK","Anti-Black","Minors Only",false,false
+"1993-04-20","1993","Federal","US","United States","1993-04-20",0,1,1,1,0,"White","Not Hispanic or Latino",1,"Simple Assault","1","Washington, D.C.","Anti-Government","Adults Only",false,false
+"1995-03-01","1995","State",DE","Delaware","1995-03-01",1,0,1,1,0,"White","Not Hispanic or Latino",1,"Simple Assault","1","Wilmington, DE","Anti-Christian","Adults Only",false,false
+"1997-09-20","1997","Local",RI","Rhode Island","1997-09-20",0,1,1,1,0,"Asian","Not Hispanic or Latino",1,"Vandalism","1","Providence, RI","Anti-Asian","Minors Only",false,false
+"1992-06-20","1992","State",VT","Vermont","1992-06-20",0,1,1,1,0,"Black","Not Hispanic or Latino",1,"Vandalism","1","Burlington, VT","Anti-Black","Minors Only",false,false
+"1994-11-15","1994","Federal","US","United States","1994-11-15",0,1,1,1,0,"White","Not Hispanic or Latino",1,"Simple Assault","1","Washington, D.C.","Anti-Government","Adults Only",false,false
+"1995-07-15","1995","State",ME","Maine","1995-07-15",1,0,1,1,0,"White","Not Hispanic or Latino",1,"Simple Assault","1","Portland, ME","Anti-Christian","Adults Only",false,false
+"1997-12-01","1997","Local",ND","North Dakota","1997-12-01",0,1,1,1,0,"Asian","Not Hispanic or Latino",1,"Vandalism","1","Fargo, ND","Anti-Asian","Minors Only",false,false
+"1994-03-25","1994","State",NH","New Hampshire","1994-03-25",1,0,1,1,0,"White","Not Hispanic or Latino",1,"Simple Assault","1","Manchester, NH","Anti-Christian","Adults Only",false,false
+"1992-09-01","1992","Federal","US","United States","1992-09-01",0,1,1,1,0,"White","Not Hispanic or Latino",1,"Simple Assault","1","New York City","Anti-Government","Adults Only",false,false

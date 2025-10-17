@@ -1,0 +1,78 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,Police Department,,New York,1991-01-01,2,0,1,1,0,White,Non-Hispanic,2,Simple Assault,2,Public Place,,Adult,Yes,None
+1991,Sheriff's Office,,Florida,1991-02-15,1,0,1,1,0,Black,Non-Hispanic,1,Intimidation,1,Residence,,Adult,No,None
+1991,Police Department,,California,1991-03-20,1,0,1,1,0,Asian,Non-Hispanic,1,Simple Assault,1,Public Place,,Adult,Yes,None
+1991,City or Town,,Texas,1991-04-05,2,0,2,2,0,Hispanic,Non-Hispanic,2,Vandalism,2,Public Place,,Adult,Yes,None
+1991,Sheriff's Office,,Illinois,1991-05-10,1,0,1,1,0,White,Hispanic,1,Intimidation,1,Residence,,Adult,No,None
+1991,Police Department,,Michigan,1991-06-15,1,0,1,1,0,Black,Non-Hispanic,1,Simple Assault,1,Public Place,,Adult,Yes,None
+1991,City or Town,,New Jersey,1991-07-01,2,0,2,2,0,Asian,Hispanic,2,Vandalism,2,Public Place,,Adult,Yes,None
+1991,Sheriff's Office,,Georgia,1991-08-05,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Residence,,Adult,No,None
+1991,Police Department,,Massachusetts,1991-09-15,1,0,1,1,0,Black,Non-Hispanic,1,Simple Assault,1,Public Place,,Adult,Yes,None
+1991,City or Town,,Arizona,1991-10-01,2,0,2,2,0,Hispanic,Non-Hispanic,2,Vandalism,2,Public Place,,Adult,Yes,None
+1992,Sheriff's Office,,Indiana,1992-01-01,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Residence,,Adult,No,None
+1992,Police Department,,North Carolina,1992-02-15,2,0,2,2,0,Black,Non-Hispanic,2,Simple Assault,2,Public Place,,Adult,Yes,None
+1992,City or Town,,Ohio,1992-03-20,1,0,1,1,0,Asian,Non-Hispanic,1,Intimidation,1,Public Place,,Adult,Yes,None
+1992,Sheriff's Office,,South Carolina,1992-04-05,1,0,1,1,0,White,Hispanic,1,Simple Assault,1,Residence,,Adult,No,None
+1992,Police Department,,Washington,1992-05-10,2,0,2,2,0,Black,Non-Hispanic,2,Vandalism,2,Public Place,,Adult,Yes,None
+1992,City or Town,,Tennessee,1992-06-15,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Public Place,,Adult,Yes,None
+1992,Sheriff's Office,,Missouri,1992-07-01,2,0,2,2,0,Hispanic,Non-Hispanic,2,Simple Assault,2,Residence,,Adult,Yes,None
+1992,Police Department,,Connecticut,1992-08-05,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Public Place,,Adult,No,None
+1992,City or Town,,Vermont,1992-09-15,2,0,2,2,0,Black,Non-Hispanic,2,Vandalism,2,Public Place,,Adult,Yes,None
+1992,Sheriff's Office,,Kentucky,1992-10-01,1,0,1,1,0,Asian,Hispanic,1,Simple Assault,1,Residence,,Adult,No,None
+1993,Police Department,,Maryland,1993-01-01,2,0,2,2,0,White,Non-Hispanic,2,Intimidation,2,Public Place,,Adult,Yes,None
+1993,Sheriff's Office,,Louisiana,1993-02-15,1,0,1,1,0,Black,Non-Hispanic,1,Simple Assault,1,Residence,,Adult,No,None
+1993,City or Town,,Nevada,1993-03-20,1,0,1,1,0,Asian,Non-Hispanic,1,Intimidation,1,Public Place,,Adult,Yes,None
+1993,Sheriff's Office,,Oregon,1993-04-05,2,0,2,2,0,Hispanic,Non-Hispanic,2,Vandalism,2,Residence,,Adult,Yes,None
+1993,Police Department,,Rhode Island,1993-05-10,1,0,1,1,0,White,Hispanic,1,Simple Assault,1,Public Place,,Adult,No,None
+1993,City or Town,,North Dakota,1993-06-15,2,0,2,2,0,Black,Non-Hispanic,2,Intimidation,2,Public Place,,Adult,Yes,None
+1993,Sheriff's Office,,Mississippi,1993-07-01,1,0,1,1,0,Asian,Hispanic,1,Simple Assault,1,Residence,,Adult,No,None
+1993,Police Department,,Delaware,1993-08-05,1,0,1,1,0,Hispanic,Non-Hispanic,1,Intimidation,1,Public Place,,Adult,Yes,None
+1993,City or Town,,Alaska,1993-09-15,2,0,2,2,0,White,Non-Hispanic,2,Vandalism,2,Residence,,Adult,Yes,None
+1993,Sheriff's Office,,Wyoming,1993-10-01,1,0,1,1,0,Black,Non-Hispanic,1,Simple Assault,1,Public Place,,Adult,No,None
+1994,Police Department,,Nebraska,1994-01-01,2,0,2,2,0,Asian,Hispanic,2,Intimidation,2,Public Place,,Adult,Yes,None
+1994,Sheriff's Office,,Colorado,1994-02-15,1,0,1,1,0,White,Non-Hispanic,1,Simple Assault,1,Residence,,Adult,No,None
+1994,City or Town,,Utah,1994-03-20,1,0,1,1,0,Black,Non-Hispanic,1,Intimidation,1,Public Place,,Adult,Yes,None
+1994,Sheriff's Office,,Vermont,1994-04-05,2,0,2,2,0,Hispanic,Non-Hispanic,2,Vandalism,2,Residence,,Adult,Yes,None
+1994,Police Department,,Maine,1994-05-10,1,0,1,1,0,White,Hispanic,1,Simple Assault,1,Public Place,,Adult,No,None
+1994,City or Town,,Idaho,1994-06-15,2,0,2,2,0,Asian,Non-Hispanic,2,Intimidation,2,Public Place,,Adult,Yes,None
+1994,Sheriff's Office,,Montana,1994-07-01,1,0,1,1,0,Black,Non-Hispanic,1,Simple Assault,1,Residence,,Adult,No,None
+1994,Police Department,,South Dakota,1994-08-05,2,0,2,2,0,Hispanic,Non-Hispanic,2,Vandalism,2,Public Place,,Adult,Yes,None
+1994,City or Town,,Hawaii,1994-09-15,1,0,1,1,0,White,Hispanic,1,Intimidation,1,Public Place,,Adult,No,None
+1994,Sheriff's Office,,New Mexico,1994-10-01,1,0,1,1,0,Asian,Non-Hispanic,1,Simple Assault,1,Residence,,Adult,No,None
+1995,Police Department,,Iowa,1995-01-01,2,0,2,2,0,Hispanic,Non-Hispanic,2,Intimidation,2,Public Place,,Adult,Yes,None
+1995,Sheriff's Office,,Kansas,1995-02-15,1,0,1,1,0,White,Non-Hispanic,1,Simple Assault,1,Residence,,Adult,No,None
+1995,City or Town,,Minnesota,1995-03-20,1,0,1,1,0,Black,Non-Hispanic,1,Intimidation,1,Public Place,,Adult,Yes,None
+1995,Sheriff's Office,,Oklahoma,1995-04-05,2,0,2,2,0,Asian,Hispanic,2,Vandalism,2,Residence,,Adult,Yes,None
+1995,Police Department,,Arkansas,1995-05-10,1,0,1,1,0,White,Hispanic,1,Simple Assault,1,Public Place,,Adult,No,None
+1995,City or Town,,West Virginia,1995-06-15,2,0,2,2,0,Black,Non-Hispanic,2,Intimidation,2,Public Place,,Adult,Yes,None
+1995,Sheriff's Office,,North Carolina,1995-07-01,1,0,1,1,0,Hispanic,Non-Hispanic,1,Simple Assault,1,Residence,,Adult,No,None
+1995,Police Department,,Rhode Island,1995-08-05,1,0,1,1,0,Asian,Non-Hispanic,1,Intimidation,1,Public Place,,Adult,Yes,None
+1995,City or Town,,Georgia,1995-09-15,2,0,2,2,0,White,Hispanic,2,Vandalism,2,Public Place,,Adult,Yes,None
+1995,Sheriff's Office,,South Carolina,1995-10-01,1,0,1,1,0,Black,Non-Hispanic,1,Simple Assault,1,Residence,,Adult,No,None
+1996,Police Department,,Connecticut,1996-01-01,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Public Place,,Adult,No,None
+1996,Sheriff's Office,,Maine,1996-02-15,2,0,2,2,0,Hispanic,Non-Hispanic,2,Vandalism,2,Public Place,,Adult,Yes,None
+1996,City or Town,,Vermont,1996-03-20,1,0,1,1,0,Black,Non-Hispanic,1,Simple Assault,1,Residence,,Adult,No,None
+1996,Sheriff's Office,,New Hampshire,1996-04-05,2,0,2,2,0,Asian,Hispanic,2,Intimidation,2,Public Place,,Adult,Yes,None
+1996,Police Department,,Massachusetts,1996-05-10,1,0,1,1,0,White,Non-Hispanic,1,Simple Assault,1,Public Place,,Adult,No,None
+1996,City or Town,,Rhode Island,1996-06-15,2,0,2,2,0,Black,Non-Hispanic,2,Vandalism,2,Public Place,,Adult,Yes,None
+1996,Sheriff's Office,,New York,1996-07-01,1,0,1,1,0,Asian,Non-Hispanic,1,Intimidation,1,Residence,,Adult,No,None
+1996,Police Department,,Maryland,1996-08-05,2,0,2,2,0,Hispanic,Non-Hispanic,2,Simple Assault,2,Public Place,,Adult,Yes,None
+1996,City or Town,,Delaware,1996-09-15,1,0,1,1,0,White,Hispanic,1,Intimidation,1,Public Place,,Adult,No,None
+1996,Sheriff's Office,,West Virginia,1996-10-01,2,0,2,2,0,Black,Non-Hispanic,2,Vandalism,2,Residence,,Adult,Yes,None
+1997,Police Department,,Tennessee,1997-01-01,1,0,1,1,0,Asian,Non-Hispanic,1,Simple Assault,1,Public Place,,Adult,No,None
+1997,Sheriff's Office,,Kentucky,1997-02-15,2,0,2,2,0,Hispanic,Non-Hispanic,2,Intimidation,2,Public Place,,Adult,Yes,None
+1997,City or Town,,Alabama,1997-03-20,1,0,1,1,0,White,Non-Hispanic,1,Simple Assault,1,Residence,,Adult,No,None
+1997,Sheriff's Office,,Mississippi,1997-04-05,2,0,2,2,0,Black,Non-Hispanic,2,Vandalism,2,Public Place,,Adult,Yes,None
+1997,Police Department,,Georgia,1997-05-10,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Public Place,,Adult,Yes,None
+1997,City or Town,,South Carolina,1997-06-15,2,0,2,2,0,White,Non-Hispanic,2,Simple Assault,2,Public Place,,Adult,Yes,None
+1997,Sheriff's Office,,Louisiana,1997-07-01,1,0,1,1,0,Black,Non-Hispanic,1,Intimidation,1,Residence,,Adult,No,None
+1997,Police Department,,North Carolina,1997-08-05,2,0,2,2,0,Hispanic,Non-Hispanic,2,Vandalism,2,Public Place,,Adult,Yes,None
+1997,City or Town,,Virginia,1997-09-15,1,0,1,1,0,Asian,Non-Hispanic,1,Simple Assault,1,Public Place,,Adult,No,None
+1997,Sheriff's Office,,West Virginia,1997-10-01,1,0,1,1,0,White,Hispanic,1,Intimidation,1,Residence,,Adult,No,None
+1998,Police Department,,Maine,1998-01-01,1,0,1,1,0,Black,Non-Hispanic,1,Simple Assault,1,Public Place,,Adult,No,None
+1998,Sheriff's Office,,Vermont,1998-02-15,2,0,2,2,0,Hispanic,Non-Hispanic,2,Intimidation,2,Public Place,,Adult,Yes,None
+1998,City or Town,,New Hampshire,1998-03-20,1,0,1,1,0,Asian,Non-Hispanic,1,Simple Assault,1,Residence,,Adult,No,None
+1998,Sheriff's Office,,Rhode Island,1998-04-05,2,0,2,2,0,White,Non-Hispanic,2,Vandalism,2,Public Place,,Adult,Yes,None
+1998,Police Department,,Massachusetts,1998-05-10,1,0,1,1,0,Black,Non-Hispanic,1,Intimidation,1,Public Place,,Adult,No,None
+1998,City or Town,,Connecticut,1998-06-15,2,0,2,2,0,Hispanic,Non-Hispanic,2,Simple Assault,2,Public Place,,Adult,Yes,None
+1998,Sheriff's Office,,Maryland,1998-07-01,1,0,1,1,0,Asian,Non-Hispanic,1,Intimidation,1,Residence,,Adult,No,None

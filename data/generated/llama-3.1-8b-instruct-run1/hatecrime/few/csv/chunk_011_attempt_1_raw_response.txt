@@ -1,0 +1,41 @@
+"1991,Other,AK,Alaska,1991-02-15,1.0,0.0,1,0.5,0.5,White,Not Hispanic or Latino,1,Civil Rights,1.0,Hotel/Motel,Anti-White or Caucasian,Individual,S,S
+1991,City,NY,New York,1991-04-20,0.0,0.0,1,0.0,1.0,American Indian or Alaska Native,Not Specified,1,Simple Assault,1.0,Library,Anti-Gay (Female),Individual,S,S
+1994,City,MI,Michigan,1994-01-17,1.0,1.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2.0,Park/Playground,Anti-Jewish,Individual,S,S
+1991,City,FL,Florida,1991-08-27,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Simple Assault,1.0,Mall/Shopping Center,Anti-Asian,Individual,S,S
+1991,Other,DE,Delaware,1991-03-24,0.0,0.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Intimidation,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic,Individual,S,S
+1995,City,WA,Washington,1995-12-05,0.0,0.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Restaurant/Cafe,Anti-Lesbian Gay Bisexual or Transgender,Individual,S,S
+1994,City,NC,North Carolina,1994-06-11,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Specified,1,Robbery,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,S,S
+1991,Other,RI,Rhode Island,1991-11-16,1.0,0.0,1,1.0,0.0,American Indian or Alaska Native,Not Hispanic or Latino,1,Simple Assault,1.0,School/College,Anti-White or Caucasian,Individual,S,S
+1993,City,IL,Illinois,1993-07-10,1.0,1.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,2,Robbery,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,S,S
+1993,Other,ME,Maine,1993-10-17,0.0,0.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Hotel/Motel,Anti-Lesbian Gay Bisexual or Transgender,Individual,S,S
+1992,City,GA,Georgia,1992-12-22,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Specified,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Female),Individual,S,S
+1995,City,OH,Ohio,1995-09-02,0.0,0.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Mall/Shopping Center,Anti-Asian,Individual,S,S
+1998,City,SC,South Carolina,1998-05-08,1.0,1.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,2,Robbery,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,S,S
+1994,Other,VT,Vermont,1994-08-27,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,School/College,Anti-White or Caucasian,Individual,S,S
+1992,City,UT,Utah,1992-03-29,1.0,1.0,1,1.0,0.0,American Indian or Alaska Native,Not Hispanic or Latino,2,Robbery,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,S,S
+1996,City,MA,Massachusetts,1996-11-09,0.0,0.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Hotel/Motel,Anti-Lesbian Gay Bisexual or Transgender,Individual,S,S
+1998,City,WV,West Virginia,1998-02-09,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Specified,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,S,S
+1994,City,TX,Texas,1994-05-28,1.0,1.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,2,Robbery,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,S,S
+1993,Other,HI,Hawaii,1993-09-12,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Hotel/Motel,Anti-Lesbian Gay Bisexual or Transgender,Individual,S,S
+1997,City,KS,Kansas,1997-04-26,0.0,0.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,School/College,Anti-Hispanic,Individual,S,S
+1999,City,NE,Nebraska,1999-06-04,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Specified,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Female),Individual,S,S
+1993,City,IN,Indiana,1993-11-22,1.0,1.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2.0,Park/Playground,Anti-Jewish,Individual,S,S
+1997,Other,ND,North Dakota,1997-08-23,0.0,0.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Hotel/Motel,Anti-Lesbian Gay Bisexual or Transgender,Individual,S,S
+1995,City,LA,Louisiana,1995-06-18,1.0,1.0,1,1.0,0.0,American Indian or Alaska Native,Not Hispanic or Latino,2,Robbery,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,S,S
+1998,City,NM,New Mexico,1998-01-11,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,S,S
+1993,City,MS,Mississippi,1993-03-07,1.0,1.0,1,1.0,0.0,Hispanic or Latino,Not Specified,2,Robbery,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,S,S
+1996,City,VT,Vermont,1996-09-02,0.0,0.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,School/College,Anti-White or Caucasian,Individual,S,S
+1999,City,OK,Oklahoma,1999-04-18,1.0,1.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2.0,Park/Playground,Anti-Jewish,Individual,S,S
+1997,City,CO,Colorado,1997-10-11,1.0,1.0,1,1.0,0.0,American Indian or Alaska Native,Not Hispanic or Latino,2,Robbery,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,S,S
+1996,City,NY,New York,1996-03-23,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Specified,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Female),Individual,S,S
+1991,City,GA,Georgia,1991-01-05,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,School/College,Anti-Hispanic,Individual,S,S
+1992,City,AR,Arkansas,1992-09-27,1.0,1.0,1,1.0,0.0,American Indian or Alaska Native,Not Hispanic or Latino,2,Robbery,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,S,S
+1997,City,RI,Rhode Island,1997-06-22,0.0,0.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,School/College,Anti-Asian,Individual,S,S
+1998,City,CT,Connecticut,1998-11-01,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Specified,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,S,S
+1995,City,MO,Missouri,1995-04-09,1.0,1.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2.0,Park/Playground,Anti-Jewish,Individual,S,S
+1993,City,IA,Iowa,1993-02-08,0.0,0.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Restaurant/Cafe,Anti-Lesbian Gay Bisexual or Transgender,Individual,S,S
+1999,City,GA,Georgia,1999-07-25,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Female),Individual,S,S
+1996,City,WI,Wisconsin,1996-01-14,1.0,1.0,1,1.0,0.0,Hispanic or Latino,Not Specified,2,Destruction/Damage/Vandalism of Property,2.0,Park/Playground,Anti-Jewish,Individual,S,S
+1997,Other,SD,South Dakota,1997-09-14,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,School/College,Anti-White or Caucasian,Individual,S,S
+1996,City,VT,Vermont,1996-04-28,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,S,S
+1991,City,IA,Iowa,1991-07-21,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Specified,1,Simple Assault,1.0,Hotel/Motel,Anti-Lesbian Gay Bisexual or Transgender,Individual,S,S"

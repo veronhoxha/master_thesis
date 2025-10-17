@@ -1,0 +1,29 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2014,FBI Field Office,NY,New York,2014-08-15,3.0,0.0,6,5.0,1.0,White,Not Hispanic or Latino,8,Larceny-Theft,2.0,Museum,Anti-Jewish,Group,S,S
+1991,State Police,FL,Florida,1991-04-07,,,3,,,Hispanic,Not Specified,2,Robbery,2.0,Park/Recreation Area,Anti-Homosexual,Individual,S,S
+2006,County Sheriff's Office,TX,Texas,2006-09-13,,,4,,,Asian,Not Hispanic or Latino,4,Destruction/Damage/Vandalism of Property,0.0,Library/Bookstore,Anti-White,Individual,S,S
+1997,City Police Department,PA,Pennsylvania,1997-06-28,,,1,,,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Residence,Anti-White,Individual,S,S
+2003,State University Police Department,IL,Illinois,2003-12-09,,,2,,,Hispanic,Not Specified,2,Burglary,2.0,Dormitory/Fraternity House,Anti-Asian,Individual,S,S
+1996,County Courthouse Police,MI,Michigan,1996-10-17,,,1,,,White,Not Specified,1,Robbery,1.0,Court House,Anti-Gay (Male),Individual,S,S
+2008,Tribal Police Department,WA,Washington,2008-03-24,,,1,,,Native Hawaiian or Other Pacific Islander,Not Specified,1,Assault,1.0,Restaurant,Anti-Asian,Individual,S,S
+2011,City Police Department,OR,Oregon,2011-05-19,,,2,,,Black or African American,Not Hispanic or Latino,2,Simple Assault,2.0,School/College,Anti-White,Group,S,S
+2002,State Police,CA,California,2002-03-18,,,2,,,Hispanic,Not Specified,2,Destruction/Damage/Vandalism of Property,0.0,Church,Anti-Asian,Individual,S,S
+2006,County,GA,Georgia,2006-08-27,0.0,0.0,1,,Hispanic or Latino,Not Specified,1,Intimidation,0.0,Office Building,Anti-Hispanic,Group,M,N,
+2014,State,NY,New York,2014-03-06,0.0,2.0,2,,White,Not Specified,4,Simple Assault,1.0,Hospital/Clinic,Anti-Jewish (Religion Based),Group,M,N,
+1993,City,TX,Texas,1993-06-09,,,2,,,Black or African American,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,0.0,Park,Anti-Gay (Male),Individual,S,S
+2012,City,FL,Florida,2012-09-28,1.0,0.0,1,,Asian,Not Specified,2,Larceny-Theft,0.0,Shopping Mall,Anti-Asian,Individual,S,N,
+2013,City,IL,Illinois,2013-04-15,,,1,,,White,Not Hispanic or Latino,1,Homicide,1.0,Residential Building (Other Than Single Family),Anti-Black or African American,Individual,M,S
+2008,City,PA,Pennsylvania,2008-12-13,,,1,,,Native Hawaiian or Other Pacific Islander,Not Specified,1,Intimidation,0.0,Public Housing/Government Building,Anti-Native Hawaiian or Other Pacific Islander,Individual,S,N
+2009,City,MI,Michigan,2009-08-17,0.0,0.0,2,,White,Not Specified,2,Intimidation,0.0,School/College,Anti-Arab,Group,M,N,
+2005,State,CA,California,2005-06-14,,,1,,,American Indian or Alaska Native,Not Specified,1,Intimidation,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-American Indian or Alaska Native,Individual,S,N
+2007,City,AZ,Arizona,2007-04-19,,,3,,,White,Not Specified,6,Simple Assault,0.0,Hospital/Clinic,Anti-Muslim (Religion Based),Group,M,N
+2014,FBI Field Office,NY,New York,2014-08-09,1.0,0.0,3,2.0,1.0,White,Not Hispanic or Latino,4,Intimidation,1.0,Government Building,Anti-Jewish,Group,M,S
+1991,Police Department,IL,Illinois,1991-03-28,,,1,,,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Park/Plaza/Square,Anti-White,Individual,M,S
+1996,State Police,TX,Texas,1996-12-15,,,3,,,Hispanic,Not Hispanic or Latino,3,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Arab,Group,M,S
+2008,County Sheriff's Office,GA,Georgia,2008-06-17,,,2,,,Black or African American,Not Hispanic or Latino,2,Robbery,2.0,Apartment Building,Anti-LGBTQ+ (Multiple),Individual,S,M
+1995,City Police Department,OR,Oregon,1995-04-23,,,1,,,White,Not Hispanic or Latino,1,Aggravated Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Middle Eastern,Individual,S,S
+2007,University Police Department,WA,Washington,2007-09-18,,,1,,,Asian,Not Hispanic or Latino,1,Intimidation,1.0,Campus Grounds,Anti-Muslim,Individual,S,S
+2013,FBI Field Office,FL,Florida,2013-10-24,,,5,,,Hispanic,Not Hispanic or Latino,5,Aggravated Assault,5.0,Restaurant/Bar,Anti-Gay (Male),Group,M,S
+2006,County Sheriff's Office,NV,Nevada,2006-07-10,,,3,,,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,3,Destruction/Damage/Vandalism of Property,0.0,Park/Plaza/Square,Anti-Arab,Group,M,S
+2010,City Police Department,CA,California,2010-06-05,,,2,,,Black or African American,Not Hispanic or Latino,2,Robbery,2.0,Apartment Building,Anti-White,Individual,S,M
+2012,State Police,PA,Pennsylvania,2012-02-15,,,1,,,White,Not Hispanic or Latino,1,Intimidation,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Indian or Alaska Native,Individual,S,S

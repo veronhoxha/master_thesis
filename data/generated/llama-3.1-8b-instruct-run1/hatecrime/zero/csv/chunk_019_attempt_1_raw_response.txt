@@ -1,0 +1,40 @@
+"1991","Local",NY,"New York",01/01/1991,10,5,20,18,2,White,Non-Hispanic,15,Civil Rights,15,"New York","Anti-White",1,White
+"1991","State",CA,"California",02/15/1991,7,3,35,28,7,Asian,Non-Hispanic,10,Hate Crimes Against Individuals,10,"Los Angeles","Anti-Asian",1,Asian
+"1991","Local",TX,"Texas",03/20/1991,12,8,30,24,6,Black,Non-Hispanic,20,Religious Bias,20,"Houston","Anti-Black",1,Black
+"1991","State",FL,"Florida",04/05/1991,9,4,25,20,5,Hispanic or Latino,Non-Hispanic,15,LGBTQ Bias,15,"Miami","Anti-LGBTQ",1,LGBTQ
+"1991","Local",IL,"Illinois",05/01/1991,11,6,22,18,4,White,Hispanic,16,Civil Rights,16,"Chicago","Anti-White",1,White
+"1991","State",GA,"Georgia",06/15/1991,8,3,32,26,6,Black,Non-Hispanic,12,Disability Bias,12,"Atlanta","Anti-Black",1,Black
+"1991","Local",OH,"Ohio",07/20/1991,13,9,29,23,6,Asian,Non-Hispanic,18,Hate Crimes Against Individuals,18,"Columbus","Anti-Asian",1,Asian
+"1991","State",NC,"North Carolina",08/05/1991,10,5,36,30,6,White,Non-Hispanic,14,LGBTQ Bias,14,"Raleigh","Anti-LGBTQ",1,LGBTQ
+"1991","Local",MA,"Massachusetts",09/01/1991,12,7,24,19,5,Black,Non-Hispanic,19,Civil Rights,19,"Boston","Anti-Black",1,Black
+"1991","State",SC,"South Carolina",10/15/1991,9,4,31,25,6,Hispanic or Latino,Non-Hispanic,13,Disability Bias,13,"Columbia","Anti-Hispanic",1,Hispanic or Latino
+"1992","Local",NY,"New York",01/01/1992,11,6,26,21,5,White,Hispanic,17,Hate Crimes Against Individuals,17,"New York","Anti-White",1,White
+"1992","State",CA,"California",02/15/1992,10,5,33,27,6,Black,Non-Hispanic,11,Religious Bias,11,"Los Angeles","Anti-Black",1,Black
+"1992","Local",TX,"Texas",03/20/1992,13,9,28,22,6,Hispanic or Latino,Non-Hispanic,16,Civil Rights,16,"Houston","Anti-Hispanic",1,Hispanic or Latino
+"1992","State",FL,"Florida",04/05/1992,9,4,29,23,6,Asian,Non-Hispanic,14,LGBTQ Bias,14,"Miami","Anti-Asian",1,Asian
+"1992","Local",IL,"Illinois",05/01/1992,12,7,25,20,5,White,Non-Hispanic,18,Disability Bias,18,"Chicago","Anti-White",1,White
+"1992","State",GA,"Georgia",06/15/1992,11,6,30,24,6,Black,Non-Hispanic,13,Hate Crimes Against Individuals,13,"Atlanta","Anti-Black",1,Black
+"1992","Local",OH,"Ohio",07/20/1992,14,10,27,21,6,Asian,Non-Hispanic,15,Civil Rights,15,"Columbus","Anti-Asian",1,Asian
+"1992","State",NC,"North Carolina",08/05/1992,10,5,32,26,6,Hispanic or Latino,Non-Hispanic,12,Religious Bias,12,"Raleigh","Anti-Hispanic",1,Hispanic or Latino
+"1992","Local",MA,"Massachusetts",09/01/1992,13,9,24,19,5,White,Non-Hispanic,16,LGBTQ Bias,16,"Boston","Anti-White",1,White
+"1992","State",SC,"South Carolina",10/15/1992,9,4,29,23,6,Black,Non-Hispanic,14,Disability Bias,14,"Columbia","Anti-Black",1,Black
+"1993","Local",NY,"New York",01/01/1993,12,7,27,22,5,White,Hispanic,18,Hate Crimes Against Individuals,18,"New York","Anti-White",1,White
+"1993","State",CA,"California",02/15/1993,10,5,31,25,6,Black,Non-Hispanic,11,Civil Rights,11,"Los Angeles","Anti-Black",1,Black
+"1993","Local",TX,"Texas",03/20/1993,13,9,28,23,5,Asian,Non-Hispanic,16,Religious Bias,16,"Houston","Anti-Asian",1,Asian
+"1993","State",FL,"Florida",04/05/1993,9,4,30,24,6,Hispanic or Latino,Non-Hispanic,13,LGBTQ Bias,13,"Miami","Anti-Hispanic",1,Hispanic or Latino
+"1993","Local",IL,"Illinois",05/01/1993,12,7,26,21,5,White,Non-Hispanic,19,Hate Crimes Against Individuals,19,"Chicago","Anti-White",1,White
+"1993","State",GA,"Georgia",06/15/1993,11,6,31,25,6,Asian,Non-Hispanic,14,Civil Rights,14,"Atlanta","Anti-Asian",1,Asian
+"1993","Local",OH,"Ohio",07/20/1993,14,10,29,23,6,Black,Non-Hispanic,17,Religious Bias,17,"Columbus","Anti-Black",1,Black
+"1993","State",NC,"North Carolina",08/05/1993,10,5,33,27,6,Hispanic or Latino,Non-Hispanic,12,Hate Crimes Against Individuals,12,"Raleigh","Anti-Hispanic",1,Hispanic or Latino
+"1993","Local",MA,"Massachusetts",09/01/1993,13,9,28,23,5,White,Non-Hispanic,15,LGBTQ Bias,15,"Boston","Anti-White",1,White
+"1993","State",SC,"South Carolina",10/15/1993,9,4,30,24,6,Asian,Non-Hispanic,13,Disability Bias,13,"Columbia","Anti-Asian",1,Asian
+"1994","Local",NY,"New York",01/01/1994,11,6,28,23,5,Black,Non-Hispanic,16,Civil Rights,16,"New York","Anti-Black",1,Black
+"1994","State",CA,"California",02/15/1994,10,5,32,26,6,Hispanic or Latino,Non-Hispanic,12,Hate Crimes Against Individuals,12,"Los Angeles","Anti-Hispanic",1,Hispanic or Latino
+"1994","Local",TX,"Texas",03/20/1994,13,9,29,24,5,White,Non-Hispanic,18,Religious Bias,18,"Houston","Anti-White",1,White
+"1994","State",FL,"Florida",04/05/1994,9,4,31,25,6,Asian,Non-Hispanic,14,LGBTQ Bias,14,"Miami","Anti-Asian",1,Asian
+"1994","Local",IL,"Illinois",05/01/1994,12,7,27,22,5,Black,Non-Hispanic,17,Hate Crimes Against Individuals,17,"Chicago","Anti-Black",1,Black
+"1994","State",GA,"Georgia",06/15/1994,11,6,33,27,6,Hispanic or Latino,Non-Hispanic,13,Civil Rights,13,"Atlanta","Anti-Hispanic",1,Hispanic or Latino
+"1994","Local",OH,"Ohio",07/20/1994,14,10,30,25,5,White,Non-Hispanic,15,Disability Bias,15,"Columbus","Anti-White",1,White
+"1994","State",NC,"North Carolina",08/05/1994,10,5,34,28,6,Asian,Non-Hispanic,11,Religious Bias,11,"Raleigh","Anti-Asian",1,Asian
+"1994","Local",MA,"Massachusetts",09/01/1994,13,9,28,23,5,Black,Non-Hispanic,16,LGBTQ Bias,16,"Boston","Anti-Black",1,Black
+"1994","State",SC,"South Carolina",10/15/1994,9,4,31,25,6,Hispanic or Latino,Non-Hispanic,12,Hate Crimes Against Individuals,12,"Columbia","Anti-Hispanic",1,Hispanic or Latino

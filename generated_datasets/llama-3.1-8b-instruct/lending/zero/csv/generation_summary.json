@@ -1,0 +1,52 @@
+{
+  "timestamp": "2025-10-16T13:12:53.040988",
+  "model": "meta-llama/Llama-3.1-8B-Instruct",
+  "domain": "lending",
+  "shot_type": "zero",
+  "format_type": "csv",
+  "target_rows": 50,
+  "achieved_rows": 50,
+  "duration_s": 109.85,
+  "chunks": [
+    {
+      "timestamp": "2025-10-16T13:12:00.066894",
+      "model": "meta-llama/Llama-3.1-8B-Instruct",
+      "domain": "lending",
+      "shot_type": "zero",
+      "format_type": "csv",
+      "chunk_id": 1,
+      "retries": 1,
+      "success": true,
+      "error_type": null,
+      "rows_generated": 28,
+      "duration_s": 56.88,
+      "raw_path": "chunk_001_attempt_1_raw_response.txt",
+      "parsed_path": "chunk_001_attempt_1_parsed.csv",
+      "had_schema_mismatch": true,
+      "schema_correction_type": "column_rename",
+      "schema_corrections_count": 1,
+      "header_present": true,
+      "used_expected_schema": true
+    },
+    {
+      "timestamp": "2025-10-16T13:12:53.039953",
+      "model": "meta-llama/Llama-3.1-8B-Instruct",
+      "domain": "lending",
+      "shot_type": "zero",
+      "format_type": "csv",
+      "chunk_id": 2,
+      "retries": 1,
+      "success": true,
+      "error_type": null,
+      "rows_generated": 22,
+      "duration_s": 52.97,
+      "raw_path": "chunk_002_attempt_1_raw_response.txt",
+      "parsed_path": "chunk_002_attempt_1_parsed.csv",
+      "had_schema_mismatch": true,
+      "schema_correction_type": "column_rename",
+      "schema_corrections_count": 1,
+      "header_present": true,
+      "used_expected_schema": true
+    }
+  ]
+}

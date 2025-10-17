@@ -1,0 +1,48 @@
+"2004,City,NY,New York,2004-01-23,0,0,1,1,0,White,White,1,Hate Crimes Against People With Disabilities,1.0,Residence,Anti-Disability or Disability,Disability,1,N
+1996,Township,PA,Pennsylvania,1996-02-02,1,0,1,1,0,Black or African American,Black or African American,2,Hate Crimes Against Individuals Who Are Gay, Lesbian, Bisexual, or Transgender,2.0,Highway/Road,Anti-Lesbian, Gay, Bisexual, or Transgender,Lesbian, Gay, Bisexual, or Transgender,2,R
+1998,County,FL,Florida,1998-03-16,2,0,2,2,0,Asian or Alaskan Native,Asian or Alaskan Native,4,Hate Crimes Against Individuals Who Are Jewish,4.0,Street/Sidewalk,Anti-Jewish,Other Jews,4,N
+2003,City,CA,California,2003-05-22,0,1,1,1,0,White,White,1,Hate Crimes Against Individuals Who Are Black or African American,1.0,Mall/Shopping Plaza,Anti-Black or African American,Other,1,N
+1995,Municipality,TX,Texas,1995-08-11,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Hate Crimes Against Individuals Who Are Asian or Alaskan Native,1.0,Residence,Anti-Asian or Alaskan Native,Asian or Alaskan Native,1,S
+1993,County,IL,Illinois,1993-06-25,2,0,2,2,0,Hispanic or Latino,Hispanic or Latino,3,Hate Crimes Against Individuals Who Are White,3.0,Street/Sidewalk,Anti-White,Other Whites,3,N
+2001,City,MI,Michigan,2001-09-04,0,0,1,1,0,Unknown,Not Specified,1,Violent Hate Crimes Against Individuals Who Are Black or African American,1.0,School/College,Anti-Black or African American,Other,1,N
+1997,Township,NC,North Carolina,1997-04-18,1,0,1,1,0,White,White,1,Hate Crimes Against Individuals Who Are Jewish,1.0,Highway/Road,Anti-Jewish,Other Jews,1,N
+2002,City,GA,Georgia,2002-07-27,0,0,1,1,0,Asian or Alaskan Native,Asian or Alaskan Native,1,Hate Crimes Against Individuals Who Are Hispanic or Latino,1.0,Residence,Anti-Hispanic or Latino,Hispanic or Latino,1,S
+1992,Municipality,Ohio,Ohio,1992-10-03,1,0,1,1,0,Black or African American,Black or African American,1,Hate Crimes Against Individuals Who Are White,1.0,Mall/Shopping Plaza,Anti-White,Other Whites,1,N
+1994,County,SC,South Carolina,1994-02-14,2,0,2,2,0,Unknown,Not Specified,3,Hate Crimes Against Individuals Who Are Asian or Alaskan Native,3.0,Street/Sidewalk,Anti-Asian or Alaskan Native,Asian or Alaskan Native,3,N
+2005,City,OK,Oklahoma,2005-03-15,0,0,1,1,0,White,White,1,Hate Crimes Against Individuals Who Are Black or African American,1.0,School/College,Anti-Black or African American,Other,1,N
+1999,Township,IN,Indiana,1999-06-20,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Hate Crimes Against Individuals Who Are Jewish,1.0,Highway/Road,Anti-Jewish,Other Jews,1,N
+2006,City,NE,Nebraska,2006-08-23,0,0,1,1,0,Asian or Alaskan Native,Asian or Alaskan Native,1,Hate Crimes Against Individuals Who Are White,1.0,Residence,Anti-White,Other Whites,1,S
+1996,Municipality,GA,Georgia,1996-09-18,1,0,1,1,0,White,White,1,Hate Crimes Against Individuals Who Are Hispanic or Latino,1.0,Mall/Shopping Plaza,Anti-Hispanic or Latino,Hispanic or Latino,1,N
+1997,County,WI,Wisconsin,1997-04-05,2,0,2,2,0,Black or African American,Black or African American,3,Hate Crimes Against Individuals Who Are Jewish,3.0,Street/Sidewalk,Anti-Jewish,Other Jews,3,N
+2007,City,MT,Montana,2007-11-25,0,0,1,1,0,Unknown,Not Specified,1,Violent Hate Crimes Against Individuals Who Are Asian or Alaskan Native,1.0,School/College,Anti-Asian or Alaskan Native,Asian or Alaskan Native,1,N
+2002,County,AL,Alabama,2002-06-12,2,0,2,2,0,White,White,3,Hate Crimes Against Individuals Who Are Hispanic or Latino,3.0,Highway/Road,Anti-Hispanic or Latino,Hispanic or Latino,3,R
+1993,Municipality,OR,Oregon,1993-01-29,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Hate Crimes Against Individuals Who Are Black or African American,1.0,Mall/Shopping Plaza,Anti-Black or African American,Other,1,N
+1998,City,AR,Arkansas,1998-05-07,0,0,1,1,0,Asian or Alaskan Native,Asian or Alaskan Native,1,Hate Crimes Against Individuals Who Are White,1.0,Street/Sidewalk,Anti-White,Other Whites,1,N
+2004,City,UT,Utah,2004-04-29,0,0,1,1,0,Black or African American,Black or African American,1,Hate Crimes Against Individuals Who Are Asian or Alaskan Native,1.0,Highway/Road,Anti-Asian or Alaskan Native,Asian or Alaskan Native,1,N
+1995,Township,CO,Colorado,1995-08-22,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Hate Crimes Against Individuals Who Are Jewish,1.0,Street/Sidewalk,Anti-Jewish,Other Jews,1,N
+2001,Municipality,KS,Kansas,2001-06-03,1,0,1,1,0,White,White,1,Hate Crimes Against Individuals Who Are Black or African American,1.0,Highway/Road,Anti-Black or African American,Other,1,N
+1992,County,WV,West Virginia,1992-09-14,2,0,2,2,0,Unknown,Not Specified,3,Hate Crimes Against Individuals Who Are Asian or Alaskan Native,3.0,Street/Sidewalk,Anti-Asian or Alaskan Native,Asian or Alaskan Native,3,N
+2003,City,NM,New Mexico,2003-11-17,0,0,1,1,0,Asian or Alaskan Native,Asian or Alaskan Native,1,Hate Crimes Against Individuals Who Are White,1.0,Residence,Anti-White,Other Whites,1,S
+2008,City,IA,Iowa,2008-02-26,0,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Hate Crimes Against Individuals Who Are Black or African American,1.0,School/College,Anti-Black or African American,Other,1,N
+1994,Municipality,NC,North Carolina,1994-12-10,1,0,1,1,0,White,White,1,Hate Crimes Against Individuals Who Are Jewish,1.0,Mall/Shopping Plaza,Anti-Jewish,Other Jews,1,N
+2005,Township,ME,Maine,2005-09-13,1,0,1,1,0,Unknown,Not Specified,1,Hate Crimes Against Individuals Who Are Asian or Alaskan Native,1.0,Street/Sidewalk,Anti-Asian or Alaskan Native,Asian or Alaskan Native,1,N
+1991,City,MA,Massachusetts,1991-07-18,0,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Hate Crimes Against Individuals Who Are White,1.0,Highway/Road,Anti-White,Other Whites,1,N
+1997,County,MO,Missouri,1997-10-30,2,0,2,2,0,Black or African American,Black or African American,3,Hate Crimes Against Individuals Who Are Hispanic or Latino,3.0,Street/Sidewalk,Anti-Hispanic or Latino,Hispanic or Latino,3,N
+2009,City,ND,North Dakota,2009-05-06,0,0,1,1,0,Asian or Alaskan Native,Asian or Alaskan Native,1,Hate Crimes Against Individuals Who Are Black or African American,1.0,Residence,Anti-Black or African American,Other,1,S
+1996,City,MS,Mississippi,1996-08-15,0,0,1,1,0,White,White,1,Hate Crimes Against Individuals Who Are Hispanic or Latino,1.0,School/College,Anti-Hispanic or Latino,Hispanic or Latino,1,N
+2000,City,LA,Louisiana,2000-03-28,0,0,1,1,0,Unknown,Not Specified,1,Violent Hate Crimes Against Individuals Who Are Asian or Alaskan Native,1.0,Highway/Road,Anti-Asian or Alaskan Native,Asian or Alaskan Native,1,N
+2006,City,DE,Delaware,2006-01-05,0,0,1,1,0,Black or African American,Black or African American,1,Hate Crimes Against Individuals Who Are White,1.0,Street/Sidewalk,Anti-White,Other Whites,1,N
+1993,Township,VA,Virginia,1993-09-25,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Hate Crimes Against Individuals Who Are Jewish,1.0,Highway/Road,Anti-Jewish,Other Jews,1,N
+2002,City,HI,Hawaii,2002-03-20,0,0,1,1,0,Asian or Alaskan Native,Asian or Alaskan Native,1,Hate Crimes Against Individuals Who Are Hispanic or Latino,1.0,Residence,Anti-Hispanic or Latino,Hispanic or Latino,1,S
+1995,County,VT,Vermont,1995-04-28,2,0,2,2,0,Unknown,Not Specified,3,Hate Crimes Against Individuals Who Are Asian or Alaskan Native,3.0,Street/Sidewalk,Anti-Asian or Alaskan Native,Asian or Alaskan Native,3,N
+2007,City,SC,South Carolina,2007-09-19,0,0,1,1,0,White,White,1,Hate Crimes Against Individuals Who Are Black or African American,1.0,School/College,Anti-Black or African American,Other,1,N
+1996,City,ND,North Dakota,1996-05-23,0,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Hate Crimes Against Individuals Who Are Jewish,1.0,Highway/Road,Anti-Jewish,Other Jews,1,N
+2003,Municipality,WY,Wyoming,2003-07-21,1,0,1,1,0,Black or African American,Black or African American,1,Hate Crimes Against Individuals Who Are Asian or Alaskan Native,1.0,Mall/Shopping Plaza,Anti-Asian or Alaskan Native,Asian or Alaskan Native,1,N
+1994,City,RI,Rhode Island,1994-09-20,0,0,1,1,0,Unknown,Not Specified,1,Hate Crimes Against Individuals Who Are White,1.0,Street/Sidewalk,Anti-White,Other Whites,1,N
+2004,Township,KY,Kentucky,2004-08-24,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Hate Crimes Against Individuals Who Are Jewish,1.0,Highway/Road,Anti-Jewish,Other Jews,1,N
+1999,County,ID,Idaho,1999-05-16,2,0,2,2,0,Asian or Alaskan Native,Asian or Alaskan Native,3,Hate Crimes Against Individuals Who Are Hispanic or Latino,3.0,Street/Sidewalk,Anti-Hispanic or Latino,Hispanic or Latino,3,N
+2008,City,WI,Wisconsin,2008-03-17,0,0,1,1,0,White,White,1,Hate Crimes Against Individuals Who Are Black or African American,1.0,School/College,Anti-Black or African American,Other,1,N
+2005,City,GA,Georgia,2005-09-20,0,0,1,1,0,Asian or Alaskan Native,Asian or Alaskan Native,1,Hate Crimes Against Individuals Who Are White,1.0,Residence,Anti-White,Other Whites,1,S
+1997,Municipality,AR,Arkansas,1997-02-07,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Hate Crimes Against Individuals Who Are Asian or Alaskan Native,1.0,Mall/Shopping Plaza,Anti-Asian or Alaskan Native,Asian or Alaskan Native,1,N
+2002,City,AK,Alaska,2002-10-15,0,0,1,1,0,Black or African American,Black or African American,1,Hate Crimes Against Individuals Who Are Hispanic or Latino,1.0,Highway/Road,Anti-Hispanic or Latino,Hispanic or Latino,1,N
+1991,Township,KS,Kansas,1991-03-17,1,0,1,1,0,White,White,1,Hate Crimes Against Individuals Who Are Jewish,1.0,Street/Sidewalk,Anti-Jewish,Other Jews,1,N"

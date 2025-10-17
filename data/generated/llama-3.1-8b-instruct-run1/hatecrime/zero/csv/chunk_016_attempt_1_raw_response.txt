@@ -1,0 +1,46 @@
+"Year","Agency Type","State","State Name","Incident Date","Adult Victims","Juvenile Victims","Total Offenders","Adult Offenders","Juvenile Offenders","Offender Race","Offender Ethnicity","Victims","Offense","Total Victims","Location","Bias","Victim Types","Multiple Offenses","Multiple Biases"
+1992,Local,MN,MN,1/1/1992,2,3,4,2,2,White,Non-Hispanic,5,"Intimidation","5","Public Space","Race","Adult, Juvenile",True,False
+1992,State,CA,CA,1/15/1992,1,2,3,1,2,Asian,Non-Hispanic,3,"Simple Assault","3","Residence","Ethnicity","Adult, Juvenile",False,False
+1993,Local,KS,KS,2/1/1993,3,4,5,3,2,Hispanic,Non-Hispanic,7,"Vandalism","7","Public Space","Sexual Orientation","Adult, Juvenile",True,False
+1993,State,WI,WI,2/15/1993,2,1,4,2,2,White,Non-Hispanic,3,"Simple Assault","3","Residence","Disability","Adult",False,True
+1994,Local,AZ,AZ,3/1/1994,1,2,3,1,2,Native American,Non-Hispanic,3,"Simple Assault","3","Public Space","Ethnicity","Adult, Juvenile",False,True
+1994,State,CO,CO,3/15/1994,3,1,5,3,2,Hispanic,Non-Hispanic,4,"Vandalism","4","Residence","Religion","Adult",False,False
+1995,Local,OR,OR,4/1/1995,4,3,6,4,2,White,Non-Hispanic,7,"Intimidation","7","Public Space","Disability","Adult, Juvenile",True,False
+1995,State,NC,NC,4/15/1995,2,1,4,2,2,Asian,Non-Hispanic,3,"Simple Assault","3","Residence","Ethnicity","Adult",False,True
+1996,Local,MI,MI,5/1/1996,1,2,3,1,2,Hispanic,Non-Hispanic,3,"Simple Assault","3","Public Space","Sexual Orientation","Adult, Juvenile",False,True
+1996,State,GA,GA,5/15/1996,3,4,5,3,2,Native American,Non-Hispanic,7,"Vandalism","7","Residence","Religion","Adult, Juvenile",True,False
+1997,Local,TX,TX,6/1/1997,2,1,4,2,2,White,Non-Hispanic,3,"Simple Assault","3","Public Space","Disability","Adult",False,False
+1997,State,IL,IL,6/15/1997,1,3,3,1,2,Asian,Non-Hispanic,4,"Intimidation","4","Residence","Ethnicity","Adult, Juvenile",False,True
+1998,Local,FL,FL,7/1/1998,3,2,5,3,2,Hispanic,Non-Hispanic,5,"Vandalism","5","Public Space","Sexual Orientation","Adult, Juvenile",True,False
+1998,State,OH,OH,7/15/1998,4,1,6,4,2,Native American,Non-Hispanic,5,"Intimidation","5","Residence","Religion","Adult",True,False
+1999,Local,NM,NM,8/1/1999,1,2,3,1,2,White,Non-Hispanic,3,"Simple Assault","3","Public Space","Disability","Adult, Juvenile",False,True
+1999,State,VT,VT,8/15/1999,2,3,4,2,2,Asian,Non-Hispanic,5,"Vandalism","5","Residence","Ethnicity","Adult, Juvenile",False,True
+2000,Local,NE,NE,9/1/2000,4,1,6,4,2,Hispanic,Non-Hispanic,5,"Intimidation","5","Public Space","Sexual Orientation","Adult",True,False
+2000,State,WA,WA,9/15/2000,3,2,5,3,2,Native American,Non-Hispanic,5,"Vandalism","5","Residence","Religion","Adult, Juvenile",True,False
+2001,Local,SC,SC,10/1/2001,1,2,3,1,2,White,Non-Hispanic,3,"Simple Assault","3","Public Space","Disability","Adult, Juvenile",False,True
+2001,State,MO,MO,10/15/2001,2,1,4,2,2,Asian,Non-Hispanic,3,"Simple Assault","3","Residence","Ethnicity","Adult",False,True
+2002,Local,IN,IN,11/1/2002,3,4,5,3,2,Hispanic,Non-Hispanic,5,"Vandalism","5","Public Space","Sexual Orientation","Adult, Juvenile",True,False
+2002,State,ID,IDA,11/15/2002,4,1,6,4,2,Native American,Non-Hispanic,5,"Intimidation","5","Residence","Religion","Adult",True,False
+2003,Local,OK,OK,12/1/2003,1,2,3,1,2,White,Non-Hispanic,3,"Simple Assault","3","Public Space","Disability","Adult, Juvenile",False,True
+2003,State,DE,DE,12/15/2003,2,3,4,2,2,Asian,Non-Hispanic,5,"Vandalism","5","Residence","Ethnicity","Adult, Juvenile",False,True
+2004,Local,PA,PA,1/1/2004,4,1,6,4,2,Hispanic,Non-Hispanic,5,"Intimidation","5","Public Space","Sexual Orientation","Adult",True,False
+2004,State,UT,UT,1/15/2004,3,2,5,3,2,Native American,Non-Hispanic,5,"Vandalism","5","Residence","Religion","Adult, Juvenile",True,False
+2005,Local,WV,WV,2/1/2005,1,2,3,1,2,White,Non-Hispanic,3,"Simple Assault","3","Public Space","Disability","Adult, Juvenile",False,True
+2005,State,ME,ME,2/15/2005,2,1,4,2,2,Asian,Non-Hispanic,3,"Simple Assault","3","Residence","Ethnicity","Adult",False,True
+2006,Local,MS,MS,3/1/2006,3,4,5,3,2,Hispanic,Non-Hispanic,5,"Vandalism","5","Public Space","Sexual Orientation","Adult, Juvenile",True,False
+2006,State,AR,AR,3/15/2006,4,1,6,4,2,Native American,Non-Hispanic,5,"Intimidation","5","Residence","Religion","Adult",True,False
+2007,Local,MT,MT,4/1/2007,1,2,3,1,2,White,Non-Hispanic,3,"Simple Assault","3","Public Space","Disability","Adult, Juvenile",False,True
+2007,State,AK,AK,4/15/2007,2,3,4,2,2,Asian,Non-Hispanic,5,"Vandalism","5","Residence","Ethnicity","Adult, Juvenile",False,True
+2008,Local,LA,LA,5/1/2008,4,1,6,4,2,Hispanic,Non-Hispanic,5,"Intimidation","5","Public Space","Sexual Orientation","Adult",True,False
+2008,State,RI,RI,5/15/2008,3,2,5,3,2,Native American,Non-Hispanic,5,"Vandalism","5","Residence","Religion","Adult, Juvenile",True,False
+2009,Local,VT,VT,6/1/2009,1,2,3,1,2,White,Non-Hispanic,3,"Simple Assault","3","Public Space","Disability","Adult, Juvenile",False,True
+2009,State,SD,SD,6/15/2009,2,1,4,2,2,Asian,Non-Hispanic,3,"Simple Assault","3","Residence","Ethnicity","Adult",False,True
+2010,Local,ND,ND,7/1/2010,3,4,5,3,2,Hispanic,Non-Hispanic,5,"Vandalism","5","Public Space","Sexual Orientation","Adult, Juvenile",True,False
+2010,State,KY,KY,7/15/2010,4,1,6,4,2,Native American,Non-Hispanic,5,"Intimidation","5","Residence","Religion","Adult",True,False
+2011,Local,AL,AL,8/1/2011,1,2,3,1,2,White,Non-Hispanic,3,"Simple Assault","3","Public Space","Disability","Adult, Juvenile",False,True
+2011,State,CT,CT,8/15/2011,2,3,4,2,2,Asian,Non-Hispanic,5,"Vandalism","5","Residence","Ethnicity","Adult, Juvenile",False,True
+2012,Local,GA,GA,9/1/2012,4,1,6,4,2,Hispanic,Non-Hispanic,5,"Intimidation","5","Public Space","Sexual Orientation","Adult",True,False
+2012,State,NE,NE,9/15/2012,3,2,5,3,2,Native American,Non-Hispanic,5,"Vandalism","5","Residence","Religion","Adult, Juvenile",True,False
+2013,Local,OR,OR,10/1/2013,1,2,3,1,2,White,Non-Hispanic,3,"Simple Assault","3","Public Space","Disability","Adult, Juvenile",False,True
+2013,State,HI,HI,10/15/2013,2,1,4,2,2,Asian,Non-Hispanic,3,"Simple Assault","3","Residence","Ethnicity","Adult",False,True
+2014,Local,KS,KS,11/1/2014,3,4,5,3,2,Hispanic,Non-Hispanic,5,"Vandalism","5","Public Space","Sexual Orientation","Adult, Juvenile",True,False

@@ -1,0 +1,51 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2002,State Police,AL,Alabama,2002-06-15,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,"University of Alabama, Tuscaloosa",Anti-White Bias,Adult Only,false,false
+2009,Sheriffs Department,AK,Alaska,2009-01-20,0,1,1,0,1,Asian or Pacific Islander,Not Hispanic or Latino,1,Vandalism,1,"Anchorage, AK",Anti-Hispanic Bias,Adult and Juvenile,true,false
+2011,Federal Bureau of Investigation,AZ,Arizona,2011-05-01,1,0,1,1,0,Hispanic or Latino,Not Hispanic or Latino,1,Intimidation,1,"Phoenix, AZ",Anti-LGBTQ+ Bias,Adult Only,false,false
+2008,County Police Department,AR,Arkansas,2008-08-25,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Hate Crime Against Sexual Orientation,1,"Little Rock, AR",Anti-African American Bias,Adult and Juvenile,false,false
+1995,City Police Department,CA,California,1995-02-14,1,0,1,1,0,Asian or Pacific Islander,Not Hispanic or Latino,1,Simple Assault,1,"San Francisco, CA",Anti-Jewish Bias,Adult Only,false,false
+2006,State Police,CO,Colorado,2006-11-05,0,1,1,0,1,White,Not Hispanic or Latino,1,Intimidation,1,"Denver, CO",Anti-Government Bias,Adult and Juvenile,false,false
+2013,Sheriffs Department,CT,Connecticut,2013-03-18,1,0,1,1,0,Hispanic or Latino,Not Hispanic or Latino,1,Hate Crime Against Sexual Orientation,1,"New Haven, CT",Anti-Racially Motivated Bias,Adult Only,false,false
+2004,Federal Bureau of Investigation,DE,Delaware,2004-09-15,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Vandalism,1,"Wilmington, DE",Anti-Asian Bias,Adult and Juvenile,false,false
+2001,County Police Department,FL,Florida,2001-05-01,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,"Miami, FL",Anti-White Bias,Adult Only,false,false
+2010,City Police Department,GA,Georgia,2010-10-22,0,1,1,0,1,Hispanic or Latino,Not Hispanic or Latino,1,Hate Crime Against Sexual Orientation,1,"Atlanta, GA",Anti-Jewish Bias,Adult and Juvenile,false,false
+2005,State Police,HI,Hawaii,2005-07-04,1,0,1,1,0,Asian or Pacific Islander,Not Hispanic or Latino,1,Intimidation,1,"Honolulu, HI",Anti-Racially Motivated Bias,Adult Only,false,false
+2012,Sheriffs Department,ID,Idaho,2012-01-15,0,1,1,0,1,White,Not Hispanic or Latino,1,Vandalism,1,"Boise, ID",Anti-Government Bias,Adult and Juvenile,false,false
+2007,Federal Bureau of Investigation,IL,Illinois,2007-03-25,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1,"Chicago, IL",Anti-Asian Bias,Adult Only,false,false
+2003,County Police Department,IN,Indiana,2003-08-20,0,1,1,0,1,Hispanic or Latino,Not Hispanic or Latino,1,Hate Crime Against Sexual Orientation,1,"Indianapolis, IN",Anti-African American Bias,Adult and Juvenile,false,false
+1996,City Police Department,IA,Iowa,1996-05-01,1,0,1,1,0,Asian or Pacific Islander,Not Hispanic or Latino,1,Intimidation,1,"Des Moines, IA",Anti-Racially Motivated Bias,Adult Only,false,false
+2009,State Police,KS,Kansas,2009-09-15,0,1,1,0,1,White,Not Hispanic or Latino,1,Vandalism,1,"Wichita, KS",Anti-Government Bias,Adult and Juvenile,false,false
+2014,Sheriffs Department,KY,Kentucky,2014-02-20,1,0,1,1,0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1,"Louisville, KY",Anti-White Bias,Adult Only,false,false
+2002,Federal Bureau of Investigation,LA,Louisiana,2002-11-01,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Hate Crime Against Sexual Orientation,1,"New Orleans, LA",Anti-Asian Bias,Adult and Juvenile,false,false
+2011,County Police Department,ME,Maine,2011-06-25,1,0,1,1,0,Asian or Pacific Islander,Not Hispanic or Latino,1,Intimidation,1,"Portland, ME",Anti-Racially Motivated Bias,Adult Only,false,false
+2008,City Police Department,MD,Maryland,2008-04-15,0,1,1,0,1,White,Not Hispanic or Latino,1,Vandalism,1,"Baltimore, MD",Anti-Government Bias,Adult and Juvenile,false,false
+2005,State Police,MA,Massachusetts,2005-10-01,1,0,1,1,0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1,"Boston, MA",Anti-White Bias,Adult Only,false,false
+2013,Sheriffs Department,MI,Michigan,2013-08-25,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Hate Crime Against Sexual Orientation,1,"Detroit, MI",Anti-Asian Bias,Adult and Juvenile,false,false
+2007,Federal Bureau of Investigation,MN,Minnesota,2007-01-15,1,0,1,1,0,Asian or Pacific Islander,Not Hispanic or Latino,1,Intimidation,1,"Minneapolis, MN",Anti-Racially Motivated Bias,Adult Only,false,false
+2004,County Police Department,MS,Mississippi,2004-07-01,0,1,1,0,1,White,Not Hispanic or Latino,1,Vandalism,1,"Jackson, MS",Anti-Government Bias,Adult and Juvenile,false,false
+1999,City Police Department,MO,Missouri,1999-03-20,1,0,1,1,0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1,"Kansas City, MO",Anti-African American Bias,Adult Only,false,false
+2006,State Police,MT,Montana,2006-09-01,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Hate Crime Against Sexual Orientation,1,"Helena, MT",Anti-Asian Bias,Adult and Juvenile,false,false
+2012,Sheriffs Department,NE,Nebraska,2012-05-25,1,0,1,1,0,Asian or Pacific Islander,Not Hispanic or Latino,1,Intimidation,1,"Omaha, NE",Anti-Racially Motivated Bias,Adult Only,false,false
+2009,Federal Bureau of Investigation,NV,Nevada,2009-08-01,0,1,1,0,1,White,Not Hispanic or Latino,1,Vandalism,1,"Las Vegas, NV",Anti-Government Bias,Adult and Juvenile,false,false
+2003,County Police Department,NH,New Hampshire,2003-01-15,1,0,1,1,0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1,"Manchester, NH",Anti-White Bias,Adult Only,false,false
+2010,City Police Department,NJ,New Jersey,2010-11-20,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Hate Crime Against Sexual Orientation,1,"Newark, NJ",Anti-Asian Bias,Adult and Juvenile,false,false
+2005,State Police,NM,New Mexico,2005-06-01,1,0,1,1,0,Asian or Pacific Islander,Not Hispanic or Latino,1,Intimidation,1,"Albuquerque, NM",Anti-Racially Motivated Bias,Adult Only,false,false
+2011,Sheriffs Department,NY,New York,2011-09-25,0,1,1,0,1,White,Not Hispanic or Latino,1,Vandalism,1,"New York, NY",Anti-Government Bias,Adult and Juvenile,false,false
+2008,Federal Bureau of Investigation,NC,North Carolina,2008-03-01,1,0,1,1,0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1,"Charlotte, NC",Anti-White Bias,Adult Only,false,false
+2006,County Police Department,ND,North Dakota,2006-10-15,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Hate Crime Against Sexual Orientation,1,"Fargo, ND",Anti-Asian Bias,Adult and Juvenile,false,false
+2004,City Police Department,OH,Ohio,2004-05-01,1,0,1,1,0,Asian or Pacific Islander,Not Hispanic or Latino,1,Intimidation,1,"Columbus, OH",Anti-Racially Motivated Bias,Adult Only,false,false
+2013,State Police,OK,Oklahoma,2013-07-25,0,1,1,0,1,White,Not Hispanic or Latino,1,Vandalism,1,"Oklahoma City, OK",Anti-Government Bias,Adult and Juvenile,false,false
+2009,Sheriffs Department,OR,Oregon,2009-12-01,1,0,1,1,0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1,"Portland, OR",Anti-White Bias,Adult Only,false,false
+2007,Federal Bureau of Investigation,PA,Pennsylvania,2007-02-15,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Hate Crime Against Sexual Orientation,1,"Philadelphia, PA",Anti-Asian Bias,Adult and Juvenile,false,false
+2005,County Police Department,RI,Rhode Island,2005-08-01,1,0,1,1,0,Asian or Pacific Islander,Not Hispanic or Latino,1,Intimidation,1,"Providence, RI",Anti-Racially Motivated Bias,Adult Only,false,false
+2012,City Police Department,SC,South Carolina,2012-04-25,0,1,1,0,1,White,Not Hispanic or Latino,1,Vandalism,1,"Columbia, SC",Anti-Government Bias,Adult and Juvenile,false,false
+2009,State Police,SD,South Dakota,2009-06-01,1,0,1,1,0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1,"Sioux Falls, SD",Anti-White Bias,Adult Only,false,false
+2007,Sheriffs Department,TN,Tennessee,2007-10-15,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Hate Crime Against Sexual Orientation,1,"Nashville, TN",Anti-Asian Bias,Adult and Juvenile,false,false
+2005,Federal Bureau of Investigation,TX,Texas,2005-03-01,1,0,1,1,0,Asian or Pacific Islander,Not Hispanic or Latino,1,Intimidation,1,"Houston, TX",Anti-Racially Motivated Bias,Adult Only,false,false
+2011,County Police Department,UT,Utah,2011-08-25,0,1,1,0,1,White,Not Hispanic or Latino,1,Vandalism,1,"Salt Lake City, UT",Anti-Government Bias,Adult and Juvenile,false,false
+2009,City Police Department,VT,Vermont,2009-11-01,1,0,1,1,0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1,"Burlington, VT",Anti-White Bias,Adult Only,false,false
+2007,State Police,VA,Virginia,2007-05-15,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Hate Crime Against Sexual Orientation,1,"Richmond, VA",Anti-Asian Bias,Adult and Juvenile,false,false
+2006,Sheriffs Department,WA,Washington,2006-09-01,1,0,1,1,0,Asian or Pacific Islander,Not Hispanic or Latino,1,Intimidation,1,"Seattle, WA",Anti-Racially Motivated Bias,Adult Only,false,false
+2010,Federal Bureau of Investigation,WV,West Virginia,2010-07-25,0,1,1,0,1,White,Not Hispanic or Latino,1,Vandalism,1,"Charleston, WV",Anti-Government Bias,Adult and Juvenile,false,false
+2004,County Police Department,WI,Wisconsin,2004-10-01,1,0,1,1,0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1,"Milwaukee, WI",Anti-White Bias,Adult Only,false,false
+2014,City Police Department,WY,Wyoming,2014-01-15,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Hate Crime Against Sexual Orientation,1,"Cheyenne, WY",Anti-Asian Bias,Adult and Juvenile,false,false

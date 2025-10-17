@@ -1,0 +1,47 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2004,City,CA,California,2004-06-11,1,0,1,1,0,Hisp/Latino,Hispanic or Latino,1,Simple Assault,1.0,Residential Area,Anti-White,Adult,Unknown,S
+2009,City,FL,Florida,2009-08-23,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1.0,Residential Area,Anti-Black or African American,Adult,Unknown,S
+2011,Town,PA,Pennsylvania,2011-09-15,2,0,2,2,0,White,Not Hispanic or Latino,2,Simple Assault,2.0,Public Transportation,Anti-Homosexual,Adult,Unknown,S
+2003,County,IL,Illinois,2003-03-10,1,0,1,1,0,Hisp/Latino,Hispanic or Latino,1,Vandalism,1.0,Commercial Area,Anti-Asian,Adult,Unknown,S
+2012,State,GA,Georgia,2012-05-20,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Aggravated Assault,1.0,Residential Area,Anti-Jewish,Adult,Unknown,S
+2002,City,MI,Michigan,2002-01-29,1,0,1,1,0,Hisp/Latino,Hispanic or Latino,1,Simple Assault,1.0,Public Park,Anti-Homosexual,Adult,Unknown,S
+2005,State,NC,North Carolina,2005-10-14,2,0,2,2,0,White,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2.0,Residential Area,Anti-White,Adult,Unknown,S
+2010,County,TX,Texas,2010-04-28,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Commercial Area,Anti-Jewish,Adult,Unknown,S
+2008,State,LA,Louisiana,2008-07-11,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Public Transportation,Anti-Black or African American,Adult,Unknown,S
+2006,County,IN,Indiana,2006-02-04,2,0,2,2,0,Hisp/Latino,Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2.0,Commercial Area,Anti-Homosexual,Adult,Unknown,S
+2007,State,OK,Oklahoma,2007-05-03,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Public Park,Anti-White,Adult,Unknown,S
+2014,City,MD,Maryland,2014-09-16,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1.0,Residential Area,Anti-Homosexual,Adult,Unknown,S
+2009,Town,SC,South Carolina,2009-12-15,2,0,2,2,0,Hisp/Latino,Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2.0,Public Transportation,Anti-White,Adult,Unknown,S
+2001,State,MO,Missouri,2001-08-16,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Commercial Area,Anti-Asian,Adult,Unknown,S
+2013,County,OH,Ohio,2013-02-11,1,0,1,1,0,Hisp/Latino,Hispanic or Latino,1,Intimidation,1.0,Residential Area,Anti-Jewish,Adult,Unknown,S
+2004,City,OR,Oregon,2004-11-13,1,0,1,1,0,White,Not Hispanic or Latino,1,Vandalism,1.0,Public Park,Anti-Homosexual,Adult,Unknown,S
+2010,County,VA,Virginia,2010-06-19,1,0,1,1,0,Hisp/Latino,Hispanic or Latino,1,Aggravated Assault,1.0,Commercial Area,Anti-Asian,Adult,Unknown,S
+2006,State,KS,Kansas,2006-03-27,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Residential Area,Anti-Jewish,Adult,Unknown,S
+2003,Town,NC,North Carolina,2003-04-25,1,0,1,1,0,Hisp/Latino,Hispanic or Latino,1,Intimidation,1.0,Commercial Area,Anti-Homosexual,Adult,Unknown,S
+2009,County,AL,Alabama,2009-01-10,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Public Park,Anti-Asian,Adult,Unknown,S
+2012,City,AR,Arkansas,2012-08-18,2,0,2,2,0,White,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2.0,Residential Area,Anti-White,Adult,Unknown,S
+2008,Town,GA,Georgia,2008-09-15,1,0,1,1,0,Hisp/Latino,Hispanic or Latino,1,Intimidation,1.0,Public Transportation,Anti-Jewish,Adult,Unknown,S
+2005,County,GA,Georgia,2005-02-26,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Commercial Area,Anti-Homosexual,Adult,Unknown,S
+2011,State,WI,Wisconsin,2011-07-11,2,0,2,2,0,White,Not Hispanic or Latino,2,Simple Assault,2.0,Residential Area,Anti-Black or African American,Adult,Unknown,S
+2007,State,IA,Iowa,2007-03-19,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1.0,Public Park,Anti-Asian,Adult,Unknown,S
+2010,County,MA,Massachusetts,2010-11-14,1,0,1,1,0,Hisp/Latino,Hispanic or Latino,1,Aggravated Assault,1.0,Commercial Area,Anti-Jewish,Adult,Unknown,S
+2002,County,PA,Pennsylvania,2002-06-14,2,0,2,2,0,Black or African American,Not Hispanic or Latino,2,Simple Assault,2.0,Public Transportation,Anti-Homosexual,Adult,Unknown,S
+2014,City,IN,Indiana,2014-03-29,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Residential Area,Anti-Jewish,Adult,Unknown,S
+2009,State,UT,Utah,2009-09-12,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1.0,Commercial Area,Anti-Asian,Adult,Unknown,S
+2006,City,IN,Indiana,2006-10-29,2,0,2,2,0,White,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2.0,Public Transportation,Anti-White,Adult,Unknown,S
+2005,County,SC,South Carolina,2005-06-11,1,0,1,1,0,Hisp/Latino,Hispanic or Latino,1,Simple Assault,1.0,Residential Area,Anti-Jewish,Adult,Unknown,S
+2013,State,ME,Maine,2013-11-15,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Commercial Area,Anti-Homosexual,Adult,Unknown,S
+2003,County,NC,North Carolina,2003-09-17,1,0,1,1,0,Hisp/Latino,Hispanic or Latino,1,Vandalism,1.0,Public Park,Anti-Asian,Adult,Unknown,S
+2002,State,AL,Alabama,2002-04-27,2,0,2,2,0,White,Not Hispanic or Latino,2,Simple Assault,2.0,Residential Area,Anti-Jewish,Adult,Unknown,S
+2012,City,IL,Illinois,2012-01-14,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Aggravated Assault,1.0,Public Transportation,Anti-Homosexual,Adult,Unknown,S
+2007,City,IL,Illinois,2007-08-25,1,0,1,1,0,Hisp/Latino,Hispanic or Latino,1,Simple Assault,1.0,Commercial Area,Anti-Asian,Adult,Unknown,S
+2011,County,IA,Iowa,2011-09-17,1,0,1,1,0,Hisp/Latino,Hispanic or Latino,1,Intimidation,1.0,Residential Area,Anti-Jewish,Adult,Unknown,S
+2009,Town,IN,Indiana,2009-03-28,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Public Park,Anti-Asian,Adult,Unknown,S
+2006,State,MS,Mississippi,2006-11-18,2,0,2,2,0,White,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2.0,Commercial Area,Anti-White,Adult,Unknown,S
+2001,County,FL,Florida,2001-09-02,1,0,1,1,0,Hisp/Latino,Hispanic or Latino,1,Simple Assault,1.0,Public Transportation,Anti-Asian,Adult,Unknown,S
+2014,State,VT,Vermont,2014-04-25,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Commercial Area,Anti-Homosexual,Adult,Unknown,S
+2005,County,OH,Ohio,2005-08-13,2,0,2,2,0,White,Not Hispanic or Latino,2,Simple Assault,2.0,Residential Area,Anti-Jewish,Adult,Unknown,S
+2002,Town,GA,Georgia,2002-10-22,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1.0,Commercial Area,Anti-Asian,Adult,Unknown,S
+2008,County,NC,North Carolina,2008-06-14,1,0,1,1,0,Hisp/Latino,Hispanic or Latino,1,Vandalism,1.0,Public Park,Anti-Jewish,Adult,Unknown,S
+2013,City,SC,South Carolina,2013-02-10,1,0,1,1,0,Hisp/Latino,Hispanic or Latino,1,Aggravated Assault,1.0,Residential Area,Anti-Homosexual,Adult,Unknown,S
+2007,County,TN,Tennessee,2007-09-16,2,0,2,2,0,White,Not Hispanic or Latino,2,Simple Assault,2.0,Public Transportation,Anti-Black or African American,Adult,Unknown,S

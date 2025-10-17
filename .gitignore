@@ -8,3 +8,4 @@
 !data/preprocessed/sample_*.csv
 !data/preprocessed/sample_*.json
 !data/preprocessed/sample_*.parquet
+.env

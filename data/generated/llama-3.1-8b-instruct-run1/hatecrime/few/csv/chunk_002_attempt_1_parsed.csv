@@ -1,0 +1,53 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2005,City,TX,Texas,2005-02-20,1.0,0.0,2.0,1.0,1.0,White,Not Specified,1,Vandalism,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-White or Caucasian,Individual,S,S
+2012,County,NY,New York,2012-09-03,0.0,2.0,1.0,0.0,1.0,Hispanic or Latino,Not Specified,2,Simple Assault,1.0,Park or Playground,Anti-Gay (Male),Individual,S,S
+1996,State,FL,Florida,1996-06-15,1.0,0.0,1.0,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Asian,Other,S,S
+2017,City,IL,Illinois,2017-12-25,2.0,0.0,3.0,2.0,1.0,White,Not Specified,2,Aggravated Assault,5.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Female),Individual,S,S
+2000,County,MI,Michigan,2000-04-18,0.0,1.0,2.0,0.0,2.0,Asian,Not Specified,1,Intimidation,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Individual,S,S
+2014,City,CA,California,2014-11-06,1.0,0.0,1.0,1.0,0.0,Hispanic or Latino,Not Specified,1,Larceny/Theft,1.0,Hotel/Motel,Anti-Asian,Individual,S,S
+2002,County,GA,Georgia,2002-03-04,0.0,2.0,1.0,0.0,1.0,White,Not Hispanic or Latino,2,Simple Assault,1.0,School/College,Anti-Gay (Male),Individual,S,S
+1994,State,NV,Nevada,1994-07-09,1.0,0.0,1.0,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Vandalism,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Other,S,S
+1995,City,OH,Ohio,1995-10-02,2.0,0.0,2.0,2.0,0.0,White,Not Specified,2,Destruction/Damage/Vandalism of Property,0.0,Hotel/Motel,Anti-Black or African American,Individual,S,S
+2006,State,TN,Tennessee,2006-01-14,0.0,1.0,1.0,0.0,1.0,Asian,Not Hispanic or Latino,1,Intimidation,1.0,Park or Playground,Anti-Gay (Female),Individual,S,S
+1997,County,AL,Alabama,1997-04-08,1.0,0.0,2.0,1.0,1.0,White,Not Hispanic or Latino,1,Larceny/Theft,1.0,School/College,Anti-Black or African American,Individual,S,S
+2009,City,MA,Massachusetts,2009-09-20,2.0,0.0,3.0,2.0,1.0,Hispanic or Latino,Not Specified,2,Vandalism,1.0,Hotel/Motel,Anti-Asian,Individual,S,S
+2004,State,TX,Texas,2004-11-21,1.0,0.0,1.0,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Park or Playground,Anti-Gay (Male),Individual,S,S
+2013,County,AR,Arkansas,2013-03-15,0.0,1.0,1.0,0.0,1.0,White,Not Hispanic or Latino,1,Intimidation,1.0,School/College,Anti-Asian,Individual,S,S
+1993,City,CT,Connecticut,1993-05-04,2.0,0.0,2.0,2.0,0.0,Asian,Not Specified,2,Aggravated Assault,1.0,Hotel/Motel,Anti-Gay (Female),Individual,S,S
+2010,City,CO,Colorado,2010-08-25,1.0,0.0,2.0,1.0,1.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Park or Playground,Anti-Asian,Individual,S,S
+2005,State,FL,Florida,2005-03-14,1.0,0.0,1.0,1.0,0.0,White,Not Specified,1,Larceny/Theft,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Other,S,S
+2008,County,NY,New York,2008-06-17,0.0,2.0,1.0,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,2,Simple Assault,1.0,Park or Playground,Anti-Gay (Male),Individual,S,S
+2001,City,PA,Pennsylvania,2001-02-01,2.0,0.0,3.0,2.0,1.0,White,Not Specified,2,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Gay (Female),Individual,S,S
+2003,State,NC,North Carolina,2003-08-11,1.0,0.0,1.0,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Other,S,S
+1999,County,WI,Wisconsin,1999-06-22,0.0,1.0,1.0,0.0,1.0,Asian,Not Hispanic or Latino,1,Intimidation,1.0,Park or Playground,Anti-Gay (Male),Individual,S,S
+2000,City,VT,Vermont,2000-04-26,2.0,0.0,3.0,2.0,1.0,White,Not Specified,2,Larceny/Theft,1.0,Hotel/Motel,Anti-Asian,Individual,S,S
+2015,State,KY,Kentucky,2015-05-11,1.0,0.0,1.0,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Gay (Male),Other,S,S
+1998,County,OR,Oregon,1998-03-06,0.0,1.0,1.0,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Larceny/Theft,1.0,Park or Playground,Anti-White or Caucasian,Individual,S,S
+2018,City,AZ,Arizona,2018-07-18,2.0,0.0,3.0,2.0,1.0,Asian,Not Specified,2,Simple Assault,1.0,Hotel/Motel,Anti-Gay (Female),Individual,S,S
+2007,State,SC,South Carolina,2007-05-02,0.0,1.0,1.0,0.0,1.0,White,Not Hispanic or Latino,1,Intimidation,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Other,S,S
+2002,County,ME,Maine,2002-09-20,1.0,0.0,1.0,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Park or Playground,Anti-Gay (Male),Individual,S,S
+2011,City,TN,Tennessee,2011-10-02,1.0,0.0,2.0,1.0,1.0,Hispanic or Latino,Not Specified,1,Larceny/Theft,1.0,Hotel/Motel,Anti-Black or African American,Individual,S,S
+1993,State,MS,Mississippi,1993-01-10,0.0,2.0,1.0,0.0,1.0,White,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Asian,Other,S,S
+2009,County,DE,Delaware,2009-08-01,1.0,0.0,1.0,1.0,0.0,Asian,Not Specified,1,Larceny/Theft,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Female),Individual,S,S
+2007,City,IA,Iowa,2007-10-22,2.0,0.0,3.0,2.0,1.0,Black or African American,Not Hispanic or Latino,2,Vandalism,1.0,Hotel/Motel,Anti-Asian,Individual,S,S
+2016,State,OK,Oklahoma,2016-02-13,1.0,0.0,1.0,1.0,0.0,White,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Gay (Male),Other,S,S
+2014,County,RI,Rhode Island,2014-04-29,0.0,1.0,1.0,0.0,1.0,Asian,Not Hispanic or Latino,1,Intimidation,1.0,Park or Playground,Anti-Asian,Individual,S,S
+2004,State,GA,Georgia,2004-07-11,0.0,2.0,1.0,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,2,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,S,S
+2006,City,MT,Montana,2006-05-21,1.0,0.0,2.0,1.0,1.0,White,Not Specified,1,Aggravated Assault,1.0,School/College,Anti-Asian,Other,S,S
+2003,County,ND,North Dakota,2003-06-17,2.0,0.0,3.0,2.0,1.0,Black or African American,Not Hispanic or Latino,2,Larceny/Theft,1.0,Hotel/Motel,Anti-Gay (Female),Individual,S,S
+2015,City,NV,Nevada,2015-07-23,1.0,0.0,2.0,1.0,1.0,Asian,Not Specified,1,Simple Assault,1.0,Park or Playground,Anti-Gay (Male),Individual,S,S
+1998,State,IA,Iowa,1998-09-25,0.0,1.0,1.0,0.0,1.0,White,Not Hispanic or Latino,1,Intimidation,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Other,S,S
+1994,City,NM,New Mexico,1994-05-26,1.0,0.0,1.0,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Gay (Male),Individual,S,S
+2013,County,HI,Hawaii,2013-01-27,0.0,2.0,1.0,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,2,Simple Assault,1.0,Park or Playground,Anti-Asian,Individual,S,S
+1999,State,LA,Louisiana,1999-02-04,2.0,0.0,3.0,2.0,1.0,White,Not Specified,2,Vandalism,1.0,Hotel/Motel,Anti-Asian,Individual,S,S
+2008,City,ID,Idaho,2008-03-30,1.0,0.0,2.0,1.0,1.0,Black or African American,Not Hispanic or Latino,1,Aggravated Assault,1.0,School/College,Anti-Asian,Other,S,S
+1999,County,IN,Indiana,1999-09-30,0.0,1.0,1.0,0.0,1.0,Asian,Not Hispanic or Latino,1,Intimidation,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,S,S
+2012,State,WY,Wyoming,2012-01-10,0.0,1.0,1.0,0.0,1.0,White,Not Hispanic or Latino,1,Larceny/Theft,1.0,Park or Playground,Anti-Gay (Female),Individual,S,S
+2004,County,NE,Nebraska,2004-06-05,2.0,0.0,3.0,2.0,1.0,Black or African American,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Gay (Male),Individual,S,S
+2005,City,MD,Maryland,2005-01-15,0.0,1.0,1.0,0.0,1.0,Asian,Not Specified,1,Intimidation,1.0,Hotel/Motel,Anti-Asian,Individual,S,S
+2017,State,MI,Michigan,2017-04-02,1.0,0.0,1.0,1.0,0.0,White,Not Specified,1,Larceny/Theft,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Female),Other,S,S
+1997,County,RI,Rhode Island,1997-07-19,2.0,0.0,3.0,2.0,1.0,Hispanic or Latino,Not Hispanic or Latino,2,Vandalism,1.0,Park or Playground,Anti-Asian,Individual,S,S
+2009,City,KS,Kansas,2009-01-28,1.0,0.0,2.0,1.0,1.0,Black or African American,Not Hispanic or Latino,1,Larceny/Theft,1.0,Hotel/Motel,Anti-Gay (Male),Individual,S,S
+2000,State,UT,Utah,2000-11-16,0.0,1.0,1.0,0.0,1.0,Asian,Not Hispanic or Latino,1,Intimidation,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Other,S,S
+2002,County,OK,Oklahoma,2002-06-03,2.0,0.0,3.0,2.0,1.0,White,Not Specified,2,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Gay (Female),Individual,S,S
+2010,City,WV,West Virginia,2010-09-15,1.0,0.0,2.0,1.0,1.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Park or Playground,Anti-Asian,Individual,S,S

@@ -1,0 +1,38 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2009,City,CA,California,2009-08-22,0,0,1,1,0,Asian,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-Asian,Adolescent,M,M
+2002,Township,WI,Wisconsin,2002-03-11,0,0,1,1,0,Unknown,Unknown,1,Intimidation,1.0,Residence/Apartment,Anti-Hispanic or Latino,Adult,M,M
+2007,County,FL,Florida,2007-10-25,0,0,1,1,0,White,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-White,Adolescent,M,M
+2005,College or University,MI,Michigan,2005-09-15,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-Jewish,Adult,M,M
+2001,State,GA,Georgia,2001-06-16,1,0,1,1,0,White,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-White,Other,F,M
+2008,High School,IL,Illinois,2008-02-21,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-Hispanic or Latino,Adolescent,M,M
+2006,County,OH,Ohio,2006-04-17,1,0,1,1,0,White,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-White,Adult,M,M
+2002,College or University,NC,North Carolina,2002-01-23,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-Jewish,Adult,M,M
+2007,Municipality,MA,Massachusetts,2007-07-12,0,0,1,1,0,White,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-White,Adolescent,F,M
+2009,High School,PA,Pennsylvania,2009-09-17,1,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-Black or African American,Other,M,M
+2002,State,IN,Indiana,2002-11-17,0,0,1,1,0,White,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-White,Adult,M,M
+2001,County,MO,Missouri,2001-08-25,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-Asian,Adolescent,F,M
+2003,College or University,TX,Texas,2003-05-18,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-Hispanic or Latino,Adult,M,M
+2009,High School,SC,South Carolina,2009-02-16,1,0,1,1,0,White,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-White,Other,F,M
+2005,State,WV,West Virginia,2005-10-20,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-Jewish,Adult,M,M
+2008,County,KS,Kansas,2008-06-15,0,0,1,1,0,White,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-White,Adolescent,M,M
+2006,High School,NY,NY,2006-09-14,1,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-Black or African American,Other,F,M
+2003,Township,NJ,New Jersey,2003-04-17,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-Hispanic or Latino,Adult,M,M
+2002,College or University,VT,Vermont,2002-02-15,0,0,1,1,0,White,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-White,Adolescent,M,M
+2007,High School,CA,California,2007-11-16,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-Jewish,Adult,M,M
+2009,Municipality,NC,North Carolina,2009-09-10,0,0,1,1,0,White,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-White,Other,M,M
+2006,County,GA,Georgia,2006-03-19,1,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-Hispanic or Latino,Adult,F,M
+2008,High School,FL,Florida,2008-08-20,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-Black or African American,Adolescent,M,M
+2005,County,AL,Alabama,2005-01-14,0,0,1,1,0,White,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-White,Adult,M,M
+2001,College or University,OR,Oregon,2001-07-23,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-Jewish,Other,Unknown,M
+2004,High School,AZ,Arizona,2004-06-17,1,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-Hispanic or Latino,Adolescent,M,M
+2002,County,WI,Wisconsin,2002-09-18,0,0,1,1,0,White,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-White,Adult,M,M
+2007,Municipality,IL,Illinois,2007-03-13,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-Asian,Other,M,M
+2009,College or University,TX,Texas,2009-01-11,0,0,1,1,0,White,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-White,Adult,M,M
+2006,High School,OH,Ohio,2006-10-19,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-Jewish,Other,F,M
+2003,County,GA,Georgia,2003-08-15,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-Hispanic or Latino,Adult,M,M
+2008,State,IN,Indiana,2008-12-13,0,0,1,1,0,White,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-White,Other,M,M
+2005,High School,SC,South Carolina,2005-04-20,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-Black or African American,Adolescent,M,M
+2002,Township,FL,Florida,2002-02-11,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-Jewish,Adult,M,M
+2007,College or University,MI,Michigan,2007-09-26,0,0,1,1,0,White,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-White,Other,M,M
+2009,High School,CO,Colorado,2009-07-15,1,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-Hispanic or Latino,Adolescent,M,M
+2006,County,NY,NY,2006-01-24,0,0,1,1,0,White,Unknown,1,Simple Assault,1.0,Residence/Apartment,Anti-White,Adult,M,M

@@ -1,0 +1,43 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2004,City,CA,California,1995-11-28,0,0,1,1,0,White/Unknown,Not Specified,1,Larceny/Theft,1.0,General Area,Anti-White or Caucasian,Adult,Other,M
+2013,State/County,IL,Illinois,2001-09-01,1,0,1,1,0,White/Unknown,Not Specified,2,Simple Assault,2.0,General Area,Anti-Asian,Adult,Other,M
+1998,City,TX,Texas,1994-01-04,0,0,1,1,0,Unknown/Unknown,Not Specified,1,Vandalism,1.0,General Area,Anti-Hispanic or Latino,Adult,Other,M
+2002,State/County,GA,Georgia,1998-11-02,1,0,1,1,0,White/Unknown,Not Specified,1,Intimidation,1.0,General Area,Anti-Black or African American,Adult,Other,M
+1996,City,NY,New York,1992-04-29,0,0,1,1,0,Unknown/Unknown,Not Specified,1,Simple Assault,1.0,General Area,Anti-Jewish,Adult,Other,M
+1995,State/County,FL,Florida,1993-03-21,1,0,1,1,0,White/Unknown,Not Specified,1,Vandalism,1.0,General Area,Anti-Hispanic or Latino,Adult,Other,M
+2006,City,MI,Michigan,1999-05-06,0,0,1,1,0,Unknown/Unknown,Not Specified,1,Intimidation,1.0,School/College,Anti-Asian,Adult,Other,M
+1991,City,OH,Ohio,1990-11-19,0,0,1,1,0,Unknown/Unknown,Not Specified,1,Simple Assault,1.0,General Area,Anti-Black or African American,Adult,Other,M
+2008,State/County,NC,North Carolina,2002-06-09,1,0,1,1,0,White/Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,General Area,Anti-White or Caucasian,Adult,Other,M
+2005,City,PA,Pennsylvania,1996-09-10,0,0,1,1,0,Unknown/Unknown,Not Specified,1,Vandalism,1.0,General Area,Anti-Jewish,Adult,Other,M
+1993,State/County,SC,South Carolina,1992-02-22,1,0,1,1,0,White/Unknown,Not Specified,1,Simple Assault,1.0,General Area,Anti-Hispanic or Latino,Adult,Other,M
+2007,City,WA,Washington,2003-07-25,0,0,1,1,0,Unknown/Unknown,Not Specified,1,Vandalism,1.0,General Area,Anti-Asian,Adult,Other,M
+2001,State/County,TN,Tennessee,1997-03-31,1,0,1,1,0,White/Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,General Area,Anti-Black or African American,Adult,Other,M
+2009,City,NV,Nevada,2004-04-17,0,0,1,1,0,Unknown/Unknown,Not Specified,1,Intimidation,1.0,General Area,Anti-Hispanic or Latino,Adult,Other,M
+1999,City,AZ,Arizona,1990-07-23,0,0,1,1,0,White/Unknown,Not Specified,1,Vandalism,1.0,General Area,Anti-Jewish,Adult,Other,M
+2010,State/County,LA,Louisiana,2005-02-06,0,0,1,1,0,Unknown/Unknown,Not Specified,1,Simple Assault,1.0,General Area,Anti-Asian,Adult,Other,M
+2003,City,AL,Alabama,1994-12-10,0,0,1,1,0,Unknown/Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,General Area,Anti-Hispanic or Latino,Adult,Other,M
+2011,State/County,MS,Mississippi,2006-08-29,0,0,1,1,0,White/Unknown,Not Specified,1,Vandalism,1.0,General Area,Anti-Black or African American,Adult,Other,M
+1997,City,CO,Colorado,1993-09-26,0,0,1,1,0,Unknown/Unknown,Not Specified,1,Simple Assault,1.0,General Area,Anti-Asian,Adult,Other,M
+2000,State/County,KY,Kentucky,1995-01-17,0,0,1,1,0,White/Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,General Area,Anti-Jewish,Adult,Other,M
+1994,City,MD,Maryland,1989-07-28,0,0,1,1,0,Unknown/Unknown,Not Specified,1,Vandalism,1.0,General Area,Anti-Hispanic or Latino,Adult,Other,M
+2009,City,UT,Utah,2004-11-07,0,0,1,1,0,Unknown/Unknown,Not Specified,1,Intimidation,1.0,General Area,Anti-Asian,Adult,Other,M
+1992,State/County,WV,West Virginia,1991-09-09,0,0,1,1,0,White/Unknown,Not Specified,1,Simple Assault,1.0,General Area,Anti-Black or African American,Adult,Other,M
+2012,City,OK,Oklahoma,2007-09-24,0,0,1,1,0,Unknown/Unknown,Not Specified,1,Vandalism,1.0,General Area,Anti-Jewish,Adult,Other,M
+1990,City,GA,Georgia,1989-03-05,0,0,1,1,0,White/Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,General Area,Anti-Asian,Adult,Other,M
+2014,State/County,ND,North Dakota,2011-07-20,0,0,1,1,0,White/Unknown,Not Specified,1,Intimidation,1.0,General Area,Anti-Hispanic or Latino,Adult,Other,M
+1998,City,MO,Missouri,1997-04-15,1,0,1,1,0,Unknown/Unknown,Not Specified,1,Simple Assault,1.0,General Area,Anti-Jewish,Adult,Other,M
+2002,State/County,VT,Vermont,1999-06-18,0,0,1,1,0,White/Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,General Area,Anti-Black or African American,Adult,Other,M
+2008,City,NE,Nebraska,2005-09-01,0,0,1,1,0,Unknown/Unknown,Not Specified,1,Intimidation,1.0,General Area,Anti-Asian,Adult,Other,M
+1993,City,KS,Kansas,1992-07-24,0,0,1,1,0,Unknown/Unknown,Not Specified,1,Vandalism,1.0,General Area,Anti-Hispanic or Latino,Adult,Other,M
+1999,City,MN,Minnesota,1998-03-18,0,0,1,1,0,White/Unknown,Not Specified,1,Simple Assault,1.0,General Area,Anti-White or Caucasian,Adult,Other,M
+2001,State/County,AR,Arkansas,1999-08-12,0,0,1,1,0,Unknown/Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,General Area,Anti-Black or African American,Adult,Other,M
+2013,City,ID,Idaho,2009-01-27,0,0,1,1,0,Unknown/Unknown,Not Specified,1,Vandalism,1.0,General Area,Anti-Jewish,Adult,Other,M
+1996,City,CT,Connecticut,1994-09-25,0,0,1,1,0,White/Unknown,Not Specified,1,Simple Assault,1.0,General Area,Anti-Hispanic or Latino,Adult,Other,M
+2004,State/County,RI,Rhode Island,2001-06-19,0,0,1,1,0,White/Unknown,Not Specified,1,Intimidation,1.0,General Area,Anti-Asian,Adult,Other,M
+1995,City,DE,Delaware,1993-04-26,0,0,1,1,0,Unknown/Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,General Area,Anti-Black or African American,Adult,Other,M
+2007,City,ME,Maine,2005-01-18,0,0,1,1,0,Unknown/Unknown,Not Specified,1,Vandalism,1.0,General Area,Anti-Jewish,Adult,Other,M
+2000,State/County,WI,Wisconsin,1996-07-15,0,0,1,1,0,White/Unknown,Not Specified,1,Simple Assault,1.0,General Area,Anti-White or Caucasian,Adult,Other,M
+1992,City,MT,Montana,1991-04-17,0,0,1,1,0,Unknown/Unknown,Not Specified,1,Intimidation,1.0,General Area,Anti-Asian,Adult,Other,M
+2010,City,HI,Hawaii,2006-08-23,0,0,1,1,0,Unknown/Unknown,Not Specified,1,Vandalism,1.0,General Area,Anti-Jewish,Adult,Other,M
+1997,City,SD,South Dakota,1996-03-19,0,0,1,1,0,White/Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,General Area,Anti-Black or African American,Adult,Other,M
+2003,State/County,IN,Indiana,2000-12-18,0,0,1,1,0,White/Unknown,Not Specified,1,Simple Assault,1.0,General Area,Anti-Hispanic or Latino,Adult,Other,M

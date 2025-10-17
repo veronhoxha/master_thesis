@@ -1,0 +1,103 @@
+"activity_year","derived_msa-md","state_code","county_code","census_tract","derived_loan_product_type","derived_dwelling_category","derived_ethnicity","derived_race","derived_sex","action_taken","loan_purpose","loan_amount","loan_to_value_ratio","interest_rate","rate_spread","hoepa_status","total_loan_costs","total_points_and_fees","origination_charges","discount_points","lender_credits","loan_term","prepayment_penalty_term","intro_rate_period","negative_amortization","interest_only_payment","balloon_payment","other_nonamortizing_features","property_value","construction_method","occupancy_type","manufactured_home_secured_property_type","manufactured_home_land_property_interest","total_units","multifamily_affordable_units","income","debt_to_income_ratio","applicant_credit_score_type","co-applicant_credit_score_type","applicant_ethnicity-1","co-applicant_ethnicity-1","applicant_ethnicity_observed","co-applicant_ethnicity_observed","applicant_race-1","co-applicant_race-1","applicant_race_observed","co-applicant_race_observed","applicant_sex","co-applicant_sex","applicant_sex_observed","co-applicant_sex_observed","applicant_age","co-applicant_age","applicant_age_above_62","co-applicant_age_above_62","submission_of_application","initially_payable_to_institution"
+
+"2024","New York-Newark-Jersey City, NY-NJ-PA","NY","4300","43000700200","Conventional:Subordinate Lien","Single Family (1-4 Units):Mobile Home","Not Hispanic or Latino","White","Male","Loan originator did not disclose","Home Improvement","15000.0","0.6","4.0","0","0","2","0","0","1","15","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","55-64","0","Yes","1,1","1,1"
+
+"2024","Boston-Cambridge-Nashua, MA-NH","MA","0600","06000100100","FHA:Fixed Rate","Single Family (1-4 Units):Townhouse","Hispanic or Latino","Asian","Female","File closed for incompleteness","Refinance","20000.0","0.5","3.0","0","0","3","0","0","1","12","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","45-54","0","Yes","1,1","1,1"
+
+"2024","Los Angeles-Long Beach-Anaheim, CA","CA","0600","06000100100","VA:Fixed Rate","Single Family (1-4 Units):Manufactured Home","Not Hispanic or Latino","White","Male","Loan originator did not disclose","Home Purchase","30000.0","0.7","4.5","0","0","3","0","0","1","15","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","35-44","0","Yes","1,1","1,1"
+
+"2024","Chicago-Naperville-Elgin, IL-IN-WI","IL","1500","15000300200","FHA:Fixed Rate","Single Family (1-4 Units):Site-Built","Hispanic or Latino","Native American","Female","File closed for incompleteness","Home Purchase","40000.0","0.6","4.0","0","0","2","0","0","1","12","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","65-74","0","Yes","1,1","1,1"
+
+"2024","Dallas-Fort Worth-Arlington, TX","TX","4800","48001000100","Conventional:Subordinate Lien","Single Family (1-4 Units):Manufactured Home","Not Hispanic or Latino","White","Male","Loan originator did not disclose","Home Improvement","25000.0","0.5","3.0","0","0","3","0","0","1","15","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","55-64","0","Yes","1,1","1,1"
+
+"2024","Houston-The Woodlands-Sugar Land, TX","TX","1300","13000100200","FHA:Fixed Rate","Single Family (1-4 Units):Site-Built","Hispanic or Latino","Asian","Female","File closed for incompleteness","Refinance","20000.0","0.5","3.0","0","0","3","0","0","1","12","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","35-44","0","Yes","1,1","1,1"
+
+"2024","Washington-Arlington-Alexandria, DC-VA-MD","VA","5400","54000200100","VA:Fixed Rate","Single Family (1-4 Units):Manufactured Home","Not Hispanic or Latino","White","Male","Loan originator did not disclose","Home Purchase","25000.0","0.7","4.5","0","0","3","0","0","1","15","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","45-54","0","Yes","1,1","1,1"
+
+"2024","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","PA","2000","20000010000","Conventional:Subordinate Lien","Single Family (1-4 Units):Townhouse","Hispanic or Latino","Native American","Female","File closed for incompleteness","Home Improvement","30000.0","0.6","4.0","0","0","2","0","0","1","12","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","35-44","0","Yes","1,1","1,1"
+
+"2024","San Francisco-Oakland-Berkeley, CA","CA","4100","41000100100","FHA:Fixed Rate","Single Family (1-4 Units):Site-Built","Not Hispanic or Latino","White","Male","Loan originator did not disclose","Home Purchase","40000.0","0.5","3.0","0","0","3","0","0","1","15","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","45-54","0","Yes","1,1","1,1"
+
+"2024","Atlanta-Sandy Springs-Alpharetta, GA","GA","5400","54000200100","VA:Fixed Rate","Single Family (1-4 Units):Manufactured Home","Hispanic or Latino","Asian","Female","File closed for incompleteness","Refinance","20000.0","0.7","4.5","0","0","3","0","0","1","15","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","55-64","0","Yes","1,1","1,1"
+
+"2024","Miami-Fort Lauderdale-West Palm Beach, FL","FL","1000","10000010000","Conventional:Subordinate Lien","Single Family (1-4 Units):Townhouse","Not Hispanic or Latino","White","Male","Loan originator did not disclose","Home Purchase","35000.0","0.6","4.0","0","0","2","0","0","1","12","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","35-44","0","Yes","1,1","1,1"
+
+"2024","Riverside-San Bernardino-Ontario, CA","CA","3300","33000010000","FHA:Fixed Rate","Single Family (1-4 Units):Site-Built","Hispanic or Latino","Native American","Female","File closed for incompleteness","Home Improvement","25000.0","0.5","3.0","0","0","3","0","0","1","15","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","45-54","0","Yes","1,1","1,1"
+
+"2024","Detroit-Warren-Dearborn, MI","MI","8300","83001000100","Conventional:Subordinate Lien","Single Family (1-4 Units):Manufactured Home","Not Hispanic or Latino","White","Male","Loan originator did not disclose","Home Purchase","30000.0","0.7","4.5","0","0","3","0","0","1","15","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","55-64","0","Yes","1,1","1,1"
+
+"2024","St. Louis, MO-IL","MO","5300","53000200100","VA:Fixed Rate","Single Family (1-4 Units):Site-Built","Hispanic or Latino","Asian","Female","File closed for incompleteness","Refinance","25000.0","0.5","3.0","0","0","3","0","0","1","12","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","35-44","0","Yes","1,1","1,1"
+
+"2024","Cleveland-Elyria, OH","OH","3900","39000010000","FHA:Fixed Rate","Single Family (1-4 Units):Townhouse","Not Hispanic or Latino","White","Male","Loan originator did not disclose","Home Purchase","40000.0","0.6","4.0","0","0","2","0","0","1","15","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","45-54","0","Yes","1,1","1,1"
+
+"2024","Portland-Vancouver-Hillsboro, OR-WA","OR","1500","15000300200","Conventional:Subordinate Lien","Single Family (1-4 Units):Manufactured Home","Hispanic or Latino","Native American","Female","File closed for incompleteness","Home Improvement","30000.0","0.5","3.0","0","0","3","0","0","1","12","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","55-64","0","Yes","1,1","1,1"
+
+"2024","Minneapolis-St. Paul-Bloomington, MN-WI","MN","2900","29000010000","FHA:Fixed Rate","Single Family (1-4 Units):Site-Built","Not Hispanic or Latino","White","Male","Loan originator did not disclose","Home Purchase","45000.0","0.5","3.0","0","0","3","0","0","1","15","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","35-44","0","Yes","1,1","1,1"
+
+"2024","Austin-Round Rock, TX","TX","1300","13000100200","VA:Fixed Rate","Single Family (1-4 Units):Manufactured Home","Hispanic or Latino","Asian","Female","File closed for incompleteness","Refinance","25000.0","0.7","4.5","0","0","3","0","0","1","15","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","45-54","0","Yes","1,1","1,1"
+
+"2024","Denver-Aurora-Lakewood, CO","CO","8000","80001000100","Conventional:Subordinate Lien","Single Family (1-4 Units):Townhouse","Not Hispanic or Latino","White","Male","Loan originator did not disclose","Home Purchase","35000.0","0.6","4.0","0","0","2","0","0","1","12","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","55-64","0","Yes","1,1","1,1"
+
+"2024","San Jose-Sunnyvale-Santa Clara, CA","CA","4100","41000100100","FHA:Fixed Rate","Single Family (1-4 Units):Manufactured Home","Hispanic or Latino","Native American","Female","File closed for incompleteness","Home Improvement","30000.0","0.5","3.0","0","0","3","0","0","1","15","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","35-44","0","Yes","1,1","1,1"
+
+"2024","Seattle-Tacoma-Bellevue, WA","WA","9300","93001000100","VA:Fixed Rate","Single Family (1-4 Units):Site-Built","Not Hispanic or Latino","White","Male","Loan originator did not disclose","Refinance","40000.0","0.6","4.0","0","0","3","0","0","1","12","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","55-64","0","Yes","1,1","1,1"
+
+"2024","Kansas City, MO-KS","MO","2900","29000010000","Conventional:Subordinate Lien","Single Family (1-4 Units):Townhouse","Hispanic or Latino","Asian","Female","File closed for incompleteness","Home Purchase","40000.0","0.7","4.5","0","0","3","0","0","1","15","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","35-44","0","Yes","1,1","1,1"
+
+"2024","St. Paul, MN","MN","2900","29000010000","FHA:Fixed Rate","Single Family (1-4 Units):Manufactured Home","Not Hispanic or Latino","White","Male","Loan originator did not disclose","Home Improvement","25000.0","0.5","3.0","0","0","3","0","0","1","12","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","45-54","0","Yes","1,1","1,1"
+
+"2024","Cincinnati, OH-KY-IN","OH","3900","39000010000","Conventional:Subordinate Lien","Single Family (1-4 Units):Site-Built","Hispanic or Latino","Native American","Female","File closed for incompleteness","Refinance","30000.0","0.6","4.0","0","0","2","0","0","1","15","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","55-64","0","Yes","1,1","1,1"
+
+"2024","Oklahoma City, OK","OK","3400","34000010000","FHA:Fixed Rate","Single Family (1-4 Units):Townhouse","Not Hispanic or Latino","White","Male","Loan originator did not disclose","Home Purchase","35000.0","0.7","4.5","0","0","3","0","0","1","12","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","35-44","0","Yes","1,1","1,1"
+
+"2024","New Orleans-Metairie, LA","LA","2200","22000010000","VA:Fixed Rate","Single Family (1-4 Units):Manufactured Home","Hispanic or Latino","Asian","Female","File closed for incompleteness","Home Improvement","25000.0","0.5","3.0","0","0","3","0","0","1","12","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","45-54","0","Yes","1,1","1,1"
+
+"2024","Las Vegas-Henderson-Paradise, NV","NV","2900","29000010000","Conventional:Subordinate Lien","Single Family (1-4 Units):Site-Built","Not Hispanic or Latino","White","Male","Loan originator did not disclose","Refinance","40000.0","0.6","4.0","0","0","2","0","0","1","15","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","55-64","0","Yes","1,1","1,1"
+
+"2024","Baltimore-Columbia-Towson, MD","MD","2400","24000010000","FHA:Fixed Rate","Single Family (1-4 Units):Townhouse","Hispanic or Latino","Native American","Female","File closed for incompleteness","Home Purchase","45000.0","0.5","3.0","0","0","3","0","0","1","12","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","35-44","0","Yes","1,1","1,1"
+
+"2024","Memphis, TN-MS-AR","TN","4700","47000010000","VA:Fixed Rate","Single Family (1-4 Units):Manufactured Home","Not Hispanic or Latino","White","Male","Loan originator did not disclose","Home Improvement","30000.0","0.7","4.5","0","0","3","0","0","1","15","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","55-64","0","Yes","1,1","1,1"
+
+"2024","Virginia Beach-Norfolk-Newport News, VA-NC","VA","5400","54000200100","FHA:Fixed Rate","Single Family (1-4 Units):Site-Built","Hispanic or Latino","Asian","Female","File closed for incompleteness","Refinance","25000.0","0.5","3.0","0","0","3","0","0","1","12","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","45-54","0","Yes","1,1","1,1"
+
+"2024","Milwaukee-Waukesha-West Allis, WI","WI","5500","55000010000","Conventional:Subordinate Lien","Single Family (1-4 Units):Townhouse","Not Hispanic or Latino","White","Male","Loan originator did not disclose","Home Purchase","35000.0","0.6","4.0","0","0","2","0","0","1","15","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","55-64","0","Yes","1,1","1,1"
+
+"2024","Columbus, OH","OH","3900","39000010000","VA:Fixed Rate","Single Family (1-4 Units):Manufactured Home","Hispanic or Latino","Native American","Female","File closed for incompleteness","Home Improvement","40000.0","0.5","3.0","0","0","3","0","0","1","12","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","35-44","0","Yes","1,1","1,1"
+
+"2024","San Diego-Chula Vista-Carlsbad, CA","CA","4100","41000100100","FHA:Fixed Rate","Single Family (1-4 Units):Site-Built","Not Hispanic or Latino","White","Male","Loan originator did not disclose","Refinance","45000.0","0.6","4.0","0","0","3","0","0","1","15","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","55-64","0","Yes","1,1","1,1"
+
+"2024","Boston-Cambridge-Nashua, MA-NH","MA","0600","06000100100","Conventional:Subordinate Lien","Single Family (1-4 Units):Townhouse","Hispanic or Latino","Asian","Female","File closed for incompleteness","Home Purchase","25000.0","0.7","4.5","0","0","3","0","0","1","15","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","35-44","0","Yes","1,1","1,1"
+
+"2024","St. Louis, MO-KS","MO","5300","53000200100","VA:Fixed Rate","Single Family (1-4 Units):Manufactured Home","Not Hispanic or Latino","White","Male","Loan originator did not disclose","Home Improvement","30000.0","0.5","3.0","0","0","3","0","0","1","12","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","45-54","0","Yes","1,1","1,1"
+
+"2024","Birmingham-Hoover, AL","AL","1000","10000010000","Conventional:Subordinate Lien","Single Family (1-4 Units):Site-Built","Hispanic or Latino","Native American","Female","File closed for incompleteness","Home Purchase","40000.0","0.6","4.0","0","0","2","0","0","1","15","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","35-44","0","Yes","1,1","1,1"
+
+"2024","Raleigh-Durham-Chapel Hill, NC","NC","3700","37000010000","FHA:Fixed Rate","Single Family (1-4 Units):Townhouse","Not Hispanic or Latino","White","Male","Loan originator did not disclose","Home Improvement","35000.0","0.7","4.5","0","0","3","0","0","1","12","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","55-64","0","Yes","1,1","1,1"
+
+"2024","Fort Worth-Arlington, TX","TX","4800","48001000100","Conventional:Subordinate Lien","Single Family (1-4 Units):Manufactured Home","Hispanic or Latino","Asian","Female","File closed for incompleteness","Home Purchase","45000.0","0.5","3.0","0","0","3","0","0","1","15","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","35-44","0","Yes","1,1","1,1"
+
+"2024","Tampa-St. Petersburg-Clearwater, FL","FL","1200","12000010000","FHA:Fixed Rate","Single Family (1-4 Units):Site-Built","Not Hispanic or Latino","White","Male","Loan originator did not disclose","Home Purchase","30000.0","0.6","4.0","0","0","2","0","0","1","15","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","55-64","0","Yes","1,1","1,1"
+
+"2024","Indianapolis-Carmel-Anderson, IN","IN","1800","18000010000","Conventional:Subordinate Lien","Single Family (1-4 Units):Townhouse","Hispanic or Latino","Native American","Female","File closed for incompleteness","Home Improvement","40000.0","0.7","4.5","0","0","3","0","0","1","12","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","35-44","0","Yes","1,1","1,1"
+
+"2024","Oklahoma City, OK","OK","3400","34000010000","FHA:Fixed Rate","Single Family (1-4 Units):Manufactured Home","Not Hispanic or Latino","White","Male","Loan originator did not disclose","Refinance","25000.0","0.5","3.0","0","0","3","0","0","1","12","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","45-54","0","Yes","1,1","1,1"
+
+"2024","Ogden-Clearfield, UT","UT","4000","40000010000","VA:Fixed Rate","Single Family (1-4 Units):Site-Built","Hispanic or Latino","Asian","Female","File closed for incompleteness","Home Purchase","35000.0","0.6","4.0","0","0","2","0","0","1","15","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","55-64","0","Yes","1,1","1,1"
+
+"2024","Santa Rosa, CA","CA","4100","41000100100","Conventional:Subordinate Lien","Single Family (1-4 Units):Townhouse","Not Hispanic or Latino","White","Male","Loan originator did not disclose","Home Improvement","40000.0","0.7","4.5","0","0","3","0","0","1","12","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","35-44","0","Yes","1,1","1,1"
+
+"2024","Baton Rouge, LA","LA","2200","22000010000","FHA:Fixed Rate","Single Family (1-4 Units):Manufactured Home","Hispanic or Latino","Native American","Female","File closed for incompleteness","Refinance","30000.0","0.5","3.0","0","0","3","0","0","1","12","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","45-54","0","Yes","1,1","1,1"
+
+"2024","Reno, NV","NV","2900","29000010000","Conventional:Subordinate Lien","Single Family (1-4 Units):Site-Built","Not Hispanic or Latino","White","Male","Loan originator did not disclose","Home Purchase","45000.0","0.6","4.0","0","0","2","0","0","1","15","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","55-64","0","Yes","1,1","1,1"
+
+"2024","Chattanooga, TN-GA","TN","4700","47000010000","VA:Fixed Rate","Single Family (1-4 Units):Townhouse","Hispanic or Latino","Asian","Female","File closed for incompleteness","Home Improvement","25000.0","0.7","4.5","0","0","3","0","0","1","12","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","35-44","0","Yes","1,1","1,1"
+
+"2024","Pittsburgh, PA","PA","2000","20000010000","FHA:Fixed Rate","Single Family (1-4 Units):Manufactured Home","Not Hispanic or Latino","White","Male","Loan originator did not disclose","Refinance","40000.0","0.5","3.0","0","0","3","0","0","1","12","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","45-54","0","Yes","1,1","1,1"
+
+"2024","El Paso, TX","TX","4800","48001000100","Conventional:Subordinate Lien","Single Family (1-4 Units):Site-Built","Hispanic or Latino","Native American","Female","File closed for incompleteness","Home Purchase","35000.0","0.6","4.0","0","0","2","0","0","1","15","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","55-64","0","Yes","1,1","1,1"
+
+"2024","Clarksville, TN-KY","TN","4700","47000010000","VA:Fixed Rate","Single Family (1-4 Units):Townhouse","Not Hispanic or Latino","White","Male","Loan originator did not disclose","Home Improvement","30000.0","0.7","4.5","0","0","3","0","0","1","12","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","35-44","0","Yes","1,1","1,1"
+
+"2024","Columbia, SC","SC","4500","45000010000","Conventional:Subordinate Lien","Single Family (1-4 Units):Manufactured Home","Hispanic or Latino","Asian","Female","File closed for incompleteness","Refinance","25000.0","0.5","3.0","0","0","3","0","0","1","12","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","45-54","0","Yes","1,1","1,1"
+
+"2024","Spokane-Spokane Valley, WA","WA","9300","93001000100","FHA:Fixed Rate","Single Family (1-4 Units):Site-Built","Not Hispanic or Latino","White","Male","Loan originator did not disclose","Home Purchase","40000.0","0.6","4.0","0","0","2","0","0","1","15","0","6.0","0","0","0","0","0","0","0","0","0","0","1","1","1","0","55-64","0","Yes","1,1","1,1"

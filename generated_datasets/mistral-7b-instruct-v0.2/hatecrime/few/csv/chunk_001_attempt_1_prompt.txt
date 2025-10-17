@@ -1,0 +1,18 @@
+Generate 20 rows of realistic hatecrime data in CSV format.
+
+DOMAIN: FBI Hate Crime Statistics
+TIME PERIOD: 1991-2014
+REQUIRED COLUMNS (in this exact order): data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+
+INSTRUCTIONS:
+1. Output ONLY the CSV data with NO explanations or commentary
+2. Start with the header row containing the exact column names above
+3. Then provide exactly 20 data rows
+4. Use realistic, varied data appropriate for the time period
+5. DO NOT include markdown code blocks or formatting
+
+EXAMPLE FORMAT:
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2004,City,NJ,New Jersey,2004-05-13,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Newark,Religion,Male,False,False
+
+Now generate the data:

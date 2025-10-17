@@ -1,0 +1,37 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2004,City,CA,California,2004-03-22,0,0,1,1,0,White,Unknown,1,Simple Assault,1.0,Street/H highway/Service Road,Anti-Jewish,Individual,1,M
+2004,City,FL,Florida,2004-05-11,1,0,2,2,0,Hispanic or Latino,Unknown,2,Law Enforcement Officer-Related,2.0,Street/H highway/Service Road,Anti-Black or African American,Other,1,M
+2007,County,GA,Georgia,2007-06-18,0,0,0,0,0,Unknown,Unknown,1,Vandalism,0.0,Residence,Anti-White,Other,1,S
+2004,Township,NY,New York,2004-09-02,0,0,1,1,0,Unknown,Unknown,1,Intimidation,1.0,Street/H highway/Service Road,Anti-Sikh,Individual,1,M
+2005,City,IL,Illinois,2005-01-14,0,0,1,1,0,Black or African American,Unknown,1,Simple Assault,1.0,Street/H highway/Service Road,Anti-Asian,Other,1,M
+2005,City,IL,Illinois,2005-02-15,1,0,2,2,0,Hispanic or Latino,Unknown,2,Hate Crime Against Individuals,2.0,Street/H highway/Service Road,Anti-Hispanic or Latino,Other,1,M
+2009,County,MI,Michigan,2009-03-15,0,0,1,1,0,Asian,Unknown,1,Intimidation,1.0,Street/H highway/Service Road,Anti-Gay/Lesbian/Bi/Transgender,Individual,1,M
+2007,City,MO,Missouri,2007-04-13,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Street/H highway/Service Road,Anti-Christian,Other,1,M
+2003,City,NC,North Carolina,2003-07-17,0,0,0,0,0,Unknown,Unknown,1,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-Lesbian,Other,1,S
+2003,City,NC,North Carolina,2003-09-03,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Street/H highway/Service Road,Anti-Hindu,Individual,1,M
+2004,City,NJ,New Jersey,2004-04-21,0,0,0,0,0,Unknown,Unknown,1,Vandalism,0.0,Street/H highway/Service Road,Anti-Police,Other,1,M
+2009,City,NM,New Mexico,2009-01-09,0,0,1,1,0,Native American,Unknown,1,Intimidation,1.0,Street/H highway/Service Road,Anti-Individual Male,Other,1,M
+2008,County,NY,New York,2008-06-15,1,0,2,2,0,Hispanic or Latino,Unknown,2,Law Enforcement Officer-Related,2.0,Street/H highway/Service Road,Anti-Black or African American,Other,1,M
+2003,City,OH,Ohio,2003-02-14,0,0,0,0,0,Unknown,Unknown,1,Simple Assault,1.0,Street/H highway/Service Road,Anti-Roma/Sinti,Other,1,M
+2006,City,OK,Oklahoma,2006-10-06,0,0,1,1,0,Unknown,Unknown,1,Intimidation,1.0,Street/H highway/Service Road,Anti-Individual Male,Other,1,M
+2003,City,OK,Oklahoma,2003-08-18,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Street/H highway/Service Road,Anti-Gay/Lesbian/Bi/Transgender,Other,1,M
+2008,City,OR,Oregon,2008-07-13,0,0,0,0,0,Unknown,Unknown,1,Destruction/Damage/Vandalism of Property,0.0,Street/H highway/Service Road,Anti-Lesbian,Other,1,M
+2003,City,PA,Pennsylvania,2003-03-03,0,0,0,0,0,Unknown,Unknown,1,Simple Assault,1.0,Street/H highway/Service Road,Anti-Police,Other,1,M
+2007,City,SC,South Carolina,2007-09-02,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Street/H highway/Service Road,Anti-Arab,Other,1,M
+2009,City,TN,Tennessee,2009-05-09,0,0,0,0,0,Unknown,Unknown,1,Vandalism,0.0,Street/H highway/Service Road,Anti-Christian,Other,1,M
+2008,City,TX,Texas,2008-01-19,0,0,1,1,0,Unknown,Unknown,1,Intimidation,1.0,Street/H highway/Service Road,Anti-Asian,Individual,1,M
+2006,City,UT,Utah,2006-03-15,0,0,0,0,0,Unknown,Unknown,1,Simple Assault,1.0,Street/H highway/Service Road,Anti-Individual Male,Other,1,M
+2005,City,VA,Virginia,2005-04-19,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Street/H highway/Service Road,Anti-White,Other,1,M
+2003,City,WI,Wisconsin,2003-11-04,1,0,2,2,0,Hispanic or Latino,Unknown,2,Simple Assault,2.0,Street/H highway/Service Road,Anti-Black or African American,Other,1,M
+2009,City,WV,West Virginia,2009-02-07,0,0,1,1,0,Black or African American,Unknown,1,Simple Assault,1.0,Street/H highway/Service Road,Anti-Individual Male,Other,1,M
+2008,City,WY,Wyoming,2008-10-08,0,0,1,1,0,Unknown,Unknown,1,Intimidation,1.0,Street/H highway/Service Road,Anti-Hindu,Individual,1,M
+2006,City,WY,Wyoming,2006-09-11,0,0,0,0,0,Unknown,Unknown,1,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-Police,Other,1,S
+2006,City,CA,California,2006-08-18,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Street/H highway/Service Road,Anti-Christian,Other,1,M
+2005,City,CA,California,2005-01-21,0,0,0,0,0,Unknown,Unknown,1,Simple Assault,1.0,Street/H highway/Service Road,Anti-Lesbian,Other,1,M
+2007,City,FL,Florida,2007-01-09,0,0,1,1,0,Black or African American,Unknown,1,Intimidation,1.0,Street/H highway/Service Road,Anti-Asian,Individual,1,M
+2005,City,FL,Florida,2005-09-29,0,0,1,1,0,White,Unknown,1,Simple Assault,1.0,Street/H highway/Service Road,Anti-Individual Male,Other,1,M
+2007,City,GA,Georgia,2007-08-01,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Street/H highway/Service Road,Anti-Police,Other,1,M
+2008,City,IA,Iowa,2008-06-14,0,0,0,0,0,Unknown,Unknown,1,Destruction/Damage/Vandalism of Property,0.0,Street/H highway/Service Road,Anti-White,Other,1,M
+2005,City,ID,Idaho,2005-02-26,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Street/H highway/Service Road,Anti-Individual Male,Other,1,M
+2006,City,IL,Illinois,2006-05-28,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Street/H highway/Service Road,Anti-Hindu,Individual,1,M
+2008,City,IL,Illinois,2008-03-05,0,0,0,0,0,Unknown,Unknown,1,Simple Assault,1.0,Street/H highway/Service Road,Anti-Lesbian,Other,1,M

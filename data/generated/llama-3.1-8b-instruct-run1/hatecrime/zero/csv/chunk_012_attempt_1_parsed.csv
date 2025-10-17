@@ -1,0 +1,65 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+,State,,California,1991-01-01,1,0,1,1,0,White,Not Hispanic,1,Anti-Gay,1,Park or Playground,Homosexual Orientation,Adult or Youth,No,No
+,State,,New York,1991-01-15,0,1,1,0,1,Asian,Not Hispanic,1,Anti-Jewish,1,Residence or Home,Anti-Semitic,Adult or Youth,Yes,Yes
+,State,,Florida,1992-02-01,1,0,2,1,1,Hispanic,Hispanic,2,Anti-Homosexual,2,Business,Homosexual Orientation,Adult or Youth,Yes,No
+,State,,Texas,1992-03-01,0,1,1,0,1,Black,Not Hispanic,1,Anti-Racial,1,Public Place,Biological or Physical,Adult or Youth,No,No
+,State,,California,1992-04-01,1,0,1,1,0,White,Not Hispanic,1,Anti-Racial,1,Residence or Home,Biological or Physical,Adult or Youth,No,No
+,State,,Illinois,1992-05-01,0,1,1,0,1,Asian,Not Hispanic,1,Anti-Religious,1,Public Place,Anti-Christian,Adult or Youth,Yes,No
+,State,,Michigan,1992-06-01,1,0,2,1,1,Hispanic,Hispanic,2,Anti-Gay,2,Residence or Home,Homosexual Orientation,Adult or Youth,Yes,No
+,State,,New York,1992-07-01,0,1,1,0,1,White,Not Hispanic,1,Anti-Racial,1,Park or Playground,Biological or Physical,Adult or Youth,No,No
+,Federal,,Nevada,1993-01-01,1,0,1,1,0,Asian,Not Hispanic,1,Anti-Gay,1,Public Place,Homosexual Orientation,Adult or Youth,No,No
+,State,,Ohio,1993-02-01,0,1,1,0,1,Black,Not Hispanic,1,Anti-Racial,1,Residence or Home,Biological or Physical,Adult or Youth,Yes,No
+,State,,Pennsylvania,1993-03-01,1,0,2,1,1,Hispanic,Hispanic,2,Anti-Homosexual,2,Business,Homosexual Orientation,Adult or Youth,Yes,No
+,State,,Georgia,1993-04-01,0,1,1,0,1,White,Not Hispanic,1,Anti-Racial,1,Public Place,Biological or Physical,Adult or Youth,No,No
+,State,,Wisconsin,1993-05-01,1,0,1,1,0,Asian,Not Hispanic,1,Anti-Religious,1,Park or Playground,Anti-Christian,Adult or Youth,No,No
+,State,,New Jersey,1993-06-01,0,1,1,0,1,Hispanic,Hispanic,1,Anti-Gay,1,Residence or Home,Homosexual Orientation,Adult or Youth,Yes,No
+,State,,Alabama,1993-07-01,1,0,2,1,1,Black,Not Hispanic,2,Anti-Homosexual,2,Business,Homosexual Orientation,Adult or Youth,Yes,No
+,Federal,,Indiana,1994-01-01,0,1,1,0,1,White,Not Hispanic,1,Anti-Racial,1,Public Place,Biological or Physical,Adult or Youth,No,No
+,State,,Tennessee,1994-02-01,1,0,1,1,0,Asian,Not Hispanic,1,Anti-Religious,1,Residence or Home,Anti-Christian,Adult or Youth,No,No
+,State,,Missouri,1994-03-01,0,1,1,0,1,Hispanic,Hispanic,1,Anti-Racial,1,Park or Playground,Biological or Physical,Adult or Youth,Yes,No
+,State,,North Carolina,1994-04-01,1,0,2,1,1,Black,Not Hispanic,2,Anti-Gay,2,Business,Homosexual Orientation,Adult or Youth,Yes,No
+,State,,Oregon,1994-05-01,0,1,1,0,1,White,Not Hispanic,1,Anti-Homosexual,1,Public Place,Homosexual Orientation,Adult or Youth,No,No
+,State,,Colorado,1994-06-01,1,0,1,1,0,Asian,Not Hispanic,1,Anti-Racial,1,Residence or Home,Biological or Physical,Adult or Youth,No,No
+,State,,South Carolina,1994-07-01,0,1,1,0,1,Hispanic,Hispanic,1,Anti-Religious,1,Park or Playground,Anti-Christian,Adult or Youth,Yes,No
+,Federal,,Arizona,1995-01-01,1,0,2,1,1,Black,Not Hispanic,2,Anti-Gay,2,Business,Homosexual Orientation,Adult or Youth,Yes,No
+,State,,Kentucky,1995-02-01,0,1,1,0,1,White,Not Hispanic,1,Anti-Racial,1,Public Place,Biological or Physical,Adult or Youth,No,No
+,State,,Louisiana,1995-03-01,1,0,1,1,0,Asian,Not Hispanic,1,Anti-Homosexual,1,Residence or Home,Homosexual Orientation,Adult or Youth,No,No
+,State,,West Virginia,1995-04-01,0,1,1,0,1,Hispanic,Hispanic,1,Anti-Racial,1,Park or Playground,Biological or Physical,Adult or Youth,Yes,No
+,State,,Virginia,1995-05-01,1,0,2,1,1,Black,Not Hispanic,2,Anti-Religious,2,Business,Anti-Christian,Adult or Youth,Yes,No
+,State,,Maryland,1995-06-01,0,1,1,0,1,White,Not Hispanic,1,Anti-Gay,1,Public Place,Homosexual Orientation,Adult or Youth,No,No
+,State,,New Mexico,1995-07-01,1,0,1,1,0,Asian,Not Hispanic,1,Anti-Racial,1,Residence or Home,Biological or Physical,Adult or Youth,No,No
+,Federal,,Delaware,1996-01-01,0,1,1,0,1,Hispanic,Hispanic,1,Anti-Homosexual,1,Park or Playground,Homosexual Orientation,Adult or Youth,Yes,No
+,State,,Connecticut,1996-02-01,1,0,2,1,1,Black,Not Hispanic,2,Anti-Religious,2,Business,Anti-Christian,Adult or Youth,Yes,No
+,State,,Idaho,1996-03-01,0,1,1,0,1,White,Not Hispanic,1,Anti-Racial,1,Public Place,Biological or Physical,Adult or Youth,No,No
+,State,,Nebraska,1996-04-01,1,0,1,1,0,Asian,Not Hispanic,1,Anti-Gay,1,Residence or Home,Homosexual Orientation,Adult or Youth,No,No
+,State,,Maine,1996-05-01,0,1,1,0,1,Hispanic,Hispanic,1,Anti-Racial,1,Park or Playground,Biological or Physical,Adult or Youth,Yes,No
+,State,,Montana,1996-06-01,1,0,2,1,1,Black,Not Hispanic,2,Anti-Religious,2,Business,Anti-Christian,Adult or Youth,Yes,No
+,State,,Rhode Island,1996-07-01,0,1,1,0,1,White,Not Hispanic,1,Anti-Gay,1,Public Place,Homosexual Orientation,Adult or Youth,No,No
+,Federal,,Utah,1997-01-01,1,0,1,1,0,Asian,Not Hispanic,1,Anti-Racial,1,Residence or Home,Biological or Physical,Adult or Youth,No,No
+,State,,New Hampshire,1997-02-01,0,1,1,0,1,Hispanic,Hispanic,1,Anti-Homosexual,1,Park or Playground,Homosexual Orientation,Adult or Youth,Yes,No
+,State,,Vermont,1997-03-01,1,0,2,1,1,Black,Not Hispanic,2,Anti-Religious,2,Business,Anti-Christian,Adult or Youth,Yes,No
+,State,,Wyoming,1997-04-01,0,1,1,0,1,White,Not Hispanic,1,Anti-Racial,1,Public Place,Biological or Physical,Adult or Youth,No,No
+,State,,District of Columbia,1997-05-01,1,0,1,1,0,Asian,Not Hispanic,1,Anti-Gay,1,Residence or Home,Homosexual Orientation,Adult or Youth,No,No
+,State,,Alaska,1997-06-01,0,1,1,0,1,Hispanic,Hispanic,1,Anti-Racial,1,Park or Playground,Biological or Physical,Adult or Youth,Yes,No
+,State,,Oklahoma,1997-07-01,1,0,2,1,1,Black,Not Hispanic,2,Anti-Religious,2,Business,Anti-Christian,Adult or Youth,Yes,No
+,Federal,,Oregon,1998-01-01,0,1,1,0,1,White,Not Hispanic,1,Anti-Homosexual,1,Public Place,Homosexual Orientation,Adult or Youth,No,No
+,State,,Washington,1998-02-01,1,0,2,1,1,Asian,Not Hispanic,2,Anti-Racial,2,Residence or Home,Biological or Physical,Adult or Youth,Yes,No
+,State,,Minnesota,1998-03-01,0,1,1,0,1,Hispanic,Hispanic,1,Anti-Religious,1,Park or Playground,Anti-Christian,Adult or Youth,Yes,No
+,State,,Kansas,1998-04-01,1,0,1,1,0,Black,Not Hispanic,1,Anti-Gay,1,Business,Homosexual Orientation,Adult or Youth,No,No
+,State,,Iowa,1998-05-01,0,1,1,0,1,White,Not Hispanic,1,Anti-Racial,1,Public Place,Biological or Physical,Adult or Youth,No,No
+,State,,Mississippi,1998-06-01,1,0,2,1,1,Asian,Not Hispanic,2,Anti-Religious,2,Residence or Home,Anti-Christian,Adult or Youth,Yes,No
+,State,,Arkansas,1998-07-01,0,1,1,0,1,Hispanic,Hispanic,1,Anti-Gay,1,Park or Playground,Homosexual Orientation,Adult or Youth,Yes,No
+,Federal,,Wisconsin,1999-01-01,1,0,1,1,0,Asian,Not Hispanic,1,Anti-Racial,1,Residence or Home,Biological or Physical,Adult or Youth,No,No
+,State,,Michigan,1999-02-01,0,1,1,0,1,White,Not Hispanic,1,Anti-Homosexual,1,Public Place,Homosexual Orientation,Adult or Youth,No,No
+,State,,Maine,1999-03-01,1,0,2,1,1,Black,Not Hispanic,2,Anti-Religious,2,Business,Anti-Christian,Adult or Youth,Yes,No
+,State,,Oklahoma,1999-04-01,0,1,1,0,1,Hispanic,Hispanic,1,Anti-Racial,1,Park or Playground,Biological or Physical,Adult or Youth,Yes,No
+,State,,South Carolina,1999-05-01,1,0,1,1,0,Asian,Not Hispanic,1,Anti-Gay,1,Residence or Home,Homosexual Orientation,Adult or Youth,No,No
+,State,,Nevada,1999-06-01,0,1,1,0,1,White,Not Hispanic,1,Anti-Homosexual,1,Public Place,Homosexual Orientation,Adult or Youth,No,No
+,State,,Louisiana,1999-07-01,1,0,2,1,1,Black,Not Hispanic,2,Anti-Religious,2,Business,Anti-Christian,Adult or Youth,Yes,No
+,Federal,,West Virginia,2000-01-01,0,1,1,0,1,Hispanic,Hispanic,1,Anti-Racial,1,Park or Playground,Biological or Physical,Adult or Youth,Yes,No
+,State,,Kentucky,2000-02-01,1,0,1,1,0,Asian,Not Hispanic,1,Anti-Gay,1,Residence or Home,Homosexual Orientation,Adult or Youth,No,No
+,State,,Delaware,2000-03-01,0,1,1,0,1,White,Not Hispanic,1,Anti-Homosexual,1,Public Place,Homosexual Orientation,Adult or Youth,No,No
+,State,,Montana,2000-04-01,1,0,2,1,1,Black,Not Hispanic,2,Anti-Religious,2,Business,Anti-Christian,Adult or Youth,Yes,No
+,State,,New Hampshire,2000-05-01,0,1,1,0,1,Hispanic,Hispanic,1,Anti-Racial,1,Park or Playground,Biological or Physical,Adult or Youth,Yes,No
+,State,,Maryland,2000-06-01,1,0,1,1,0,Asian,Not Hispanic,1,Anti-Gay,1,Residence or Home,Homosexual Orientation,Adult or Youth,No,No
+,State,,Alaska,2000-07-01,0,1,1,0,1,White,Not Hispanic,1,Anti-Homosexual,1,Public Place,Homosexual Orientation,Adult or Youth,No,No

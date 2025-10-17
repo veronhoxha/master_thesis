@@ -1,0 +1,61 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+,,,Alabama,1995-01-01,1,0,1,1,0,W,H,1,Anti-Religious,1,,Religious Bias,Adult,Yes,No
+,,,Alaska,1995-02-01,0,1,1,0,1,A,W,1,Anti-Government,1,,Racial Bias,Juvenile,Yes,No
+,,,Arizona,1995-03-01,1,0,2,1,1,B,H,2,Anti-Race,2,,Racial Bias,Adult/Juvenile,Yes,Yes
+,,,Arkansas,1995-04-01,0,1,1,0,1,A,W,1,Anti-Religious,1,,Religious Bias,Juvenile,Yes,No
+,,,California,1995-05-01,2,0,3,2,1,W/H,B,3,Anti-Gender,3,,Sexual Orientation Bias,Adult,Yes,No
+,,,Colorado,1995-06-01,1,0,1,1,0,A,W,1,Anti-Race,1,,Racial Bias,Adult,Yes,No
+,,,Connecticut,1995-07-01,0,1,1,0,1,B,H,1,Anti-Gender,1,,Sexual Orientation Bias,Juvenile,Yes,No
+,,,Delaware,1995-08-01,1,0,2,1,1,W,H,2,Anti-Government,2,,Racial Bias,Adult/Juvenile,Yes,Yes
+,,,Florida,1995-09-01,3,0,4,3,1,W/H/B,H,4,Anti-Religious,4,,Religious Bias,Adult,Yes,No
+,,,Georgia,1995-10-01,0,1,1,0,1,A,W,1,Anti-Race,1,,Racial Bias,Juvenile,Yes,No
+,,,Hawaii,1995-11-01,1,0,2,1,1,B,H,2,Anti-Government,2,,Racial Bias,Adult/Juvenile,Yes,Yes
+,,,Idaho,1995-12-01,0,1,1,0,1,A,W,1,Anti-Religious,1,,Religious Bias,Juvenile,Yes,No
+,,,Illinois,1998-01-01,2,0,3,2,1,W/H,B,3,Anti-Gender,3,,Sexual Orientation Bias,Adult,Yes,No
+,,,Indiana,1998-02-01,1,0,1,1,0,A,W,1,Anti-Race,1,,Racial Bias,Adult,Yes,No
+,,,Iowa,1998-03-01,0,1,1,0,1,B,H,1,Anti-Government,1,,Racial Bias,Juvenile,Yes,No
+,,,Kansas,1998-04-01,1,0,2,1,1,W,H,2,Anti-Religious,2,,Religious Bias,Adult/Juvenile,Yes,Yes
+,,,Kentucky,1998-05-01,3,0,4,3,1,W/H/B,H,4,Anti-Government,4,,Racial Bias,Adult,Yes,No
+,,,Louisiana,1998-06-01,0,1,1,0,1,A,W,1,Anti-Race,1,,Racial Bias,Juvenile,Yes,No
+,,,Maine,1998-07-01,1,0,1,1,0,B,H,1,Anti-Gender,1,,Sexual Orientation Bias,Adult,Yes,No
+,,,Maryland,1998-08-01,2,0,3,2,1,W/H,B,3,Anti-Religious,3,,Religious Bias,Adult,Yes,No
+,,,Massachusetts,1998-09-01,1,0,2,1,1,A,W,2,Anti-Government,2,,Racial Bias,Adult/Juvenile,Yes,Yes
+,,,Michigan,1998-10-01,0,1,1,0,1,B,H,1,Anti-Race,1,,Racial Bias,Juvenile,Yes,No
+,,,Minnesota,1998-11-01,1,0,1,1,0,W,H,1,Anti-Gender,1,,Sexual Orientation Bias,Adult,Yes,No
+,,,Mississippi,1998-12-01,0,1,1,0,1,A,W,1,Anti-Religious,1,,Racial Bias,Juvenile,Yes,No
+,,,Missouri,2001-01-01,2,0,3,2,1,W/H,B,3,Anti-Gender,3,,Sexual Orientation Bias,Adult,Yes,No
+,,,Montana,2001-02-01,1,0,1,1,0,A,W,1,Anti-Race,1,,Racial Bias,Adult,Yes,No
+,,,Nebraska,2001-03-01,0,1,1,0,1,B,H,1,Anti-Government,1,,Racial Bias,Juvenile,Yes,No
+,,,Nevada,2001-04-01,1,0,2,1,1,W,H,2,Anti-Religious,2,,Religious Bias,Adult/Juvenile,Yes,Yes
+,,,New Hampshire,2001-05-01,3,0,4,3,1,W/H/B,H,4,Anti-Government,4,,Racial Bias,Adult,Yes,No
+,,,New Jersey,2001-06-01,0,1,1,0,1,A,W,1,Anti-Race,1,,Racial Bias,Juvenile,Yes,No
+,,,New Mexico,2001-07-01,1,0,1,1,0,B,H,1,Anti-Gender,1,,Sexual Orientation Bias,Adult,Yes,No
+,,,New York,2001-08-01,2,0,3,2,1,W/H,B,3,Anti-Religious,3,,Religious Bias,Adult,Yes,No
+,,,North Carolina,2001-09-01,1,0,2,1,1,A,W,2,Anti-Government,2,,Racial Bias,Adult/Juvenile,Yes,Yes
+,,,North Dakota,2001-10-01,0,1,1,0,1,B,H,1,Anti-Race,1,,Racial Bias,Juvenile,Yes,No
+,,,Ohio,2001-11-01,1,0,1,1,0,W,H,1,Anti-Gender,1,,Sexual Orientation Bias,Adult,Yes,No
+,,,Oklahoma,2001-12-01,0,1,1,0,1,A,W,1,Anti-Religious,1,,Racial Bias,Juvenile,Yes,No
+,,,Oregon,2004-01-01,2,0,3,2,1,W/H,B,3,Anti-Gender,3,,Sexual Orientation Bias,Adult,Yes,No
+,,,Pennsylvania,2004-02-01,1,0,1,1,0,A,W,1,Anti-Race,1,,Racial Bias,Adult,Yes,No
+,,,Rhode Island,2004-03-01,0,1,1,0,1,B,H,1,Anti-Government,1,,Racial Bias,Juvenile,Yes,No
+,,,South Carolina,2004-04-01,1,0,2,1,1,W,H,2,Anti-Religious,2,,Religious Bias,Adult/Juvenile,Yes,Yes
+,,,South Dakota,2004-05-01,3,0,4,3,1,W/H/B,H,4,Anti-Government,4,,Racial Bias,Adult,Yes,No
+,,,Tennessee,2004-06-01,0,1,1,0,1,A,W,1,Anti-Race,1,,Racial Bias,Juvenile,Yes,No
+,,,Texas,2004-07-01,1,0,1,1,0,B,H,1,Anti-Gender,1,,Sexual Orientation Bias,Adult,Yes,No
+,,,Utah,2004-08-01,2,0,3,2,1,W/H,B,3,Anti-Religious,3,,Religious Bias,Adult,Yes,No
+,,,Vermont,2004-09-01,1,0,2,1,1,A,W,2,Anti-Government,2,,Racial Bias,Adult/Juvenile,Yes,Yes
+,,,Virginia,2004-10-01,0,1,1,0,1,B,H,1,Anti-Race,1,,Racial Bias,Juvenile,Yes,No
+,,,Washington,2004-11-01,1,0,1,1,0,W,H,1,Anti-Gender,1,,Sexual Orientation Bias,Adult,Yes,No
+,,,West Virginia,2004-12-01,0,1,1,0,1,A,W,1,Anti-Religious,1,,Racial Bias,Juvenile,Yes,No
+,,,Wisconsin,2007-01-01,2,0,3,2,1,W/H,B,3,Anti-Gender,3,,Sexual Orientation Bias,Adult,Yes,No
+,,,Wyoming,2007-02-01,1,0,1,1,0,A,W,1,Anti-Race,1,,Racial Bias,Adult,Yes,No
+,,,Alabama,2007-03-01,0,1,1,0,1,B,H,1,Anti-Government,1,,Racial Bias,Juvenile,Yes,No
+,,,Alaska,2007-04-01,1,0,2,1,1,W,H,2,Anti-Religious,2,,Religious Bias,Adult/Juvenile,Yes,Yes
+,,,Arizona,2007-05-01,3,0,4,3,1,W/H/B,H,4,Anti-Government,4,,Racial Bias,Adult,Yes,No
+,,,Arkansas,2007-06-01,0,1,1,0,1,A,W,1,Anti-Race,1,,Racial Bias,Juvenile,Yes,No
+,,,California,2007-07-01,1,0,1,1,0,B,H,1,Anti-Gender,1,,Sexual Orientation Bias,Adult,Yes,No
+,,,Colorado,2007-08-01,2,0,3,2,1,W/H,B,3,Anti-Religious,3,,Religious Bias,Adult,Yes,No
+,,,Connecticut,2007-09-01,1,0,2,1,1,A,W,2,Anti-Government,2,,Racial Bias,Adult/Juvenile,Yes,Yes
+,,,Delaware,2007-10-01,0,1,1,0,1,B,H,1,Anti-Race,1,,Racial Bias,Juvenile,Yes,No
+,,,Florida,2007-11-01,1,0,1,1,0,W,H,1,Anti-Gender,1,,Sexual Orientation Bias,Adult,Yes,No
+,,,Georgia,2007-12-01,0,1,1,0,1,A,W,1,Anti-Religious,1,,Racial Bias,Juvenile,Yes,No

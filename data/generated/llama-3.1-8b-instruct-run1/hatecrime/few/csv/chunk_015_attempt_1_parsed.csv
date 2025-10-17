@@ -1,0 +1,47 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2007,Other,FL,Florida,2007-02-15,0.0,1.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Hate Crime,1.0,Church/Synagogue/Other Place of Worship,Anti-Male,Other,T,S
+2012,City,GA,Georgia,2012-03-21,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Intimidation,1.0,Residence/Home,Unknown,Unknown,Individual,S
+1995,State,NC,North Carolina,1995-01-28,1.0,0.0,2,1.0,1.0,Black or African American,Not Hispanic or Latino,2,Larceny/Theft,2.0,Hotel/Motel,Unknown,Unknown,Individual,S
+2020,Other,MA,Massachusetts,2020-09-16,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,College/University,Unknown,Unknown,Individual,S
+1993,City,IL,Illinois,1993-08-03,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Aggravated Assault,1.0,Street/Highway/Service Road,Unknown,Unknown,Individual,S
+2015,Other,IN,Indiana,2015-01-22,0.0,1.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Air/Bus/Train Terminal,Anti-Female,Other,T,S
+1996,State,OH,Ohio,1996-04-18,2.0,0.0,1,2.0,0.0,White,Not Hispanic or Latino,1,Hate Crime,1.0,Residence/Home,Unknown,Unknown,Individual,S
+2010,City,MO,Missouri,2010-05-15,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Unknown,Unknown,Individual,S
+1998,Other,TX,Texas,1998-06-02,0.0,1.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Hotel/Motel,Unknown,Unknown,Individual,S
+2008,City,SC,South Carolina,2008-09-13,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Larceny/Theft,1.0,Street/Highway/Service Road,Unknown,Unknown,Individual,S
+2003,State,WI,Wisconsin,2003-07-10,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Hate Crime,1.0,Residence/Home,Unknown,Unknown,Individual,S
+2005,Other,NY,New York,2005-04-12,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,College/University,Anti-White,Other,T,S
+2002,State,FL,Florida,2002-01-15,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Intimidation,1.0,Highway/Road/Alley/Street/Sidewalk,Unknown,Unknown,Individual,S
+2014,City,MI,Michigan,2014-02-23,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Hotel/Motel,Unknown,Unknown,Individual,S
+2006,State,TN,Tennessee,2006-03-14,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Aggravated Assault,1.0,Street/Highway/Service Road,Unknown,Unknown,Individual,S
+2001,Other,GA,Georgia,2001-09-08,0.0,1.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Air/Bus/Train Terminal,Unknown,Unknown,Individual,S
+2009,City,NJ,New Jersey,2009-04-13,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Larceny/Theft,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Other,T,S
+2013,Other,CO,Colorado,2013-05-01,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Hate Crime,1.0,Residence/Home,Unknown,Unknown,Individual,S
+1992,City,PA,Pennsylvania,1992-02-14,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Vandalism,1.0,Hotel/Motel,Unknown,Unknown,Individual,S
+2004,State,MD,Maryland,2004-05-28,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Highway/Service Road,Unknown,Unknown,Individual,S
+1999,Other,IL,Illinois,1999-08-16,0.0,1.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,College/University,Unknown,Unknown,Individual,S
+2018,City,OR,Oregon,2018-03-23,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Larceny/Theft,1.0,Hotel/Motel,Anti-Asian,Other,T,S
+2000,City,CT,Connecticut,2000-11-19,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Aggravated Assault,1.0,Street/Highway/Service Road,Unknown,Unknown,Individual,S
+1994,State,MI,Michigan,1994-03-16,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Hate Crime,1.0,Hotel/Motel,Unknown,Unknown,Individual,S
+2009,Other,NC,North Carolina,2009-10-14,0.0,1.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Intimidation,1.0,College/University,Unknown,Unknown,Individual,S
+2017,City,CA,California,2017-08-15,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Larceny/Theft,1.0,Hotel/Motel,Unknown,Unknown,Individual,S
+2005,State,UT,Utah,2005-03-06,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Hate Crime,1.0,Street/Highway/Service Road,Unknown,Unknown,Individual,S
+2011,City,AR,Arkansas,2011-07-05,0.0,1.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Intimidation,1.0,Hotel/Motel,Unknown,Unknown,Individual,S
+2016,City,WY,Wyoming,2016-11-14,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Aggravated Assault,1.0,College/University,Unknown,Unknown,Individual,S
+2000,Other,VA,Virginia,2000-07-13,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Hate Crime,1.0,Residence/Home,Anti-White,Other,T,S
+1993,City,OH,Ohio,1993-09-09,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Vandalism,1.0,Highway/Road/Alley/Street/Sidewalk,Unknown,Unknown,Individual,S
+2019,City,NV,Nevada,2019-12-14,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Hotel/Motel,Unknown,Unknown,Individual,S
+2008,State,LA,Louisiana,2008-10-07,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Larceny/Theft,1.0,College/University,Anti-Asian,Other,T,S
+2006,Other,AK,Alaska,2006-02-19,0.0,1.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Highway/Road/Alley/Street/Sidewalk,Unknown,Unknown,Individual,S
+2010,State,TX,Texas,2010-08-14,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Aggravated Assault,1.0,Hotel/Motel,Unknown,Unknown,Individual,S
+2003,Other,IN,Indiana,2003-03-31,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Hate Crime,1.0,Street/Highway/Service Road,Unknown,Unknown,Individual,S
+2004,City,OK,Oklahoma,2004-01-09,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,College/University,Unknown,Unknown,Individual,S
+2013,State,IA,Iowa,2013-10-09,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Larceny/Theft,1.0,Hotel/Motel,Anti-Female,Other,T,S
+1997,Other,PA,Pennsylvania,1997-03-29,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Hate Crime,1.0,Street/Highway/Service Road,Unknown,Unknown,Individual,S
+1999,City,GA,Georgia,1999-06-23,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Aggravated Assault,1.0,Hotel/Motel,Unknown,Unknown,Individual,S
+2011,State,MI,Michigan,2011-06-07,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Highway/Service Road,Unknown,Unknown,Individual,S
+2014,Other,WI,Wisconsin,2014-08-19,0.0,1.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Intimidation,1.0,College/University,Unknown,Unknown,Individual,S
+2005,State,MO,Missouri,2005-11-01,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Larceny/Theft,1.0,Residence/Home,Unknown,Unknown,Individual,S
+2002,Other,SC,South Carolina,2002-09-16,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Hate Crime,1.0,Hotel/Motel,Unknown,Unknown,Individual,S
+1994,State,NC,North Carolina,1994-02-18,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Vandalism,1.0,Residence/Home,Unknown,Unknown,Individual,S
+2001,City,VT,Vermont,2001-04-22,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Aggravated Assault,1.0,Street/Highway/Service Road,Unknown,Unknown,Individual,S

@@ -1,0 +1,84 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,Local,CA,California,1991-01-01,1,0,1,1,0,White,Non-Hispanic,1,Anti-Religious,1,Residence,Anti-Religious,Adult,No,No
+1991,State,TX,Texas,1991-06-15,0,1,1,0,1,Asian,Hispanic,1,Anti-Disability,1,School,Anti-Disability,Juvenile,No,No
+1992,Federal,FL,Florida,1992-03-20,1,0,2,1,1,Black,Non-Hispanic,2,Anti-Gender Identity,2,Park,Anti-Gender Identity,Adult,No,No
+1992,Local,NY,New York,1992-08-25,0,1,1,0,1,Hispanic,Non-Hispanic,1,Anti-Religious,1,Place of Worship,Anti-Religious,Juvenile,No,No
+1993,State,IL,Illinois,1993-01-10,0,0,1,0,1,White,Non-Hispanic,1,Anti-Racial/Ethnic,1,Business,Anti-Racial/Ethnic,Adult,No,No
+1993,Federal,GA,Georgia,1993-04-01,1,0,2,1,1,Asian,Non-Hispanic,2,Anti-Government,2,Road/Highway,Anti-Government,Adult,No,No
+1993,Local,OH,Ohio,1993-07-25,0,1,1,0,1,Black,Hispanic,1,Anti-Disability,1,Residence,Anti-Disability,Juvenile,No,No
+1993,State,MI,Michigan,1993-10-15,1,0,2,1,1,White,Hispanic,2,Anti-Racial/Ethnic,2,Business,Anti-Racial/Ethnic,Adult,No,No
+1994,Federal,WA,Washington,1994-01-20,0,1,1,0,1,Black,Non-Hispanic,1,Anti-Gender Identity,1,School,Anti-Gender Identity,Juvenile,No,No
+1994,Local,NC,North Carolina,1994-03-01,1,0,1,1,0,Asian,Non-Hispanic,1,Anti-Religious,1,Residence,Anti-Religious,Adult,No,No
+1994,State,AZ,Arizona,1994-05-25,0,0,1,0,1,Hispanic,Non-Hispanic,1,Anti-Disability,1,Business,Anti-Disability,Adult,No,No
+1994,Federal,VT,Vermont,1994-08-10,1,0,1,1,0,White,Hispanic,1,Anti-Racial/Ethnic,1,Park,Anti-Racial/Ethnic,Adult,No,No
+1994,Local,NJ,New Jersey,1994-11-01,0,1,1,0,1,Asian,Non-Hispanic,1,Anti-Government,1,Residence,Anti-Government,Juvenile,No,No
+1995,State,TN,Tennessee,1995-01-15,1,0,2,1,1,Black,Hispanic,2,Anti-Religious,2,Business,Anti-Religious,Adult,No,No
+1995,Federal,KS,Kansas,1995-03-20,0,1,1,0,1,White,Non-Hispanic,1,Anti-Disability,1,School,Anti-Disability,Juvenile,No,No
+1995,Local,SC,South Carolina,1995-06-01,0,0,1,0,1,Hispanic,Non-Hispanic,1,Anti-Racial/Ethnic,1,Residence,Anti-Racial/Ethnic,Adult,No,No
+1995,State,OK,Oklahoma,1995-08-25,1,0,1,1,0,Asian,Non-Hispanic,1,Anti-Government,1,Park,Anti-Government,Adult,No,No
+1995,Federal,NE,Nebraska,1995-10-10,0,1,1,0,1,Black,Hispanic,1,Anti-Disability,1,Business,Anti-Disability,Juvenile,No,No
+1996,Local,MA,Massachusetts,1996-01-01,1,0,2,1,1,White,Non-Hispanic,2,Anti-Racial/Ethnic,2,Residence,Anti-Racial/Ethnic,Adult,No,No
+1996,State,MO,Missouri,1996-03-15,0,1,1,0,1,Asian,Non-Hispanic,1,Anti-Government,1,School,Anti-Government,Juvenile,No,No
+1996,Federal,IN,Indiana,1996-06-20,1,0,1,1,0,Hispanic,Non-Hispanic,1,Anti-Disability,1,Park,Anti-Disability,Adult,No,No
+1996,Local,KY,Kentucky,1996-09-01,0,0,1,0,1,Black,Non-Hispanic,1,Anti-Racial/Ethnic,1,Business,Anti-Racial/Ethnic,Adult,No,No
+1996,State,IA,Iowa,1996-11-15,1,0,2,1,1,White,Hispanic,2,Anti-Gender Identity,2,Residence,Anti-Gender Identity,Adult,No,No
+1997,Federal,WV,West Virginia,1997-01-10,0,1,1,0,1,Asian,Non-Hispanic,1,Anti-Disability,1,School,Anti-Disability,Juvenile,No,No
+1997,Local,LA,Louisiana,1997-03-25,1,0,1,1,0,Hispanic,Non-Hispanic,1,Anti-Racial/Ethnic,1,Park,Anti-Racial/Ethnic,Adult,No,No
+1997,State,UT,Utah,1997-06-01,0,0,1,0,1,Black,Non-Hispanic,1,Anti-Religious,1,Residence,Anti-Religious,Adult,No,No
+1997,Federal,NV,Nevada,1997-08-15,1,0,2,1,1,White,Hispanic,2,Anti-Racial/Ethnic,2,Business,Anti-Racial/Ethnic,Adult,No,No
+1997,Local,WI,Wisconsin,1997-10-25,0,1,1,0,1,Asian,Non-Hispanic,1,Anti-Government,1,School,Anti-Government,Juvenile,No,No
+1998,State,AR,Arkansas,1998-01-01,1,0,1,1,0,Hispanic,Non-Hispanic,1,Anti-Disability,1,Park,Anti-Disability,Adult,No,No
+1998,Federal,DE,Delaware,1998-03-20,0,0,1,0,1,Black,Non-Hispanic,1,Anti-Racial/Ethnic,1,Residence,Anti-Racial/Ethnic,Adult,No,No
+1998,Local,OR,Oregon,1998-06-10,1,0,2,1,1,White,Hispanic,2,Anti-Gender Identity,2,Business,Anti-Gender Identity,Adult,No,No
+1998,State,MS,Mississippi,1998-08-25,0,1,1,0,1,Asian,Non-Hispanic,1,Anti-Religious,1,School,Anti-Religious,Juvenile,No,No
+1998,Federal,MT,Montana,1998-10-01,1,0,1,1,0,Hispanic,Non-Hispanic,1,Anti-Racial/Ethnic,1,Park,Anti-Racial/Ethnic,Adult,No,No
+1999,Local,GA,Georgia,1999-01-15,0,0,1,0,1,Black,Non-Hispanic,1,Anti-Disability,1,Residence,Anti-Disability,Adult,No,No
+1999,State,NV,Nevada,1999-03-20,1,0,2,1,1,White,Hispanic,2,Anti-Gender Identity,2,Business,Anti-Gender Identity,Adult,No,No
+1999,Federal,ID,Idaho,1999-06-25,0,1,1,0,1,Asian,Non-Hispanic,1,Anti-Religious,1,School,Anti-Religious,Juvenile,No,No
+1999,Local,CT,Connecticut,1999-09-01,1,0,1,1,0,Hispanic,Non-Hispanic,1,Anti-Racial/Ethnic,1,Park,Anti-Racial/Ethnic,Adult,No,No
+1999,State,AL,Alabama,1999-11-15,0,0,1,0,1,Black,Non-Hispanic,1,Anti-Disability,1,Business,Anti-Disability,Adult,No,No
+2000,Federal,ME,Maine,2000-01-10,1,0,1,1,0,White,Hispanic,1,Anti-Racial/Ethnic,1,Park,Anti-Racial/Ethnic,Adult,No,No
+2000,Local,MN,Minnesota,2000-03-20,0,1,1,0,1,Asian,Non-Hispanic,1,Anti-Religious,1,School,Anti-Religious,Juvenile,No,No
+2000,State,SD,South Dakota,2000-06-25,1,0,2,1,1,Hispanic,Non-Hispanic,2,Anti-Gender Identity,2,Business,Anti-Gender Identity,Adult,No,No
+2000,Federal,RI,Rhode Island,2000-09-01,0,0,1,0,1,Black,Non-Hispanic,1,Anti-Disability,1,Residence,Anti-Disability,Adult,No,No
+2000,Local,ND,North Dakota,2000-11-15,1,0,1,1,0,Asian,Non-Hispanic,1,Anti-Racial/Ethnic,1,Park,Anti-Racial/Ethnic,Adult,No,No
+2001,State,WY,Wyoming,2001-01-01,0,1,1,0,1,White,Hispanic,1,Anti-Religious,1,School,Anti-Religious,Juvenile,No,No
+2001,Federal,HI,Hawaii,2001-03-20,1,0,2,1,1,Hispanic,Non-Hispanic,2,Anti-Gender Identity,2,Business,Anti-Gender Identity,Adult,No,No
+2001,Local,VT,Vermont,2001-06-25,0,0,1,0,1,Black,Non-Hispanic,1,Anti-Disability,1,Residence,Anti-Disability,Adult,No,No
+2001,State,AK,Alaska,2001-09-01,1,0,1,1,0,Asian,Non-Hispanic,1,Anti-Racial/Ethnic,1,Park,Anti-Racial/Ethnic,Adult,No,No
+2001,Federal,MD,Maryland,2001-11-15,0,1,1,0,1,White,Hispanic,1,Anti-Religious,1,School,Anti-Religious,Juvenile,No,No
+2002,Local,PA,Pennsylvania,2002-01-10,1,0,2,1,1,Hispanic,Non-Hispanic,2,Anti-Gender Identity,2,Business,Anti-Gender Identity,Adult,No,No
+2002,State,CO,Colorado,2002-03-20,0,0,1,0,1,Black,Non-Hispanic,1,Anti-Disability,1,Residence,Anti-Disability,Adult,No,No
+2002,Federal,NV,Nevada,2002-06-25,1,0,1,1,0,Asian,Non-Hispanic,1,Anti-Racial/Ethnic,1,Park,Anti-Racial/Ethnic,Adult,No,No
+2002,Local,NM,New Mexico,2002-09-01,0,1,1,0,1,White,Hispanic,1,Anti-Religious,1,School,Anti-Religious,Juvenile,No,No
+2002,State,HI,Hawaii,2002-11-15,1,0,2,1,1,Hispanic,Non-Hispanic,2,Anti-Gender Identity,2,Business,Anti-Gender Identity,Adult,No,No
+2003,Federal,UT,Utah,2003-01-01,0,0,1,0,1,Black,Non-Hispanic,1,Anti-Disability,1,Residence,Anti-Disability,Adult,No,No
+2003,Local,OK,Oklahoma,2003-03-20,1,0,1,1,0,White,Hispanic,1,Anti-Racial/Ethnic,1,Park,Anti-Racial/Ethnic,Adult,No,No
+2003,State,WY,Wyoming,2003-06-25,0,1,1,0,1,Asian,Non-Hispanic,1,Anti-Religious,1,School,Anti-Religious,Juvenile,No,No
+2003,Federal,ME,Maine,2003-09-01,1,0,2,1,1,Hispanic,Non-Hispanic,2,Anti-Gender Identity,2,Business,Anti-Gender Identity,Adult,No,No
+2003,Local,MS,Mississippi,2003-11-15,0,0,1,0,1,White,Hispanic,1,Anti-Disability,1,Residence,Anti-Disability,Adult,No,No
+2004,State,ND,North Dakota,2004-01-01,1,0,1,1,0,Asian,Non-Hispanic,1,Anti-Racial/Ethnic,1,Park,Anti-Racial/Ethnic,Adult,No,No
+2004,Federal,GA,Georgia,2004-03-20,0,1,1,0,1,Black,Non-Hispanic,1,Anti-Religious,1,School,Anti-Religious,Juvenile,No,No
+2004,Local,AZ,Arizona,2004-06-25,1,0,2,1,1,Hispanic,Non-Hispanic,2,Anti-Gender Identity,2,Business,Anti-Gender Identity,Adult,No,No
+2004,State,VT,Vermont,2004-09-01,0,0,1,0,1,White,Hispanic,1,Anti-Disability,1,Residence,Anti-Disability,Adult,No,No
+2004,Federal,NE,Nebraska,2004-11-15,1,0,1,1,0,Asian,Non-Hispanic,1,Anti-Racial/Ethnic,1,Park,Anti-Racial/Ethnic,Adult,No,No
+2005,Local,LA,Louisiana,2005-01-10,0,1,1,0,1,Black,Non-Hispanic,1,Anti-Religious,1,School,Anti-Religious,Juvenile,No,No
+2005,State,WV,West Virginia,2005-03-20,1,0,2,1,1,Hispanic,Non-Hispanic,2,Anti-Gender Identity,2,Business,Anti-Gender Identity,Adult,No,No
+2005,Federal,DE,Delaware,2005-06-25,0,0,1,0,1,White,Hispanic,1,Anti-Disability,1,Residence,Anti-Disability,Adult,No,No
+2005,Local,TN,Tennessee,2005-09-01,1,0,1,1,0,Asian,Non-Hispanic,1,Anti-Racial/Ethnic,1,Park,Anti-Racial/Ethnic,Adult,No,No
+2005,State,KY,Kentucky,2005-11-15,0,1,1,0,1,Black,Non-Hispanic,1,Anti-Religious,1,School,Anti-Religious,Juvenile,No,No
+2006,Federal,NH,New Hampshire,2006-01-01,1,0,1,1,0,White,Hispanic,1,Anti-Racial/Ethnic,1,Park,Anti-Racial/Ethnic,Adult,No,No
+2006,Local,SC,South Carolina,2006-03-20,0,0,1,0,1,Asian,Non-Hispanic,1,Anti-Disability,1,Residence,Anti-Disability,Adult,No,No
+2006,State,AK,Alaska,2006-06-25,1,0,2,1,1,Hispanic,Non-Hispanic,2,Anti-Gender Identity,2,Business,Anti-Gender Identity,Adult,No,No
+2006,Federal,RI,Rhode Island,2006-09-01,0,1,1,0,1,Black,Non-Hispanic,1,Anti-Religious,1,School,Anti-Religious,Juvenile,No,No
+2006,Local,MI,Michigan,2006-11-15,1,0,1,1,0,White,Hispanic,1,Anti-Racial/Ethnic,1,Park,Anti-Racial/Ethnic,Adult,No,No
+2007,State,NC,North Carolina,2007-01-01,0,1,1,0,1,Asian,Non-Hispanic,1,Anti-Disability,1,Residence,Anti-Disability,Juvenile,No,No
+2007,Federal,WV,West Virginia,2007-03-20,1,0,2,1,1,Hispanic,Non-Hispanic,2,Anti-Gender Identity,2,Business,Anti-Gender Identity,Adult,No,No
+2007,Local,UT,Utah,2007-06-25,0,0,1,0,1,Black,Non-Hispanic,1,Anti-Religious,1,School,Anti-Religious,Adult,No,No
+2007,State,ME,Maine,2007-09-01,1,0,1,1,0,White,Hispanic,1,Anti-Racial/Ethnic,1,Park,Anti-Racial/Ethnic,Adult,No,No
+2007,Federal,AR,Arkansas,2007-11-15,0,1,1,0,1,Asian,Non-Hispanic,1,Anti-Religious,1,School,Anti-Religious,Juvenile,No,No
+2008,Local,IN,Indiana,2008-01-10,1,0,1,1,0,Hispanic,Non-Hispanic,1,Anti-Racial/Ethnic,1,Park,Anti-Racial/Ethnic,Adult,No,No
+2008,State,SC,South Carolina,2008-03-20,0,0,1,0,1,Black,Non-Hispanic,1,Anti-Disability,1,Residence,Anti-Disability,Adult,No,No
+2008,Federal,SD,South Dakota,2008-06-25,1,0,2,1,1,White,Hispanic,2,Anti-Gender Identity,2,Business,Anti-Gender Identity,Adult,No,No
+2008,Local,KY,Kentucky,2008-09-01,0,1,1,0,1,Asian,Non-Hispanic,1,Anti-Religious,1,School,Anti-Religious,Juvenile,No,No
+2008,State,HI,Hawaii,2008-11-15,1,0,1,1,0,Hispanic,Non-Hispanic,1,Anti-Racial/Ethnic,1,Park,Anti-Racial/Ethnic,Adult,No,No

@@ -1,0 +1,43 @@
+"2009,State,CA,California,2009-03-20,0,0,2,2,0,White,Not Hispanic or Latino,2,Hate Crime Against People With Disabilities,2.0,Retail Store,Disability-Related,Other,M,M
+2010,Local,FL,Florida,2010-09-01,1,0,1,1,0,Unknown,Not Specified,1,Simple Assault,1.0,Residence,Sexual Orientation,Other,F,M
+1995,City,IL,Illinois,1995-02-14,0,0,1,1,0,Asian,Native Hawaiian or Other Pacific Islander,1,Intimidation,1.0,Office/Commercial Building,Anti-Asian,Other,M,M
+2001,City,NY,New York,2001-11-19,1,0,0,0,0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,School/College,Anti-Black or African American,Other,F,M
+2008,Local,MI,Michigan,2008-04-10,0,0,1,1,0,White,Not Hispanic or Latino,1,Vandalism,1.0,Place of Worship,Anti-White,Other,M,M
+2013,State,NC,North Carolina,2013-07-27,0,0,1,1,0,Unknown,Not Specified,1,Hate Crime Against People With Disabilities,1.0,Mall/Shopping Center,Disability-Related,Other,F,M
+2006,City,TX,Texas,2006-01-01,1,0,1,1,0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Residence,Anti-Hispanic,Other,M,M
+1998,State,VT,Vermont,1998-09-12,0,0,0,0,0,Unknown,Not Specified,0,Hate Crime Against People With Disabilities,0.0,Office/Commercial Building,Disability-Related,Other,F,M
+2012,Local,GA,Georgia,2012-03-15,0,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,School/College,Anti-White,Other,F,M
+2007,City,OH,Ohio,2007-05-25,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Mall/Shopping Center,Anti-Black or African American,Other,M,M
+1997,City,NJ,New Jersey,1997-10-31,0,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Office/Commercial Building,Anti-White,Other,M,M
+2011,Local,IN,Indiana,2011-08-22,0,0,1,1,0,Unknown,Not Specified,1,Vandalism,1.0,School/College,Anti-Other,Other,F,M
+2005,City,PA,Pennsylvania,2005-06-14,0,0,1,1,0,Hispanic or Latino,Not Hispanic or Latino,1,Intimidation,1.0,Residence,Anti-Hispanic,Other,M,M
+2002,City,CA,California,2002-01-15,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Office/Commercial Building,Anti-White,Other,F,M
+2014,State,WI,Wisconsin,2014-01-17,0,0,0,0,0,Black or African American,Not Hispanic or Latino,0,Hate Crime Against People With Disabilities,0.0,School/College,Disability-Related,Other,M,M
+2003,City,MA,Massachusetts,2003-08-24,0,0,1,1,0,Unknown,Not Specified,1,Simple Assault,1.0,Office/Commercial Building,Anti-Other,Other,F,M
+1999,Local,CT,Connecticut,1999-05-01,0,0,1,1,0,White,Not Hispanic or Latino,1,Vandalism,1.0,Residence,Anti-White,Other,M,M
+2000,State,SC,South Carolina,2000-02-04,0,0,1,1,0,Unknown,Not Specified,1,Intimidation,1.0,School/College,Anti-Other,Other,M,M
+1994,City,MI,Michigan,1994-09-22,1,0,1,1,0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Office/Commercial Building,Anti-Hispanic,Other,M,M
+1996,City,NY,New York,1996-06-19,0,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Residence,Anti-White,Other,M,M
+1992,City,IL,Illinois,1992-02-14,0,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Office/Commercial Building,Anti-Black or African American,Other,M,M
+2004,City,CO,Colorado,2004-09-01,0,0,1,1,0,Unknown,Not Specified,1,Intimidation,1.0,Office/Commercial Building,Anti-Other,Other,F,M
+1993,City,MD,Maryland,1993-05-23,1,0,0,0,0,Hispanic or Latino,Not Hispanic or Latino,1,Hate Crime Against People With Disabilities,1.0,Residence,Anti-Hispanic,Other,M,M
+2010,State,NC,North Carolina,2010-01-04,0,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Vandalism,1.0,School/College,Anti-Black or African American,Other,F,M
+1991,City,PA,Pennsylvania,1991-03-17,0,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Office/Commercial Building,Anti-White,Other,M,M
+2002,City,NY,New York,2002-06-15,0,0,1,1,0,Unknown,Not Specified,1,Simple Assault,1.0,Office/Commercial Building,Anti-Other,Other,M,M
+2009,Local,OH,Ohio,2009-02-02,0,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Office/Commercial Building,Anti-White,Other,M,M
+1992,City,CA,California,1992-10-14,0,0,1,1,0,Unknown,Not Specified,1,Intimidation,1.0,School/College,Anti-Other,Other,M,M
+2007,City,FL,Florida,2007-09-12,0,0,1,1,0,Unknown,Not Specified,1,Vandalism,1.0,Office/Commercial Building,Anti-Other,Other,M,M
+2005,City,NJ,New Jersey,2005-11-01,0,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Office/Commercial Building,Anti-Black or African American,Other,M,M
+1996,City,IL,Illinois,1996-02-27,1,0,1,1,0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Office/Commercial Building,Anti-Hispanic,Other,M,M
+2003,City,GA,Georgia,2003-10-20,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Office/Commercial Building,Anti-White,Other,M,M
+2008,City,MI,Michigan,2008-07-02,0,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Vandalism,1.0,Residence,Anti-Black or African American,Other,F,M
+2013,Local,CA,California,2013-06-23,0,0,1,1,0,Hispanic or Latino,Not Hispanic or Latino,1,Intimidation,1.0,Office/Commercial Building,Anti-Hispanic,Other,F,M
+2006,City,IN,Indiana,2006-03-14,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,School/College,Anti-White,Other,M,M
+1999,City,MA,Massachusetts,1999-01-25,0,0,1,1,0,Unknown,Not Specified,1,Vandalism,1.0,School/College,Anti-Other,Other,M,M
+2002,City,FL,Florida,2002-05-15,0,0,1,1,0,Unknown,Not Specified,1,Simple Assault,1.0,Office/Commercial Building,Anti-Other,Other,M,M
+2011,Local,WA,Washington,2011-10-03,0,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Office/Commercial Building,Anti-White,Other,M,M
+2014,State,GA,Georgia,2014-02-11,0,0,0,0,0,Black or African American,Not Hispanic or Latino,0,Hate Crime Against People With Disabilities,0.0,Office/Commercial Building,Disability-Related,Other,M,M
+2001,City,NC,North Carolina,2001-03-17,1,0,1,1,0,Hispanic or Latino,Not Hispanic or Latino,1,Intimidation,1.0,Office/Commercial Building,Anti-Hispanic,Other,M,M
+2009,State,AL,Alabama,2009-11-28,0,0,1,1,0,Unknown,Not Specified,1,Simple Assault,1.0,Office/Commercial Building,Anti-Other,Other,F,M
+1995,City,CO,Colorado,1995-04-15,0,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Office/Commercial Building,Anti-Black or African American,Other,M,M
+1998,City,IL,Illinois,1998-03-01,0,0,1,1,0,Hispanic or Latino,Not Hispanic or Latino,1,Vandalism,1.0,Office/Commercial Building,Anti-Hispanic,Other,M,M"

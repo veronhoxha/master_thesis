@@ -1,0 +1,40 @@
+"2002,City,NY,New York,1996-03-16,2,0,1,2,0,White,White,2,Murder,2.0,Street,Anti-Asian,Asian,Other,S
+2002,Municipality,CA,California,1996-05-31,1,0,1,1,0,White,White,1,Vandalism,1.0,Residence,Anti-Hispanic,Hispanic or Latino,Other,S
+2002,Township,NJ,New Jersey,1996-07-19,0,1,1,1,0,Unknown,Unknown,1,Aggravated Assault,1.0,School/College,Anti-Jewish,Other,S
+2002,Shire,MA,Massachusetts,1996-09-24,1,0,1,1,0,White,White,2,Destruction/Damage/Vandalism of Property,2.0,Residence,Anti-African American,Black or African American,Other,S
+2002,County,PA,Pennsylvania,1996-11-16,2,0,1,2,0,White,White,2,Intimidation,2.0,Street,Anti-Lesbian, Gay or Bisexual,Other,S
+2002,Village,FL,Florida,1997-01-21,1,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residence,Anti-Asian,Asian,Other,S
+2002,Municipality,HI,Hawaii,1997-03-22,1,0,1,1,0,White,White,1,Robbery,1.0,Residence,Anti-Hispanic,Hispanic or Latino,Other,S
+2002,City,IL,Illinois,1997-05-27,1,0,1,1,0,Unknown,Unknown,1,Other,1.0,Street,Anti-Jewish,Other,S
+2002,Township,MD,Maryland,1997-07-26,0,1,1,0,1,Unknown,Unknown,1,Simple Assault,1.0,Residence,Anti-White,White,Other,S
+2002,County,NC,North Carolina,1997-09-14,1,0,1,1,0,Unknown,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-Asian,Asian,Other,S
+2002,Village,SC,South Carolina,1998-01-21,1,0,1,1,0,White,White,1,Intimidation,1.0,Street,Anti-Hispanic,Hispanic or Latino,Other,S
+2002,Shire,VT,Vermont,1998-03-13,2,0,1,2,0,Unknown,Unknown,2,Aggravated Assault,2.0,Street,Anti-White,White,Other,S
+2002,Municipality,CO,Colorado,1998-05-16,1,0,1,1,0,Unknown,Unknown,1,Murder,1.0,Residence,Anti-Jewish,Other,S
+2002,Township,MI,Michigan,1998-07-18,0,1,1,0,1,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Street,Anti-Lesbian, Gay or Bisexual,Other,S
+2002,County,MT,Montana,1998-09-23,1,0,1,1,0,Unknown,Unknown,1,Other,1.0,Residence,Anti-Asian,Asian,Other,S
+2002,Village,NE,Nebraska,1999-01-25,1,0,1,1,0,White,White,1,Vandalism,1.0,Residence,Anti-Hispanic,Hispanic or Latino,Other,S
+2002,Municipality,NV,Nevada,1999-03-14,1,0,1,1,0,Unknown,Unknown,1,Aggravated Assault,1.0,Residence,Anti-Jewish,Other,S
+2002,Shire,ND,North Dakota,1999-05-23,0,1,1,0,1,White,White,1,Murder,1.0,Street,Anti-African American,Black or African American,Other,S
+2002,Township,OH,Ohio,1999-07-13,0,1,1,0,1,Unknown,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,Street,Anti-White,White,Other,S
+2002,County,OK, Oklahoma,1999-09-19,1,0,1,1,0,Unknown,Unknown,1,Intimidation,1.0,Residence,Anti-Lesbian, Gay or Bisexual,Other,S
+2002,Village,UT,Utah,2000-01-26,1,0,1,1,0,White,White,1,Vandalism,1.0,Residence,Anti-Hispanic,Hispanic or Latino,Other,S
+2002,Municipality,WI,Wisconsin,2000-03-31,1,0,1,1,0,Unknown,Unknown,1,Aggravated Assault,1.0,Residence,Anti-Jewish,Other,S
+2002,Shire,WY,Wyoming,2000-05-29,2,0,1,2,0,Unknown,Unknown,2,Murder,2.0,Street,Anti-Asian,Asian,Other,S
+2002,Township,AK,Alaska,2000-07-25,0,1,1,0,1,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Street,Anti-African American,Black or African American,Other,S
+2002,County,AR,Arkansas,2000-09-10,1,0,1,1,0,Unknown,Unknown,1,Intimidation,1.0,Residence,Anti-Lesbian, Gay or Bisexual,Other,S
+2002,Village,DE,Delaware,2001-01-28,1,0,1,1,0,White,White,1,Vandalism,1.0,Residence,Anti-Hispanic,Hispanic or Latino,Other,S
+2002,Municipality,GA,Georgia,2001-03-18,0,1,1,0,1,Unknown,Unknown,1,Other,1.0,Residence,Anti-Asian,Asian,Other,S
+2002,Shire,KS,Kansas,2001-05-21,1,0,1,1,0,Unknown,Unknown,1,Aggravated Assault,1.0,Residence,Anti-Jewish,Other,S
+2002,Township,ME,Maine,2001-07-23,2,0,1,2,0,Unknown,Unknown,2,Murder,2.0,Street,Anti-African American,Black or African American,Other,S
+2002,County,RI,Rhode Island,2001-09-17,0,1,1,0,1,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Street,Anti-Lesbian, Gay or Bisexual,Other,S
+2002,Village,TN,Tennessee,2002-01-29,1,0,1,1,0,Unknown,Unknown,1,Intimidation,1.0,Residence,Anti-Hispanic,Hispanic or Latino,Other,S
+2002,Municipality,WV,West Virginia,2002-03-24,2,0,1,2,0,Unknown,Unknown,2,Other,2.0,Street,Anti-Asian,Asian,Other,S
+2002,Shire,AZ,Arizona,2002-05-27,1,0,1,1,0,White,White,1,Aggravated Assault,1.0,Residence,Anti-Jewish,Other,S
+2002,Township,GA,Georgia,2002-07-22,0,1,1,0,1,Unknown,Unknown,1,Murder,1.0,Residence,Anti-White,White,Other,S
+2002,County,IA,Iowa,2002-09-16,1,0,1,1,0,Unknown,Unknown,1,Vandalism,1.0,Residence,Anti-Asian,Asian,Other,S
+2002,Village,LA,Louisiana,2003-01-27,1,0,1,1,0,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-Hispanic,Hispanic or Latino,Other,S
+2002,Municipality,MS,Mississippi,2003-03-17,1,0,1,1,0,Unknown,Unknown,1,Other,1.0,Residence,Anti-Jewish,Other,S
+2002,Shire,MO,Missouri,2003-05-19,2,0,1,2,0,Unknown,Unknown,2,Intimidation,2.0,Street,Anti-African American,Black or African American,Other,S
+2002,Township,OR,Oregon,2003-07-21,0,1,1,0,1,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Street,Anti-Lesbian, Gay or Bisexual,Other,S
+2002,County,TX,Texas,2003-09-15,1,0,1,1,0,Unknown,Unknown,1,Murder,1.0,Residence,Anti-Asian,Asian,Other,S"

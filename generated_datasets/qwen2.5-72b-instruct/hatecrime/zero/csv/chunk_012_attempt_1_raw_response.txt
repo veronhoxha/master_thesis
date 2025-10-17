@@ -1,0 +1,62 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2008,Municipal Police Department,GA,Georgia,2008-04-12,1,0,2,1,1,White,Non-Hispanic,1,Aggravated Assault,1,Residence/House,Anti-White (Non-Hispanic),Individual,Yes,No
+2012,Municipal Police Department,FL,Florida,2012-11-21,2,0,1,1,0,Black or African American,Non-Hispanic,2,Simple Assault,2,Street,Anti-Black or African American,Individual,No,No
+2001,County Sheriff's Office,CA,California,2001-07-03,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Work,Anti-Gay (Male),Individual,No,No
+2006,Municipal Police Department,IL,Illinois,2006-02-15,1,0,1,1,0,White,Non-Hispanic,1,Aggravated Assault,1,Residence/House,Anti-Male,Individual,No,No
+2010,State Police,MA,Massachusetts,2010-10-08,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-Gay (Male),Individual,No,No
+2003,Municipal Police Department,OH,Ohio,2003-06-22,1,0,1,1,0,Black or African American,Non-Hispanic,1,Intimidation,1,Street,Anti-Black or African American,Individual,No,No
+1999,County Sheriff's Office,NY,New York,1999-05-19,1,0,1,1,0,White,Non-Hispanic,1,Aggravated Assault,1,Street,Anti-Jewish,Individual,No,No
+2000,Municipal Police Department,NC,North Carolina,2000-09-11,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-Male,Individual,No,No
+2011,State Police,PA,Pennsylvania,2011-12-17,1,0,1,1,0,White,Non-Hispanic,1,Aggravated Assault,1,Street,Anti-White (Non-Hispanic),Individual,No,No
+2005,County Sheriff's Office,AZ,Arizona,2005-08-14,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Residence/House,Anti-White (Non-Hispanic),Individual,No,No
+2009,Municipal Police Department,TX,Texas,2009-03-29,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-Female,Individual,No,No
+2004,State Police,MI,Michigan,2004-07-22,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-Gay (Male),Individual,No,No
+2007,Municipal Police Department,MD,Maryland,2007-01-09,1,0,1,1,0,White,Non-Hispanic,1,Aggravated Assault,1,Street,Anti-Jewish,Individual,No,No
+2002,County Sheriff's Office,IN,Indiana,2002-02-27,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-White (Non-Hispanic),Individual,No,No
+2014,Municipal Police Department,WI,Wisconsin,2014-11-05,1,0,1,1,0,White,Non-Hispanic,1,Simple Assault,1,Street,Anti-White (Non-Hispanic),Individual,No,No
+2013,State Police,WA,Washington,2013-04-22,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-Black or African American,Individual,No,No
+2001,Municipal Police Department,AL,Alabama,2001-10-18,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-Jewish,Individual,No,No
+2011,County Sheriff's Office,TN,Tennessee,2011-12-17,1,0,1,1,0,White,Non-Hispanic,1,Aggravated Assault,1,Street,Anti-White (Non-Hispanic),Individual,No,No
+2006,Municipal Police Department,SC,South Carolina,2006-02-15,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-White (Non-Hispanic),Individual,No,No
+2010,State Police,OH,Ohio,2010-10-08,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-White (Non-Hispanic),Individual,No,No
+2008,County Sheriff's Office,VA,Virginia,2008-04-12,1,0,2,1,1,White,Non-Hispanic,1,Aggravated Assault,1,Residence/House,Anti-White (Non-Hispanic),Individual,Yes,No
+2012,State Police,FL,Florida,2012-11-21,2,0,1,1,0,Black or African American,Non-Hispanic,2,Simple Assault,2,Street,Anti-Black or African American,Individual,No,No
+2003,Municipal Police Department,GA,Georgia,2003-07-03,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Work,Anti-Gay (Male),Individual,No,No
+2009,County Sheriff's Office,IL,Illinois,2009-02-15,1,0,1,1,0,White,Non-Hispanic,1,Aggravated Assault,1,Residence/House,Anti-Male,Individual,No,No
+2011,State Police,MA,Massachusetts,2011-12-17,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-Gay (Male),Individual,No,No
+2005,State Police,OH,Ohio,2005-06-22,1,0,1,1,0,Black or African American,Non-Hispanic,1,Intimidation,1,Street,Anti-Black or African American,Individual,No,No
+1999,County Sheriff's Office,NY,New York,1999-05-19,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-Jewish,Individual,No,No
+2000,State Police,NC,North Carolina,2000-09-11,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-Male,Individual,No,No
+2013,County Sheriff's Office,PA,Pennsylvania,2013-12-17,1,0,1,1,0,White,Non-Hispanic,1,Aggravated Assault,1,Street,Anti-White (Non-Hispanic),Individual,No,No
+2004,County Sheriff's Office,AZ,Arizona,2004-08-14,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Residence/House,Anti-White (Non-Hispanic),Individual,No,No
+2008,State Police,TX,Texas,2008-03-29,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-Female,Individual,No,No
+2005,State Police,MI,Michigan,2005-07-22,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-Gay (Male),Individual,No,No
+2010,Municipal Police Department,MD,Maryland,2010-01-09,1,0,1,1,0,White,Non-Hispanic,1,Aggravated Assault,1,Street,Anti-Jewish,Individual,No,No
+2006,State Police,IN,Indiana,2006-02-27,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-White (Non-Hispanic),Individual,No,No
+2012,County Sheriff's Office,WI,Wisconsin,2012-11-05,1,0,1,1,0,White,Non-Hispanic,1,Simple Assault,1,Street,Anti-White (Non-Hispanic),Individual,No,No
+2011,County Sheriff's Office,WA,Washington,2011-04-22,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-Black or African American,Individual,No,No
+2007,State Police,AL,Alabama,2007-10-18,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-Jewish,Individual,No,No
+2009,State Police,TN,Tennessee,2009-12-17,1,0,1,1,0,White,Non-Hispanic,1,Aggravated Assault,1,Street,Anti-White (Non-Hispanic),Individual,No,No
+2010,County Sheriff's Office,SC,South Carolina,2010-02-15,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-White (Non-Hispanic),Individual,No,No
+2004,State Police,OH,Ohio,2004-10-08,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-White (Non-Hispanic),Individual,No,No
+2013,County Sheriff's Office,VA,Virginia,2013-04-12,1,0,2,1,1,White,Non-Hispanic,1,Aggravated Assault,1,Residence/House,Anti-White (Non-Hispanic),Individual,Yes,No
+2012,Municipal Police Department,FL,Florida,2012-11-21,2,0,1,1,0,Black or African American,Non-Hispanic,2,Simple Assault,2,Street,Anti-Black or African American,Individual,No,No
+2007,Municipal Police Department,GA,Georgia,2007-07-03,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Work,Anti-Gay (Male),Individual,No,No
+2004,County Sheriff's Office,IL,Illinois,2004-02-15,1,0,1,1,0,White,Non-Hispanic,1,Aggravated Assault,1,Residence/House,Anti-Male,Individual,No,No
+2009,State Police,MA,Massachusetts,2009-12-17,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-Gay (Male),Individual,No,No
+2010,State Police,OH,Ohio,2010-06-22,1,0,1,1,0,Black or African American,Non-Hispanic,1,Intimidation,1,Street,Anti-Black or African American,Individual,No,No
+1998,County Sheriff's Office,NY,New York,1998-05-19,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-Jewish,Individual,No,No
+2000,State Police,NC,North Carolina,2000-09-11,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-Male,Individual,No,No
+2012,County Sheriff's Office,PA,Pennsylvania,2012-12-17,1,0,1,1,0,White,Non-Hispanic,1,Aggravated Assault,1,Street,Anti-White (Non-Hispanic),Individual,No,No
+2005,County Sheriff's Office,AZ,Arizona,2005-08-14,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Residence/House,Anti-White (Non-Hispanic),Individual,No,No
+2008,State Police,TX,Texas,2008-03-29,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-Female,Individual,No,No
+2006,State Police,MI,Michigan,2006-07-22,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-Gay (Male),Individual,No,No
+2011,Municipal Police Department,MD,Maryland,2011-01-09,1,0,1,1,0,White,Non-Hispanic,1,Aggravated Assault,1,Street,Anti-Jewish,Individual,No,No
+2007,County Sheriff's Office,IN,Indiana,2007-02-27,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-White (Non-Hispanic),Individual,No,No
+2012,State Police,WI,Wisconsin,2012-11-05,1,0,1,1,0,White,Non-Hispanic,1,Simple Assault,1,Street,Anti-White (Non-Hispanic),Individual,No,No
+2011,State Police,WA,Washington,2011-04-22,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-Black or African American,Individual,No,No
+2008,State Police,AL,Alabama,2008-10-18,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-Jewish,Individual,No,No
+2010,State Police,TN,Tennessee,2010-12-17,1,0,1,1,0,White,Non-Hispanic,1,Aggravated Assault,1,Street,Anti-White (Non-Hispanic),Individual,No,No
+2011,County Sheriff's Office,SC,South Carolina,2011-02-15,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-White (Non-Hispanic),Individual,No,No
+2006,State Police,OH,Ohio,2006-10-08,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Street,Anti-White (Non-Hispanic),Individual,No,No
+2013,County Sheriff's Office,VA,Virginia,2013-04-12,1,0,2,1,1,White,Non-Hispanic,1,Aggravated Assault,1,Residence/House,Anti-White (Non-Hispanic),Individual,Yes,No

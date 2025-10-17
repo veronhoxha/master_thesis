@@ -1,0 +1,11 @@
+ data\_year,agency\_type\_name,state\_abbr,state\_name,incident\_date,adult\_victim\_count,juvenile\_victim\_count,total\_offender\_count,adult\_offender\_count,juvenile\_offender\_count,offender\_race,offender\_ethnicity,victim\_count,offense\_name,total\_individual\_victims,location\_name,bias\_desc,victim\_types,multiple\_offense,multiple\_bias
+1991,FBI,NY,New York,1991-06-25,,0,1,Not Specified,1,White,Not Specified,0,Sexual Assault,0.0,Home,Hate Crime,Other,N
+1992,City,MA,Massachusetts,1992-07-30,0,1,0,1,Black,Not Specified,1,Robbery,0.0,Business,Homosexual/Gay/Lesbian/Bisexual,Other,Y
+1993,State Police,CA,California,1993-05-28,,1,0,0,White,Not Specified,0,Vandalism of Property,0.0,School/College,Anti-Black or African American,Other,N
+1994,City Police,FL,Florida,1994-03-20,,0,0,0,Black,Not Specified,0,Vandalism of Property,0.0,Home,Homosexual/Gay/Lesbian/Bisexual,Other,Y
+1995,FBI,WA,Washington,1995-04-28,,0,1,0,0,Asian,Not Specified,0,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Black or African American,Other,N
+1996,State Police,TX,Texas,1996-08-24,0,0,0,0,White,Not Specified,0,Robbery,0.0,Business,Hate Crime,Other,Y
+1997,City Police,IL,Illinois,1997-05-30,,1,0,0,Asian,Not Specified,0,Vandalism of Property,0.0,Home,Homosexual/Gay/Lesbian/Bisexual,Other,N
+1998,FBI,MD,Maryland,1998-03-25,,0,1,0,0,Black,Not Specified,0,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Homosexual/Gay/Lesbian/Bisexual,Other,N
+1999,City Police,MI,Michigan,1999-07-28,0,0,0,0,White,Not Specified,0,Robbery,0.0,Home,Hate Crime,Other,Y
+2000,State Police,NJ,New Jersey,2000-06-15,,0,0,0,Black,Not Specified,0,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Homosexual/Gay/Lesbian/Bisexual,Other,N 

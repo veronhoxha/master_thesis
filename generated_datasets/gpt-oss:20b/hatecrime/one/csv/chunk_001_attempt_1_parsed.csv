@@ -1,0 +1,11 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1995,County,NY,New York,1995-08-12,2,0,2,2,0,White,White,2,Assault,2,High School,Anti-Black or African American,Individual,No,No
+2001,City,CA,California,2001-03-21,0,1,3,2,1,Black,Black,3,Destruction/Damage/Vandalism of Property,3,Library,Anti-White,Individual,Yes,No
+2008,State,TX,Texas,2008-11-04,1,1,4,3,1,Asian,Not Specified,2,Assault,2,Park,Anti-Hispanic,Individual,No,Yes
+1999,County,FL,Florida,1999-06-30,0,2,2,1,1,White,Not Specified,2,Assault,2,Restaurant,Anti-Asian,Individual,No,No
+2012,City,IL,Illinois,2012-01-15,3,0,5,4,1,Black,Black,3,Destruction/Damage/Vandalism of Property,3,College,Anti-White,Individual,Yes,No
+2004,City,NJ,New Jersey,2004-05-13,,0,0,0,0,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Black or African American,Other,S,S
+2010,County,GA,Georgia,2010-09-09,1,0,3,2,1,White,White,1,Assault,1,Park,Anti-White,Individual,No,No
+1993,State,OH,Ohio,1993-07-22,0,3,3,2,1,Black,Black,3,Destruction/Damage/Vandalism of Property,3,School,Anti-Hispanic,Other,Yes,Yes
+2007,City,AZ,Arizona,2007-12-02,2,1,4,3,1,White,Not Specified,3,Assault,3,Store,Anti-Black or African American,Individual,Yes,Yes
+2014,County,MI,Michigan,2014-04-18,0,0,1,1,0,White,White,1,Destruction/Damage/Vandalism of Property,1,Office,Anti-Asian,Individual,No,No

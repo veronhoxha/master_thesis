@@ -1,0 +1,18 @@
+ data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,FBI,CA,California,1991-01-21,3,0,2,2,0,Black,African American,3,Robbery,3,Los Angeles,Race,Male,False,False
+1995,County,NY,New York,1995-06-15,2,1,3,2,1,Hispanic,Latino,3,Assault,3,New York City,Ethnicity,Female,False,False
+1996,City,TX,Texas,1996-11-10,1,0,2,2,0,Asian,East Asian,1,Theft,1,Houston,Sexual Orientation,Male,False,False
+1997,State,IL,Illinois,1997-08-25,0,1,4,3,1,White,Non-Hispanic,4,Intimidation,4,Chicago,Religion,Male,True,False
+1999,City,PA,Pennsylvania,1999-03-12,2,0,3,2,1,Male,Non-binary,2,Vandalism,2,Philadelphia,Disability,Male,False,False
+2000,FBI,FL,Florida,2000-07-27,4,0,5,4,1,Black,African American,5,Robbery,5,Miami,Race,Female,False,False
+2001,County,WA,Washington,2001-12-20,1,1,2,2,0,Asian,Asian Indian,1,Intimidation,2,Seattle,Religion,Male,True,False
+2003,City,MN,Minnesota,2003-06-06,2,0,3,2,1,White,Non-Hispanic,3,Assault,3,Minneapolis,Sexual Orientation,Male,False,True
+2005,State,GA,Georgia,2005-11-18,3,0,4,3,1,Hispanic,Latino,4,Theft,4,Atlanta,National Origin,Female,False,False
+2006,City,MI,Michigan,2006-07-15,0,1,3,2,1,Black,African American,3,Vandalism,3,Detroit,Race,Male,True,False
+2008,County,MO,Missouri,2008-02-29,2,0,4,2,2,White,Non-Hispanic,4,Intimidation,4,St. Louis,Religion,Male,False,True
+2009,FBI,NC,North Carolina,2009-09-05,1,0,2,2,0,Asian,South Asian,1,Robbery,1,Charlotte,National Origin,Female,False,False
+2010,City,OH,Ohio,2010-01-23,3,0,4,3,1,Male,White,4,Assault,4,Cleveland,Disability,Male,False,False
+2011,State,IN,Indiana,2011-06-17,2,0,3,2,1,Black,African American,3,Theft,3,Indianapolis,Race,Female,False,False
+2012,County,NV,Nevada,2012-11-09,1,1,3,2,2,Hispanic,Puerto Rican,3,Vandalism,3,Las Vegas,Ethnicity,Male,True,False
+2013,City,WI,Wisconsin,2013-08-14,0,1,3,2,2,Asian,Asian American,3,Assault,3,Milwaukee,National Origin,Male,False,True
+2014,State,VA,Virginia,2014-04-25,3,1,5,4,1,Male,White,5,Intimidation,5,Richmond,Sexual Orientation,Female,False,True

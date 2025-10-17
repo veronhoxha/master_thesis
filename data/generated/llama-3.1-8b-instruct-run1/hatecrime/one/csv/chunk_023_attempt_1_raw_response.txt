@@ -1,0 +1,45 @@
+"2004","City","CA","California","2004-02-15",0,0,1,1,0,"White","Hispanic or Latino",1,"Larceny/Theft",1.0,"Street/Hwy","Anti-Latino",1,Unknown,N
+"2004","City","TX","Texas","2004-03-20",1,0,2,1,1,"Black or African American","Asian",2,"Simple Assault",2.0,"Residence","Anti-Asian",0.5,Other,N
+"2004","City","FL","Florida","2004-04-10",0,0,1,1,0,"American Indian or Alaska Native","Not Specified",1,"Vandalism",1.0,"Business","Anti-White",0.0,Other,N
+"2004","City","NY","New York","2004-05-05",1,0,2,1,1,"White","Hispanic or Latino",2,"Intimidation",2.0,"Street/Hwy","Anti-Latino",0.5,Other,N
+"2004","City","IL","Illinois","2004-06-20",1,1,2,1,1,"Black or African American","Asian",2,"Aggravated Assault",2.0,"Residence","Anti-Asian",0.0,Other,N
+"2004","City","GA","Georgia","2004-07-15",0,0,1,1,0,"Hispanic or Latino","Not Specified",1,"Larceny/Theft",1.0,"Business","Anti-White",1.0,Other,N
+"2004","City","OH","Ohio","2004-08-10",1,0,1,1,0,"White","Not Specified",1,"Simple Assault",1.0,"Residence","Anti-White",1.0,Other,N
+"2004","City","PA","Pennsylvania","2004-09-05",1,0,2,1,1,"American Indian or Alaska Native","Asian",2,"Destruction/Damage/Vandalism of Property",2.0,"Street/Hwy","Anti-Asian",0.0,Other,N
+"2004","City","MI","Michigan","2004-10-15",1,1,1,1,0,"Black or African American","Hispanic or Latino",1,"Intimidation",1.0,"Street/Hwy","Anti-Latino",0.5,Other,N
+"2004","City","NC","North Carolina","2004-11-10",0,0,2,1,1,"White","Not Specified",2,"Larceny/Theft",2.0,"Business","Anti-White",1.0,Other,N
+"2004","City","SC","South Carolina","2004-12-20",1,0,1,1,0,"Hispanic or Latino","Not Specified",1,"Simple Assault",1.0,"Residence","Anti-White",0.0,Unknown,Y
+"2005","City","AZ","Arizona","2005-01-15",0,0,1,1,0,"American Indian or Alaska Native","Not Specified",1,"Vandalism",1.0,"Business","Anti-White",0.0,Unknown,N
+"2005","City","CO","Colorado","2005-02-10",1,0,2,1,1,"Black or African American","Asian",2,"Destruction/Damage/Vandalism of Property",2.0,"Street/Hwy","Anti-Asian",0.5,Unknown,Y
+"2005","City","TN","Tennessee","2005-03-20",1,1,1,1,0,"White","Hispanic or Latino",1,"Simple Assault",1.0,"Residence","Anti-Latino",0.5,Other,N
+"2005","City","VA","Virginia","2005-04-15",1,0,2,1,1,"Hispanic or Latino","Not Specified",2,"Intimidation",2.0,"Business","Anti-White",0.5,Other,N
+"2005","City","WV","West Virginia","2005-05-10",1,0,1,1,0,"American Indian or Alaska Native","Not Specified",1,"Larceny/Theft",1.0,"Street/Hwy","Anti-White",0.0,Other,N
+"2005","City","KY","Kentucky","2005-06-20",0,0,2,1,1,"Black or African American","Asian",2,"Aggravated Assault",2.0,"Residence","Anti-Asian",1.0,Other,N
+"2005","City","LA","Louisiana","2005-07-15",0,0,1,1,0,"White","Not Specified",1,"Vandalism",1.0,"Business","Anti-White",0.0,Other,N
+"2005","City","MO","Missouri","2005-08-10",1,1,2,1,1,"Hispanic or Latino","Asian",2,"Destruction/Damage/Vandalism of Property",2.0,"Street/Hwy","Anti-Asian",0.0,Other,N
+"2005","City","OK","Oklahoma","2005-09-05",1,0,1,1,0,"American Indian or Alaska Native","Not Specified",1,"Simple Assault",1.0,"Residence","Anti-White",0.0,Unknown,Y
+"2005","City","AR","Arkansas","2005-10-15",1,0,2,1,1,"Black or African American","Asian",2,"Larceny/Theft",2.0,"Business","Anti-Asian",0.0,Other,N
+"2005","City","MS","Mississippi","2005-11-10",0,0,1,1,0,"White","Not Specified",1,"Vandalism",1.0,"Street/Hwy","Anti-White",0.5,Other,N
+"2005","City","AL","Alabama","2005-12-20",1,1,1,1,0,"Hispanic or Latino","Not Specified",1,"Intimidation",1.0,"Residence","Anti-Latino",0.0,Other,N
+"2006","City","CT","Connecticut","2006-01-15",1,0,2,1,1,"American Indian or Alaska Native","Asian",2,"Destruction/Damage/Vandalism of Property",2.0,"Street/Hwy","Anti-Asian",1.0,Other,N
+"2006","City","RI","Rhode Island","2006-02-10",0,0,1,1,0,"Black or African American","Not Specified",1,"Larceny/Theft",1.0,"Business","Anti-White",0.5,Other,N
+"2006","City","VT","Vermont","2006-03-20",1,1,1,1,0,"White","Hispanic or Latino",1,"Simple Assault",1.0,"Residence","Anti-Latino",1.0,Other,N
+"2006","City","ME","Maine","2006-04-15",0,0,2,1,1,"Hispanic or Latino","Asian",2,"Intimidation",2.0,"Business","Anti-Asian",0.0,Other,N
+"2006","City","NH","New Hampshire","2006-05-10",1,0,1,1,0,"American Indian or Alaska Native","Not Specified",1,"Vandalism",1.0,"Street/Hwy","Anti-White",0.5,Other,N
+"2006","City","MA","Massachusetts","2006-06-20",0,0,2,1,1,"Black or African American","Asian",2,"Aggravated Assault",2.0,"Residence","Anti-Asian",1.0,Other,N
+"2006","City","DE","Delaware","2006-07-15",1,0,1,1,0,"White","Not Specified",1,"Larceny/Theft",1.0,"Business","Anti-White",0.0,Other,N
+"2006","City","MD","Maryland","2006-08-10",0,0,2,1,1,"Hispanic or Latino","Asian",2,"Destruction/Damage/Vandalism of Property",2.0,"Street/Hwy","Anti-Asian",0.0,Other,N
+"2006","City","DC","District of Columbia","2006-09-05",1,1,2,1,1,"American Indian or Alaska Native","Asian",2,"Intimidation",2.0,"Business","Anti-Asian",0.0,Other,N
+"2006","City","MN","Minnesota","2006-10-15",0,0,1,1,0,"Black or African American","Not Specified",1,"Vandalism",1.0,"Street/Hwy","Anti-White",0.5,Other,N
+"2006","City","WI","Wisconsin","2006-11-10",1,0,1,1,0,"Hispanic or Latino","Not Specified",1,"Simple Assault",1.0,"Residence","Anti-White",0.0,Other,N
+"2006","City","IA","Iowa","2006-12-20",1,1,2,1,1,"White","Asian",2,"Larceny/Theft",2.0,"Business","Anti-Asian",0.0,Other,N
+"2007","City","UT","Utah","2007-01-15",1,0,1,1,0,"American Indian or Alaska Native","Not Specified",1,"Vandalism",1.0,"Street/Hwy","Anti-White",0.0,Other,N
+"2007","City","NV","Nevada","2007-02-10",0,0,2,1,1,"Black or African American","Asian",2,"Aggravated Assault",2.0,"Residence","Anti-Asian",0.0,Other,N
+"2007","City","MT","Montana","2007-03-20",1,0,1,1,0,"Hispanic or Alaska Native","Not Specified",1,"Simple Assault",1.0,"Residence","Anti-White",0.0,Unknown,Y
+"2007","City","ND","North Dakota","2007-04-15",1,1,2,1,1,"White","Asian",2,"Destruction/Damage/Vandalism of Property",2.0,"Street/Hwy","Anti-Asian",0.5,Other,N
+"2007","City","WY","Wyoming","2007-05-10",1,0,1,1,0,"Black or African American","Not Specified",1,"Larceny/Theft",1.0,"Business","Anti-White",0.5,Other,N
+"2007","City","SD","South Dakota","2007-06-20",1,0,2,1,1,"American Indian or Alaska Native","Asian",2,"Intimidation",2.0,"Street/Hwy","Anti-Asian",0.0,Other,N
+"2007","City","NE","Nebraska","2007-07-15",0,0,1,1,0,"Hispanic or Alaska Native","Not Specified",1,"Vandalism",1.0,"Business","Anti-White",0.0,Other,N
+"2007","City","KS","Kansas","2007-08-10",1,0,2,1,1,"White","Asian",2,"Destruction/Damage/Vandalism of Property",2.0,"Street/Hwy","Anti-Asian",0.0,Other,N
+"2007","City","CO","Colorado","2007-09-05",0,0,1,1,0,"Black or African American","Not Specified",1,"Larceny/Theft",1.0,"Residence","Anti-White",0.0,Other,N
+"2007","City","NM","New Mexico","2007-10-15",1,1,2,1,1,"Hispanic or Latino","Asian",2,"Intimidation",2.0,"Street/Hwy","Anti-Asian",0.5,Other,N"

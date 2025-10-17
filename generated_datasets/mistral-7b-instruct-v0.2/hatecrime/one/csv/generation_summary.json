@@ -1,0 +1,30 @@
+{
+  "timestamp": "2025-10-16T11:26:30.675689",
+  "model": "mistralai/Mistral-7B-Instruct-v0.2",
+  "domain": "hatecrime",
+  "shot_type": "one",
+  "format_type": "csv",
+  "target_rows": 40,
+  "achieved_rows": 42,
+  "duration_s": 99.03,
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "total_attempts": 1,
+      "successful_attempt": 1,
+      "chunk_duration_seconds": 55.57,
+      "success": true,
+      "final_rows": 23,
+      "final_columns": 20
+    },
+    {
+      "chunk_number": 2,
+      "total_attempts": 1,
+      "successful_attempt": 1,
+      "chunk_duration_seconds": 43.46,
+      "success": true,
+      "final_rows": 19,
+      "final_columns": 20
+    }
+  ]
+}

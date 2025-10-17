@@ -1,0 +1,117 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1995,State Police,CA,California,1995-03-12,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residence,Race/Ethnicity/Ancestry,Individual,No,No
+2001,City Police,NY,New York,2001-09-18,2,0,2,2,0,Unknown,Unknown,2,Destruction/Damage/Vandalism of Property,2,Parking Lot/Garage,Religion,Business,No,No
+2010,County Sheriff,TX,Texas,2010-07-04,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Intimidation,1,School/College,Sexual Orientation,Individual,No,No
+2014,City Police,FL,Florida,2014-11-01,1,0,3,3,0,White,Hispanic or Latino,1,Aggravated Assault,1,Highway/Road/Street,Race/Ethnicity/Ancestry,Individual,Yes,No
+1998,State Police,IL,Illinois,1998-05-20,1,0,1,1,0,Asian,Not Hispanic or Latino,1,Simple Assault,1,Bar/Nightclub,Gender Identity,Individual,No,No
+2005,City Police,WA,Washington,2005-12-25,1,0,1,1,0,White,Not Hispanic or Latino,1,Larceny-Theft,1,Department/Discount Store,Religion,Individual,No,No
+2012,County Sheriff,GA,Georgia,2012-02-29,1,0,2,1,1,Black or African American,Not Hispanic or Latino,1,Robbery,1,Gas/Service Station,Race/Ethnicity/Ancestry,Individual,No,No
+1991,City Police,AZ,Arizona,1991-01-01,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,Residence,Sexual Orientation,Individual,No,No
+2000,State Police,PA,Pennsylvania,2000-10-31,2,0,1,1,0,Unknown,Unknown,2,Simple Assault,2,Park/Recreation Area,Religion,Individual,No,No
+2008,City Police,OH,Ohio,2008-06-06,1,0,1,1,0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1,Church/Synagogue/Temple/Mosque,Race/Ethnicity/Ancestry,Religious Organization,No,No
+2013,County Sheriff,MI,Michigan,2013-04-15,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Aggravated Assault,1,Residence,Disability,Individual,No,No
+1996,City Police,NJ,New Jersey,1996-08-14,0,1,1,0,1,White,Hispanic or Latino,1,Intimidation,1,School/College,Race/Ethnicity/Ancestry,Individual,No,No
+2003,State Police,VA,Virginia,2003-03-03,1,0,1,1,0,Unknown,Unknown,1,Simple Assault,1,Residence,Sexual Orientation,Individual,No,No
+2011,City Police,MA,Massachusetts,2011-09-11,1,0,2,2,0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1,Parking Lot/Garage,Religion,Society/Public,No,No
+1999,County Sheriff,CO,Colorado,1999-12-24,1,0,1,1,0,White,Not Hispanic or Latino,1,Aggravated Assault,1,Street/Road/Highway,Race/Ethnicity/Ancestry,Individual,No,No
+2007,City Police,MD,Maryland,2007-01-26,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Intimidation,1,Apartment/Condo,Gender,Individual,No,No
+2002,State Police,NC,North Carolina,2002-05-15,2,0,1,1,0,White,Not Hispanic or Latino,2,Simple Assault,2,Commercial Office Building,Race/Ethnicity/Ancestry,Individual,No,No
+2014,City Police,OR,Oregon,2014-10-07,1,0,1,1,0,Unknown,Unknown,1,Destruction/Damage/Vandalism of Property,1,Park/Recreation Area,Sexual Orientation,Individual,No,No
+1993,County Sheriff,KS,Kansas,1993-02-14,1,0,1,1,0,White,Not Hispanic or Latino,1,Aggravated Assault,1,Residence,Race/Ethnicity/Ancestry,Individual,No,No
+2006,City Police,MN,Minnesota,2006-11-05,1,0,2,2,0,Native American,Not Hispanic or Latino,1,Intimidation,1,Bar/Nightclub,Religion,Individual,No,No
+2004,State Police,SC,South Carolina,2004-04-01,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residence,Disability,Individual,No,No
+2009,City Police,CT,Connecticut,2009-07-17,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1,Private Home,Race/Ethnicity/Ancestry,Individual,No,No
+1992,County Sheriff,AL,Alabama,1992-06-20,1,0,1,1,0,White,Not Hispanic or Latino,1,Robbery,1,Convenience Store,Sexual Orientation,Individual,No,No
+2000,City Police,NV,Nevada,2000-09-09,2,0,1,1,0,Unknown,Unknown,2,Intimidation,2,Hotel/Motel/Etc.,Religion,Individual,No,No
+2014,State Police,AR,Arkansas,2014-12-12,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residence,Race/Ethnicity/Ancestry,Individual,No,No
+1997,City Police,UT,Utah,1997-03-30,1,0,1,1,0,White,Hispanic or Latino,1,Aggravated Assault,1,Street/Road/Highway,Sexual Orientation,Individual,No,No
+2003,County Sheriff,MS,Mississippi,2003-08-08,1,0,2,2,0,Black or African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1,Church/Synagogue/Temple/Mosque,Race/Ethnicity/Ancestry,Religious Organization,No,No
+2010,City Police,KY,Kentucky,2010-01-05,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,School/College,Religion,Individual,No,No
+2005,State Police,LA,Louisiana,2005-09-10,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1,Residence,Gender Identity,Individual,No,No
+2013,City Police,ID,Idaho,2013-11-20,1,0,1,1,0,White,Not Hispanic or Latino,1,Larceny-Theft,1,Shopping Mall,Race/Ethnicity/Ancestry,Individual,No,No
+1994,County Sheriff,ME,Maine,1994-04-22,1,0,1,1,0,Unknown,Unknown,1,Aggravated Assault,1,Residence,Sexual Orientation,Individual,No,No
+2001,City Police,NE,Nebraska,2001-05-19,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,Park/Recreation Area,Religion,Individual,No,No
+2008,State Police,OK,Oklahoma,2008-10-10,1,0,1,1,0,Native American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1,Public Building,Race/Ethnicity/Ancestry,Individual,No,No
+2012,City Police,NM,New Mexico,2012-07-04,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1,Residence,Sexual Orientation,Individual,No,No
+1999,County Sheriff,ND,North Dakota,1999-01-31,1,0,1,1,0,White,Not Hispanic or Latino,1,Aggravated Assault,1,Street/Road/Highway,Race/Ethnicity/Ancestry,Individual,No,No
+2006,City Police,RI,Rhode Island,2006-03-08,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Intimidation,1,Bus/Train Station,Religion,Individual,No,No
+2014,State Police,DE,Delaware,2014-06-16,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residence,Disability,Individual,No,No
+1991,City Police,SD,South Dakota,1991-11-11,1,0,1,1,0,Unknown,Unknown,1,Destruction/Damage/Vandalism of Property,1,Graveyard/Cemetery,Sexual Orientation,Individual,No,No
+2000,County Sheriff,HI,Hawaii,2000-02-02,1,0,1,1,0,Asian,Not Hispanic or Latino,1,Aggravated Assault,1,Apartment/Condo,Race/Ethnicity/Ancestry,Individual,No,No
+2007,City Police,WY,Wyoming,2007-04-04,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,Bar/Nightclub,Religion,Individual,No,No
+2011,State Police,MT,Montana,2011-08-01,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residence,Gender Identity,Individual,No,No
+1995,City Police,AK,Alaska,1995-12-31,1,0,1,1,0,Native American,Not Hispanic or Latino,1,Larceny-Theft,1,Shopping Mall,Race/Ethnicity/Ancestry,Individual,No,No
+2003,County Sheriff,VT,Vermont,2003-06-01,1,0,1,1,0,White,Not Hispanic or Latino,1,Aggravated Assault,1,Residence,Sexual Orientation,Individual,No,No
+2014,City Police,WI,Wisconsin,2014-09-21,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1,Parking Lot/Garage,Religion,Individual,No,No
+1998,State Police,WV,West Virginia,1998-07-04,1,0,1,1,0,Unknown,Unknown,1,Intimidation,1,Street/Road/Highway,Race/Ethnicity/Ancestry,Individual,No,No
+2010,City Police,IN,Indiana,2010-03-17,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residence,Disability,Individual,No,No
+2005,County Sheriff,MO,Missouri,2005-10-10,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Robbery,1,Convenience Store,Sexual Orientation,Individual,No,No
+2012,City Police,PA,Pennsylvania,2012-05-05,2,0,2,2,0,White,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2,Church/Synagogue/Temple/Mosque,Religion,Religious Organization,No,No
+1991,State Police,CA,California,1991-08-15,1,0,1,1,0,White,Hispanic or Latino,1,Aggravated Assault,1,Residence,Race/Ethnicity/Ancestry,Individual,No,No
+2000,City Police,NY,New York,2000-11-20,1,0,1,1,0,Unknown,Unknown,1,Intimidation,1,Park/Recreation Area,Sexual Orientation,Individual,No,No
+2014,County Sheriff,TX,Texas,2014-01-20,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1,School/College,Gender Identity,Individual,No,No
+1996,City Police,FL,Florida,1996-02-01,2,0,3,3,0,White,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2,Highway/Road/Street,Religion,Individual,Yes,No
+2003,State Police,IL,Illinois,2003-04-10,1,0,1,1,0,Asian,Not Hispanic or Latino,1,Aggravated Assault,1,Bar/Nightclub,Race/Ethnicity/Ancestry,Individual,No,No
+2011,City Police,WA,Washington,2011-12-12,1,0,1,1,0,White,Not Hispanic or Latino,1,Larceny-Theft,1,Department/Discount Store,Sexual Orientation,Individual,No,No
+1999,County Sheriff,GA,Georgia,1999-07-04,1,0,2,1,1,Black or African American,Not Hispanic or Latino,1,Robbery,1,Gas/Service Station,Religion,Individual,No,No
+2007,City Police,AZ,Arizona,2007-01-01,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,Residence,Race/Ethnicity/Ancestry,Individual,No,No
+2013,State Police,PA,Pennsylvania,2013-10-31,2,0,1,1,0,Unknown,Unknown,2,Simple Assault,2,Park/Recreation Area,Sexual Orientation,Individual,No,No
+1995,City Police,OH,Ohio,1995-06-06,1,0,1,1,0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1,Church/Synagogue/Temple/Mosque,Religion,Religious Organization,No,No
+2002,County Sheriff,MI,Michigan,2002-04-15,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Aggravated Assault,1,Residence,Race/Ethnicity/Ancestry,Individual,No,No
+2014,City Police,NJ,New Jersey,2014-08-14,0,1,1,0,1,White,Hispanic or Latino,1,Intimidation,1,School/College,Sexual Orientation,Individual,No,No
+1991,State Police,VA,Virginia,1991-03-03,1,0,1,1,0,Unknown,Unknown,1,Simple Assault,1,Residence,Religion,Individual,No,No
+2000,City Police,MA,Massachusetts,2000-09-11,1,0,2,2,0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1,Parking Lot/Garage,Race/Ethnicity/Ancestry,Society/Public,No,No
+2008,County Sheriff,CO,Colorado,2008-12-24,1,0,1,1,0,White,Not Hispanic or Latino,1,Aggravated Assault,1,Street/Road/Highway,Sexual Orientation,Individual,No,No
+2014,City Police,MD,Maryland,2014-01-26,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Intimidation,1,Apartment/Condo,Race/Ethnicity/Ancestry,Individual,No,No
+1992,State Police,NC,North Carolina,1992-05-15,2,0,1,1,0,White,Not Hispanic or Latino,2,Simple Assault,2,Commercial Office Building,Religion,Individual,No,No
+2006,City Police,OR,Oregon,2006-10-07,1,0,1,1,0,Unknown,Unknown,1,Destruction/Damage/Vandalism of Property,1,Park/Recreation Area,Race/Ethnicity/Ancestry,Individual,No,No
+2012,County Sheriff,KS,Kansas,2012-02-14,1,0,1,1,0,White,Not Hispanic or Latino,1,Aggravated Assault,1,Residence,Sexual Orientation,Individual,No,No
+1997,City Police,MN,Minnesota,1997-11-05,1,0,2,2,0,Native American,Not Hispanic or Latino,1,Intimidation,1,Bar/Nightclub,Race/Ethnicity/Ancestry,Individual,No,No
+2004,State Police,SC,South Carolina,2004-04-01,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residence,Sexual Orientation,Individual,No,No
+2010,City Police,CT,Connecticut,2010-07-17,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1,Private Home,Religion,Individual,No,No
+2009,County Sheriff,AL,Alabama,2009-06-20,1,0,1,1,0,White,Not Hispanic or Latino,1,Robbery,1,Convenience Store,Race/Ethnicity/Ancestry,Individual,No,No
+1993,City Police,NV,Nevada,1993-09-09,2,0,1,1,0,Unknown,Unknown,2,Intimidation,2,Hotel/Motel/Etc.,Sexual Orientation,Individual,No,No
+2001,State Police,AR,Arkansas,2001-12-12,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residence,Religion,Individual,No,No
+2014,City Police,UT,Utah,2014-03-30,1,0,1,1,0,White,Hispanic or Latino,1,Aggravated Assault,1,Street/Road/Highway,Race/Ethnicity/Ancestry,Individual,No,No
+1998,County Sheriff,MS,Mississippi,1998-08-08,1,0,2,2,0,Black or African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1,Church/Synagogue/Temple/Mosque,Sexual Orientation,Religious Organization,No,No
+2005,City Police,KY,Kentucky,2005-01-05,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,School/College,Race/Ethnicity/Ancestry,Individual,No,No
+2013,State Police,LA,Louisiana,2013-09-10,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1,Residence,Religion,Individual,No,No
+1994,City Police,ID,Idaho,1994-11-20,1,0,1,1,0,White,Not Hispanic or Latino,1,Larceny-Theft,1,Shopping Mall,Sexual Orientation,Individual,No,No
+2002,County Sheriff,ME,Maine,2002-04-22,1,0,1,1,0,Unknown,Unknown,1,Aggravated Assault,1,Residence,Race/Ethnicity/Ancestry,Individual,No,No
+2011,City Police,NE,Nebraska,2011-05-19,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,Park/Recreation Area,Sexual Orientation,Individual,No,No
+1999,State Police,OK,Oklahoma,1999-10-10,1,0,1,1,0,Native American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1,Public Building,Religion,Individual,No,No
+2007,City Police,NM,New Mexico,2007-07-04,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1,Residence,Race/Ethnicity/Ancestry,Individual,No,No
+2014,County Sheriff,ND,North Dakota,2014-01-31,1,0,1,1,0,White,Not Hispanic or Latino,1,Aggravated Assault,1,Street/Road/Highway,Sexual Orientation,Individual,No,No
+1991,City Police,RI,Rhode Island,1991-03-08,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Intimidation,1,Bus/Train Station,Religion,Individual,No,No
+2000,State Police,DE,Delaware,2000-06-16,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residence,Race/Ethnicity/Ancestry,Individual,No,No
+2008,City Police,SD,South Dakota,2008-11-11,1,0,1,1,0,Unknown,Unknown,1,Destruction/Damage/Vandalism of Property,1,Graveyard/Cemetery,Sexual Orientation,Individual,No,No
+2012,County Sheriff,HI,Hawaii,2012-02-02,1,0,1,1,0,Asian,Not Hispanic or Latino,1,Aggravated Assault,1,Apartment/Condo,Religion,Individual,No,No
+1995,City Police,WY,Wyoming,1995-04-04,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,Bar/Nightclub,Race/Ethnicity/Ancestry,Individual,No,No
+2003,State Police,MT,Montana,2003-08-01,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residence,Sexual Orientation,Individual,No,No
+2014,City Police,AK,Alaska,2014-12-31,1,0,1,1,0,Native American,Not Hispanic or Latino,1,Larceny-Theft,1,Shopping Mall,Religion,Individual,No,No
+1998,County Sheriff,VT,Vermont,1998-06-01,1,0,1,1,0,White,Not Hispanic or Latino,1,Aggravated Assault,1,Residence,Race/Ethnicity/Ancestry,Individual,No,No
+2005,City Police,WI,Wisconsin,2005-09-21,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1,Parking Lot/Garage,Sexual Orientation,Individual,No,No
+2010,State Police,WV,West Virginia,2010-07-04,1,0,1,1,0,Unknown,Unknown,1,Intimidation,1,Street/Road/Highway,Religion,Individual,No,No
+2013,City Police,IN,Indiana,2013-03-17,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residence,Race/Ethnicity/Ancestry,Individual,No,No
+1996,County Sheriff,MO,Missouri,1996-10-10,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Robbery,1,Convenience Store,Sexual Orientation,Individual,No,No
+2002,City Police,CA,California,2002-05-05,2,0,2,2,0,White,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2,Church/Synagogue/Temple/Mosque,Religion,Religious Organization,No,No
+2014,State Police,NY,New York,2014-08-15,1,0,1,1,0,White,Hispanic or Latino,1,Aggravated Assault,1,Residence,Race/Ethnicity/Ancestry,Individual,No,No
+1991,City Police,TX,Texas,1991-11-20,1,0,1,1,0,Unknown,Unknown,1,Intimidation,1,Park/Recreation Area,Sexual Orientation,Individual,No,No
+2000,County Sheriff,FL,Florida,2000-01-20,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1,School/College,Religion,Individual,No,No
+2008,City Police,IL,Illinois,2008-02-01,2,0,3,3,0,White,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2,Highway/Road/Street,Race/Ethnicity/Ancestry,Individual,Yes,No
+2012,State Police,WA,Washington,2012-04-10,1,0,1,1,0,Asian,Not Hispanic or Latino,1,Aggravated Assault,1,Bar/Nightclub,Sexual Orientation,Individual,No,No
+1997,City Police,GA,Georgia,1997-12-12,1,0,1,1,0,White,Not Hispanic or Latino,1,Larceny-Theft,1,Department/Discount Store,Religion,Individual,No,No
+2004,County Sheriff,AZ,Arizona,2004-07-04,1,0,2,1,1,Black or African American,Not Hispanic or Latino,1,Robbery,1,Gas/Service Station,Race/Ethnicity/Ancestry,Individual,No,No
+2010,City Police,PA,Pennsylvania,2010-01-01,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,Residence,Sexual Orientation,Individual,No,No
+2013,State Police,OH,Ohio,2013-10-31,2,0,1,1,0,Unknown,Unknown,2,Simple Assault,2,Park/Recreation Area,Religion,Individual,No,No
+1992,City Police,MI,Michigan,1992-06-06,1,0,1,1,0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1,Church/Synagogue/Temple/Mosque,Race/Ethnicity/Ancestry,Religious Organization,No,No
+2001,County Sheriff,NJ,New Jersey,2001-04-15,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Aggravated Assault,1,Residence,Sexual Orientation,Individual,No,No
+2009,City Police,VA,Virginia,2009-08-14,0,1,1,0,1,White,Hispanic or Latino,1,Intimidation,1,School/College,Religion,Individual,No,No
+2003,City Police,CO,Colorado,2003-09-11,1,0,2,2,0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1,Parking Lot/Garage,Sexual Orientation,Society/Public,No,No
+2014,County Sheriff,MD,Maryland,2014-12-24,1,0,1,1,0,White,Not Hispanic or Latino,1,Aggravated Assault,1,Street/Road/Highway,Religion,Individual,No,No
+1998,City Police,NC,North Carolina,1998-01-26,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Intimidation,1,Apartment/Condo,Race/Ethnicity/Ancestry,Individual,No,No
+2006,State Police,OR,Oregon,2006-05-15,2,0,1,1,0,White,Not Hispanic or Latino,2,Simple Assault,2,Commercial Office Building,Sexual Orientation,Individual,No,No
+2011,City Police,KS,Kansas,2011-10-07,1,0,1,1,0,Unknown,Unknown,1,Destruction/Damage/Vandalism of Property,1,Park/Recreation Area,Religion,Individual,No,No
+1999,County Sheriff,MN,Minnesota,1999-02-14,1,0,1,1,0,White,Not Hispanic or Latino,1,Aggravated Assault,1,Residence,Race/Ethnicity/Ancestry,Individual,No,No
+2007,City Police,SC,South Carolina,2007-11-05,1,0,2,2,0,Native American,Not Hispanic or Latino,1,Intimidation,1,Bar/Nightclub,Sexual Orientation,Individual,No,No
+2014,State Police,CT,Connecticut,2014-04-01,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residence,Religion,Individual,No,No

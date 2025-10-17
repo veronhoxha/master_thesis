@@ -1,0 +1,30 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2004,Other,IL,Illinois,2004-03-02,1.0,0.0,2,1.0,1.0,Hispanic or Latino,Not Specified,1,Murder,1.0,Office Building,Anti-Hispanic,Individual,S,S
+2002,City,NY,New York,2002-11-15,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Intimidation,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,S,S
+2001,Other,GA,Georgia,2001-09-01,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,School/College,Anti-White,Individual,S,S
+2005,City,CT,Connecticut,2005-12-24,0.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Aggravated Assault,1.0,Residence/Apartment,Anti-American Indian or Alaska Native,Individual,S,S
+2003,Other,AZ,Arizona,2003-05-16,0.0,1.0,2,1.0,1.0,Black or African American,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,1.0,Store/Mall,Anti-Asian,Individual,S,S
+2008,City,MA,Massachusetts,2008-04-22,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Homosexual,Individual,S,S
+1996,Other,WI,Wisconsin,1996-01-10,0.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Vandalism,1.0,School/College,Anti-Jewish,Individual,S,S
+2007,City,FL,Florida,2007-08-03,0.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Intimidation,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Individual,S,S
+2009,Other,OR,Oregon,2009-02-24,0.0,1.0,1,1.0,0.0,Unknown,Not Specified,1,Murder,1.0,School/College,Anti-Homosexual,Individual,S,S
+2006,City,MI,Michigan,2006-01-27,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Office Building,Anti-Asian,Individual,S,S
+2000,Other,NC,North Carolina,2000-06-28,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Hispanic,Individual,S,S
+2004,Other,TX,Texas,2004-09-13,0.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Aggravated Assault,1.0,School/College,Anti-Jewish,Individual,S,S
+1998,City,MO,Missouri,1998-10-26,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Vandalism,1.0,Store/Mall,Anti-Gay (Male),Individual,S,S
+2002,City,OH,Ohio,2002-06-17,0.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Intimidation,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Individual,S,S
+2009,Other,IN,Indiana,2009-03-25,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Murder,1.0,School/College,Anti-Homosexual,Individual,S,S
+2007,City,SC,South Carolina,2007-01-01,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Vandalism,1.0,Office Building,Anti-Jewish,Individual,S,S
+2001,Other,MD,Maryland,2001-07-23,0.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Intimidation,1.0,Residence/Apartment,Anti-Hispanic,Individual,S,S
+1995,City,VA,Virginia,1995-02-16,0.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,School/College,Anti-Gay (Male),Individual,S,S
+2003,Other,OK,Oklaoma,2003-04-21,1.0,0.0,2,1.0,1.0,White,Not Hispanic or Latino,2,Aggravated Assault,2.0,Store/Mall,Anti-Asian,Individual,S,S
+1992,City,CO,Colorado,1992-12-15,0.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Office Building,Anti-Jewish,Individual,S,S
+2008,City,PA,Pennsylvania,2008-02-11,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Residence/Apartment,Anti-Homosexual,Individual,S,S
+2004,Other,NY,New York,2004-10-22,0.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Murder,1.0,School/College,Anti-Jewish,Individual,S,S
+2006,City,LA,California,2006-08-15,1.0,0.0,2,1.0,1.0,Asian,Not Hispanic or Latino,2,Simple Assault,2.0,School/College,Anti-Asian,Individual,S,S
+2009,Other,AR,Arkansas,2009-05-29,0.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Store/Mall,Anti-Hispanic,Individual,S,S
+1999,City,GA,Georgia,1999-06-11,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Office Building,Anti-Gay (Male),Individual,S,S
+2002,City,MA,Massachusetts,2002-04-26,0.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Asian,Individual,S,S
+2007,Other,WA,Washington,2007-09-29,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Vandalism,1.0,School/College,Anti-Homosexual,Individual,S,S
+2003,City,IL,Illinois,2003-12-02,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Murder,1.0,Office Building,Anti-Jewish,Individual,S,S
+2005,Other,NJ,New Jersey,2005-07-16,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Individual,S,S

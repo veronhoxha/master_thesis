@@ -1,0 +1,46 @@
+"2004,Local Government,AL,Alabama,2004-06-01,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Highway,Anti-White,Adults and Minors,Other,M,M
+2004,Federal Government,CA,California,2004-06-02,0,1,1,0,1,Unknown,Asian,2,Aggravated Assault,2.0,Residence,Anti-Hispanic or Latino,Adults and Minors,Other,M,M
+2004,State Agency,FL,Florida,2004-06-03,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Other None of the Above,Anti-Jewish,Other,M,M
+2004,Local Government,GA,Georgia,2004-06-04,0,0,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,Street/Highway,Anti-Gay,Adults Only,Other,M,M
+2004,State Agency,IL,Illinois,2004-06-05,0,0,2,0,2,Unknown,Not Specified,2,Destruction/Damage/Vandalism of Property,2.0,Street/Highway,Anti-Catholic,Adults Only,Other,M,M
+2004,Federal Government,MA,Massachusetts,2004-06-06,0,0,1,0,1,Unknown,Asian,1,Aggravated Assault,1.0,Street/Highway,Anti-Arab,Adults and Minors,Other,M,M
+2004,Local Government,MI,Michigan,2004-06-07,0,0,1,0,1,Black or African American,Not Hispanic or Latino,1,Vandalism,1.0,Residence,Anti-White,Adults Only,Other,M,M
+2004,State Agency,NJ,New Jersey,2004-06-08,1,0,1,1,0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Street/Highway,Anti-Hispanic or Latino,Adults Only,Other,M,M
+2004,Federal Government,NY,NY,2004-06-09,0,0,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,Street/Highway,Anti-Gay,Adults and Minors,Other,M,M
+2004,Local Government,OH,Ohio,2004-06-10,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1.0,Other None of the Above,Anti-Black or African American,Adults Only,Other,M,M
+2004,State Agency,OK,Oklahoma,2004-06-11,0,0,1,0,1,Unknown,Not Specified,1,Aggravated Assault,1.0,Residence,Anti-White,Adults Only,Other,M,M
+2004,Federal Government,PA,Pennsylvania,2004-06-12,0,0,1,0,1,Black or African American,Not Hispanic or Latino,1,Vandalism,1.0,Residence,Anti-Jewish,Adults Only,Other,M,M
+2004,Local Government,SC,South Carolina,2004-06-13,0,0,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,Street/Highway,Anti-Gay,Adults Only,Other,M,M
+2004,State Agency,TX,Texas,2004-06-14,1,0,1,1,0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Street/Highway,Anti-Hispanic or Latino,Adults Only,Other,M,M
+2004,Federal Government,UT,Utah,2004-06-15,0,1,1,0,1,Unknown,Asian,2,Aggravated Assault,2.0,Residence,Anti-Catholic,Adults and Minors,Other,M,M
+2004,Local Government,WI,Wisconsin,2004-06-16,0,0,1,0,1,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Other None of the Above,Anti-Jewish,Adults Only,Other,M,M
+2004,State Agency,AZ,AZ,2004-06-17,0,0,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,Street/Highway,Anti-Gay,Adults Only,Other,M,M
+2004,Federal Government,GA,GA,2004-06-18,0,0,1,0,1,Unknown,Asian,1,Aggravated Assault,1.0,Street/Highway,Anti-Hispanic or Latino,Adults Only,Other,M,M
+2004,Local Government,IA,IA,2004-06-19,0,0,1,0,1,Black or African American,Not Hispanic or Latino,1,Vandalism,1.0,Residence,Anti-White,Adults Only,Other,M,M
+2004,State Agency,KS,KS,2004-06-20,1,0,1,1,0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Street/Highway,Anti-Gay,Adults Only,Other,M,M
+2004,Federal Government,LA,LA,2004-06-21,0,0,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,Street/Highway,Anti-Jewish,Adults and Minors,Other,M,M
+2004,Local Government,ME,ME,2004-06-22,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1.0,Other None of the Above,Anti-Black or African American,Adults Only,Other,M,M
+2004,State Agency,MO,MO,2004-06-23,0,0,1,0,1,Unknown,Asian,1,Vandalism,1.0,Residence,Anti-Catholic,Adults Only,Other,M,M
+2004,Federal Government,MS,MS,2004-06-24,0,0,1,0,1,Black or African American,Not Hispanic or Latino,1,Aggravated Assault,1.0,Street/Highway,Anti-White,Adults Only,Other,M,M
+2004,Local Government,MT,MT,2004-06-25,1,0,1,1,0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Street/Highway,Anti-Hispanic or Latino,Adults Only,Other,M,M
+2004,State Agency,NC,NC,2004-06-26,0,0,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,Street/Highway,Anti-Gay,Adults Only,Other,M,M
+2004,Federal Government,ND,ND,2004-06-27,0,1,1,0,1,Unknown,Asian,2,Aggravated Assault,2.0,Residence,Anti-Jewish,Adults and Minors,Other,M,M
+2004,Local Government,NE,NE,2004-06-28,0,0,1,0,1,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Other None of the Above,Anti-Catholic,Adults Only,Other,M,M
+2004,State Agency,NH,NH,2004-06-29,1,0,1,1,0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Street/Highway,Anti-Black or African American,Adults Only,Other,M,M
+2004,Federal Government,NM,NM,2004-06-30,0,0,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,Street/Highway,Anti-Gay,Adults Only,Other,M,M
+2004,Local Government,NV,NV,2004-07-01,0,0,1,0,1,Black or African American,Not Hispanic or Latino,1,Vandalism,1.0,Residence,Anti-White,Adults Only,Other,M,M
+2004,State Agency,NY,NY,2004-07-02,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1.0,Other None of the Above,Anti-Hispanic or Latino,Adults Only,Other,M,M
+2004,Federal Government,OH,OH,2004-07-03,0,0,1,0,1,Unknown,Asian,1,Destruction/Damage/Vandalism of Property,1.0,Street/Highway,Anti-Catholic,Adults Only,Other,M,M
+2004,Local Government,OK,OK,2004-07-04,0,0,1,0,1,Black or African American,Not Hispanic or Latino,1,Aggravated Assault,1.0,Residence,Anti-White,Adults Only,Other,M,M
+2004,State Agency,OR,OR,2004-07-05,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Highway,Anti-Gay,Adults Only,Other,M,M
+2004,Federal Government,PA,PA,2004-07-06,0,0,1,0,1,Unknown,Not Specified,1,Vandalism,1.0,Residence,Anti-Jewish,Adults Only,Other,M,M
+2004,Local Government,RI,RI,2004-07-07,0,1,1,0,1,Unknown,Asian,2,Aggravated Assault,2.0,Street/Highway,Anti-White,Adults and Minors,Other,M,M
+2004,State Agency,SC,SC,2004-07-08,1,0,1,1,0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Street/Highway,Anti-Black or African American,Adults Only,Other,M,M
+2004,Federal Government,SD,SD,2004-07-09,0,0,1,0,1,Unknown,Not Specified,1,Intimidation,1.0,Other None of the Above,Anti-Catholic,Adults Only,Other,M,M
+2004,Local Government,TN,TN,2004-07-10,0,0,1,0,1,Black or African American,Not Hispanic or Latino,1,Vandalism,1.0,Residence,Anti-White,Adults Only,Other,M,M
+2004,State Agency,TX,TX,2004-07-11,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Highway,Anti-Hispanic or Latino,Adults Only,Other,M,M
+2004,Federal Government,UT,UT,2004-07-12,0,0,1,0,1,Unknown,Asian,1,Aggravated Assault,1.0,Street/Highway,Anti-Jewish,Adults Only,Other,M,M
+2004,Local Government,VA,VA,2004-07-13,0,0,1,0,1,Black or African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Street/Highway,Anti-White,Adults Only,Other,M,M
+2004,State Agency,WI,WI,2004-07-14,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1.0,Other None of the Above,Anti-Hispanic or Latino,Adults Only,Other,M,M
+2004,Federal Government,WV,WV,2004-07-15,0,0,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,Street/Highway,Anti-Gay,Adults Only,Other,M,M
+2004,Local Government,WY,WY,2004-07-16,0,1,1,0,1,Unknown,Asian,2,Aggravated Assault,2.0,Residence,Anti-Catholic,Adults and Minors,Other,M,M"

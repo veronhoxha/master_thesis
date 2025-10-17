@@ -1,0 +1,11 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2013,State Police,PA,Pennsylvania,2013-06-19,0,0,0,0,0.0,Other,0,Hate Crime (Bias Against Religion),0.5,Synagogue,Religious Bias,No,Yes,,
+2014,FBI Field Office,NY,New York,2014-07-08,1,0,0,0,0.0,Hispanic/Latino,1,Robbery,1.0,Business,Ethnic Bias,No,Yes,,
+2003,City Police Department,IN,Indiana,2003-09-07,1,0,1,0,0.0,Other,1,Vandalism,0.5,School/College,Other,No,Yes,,
+2006,State Police,IL,Illinois,2006-08-15,0,1,0,0,0.0,Black or African American,1,Destruction/Damage/Vandalism of Property,0.5,Park,Other,No,Yes,,
+2009,FBI Field Office,MA,Massachusetts,2009-04-23,0,1,0,0,0.0,White,1,Vandalism,0.5,Public Transit,Other,No,Yes,,
+2012,City Police Department,CA,California,2012-06-28,0,1,0,0,0.0,Asian,1,Destruction/Damage/Vandalism of Property,0.5,Residential Building,Other,No,Yes,,
+2011,State Police,MI,Michigan,2011-07-23,0,0,0,0,0.0,Black or African American,1,Hate Crime (Bias Against Religion),0.5,Church/Religious Institution,Other,No,Yes,,
+2008,FBI Field Office,FL,Florida,2008-08-05,0,0,0,0,0.0,White,1,Hate Crime (Bias Against Religion),0.5,Cemetery,Other,No,Yes,,
+2010,City Police Department,WI,Wisconsin,2010-09-27,0,0,0,0,0.0,Asian,1,Destruction/Damage/Vandalism of Property,0.5,University,Other,No,Yes,,
+2002,State Police,OH,Ohio,2002-06-20,0,0,0,0,0.0,Black or African American,1,Assault,1.0,Public Park,Other,No,Yes,,

@@ -1,0 +1,46 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1998,County Police,GA,Georgia,1998-06-15,2,0,3,2,1,White,Not Hispanic or Latino,2,Vandalism,2,Residence/Home,Racial Bias,Individual,No,No
+2001,City Police,MI,Michigan,2001-09-20,1,1,2,1,1,Black or African American,Not Hispanic or Latino,2,Assault,2,Street,Racial Bias,Individual,No,No
+1995,County Police,TX,Texas,1995-04-12,1,0,1,1,0,White,Not Hispanic or Latino,1,Threats,1,Work,Religious Bias,Individual,No,No
+2004,State Police,FL,Florida,2004-11-03,2,0,2,2,0,White,Hispanic or Latino,2,Intimidation,2,Church,Racial Bias,Individual,No,No
+2007,County Police,CA,California,2007-08-15,1,0,1,1,0,Asian,Not Hispanic or Latino,1,Aggravated Assault,1,Park,Racial Bias,Individual,No,No
+1996,University Police,NY,New York,1996-03-22,1,0,1,1,0,White,Not Hispanic or Latino,1,Larceny/Theft,1,College/University Campus,Religious Bias,Individual,No,No
+2003,County Police,IL,Illinois,2003-07-11,2,0,3,2,1,White,Not Hispanic or Latino,2,Vandalism,2,Religious Institution,Racial Bias,Individual,No,No
+2009,County Police,PA,Pennsylvania,2009-10-28,1,0,1,1,0,Black or African American,Not Hispanic or Latino,1,Aggravated Assault,1,Residence/Home,Racial Bias,Individual,No,No
+1999,State Police,CO,Colorado,1999-02-18,1,0,1,1,0,White,Not Hispanic or Latino,1,Threats,1,Street,Sexual Orientation Bias,Individual,No,No
+2005,County Police,VA,Virginia,2005-12-05,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,Work,Disability Bias,Individual,No,No
+2002,County Police,NC,North Carolina,2002-06-23,1,0,1,1,0,White,Not Hispanic or Latino,1,Aggravated Assault,1,Residence/Home,Racial Bias,Individual,No,No
+2006,County Police,AZ,Arizona,2006-09-10,1,0,1,1,0,White,Not Hispanic or Latino,1,Vandalism,1,Street,Racial Bias,Individual,No,No
+2008,County Police,MD,Maryland,2008-05-25,1,0,1,1,0,White,Not Hispanic or Latino,1,Aggravated Assault,1,Residence/Home,Religious Bias,Individual,No,No
+2010,County Police,WA,Washington,2010-11-12,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,Work,Sexual Orientation Bias,Individual,No,No
+2012,County Police,OH,Ohio,2012-04-03,1,0,1,1,0,White,Not Hispanic or Latino,1,Vandalism,1,Street,Disability Bias,Individual,No,No
+1997,County Police,MO,Missouri,1997-07-18,1,0,1,1,0,White,Not Hispanic or Latino,1,Aggravated Assault,1,Residence/Home,Racial Bias,Individual,No,No
+2000,County Police,OR,Oregon,2000-12-25,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,Work,Religious Bias,Individual,No,No
+1993,County Police,CT,Connecticut,1993-03-10,1,0,1,1,0,White,Not Hispanic or Latino,1,Vandalism,1,Street,Sexual Orientation Bias,Individual,No,No
+2011,County Police,UT,Utah,2011-08-01,1,0,1,1,0,White,Not Hispanic or Latino,1,Aggravated Assault,1,Residence/Home,Disability Bias,Individual,No,No
+2013,County Police,RI,Rhode Island,2013-09-27,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,Work,Racial Bias,Individual,No,No
+2014,County Police,NJ,New Jersey,2014-02-14,1,0,1,1,0,White,Not Hispanic or Latino,1,Vandalism,1,Street,Religious Bias,Individual,No,No
+1994,County Police,WI,Wisconsin,1994-06-29,1,0,1,1,0,White,Not Hispanic or Latino,1,Aggravated Assault,1,Residence/Home,Sexual Orientation Bias,Individual,No,No
+1992,County Police,IN,Indiana,1992-01-15,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,Work,Disability Bias,Individual,No,No
+2001,County Police,AL,Alabama,2001-05-03,1,0,1,1,0,White,Not Hispanic or Latino,1,Vandalism,1,Street,Racial Bias,Individual,No,No
+2002,County Police,AK,Alaska,2002-07-22,1,0,1,1,0,White,Not Hispanic or Latino,1,Aggravated Assault,1,Residence/Home,Religious Bias,Individual,No,No
+2003,County Police,HI,Hawaii,2003-11-11,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,Work,Sexual Orientation Bias,Individual,No,No
+2004,County Police,ID,Idaho,2004-03-08,1,0,1,1,0,White,Not Hispanic or Latino,1,Vandalism,1,Street,Disability Bias,Individual,No,No
+2005,County Police,IA,Iowa,2005-09-20,1,0,1,1,0,White,Not Hispanic or Latino,1,Aggravated Assault,1,Residence/Home,Racial Bias,Individual,No,No
+2006,County Police,KS,Kansas,2006-02-17,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,Work,Religious Bias,Individual,No,No
+2007,County Police,KY,Kentucky,2007-08-05,1,0,1,1,0,White,Not Hispanic or Latino,1,Vandalism,1,Street,Sexual Orientation Bias,Individual,No,No
+2008,County Police,LA,Louisiana,2008-04-29,1,0,1,1,0,White,Not Hispanic or Latino,1,Aggravated Assault,1,Residence/Home,Disability Bias,Individual,No,No
+2009,County Police,ME,Maine,2009-12-13,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,Work,Racial Bias,Individual,No,No
+2010,County Police,MS,Mississippi,2010-07-07,1,0,1,1,0,White,Not Hispanic or Latino,1,Vandalism,1,Street,Religious Bias,Individual,No,No
+2011,County Police,MT,Montana,2011-06-02,1,0,1,1,0,White,Not Hispanic or Latino,1,Aggravated Assault,1,Residence/Home,Sexual Orientation Bias,Individual,No,No
+2012,County Police,NE,Nebraska,2012-01-10,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,Work,Disability Bias,Individual,No,No
+2013,County Police,NV,Nevada,2013-11-23,1,0,1,1,0,White,Not Hispanic or Latino,1,Vandalism,1,Street,Racial Bias,Individual,No,No
+2014,County Police,NH,New Hampshire,2014-05-18,1,0,1,1,0,White,Not Hispanic or Latino,1,Aggravated Assault,1,Residence/Home,Religious Bias,Individual,No,No
+1991,County Police,ND,North Dakota,1991-10-04,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,Work,Sexual Orientation Bias,Individual,No,No
+1992,County Police,OK,Oklahoma,1992-03-20,1,0,1,1,0,White,Not Hispanic or Latino,1,Vandalism,1,Street,Disability Bias,Individual,No,No
+1993,County Police,SD,South Dakota,1993-08-12,1,0,1,1,0,White,Not Hispanic or Latino,1,Aggravated Assault,1,Residence/Home,Racial Bias,Individual,No,No
+1994,County Police,TN,Tennessee,1994-02-27,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,Work,Religious Bias,Individual,No,No
+1995,County Police,Vermont,VT,1995-07-09,1,0,1,1,0,White,Not Hispanic or Latino,1,Vandalism,1,Street,Sexual Orientation Bias,Individual,No,No
+1996,County Police,WA,Washington,1996-12-21,1,0,1,1,0,White,Not Hispanic or Latino,1,Aggravated Assault,1,Residence/Home,Disability Bias,Individual,No,No
+1997,County Police,WV,West Virginia,1997-09-15,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,Work,Racial Bias,Individual,No,No
+1998,County Police,WY,Wyoming,1998-04-07,1,0,1,1,0,White,Not Hispanic or Latino,1,Vandalism,1,Street,Religious Bias,Individual,No,No

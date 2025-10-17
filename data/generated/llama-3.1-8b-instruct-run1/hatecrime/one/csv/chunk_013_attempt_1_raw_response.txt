@@ -1,0 +1,42 @@
+"2004","City","NV","Nevada","2004-03-08",1,0,1,1,0,"White","Non-Hispanic",2,"Larceny/Theft",2.0,"Residential Area","Anti-White",Other,M
+"2004","Shire","PA","Pennsylvania","2004-06-16",1,0,1,1,0,"White","Non-Hispanic",1,"Simple Assault",1.0,"Street/Hwy/Freeway","Anti-White",Male,S
+"2004","City","TX","Texas","2004-08-02",0,1,1,0,1,"White","Non-Hispanic",1,"Vandalism",1.0,"School/College","Anti-White",Other,M
+"2004","City","IL","Illinois","2004-01-28",1,0,2,1,1,"Black or African American","Non-Hispanic",3,"Intimidation",3.0,"Residential Area","Anti-Hispanic",Male,S
+"2004","Township","CA","California","2004-12-03",0,0,1,0,1,"Asian","Non-Hispanic",1,"Simple Assault",1.0,"Residential Area","Anti-Asian",Male,S
+"2004","City","OH","Ohio","2004-11-11",1,0,1,1,0,"White","Non-Hispanic",1,"Larceny/Theft",1.0,"Parking Lot/Garage","Anti-Jewish",Other,M
+"2004","City","NY","New York","2004-10-18",0,0,1,0,1,"Hispanic or Latino","Non-Hispanic",1,"Vandalism",1.0,"Street/Hwy/Freeway","Anti-Hispanic",Other,M
+"2004","City","FL","Florida","2004-04-27",0,1,1,0,1,"White","Non-Hispanic",1,"Simple Assault",1.0,"Residential Area","Anti-White",Other,M
+"2004","City","NC","North Carolina","2004-09-13",1,0,1,1,0,"White","Non-Hispanic",1,"Larceny/Theft",1.0,"School/College","Anti-White",Male,S
+"2004","City","GA","Georgia","2004-07-19",0,1,1,0,1,"Black or African American","Non-Hispanic",1,"Simple Assault",1.0,"Residential Area","Anti-Black or African American",Other,M
+"2004","City","SC","South Carolina","2004-02-24",1,0,1,1,0,"White","Non-Hispanic",1,"Simple Assault",1.0,"Parking Lot/Garage","Anti-White",Other,M
+"2004","Township","MI","Michigan","2004-05-13",0,0,1,0,1,"Hispanic or Latino","Non-Hispanic",1,"Vandalism",1.0,"Street/Hwy/Freeway","Anti-Hispanic",Other,M
+"2004","City","CO","Colorado","2004-03-29",1,0,1,1,0,"White","Non-Hispanic",1,"Larceny/Theft",1.0,"School/College","Anti-White",Male,S
+"2004","City","OR","Oregon","2004-09-02",0,1,1,0,1,"Asian","Non-Hispanic",1,"Simple Assault",1.0,"Residential Area","Anti-Asian",Other,M
+"2004","City","WA","Washington","2004-11-15",1,0,1,1,0,"Black or African American","Non-Hispanic",1,"Larceny/Theft",1.0,"Parking Lot/Garage","Anti-Black or African American",Other,M
+"2004","City","AR","Arkansas","2004-08-17",1,0,1,1,0,"White","Non-Hispanic",1,"Simple Assault",1.0,"Residential Area","Anti-White",Male,S
+"2004","Township","VT","Vermont","2004-10-16",0,0,1,0,1,"White","Non-Hispanic",1,"Vandalism",1.0,"Street/Hwy/Freeway","Anti-White",Male,S
+"2004","City","KY","Kentucky","2004-12-14",0,1,1,0,1,"Black or African American","Non-Hispanic",1,"Simple Assault",1.0,"Residential Area","Anti-Black or African American",Other,M
+"2004","City","LA","Louisiana","2004-07-28",1,0,1,1,0,"White","Non-Hispanic",1,"Larceny/Theft",1.0,"School/College","Anti-White",Male,S
+"2004","City","HI","Hawaii","2004-06-14",1,0,1,1,0,"Asian","Non-Hispanic",1,"Simple Assault",1.0,"Parking Lot/Garage","Anti-Asian",Other,M
+"2004","City","ID","Idaho","2004-02-19",0,1,1,0,1,"White","Non-Hispanic",1,"Simple Assault",1.0,"Residential Area","Anti-White",Other,M
+"2004","City","WY","Wyoming","2004-09-25",1,0,1,1,0,"White","Non-Hispanic",1,"Larceny/Theft",1.0,"School/College","Anti-White",Male,S
+"2004","City","UT","Utah","2004-12-11",0,0,1,0,1,"Asian","Non-Hispanic",1,"Vandalism",1.0,"Street/Hwy/Freeway","Anti-Asian",Other,M
+"2004","City","NE","Nebraska","2004-06-01",1,0,1,1,0,"Black or African American","Non-Hispanic",1,"Simple Assault",1.0,"Residential Area","Anti-Black or African American",Other,M
+"2004","City","KS","Kansas","2004-01-26",1,0,1,1,0,"White","Non-Hispanic",1,"Larceny/Theft",1.0,"Parking Lot/Garage","Anti-White",Male,S
+"2004","Township","ME","Maine","2004-04-20",0,0,1,0,1,"Hispanic or Latino","Non-Hispanic",1,"Vandalism",1.0,"Street/Hwy/Freeway","Anti-Hispanic",Other,M
+"2004","City","AZ","Arizona","2004-08-25",1,0,1,1,0,"White","Non-Hispanic",1,"Simple Assault",1.0,"School/College","Anti-White",Male,S
+"2004","City","NM","New Mexico","2004-11-19",0,1,1,0,1,"Asian","Non-Hispanic",1,"Simple Assault",1.0,"Residential Area","Anti-Asian",Other,M
+"2004","City","AL","Alabama","2004-03-05",1,0,1,1,0,"White","Non-Hispanic",1,"Larceny/Theft",1.0,"Parking Lot/Garage","Anti-White",Other,M
+"2004","City","OK","Oklahoma","2004-07-22",0,1,1,0,1,"Black or African American","Non-Hispanic",1,"Simple Assault",1.0,"Residential Area","Anti-Black or African American",Other,M
+"2004","City","MS","Mississippi","2004-09-08",1,0,1,1,0,"White","Non-Hispanic",1,"Simple Assault",1.0,"School/College","Anti-White",Male,S
+"2004","City","DE","Delaware","2004-10-29",0,0,1,0,1,"Hispanic or Latino","Non-Hispanic",1,"Vandalism",1.0,"Street/Hwy/Freeway","Anti-Hispanic",Other,M
+"2004","City","CT","Connecticut","2004-06-11",1,0,1,1,0,"White","Non-Hispanic",1,"Larceny/Theft",1.0,"Parking Lot/Garage","Anti-White",Male,S
+"2004","Township","RI","Rhode Island","2004-02-20",0,0,1,0,1,"Asian","Non-Hispanic",1,"Vandalism",1.0,"Street/Hwy/Freeway","Anti-Asian",Other,M
+"2004","City","MT","Montana","2004-04-14",1,0,1,1,0,"Black or African American","Non-Hispanic",1,"Simple Assault",1.0,"Residential Area","Anti-Black or African American",Other,M
+"2004","City","ND","North Dakota","2004-09-01",0,1,1,0,1,"White","Non-Hispanic",1,"Simple Assault",1.0,"Residential Area","Anti-White",Other,M
+"2004","City","TN","Tennessee","2004-12-10",1,0,1,1,0,"White","Non-Hispanic",1,"Larceny/Theft",1.0,"School/College","Anti-White",Male,S
+"2004","City","IA","Iowa","2004-07-05",0,0,1,0,1,"Black or African American","Non-Hispanic",1,"Vandalism",1.0,"Street/Hwy/Freeway","Anti-Black or African American",Other,M
+"2004","City","SD","South Dakota","2004-01-09",1,0,1,1,0,"White","Non-Hispanic",1,"Simple Assault",1.0,"Parking Lot/Garage","Anti-White",Male,S
+"2004","City","WV","West Virginia","2004-08-04",0,1,1,0,1,"Asian","Non-Hispanic",1,"Simple Assault",1.0,"Residential Area","Anti-Asian",Other,M
+"2004","Township","IN","Indiana","2004-11-04",1,0,1,1,0,"Black or African American","Non-Hispanic",1,"Larceny/Theft",1.0,"School/College","Anti-Black or African American",Other,M
+"2004","City","MO","Missouri","2004-10-26",0,0,1,0,1,"Hispanic or Latino","Non-Hispanic",1,"Vandalism",1.0,"Street/Hwy/Freeway","Anti-Hispanic",Other,M
