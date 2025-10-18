@@ -1,0 +1,49 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,City,TX,Texas,1991-03-15,1.0,,2,2.0,,White,Not Hispanic or Latino,1,Intimidation,1.0,Residence/Home,Anti-Black or African American,Individual,S,S
+1992,County,NY,New York,1992-08-22,,1.0,1,,1.0,Black or African American,Not Specified,1,Simple Assault,1.0,School/College,Anti-White,Individual,S,S
+1993,State,CA,California,1993-11-07,2.0,,1,1.0,,Asian,Not Hispanic or Latino,2,Aggravated Assault,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,S,S
+1994,City,FL,Florida,1994-02-28,,,3,2.0,1.0,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Church/Synagogue/Temple,Anti-Jewish,Other,S,S
+1995,Other,PA,Pennsylvania,1995-07-11,1.0,,2,1.0,1.0,White,Hispanic or Latino,1,Robbery,1.0,Gas Station,Anti-Hispanic or Latino,Individual,S,S
+1996,County,OH,Ohio,1996-09-19,,1.0,1,,1.0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Residence/Home,Anti-White,Individual,S,S
+1997,City,IL,Illinois,1997-12-03,3.0,,1,1.0,,White,Not Specified,3,Simple Assault,3.0,Restaurant,Anti-Islamic (Muslim),Individual,S,S
+1998,State,MI,Michigan,1998-04-25,1.0,1.0,2,2.0,,American Indian or Alaska Native,Not Hispanic or Latino,2,Burglary,2.0,Residence/Home,Anti-American Indian or Alaska Native,Individual,S,S
+1999,County,GA,Georgia,1999-10-14,,,1,1.0,,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Black or African American,Other,S,S
+2000,City,WA,Washington,2000-01-30,2.0,,1,1.0,,Black or African American,Not Specified,2,Aggravated Assault,2.0,Parking Lot/Garage,Anti-Asian,Individual,S,S
+2001,Other,NC,North Carolina,2001-06-08,,1.0,3,2.0,1.0,White,Not Hispanic or Latino,1,Intimidation,1.0,Residence/Home,Anti-Hispanic or Latino,Individual,S,S
+2002,County,AZ,Arizona,2002-03-22,1.0,,2,1.0,1.0,Unknown,Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,S,S
+2003,State,NJ,New Jersey,2003-08-09,4.0,,1,1.0,,Asian,Not Hispanic or Latino,4,Intimidation,4.0,Place of Worship,Anti-Jewish,Individual,S,S
+2004,City,CO,Colorado,2004-05-17,,,2,2.0,,White,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Church/Synagogue/Temple,Anti-Catholic,Other,S,S
+2005,County,TN,Tennessee,2005-11-02,1.0,,1,1.0,,Black or African American,Not Hispanic or Latino,1,Robbery,1.0,Convenience Store,Anti-White,Individual,S,S
+2006,Other,OR,Oregon,2006-07-20,2.0,1.0,3,2.0,1.0,White,Hispanic or Latino,3,Simple Assault,3.0,Park/Playground,Anti-Hispanic or Latino,Individual,S,S
+2007,City,MA,Massachusetts,2007-02-11,,,1,,,Unknown,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Islamic (Muslim),Other,S,S
+2008,State,VA,Virginia,2008-09-26,1.0,,2,1.0,1.0,White,Not Specified,1,Aggravated Assault,1.0,Bar/Nightclub,Anti-Gay (Male),Individual,S,S
+2009,County,MN,Minnesota,2009-04-04,3.0,,1,1.0,,American Indian or Alaska Native,Not Hispanic or Latino,3,Intimidation,3.0,Residence/Home,Anti-American Indian or Alaska Native,Individual,S,S
+2010,City,NV,Nevada,2010-10-30,,1.0,2,2.0,,Black or African American,Not Hispanic or Latino,1,Burglary,1.0,Residence/Home,Anti-Asian,Individual,S,S
+2011,Other,SC,South Carolina,2011-01-14,2.0,,1,1.0,,Asian,Not Specified,2,Simple Assault,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Individual,S,S
+2012,County,AL,Alabama,2012-06-25,,,3,2.0,1.0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,0.0,Church/Synagogue/Temple,Anti-Jewish,Other,S,S
+2013,State,MD,Maryland,2013-12-07,1.0,,2,1.0,1.0,Black or African American,Hispanic or Latino,1,Robbery,1.0,Gas Station,Anti-Hispanic or Latino,Individual,S,S
+2014,City,WI,Wisconsin,2014-08-19,,1.0,1,,1.0,Unknown,Not Specified,1,Intimidation,1.0,School/College,Anti-White,Individual,S,S
+1991,County,LA,Louisiana,1991-05-03,4.0,,1,1.0,,White,Not Hispanic or Latino,4,Aggravated Assault,4.0,Restaurant,Anti-Black or African American,Individual,S,S
+1992,City,MO,Missouri,1992-10-16,,,2,2.0,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Gay (Male),Other,S,S
+1993,State,IN,Indiana,1993-01-27,1.0,,3,2.0,1.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Parking Lot/Garage,Anti-Islamic (Muslim),Individual,S,S
+1994,County,TX,Texas,1994-07-12,,1.0,1,,1.0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Residence/Home,Anti-Hispanic or Latino,Individual,S,S
+1995,City,NY,New York,1995-03-08,2.0,,1,1.0,,Asian,Not Specified,2,Burglary,2.0,Residence/Home,Anti-Asian,Individual,S,S
+1996,Other,CA,California,1996-11-21,,,1,1.0,,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,0.0,Place of Worship,Anti-Catholic,Other,S,S
+1997,County,FL,Florida,1997-06-04,1.0,1.0,2,1.0,1.0,American Indian or Alaska Native,Hispanic or Latino,2,Robbery,2.0,Convenience Store,Anti-American Indian or Alaska Native,Individual,S,S
+1998,State,PA,Pennsylvania,1998-09-15,3.0,,1,1.0,,Black or African American,Not Hispanic or Latino,3,Aggravated Assault,3.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Individual,S,S
+1999,City,OH,Ohio,1999-02-26,,,2,2.0,,Unknown,Not Specified,1,Simple Assault,1.0,Bar/Nightclub,Anti-Jewish,Individual,S,S
+2000,County,IL,Illinois,2000-12-11,2.0,,3,2.0,1.0,White,Not Hispanic or Latino,2,Intimidation,2.0,School/College,Anti-Black or African American,Individual,S,S
+2001,State,MI,Michigan,2001-04-07,,1.0,1,,1.0,Black or African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,0.0,Residence/Home,Anti-Gay (Male),Other,S,S
+2002,City,GA,Georgia,2002-08-24,4.0,,2,1.0,1.0,Asian,Hispanic or Latino,4,Burglary,4.0,Residence/Home,Anti-Hispanic or Latino,Individual,S,S
+2003,County,WA,Washington,2003-01-31,1.0,,1,1.0,,White,Not Specified,1,Aggravated Assault,1.0,Park/Playground,Anti-Islamic (Muslim),Individual,S,S
+2004,Other,NC,North Carolina,2004-10-13,,,3,2.0,1.0,Unknown,Not Hispanic or Latino,1,Simple Assault,1.0,Church/Synagogue/Temple,Anti-Catholic,Individual,S,S
+2005,City,AZ,Arizona,2005-07-06,2.0,1.0,1,1.0,,American Indian or Alaska Native,Not Hispanic or Latino,3,Intimidation,3.0,Residence/Home,Anti-American Indian or Alaska Native,Individual,S,S
+2006,State,NJ,New Jersey,2006-03-19,,,2,2.0,,Black or African American,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Asian,Other,S,S
+2007,County,CO,Colorado,2007-09-30,1.0,,2,1.0,1.0,White,Hispanic or Latino,1,Robbery,1.0,Gas Station,Anti-Hispanic or Latino,Individual,S,S
+2008,City,TN,Tennessee,2008-05-14,,1.0,1,,1.0,Unknown,Not Hispanic or Latino,1,Aggravated Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Individual,S,S
+2009,Other,OR,Oregon,2009-11-27,3.0,,1,1.0,,Asian,Not Specified,3,Simple Assault,3.0,Restaurant,Anti-White,Individual,S,S
+2010,State,MA,Massachusetts,2010-02-08,,,1,1.0,,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,0.0,Place of Worship,Anti-Jewish,Other,S,S
+2011,County,VA,Virginia,2011-08-03,2.0,,2,2.0,,Black or African American,Not Hispanic or Latino,2,Intimidation,2.0,Residence/Home,Anti-Gay (Male),Individual,S,S
+2012,City,MN,Minnesota,2012-04-20,,,3,2.0,1.0,White,Not Specified,1,Burglary,1.0,School/College,Anti-Islamic (Muslim),Individual,S,S
+2013,State,NV,Nevada,2013-10-15,1.0,1.0,2,1.0,1.0,American Indian or Alaska Native,Hispanic or Latino,2,Aggravated Assault,2.0,Parking Lot/Garage,Anti-Hispanic or Latino,Individual,S,S
+2014,County,SC,South Carolina,2014-01-29,4.0,,1,1.0,,Black or African American,Not Hispanic or Latino,4,Simple Assault,4.0,Bar/Nightclub,Anti-Asian,Individual,S,S

@@ -1,0 +1,49 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,County,AL,Alabama,1991-03-15,1,,1,1,0,White,Not Hispanic,1,Intimidation,1,Residence/Home,Anti-Black or African American,Individual,N,N
+1992,City,CA,California,1992-07-22,,1,2,2,0,Black,Hispanic,1,Simple Assault,1,Highway/Road/Alley,Anti-White,Individual,N,S
+1993,State,NY,New York,1993-11-08,2,,1,1,0,Asian,Not Hispanic,2,Aggravated Assault,2,Restaurant,Anti-Gay (Male),Individuals,N,N
+1994,City,TX,Texas,1994-02-14,,,3,2,1,White,Hispanic,1,Destruction/Damage/Vandalism of Property,0,Church/Synagogue,Anti-Jewish,Other,N,N
+1995,County,FL,Florida,1995-09-30,1,1,1,1,0,American Indian,Not Hispanic,2,Robbery,2,Service/Gas Station,Anti-Hispanic,Individuals,N,S
+1996,City,IL,Illinois,1996-05-03,,,2,2,0,Black,Not Hispanic,1,Burglary,0,Residence/Home,Anti-Asian,Other,N,N
+1997,State,PA,Pennsylvania,1997-12-25,1,,1,0,1,Unknown,Hispanic,1,Larceny,1,Department Store,Anti-Islamic,Individual,N,N
+1998,County,OH,Ohio,1998-04-18,,1,1,1,0,White,Not Hispanic,1,Murder/Manslaughter,1,Parking Lot/Garage,Anti-Physical Disability,Individual,N,N
+1999,City,MI,Michigan,1999-08-07,2,,2,1,1,Black,Not Hispanic,2,Forcible Rape,2,Field/Woods,Anti-Female,Individuals,S,N
+2000,State,GA,Georgia,2000-01-12,1,,1,1,0,Asian,Hispanic,1,Aggravated Assault,1,Bar/Nightclub,Anti-Male Homosexual,Individual,N,N
+2001,County,NC,North Carolina,2001-06-20,,,3,3,0,White,Not Hispanic,1,Destruction/Damage/Vandalism of Property,0,School/College,Anti-Protestant,Other,N,S
+2002,City,WA,Washington,2002-10-31,1,1,2,2,0,Pacific Islander,Hispanic,2,Intimidation,2,Residence/Home,Anti-Catholic,Individuals,N,N
+2003,State,VA,Virginia,2003-03-27,1,,1,0,1,Black,Not Hispanic,1,Simple Assault,1,Convenience Store,Anti-White,Individual,N,N
+2004,County,AZ,Arizona,2004-07-04,,,2,1,1,American Indian,Hispanic,1,Arson,0,Church/Synagogue,Anti-Native American,Other,N,N
+2005,City,MA,Massachusetts,2005-09-11,2,,1,1,0,White,Not Hispanic,2,Larceny,2,Hotel/Motel,Anti-Mental Disability,Individuals,N,N
+2006,State,CO,Colorado,2006-02-28,1,1,3,3,0,Asian,Not Hispanic,2,Motor Vehicle Theft,0,Highway/Road/Alley,Anti-Korean,Other,S,N
+2007,County,MN,Minnesota,2007-11-15,,,1,1,0,Unknown,Hispanic,1,Destruction/Damage/Vandalism of Property,0,Service/Gas Station,Anti-Homosexual,Other,N,N
+2008,City,OR,Oregon,2008-05-19,1,,2,1,1,Black,Not Hispanic,1,Forcible Fondling,1,Park/Playground,Anti-Jewish,Individual,N,N
+2009,State,WI,Wisconsin,2009-08-02,,1,1,0,1,White,Hispanic,1,Kidnapping,1,Field/Woods,Anti-Hispanic,Individual,N,N
+2010,County,TN,Tennessee,2010-12-10,2,,2,2,0,Pacific Islander,Not Hispanic,2,Burglary,2,Residence/Home,Anti-Black or African American,Individuals,N,S
+2011,City,NV,Nevada,2011-04-25,1,,1,1,0,Asian,Hispanic,1,Aggravated Assault,1,Bar/Nightclub,Anti-Chinese,Individual,N,N
+2012,State,NJ,New Jersey,2012-07-16,,,3,2,1,American Indian,Not Hispanic,1,Destruction/Damage/Vandalism of Property,0,School/College,Anti-Islamic,Other,N,N
+2013,County,MD,Maryland,2013-01-30,1,1,2,1,1,Black,Hispanic,2,Robbery,2,Parking Lot/Garage,Anti-Gay (Male),Individuals,S,N
+2014,City,MO,Missouri,2014-06-05,,,1,1,0,White,Not Hispanic,1,Intimidation,1,Restaurant,Anti-Asian,Individual,N,N
+1991,State,LA,Louisiana,1991-10-22,2,,1,0,1,Unknown,Hispanic,2,Simple Assault,2,Hotel/Motel,Anti-Female,Individuals,N,N
+1992,County,KY,Kentucky,1992-12-14,,,2,2,0,Black,Not Hispanic,1,Destruction/Damage/Vandalism of Property,0,Church/Synagogue,Anti-Protestant,Other,N,N
+1993,City,SC,South Carolina,1993-08-09,1,,1,1,0,Asian,Hispanic,1,Murder/Manslaughter,1,Highway/Road/Alley,Anti-White,Individual,N,N
+1994,State,OK,Oklahoma,1994-03-03,1,1,3,3,0,White,Not Hispanic,2,Forcible Rape,2,Field/Woods,Anti-American Indian,Individuals,S,S
+1995,County,AR,Arkansas,1995-07-20,,,2,1,1,American Indian,Hispanic,1,Arson,0,Service/Gas Station,Anti-Black or African American,Other,N,N
+1996,City,MS,Mississippi,1996-11-11,2,,1,1,0,Pacific Islander,Not Hispanic,2,Larceny,2,Convenience Store,Anti-Male Homosexual,Individuals,N,N
+1997,State,UT,Utah,1997-05-26,,1,1,0,1,Black,Not Hispanic,1,Aggravated Assault,1,Residence/Home,Anti-Mormon,Individual,N,N
+1998,County,NM,New Mexico,1998-09-14,1,,2,2,0,White,Hispanic,1,Burglary,0,Park/Playground,Anti-Hispanic,Other,N,N
+1999,City,WV,West Virginia,1999-02-02,,,1,1,0,Unknown,Not Hispanic,1,Destruction/Damage/Vandalism of Property,0,Bar/Nightclub,Anti-Physical Disability,Other,N,N
+2000,State,KS,Kansas,2000-06-18,1,1,2,1,1,Asian,Hispanic,2,Intimidation,2,School/College,Anti-Vietnamese,Individuals,N,N
+2001,County,CT,Connecticut,2001-10-07,2,,3,3,0,Black,Not Hispanic,2,Simple Assault,2,Hotel/Motel,Anti-White,Individuals,S,N
+2002,City,ME,Maine,2002-01-23,,,1,0,1,American Indian,Hispanic,1,Forcible Fondling,1,Field/Woods,Anti-Native American,Individual,N,N
+2003,State,ND,North Dakota,2003-04-14,1,,2,2,0,White,Not Hispanic,1,Motor Vehicle Theft,0,Highway/Road/Alley,Anti-Islamic,Other,N,S
+2004,County,SD,South Dakota,2004-08-30,,1,1,1,0,Pacific Islander,Not Hispanic,1,Robbery,1,Service/Gas Station,Anti-Female,Individual,N,N
+2005,City,MT,Montana,2005-12-15,2,,1,1,0,Asian,Not Hispanic,2,Kidnapping,2,Church/Synagogue,Anti-Jewish,Individuals,N,N
+2006,State,WY,Wyoming,2006-07-08,,,2,2,0,Black,Hispanic,1,Destruction/Damage/Vandalism of Property,0,Residence/Home,Anti-Gay (Male),Other,N,N
+2007,County,ID,Idaho,2007-03-21,1,,3,2,1,White,Not Hispanic,1,Aggravated Assault,1,Convenience Store,Anti-Mental Disability,Individual,N,N
+2008,City,IN,Indiana,2008-10-03,1,1,1,0,1,Unknown,Hispanic,2,Larceny,2,Parking Lot/Garage,Anti-Black or African American,Individuals,N,N
+2009,State,NE,Nebraska,2009-05-27,,,2,1,1,American Indian,Not Hispanic,1,Arson,0,Park/Playground,Anti-Homosexual,Other,S,N
+2010,County,IA,Iowa,2010-09-09,2,,1,1,0,Asian,Hispanic,2,Burglary,2,Bar/Nightclub,Anti-Chinese,Individuals,N,N
+2011,City,NH,New Hampshire,2011-01-04,,,3,3,0,Black,Not Hispanic,1,Destruction/Damage/Vandalism of Property,0,School/College,Anti-Catholic,Other,N,N
+2012,State,VT,Vermont,2012-06-30,1,,2,2,0,White,Hispanic,1,Murder/Manslaughter,1,Hotel/Motel,Anti-Male,Individual,N,N
+2013,County,DE,Delaware,2013-11-13,,1,1,1,0,Pacific Islander,Not Hispanic,1,Forcible Rape,1,Field/Woods,Anti-Physical Disability,Individual,N,N
+2014,City,RI,Rhode Island,2014-02-26,1,1,2,1,1,Asian,Hispanic,2,Intimidation,2,Residence/Home,Anti-Korean,Individuals,S,S

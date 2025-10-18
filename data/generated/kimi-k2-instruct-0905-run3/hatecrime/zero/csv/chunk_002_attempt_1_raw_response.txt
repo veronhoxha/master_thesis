@@ -1,0 +1,49 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1992,Municipal,CA,California,1992-03-15,1,0,2,2,0,White,Non-Hispanic,1,Intimidation,1,Highway/Road/Alley,Anti-Black,Individuals,No,No
+1995,Sheriff,TX,Texas,1995-07-22,0,1,1,1,0,Black,Hispanic,1,Simple Assault,1,Church/Synagogue/Temple,Anti-Jewish,Individuals,No,No
+1998,State Police,NY,New York,1998-11-08,2,0,3,2,1,Asian,Non-Hispanic,2,Aggravated Assault,2,Restaurant,Anti-White,Individuals,Yes,No
+1991,Tribal,MT,Montana,1991-09-03,1,0,1,1,0,American Indian,Non-Hispanic,1,Destruction/Damage/Vandalism,1,School/College,Anti-American Indian,Individuals,No,No
+1994,County Police,FL,Florida,1994-12-18,0,2,2,1,1,White,Hispanic,2,Larceny-Theft,2,Service/Gas Station,Anti-Hispanic,Individuals,No,No
+1999,Municipal,IL,Illinois,1999-02-28,1,0,1,1,0,Black,Non-Hispanic,1,Robbery,1,Department/Discount Store,Anti-Asian,Individuals,No,No
+1993,Sheriff,PA,Pennsylvania,1993-05-14,0,1,2,1,1,White,Non-Hispanic,1,Sodomy,1,Field/Woods,Anti-Male Homosexual,Individuals,No,No
+1996,State Police,OH,Ohio,1996-08-30,2,0,2,2,0,White,Hispanic,2,Murder and Nonnegligent Manslaughter,2,Abandoned/Condemned Structure,Anti-Catholic,Individuals,No,No
+2000,County Police,MI,Michigan,2000-10-12,1,0,3,2,1,Black,Non-Hispanic,1,Burglary,1,Residence/Home,Anti-White,Individuals,Yes,No
+1997,Municipal,WA,Washington,1997-06-05,0,1,1,0,1,Asian,Non-Hispanic,1,Intimidation,1,Bar/Nightclub,Anti-Female Homosexual,Individuals,No,No
+1992,Sheriff,GA,Georgia,1992-04-21,1,0,2,1,1,White,Non-Hispanic,1,Simple Assault,1,Construction Site,Anti-Black,Individuals,No,No
+1999,State Police,NC,North Carolina,1999-01-17,0,2,1,1,0,American Indian,Hispanic,2,Aggravated Assault,2,Parking Garage/Lot,Anti-Hispanic,Individuals,No,No
+1994,Tribal,AZ,Arizona,1994-07-09,1,0,1,1,0,White,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Service/Gas Station,Anti-American Indian,Individuals,No,No
+1998,County Police,NJ,New Jersey,1998-03-26,2,0,2,2,0,Black,Non-Hispanic,2,Larceny-Theft,2,Hotel/Motel,Anti-Jewish,Individuals,No,No
+1993,Municipal,VA,Virginia,1993-10-03,0,1,3,2,1,White,Hispanic,1,Robbery,1,Highway/Road/Alley,Anti-White,Individuals,Yes,No
+2001,Sheriff,CO,Colorado,2001-09-11,1,0,2,1,1,Asian,Non-Hispanic,1,Sodomy,1,Field/Woods,Anti-Asian,Individuals,No,No
+1995,State Police,TN,Tennessee,1995-11-25,2,0,1,1,0,White,Non-Hispanic,2,Murder and Nonnegligent Manslaughter,2,Abandoned/Condemned Structure,Anti-Protestant,Individuals,No,No
+2000,County Police,OR,Oregon,2000-08-14,1,0,2,2,0,Black,Hispanic,1,Burglary,1,Residence/Home,Anti-Male Homosexual,Individuals,No,No
+1996,Municipal,MA,Massachusetts,1996-12-30,0,1,1,1,0,White,Non-Hispanic,1,Intimidation,1,School/College,Anti-Black,Individuals,No,No
+1991,Sheriff,AL,Alabama,1991-02-13,1,0,3,2,1,Black,Non-Hispanic,1,Simple Assault,1,Church/Synagogue/Temple,Anti-White,Individuals,Yes,No
+1997,State Police,SC,South Carolina,1997-05-27,0,2,2,1,1,American Indian,Hispanic,2,Aggravated Assault,2,Restaurant,Anti-Hispanic,Individuals,No,No
+1994,Tribal,NM,New Mexico,1994-09-08,1,0,1,1,0,Asian,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Service/Gas Station,Anti-American Indian,Individuals,No,No
+1999,County Police,WI,Wisconsin,1999-04-19,2,0,2,2,0,White,Hispanic,2,Larceny-Theft,2,Bar/Nightclub,Anti-Catholic,Individuals,No,No
+1992,Municipal,MD,Maryland,1992-11-06,0,1,1,0,1,Black,Non-Hispanic,1,Robbery,1,Hotel/Motel,Anti-Female Homosexual,Individuals,No,No
+1998,Sheriff,MN,Minnesota,1998-07-02,1,0,2,2,0,White,Non-Hispanic,1,Sodomy,1,Highway/Road/Alley,Anti-Jewish,Individuals,No,No
+1993,State Police,LA,Louisiana,1993-12-15,2,0,1,1,0,Asian,Hispanic,2,Murder and Nonnegligent Manslaughter,2,Construction Site,Anti-White,Individuals,No,No
+2001,County Police,KY,Kentucky,2001-01-29,1,0,3,1,2,Black,Non-Hispanic,1,Burglary,1,Parking Garage/Lot,Anti-Black,Individuals,Yes,No
+1995,Municipal,OK,Oklahoma,1995-08-11,0,1,2,1,1,White,Hispanic,1,Intimidation,1,Field/Woods,Anti-Hispanic,Individuals,No,No
+2000,Sheriff,AR,Arkansas,2000-06-24,1,0,1,1,0,American Indian,Non-Hispanic,1,Simple Assault,1,Residence/Home,Anti-Protestant,Individuals,No,No
+1996,State Police,MS,Mississippi,1996-03-18,0,2,2,2,0,White,Non-Hispanic,2,Aggravated Assault,2,Abandoned/Condemned Structure,Anti-Black,Individuals,No,No
+1994,Municipal,NV,Nevada,1994-10-05,1,0,3,2,1,Black,Hispanic,1,Destruction/Damage/Vandalism,1,School/College,Anti-Male Homosexual,Individuals,Yes,No
+1997,County Police,ME,Maine,1997-01-12,2,0,2,1,1,White,Non-Hispanic,2,Larceny-Theft,2,Church/Synagogue/Temple,Anti-Jewish,Individuals,No,No
+1991,Sheriff,NH,New Hampshire,1991-05-31,0,1,1,1,0,Asian,Non-Hispanic,1,Robbery,1,Restaurant,Anti-Asian,Individuals,No,No
+1999,State Police,WV,West Virginia,1999-08-07,1,0,2,2,0,White,Hispanic,1,Sodomy,1,Service/Gas Station,Anti-Catholic,Individuals,No,No
+1992,Tribal,AK,Alaska,1992-12-22,2,0,1,1,0,American Indian,Non-Hispanic,2,Murder and Nonnegligent Manslaughter,2,Bar/Nightclub,Anti-American Indian,Individuals,No,No
+1998,Municipal,CT,Connecticut,1998-04-30,1,0,2,1,1,Black,Non-Hispanic,1,Burglary,1,Hotel/Motel,Anti-White,Individuals,No,No
+1993,County Police,DE,Delaware,1993-09-14,0,1,3,2,1,White,Hispanic,1,Intimidation,1,Highway/Road/Alley,Anti-Hispanic,Individuals,Yes,No
+2000,Sheriff,HI,Hawaii,2000-02-08,1,0,1,1,0,Asian,Non-Hispanic,1,Simple Assault,1,Construction Site,Anti-Black,Individuals,No,No
+1995,State Police,ID,Idaho,1995-11-19,0,2,2,1,1,White,Non-Hispanic,2,Aggravated Assault,2,Parking Garage/Lot,Anti-Mormon,Individuals,No,No
+2001,County Police,IA,Iowa,2001-07-26,1,0,1,1,0,Black,Hispanic,1,Destruction/Damage/Vandalism,1,Field/Woods,Anti-White,Individuals,No,No
+1996,Municipal,KS,Kansas,1996-05-03,2,0,2,2,0,American Indian,Non-Hispanic,2,Larceny-Theft,2,Residence/Home,Anti-Protestant,Individuals,No,No
+1994,Sheriff,MO,Missouri,1994-08-16,0,1,3,1,2,Asian,Non-Hispanic,1,Robbery,1,Abandoned/Condemned Structure,Anti-Female Homosexual,Individuals,Yes,No
+1997,State Police,NE,Nebraska,1997-12-11,1,0,2,2,0,White,Hispanic,1,Sodomy,1,School/College,Anti-Jewish,Individuals,No,No
+1991,County Police,ND,North Dakota,1991-06-28,2,0,1,1,0,Black,Non-Hispanic,2,Murder and Nonnegligent Manslaughter,2,Church/Synagogue/Temple,Anti-American Indian,Individuals,No,No
+1999,Tribal,RI,Rhode Island,1999-03-04,1,0,2,1,1,White,Non-Hispanic,1,Burglary,1,Restaurant,Anti-Catholic,Individuals,No,No
+1998,Municipal,SD,South Dakota,1998-09-20,0,1,1,0,1,American Indian,Hispanic,1,Intimidation,1,Service/Gas Station,Anti-Hispanic,Individuals,No,No
+1992,Sheriff,UT,Utah,1992-01-25,1,0,3,2,1,Asian,Non-Hispanic,1,Simple Assault,1,Bar/Nightclub,Anti-Mormon,Individuals,Yes,No
+1993,State Police,VT,Vermont,1993-10-31,2,0,2,2,0,White,Non-Hispanic,2,Aggravated Assault,2,Hotel/Motel,Anti-Black,Individuals,No,No

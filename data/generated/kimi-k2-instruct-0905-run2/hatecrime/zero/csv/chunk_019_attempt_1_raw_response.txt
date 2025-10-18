@@ -1,0 +1,48 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1992,City,CA,California,1992-04-12,1,0,2,2,0,White,Non-Hispanic,1,Intimidation,1,Highway/Road/Alley,Anti-Black,Gay (male),false,false
+1995,County,TX,Texas,1995-07-03,0,1,1,1,0,Black,Hispanic,1,Simple Assault,1,Convenience Store,Anti-Hispanic,Juvenile,false,false
+1999,City,NY,New York,1999-11-25,2,0,3,2,1,Asian,Non-Hispanic,2,Aggravated Assault,2,Restaurant,Anti-White,Adults,false,true
+2001,State,FL,Florida,2001-02-18,0,2,2,0,2,White,Hispanic,2,Vandalism,2,Church/Synagogue/Temple,Anti-Jewish,Juveniles,true,false
+2004,Tribal,WA,Washington,2004-09-30,1,0,1,1,0,American Indian,Non-Hispanic,1,Intimidation,1,Residence/Home,Anti-American Indian,Adult,false,false
+2007,County,IL,Illinois,2007-01-14,3,0,4,3,1,White,Non-Hispanic,3,Simple Assault,3,Service/Gas Station,Anti-Islamic,Adults,false,false
+2010,City,PA,Pennsylvania,2010-06-08,0,1,1,1,0,Black,Non-Hispanic,1,Destruction/Damage/Vandalism,1,School/College,Anti-White,Juvenile,false,false
+2013,Other,OH,Ohio,2013-10-22,2,1,3,2,1,White,Non-Hispanic,3,Aggravated Assault,3,Parking Garage/Lot,Anti-Black,Mixed Age,true,true
+1993,City,MI,Michigan,1993-03-27,1,0,2,1,1,Black,Non-Hispanic,1,Robbery,1,Residence/Home,Anti-White,Adult,false,false
+1996,County,CA,California,1996-08-09,0,2,2,1,1,Asian,Hispanic,2,Intimidation,2,School/College,Anti-Hispanic,Juveniles,false,false
+2000,State,NC,North Carolina,2000-12-01,1,0,1,1,0,White,Hispanic,1,Simple Assault,1,Bar/Nightclub,Anti-Gay (male),Gay (male),false,false
+2002,Tribal,AZ,Arizona,2002-05-15,0,1,1,0,1,American Indian,Non-Hispanic,1,Vandalism,1,Residence/Home,Anti-American Indian,Juvenile,false,false
+2005,City,NY,New York,2005-10-03,2,0,3,2,1,Black,Non-Hispanic,2,Aggravated Assault,2,Highway/Road/Alley,Anti-White,Adults,false,true
+2008,County,TX,Texas,2008-04-20,0,1,2,1,1,White,Hispanic,1,Destruction/Damage/Vandalism,1,Church/Synagogue/Temple,Anti-Jewish,Juvenile,false,false
+2011,Other,FL,Florida,2011-07-11,3,0,4,3,1,Black,Hispanic,3,Intimidation,3,Service/Gas Station,Anti-Hispanic,Adults,true,false
+1994,City,WA,Washington,1994-09-06,1,0,1,1,0,Asian,Non-Hispanic,1,Simple Assault,1,Residence/Home,Anti-Asian,Adult,false,false
+1997,State,PA,Pennsylvania,1997-02-12,0,2,2,1,1,White,Non-Hispanic,2,Vandalism,2,School/College,Anti-Black,Juveniles,false,false
+2000,County,IL,Illinois,2000-10-28,2,0,2,2,0,Black,Hispanic,2,Robbery,2,Parking Garage/Lot,Anti-Hispanic,Adults,false,true
+2003,City,OH,Ohio,2003-01-19,1,0,1,1,0,White,Non-Hispanic,1,Aggravated Assault,1,Bar/Nightclub,Anti-Islamic,Adult,false,false
+2006,Tribal,MI,Michigan,2006-06-25,0,1,1,0,1,American Indian,Hispanic,1,Intimidation,1,Residence/Home,Anti-American Indian,Juvenile,false,false
+2009,Other,CA,California,2009-11-14,3,1,4,3,1,Asian,Non-Hispanic,4,Simple Assault,4,Restaurant,Anti-Asian,Mixed Age,true,false
+2012,City,NC,North Carolina,2012-03-30,2,0,2,1,1,Black,Non-Hispanic,2,Destruction/Damage/Vandalism,2,Highway/Road/Alley,Anti-White,Adults,false,false
+1991,County,NY,New York,1991-08-05,1,0,2,2,0,White,Hispanic,1,Vandalism,1,Church/Synagogue/Temple,Anti-Jewish,Adult,false,false
+1995,State,TX,Texas,1995-12-17,0,2,3,2,1,White,Non-Hispanic,2,Intimidation,2,School/College,Anti-Gay (male),Juveniles,false,true
+1998,City,FL,Florida,1998-07-22,1,0,1,1,0,Black,Hispanic,1,Aggravated Assault,1,Service/Gas Station,Anti-Hispanic,Adult,false,false
+2001,County,WA,Washington,2001-05-08,2,1,3,2,1,Asian,Hispanic,3,Simple Assault,3,Residence/Home,Anti-Asian,Mixed Age,false,false
+2004,Other,PA,Pennsylvania,2004-02-26,0,1,1,1,0,White,Non-Hispanic,1,Vandalism,1,School/College,Anti-Black,Juvenile,false,false
+2007,Tribal,AZ,Arizona,2007-09-13,3,0,4,3,1,American Indian,Non-Hispanic,3,Robbery,3,Bar/Nightclub,Anti-American Indian,Adults,true,true
+2010,City,IL,Illinois,2010-04-04,1,0,2,1,1,Black,Non-Hispanic,1,Intimidation,1,Parking Garage/Lot,Anti-White,Adult,false,false
+2013,State,OH,Ohio,2013-08-19,0,2,2,1,1,White,Hispanic,2,Aggravated Assault,2,Highway/Road/Alley,Anti-Hispanic,Juveniles,false,false
+1992,County,CA,California,1992-11-11,2,0,2,2,0,Asian,Non-Hispanic,2,Destruction/Damage/Vandalism,2,Residence/Home,Anti-Asian,Adults,false,false
+1996,City,MI,Michigan,1996-01-30,0,1,1,0,1,White,Non-Hispanic,1,Simple Assault,1,Church/Synagogue/Temple,Anti-Jewish,Juvenile,false,false
+1999,Other,NY,New York,1999-06-14,3,0,3,2,1,Black,Hispanic,3,Vandalism,3,Service/Gas Station,Anti-Hispanic,Adults,true,false
+2002,State,TX,Texas,2002-10-27,1,0,1,1,0,White,Hispanic,1,Intimidation,1,School/College,Anti-Gay (male),Gay (male),false,false
+2005,County,FL,Florida,2005-03-15,0,2,2,1,1,Black,Non-Hispanic,2,Aggravated Assault,2,Residence/Home,Anti-Black,Juveniles,false,true
+2008,City,WA,Washington,2008-12-02,2,1,3,2,1,Asian,Non-Hispanic,3,Robbery,3,Bar/Nightclub,Anti-Asian,Mixed Age,false,false
+2011,Tribal,PA,Pennsylvania,2011-07-29,1,0,1,1,0,American Indian,Hispanic,1,Simple Assault,1,Highway/Road/Alley,Anti-American Indian,Adult,false,false
+1993,Other,AZ,Arizona,1993-05-18,0,1,2,1,1,White,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Parking Garage/Lot,Anti-White,Juvenile,false,false
+1997,City,IL,Illinois,1997-09-03,3,0,4,3,1,Black,Hispanic,3,Intimidation,3,Residence/Home,Anti-Hispanic,Adults,false,false
+2000,County,NC,North Carolina,2000-02-21,1,0,2,2,0,White,Non-Hispanic,1,Vandalism,1,Church/Synagogue/Temple,Anti-Jewish,Adult,false,false
+2003,State,CA,California,2003-08-07,0,2,3,2,1,Asian,Hispanic,2,Aggravated Assault,2,School/College,Anti-Asian,Juveniles,true,true
+2006,City,MI,Michigan,2006-01-16,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Service/Gas Station,Anti-White,Adults,false,false
+2009,County,NY,New York,2009-10-10,0,1,1,0,1,White,Hispanic,1,Intimidation,1,Residence/Home,Anti-Hispanic,Juvenile,false,false
+2012,Tribal,TX,Texas,2012-04-23,3,1,4,3,1,American Indian,Non-Hispanic,4,Robbery,4,Bar/Nightclub,Anti-American Indian,Mixed Age,false,false
+1994,State,FL,Florida,1994-07-05,1,0,1,1,0,Asian,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Highway/Road/Alley,Anti-Asian,Adult,false,false
+1998,Other,WA,Washington,1998-12-28,0,2,2,1,1,Black,Hispanic,2,Vandalism,2,School/College,Anti-Black,Juveniles,false,true
+2001,City,PA,Pennsylvania,2001-03-11,2,0,3,2,1,White,Non-Hispanic,2,Aggravated Assault,2,Parking Garage/Lot,Anti-Islamic,Adults,false,false

@@ -1,0 +1,49 @@
+EmployerName,SicCodes,DiffMeanHourlyPercent,DiffMedianHourlyPercent,DiffMeanBonusPercent,DiffMedianBonusPercent,MaleBonusPercent,FemaleBonusPercent,MaleLowerQuartile,FemaleLowerQuartile,MaleLowerMiddleQuartile,FemaleLowerMiddleQuartile,MaleUpperMiddleQuartile,FemaleUpperMiddleQuartile,MaleTopQuartile,FemaleTopQuartile,EmployerSize,DateSubmitted
+BrightPath Logistics Ltd,49200,14.7,12.3,24.6,18.9,45.2,38.7,58,42,61,39,68,32,72,28,Medium,2024-11-12
+Nexus Retail Group,47110,11.2,9.8,19.5,15.2,41.3,35.8,52,48,55,45,62,38,66,34,Large,2024-10-03
+Apex Financial Services,64110,22.4,20.1,38.7,32.5,52.1,44.3,48,52,51,49,58,42,68,32,Medium,2025-01-08
+Cedar Healthcare Trust,86101,18.9,16.5,28.3,24.7,38.6,42.1,34,66,36,64,42,58,48,52,Large,2024-12-05
+Momentum Manufacturing Co,25120,16.8,14.2,31.4,26.8,48.7,41.2,63,37,65,35,70,30,74,26,Large,2024-09-17
+Harbour Hotels Group,55110,13.5,11.7,22.9,19.4,43.8,39.5,46,54,49,51,54,46,60,40,Medium,2025-02-14
+Sterling Security Solutions,80100,19.7,17.3,35.2,29.1,51.4,44.6,59,41,62,38,67,33,71,29,Small,2024-11-28
+Pinnacle Education Services,85100,15.3,13.8,26.7,22.5,40.2,37.9,44,56,47,53,53,47,59,41,Medium,2025-01-22
+Nova Tech Innovations,58290,21.6,19.4,40.1,34.8,55.3,48.7,49,51,52,48,59,41,69,31,Large,2024-10-29
+Willowbrook Care Homes,87100,17.2,15.6,29.8,25.3,39.7,43.2,32,68,35,65,41,59,47,53,Medium,2024-11-06
+Thames Valley Construction,41100,12.9,10.5,23.7,19.8,46.1,40.5,61,39,64,36,69,31,73,27,Large,2024-12-18
+Meridian Media Agency,73110,14.6,12.9,27.3,23.1,47.5,42.8,54,46,57,43,63,37,68,32,Small,2025-02-03
+Atlas Engineering Ltd,28110,20.1,18.7,36.5,31.2,53.8,46.4,66,34,69,31,73,27,77,23,Medium,2024-09-25
+Radiant Energy Solutions,35110,18.3,16.9,33.1,28.4,49.6,43.7,57,43,60,40,65,35,70,30,Large,2025-01-15
+Liberty Legal Services,69110,16.5,14.8,30.2,25.7,44.9,39.6,51,49,54,46,60,40,66,34,Medium,2024-10-21
+Summit Sports Retail,47640,13.7,11.2,24.6,20.1,42.3,37.8,53,47,56,44,61,39,67,33,Medium,2024-11-30
+Phoenix Insurance Brokers,65120,23.8,21.5,42.3,36.9,56.7,49.2,46,54,49,51,56,44,67,33,Large,2024-12-09
+Greenleaf Environmental Ltd,38110,15.9,14.1,28.7,24.2,45.1,40.3,55,45,58,42,63,37,69,31,Small,2025-02-07
+Horizon Aviation Services,51102,19.4,17.8,34.9,29.6,50.8,44.1,52,48,55,45,62,38,70,30,Large,2024-10-14
+Unity Housing Association,68201,14.8,13.2,26.4,22.1,41.7,38.2,43,57,46,54,52,48,58,42,Medium,2025-01-03
+Crystal Clear Water Co,36000,17.6,15.9,31.8,27.3,48.2,42.5,56,44,59,41,64,36,71,29,Medium,2024-11-21
+Vanguard Security Tech,80200,21.2,19.6,38.7,33.2,54.1,47.8,60,40,63,37,68,32,74,26,Large,2024-12-12
+Eclipse Creative Studio,90030,16.1,14.5,29.3,25.1,46.3,41.7,50,50,53,47,59,41,65,35,Small,2025-02-01
+Bridgepoint Recruitment,78200,18.7,16.3,32.5,27.8,49.4,43.6,54,46,57,43,63,37,69,31,Medium,2024-10-08
+Starlight Hospitality,55201,12.4,10.8,21.7,17.9,40.6,36.2,45,55,48,52,54,46,61,39,Medium,2024-11-14
+Titan Manufacturing Ltd,25910,17.9,16.2,33.6,28.9,51.7,45.2,64,36,67,33,71,29,75,25,Large,2025-01-11
+Riverstone Care Services,87200,16.8,15.1,30.4,26.2,42.8,39.1,35,65,38,62,44,56,50,50,Medium,2024-12-22
+Momentum Marketing Ltd,70210,15.4,13.6,27.8,23.5,44.7,40.1,52,48,55,45,61,39,67,33,Small,2025-02-10
+Ironbridge Construction,42110,13.1,11.5,25.2,21.3,47.2,41.8,62,38,65,35,70,30,74,26,Large,2024-09-30
+Zenith Financial Planning,64991,24.1,22.3,43.7,38.2,57.9,50.6,45,55,48,52,55,45,68,32,Medium,2024-10-25
+Bluewave Telecomms,61100,20.5,18.9,37.2,32.1,52.4,46.3,50,50,53,47,60,40,70,30,Large,2025-01-18
+Oakhaven Medical Centre,86210,19.2,17.6,31.5,27.8,40.3,43.7,33,67,36,64,42,58,49,51,Small,2024-11-07
+Pacifica Shipping Ltd,50100,16.3,14.7,29.9,25.6,46.8,41.5,57,43,60,40,65,35,71,29,Medium,2024-12-15
+RedKite IT Solutions,62020,22.7,20.8,39.4,34.5,54.8,48.2,48,52,51,49,58,42,69,31,Large,2025-02-05
+Golden Gate Restaurants,56101,14.2,12.6,26.1,22.4,43.2,38.9,47,53,50,50,56,44,63,37,Medium,2024-10-19
+Silverline Consultancy,70229,17.5,15.8,32.1,27.6,48.5,42.9,53,47,56,44,62,38,68,32,Small,2024-11-26
+Nimbus Cloud Services,63110,21.8,20.2,40.6,35.4,56.1,49.7,49,51,52,48,59,41,70,30,Large,2024-12-20
+Willowmere Homes,41202,15.7,14.3,28.5,24.7,45.6,40.8,60,40,63,37,68,32,72,28,Large,2025-01-05
+Aurora Beauty Brands,20420,18.4,16.7,33.8,29.1,50.2,44.3,46,54,49,51,56,44,66,34,Medium,2024-10-12
+Trident Logistics,49200,13.9,12.1,24.8,20.6,44.1,39.2,59,41,62,38,67,33,72,28,Medium,2024-11-18
+Elmwood Care Services,87300,17.1,15.5,30.7,26.4,41.5,38.7,34,66,37,63,43,57,49,51,Small,2025-02-08
+Quantum Research Ltd,72190,19.6,18.1,35.3,30.8,51.2,45.1,47,53,50,50,57,43,68,32,Medium,2024-12-03
+Fleetway Motors,45112,16.2,14.6,29.4,25.2,46.3,41.2,58,42,61,39,66,34,71,29,Large,2024-09-22
+Cobalt Legal Partners,69109,23.2,21.4,41.8,36.5,56.3,49.7,44,56,47,53,54,46,67,33,Medium,2025-01-12
+Verdant Energy Ltd,35140,18.8,17.2,34.2,29.7,50.6,44.8,56,44,59,41,64,36,70,30,Large,2024-10-30
+Sapphire Retail Chain,47789,12.7,11.3,23.1,19.5,42.8,37.6,51,49,54,46,60,40,66,34,Medium,2024-11-15
+Ironclad Security Ltd,80100,20.9,19.3,37.5,32.8,53.7,47.1,61,39,64,36,69,31,75,25,Small,2024-12-24
+BrightFuture Education,85200,15.8,14.2,28.1,24.6,43.4,39.5,45,55,48,52,54,46,60,40,Medium,2025-02-11

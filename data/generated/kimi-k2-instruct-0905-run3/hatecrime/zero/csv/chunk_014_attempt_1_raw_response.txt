@@ -1,0 +1,47 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1992,Police Department,CA,California,1992-04-12,1,0,2,2,0,White,Non-Hispanic,1,Intimidation,1,Highway/Road/Alley/Street,Anti-Black,African American,False,False
+1995,Sheriff's Office,TX,Texas,1995-09-03,0,1,1,1,0,Black,Hispanic,1,Simple Assault,1,Residence/Home,Anti-Hispanic,Hispanic,False,False
+1998,Police Department,NY,New York,1998-11-25,2,0,3,2,1,Asian,Non-Hispanic,2,Aggravated Assault,2,Church/Synagogue/Temple,Anti-Jewish,Jewish,True,False
+2001,State Police,FL,Florida,2001-06-18,1,1,2,1,1,White,Hispanic,2,Destruction/Damage/Vandalism,2,School/College,Anti-Islamic,Muslim,False,True
+2004,Police Department,IL,Illinois,2004-02-07,0,2,1,0,1,Black,Non-Hispanic,2,Simple Assault,2,Residence/Home,Anti-White,White,False,False
+2007,Sheriff's Office,PA,Pennsylvania,2007-08-14,3,0,4,3,1,White,Non-Hispanic,3,Intimidation,3,Highway/Road/Alley/Street,Anti-Black,African American,True,False
+2010,Police Department,OH,Ohio,2010-12-01,1,0,1,1,0,American Indian,Hispanic,1,Aggravated Assault,1,Bar/Nightclub,Anti-Hispanic,Hispanic,False,False
+1993,Police Department,MI,Michigan,1993-05-22,0,1,2,1,1,White,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Residence/Home,Anti-Islamic,Muslim,False,False
+1996,State Police,GA,Georgia,1996-10-09,2,0,3,2,1,Black,Non-Hispanic,2,Simple Assault,2,Parking Lot/Garage,Anti-White,White,False,False
+1999,Sheriff's Office,NC,North Carolina,1999-07-30,1,1,1,0,1,Asian,Hispanic,2,Intimidation,2,School/College,Anti-Asian,Asian,False,True
+2002,Police Department,WA,Washington,2002-03-11,0,0,2,2,0,White,Non-Hispanic,0,Destruction/Damage/Vandalism,0,Church/Synagogue/Temple,Anti-Jewish,Jewish,False,False
+2005,Police Department,AZ,Arizona,2005-01-19,1,0,1,1,0,Black,Hispanic,1,Aggravated Assault,1,Highway/Road/Alley/Street,Anti-Hispanic,Hispanic,False,False
+2008,Sheriff's Office,NJ,New Jersey,2008-09-26,0,2,2,1,1,White,Non-Hispanic,2,Simple Assault,2,Residence/Home,Anti-Black,African American,False,False
+2011,Police Department,VA,Virginia,2011-04-03,3,0,4,3,1,Black,Non-Hispanic,3,Intimidation,3,Bar/Nightclub,Anti-White,White,True,False
+1994,State Police,CO,Colorado,1994-11-14,1,0,2,1,1,American Indian,Hispanic,1,Destruction/Damage/Vandalism,1,School/College,Anti-Islamic,Muslim,False,False
+1997,Police Department,TN,Tennessee,1997-06-05,0,1,1,1,0,White,Non-Hispanic,1,Aggravated Assault,1,Church/Synagogue/Temple,Anti-Jewish,Jewish,False,False
+2000,Sheriff's Office,SC,South Carolina,2000-08-27,2,0,3,2,1,Asian,Non-Hispanic,2,Simple Assault,2,Parking Lot/Garage,Anti-Asian,Asian,False,True
+2003,Police Department,OR,Oregon,2003-05-16,1,1,2,1,1,Black,Hispanic,2,Intimidation,2,Highway/Road/Alley/Street,Anti-Hispanic,Hispanic,False,False
+2006,Police Department,MA,Massachusetts,2006-10-02,0,0,1,1,0,White,Non-Hispanic,0,Destruction/Damage/Vandalism,0,Residence/Home,Anti-Black,African American,False,False
+2009,State Police,NV,Nevada,2009-02-28,3,0,4,3,1,Black,Non-Hispanic,3,Aggravated Assault,3,Bar/Nightclub,Anti-White,White,True,False
+2012,Sheriff's Office,MD,Maryland,2012-07-13,1,0,2,2,0,White,Hispanic,1,Simple Assault,1,School/College,Anti-Islamic,Muslim,False,False
+1991,Police Department,IN,Indiana,1991-12-08,0,2,1,0,1,American Indian,Non-Hispanic,2,Intimidation,2,Church/Synagogue/Temple,Anti-Jewish,Jewish,False,False
+1995,Police Department,MO,Missouri,1995-03-25,2,0,3,2,1,White,Non-Hispanic,2,Destruction/Damage/Vandalism,2,Highway/Road/Alley/Street,Anti-Black,African American,False,False
+1998,Sheriff's Office,WI,Wisconsin,1998-09-10,1,0,1,1,0,Black,Hispanic,1,Aggravated Assault,1,Residence/Home,Anti-Hispanic,Hispanic,False,False
+2001,State Police,MN,Minnesota,2001-01-04,0,1,2,1,1,Asian,Non-Hispanic,1,Simple Assault,1,Parking Lot/Garage,Anti-Asian,Asian,False,True
+2004,Police Department,AL,Alabama,2004-06-21,3,0,4,3,1,White,Non-Hispanic,3,Intimidation,3,Bar/Nightclub,Anti-White,White,True,False
+2007,Sheriff's Office,KY,Kentucky,2007-11-30,1,1,2,1,1,Black,Hispanic,2,Destruction/Damage/Vandalism,2,School/College,Anti-Islamic,Muslim,False,False
+2010,Police Department,LA,Louisiana,2010-08-15,0,0,2,2,0,American Indian,Non-Hispanic,0,Aggravated Assault,0,Church/Synagogue/Temple,Anti-Jewish,Jewish,False,False
+1993,Police Department,OK,Oklahoma,1993-04-02,2,0,3,2,1,White,Hispanic,2,Simple Assault,2,Highway/Road/Alley/Street,Anti-Hispanic,Hispanic,False,False
+1996,State Police,AR,Arkansas,1996-07-18,1,0,1,1,0,Black,Non-Hispanic,1,Intimidation,1,Residence/Home,Anti-Black,African American,False,False
+1999,Sheriff's Office,MS,Mississippi,1999-10-05,0,2,2,1,1,Asian,Hispanic,2,Destruction/Damage/Vandalism,2,Bar/Nightclub,Anti-Asian,Asian,False,True
+2002,Police Department,UT,Utah,2002-05-23,3,0,4,3,1,White,Non-Hispanic,3,Aggravated Assault,3,Parking Lot/Garage,Anti-White,White,True,False
+2005,Police Department,KS,Kansas,2005-12-14,1,0,2,2,0,Black,Hispanic,1,Simple Assault,1,School/College,Anti-Hispanic,Hispanic,False,False
+2008,Sheriff's Office,IA,Iowa,2008-03-08,0,1,1,0,1,American Indian,Non-Hispanic,1,Intimidation,1,Church/Synagogue/Temple,Anti-Jewish,Jewish,False,False
+2011,State Police,CT,Connecticut,2011-09-21,2,0,3,2,1,White,Non-Hispanic,2,Destruction/Damage/Vandalism,2,Highway/Road/Alley/Street,Anti-Black,African American,False,False
+1994,Police Department,ME,Maine,1994-02-26,1,1,2,1,1,Black,Non-Hispanic,2,Aggravated Assault,2,Residence/Home,Anti-White,White,False,True
+1997,Sheriff's Office,NH,New Hampshire,1997-08-11,0,0,1,1,0,Asian,Hispanic,0,Simple Assault,0,Bar/Nightclub,Anti-Islamic,Muslim,False,False
+2000,Police Department,VT,Vermont,2000-01-30,3,0,4,3,1,White,Non-Hispanic,3,Intimidation,3,Parking Lot/Garage,Anti-Hispanic,Hispanic,True,False
+2003,State Police,ND,North Dakota,2003-10-12,1,0,2,1,1,Black,Hispanic,1,Destruction/Damage/Vandalism,1,School/College,Anti-Asian,Asian,False,False
+2006,Police Department,SD,South Dakota,2006-04-05,0,2,1,0,1,American Indian,Non-Hispanic,2,Aggravated Assault,2,Church/Synagogue/Temple,Anti-Jewish,Jewish,False,False
+2009,Sheriff's Office,MT,Montana,2009-07-22,2,0,3,2,1,White,Non-Hispanic,2,Simple Assault,2,Highway/Road/Alley/Street,Anti-Black,African American,False,False
+2012,Police Department,WY,Wyoming,2012-11-03,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Residence/Home,Anti-Hispanic,Hispanic,False,False
+1991,Police Department,ID,Idaho,1991-06-16,0,1,2,1,1,Black,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Bar/Nightclub,Anti-White,White,False,False
+1995,State Police,WV,West Virginia,1995-12-29,3,0,4,3,1,White,Hispanic,3,Aggravated Assault,3,Parking Lot/Garage,Anti-Islamic,Muslim,True,False
+1998,Sheriff's Office,DE,Delaware,1998-09-04,1,1,2,1,1,American Indian,Non-Hispanic,2,Simple Assault,2,School/College,Anti-Black,African American,False,False
+2001,Police Department,RI,Rhode Island,2001-03-17,0,0,2,2,0,Black,Non-Hispanic,0,Intimidation,0,Church/Synagogue/Temple,Anti-Jewish,Jewish,False,False

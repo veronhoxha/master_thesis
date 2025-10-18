@@ -1,0 +1,50 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1992,County,CA,California,1992-03-15,1,,1,1,,White,Hispanic,1,Intimidation,1.0,Residence/Home,Anti-Asian,Gay (Male),S,S
+1995,City,TX,Texas,1995-07-22,,1,2,2,,Black,Not Specified,1,Simple Assault,1.0,Highway/Road/Alley,Anti-Black or African American,Lesbian,S,M
+1998,State,NY,New York,1998-11-08,2,,1,1,,Unknown,Not Hispanic,2,Aggravated Assault,2.0,Church/Synagogue/Temple,Anti-Jewish,Heterosexual,M,S
+2001,City,FL,Florida,2001-09-12,1,1,3,2,1,White,Hispanic,2,Destruction/Damage/Vandalism of Property,2.0,School/College,Anti-Islamic (Muslim),Transgender,S,S
+1994,County,IL,Illinois,1994-02-28,,,1,1,,Black,Hispanic,1,Robbery,1.0,Convenience Store,Anti-White,Other,S,S
+2003,City,PA,Pennsylvania,2003-06-10,1,,2,2,,Asian,Not Specified,1,Murder and Nonnegligent Manslaughter,1.0,Bar/Nightclub,Anti-Gay (Male),Bisexual,S,S
+1999,State,OH,Ohio,1999-12-25,1,1,1,1,,White,Not Hispanic,2,Forcible Rape,2.0,Residence/Home,Anti-Female,Other,M,S
+2000,County,MI,Michigan,2000-04-17,,1,2,1,1,American Indian,Hispanic,1,Simple Assault,1.0,Park/Playground,Anti-Native American,Lesbian,S,M
+1996,City,GA,Georgia,1996-08-30,2,,1,1,,Unknown,Not Specified,2,Intimidation,2.0,Residence/Home,Anti-Black or African American,Heterosexual,M,S
+2002,State,WA,Washington,2002-10-05,1,,3,3,,White,Not Hispanic,1,Aggravated Assault,1.0,Highway/Road/Alley,Anti-Asian,Gay (Male),S,S
+1993,County,NC,North Carolina,1993-01-19,,,1,1,,Black,Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,School/College,Anti-White,Other,S,S
+2004,City,NJ,New Jersey,2004-05-13,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Black or African American,Other,S,S
+1997,State,CA,California,1997-09-26,1,1,2,1,1,White,Hispanic,2,Simple Assault,2.0,Bar/Nightclub,Anti-Latino,Transgender,M,S
+2005,County,TX,Texas,2005-07-11,2,,1,1,,Asian,Not Specified,2,Intimidation,2.0,Church/Synagogue/Temple,Anti-Jewish,Bisexual,M,S
+1991,City,NY,New York,1991-12-03,,1,3,2,1,Black,Not Hispanic,1,Forcible Rape,1.0,Residence/Home,Anti-Female,Other,S,M
+2006,State,FL,Florida,2006-02-14,1,,2,2,,Unknown,Hispanic,1,Murder and Nonnegligent Manslaughter,1.0,Highway/Road/Alley,Anti-Islamic (Muslim),Gay (Male),S,S
+1998,County,PA,Pennsylvania,1998-05-27,,,1,1,,White,Not Specified,1,Robbery,1.0,Convenience Store,Anti-Gay (Male),Lesbian,S,S
+2007,City,OH,Ohio,2007-08-09,1,,1,1,,American Indian,Hispanic,1,Aggravated Assault,1.0,Park/Playground,Anti-Native American,Heterosexual,S,S
+1994,State,MI,Michigan,1994-11-22,2,1,2,1,1,Black,Not Hispanic,3,Simple Assault,3.0,School/College,Anti-Black or African American,Transgender,M,M
+2008,County,GA,Georgia,2008-03-18,,1,1,1,,White,Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-Latino,Bisexual,S,S
+1999,City,WA,Washington,1999-06-04,1,,3,3,,Unknown,Not Specified,1,Intimidation,1.0,Bar/Nightclub,Anti-Asian,Other,S,M
+2010,State,NC,North Carolina,2010-10-31,1,1,2,1,1,Asian,Hispanic,2,Forcible Rape,2.0,Residence/Home,Anti-Female,Gay (Male),M,S
+1995,County,CA,California,1995-01-12,,,2,2,,Black,Not Hispanic,1,Murder and Nonnegligent Manslaughter,1.0,Highway/Road/Alley,Anti-White,Lesbian,S,S
+2011,City,TX,Texas,2011-07-25,2,,1,1,,White,Not Specified,2,Aggravated Assault,2.0,Church/Synagogue/Temple,Anti-Jewish,Heterosexual,M,S
+1992,State,NY,New York,1992-09-08,,1,3,2,1,Unknown,Hispanic,1,Simple Assault,1.0,Park/Playground,Anti-Islamic (Muslim),Transgender,S,M
+2009,County,FL,Florida,2009-04-30,1,,2,2,,American Indian,Not Hispanic,1,Robbery,1.0,Convenience Store,Anti-Native American,Other,S,S
+2012,City,PA,Pennsylvania,2012-12-15,1,,1,1,,Black,Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,School/College,Anti-Gay (Male),Bisexual,S,S
+1996,State,OH,Ohio,1996-07-03,2,1,1,1,,White,Not Specified,3,Intimidation,3.0,Residence/Home,Anti-Black or African American,Lesbian,M,M
+2013,County,MI,Michigan,2013-02-28,,,2,2,,Asian,Hispanic,1,Forcible Rape,1.0,Highway/Road/Alley,Anti-Latino,Heterosexual,S,M
+1993,City,GA,Georgia,1993-05-16,1,,3,3,,Unknown,Not Hispanic,1,Murder and Nonnegligent Manslaughter,1.0,Bar/Nightclub,Anti-Asian,Transgender,S,S
+2000,State,WA,Washington,2000-11-20,1,1,2,1,1,White,Hispanic,2,Aggravated Assault,2.0,Residence/Home,Anti-Female,Other,M,S
+2014,County,NC,North Carolina,2014-08-07,2,,1,1,,Black,Not Specified,2,Simple Assault,2.0,Park/Playground,Anti-White,Gay (Male),M,S
+1997,City,CA,California,1997-03-09,,1,1,1,,American Indian,Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,School/College,Anti-Native American,Lesbian,S,S
+2001,State,TX,Texas,2001-10-24,,,2,2,,White,Not Hispanic,1,Intimidation,1.0,Church/Synagogue/Temple,Anti-Jewish,Bisexual,S,M
+1994,County,NY,New York,1994-06-13,1,,1,1,,Unknown,Not Specified,1,Robbery,1.0,Convenience Store,Anti-Black or African American,Heterosexual,S,S
+2005,City,FL,Florida,2005-12-30,1,,3,3,,Black,Hispanic,1,Forcible Rape,1.0,Highway/Road/Alley,Anti-Islamic (Muslim),Other,S,S
+1998,State,PA,Pennsylvania,1998-01-05,2,1,2,1,1,Asian,Not Hispanic,3,Murder and Nonnegligent Manslaughter,3.0,Residence/Home,Anti-Asian,Transgender,M,M
+2010,County,OH,Ohio,2010-09-17,,1,1,1,,White,Hispanic,1,Aggravated Assault,1.0,Bar/Nightclub,Anti-Gay (Male),Other,S,S
+1991,City,MI,Michigan,1991-04-22,1,,2,2,,Unknown,Not Specified,1,Simple Assault,1.0,Park/Playground,Anti-Female,Gay (Male),S,M
+2007,State,GA,Georgia,2007-07-08,2,,1,1,,American Indian,Hispanic,2,Destruction/Damage/Vandalism of Property,2.0,School/College,Anti-Native American,Lesbian,M,S
+1999,County,WA,Washington,1999-02-11,,,3,3,,Black,Not Hispanic,1,Intimidation,1.0,Residence/Home,Anti-Black or African American,Bisexual,S,S
+2011,City,NC,North Carolina,2011-11-03,1,1,2,1,1,White,Not Specified,2,Forcible Rape,2.0,Highway/Road/Alley,Anti-White,Heterosexual,M,M
+1995,State,CA,California,1995-08-26,1,,1,1,,Asian,Hispanic,1,Robbery,1.0,Convenience Store,Anti-Latino,Transgender,S,S
+2003,County,TX,Texas,2003-05-19,,1,2,1,1,Unknown,Not Hispanic,1,Murder and Nonnegligent Manslaughter,1.0,Church/Synagogue/Temple,Anti-Jewish,Other,S,M
+2006,City,NY,New York,2006-10-02,2,,3,3,,Black,Not Specified,2,Aggravated Assault,2.0,Residence/Home,Anti-Black or African American,Gay (Male),M,S
+1992,State,FL,Florida,1992-12-29,1,1,1,1,,White,Hispanic,2,Simple Assault,2.0,Park/Playground,Anti-Islamic (Muslim),Lesbian,M,S
+2013,County,PA,Pennsylvania,2013-03-14,,,2,2,,American Indian,Not Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,Bar/Nightclub,Anti-Native American,Bisexual,S,S
+2000,City,OH,Ohio,2000-06-25,1,,1,1,,Unknown,Hispanic,1,Intimidation,1.0,School/College,Anti-Gay (Male),Heterosexual,S,S
+2008,State,MI,Michigan,2008-01-17,2,1,3,2,1,Black,Not Specified,3,Forcible Rape,3.0,Highway/Road/Alley,Anti-Female,Transgender,M,M

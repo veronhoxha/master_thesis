@@ -1,0 +1,48 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1992,City,CA,California,1992-03-15,1,0,2,2,0,White,Non-Hispanic,1,Intimidation,1,Residence/Home,Anti-Black,Gay Male,No,No
+1995,County,TX,Texas,1995-07-22,0,1,1,0,1,Black,Hispanic,1,Vandalism,1,School,Anti-Hispanic,Juvenile,No,No
+1998,City,NY,New York,1998-11-08,2,0,3,3,0,Asian,Non-Hispanic,2,Simple Assault,2,Public Park,Anti-White,Adult,Yes,No
+2001,State Police,FL,Florida,2001-02-14,1,1,1,1,0,White,Hispanic,2,Aggravated Assault,2,Highway/Road,Anti-Islamic,Mixed Group,No,Yes
+2004,City,IL,Illinois,2004-09-03,0,0,2,1,1,Black,Non-Hispanic,0,Murder,0,Abandoned Building,Anti-Jewish,Unknown,No,No
+2007,County,PA,Pennsylvania,2007-12-25,1,0,1,1,0,White,Non-Hispanic,1,Robbery,1,Gas Station,Anti-Asian,Adult,No,No
+2010,City,OH,Ohio,2010-05-17,0,1,1,0,1,Native American,Hispanic,1,Intimidation,1,Religious Facility,Anti-Catholic,Juvenile,No,No
+1993,City,MI,Michigan,1993-08-30,2,0,2,2,0,Black,Non-Hispanic,2,Burglary,2,Residence/Home,Anti-Gay Male,Adult,Yes,No
+1996,County,GA,Georgia,1996-04-11,1,0,3,2,1,White,Hispanic,1,Vandalism,1,School,Anti-Black,Adult,No,No
+1999,State Police,WA,Washington,1999-10-01,0,0,1,1,0,Asian,Non-Hispanic,0,Arson,0,Commercial/Office Building,Anti-White,Unknown,No,No
+2002,City,NC,North Carolina,2002-01-19,1,1,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Public Park,Anti-Hispanic,Mixed Group,No,Yes
+2005,County,AZ,Arizona,2005-06-06,0,0,2,2,0,White,Hispanic,0,Murder,0,Abandoned Building,Anti-Jewish,Unknown,No,No
+2008,City,NJ,New Jersey,2008-03-28,1,0,1,0,1,Black,Hispanic,1,Aggravated Assault,1,Highway/Road,Anti-Islamic,Adult,No,No
+2011,State Police,VA,Virginia,2011-07-12,0,1,1,1,0,Native American,Non-Hispanic,1,Robbery,1,Gas Station,Anti-Catholic,Juvenile,No,No
+1994,City,MA,Massachusetts,1994-09-14,2,0,2,2,0,White,Non-Hispanic,2,Intimidation,2,Residence/Home,Anti-Asian,Adult,Yes,No
+1997,County,TN,Tennessee,1997-02-27,0,1,1,0,1,Asian,Hispanic,1,Burglary,1,School,Anti-Gay Male,Juvenile,No,No
+2000,City,CO,Colorado,2000-10-15,1,0,3,3,0,Black,Non-Hispanic,1,Vandalism,1,Public Park,Anti-Black,Adult,No,No
+2003,State Police,OR,Oregon,2003-05-02,1,1,1,1,0,White,Hispanic,2,Arson,2,Highway/Road,Anti-White,Mixed Group,No,Yes
+2006,City,MN,Minnesota,2006-12-09,0,0,2,1,1,Black,Non-Hispanic,0,Simple Assault,0,Abandoned Building,Anti-Hispanic,Unknown,No,No
+2009,County,WI,Wisconsin,2009-08-22,1,0,1,1,0,Asian,Hispanic,1,Murder,1,Gas Station,Anti-Jewish,Adult,No,No
+2012,City,MD,Maryland,2012-04-30,0,1,1,0,1,White,Non-Hispanic,1,Aggravated Assault,1,Religious Facility,Anti-Islamic,Juvenile,No,No
+1991,City,AL,Alabama,1991-11-03,2,0,2,2,0,Black,Hispanic,2,Robbery,2,Residence/Home,Anti-Catholic,Adult,Yes,No
+1995,County,SC,South Carolina,1995-01-16,0,0,1,1,0,Native American,Non-Hispanic,0,Intimidation,0,School,Anti-Asian,Unknown,No,No
+1998,State Police,LA,Louisiana,1998-07-29,1,1,2,1,1,White,Hispanic,2,Burglary,2,Public Park,Anti-Gay Male,Mixed Group,No,Yes
+2001,City,KY,Kentucky,2001-03-11,1,0,3,3,0,Asian,Non-Hispanic,1,Vandalism,1,Highway/Road,Anti-Black,Adult,No,No
+2004,County,IN,Indiana,2004-10-24,0,1,1,0,1,Black,Non-Hispanic,1,Arson,1,Abandoned Building,Anti-White,Juvenile,No,No
+2007,City,MO,Missouri,2007-06-05,2,0,2,2,0,White,Hispanic,2,Simple Assault,2,Gas Station,Anti-Hispanic,Adult,Yes,No
+2010,State Police,OK,Oklahoma,2010-09-18,0,0,1,1,0,Black,Non-Hispanic,0,Murder,0,Religious Facility,Anti-Jewish,Unknown,No,No
+1993,City,AR,Arkansas,1993-12-01,1,1,1,1,0,Asian,Hispanic,2,Aggravated Assault,2,Residence/Home,Anti-Islamic,Mixed Group,No,Yes
+1996,County,MS,Mississippi,1996-05-13,0,0,2,1,1,White,Non-Hispanic,0,Robbery,0,School,Anti-Catholic,Unknown,No,No
+1999,City,NV,Nevada,1999-08-07,2,0,1,0,1,Black,Hispanic,2,Intimidation,2,Public Park,Anti-Asian,Adult,No,No
+2002,State Police,UT,Utah,2002-02-28,0,1,1,1,0,Native American,Non-Hispanic,1,Burglary,1,Highway/Road,Anti-Gay Male,Juvenile,No,No
+2005,City,NM,New Mexico,2005-11-14,1,0,3,3,0,White,Non-Hispanic,1,Vandalism,1,Abandoned Building,Anti-Black,Adult,No,No
+2008,County,WV,West Virginia,2008-07-03,0,0,2,2,0,Black,Hispanic,0,Arson,0,Gas Station,Anti-White,Unknown,No,No
+2011,City,CT,Connecticut,2011-10-20,1,1,1,0,1,Asian,Non-Hispanic,2,Simple Assault,2,Religious Facility,Anti-Hispanic,Mixed Group,No,Yes
+1994,State Police,ME,Maine,1994-04-08,2,0,2,1,1,White,Hispanic,2,Murder,2,Residence/Home,Anti-Jewish,Adult,Yes,No
+1997,City,ND,North Dakota,1997-09-25,0,1,1,1,0,Black,Non-Hispanic,1,Aggravated Assault,1,School,Anti-Islamic,Juvenile,No,No
+2000,County,SD,South Dakota,2000-01-31,1,0,1,0,1,Asian,Hispanic,1,Robbery,1,Public Park,Anti-Catholic,Adult,No,No
+2003,City,MT,Montana,2003-06-17,0,0,2,2,0,White,Non-Hispanic,0,Intimidation,0,Highway/Road,Anti-Asian,Unknown,No,No
+2006,State Police,WY,Wyoming,2006-12-12,2,1,1,1,0,Black,Non-Hispanic,3,Burglary,3,Abandoned Building,Anti-Gay Male,Mixed Group,No,Yes
+2009,City,ID,Idaho,2009-05-29,0,0,1,1,0,Native American,Hispanic,1,Vandalism,1,Gas Station,Anti-Black,Juvenile,No,No
+2012,County,NH,New Hampshire,2012-08-15,1,0,3,3,0,White,Hispanic,1,Arson,1,Religious Facility,Anti-White,Adult,No,No
+1992,City,VT,Vermont,1992-03-22,0,1,2,1,1,Black,Non-Hispanic,1,Simple Assault,1,Residence/Home,Anti-Hispanic,Unknown,No,No
+1995,County,DE,Delaware,1995-10-06,2,0,2,2,0,Asian,Non-Hispanic,2,Murder,2,School,Anti-Jewish,Adult,Yes,No
+1998,City,RI,Rhode Island,1998-07-11,1,1,1,0,1,White,Hispanic,2,Aggravated Assault,2,Public Park,Anti-Islamic,Mixed Group,No,Yes
+2001,State Police,AK,Alaska,2001-11-26,0,0,1,1,0,Black,Non-Hispanic,0,Robbery,0,Highway/Road,Anti-Catholic,Unknown,No,No
+2004,City,HI,Hawaii,2004-02-13,1,0,2,2,0,White,Non-Hispanic,1,Intimidation,1,Abandoned Building,Anti-Asian,Adult,No,No

@@ -1,0 +1,46 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1992,City,CA,California,1992-03-15,1,0,2,2,0,White,Non-Hispanic,1,Intimidation,1,Residence/Home,Anti-Black,Individual,No,No
+1994,County,TX,Texas,1994-07-22,0,1,1,0,1,Black,Hispanic,1,Simple Assault,1,School,Anti-Hispanic,Individual,No,No
+1995,State Police,NY,New York,1995-11-03,2,0,3,3,0,Asian,Non-Hispanic,2,Aggravated Assault,2,Highway/Road,Anti-Asian,Individual,Yes,No
+1991,City,FL,Florida,1991-02-28,0,2,2,1,1,White,Hispanic,2,Intimidation,2,Residence/Home,Anti-White,Individual,No,Yes
+1993,Sheriff,IL,Illinois,1993-09-14,1,0,1,1,0,American Indian,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Church/Synagogue/Temple,Anti-Jewish,Individual,No,No
+1996,Tribal,AZ,Arizona,1996-04-07,0,1,1,1,0,White,Non-Hispanic,1,Simple Assault,1,School,Anti-American Indian,Individual,No,No
+1997,County,PA,Pennsylvania,1997-08-19,2,0,4,3,1,Black,Non-Hispanic,2,Aggravated Assault,2,Residence/Home,Anti-Black,Individual,Yes,No
+1998,City,OH,Ohio,1998-12-11,1,0,2,2,0,White,Hispanic,1,Intimidation,1,Store,Anti-Hispanic,Individual,No,No
+1999,State Police,MI,Michigan,1999-05-26,0,1,1,0,1,Asian,Non-Hispanic,1,Simple Assault,1,Park/Playground,Anti-Asian,Individual,No,No
+2000,Sheriff,GA,Georgia,2000-10-13,3,0,3,2,1,White,Non-Hispanic,3,Aggravated Assault,3,Bar/Nightclub,Anti-Black,Individual,Yes,Yes
+2001,City,NC,North Carolina,2001-01-04,0,2,2,1,1,Black,Hispanic,2,Destruction/Damage/Vandalism,2,Residence/Home,Anti-Hispanic,Individual,No,No
+2002,County,NJ,New Jersey,2002-06-30,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Store,Anti-Jewish,Individual,No,No
+2003,Tribal,WA,Washington,2003-03-17,0,1,1,1,0,American Indian,Hispanic,1,Simple Assault,1,School,Anti-American Indian,Individual,No,No
+2004,State Police,VA,Virginia,2004-09-08,2,0,2,2,0,Black,Non-Hispanic,2,Aggravated Assault,2,Highway/Road,Anti-White,Individual,No,No
+2005,City,MA,Massachusetts,2005-07-21,1,0,3,2,1,Asian,Non-Hispanic,1,Intimidation,1,Residence/Home,Anti-Asian,Individual,Yes,No
+2006,Sheriff,TN,Tennessee,2006-02-14,0,2,1,0,1,White,Hispanic,2,Destruction/Damage/Vandalism,2,Church/Synagogue/Temple,Anti-Jewish,Individual,No,Yes
+2007,County,CO,Colorado,2007-10-05,1,0,2,1,1,Black,Non-Hispanic,1,Simple Assault,1,Park/Playground,Anti-Black,Individual,No,No
+2008,City,IN,Indiana,2008-04-28,0,1,1,1,0,White,Non-Hispanic,1,Aggravated Assault,1,Store,Anti-Islamic,Individual,No,No
+2009,State Police,MO,Missouri,2009-11-12,2,0,4,3,1,Asian,Hispanic,2,Intimidation,2,Bar/Nightclub,Anti-Hispanic,Individual,Yes,No
+2010,Tribal,MT,Montana,2010-08-03,0,1,1,1,0,American Indian,Non-Hispanic,1,Simple Assault,1,School,Anti-American Indian,Individual,No,No
+2011,County,MN,Minnesota,2011-01-19,1,0,2,2,0,Black,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Residence/Home,Anti-Black,Individual,No,No
+2012,City,WI,Wisconsin,2012-05-14,0,2,3,1,2,White,Hispanic,2,Aggravated Assault,2,Highway/Road,Anti-Hispanic,Individual,Yes,Yes
+2013,Sheriff,SC,South Carolina,2013-09-27,2,0,2,2,0,Asian,Non-Hispanic,2,Intimidation,2,Church/Synagogue/Temple,Anti-Jewish,Individual,No,No
+2014,State Police,OR,Oregon,2014-12-10,1,0,1,1,0,White,Non-Hispanic,1,Simple Assault,1,Park/Playground,Anti-Asian,Individual,No,No
+1993,City,CA,California,1993-06-08,0,1,2,1,1,Black,Hispanic,1,Destruction/Damage/Vandalism,1,Store,Anti-Hispanic,Individual,No,No
+1995,County,TX,Texas,1995-03-25,2,0,1,0,1,American Indian,Non-Hispanic,2,Aggravated Assault,2,Residence/Home,Anti-American Indian,Individual,No,No
+1996,Tribal,NY,New York,1996-07-30,1,0,3,2,1,White,Non-Hispanic,1,Intimidation,1,School,Anti-Black,Individual,Yes,No
+1997,City,FL,Florida,1997-11-14,0,2,2,2,0,Black,Non-Hispanic,2,Simple Assault,2,Bar/Nightclub,Anti-White,Individual,No,No
+1998,Sheriff,IL,Illinois,1998-02-07,2,0,4,3,1,Asian,Hispanic,2,Destruction/Damage/Vandalism,2,Highway/Road,Anti-Hispanic,Individual,Yes,Yes
+1999,County,AZ,Arizona,1999-08-20,0,1,1,1,0,White,Non-Hispanic,1,Aggravated Assault,1,Residence/Home,Anti-Islamic,Individual,No,No
+2000,State Police,PA,Pennsylvania,2000-04-03,1,0,2,1,1,Black,Non-Hispanic,1,Intimidation,1,Church/Synagogue/Temple,Anti-Jewish,Individual,No,No
+2001,City,OH,Ohio,2001-09-16,0,2,1,0,1,American Indian,Hispanic,2,Simple Assault,2,Park/Playground,Anti-American Indian,Individual,No,No
+2002,Tribal,MI,Michigan,2002-01-29,2,0,3,2,1,White,Non-Hispanic,2,Destruction/Damage/Vandalism,2,Store,Anti-Black,Individual,No,No
+2003,County,GA,Georgia,2003-06-12,1,0,2,2,0,Asian,Non-Hispanic,1,Aggravated Assault,1,School,Anti-Asian,Individual,No,No
+2004,Sheriff,NC,North Carolina,2004-10-25,0,1,1,1,0,Black,Hispanic,1,Intimidation,1,Residence/Home,Anti-Hispanic,Individual,No,No
+2005,City,NJ,New Jersey,2005-03-08,2,0,4,3,1,White,Non-Hispanic,2,Simple Assault,2,Highway/Road,Anti-White,Individual,Yes,Yes
+2006,State Police,WA,Washington,2006-07-21,0,2,2,1,1,American Indian,Non-Hispanic,2,Destruction/Damage/Vandalism,2,Bar/Nightclub,Anti-American Indian,Individual,No,No
+2007,County,VA,Virginia,2007-12-14,1,0,1,1,0,Asian,Hispanic,1,Aggravated Assault,1,Church/Synagogue/Temple,Anti-Jewish,Individual,No,No
+2008,Tribal,MA,Massachusetts,2008-05-07,0,1,3,2,1,Black,Non-Hispanic,1,Intimidation,1,Park/Playground,Anti-Black,Individual,Yes,No
+2009,City,CO,Colorado,2009-08-30,2,0,2,2,0,White,Non-Hispanic,2,Simple Assault,2,Store,Anti-Asian,Individual,No,No
+2010,Sheriff,TN,Tennessee,2010-02-11,1,0,1,0,1,Black,Hispanic,1,Destruction/Damage/Vandalism,1,Residence/Home,Anti-Hispanic,Individual,No,No
+2011,State Police,IN,Indiana,2011-06-24,0,2,4,3,1,Asian,Non-Hispanic,2,Aggravated Assault,2,Highway/Road,Anti-Islamic,Individual,Yes,No
+2012,County,MO,Missouri,2012-11-07,2,0,2,1,1,White,Non-Hispanic,2,Intimidation,2,School,Anti-White,Individual,No,Yes
+2013,City,MT,Montana,2013-04-20,0,1,1,1,0,American Indian,Hispanic,1,Simple Assault,1,Bar/Nightclub,Anti-American Indian,Individual,No,No
+2014,Tribal,MN,Minnesota,2014-09-03,1,0,2,2,0,Black,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Park/Playground,Anti-Black,Individual,No,No

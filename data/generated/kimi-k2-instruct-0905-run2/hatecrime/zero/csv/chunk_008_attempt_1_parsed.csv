@@ -1,0 +1,49 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1992,City,CA,California,1992-03-15,1,0,2,2,0,White,Non-Hispanic,1,Intimidation,1,Gas station,Anti-Black,Gay male,No,No
+1994,County,TX,Texas,1994-07-22,0,1,1,1,0,Black,Hispanic,1,Simple assault,1,Elementary school,Anti-Hispanic,Child,No,No
+1998,State,NY,New York,1998-11-03,2,0,3,2,1,White,Non-Hispanic,2,Aggravated assault,2,Public park,Anti-Jewish,Adult,Yes,No
+1991,Tribal,AZ,Arizona,1991-09-10,1,0,1,1,0,American Indian,Non-Hispanic,1,Destruction of property,1,Private residence,Anti-American Indian,Adult,No,No
+1996,City,FL,Florida,1996-12-25,0,2,2,1,1,Asian,Hispanic,2,Simple assault,2,Shopping mall,Anti-Asian,Child,No,Yes
+1999,County,PA,Pennsylvania,1999-02-18,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Church,Anti-Islamic,Adult,No,No
+1993,State,IL,Illinois,1993-06-05,0,1,1,0,1,White,Hispanic,1,Simple assault,1,Public sidewalk,Anti-Hispanic,Child,No,No
+1997,City,OH,Ohio,1997-10-12,2,0,2,2,0,Black,Non-Hispanic,2,Aggravated assault,2,Bar,Anti-White,Adult,No,No
+2000,County,MI,Michigan,2000-01-30,1,0,3,3,0,White,Non-Hispanic,1,Destruction of property,1,Private residence,Anti-Black,Adult,No,No
+1995,Tribal,WA,Washington,1995-08-14,0,1,1,1,0,White,Non-Hispanic,1,Simple assault,1,High school,Anti-American Indian,Child,No,No
+1992,State,CA,California,1992-04-25,1,0,2,1,1,White,Hispanic,1,Intimidation,1,Public transit,Anti-Gay male,Adult,No,No
+1998,City,TX,Texas,1998-12-30,0,2,2,2,0,Black,Non-Hispanic,2,Simple assault,2,Public park,Anti-Hispanic,Child,Yes,No
+1994,County,NY,New York,1994-05-07,2,0,1,1,0,White,Non-Hispanic,2,Robbery,2,Convenience store,Anti-Jewish,Adult,No,No
+1999,City,FL,Florida,1999-09-13,1,0,1,1,0,White,Hispanic,1,Intimidation,1,Private residence,Anti-Black,Adult,No,No
+1993,State,PA,Pennsylvania,1993-01-20,0,1,1,1,0,Black,Non-Hispanic,1,Simple assault,1,Middle school,Anti-Asian,Child,No,No
+1997,County,IL,Illinois,1997-07-04,1,0,3,2,1,White,Non-Hispanic,1,Aggravated assault,1,Public park,Anti-Islamic,Adult,Yes,Yes
+2001,City,OH,Ohio,2001-11-11,2,0,2,2,0,Black,Hispanic,2,Destruction of property,2,Private residence,Anti-White,Adult,No,No
+1996,State,MI,Michigan,1996-03-28,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,High school,Anti-Hispanic,Child,No,No
+1992,County,WA,Washington,1992-08-09,1,0,1,1,0,American Indian,Non-Hispanic,1,Simple assault,1,Bar,Anti-American Indian,Adult,No,No
+1995,City,CA,California,1995-10-31,0,2,2,1,1,White,Hispanic,2,Aggravated assault,2,Public sidewalk,Anti-Gay male,Child,No,No
+1998,State,TX,Texas,1998-02-14,1,0,1,1,0,Black,Non-Hispanic,1,Intimidation,1,Church,Anti-Black,Adult,No,No
+1994,City,NY,New York,1994-12-01,0,1,1,1,0,White,Non-Hispanic,1,Simple assault,1,Elementary school,Anti-Jewish,Child,No,No
+1999,County,FL,Florida,1999-06-18,2,0,3,3,0,White,Hispanic,2,Robbery,2,Gas station,Anti-Hispanic,Adult,Yes,No
+1993,Tribal,AZ,Arizona,1993-09-22,1,0,1,1,0,American Indian,Non-Hispanic,1,Destruction of property,1,Private residence,Anti-American Indian,Adult,No,No
+1997,State,PA,Pennsylvania,1997-04-05,0,2,2,2,0,Asian,Non-Hispanic,2,Simple assault,2,Shopping mall,Anti-Asian,Child,No,No
+2000,City,IL,Illinois,2000-10-20,1,0,2,1,1,White,Non-Hispanic,1,Aggravated assault,1,Public park,Anti-Islamic,Adult,No,Yes
+1995,County,OH,Ohio,1995-01-11,2,0,1,1,0,Black,Non-Hispanic,2,Intimidation,2,Bar,Anti-White,Adult,No,No
+1992,State,MI,Michigan,1992-07-26,0,1,1,0,1,White,Hispanic,1,Simple assault,1,High school,Anti-Hispanic,Child,No,No
+1998,City,WA,Washington,1998-12-03,1,0,2,2,0,White,Non-Hispanic,1,Destruction of property,1,Private residence,Anti-Black,Adult,No,No
+1994,County,CA,California,1994-05-29,0,2,2,1,1,Black,Hispanic,2,Simple assault,2,Public transit,Anti-Gay male,Child,No,No
+1999,State,TX,Texas,1999-08-15,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Church,Anti-Jewish,Adult,No,No
+1993,City,NY,New York,1993-11-07,0,1,1,1,0,Black,Non-Hispanic,1,Simple assault,1,Middle school,Anti-Asian,Child,No,No
+1996,County,FL,Florida,1996-02-12,2,0,3,2,1,White,Hispanic,2,Aggravated assault,2,Convenience store,Anti-Hispanic,Adult,Yes,No
+1997,State,PA,Pennsylvania,1997-09-30,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Private residence,Anti-Islamic,Adult,No,No
+1992,Tribal,AZ,Arizona,1992-06-14,0,1,1,1,0,American Indian,Non-Hispanic,1,Simple assault,1,Elementary school,Anti-American Indian,Child,No,No
+1995,City,IL,Illinois,1995-12-25,2,0,2,2,0,Black,Non-Hispanic,2,Destruction of property,2,Private residence,Anti-White,Adult,No,No
+2000,State,OH,Ohio,2000-03-08,0,2,2,1,1,White,Hispanic,2,Simple assault,2,Public park,Anti-Hispanic,Child,No,Yes
+1998,County,MI,Michigan,1998-07-19,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Bar,Anti-Black,Adult,No,No
+1994,City,WA,Washington,1994-10-04,0,1,1,0,1,Asian,Non-Hispanic,1,Aggravated assault,1,High school,Anti-Asian,Child,No,No
+1999,State,CA,California,1999-01-01,1,0,3,3,0,Black,Hispanic,1,Robbery,1,Gas station,Anti-Gay male,Adult,Yes,No
+1993,City,TX,Texas,1993-04-16,0,2,2,2,0,White,Non-Hispanic,2,Simple assault,2,Public sidewalk,Anti-Jewish,Child,No,No
+1998,County,NY,New York,1998-08-27,2,0,1,1,0,White,Non-Hispanic,2,Intimidation,2,Church,Anti-Islamic,Adult,No,No
+1996,State,FL,Florida,1996-11-13,0,1,1,1,0,Black,Hispanic,1,Simple assault,1,Middle school,Anti-Hispanic,Child,No,No
+1992,City,PA,Pennsylvania,1992-05-20,1,0,2,1,1,White,Non-Hispanic,1,Destruction of property,1,Private residence,Anti-Asian,Adult,No,No
+1997,County,IL,Illinois,1997-12-12,2,0,3,3,0,Black,Non-Hispanic,2,Aggravated assault,2,Shopping mall,Anti-White,Adult,Yes,No
+2000,State,OH,Ohio,2000-09-05,0,1,1,0,1,White,Hispanic,1,Intimidation,1,High school,Anti-Hispanic,Child,No,No
+1995,City,MI,Michigan,1995-02-28,1,0,1,1,0,American Indian,Non-Hispanic,1,Simple assault,1,Bar,Anti-American Indian,Adult,No,No
+1994,State,WA,Washington,1994-11-15,0,2,2,1,1,White,Non-Hispanic,2,Simple assault,2,Public transit,Anti-Gay male,Child,No,No

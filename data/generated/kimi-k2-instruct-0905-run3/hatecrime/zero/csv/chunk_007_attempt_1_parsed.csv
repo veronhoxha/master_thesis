@@ -1,0 +1,50 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1992,State Police,CA,California,1992-05-14,1,0,3,2,1,White,Non-Hispanic,1,Intimidation,1,Highway,Anti-Black,Adult,0,0
+1994,Municipal Police,TX,Texas,1994-08-21,0,2,1,1,0,Black,Hispanic,2,Simple Assault,2,Residence/Home,Anti-Hispanic,Juvenile,0,0
+1996,Sheriff's Office,NY,New York,1996-03-03,2,0,2,2,0,Asian,Non-Hispanic,2,Aggravated Assault,2,Restaurant,Anti-White,Adult,1,0
+1998,State Police,FL,Florida,1998-11-30,1,1,1,1,0,White,Hispanic,2,Destruction/Damage/Vandalism,2,Church/Synagogue/Temple,Anti-Jewish,Adult,0,0
+1991,Municipal Police,IL,Illinois,1991-01-17,0,1,4,3,1,American Indian/Alaskan Native,Non-Hispanic,1,Intimidation,1,School-College,Anti-Adult Homosexual,Juvenile,0,0
+1993,Sheriff's Office,PA,Pennsylvania,1993-07-09,3,0,2,2,0,White,Non-Hispanic,3,Simple Assault,3,Residence/Home,Anti-Black,Adult,0,0
+1995,State Police,OH,Ohio,1995-12-25,0,1,1,1,0,Black,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Residence/Home,Anti-White,Juvenile,0,0
+1997,Municipal Police,MI,Michigan,1997-04-22,2,0,3,2,1,White,Hispanic,2,Aggravated Assault,2,Air/Bus/Train Station,Anti-Asian,Adult,0,0
+1999,Sheriff's Office,GA,Georgia,1999-09-11,1,0,2,1,1,Black,Hispanic,1,Intimidation,1,Residence/Home,Anti-Hispanic,Adult,0,0
+1992,State Police,NC,North Carolina,1992-10-05,0,2,1,1,0,White,Non-Hispanic,2,Simple Assault,2,School-Elementary,Anti-Black,Juvenile,0,0
+1994,Municipal Police,NJ,New Jersey,1994-02-28,1,1,2,2,0,Asian,Non-Hispanic,2,Destruction/Damage/Vandalism,2,Church/Synagogue/Temple,Anti-Jewish,Adult,1,0
+1996,State Police,VA,Virginia,1996-06-15,3,0,1,1,0,White,Hispanic,3,Aggravated Assault,3,Parking/Drop Lot/Garage,Anti-Black,Adult,0,0
+1998,Sheriff's Office,WA,Washington,1998-01-20,0,1,3,2,1,Black,Non-Hispanic,1,Intimidation,1,School-High,Anti-White,Juvenile,0,0
+1991,Municipal Police,AZ,Arizona,1991-11-03,2,0,2,1,1,American Indian/Alaskan Native,Hispanic,2,Simple Assault,2,Residence/Home,Anti-American Indian/Alaskan Native,Adult,0,0
+1993,State Police,MA,Massachusetts,1993-05-08,1,0,1,1,0,White,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Residence/Home,Anti-Black,Adult,0,0
+1995,Sheriff's Office,CO,Colorado,1995-08-12,0,2,2,2,0,Black,Hispanic,2,Aggravated Assault,2,Playground,Anti-Hispanic,Juvenile,1,0
+1997,Municipal Police,IN,Indiana,1997-03-29,1,1,4,3,1,White,Non-Hispanic,2,Intimidation,2,Department/Discount Store,Anti-Asian,Adult,0,0
+1999,State Police,NV,Nevada,1999-07-04,3,0,2,2,0,Asian,Hispanic,3,Simple Assault,3,Bar/Nightclub,Anti-White,Adult,0,0
+1992,Sheriff's Office,OR,Oregon,1992-12-18,0,1,1,1,0,White,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Residence/Home,Anti-Adult Homosexual,Juvenile,0,0
+1994,Municipal Police,TN,Tennessee,1994-09-07,2,0,3,2,1,Black,Non-Hispanic,2,Aggravated Assault,2,Highway/Road/Alley,Anti-Black,Adult,0,0
+1996,State Police,MO,Missouri,1996-04-30,1,0,2,1,1,White,Hispanic,1,Intimidation,1,Residence/Home,Anti-Hispanic,Adult,1,0
+1998,Sheriff's Office,AL,Alabama,1998-10-13,0,2,1,1,0,Black,Hispanic,2,Simple Assault,2,School-College,Anti-White,Juvenile,0,0
+1991,Municipal Police,WI,Wisconsin,1991-06-26,3,0,2,2,0,American Indian/Alaskan Native,Non-Hispanic,3,Destruction/Damage/Vandalism,3,Church/Synagogue/Temple,Anti-Jewish,Adult,0,0
+1993,State Police,SC,South Carolina,1993-02-11,1,1,1,1,0,White,Non-Hispanic,2,Aggravated Assault,2,Residence/Home,Anti-Black,Adult,0,0
+1995,Sheriff's Office,KY,Kentucky,1995-07-19,0,1,4,3,1,Asian,Hispanic,1,Intimidation,1,School-Elementary,Anti-Hispanic,Juvenile,0,0
+1997,Municipal Police,LA,Louisiana,1997-11-25,2,0,2,2,0,White,Non-Hispanic,2,Simple Assault,2,Convenience Store,Anti-Black,Adult,0,0
+1999,State Police,OK,Oklahoma,1999-05-14,0,2,1,1,0,Black,Non-Hispanic,2,Destruction/Damage/Vandalism,2,Residence/Home,Anti-White,Juvenile,1,0
+1992,Sheriff's Office,CT,Connecticut,1992-08-09,3,0,3,2,1,White,Hispanic,3,Aggravated Assault,3,Parking/Drop Lot/Garage,Anti-Asian,Adult,0,0
+1994,Municipal Police,UT,Utah,1994-12-22,1,0,2,1,1,Black,Hispanic,1,Intimidation,1,School-High,Anti-Adult Homosexual,Adult,0,0
+1996,State Police,AR,Arkansas,1996-01-31,0,2,2,2,0,American Indian/Alaskan Native,Non-Hispanic,2,Simple Assault,2,Playground,Anti-American Indian/Alaskan Native,Juvenile,0,0
+1998,Sheriff's Office,MS,Mississippi,1998-06-16,2,0,1,1,0,White,Non-Hispanic,2,Destruction/Damage/Vandalism,2,Residence/Home,Anti-Black,Adult,1,0
+1991,Municipal Police,KS,Kansas,1991-09-04,1,1,4,3,1,Black,Hispanic,2,Aggravated Assault,2,Department/Discount Store,Anti-Hispanic,Adult,0,0
+1993,State Police,NM,New Mexico,1993-03-27,3,0,2,2,0,Asian,Non-Hispanic,3,Intimidation,3,Bar/Nightclub,Anti-White,Adult,0,0
+1995,Sheriff's Office,MD,Maryland,1995-10-08,0,1,1,1,0,White,Hispanic,1,Simple Assault,1,Residence/Home,Anti-Black,Juvenile,0,0
+1997,Municipal Police,MN,Minnesota,1997-07-23,2,0,3,2,1,Black,Non-Hispanic,2,Destruction/Damage/Vandalism,2,Highway/Road/Alley,Anti-White,Adult,0,0
+1999,State Police,IA,Iowa,1999-12-10,1,0,2,1,1,White,Non-Hispanic,1,Aggravated Assault,1,Residence/Home,Anti-Adult Homosexual,Adult,0,0
+1992,Sheriff's Office,WV,West Virginia,1992-04-05,0,2,2,2,0,American Indian/Alaskan Native,Hispanic,2,Intimidation,2,School-College,Anti-Hispanic,Juvenile,1,0
+1994,Municipal Police,ID,Idaho,1994-11-14,3,0,1,1,0,White,Non-Hispanic,3,Simple Assault,3,Convenience Store,Anti-Black,Adult,0,0
+1996,State Police,ME,Maine,1996-08-30,1,1,4,3,1,Asian,Non-Hispanic,2,Destruction/Damage/Vandalism,2,Church/Synagogue/Temple,Anti-Jewish,Adult,0,0
+1998,Sheriff's Office,NH,New Hampshire,1998-02-17,2,0,2,2,0,Black,Hispanic,2,Aggravated Assault,2,Residence/Home,Anti-Black,Adult,0,0
+1991,Municipal Police,MT,Montana,1991-05-24,0,1,1,1,0,White,Hispanic,1,Intimidation,1,School-Elementary,Anti-White,Juvenile,0,0
+1993,State Police,ND,North Dakota,1993-09-01,3,0,3,2,1,Black,Non-Hispanic,3,Simple Assault,3,Playground,Anti-Black,Adult,0,0
+1995,Sheriff's Office,SD,South Dakota,1995-01-12,1,0,2,1,1,American Indian/Alaskan Native,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Residence/Home,Anti-American Indian/Alaskan Native,Adult,1,0
+1997,Municipal Police,VT,Vermont,1997-10-27,0,2,2,2,0,White,Hispanic,2,Aggravated Assault,2,Parking/Drop Lot/Garage,Anti-Hispanic,Juvenile,0,0
+1999,State Police,WY,Wyoming,1999-06-03,2,0,1,1,0,Asian,Non-Hispanic,2,Intimidation,2,Highway/Road/Alley,Anti-White,Adult,0,0
+1992,Sheriff's Office,DE,Delaware,1992-03-18,1,1,4,3,1,White,Non-Hispanic,2,Simple Assault,2,Residence/Home,Anti-Black,Adult,0,0
+1994,Municipal Police,AK,Alaska,1994-07-30,3,0,2,2,0,Black,Hispanic,3,Destruction/Damage/Vandalism,3,School-High,Anti-Hispanic,Adult,0,0
+1996,State Police,HI,Hawaii,1996-12-05,0,1,1,1,0,American Indian/Alaskan Native,Non-Hispanic,1,Aggravated Assault,1,Department/Discount Store,Anti-Adult Homosexual,Juvenile,0,0
+1998,Sheriff's Office,DC,District of Columbia,1998-09-22,2,0,3,2,1,White,Non-Hispanic,2,Intimidation,2,Bar/Nightclub,Anti-Black,Adult,1,0

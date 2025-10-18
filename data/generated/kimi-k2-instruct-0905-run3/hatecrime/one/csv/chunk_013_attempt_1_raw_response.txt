@@ -1,0 +1,49 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,County,CA,California,1991-03-15,2,0,2,2,0,White,Not Hispanic,2,Intimidation,2.0,Residence/Home,Anti-Black or African American,Adult,N,N
+1992,City,TX,Texas,1992-07-22,1,1,3,2,1,Black,Hispanic,2,Simple Assault,1.0,School/College,Anti-White,Adult & Juvenile,Y,N
+1993,State,NY,New York,1993-11-08,0,1,1,0,1,Asian,Not Hispanic,1,Destruction/Damage/Vandalism of Property,0.0,Religious Facility,Anti-Jewish,Juvenile,N,S
+1994,City,FL,Florida,1994-02-14,1,0,1,1,0,White,Hispanic,1,Aggravated Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Adult,N,N
+1995,County,IL,Illinois,1995-09-30,3,0,2,2,0,Black,Not Hispanic,3,Intimidation,3.0,Residence/Home,Anti-White,Adult,Y,N
+1996,City,PA,Pennsylvania,1996-04-05,0,2,1,1,0,White,Not Hispanic,2,Simple Assault,2.0,School/College,Anti-Asian,Multiple Juvenile Victims,N,N
+1997,State,OH,Ohio,1997-12-18,1,0,1,1,0,Unknown,Hispanic,1,Robbery,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Adult,N,S
+1998,County,MI,Michigan,1998-05-27,2,0,3,3,0,Black,Not Hispanic,2,Destruction/Damage/Vandalism of Property,0.0,Residence/Home,Anti-Black or African American,Adult,Y,N
+1999,City,GA,Georgia,1999-08-10,0,1,2,1,1,White,Not Hispanic,1,Intimidation,1.0,School/College,Anti-Black or African American,Juvenile,N,N
+2000,State,NC,North Carolina,2000-01-03,1,0,1,1,0,White,Hispanic,1,Aggravated Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Adult,N,N
+2001,County,WA,Washington,2001-10-12,3,0,2,2,0,Asian,Not Hispanic,3,Simple Assault,3.0,Residence/Home,Anti-Asian,Adult,N,Y
+2002,City,AZ,Arizona,2002-06-25,0,2,1,0,1,Black,Hispanic,2,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Hispanic or Latino,Multiple Juvenile Victims,N,N
+2003,State,MA,Massachusetts,2003-03-08,1,0,1,1,0,Unknown,Not Specified,1,Intimidation,1.0,Religious Facility,Anti-Jewish,Adult,N,N
+2004,County,CO,Colorado,2004-11-19,2,0,2,1,1,White,Not Hispanic,2,Simple Assault,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Adult,Y,S
+2005,City,TN,Tennessee,2005-04-02,0,1,1,0,1,Black,Not Hispanic,1,Aggravated Assault,1.0,School/College,Anti-White,Juvenile,N,N
+2006,State,MN,Minnesota,2006-07-14,1,0,1,1,0,Black,Hispanic,1,Robbery,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Adult,N,N
+2007,County,WI,Wisconsin,2007-09-06,4,0,3,3,0,White,Not Hispanic,4,Destruction/Damage/Vandalism of Property,0.0,Residence/Home,Anti-Black or African American,Adult,Y,N
+2008,City,MD,Maryland,2008-02-28,0,2,2,1,1,Asian,Not Hispanic,2,Intimidation,2.0,School/College,Anti-Asian,Multiple Juvenile Victims,N,Y
+2009,State,OR,Oregon,2009-12-11,1,0,1,1,0,Unknown,Hispanic,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Adult,N,N
+2010,County,SC,South Carolina,2010-05-19,2,0,2,2,0,Black,Not Hispanic,2,Aggravated Assault,2.0,Residence/Home,Anti-White,Adult,N,N
+2011,City,AL,Alabama,2011-08-03,0,1,1,0,1,White,Not Hispanic,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Black or African American,Juvenile,N,S
+2012,State,LA,Louisiana,2012-01-15,3,0,1,1,0,Black,Hispanic,3,Intimidation,3.0,Religious Facility,Anti-Hispanic or Latino,Adult,Y,N
+2013,County,KY,Kentucky,2013-06-22,1,0,2,1,1,White,Not Hispanic,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Adult,N,N
+2014,City,OK,Oklahoma,2014-10-07,0,2,3,2,1,Black,Not Hispanic,2,Aggravated Assault,2.0,School/College,Anti-White,Multiple Juvenile Victims,Y,N
+1991,State,NV,Nevada,1991-04-09,2,0,1,1,0,Asian,Hispanic,2,Robbery,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Adult,N,N
+1992,County,VA,Virginia,1992-11-30,0,1,2,1,1,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Residence/Home,Anti-Jewish,Juvenile,N,N
+1993,City,MO,Missouri,1993-08-14,1,0,1,1,0,White,Not Hispanic,1,Intimidation,1.0,School/College,Anti-Black or African American,Adult,N,Y
+1994,State,NJ,New Jersey,1994-03-21,3,0,2,2,0,Black,Hispanic,3,Simple Assault,3.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Adult,Y,N
+1995,County,CA,California,1995-12-05,0,2,1,0,1,White,Hispanic,2,Aggravated Assault,2.0,School/College,Anti-Hispanic or Latino,Multiple Juvenile Victims,N,N
+1996,City,TX,Texas,1996-07-01,1,0,1,1,0,Black,Not Hispanic,1,Destruction/Damage/Vandalism of Property,0.0,Religious Facility,Anti-Black or African American,Adult,N,S
+1997,State,NY,New York,1997-02-18,2,0,3,3,0,Asian,Not Hispanic,2,Intimidation,2.0,Residence/Home,Anti-Asian,Adult,Y,N
+1998,County,FL,Florida,1998-09-29,0,1,1,0,1,Unknown,Hispanic,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Juvenile,N,N
+1999,City,IL,Illinois,1999-06-12,1,0,2,1,1,White,Not Hispanic,1,Robbery,1.0,School/College,Anti-Black or African American,Adult,N,N
+2000,State,PA,Pennsylvania,2000-10-26,4,0,2,2,0,Black,Not Hispanic,4,Aggravated Assault,4.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Adult,Y,Y
+2001,County,OH,Ohio,2001-01-31,0,2,1,1,0,White,Not Hispanic,2,Destruction/Damage/Vandalism of Property,0.0,Residence/Home,Anti-Asian,Multiple Juvenile Victims,N,N
+2002,City,MI,Michigan,2002-05-14,2,0,1,1,0,Black,Hispanic,2,Intimidation,2.0,Religious Facility,Anti-Hispanic or Latino,Adult,N,N
+2003,State,GA,Georgia,2003-08-07,1,0,2,2,0,Asian,Not Hispanic,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Adult,N,S
+2004,County,NC,North Carolina,2004-11-20,0,1,3,2,1,Unknown,Not Specified,1,Aggravated Assault,1.0,School/College,Anti-Black or African American,Juvenile,Y,N
+2005,City,WA,Washington,2005-04-03,3,0,1,1,0,White,Hispanic,3,Robbery,3.0,Residence/Home,Anti-Hispanic or Latino,Adult,N,N
+2006,State,AZ,Arizona,2006-07-16,0,2,2,1,1,Black,Not Hispanic,2,Destruction/Damage/Vandalism of Property,0.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Multiple Juvenile Victims,N,Y
+2007,County,MA,Massachusetts,2007-12-09,1,0,1,1,0,White,Not Hispanic,1,Intimidation,1.0,School/College,Anti-Black or African American,Adult,N,N
+2008,City,CO,Colorado,2008-03-25,2,0,2,2,0,Black,Hispanic,2,Simple Assault,2.0,Residence/Home,Anti-Hispanic or Latino,Adult,Y,N
+2009,State,TN,Tennessee,2009-09-02,0,1,1,0,1,Asian,Not Hispanic,1,Aggravated Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Juvenile,N,N
+2010,County,MN,Minnesota,2010-06-18,1,0,1,1,0,Unknown,Hispanic,1,Destruction/Damage/Vandalism of Property,0.0,Religious Facility,Anti-Hispanic or Latino,Adult,N,S
+2011,City,WI,Wisconsin,2011-11-11,4,0,3,3,0,White,Not Hispanic,4,Intimidation,4.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Adult,Y,N
+2012,State,MD,Maryland,2012-02-27,0,2,1,1,0,Black,Not Hispanic,2,Robbery,2.0,School/College,Anti-White,Multiple Juvenile Victims,N,N
+2013,County,OR,Oregon,2013-08-14,2,0,2,1,1,White,Hispanic,2,Aggravated Assault,2.0,Residence/Home,Anti-Hispanic or Latino,Adult,N,Y
+2014,City,SC,South Carolina,2014-01-06,1,0,1,1,0,Asian,Not Hispanic,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Adult,N,N

@@ -1,0 +1,49 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1992,City,CA,California,1992-04-12,1,0,2,2,0,White,Non-Hispanic,1,Intimidation,1,Residence/Home,Anti-Black,Individual,No,No
+1994,County,TX,Texas,1994-09-28,0,1,1,1,0,Black,Hispanic,1,Simple Assault,1,School-College,Anti-Hispanic,Individual,No,No
+1996,City,NY,New York,1996-02-15,2,0,3,2,1,Asian,Non-Hispanic,2,Aggravated Assault,2,Highway/Road,Anti-Asian,Multiple,Yes,No
+1998,State,FL,Florida,1998-07-04,1,0,1,1,0,White,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Church/Synagogue/Temple,Anti-Jewish,Institution,No,No
+2000,City,IL,Illinois,2000-11-22,0,2,2,1,1,Black,Non-Hispanic,2,Intimidation,2,School-Elementary,Anti-White,Individual,No,No
+2002,County,PA,Pennsylvania,2002-03-17,1,0,1,1,0,White,Non-Hispanic,1,Simple Assault,1,Residence/Home,Anti-Islamic,Individual,No,No
+2004,City,OH,Ohio,2004-08-05,1,0,2,2,0,White,Hispanic,1,Aggravated Assault,1,Restaurant,Anti-Gay,Individual,No,No
+2006,County,MI,Michigan,2006-12-10,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,School-High,Anti-Black,Individual,No,No
+2008,City,GA,Georgia,2008-05-30,2,0,3,3,0,Black,Non-Hispanic,2,Robbery,2,Parking Lot/Garage,Anti-White,Multiple,Yes,No
+2010,State,NC,North Carolina,2010-10-13,1,0,1,1,0,White,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Residence/Home,Anti-Hispanic,Individual,No,No
+1991,City,CA,California,1991-06-18,1,0,2,1,1,Asian,Non-Hispanic,1,Simple Assault,1,Bar/Nightclub,Anti-Asian,Individual,No,No
+1993,County,NY,New York,1993-01-09,0,1,1,1,0,White,Non-Hispanic,1,Intimidation,1,School-Middle,Anti-Jewish,Individual,No,No
+1995,City,TX,Texas,1995-10-02,2,0,2,2,0,Black,Hispanic,2,Aggravated Assault,2,Highway/Road,Anti-Hispanic,Multiple,No,No
+1997,County,FL,Florida,1997-03-25,1,0,1,1,0,White,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Church/Synagogue/Temple,Anti-Islamic,Institution,No,No
+1999,City,IL,Illinois,1999-08-14,0,2,3,2,1,Black,Non-Hispanic,2,Simple Assault,2,Park/Playground,Anti-White,Individual,Yes,No
+2001,State,PA,Pennsylvania,2001-04-21,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Residence/Home,Anti-Gay,Individual,No,No
+2003,City,OH,Ohio,2003-11-07,1,0,2,1,1,White,Hispanic,1,Robbery,1,Gas Station,Anti-Black,Individual,No,No
+2005,County,MI,Michigan,2005-07-19,0,1,1,0,1,Black,Non-Hispanic,1,Destruction/Damage/Vandalism,1,School-College,Anti-Asian,Institution,No,No
+2007,City,GA,Georgia,2007-02-28,2,0,2,2,0,White,Non-Hispanic,2,Aggravated Assault,2,Bar/Nightclub,Anti-Hispanic,Multiple,No,No
+2009,State,NC,North Carolina,2009-09-11,1,0,1,1,0,Black,Hispanic,1,Simple Assault,1,Highway/Road,Anti-Jewish,Individual,No,No
+1992,County,CA,California,1992-12-03,0,1,1,1,0,Asian,Non-Hispanic,1,Intimidation,1,School-High,Anti-Islamic,Individual,No,No
+1994,City,NY,New York,1994-05-27,1,0,3,2,1,White,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Residence/Home,Anti-Black,Individual,No,No
+1996,State,TX,Texas,1996-10-08,2,0,2,1,1,Black,Hispanic,2,Robbery,2,Parking Lot/Garage,Anti-White,Multiple,Yes,No
+1998,City,FL,Florida,1998-01-16,1,0,1,1,0,White,Non-Hispanic,1,Simple Assault,1,Restaurant,Anti-Hispanic,Individual,No,No
+2000,County,IL,Illinois,2000-06-30,0,2,2,2,0,Black,Non-Hispanic,2,Aggravated Assault,2,Park/Playground,Anti-Gay,Individual,No,No
+2002,City,PA,Pennsylvania,2002-09-14,1,0,1,0,1,White,Non-Hispanic,1,Intimidation,1,School-Elementary,Anti-Asian,Individual,No,No
+2004,State,OH,Ohio,2004-03-22,1,0,2,2,0,White,Hispanic,1,Destruction/Damage/Vandalism,1,Church/Synagogue/Temple,Anti-Jewish,Institution,No,No
+2006,City,MI,Michigan,2006-11-11,2,0,3,3,0,Black,Non-Hispanic,2,Simple Assault,2,Bar/Nightclub,Anti-Black,Multiple,No,No
+2008,County,GA,Georgia,2008-08-07,0,1,1,1,0,White,Non-Hispanic,1,Robbery,1,School-Middle,Anti-Islamic,Individual,No,No
+2010,City,NC,North Carolina,2010-01-25,1,0,1,1,0,Black,Hispanic,1,Aggravated Assault,1,Highway/Road,Anti-Hispanic,Individual,No,No
+1991,State,CA,California,1991-09-09,0,2,2,1,1,Asian,Non-Hispanic,2,Intimidation,2,Residence/Home,Anti-White,Individual,Yes,No
+1993,City,NY,New York,1993-12-20,1,0,1,1,0,White,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Parking Lot/Garage,Anti-Gay,Individual,No,No
+1995,County,TX,Texas,1995-04-01,2,0,2,2,0,Black,Hispanic,2,Simple Assault,2,Gas Station,Anti-Asian,Multiple,No,No
+1997,City,FL,Florida,1997-07-30,1,0,3,2,1,White,Non-Hispanic,1,Intimidation,1,School-College,Anti-Black,Individual,No,No
+1999,State,IL,Illinois,1999-02-14,0,1,1,0,1,Black,Non-Hispanic,1,Aggravated Assault,1,Park/Playground,Anti-Jewish,Individual,No,No
+2001,City,PA,Pennsylvania,2001-10-26,1,0,1,1,0,White,Non-Hispanic,1,Robbery,1,Restaurant,Anti-Hispanic,Individual,No,No
+2003,County,OH,Ohio,2003-06-13,2,0,2,1,1,White,Hispanic,2,Destruction/Damage/Vandalism,2,Church/Synagogue/Temple,Anti-Islamic,Institution,No,No
+2005,City,MI,Michigan,2005-12-24,1,0,1,1,0,Black,Non-Hispanic,1,Simple Assault,1,Residence/Home,Anti-Black,Individual,No,No
+2007,State,GA,Georgia,2007-05-05,0,2,3,3,0,White,Non-Hispanic,2,Intimidation,2,School-High,Anti-White,Individual,Yes,No
+2009,City,NC,North Carolina,2009-08-18,1,0,2,2,0,Black,Hispanic,1,Aggravated Assault,1,Bar/Nightclub,Anti-Gay,Individual,No,No
+2011,County,CA,California,2011-03-31,1,0,1,0,1,Asian,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Highway/Road,Anti-Asian,Individual,No,No
+1992,City,NY,New York,1992-07-22,2,0,2,2,0,White,Non-Hispanic,2,Robbery,2,Parking Lot/Garage,Anti-Jewish,Multiple,No,No
+1994,State,TX,Texas,1994-11-09,0,1,1,1,0,Black,Hispanic,1,Intimidation,1,School-Elementary,Anti-Hispanic,Individual,No,No
+1996,City,FL,Florida,1996-04-26,1,0,3,2,1,White,Non-Hispanic,1,Simple Assault,1,Gas Station,Anti-Black,Individual,Yes,No
+1998,County,IL,Illinois,1998-09-03,1,0,1,1,0,Black,Non-Hispanic,1,Destruction/Damage/Vandalism,1,Residence/Home,Anti-White,Individual,No,No
+2000,City,PA,Pennsylvania,2000-01-17,0,2,2,1,1,White,Non-Hispanic,2,Aggravated Assault,2,School-Middle,Anti-Islamic,Individual,No,No
+2002,State,OH,Ohio,2002-08-20,1,0,1,1,0,Black,Hispanic,1,Intimidation,1,Restaurant,Anti-Hispanic,Individual,No,No
+2004,City,MI,Michigan,2004-05-14,2,0,2,2,0,White,Hispanic,2,Robbery,2,Park/Playground,Anti-Asian,Multiple,No,No

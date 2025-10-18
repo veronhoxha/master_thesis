@@ -1,0 +1,47 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1992,Police Department,CA,California,1992-03-15,1,0,2,2,0,White,Non-Hispanic,1,Intimidation,1,Residence/Home,Anti-Black,Individual,No,No
+1994,Sheriff's Office,TX,Texas,1994-07-22,0,1,1,1,0,Black,Hispanic,1,Simple Assault,1,School-College,Anti-Hispanic,Individual,No,No
+1996,Police Department,NY,New York,1996-11-08,2,0,3,2,1,Asian,Non-Hispanic,2,Aggravated Assault,2,Highway/Road,Anti-Asian,Individuals,Yes,No
+1998,State Police,FL,Florida,1998-02-14,1,1,1,1,0,White,Hispanic,2,Vandalism,2,Church/Synagogue,Anti-Jewish,Property,No,Yes
+2000,Police Department,IL,Illinois,2000-09-30,1,0,2,1,1,Black,Non-Hispanic,1,Robbery,1,Convenience Store,Anti-White,Individual,No,No
+2002,Sheriff's Office,PA,Pennsylvania,2002-04-05,0,2,1,0,1,White,Non-Hispanic,2,Intimidation,2,School-Elementary,Anti-Islamic,Individuals,No,No
+2004,Police Department,OH,Ohio,2004-08-17,2,0,2,2,0,White,Hispanic,2,Burglary,2,Residence/Home,Anti-Hispanic,Individuals,Yes,No
+2006,State Police,MI,Michigan,2006-01-25,1,0,3,3,0,Black,Non-Hispanic,1,Murder,1,Abandoned Building,Anti-Black,Individual,No,No
+2008,Police Department,GA,Georgia,2008-06-12,0,1,1,1,0,White,Non-Hispanic,1,Simple Assault,1,Park/Playground,Anti-Islamic,Individual,No,No
+2010,Sheriff's Office,NC,North Carolina,2010-10-20,3,0,2,1,1,Asian,Hispanic,3,Aggravated Assault,3,Bar/Nightclub,Anti-Hispanic,Individuals,Yes,Yes
+2012,Police Department,NJ,New Jersey,2012-12-03,1,1,1,0,1,Black,Non-Hispanic,2,Vandalism,2,Residence/Home,Anti-White,Property,No,No
+1991,Police Department,CA,California,1991-05-08,2,0,4,3,1,White,Non-Hispanic,2,Intimidation,2,Highway/Road,Anti-Black,Individuals,No,No
+1993,Sheriff's Office,TX,Texas,1993-09-14,0,1,2,2,0,Hispanic,Hispanic,1,Simple Assault,1,School-High,Anti-Hispanic,Individual,No,No
+1995,State Police,NY,New York,1995-04-27,1,0,1,1,0,Black,Non-Hispanic,1,Aggravated Assault,1,Gas Station,Anti-Gay,Individual,No,No
+1997,Police Department,FL,Florida,1997-07-04,0,2,3,2,1,White,Hispanic,2,Vandalism,2,Church/Synagogue,Anti-Jewish,Property,Yes,No
+1999,Sheriff's Office,IL,Illinois,1999-11-11,1,0,2,1,1,Asian,Non-Hispanic,1,Robbery,1,Residence/Home,Anti-Asian,Individual,No,Yes
+2001,Police Department,PA,Pennsylvania,2001-02-28,0,1,1,0,1,Black,Hispanic,2,Intimidation,2,School-Middle,Anti-Black,Individuals,No,No
+2003,State Police,OH,Ohio,2003-06-19,2,0,2,2,0,White,Non-Hispanic,2,Burglary,2,Residence/Home,Anti-Hispanic,Individuals,No,No
+2005,Police Department,MI,Michigan,2005-10-07,1,1,1,1,0,Black,Non-Hispanic,1,Murder,1,Field/Woods,Anti-White,Individual,No,No
+2007,Sheriff's Office,GA,Georgia,2007-03-15,0,2,2,2,0,White,Hispanic,2,Simple Assault,2,Mall/Shopping Center,Anti-Hispanic,Individuals,Yes,No
+2009,Police Department,NC,North Carolina,2009-08-22,3,0,3,2,1,Hispanic,Hispanic,3,Aggravated Assault,3,Bar/Nightclub,Anti-Hispanic,Individuals,No,Yes
+2011,State Police,NJ,New Jersey,2011-01-30,1,0,1,1,0,Asian,Non-Hispanic,1,Vandalism,1,Church/Synagogue,Anti-Jewish,Property,No,No
+2013,Police Department,CA,California,2013-09-09,2,1,2,1,1,Black,Non-Hispanic,3,Intimidation,3,Residence/Home,Anti-Black,Individuals,No,No
+1992,Sheriff's Office,TX,Texas,1992-12-25,0,1,1,1,0,White,Non-Hispanic,1,Simple Assault,1,School-College,Anti-Islamic,Individual,No,No
+1994,Police Department,NY,New York,1994-05-16,1,0,3,3,0,Black,Hispanic,1,Aggravated Assault,1,Parking Lot,Anti-Black,Individual,Yes,No
+1996,State Police,FL,Florida,1996-08-03,0,2,2,1,1,White,Hispanic,2,Vandalism,2,Residence/Home,Anti-Hispanic,Property,No,No
+1998,Police Department,IL,Illinois,1998-01-19,2,0,1,1,0,Asian,Non-Hispanic,2,Robbery,2,Convenience Store,Anti-Asian,Individuals,No,Yes
+2000,Sheriff's Office,PA,Pennsylvania,2000-07-26,1,1,2,2,0,Black,Non-Hispanic,2,Intimidation,2,Highway/Road,Anti-White,Individuals,No,No
+2002,Police Department,OH,Ohio,2002-11-12,0,1,1,0,1,White,Hispanic,1,Simple Assault,1,School-Elementary,Anti-Hispanic,Individual,No,No
+2004,State Police,MI,Michigan,2004-02-08,1,0,4,3,1,Black,Non-Hispanic,1,Burglary,1,Abandoned Building,Anti-Black,Individual,Yes,No
+2006,Police Department,GA,Georgia,2006-06-25,0,2,2,1,1,Hispanic,Hispanic,2,Aggravated Assault,2,Park/Playground,Anti-Hispanic,Individuals,No,No
+2008,Sheriff's Office,NC,North Carolina,2008-10-14,3,0,3,2,1,Asian,Non-Hispanic,3,Vandalism,3,Church/Synagogue,Anti-Jewish,Property,No,Yes
+2010,Police Department,NJ,New Jersey,2010-03-21,1,0,2,2,0,White,Non-Hispanic,1,Robbery,1,Bar/Nightclub,Anti-Gay,Individual,No,No
+2012,State Police,CA,California,2012-08-30,2,1,1,1,0,Black,Hispanic,3,Intimidation,3,Residence/Home,Anti-Hispanic,Individuals,No,No
+1991,Police Department,TX,Texas,1991-04-02,0,1,2,1,1,White,Non-Hispanic,1,Murder,1,Field/Woods,Anti-Islamic,Individual,No,No
+1993,Sheriff's Office,NY,New York,1993-09-18,1,0,1,1,0,Black,Non-Hispanic,2,Simple Assault,2,Gas Station,Anti-Black,Individuals,Yes,No
+1995,State Police,FL,Florida,1995-12-05,0,2,3,2,1,White,Hispanic,2,Vandalism,2,Mall/Shopping Center,Anti-Jewish,Property,No,No
+1997,Police Department,IL,Illinois,1997-05-23,2,0,2,1,1,Asian,Non-Hispanic,2,Aggravated Assault,2,Residence/Home,Anti-Asian,Individuals,No,Yes
+1999,Sheriff's Office,PA,Pennsylvania,1999-10-11,1,1,1,0,1,Black,Non-Hispanic,1,Intimidation,1,School-High,Anti-White,Individual,No,No
+2001,Police Department,OH,Ohio,2001-03-29,0,1,2,2,0,Hispanic,Hispanic,2,Robbery,2,Parking Lot,Anti-Hispanic,Individuals,No,No
+2003,State Police,MI,Michigan,2003-07-16,3,0,3,3,0,White,Non-Hispanic,3,Burglary,3,Residence/Home,Anti-Black,Individuals,Yes,No
+2005,Police Department,GA,Georgia,2005-11-22,1,0,1,1,0,Black,Non-Hispanic,1,Simple Assault,1,Church/Synagogue,Anti-Jewish,Individual,No,No
+2007,Sheriff's Office,NC,North Carolina,2007-02-14,0,2,2,1,1,Asian,Hispanic,2,Vandalism,2,School-College,Anti-Hispanic,Property,No,No
+2009,Police Department,NJ,New Jersey,2009-06-30,2,1,1,1,0,White,Non-Hispanic,3,Aggravated Assault,3,Bar/Nightclub,Anti-Islamic,Individuals,No,Yes
+2011,State Police,CA,California,2011-09-07,1,0,4,3,1,Black,Non-Hispanic,1,Intimidation,1,Highway/Road,Anti-Black,Individual,No,No
+2013,Police Department,TX,Texas,2013-01-26,0,1,2,2,0,White,Hispanic,1,Murder,1,Abandoned Building,Anti-Hispanic,Individual,Yes,No
