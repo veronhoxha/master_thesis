@@ -1,0 +1,49 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,Local,,,1991-01-01,0,0,0,0,0,,White,,1,CITY,,Anti-Government,,1,Public
+1991,State,,,1991-02-02,1,0,1,1,0,,Black,,2,STATE,,Racial Bias,,Victim of Crime,0
+1992,Local,NY,New York,1992-03-03,1,0,1,1,0,Asian,Asian,2,CITY,,Racial Bias,,Victim of Crime,0,1
+1992,Federal,,,1992-04-04,0,0,0,0,0,,Hispanic,,1,FEDERAL,,Anti-Government,,1,Public
+1991,State,,,1991-05-05,0,0,0,0,0,,White,,1,STATE,,Anti-Government,,1,Public
+1993,Local,,,1993-06-06,1,0,1,1,0,,Black,,2,CITY,,Racial Bias,,1,Public
+1992,Federal,,,1992-07-07,0,0,0,0,0,,White,,1,FEDERAL,,Racial Bias,,1,Public
+1993,Local,,,1993-08-08,0,0,0,0,0,,Hispanic,,1,CITY,,Anti-Government,,1,Public
+1991,Local,,,1991-09-09,1,0,1,1,0,,White,,2,CITY,,Racial Bias,,1,Public
+1994,State,,,1994-10-10,0,0,0,0,0,,Asian,,1,STATE,,Racial Bias,,1,Public
+1993,Federal,,,1993-11-11,1,0,1,1,0,,Black,,2,FEDERAL,,Racial Bias,,1,Public
+1994,Local,,,1994-12-12,0,0,0,0,0,,White,,1,CITY,,Anti-Government,,1,Public
+1992,State,,,1992-01-01,1,0,1,1,0,,Hispanic,,2,STATE,,Racial Bias,,1,Public
+1992,Local,,,1992-02-02,0,0,0,0,0,,Asian,,1,CITY,,Racial Bias,,1,Public
+1993,Local,,,1993-03-03,1,0,1,1,0,,Black,,2,CITY,,Racial Bias,,1,Public
+1992,Federal,,,1992-04-04,0,0,0,0,0,,White,,1,FEDERAL,,Anti-Government,,1,Public
+1994,State,,,1994-05-05,0,0,0,0,0,,Hispanic,,1,STATE,,Racial Bias,,1,Public
+1993,Federal,,,1993-06-06,1,0,1,1,0,,Asian,,2,FEDERAL,,Racial Bias,,1,Public
+1994,Local,,,1994-07-07,0,0,0,0,0,,Black,,1,CITY,,Anti-Government,,1,Public
+1992,State,,,1992-08-08,1,0,1,1,0,,White,,2,STATE,,Racial Bias,,1,Public
+1994,State,,,1994-09-09,0,0,0,0,0,,Hispanic,,1,STATE,,Racial Bias,,1,Public
+1993,Local,,,1993-10-10,1,0,1,1,0,,Asian,,2,CITY,,Racial Bias,,1,Public
+1995,Federal,,,1995-11-11,0,0,0,0,0,,Black,,1,FEDERAL,,Racial Bias,,1,Public
+1994,Local,,,1994-12-12,0,0,0,0,0,,White,,1,CITY,,Anti-Government,,1,Public
+1993,State,,,1993-01-01,1,0,1,1,0,,Hispanic,,2,STATE,,Racial Bias,,1,Public
+1994,Federal,,,1994-02-02,0,0,0,0,0,,Asian,,1,FEDERAL,,Racial Bias,,1,Public
+1995,Local,,,1995-03-03,1,0,1,1,0,,Black,,2,CITY,,Racial Bias,,1,Public
+1994,State,,,1994-04-04,0,0,0,0,0,,White,,1,STATE,,Anti-Government,,1,Public
+1995,State,,,1995-05-05,1,0,1,1,0,,Hispanic,,2,STATE,,Racial Bias,,1,Public
+1994,Federal,,,1994-06-06,0,0,0,0,0,,Asian,,1,FEDERAL,,Racial Bias,,1,Public
+1995,Local,,,1995-07-07,0,0,0,0,0,,Black,,1,CITY,,Anti-Government,,1,Public
+1994,State,,,1994-08-08,1,0,1,1,0,,White,,2,STATE,,Racial Bias,,1,Public
+1995,Federal,,,1995-09-09,0,0,0,0,0,,Hispanic,,1,FEDERAL,,Racial Bias,,1,Public
+1995,State,,,1995-10-10,0,0,0,0,0,,Asian,,1,STATE,,Anti-Government,,1,Public
+1996,Local,,,1996-11-11,1,0,1,1,0,,Black,,2,CITY,,Racial Bias,,1,Public
+1995,Federal,,,1995-12-12,0,0,0,0,0,,White,,1,FEDERAL,,Racial Bias,,1,Public
+1996,State,,,1996-01-01,0,0,0,0,0,,Hispanic,,1,STATE,,Racial Bias,,1,Public
+1996,State,,,1996-02-02,1,0,1,1,0,,Asian,,2,STATE,,Anti-Government,,1,Public
+1995,Local,,,1995-03-03,0,0,0,0,0,,Black,,1,CITY,,Racial Bias,,1,Public
+1996,Federal,,,1996-04-04,1,0,1,1,0,,White,,2,FEDERAL,,Racial Bias,,1,Public
+1996,State,,,1996-05-05,0,0,0,0,0,,Hispanic,,1,STATE,,Anti-Government,,1,Public
+1996,Local,,,1996-06-06,0,0,0,0,0,,Asian,,1,CITY,,Racial Bias,,1,Public
+1995,Federal,,,1995-07-07,1,0,1,1,0,,Black,,2,FEDERAL,,Racial Bias,,1,Public
+1996,Federal,,,1996-08-08,0,0,0,0,0,,White,,1,FEDERAL,,Racial Bias,,1,Public
+1996,Local,,,1996-09-09,0,0,0,0,0,,Hispanic,,1,CITY,,Racial Bias,,1,Public
+1996,State,,,1996-10-10,1,0,1,1,0,,Asian,,2,STATE,,Racial Bias,,1,Public
+1997,Federal,,,1997-11-11,0,0,0,0,0,,Black,,1,FEDERAL,,Racial Bias,,1,Public
+1996,Local,,,1996-12-12,1,0,1,1,0,,White,,2,CITY,,Racial Bias,,1,Public

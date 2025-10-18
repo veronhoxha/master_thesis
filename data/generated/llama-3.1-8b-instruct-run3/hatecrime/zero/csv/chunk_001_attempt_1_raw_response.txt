@@ -1,0 +1,71 @@
+"date_year","agency_type_name","state_abbr","state_name","incident_date","adult_victim_count","juvenile_victim_count","total_offender_count","adult_offender_count","juvenile_offender_count","offender_race","offender_ethnicity","victim_count","offense_name","total_individual_victims","location_name","bias_desc","victim_types","multiple_offense","multiple_bias"
+"1991","Local", "CA", "California", "1991-02-10", 2, 0, 1, 1, 0, "White", "Non-Hispanic", 2, "Anti-Semitic", 2, "Park", "Racial/Ethnic Bias", "Individual", 0, 0
+"1991","State", "TX", "Texas", "1991-05-20", 1, 0, 2, 2, 0, "Asian", "Non-Hispanic", 1, "Hate Crime Against Sexual Orientation", 1, "City", "Bias Motivated by Sexual Orientation", "Individual", 1, 0
+"1991","Federal", "NY", "New York", "1991-09-15", 0, 0, 1, 1, 0, "Black or African American", "Non-Hispanic", 0, "Anti-LGBT", 0, "Street", "Racial/Ethnic Bias", "Individual", 1, 0
+"1992","Local", "FL", "Florida", "1992-01-25", 3, 0, 2, 2, 0, "Hispanic or Latino", "Non-Hispanic", 3, "Anti-Indian", 3, "Residence", "Racial/Ethnic Bias", "Individual", 0, 0
+"1992","State", "IL", "Illinois", "1992-03-10", 2, 0, 1, 1, 0, "White", "Non-Hispanic", 2, "Hate Crime Against Disability", 2, "Park", "Bias Motivated by Disability", "Individual", 0, 0
+"1992","Federal", "CA", "California", "1992-09-01", 0, 0, 2, 2, 0, "Asian", "Non-Hispanic", 0, "Anti-Arab", 0, "Street", "Racial/Ethnic Bias", "Individual", 1, 0
+"1993","Local", "NY", "New York", "1993-02-20", 1, 0, 1, 1, 0, "Black or African American", "Non-Hispanic", 1, "Anti-Jewish", 1, "Residence", "Racial/Ethnic Bias", "Individual", 0, 0
+"1993","State", "TX", "Texas", "1993-04-15", 2, 0, 1, 1, 0, "White", "Non-Hispanic", 2, "Hate Crime Against Sexual Orientation", 2, "City", "Bias Motivated by Sexual Orientation", "Individual", 1, 0
+"1993","Federal", "FL", "Florida", "1993-08-10", 0, 0, 1, 1, 0, "Hispanic or Latino", "Non-Hispanic", 0, "Anti-LGBT", 0, "Street", "Racial/Ethnic Bias", "Individual", 1, 0
+"1994","Local", "CA", "California", "1994-01-01", 3, 0, 2, 2, 0, "Asian", "Non-Hispanic", 3, "Anti-Indian", 3, "Residence", "Racial/Ethnic Bias", "Individual", 0, 0
+"1994","State", "IL", "Illinois", "1994-02-20", 2, 0, 1, 1, 0, "White", "Non-Hispanic", 2, "Hate Crime Against Disability", 2, "Park", "Bias Motivated by Disability", "Individual", 0, 0
+"1994","Federal", "NY", "New York", "1994-05-25", 0, 0, 2, 2, 0, "Black or African American", "Non-Hispanic", 0, "Anti-Arab", 0, "Street", "Racial/Ethnic Bias", "Individual", 1, 0
+"1995","Local", "FL", "Florida", "1995-01-10", 1, 0, 1, 1, 0, "Hispanic or Latino", "Non-Hispanic", 1, "Anti-Jewish", 1, "Residence", "Racial/Ethnic Bias", "Individual", 0, 0
+"1995","State", "TX", "Texas", "1995-03-01", 2, 0, 1, 1, 0, "White", "Non-Hispanic", 2, "Hate Crime Against Sexual Orientation", 2, "City", "Bias Motivated by Sexual Orientation", "Individual", 1, 0
+"1995","Federal", "CA", "California", "1995-07-15", 0, 0, 1, 1, 0, "Asian", "Non-Hispanic", 0, "Anti-LGBT", 0, "Street", "Racial/Ethnic Bias", "Individual", 1, 0
+"1996","Local", "NY", "New York", "1996-01-25", 3, 0, 2, 2, 0, "Black or African American", "Non-Hispanic", 3, "Anti-Indian", 3, "Residence", "Racial/Ethnic Bias", "Individual", 0, 0
+"1996","State", "IL", "Illinois", "1996-02-10", 2, 0, 1, 1, 0, "White", "Non-Hispanic", 2, "Hate Crime Against Disability", 2, "Park", "Bias Motivated by Disability", "Individual", 0, 0
+"1996","Federal", "FL", "Florida", "1996-04-01", 0, 0, 2, 2, 0, "Hispanic or Latino", "Non-Hispanic", 0, "Anti-Arab", 0, "Street", "Racial/Ethnic Bias", "Individual", 1, 0
+"1997","Local", "CA", "California", "1997-01-01", 1, 0, 1, 1, 0, "Asian", "Non-Hispanic", 1, "Anti-Jewish", 1, "Residence", "Racial/Ethnic Bias", "Individual", 0, 0
+"1997","State", "TX", "Texas", "1997-02-20", 2, 0, 1, 1, 0, "White", "Non-Hispanic", 2, "Hate Crime Against Sexual Orientation", 2, "City", "Bias Motivated by Sexual Orientation", "Individual", 1, 0
+"1997","Federal", "NY", "New York", "1997-05-10", 0, 0, 1, 1, 0, "Black or African American", "Non-Hispanic", 0, "Anti-LGBT", 0, "Street", "Racial/Ethnic Bias", "Individual", 1, 0
+"1998","Local", "FL", "Florida", "1998-01-15", 3, 0, 2, 2, 0, "Hispanic or Latino", "Non-Hispanic", 3, "Anti-Indian", 3, "Residence", "Racial/Ethnic Bias", "Individual", 0, 0
+"1998","State", "IL", "Illinois", "1998-02-01", 2, 0, 1, 1, 0, "White", "Non-Hispanic", 2, "Hate Crime Against Disability", 2, "Park", "Bias Motivated by Disability", "Individual", 0, 0
+"1998","Federal", "CA", "California", "1998-04-20", 0, 0, 2, 2, 0, "Asian", "Non-Hispanic", 0, "Anti-Arab", 0, "Street", "Racial/Ethnic Bias", "Individual", 1, 0
+"1999","Local", "NY", "New York", "1999-01-10", 1, 0, 1, 1, 0, "Black or African American", "Non-Hispanic", 1, "Anti-Jewish", 1, "Residence", "Racial/Ethnic Bias", "Individual", 0, 0
+"1999","State", "TX", "Texas", "1999-02-25", 2, 0, 1, 1, 0, "White", "Non-Hispanic", 2, "Hate Crime Against Sexual Orientation", 2, "City", "Bias Motivated by Sexual Orientation", "Individual", 1, 0
+"1999","Federal", "FL", "Florida", "1999-05-01", 0, 0, 1, 1, 0, "Hispanic or Latino", "Non-Hispanic", 0, "Anti-LGBT", 0, "Street", "Racial/Ethnic Bias", "Individual", 1, 0
+"2000","Local", "CA", "California", "2000-01-01", 3, 0, 2, 2, 0, "Asian", "Non-Hispanic", 3, "Anti-Indian", 3, "Residence", "Racial/Ethnic Bias", "Individual", 0, 0
+"2000","State", "IL", "Illinois", "2000-02-10", 2, 0, 1, 1, 0, "White", "Non-Hispanic", 2, "Hate Crime Against Disability", 2, "Park", "Bias Motivated by Disability", "Individual", 0, 0
+"2000","Federal", "NY", "New York", "2000-04-15", 0, 0, 2, 2, 0, "Black or African American", "Non-Hispanic", 0, "Anti-Arab", 0, "Street", "Racial/Ethnic Bias", "Individual", 1, 0
+"2001","Local", "FL", "Florida", "2001-01-25", 1, 0, 1, 1, 0, "Hispanic or Latino", "Non-Hispanic", 1, "Anti-Jewish", 1, "Residence", "Racial/Ethnic Bias", "Individual", 0, 0
+"2001","State", "TX", "Texas", "2001-02-20", 2, 0, 1, 1, 0, "White", "Non-Hispanic", 2, "Hate Crime Against Sexual Orientation", 2, "City", "Bias Motivated by Sexual Orientation", "Individual", 1, 0
+"2001","Federal", "CA", "California", "2001-05-01", 0, 0, 1, 1, 0, "Asian", "Non-Hispanic", 0, "Anti-LGBT", 0, "Street", "Racial/Ethnic Bias", "Individual", 1, 0
+"2002","Local", "NY", "New York", "2002-01-10", 3, 0, 2, 2, 0, "Black or African American", "Non-Hispanic", 3, "Anti-Indian", 3, "Residence", "Racial/Ethnic Bias", "Individual", 0, 0
+"2002","State", "IL", "Illinois", "2002-02-01", 2, 0, 1, 1, 0, "White", "Non-Hispanic", 2, "Hate Crime Against Disability", 2, "Park", "Bias Motivated by Disability", "Individual", 0, 0
+"2002","Federal", "FL", "Florida", "2002-04-20", 0, 0, 2, 2, 0, "Hispanic or Latino", "Non-Hispanic", 0, "Anti-Arab", 0, "Street", "Racial/Ethnic Bias", "Individual", 1, 0
+"2003","Local", "CA", "California", "2003-01-01", 1, 0, 1, 1, 0, "Asian", "Non-Hispanic", 1, "Anti-Jewish", 1, "Residence", "Racial/Ethnic Bias", "Individual", 0, 0
+"2003","State", "TX", "Texas", "2003-02-25", 2, 0, 1, 1, 0, "White", "Non-Hispanic", 2, "Hate Crime Against Sexual Orientation", 2, "City", "Bias Motivated by Sexual Orientation", "Individual", 1, 0
+"2003","Federal", "NY", "New York", "2003-05-10", 0, 0, 1, 1, 0, "Black or African American", "Non-Hispanic", 0, "Anti-LGBT", 0, "Street", "Racial/Ethnic Bias", "Individual", 1, 0
+"2004","Local", "FL", "Florida", "2004-01-15", 3, 0, 2, 2, 0, "Hispanic or Latino", "Non-Hispanic", 3, "Anti-Indian", 3, "Residence", "Racial/Ethnic Bias", "Individual", 0, 0
+"2004","State", "IL", "Illinois", "2004-02-01", 2, 0, 1, 1, 0, "White", "Non-Hispanic", 2, "Hate Crime Against Disability", 2, "Park", "Bias Motivated by Disability", "Individual", 0, 0
+"2004","Federal", "CA", "California", "2004-04-20", 0, 0, 2, 2, 0, "Asian", "Non-Hispanic", 0, "Anti-Arab", 0, "Street", "Racial/Ethnic Bias", "Individual", 1, 0
+"2005","Local", "NY", "New York", "2005-01-10", 1, 0, 1, 1, 0, "Black or African American", "Non-Hispanic", 1, "Anti-Jewish", 1, "Residence", "Racial/Ethnic Bias", "Individual", 0, 0
+"2005","State", "TX", "Texas", "2005-02-20", 2, 0, 1, 1, 0, "White", "Non-Hispanic", 2, "Hate Crime Against Sexual Orientation", 2, "City", "Bias Motivated by Sexual Orientation", "Individual", 1, 0
+"2005","Federal", "FL", "Florida", "2005-05-01", 0, 0, 1, 1, 0, "Hispanic or Latino", "Non-Hispanic", 0, "Anti-LGBT", 0, "Street", "Racial/Ethnic Bias", "Individual", 1, 0
+"2006","Local", "CA", "California", "2006-01-01", 3, 0, 2, 2, 0, "Asian", "Non-Hispanic", 3, "Anti-Indian", 3, "Residence", "Racial/Ethnic Bias", "Individual", 0, 0
+"2006","State", "IL", "Illinois", "2006-02-10", 2, 0, 1, 1, 0, "White", "Non-Hispanic", 2, "Hate Crime Against Disability", 2, "Park", "Bias Motivated by Disability", "Individual", 0, 0
+"2006","Federal", "NY", "New York", "2006-04-15", 0, 0, 2, 2, 0, "Black or African American", "Non-Hispanic", 0, "Anti-Arab", 0, "Street", "Racial/Ethnic Bias", "Individual", 1, 0
+"2007","Local", "FL", "Florida", "2007-01-25", 1, 0, 1, 1, 0, "Hispanic or Latino", "Non-Hispanic", 1, "Anti-Jewish", 1, "Residence", "Racial/Ethnic Bias", "Individual", 0, 0
+"2007","State", "TX", "Texas", "2007-02-20", 2, 0, 1, 1, 0, "White", "Non-Hispanic", 2, "Hate Crime Against Sexual Orientation", 2, "City", "Bias Motivated by Sexual Orientation", "Individual", 1, 0
+"2007","Federal", "CA", "California", "2007-05-01", 0, 0, 1, 1, 0, "Asian", "Non-Hispanic", 0, "Anti-LGBT", 0, "Street", "Racial/Ethnic Bias", "Individual", 1, 0
+"2008","Local", "NY", "New York", "2008-01-10", 3, 0, 2, 2, 0, "Black or African American", "Non-Hispanic", 3, "Anti-Indian", 3, "Residence", "Racial/Ethnic Bias", "Individual", 0, 0
+"2008","State", "IL", "Illinois", "2008-02-01", 2, 0, 1, 1, 0, "White", "Non-Hispanic", 2, "Hate Crime Against Disability", 2, "Park", "Bias Motivated by Disability", "Individual", 0, 0
+"2008","Federal", "FL", "Florida", "2008-04-20", 0, 0, 2, 2, 0, "Hispanic or Latino", "Non-Hispanic", 0, "Anti-Arab", 0, "Street", "Racial/Ethnic Bias", "Individual", 1, 0
+"2009","Local", "CA", "California", "2009-01-01", 1, 0, 1, 1, 0, "Asian", "Non-Hispanic", 1, "Anti-Jewish", 1, "Residence", "Racial/Ethnic Bias", "Individual", 0, 0
+"2009","State", "TX", "Texas", "2009-02-25", 2, 0, 1, 1, 0, "White", "Non-Hispanic", 2, "Hate Crime Against Sexual Orientation", 2, "City", "Bias Motivated by Sexual Orientation", "Individual", 1, 0
+"2009","Federal", "NY", "New York", "2009-05-10", 0, 0, 1, 1, 0, "Black or African American", "Non-Hispanic", 0, "Anti-LGBT", 0, "Street", "Racial/Ethnic Bias", "Individual", 1, 0
+"2010","Local", "FL", "Florida", "2010-01-15", 3, 0, 2, 2, 0, "Hispanic or Latino", "Non-Hispanic", 3, "Anti-Indian", 3, "Residence", "Racial/Ethnic Bias", "Individual", 0, 0
+"2010","State", "IL", "Illinois", "2010-02-01", 2, 0, 1, 1, 0, "White", "Non-Hispanic", 2, "Hate Crime Against Disability", 2, "Park", "Bias Motivated by Disability", "Individual", 0, 0
+"2010","Federal", "CA", "California", "2010-04-20", 0, 0, 2, 2, 0, "Asian", "Non-Hispanic", 0, "Anti-Arab", 0, "Street", "Racial/Ethnic Bias", "Individual", 1, 0
+"2011","Local", "NY", "New York", "2011-01-10", 1, 0, 1, 1, 0, "Black or African American", "Non-Hispanic", 1, "Anti-Jewish", 1, "Residence", "Racial/Ethnic Bias", "Individual", 0, 0
+"2011","State", "TX", "Texas", "2011-02-20", 2, 0, 1, 1, 0, "White", "Non-Hispanic", 2, "Hate Crime Against Sexual Orientation", 2, "City", "Bias Motivated by Sexual Orientation", "Individual", 1, 0
+"2011","Federal", "FL", "Florida", "2011-05-01", 0, 0, 1, 1, 0, "Hispanic or Latino", "Non-Hispanic", 0, "Anti-LGBT", 0, "Street", "Racial/Ethnic Bias", "Individual", 1, 0
+"2012","Local", "CA", "California", "2012-01-01", 3, 0, 2, 2, 0, "Asian", "Non-Hispanic", 3, "Anti-Indian", 3, "Residence", "Racial/Ethnic Bias", "Individual", 0, 0
+"2012","State", "IL", "Illinois", "2012-02-10", 2, 0, 1, 1, 0, "White", "Non-Hispanic", 2, "Hate Crime Against Disability", 2, "Park", "Bias Motivated by Disability", "Individual", 0, 0
+"2012","Federal", "NY", "New York", "2012-04-15", 0, 0, 2, 2, 0, "Black or African American", "Non-Hispanic", 0, "Anti-Arab", 0, "Street", "Racial/Ethnic Bias", "Individual", 1, 0
+"2013","Local", "FL", "Florida", "2013-01-25", 1, 0, 1, 1, 0, "Hispanic or Latino", "Non-Hispanic", 1, "Anti-Jewish", 1, "Residence", "Racial/Ethnic Bias", "Individual", 0, 0
+"2013","State", "TX", "Texas", "2013-02-20", 2, 0, 1, 1, 0, "White", "Non-Hispanic", 2, "Hate Crime Against Sexual Orientation", 2, "City", "Bias Motivated by Sexual Orientation", "Individual", 1, 0
+"2013","Federal", "CA", "California", "2013-05-01", 0, 0, 1, 1, 0, "Asian", "Non-Hispanic", 0, "Anti-LGBT", 0, "Street", "Racial/Ethnic Bias", "Individual", 1, 0
+"2014","Local", "NY", "New York", "2014-01-10", 3, 0, 2, 2, 0, "Black or African American", "Non-Hispanic", 3, "Anti-Indian", 3, "Residence", "Racial/Ethnic Bias", "Individual", 0, 0

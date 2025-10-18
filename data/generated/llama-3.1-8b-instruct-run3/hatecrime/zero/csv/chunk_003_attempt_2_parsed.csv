@@ -1,0 +1,25 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,Federal Bureau of Investigation,NY,New York,1991-03-04,1,0,2,1,1,White,Hispanic,2,Anti-Religious,2,"Brooklyn, NY","Anti-White, Anti-Hispanic",Adult,Yes,Yes
+1992,State Police,CA,California,1992-02-27,0,1,1,1,0,Asian,Non-Hispanic,1,Anti-Religious,1,"Los Angeles, CA",Anti-Asian,Juvenile,No,No
+1993,Federal Bureau of Investigation,FL,Florida,1993-08-25,2,0,3,2,1,Black,Non-Hispanic,3,Anti-Racial Group,3,"Miami, FL",Anti-Black,Adult,Yes,Yes
+1994,Local Police Department,TX,Texas,1994-11-02,1,0,1,1,0,Native American,Non-Hispanic,1,Anti-Individual,1,"Dallas, TX",Anti-Native American,Adult,No,No
+1995,Federal Bureau of Investigation,IL,Illinois,1995-05-15,0,1,2,1,1,White,Hispanic,2,Anti-Religious,2,"Chicago, IL","Anti-White, Anti-Hispanic",Juvenile,Yes,Yes
+1996,State Police,GA,Georgia,1996-04-03,2,0,2,2,0,Black,Non-Hispanic,2,Anti-Racial Group,2,"Atlanta, GA",Anti-Black,Adult,Yes,No
+1997,Local Police Department,OH,Ohio,1997-09-12,1,0,1,1,0,White,Non-Hispanic,1,Anti-Individual,1,"Columbus, OH",Anti-White,Adult,No,No
+1998,Federal Bureau of Investigation,NJ,New Jersey,1998-01-20,0,1,2,1,1,Asian,Non-Hispanic,2,Anti-Religious,2,"Newark, NJ",Anti-Asian,Juvenile,Yes,Yes
+1999,State Police,AZ,Arizona,1999-07-10,2,0,3,2,1,Hispanic,Non-Hispanic,3,Anti-Racial Group,3,"Phoenix, AZ",Anti-Hispanic,Adult,Yes,Yes
+2000,Local Police Department,IN,Indiana,2000-03-21,1,0,1,1,0,White,Non-Hispanic,1,Anti-Individual,1,"Indianapolis, IN",Anti-White,Adult,No,No
+2001,Federal Bureau of Investigation,NC,North Carolina,2001-11-15,0,1,2,1,1,Black,Non-Hispanic,2,Anti-Religious,2,"Charlotte, NC",Anti-Black,Juvenile,Yes,Yes
+2002,State Police,CO,Colorado,2002-02-17,2,0,2,2,0,White,Non-Hispanic,2,Anti-Racial Group,2,"Denver, CO",Anti-White,Adult,Yes,No
+2003,Local Police Department,MI,Michigan,2003-06-30,1,0,1,1,0,White,Non-Hispanic,1,Anti-Individual,1,"Detroit, MI",Anti-White,Adult,No,No
+2004,Federal Bureau of Investigation,SC,South Carolina,2004-01-12,0,1,2,1,1,Black,Non-Hispanic,2,Anti-Religious,2,"Columbia, SC",Anti-Black,Juvenile,Yes,Yes
+2005,State Police,VT,Vermont,2005-09-23,2,0,2,2,0,White,Non-Hispanic,2,Anti-Racial Group,2,"Montpelier, VT",Anti-White,Adult,Yes,No
+2006,Local Police Department,KY,Kentucky,2006-04-20,1,0,1,1,0,White,Non-Hispanic,1,Anti-Individual,1,"Frankfort, KY",Anti-White,Adult,No,No
+2007,Federal Bureau of Investigation,LA,Louisiana,2007-12-05,0,1,2,1,1,Black,Non-Hispanic,2,Anti-Religious,2,"New Orleans, LA",Anti-Black,Juvenile,Yes,Yes
+2008,State Police,IA,Iowa,2008-03-06,2,0,2,2,0,White,Non-Hispanic,2,Anti-Racial Group,2,"Des Moines, IA",Anti-White,Adult,Yes,No
+2009,Local Police Department,MN,Minnesota,2009-08-27,1,0,1,1,0,Native American,Non-Hispanic,1,Anti-Individual,1,"St. Paul, MN",Anti-Native American,Adult,No,No
+2010,Federal Bureau of Investigation,WA,Washington,2010-05-22,0,1,2,1,1,Asian,Non-Hispanic,2,Anti-Religious,2,"Seattle, WA",Anti-Asian,Juvenile,Yes,Yes
+2011,State Police,AR,Arkansas,2011-02-10,2,0,2,2,0,Black,Non-Hispanic,2,Anti-Racial Group,2,"Little Rock, AR",Anti-Black,Adult,Yes,No
+2012,Local Police Department,WV,West Virginia,2012-11-04,1,0,1,1,0,White,Non-Hispanic,1,Anti-Individual,1,"Charleston, WV",Anti-White,Adult,No,No
+2013,Federal Bureau of Investigation,NM,New Mexico,2013-09-16,0,1,2,1,1,Hispanic,Non-Hispanic,2,Anti-Religious,2,"Albuquerque, NM",Anti-Hispanic,Juvenile,Yes,Yes
+2014,State Police,RI,Rhode Island,2014-01-02,2,0,2,2,0,White,Non-Hispanic,2,Anti-Racial Group,2,"Providence, RI",Anti-White,Adult,Yes,No

@@ -1,0 +1,60 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,Federal,CA,California,1991-03-15,1,0,2,1,1,White,Hispanic,1,Assault,1.0,Residence,Anti-Jewish,Adult,S,N
+1992,County,FL,Florida,1992-07-22,0,1,1,0,1,Black,Non-Hispanic,1,Burglary,1.0,Hospital,Anti-Asian,Minority,N,N
+1993,State,MN,Minnesota,1993-11-08,2,0,3,2,1,Hispanic,Hispanic,2,Aggravated Assault,2.0,Police Station,Anti-Gay/Lesbian,Adult,N,S
+1994,Tribal,OR,Oregon,1994-02-14,0,0,0,0,0,Unknown,Not Specified,0,Fraud,0.0,Military Base,Anti-Black or African American,Unspecified,N,N
+1995,City,GA,Georgia,1995-09-30,1,0,1,1,0,White,Non-Hispanic,1,Arson,1.0,Shopping Mall,Anti-Arab,Adult,S,N
+1996,Regional,PA,Pennsylvania,1996-04-17,0,1,2,0,2,Black,Non-Hispanic,1,Robbery,1.0,Restaurant,Anti-Hispanic,Minority,N,S
+1997,Federal,IL,Illinois,1997-12-05,3,0,4,3,1,Hispanic,Hispanic,3,Vandalism,3.0,Office Building,Anti-White,Adult,S,N
+1998,County,VA,Virginia,1998-06-28,1,1,2,1,1,White,Non-Hispanic,2,Intimidation,2.0,Church,Anti-Jewish,Both,N,S
+1999,Bureau,CO,Colorado,1999-01-19,0,0,1,0,1,Black,Non-Hispanic,0,Theft,0.0,Library,Anti-Gay/Lesbian,Unspecified,N,N
+2000,City,WI,Wisconsin,2000-10-11,2,0,2,2,0,Asian,Asian,2,Assault,2.0,University,Anti-Black or African American,Adult,S,N
+2001,State,TX,Texas,2001-08-23,0,1,1,0,1,Hispanic,Hispanic,1,Arson,1.0,Highway,Anti-Hispanic,Minority,N,N
+2002,Regional,NY,New York,2002-05-06,1,0,3,2,1,White,Non-Hispanic,1,Fraud,1.0,Hotel,Anti-Gay/Lesbian,Adult,N,S
+2003,Tribal,MI,Michigan,2003-11-29,0,0,0,0,0,Unknown,Not Specified,0,Assault,0.0,Community Center,Anti-Jewish,Unspecified,N,N
+2004,City,OH,Ohio,2004-03-12,2,0,3,2,1,Black,Non-Hispanic,2,Aggravated Assault,2.0,Residence,Anti-White,Adult,S,N
+2005,County,NC,North Carolina,2005-07-18,0,1,2,0,2,Hispanic,Hispanic,1,Burglary,1.0,Hospital,Anti-Asian,Minority,N,S
+2006,Federal,WV,West Virginia,2006-09-04,1,0,1,1,0,White,Non-Hispanic,1,Robbery,1.0,Police Station,Anti-Gay/Lesbian,Adult,N,N
+2007,State,MD,Maryland,2007-12-20,0,0,0,0,0,Unknown,Not Specified,0,Theft,0.0,Grocery Store,Anti-Black or African American,Unspecified,N,N
+2008,Regional,NJ,New Jersey,2008-02-08,1,1,2,1,1,Hispanic,Hispanic,2,Intimidation,2.0,School/College,Anti-Hispanic,Both,N,S
+2009,Bureau,MA,Massachusetts,2009-04-15,3,0,4,3,1,White,Non-Hispanic,3,Vandalism,3.0,Restaurant,Anti-Jewish,Adult,S,N
+2010,City,TN,Tennessee,2010-10-31,0,1,1,0,1,Black,Non-Hispanic,1,Fraud,1.0,Office Building,Anti-Gay/Lesbian,Minority,N,N
+2011,County,AL,Alabama,2011-01-22,2,0,2,2,0,Hispanic,Hispanic,2,Assault,2.0,Church,Anti-White,Adult,S,N
+2012,State,LA,Louisiana,2012-06-14,1,0,3,2,1,White,Non-Hispanic,1,Arson,1.0,Shopping Mall,Anti-Asian,Adult,N,S
+2013,Regional,SC,South Carolina,2013-08-09,0,1,2,0,2,Black,Non-Hispanic,1,Burglary,1.0,University,Anti-Hispanic,Minority,N,S
+2014,Federal,KY,Kentucky,2014-03-27,1,0,1,1,0,Asian,Asian,1,Aggravated Assault,1.0,Residence,Anti-Jewish,Adult,N,N
+2010,City,RI,Rhode Island,2010-11-17,0,0,0,0,0,Unknown,Not Specified,0,Theft,0.0,Hotel,Anti-Gay/Lesbian,Unspecified,N,N
+2009,County,VT,Vermont,2009-05-02,2,0,2,2,0,White,Non-Hispanic,2,Robbery,2.0,Grocery Store,Anti-Black or African American,Adult,S,N
+2008,State,ID,Idaho,2008-09-10,1,0,1,1,0,Hispanic,Hispanic,1,Intimidation,1.0,Library,Anti-Hispanic,Adult,N,N
+2007,Regional,AZ,Arizona,2007-07-19,0,1,2,0,2,Black,Non-Hispanic,1,Vandalism,1.0,Highway,Anti-White,Minority,N,S
+2006,Bureau,WA,Washington,2006-12-04,0,0,0,0,0,Unknown,Not Specified,0,Assault,0.0,Community Center,Anti-Gay/Lesbian,Unspecified,N,N
+2005,City,ME,Maine,2005-04-22,1,0,1,1,0,White,Non-Hispanic,1,Fraud,1.0,Police Station,Anti-Jewish,Adult,N,N
+2004,County,NE,Nebraska,2004-10-05,0,0,0,0,0,Unknown,Not Specified,0,Theft,0.0,School/College,Anti-Asian,Unspecified,N,N
+2003,State,MN,Minnesota,2003-02-18,3,1,4,3,1,Black,Non-Hispanic,4,Aggravated Assault,4.0,Restaurant,Anti-Hispanic,Both,N,S
+2002,Regional,MO,Missouri,2002-08-14,0,0,0,0,0,Unknown,Not Specified,0,Arson,0.0,Office Building,Anti-Jewish,Unspecified,N,N
+2001,Bureau,NH,New Hampshire,2001-06-29,1,0,2,1,1,White,Non-Hispanic,1,Intimidation,1.0,Hospital,Anti-Gay/Lesbian,Adult,N,S
+1999,City,WY,Wyoming,1999-01-13,0,1,1,0,1,Hispanic,Hispanic,1,Burglary,1.0,Church,Anti-White,Minority,N,N
+1998,County,GA,Georgia,1998-07-21,2,0,2,2,0,White,Non-Hispanic,2,Robbery,2.0,Shopping Mall,Anti-Asian,Adult,S,N
+1997,State,CT,Connecticut,1997-10-30,0,0,0,0,0,Unknown,Not Specified,0,Fraud,0.0,Hotel,Anti-Hispanic,Unspecified,N,N
+1996,Regional,IN,Indiana,1996-05-16,1,0,3,2,1,Black,Non-Hispanic,1,Assault,1.0,Residence,Anti-Jewish,Adult,N,S
+1995,Bureau,KS,Kansas,1995-12-03,2,1,2,2,0,White,Non-Hispanic,3,Vandalism,3.0,University,Anti-Gay/Lesbian,Both,S,N
+1994,City,OK,Oklahoma,1994-03-19,3,0,2,2,0,Hispanic,Hispanic,3,Theft,3.0,Community Center,Anti-White,Adult,S,N
+1993,County,NC,North Carolina,1993-09-11,0,0,0,0,0,Unknown,Not Specified,0,Assault,0.0,Office Building,Anti-Asian,Unspecified,N,N
+1992,State,FL,Florida,1992-11-07,1,0,1,1,0,White,Non-Hispanic,1,Arson,1.0,Church,Anti-Hispanic,Adult,N,N
+1991,Regional,MI,Michigan,1991-04-25,0,1,2,0,2,Black,Non-Hispanic,1,Robbery,1.0,Restaurant,Anti-Jewish,Minority,N,S
+1999,City,TX,Texas,1999-08-13,2,0,3,2,1,Hispanic,Hispanic,2,Intimidation,2.0,Hospital,Anti-Gay/Lesbian,Adult,N,S
+2000,County,OH,Ohio,2000-01-29,0,0,0,0,0,Unknown,Not Specified,0,Fraud,0.0,School/College,Anti-Asian,Unspecified,N,N
+2001,State,OR,Oregon,2001-06-15,1,1,2,1,1,White,Non-Hispanic,2,Aggravated Assault,2.0,Hotel,Anti-Jewish,Both,N,S
+2002,Regional,GA,Georgia,2002-12-04,0,0,0,0,0,Unknown,Not Specified,0,Theft,0.0,Police Station,Anti-Gay/Lesbian,Unspecified,N,N
+2003,Bureau,VA,Virginia,2003-03-22,2,0,4,3,1,Black,Non-Hispanic,2,Burglary,2.0,Residence,Anti-White,Adult,S,N
+2004,City,UT,Utah,2004-09-17,0,1,1,0,1,Hispanic,Hispanic,1,Arson,1.0,Church,Anti-Hispanic,Minority,N,N
+2005,County,FL,Florida,2005-05-09,1,0,2,1,1,White,Non-Hispanic,1,Aggravated Assault,1.0,University,Anti-Asian,Adult,N,S
+2006,State,NY,New York,2006-11-30,0,0,0,0,0,Unknown,Not Specified,0,Vandalism,0.0,Restaurant,Anti-Hispanic,Unspecified,N,N
+2007,Regional,IL,Illinois,2007-02-18,3,0,3,3,0,White,Non-Hispanic,3,Fraud,3.0,School/College,Anti-Jewish,Adult,S,N
+2008,Bureau,CA,California,2008-07-23,0,0,0,0,0,Unknown,Not Specified,0,Theft,0.0,Shopping Mall,Anti-Gay/Lesbian,Unspecified,N,N
+2009,City,SC,South Carolina,2009-10-10,1,1,2,1,1,Black,Non-Hispanic,2,Burglary,2.0,Hotel,Anti-White,Both,N,S
+2010,County,NJ,New Jersey,2010-01-05,2,0,2,2,0,White,Non-Hispanic,2,Robbery,2.0,Residence,Anti-Asian,Adult,S,N
+2011,State,PA,Pennsylvania,2011-04-14,0,1,1,0,1,Hispanic,Hispanic,1,Intimidation,1.0,Church,Anti-Hispanic,Minority,N,N
+2012,Regional,NC,North Carolina,2012-08-26,1,0,3,2,1,White,Non-Hispanic,1,Aggravated Assault,1.0,University,Anti-Jewish,Adult,N,S
+2013,Bureau,AL,Alabama,2013-12-01,0,0,0,0,0,Unknown,Not Specified,0,Fraud,0.0,Office Building,Anti-Gay/Lesbian,Unspecified,N,N
+2014,City,WI,Wisconsin,2014-03-18,3,1,4,3,1,Black,Non-Hispanic,4,Vandalism,4.0,Hospital,Anti-White,Both,N,S

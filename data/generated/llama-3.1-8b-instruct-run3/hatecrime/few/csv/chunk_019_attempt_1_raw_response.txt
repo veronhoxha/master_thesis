@@ -1,0 +1,45 @@
+2004,State,OH,Ohio,2004-03-20,0.0,0.0,0,0.0,0.0,Unknown,Not Specified,0,Intimidation,0.0,Residence/Apartment,Anti-Other Minority,Other,S,S
+2009,City,MI,Michigan,2009-02-14,1.0,0.0,1,1.0,0.0,Black or African American,Hispanic or Latino,1,Simple Assault,1.0,Warehouse/Airport,Anti-Gay (Female),Individual,S,S
+2000,City,FL,Florida,2000-11-09,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Other,Unknown,Unknown,Location,S,S
+1993,City,PA,Pennsylvania,1993-09-17,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Store/Mall,Unknown,Unknown,Individual,S,S
+2008,City,ID,Idaho,2008-01-18,0.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Simple Assault,1.0,Residence/Apartment,Anti-Other Minority,Group,S,S
+1996,City,GA,Georgia,1996-10-23,0.0,0.0,0,0.0,0.0,Black or African American,Not Hispanic or Latino,0,Intimidation,0.0,Other,Anti-Gay (Female),Unknown,Unknown,S,S
+2011,State,VT,Vermont,2011-08-21,0.0,0.0,0,0.0,0.0,Unknown,Not Specified,0,Intimidation,0.0,Other,Anti-Gay (Female),Unknown,Unknown,S,S
+2002,City,NY,New York,2002-05-07,0.0,0.0,2,2.0,0.0,Black or African American,Hispanic or Latino,1,Simple Assault,2.0,Street/Highway,Unknown,Unknown,Group,S,S
+2003,State,WI,Wisconsin,2003-03-25,0.0,0.0,0,0.0,0.0,Unknown,Not Specified,0,Destruction/Damage/Vandalism of Property,0.0,Residence/Apartment,Unknown,Unknown,Location,S,S
+2006,City,NC,North Carolina,2006-09-15,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Store/Mall,Anti-Gay (Male),Individual,S,S
+1992,City,IL,Illinois,1992-02-11,0.0,0.0,0,0.0,0.0,Unknown,Not Specified,0,Intimidation,0.0,Other,Anti-Gay (Male),Unknown,Unknown,S,S
+2013,City,DE,Delaware,2013-02-09,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Gay (Female),Individual,S,S
+1995,City,ME,Maine,1995-06-17,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Warehouse/Airport,Unknown,Unknown,Location,S,S
+2001,State,MT,Montana,2001-06-08,0.0,0.0,0,0.0,0.0,Unknown,Not Specified,0,Intimidation,0.0,Other,Anti-Gay (Female),Unknown,Unknown,S,S
+2007,City,CT,Connecticut,2007-04-11,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Store/Mall,Unknown,Unknown,Individual,S,S
+1994,City,HI,Hawaii,1994-09-02,0.0,0.0,0,0.0,0.0,Unknown,Not Specified,0,Destruction/Damage/Vandalism of Property,0.0,Other,Unknown,Unknown,Location,S,S
+2005,State,ND,North Dakota,2005-07-27,0.0,0.0,0,0.0,0.0,Unknown,Not Specified,0,Intimidation,0.0,Other,Anti-Gay (Female),Unknown,Unknown,S,S
+1999,City,SC,South Carolina,1999-08-06,0.0,0.0,0,0.0,0.0,Black or African American,Not Hispanic or Latino,0,Intimidation,0.0,Other,Unknown,Unknown,Unknown,S,S
+2009,City,MA,Massachusetts,2009-06-19,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Gay (Female),Individual,S,S
+2004,City,AL,Alabama,2004-10-15,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Highway,Anti-Gay (Female),Individual,S,S
+2012,State,WY,Wyoming,2012-03-09,0.0,0.0,0,0.0,0.0,Unknown,Not Specified,0,Intimidation,0.0,Other,Anti-Gay (Male),Unknown,Unknown,S,S
+1997,City,CO,Colorado,1997-08-23,0.0,0.0,0,0.0,0.0,Unknown,Not Specified,0,Destruction/Damage/Vandalism of Property,0.0,Warehouse/Airport,Unknown,Unknown,Location,S,S
+2000,City,IN,Indiana,2000-06-22,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Store/Mall,Anti-Gay (Male),Individual,S,S
+1998,City,OH,Ohio,1998-09-28,0.0,0.0,0,0.0,0.0,Unknown,Not Specified,0,Intimidation,0.0,Other,Anti-Gay (Female),Unknown,Unknown,S,S
+2005,City,IA,Iowa,2005-04-21,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Unknown,Unknown,Individual,S,S
+1993,City,NC,North Carolina,1993-03-18,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Highway,Unknown,Unknown,Individual,S,S
+2006,State,NE,Nebraska,2006-07-29,0.0,0.0,0,0.0,0.0,Unknown,Not Specified,0,Intimidation,0.0,Other,Unknown,Unknown,Unknown,S,S
+2008,City,GA,Georgia,2008-12-16,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Store/Mall,Anti-Gay (Female),Individual,S,S
+2014,City,RI,Rhode Island,2014-01-17,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Gay (Male),Individual,S,S
+1996,City,LA,Louisiana,1996-11-19,0.0,0.0,0,0.0,0.0,Unknown,Not Specified,0,Destruction/Damage/Vandalism of Property,0.0,Other,Unknown,Unknown,Location,S,S
+2002,City,KS,Kansas,2002-11-08,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Unknown,Unknown,Individual,S,S
+1995,City,TX,Texas,1995-09-05,1.0,0.0,0,0.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Highway,Unknown,Unknown,Individual,S,S
+2007,City,VT,Vermont,2007-03-28,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Store/Mall,Anti-Gay (Female),Individual,S,S
+2003,State,ME,Maine,2003-10-25,0.0,0.0,0,0.0,0.0,Unknown,Not Specified,0,Intimidation,0.0,Other,Anti-Gay (Female),Unknown,Unknown,S,S
+1992,City,WI,Wisconsin,1992-09-04,0.0,0.0,0,0.0,0.0,Unknown,Not Specified,0,Destruction/Damage/Vandalism of Property,0.0,Warehouse/Airport,Unknown,Unknown,Location,S,S
+2004,City,KS,Kansas,2004-02-24,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Unknown,Unknown,Individual,S,S
+1998,City,IN,Indiana,1998-03-22,1.0,0.0,0,0.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Other,Unknown,Unknown,Individual,S,S
+2009,City,DE,Delaware,2009-05-16,0.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Simple Assault,1.0,Residence/Apartment,Anti-Gay (Female),Group,S,S
+2005,City,MO,Missouri,2005-09-01,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Store/Mall,Anti-Gay (Female),Individual,S,S
+1994,City,OR,Oregon,1994-04-25,0.0,0.0,0,0.0,0.0,Unknown,Not Specified,0,Destruction/Damage/Vandalism of Property,0.0,Warehouse/Airport,Unknown,Unknown,Location,S,S
+2010,City,MI,Michigan,2010-06-21,0.0,0.0,0,0.0,0.0,Unknown,Not Specified,0,Intimidation,0.0,Other,Unknown,Unknown,Unknown,S,S
+2003,State,GA,Georgia,2003-07-10,0.0,0.0,0,0.0,0.0,Unknown,Not Specified,0,Intimidation,0.0,Other,Unknown,Unknown,Unknown,S,S
+1999,City,NY,NY,New York,1999-11-14,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Store/Mall,Unknown,Unknown,Individual,S,S
+2007,State,AR,Arkansas,2007-02-06,0.0,0.0,0,0.0,0.0,Unknown,Not Specified,0,Intimidation,0.0,Other,Anti-Gay (Female),Unknown,Unknown,S,S
+2008,City,IL,Illinois,2008-01-14,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Highway,Anti-Gay (Female),Individual,S,S

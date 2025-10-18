@@ -1,0 +1,55 @@
+"2007,Other,FL,Florida,2007-08-16,1.0,0.0,2,1.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Larceny-Theft,1.0,Residence,Anti-White or Caucasian,Individual,Y,Y
+2003,City,GA,Georgia,2003-11-23,,,1.0,,,Unknown,Not Specified,2,Simple Assault,1.0,Park/Recreation Area,Anti-Jewish,Individual,N,Y
+2013,Suburban,IL,Illinois,2013-09-29,0.0,0.0,1,0.0,1.0,Unknown,Not Hispanic or Latino,1,Vandalism,1.0,Residence,Anti-Homosexual,Individual,S,Y
+2005,Other,NC,North Carolina,2005-02-22,0.0,0.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Robbery,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Female),Individual,Y,Y
+2009,Suburban,CO,Colorado,2009-06-03,1.0,1.0,1,1.0,0.0,White,Not Hispanic or Latino,2,Simple Assault,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Group,S,N
+2009,City,MA,Massachusetts,2009-01-04,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Murder,1.0,Residence,Anti-Homosexual,Individual,S,Y
+2003,Suburban,OH,Ohio,2003-07-11,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Aggravated Assault,1.0,Park/Recreation Area,Anti-White or Caucasian,Individual,N,Y
+2000,City,MI,Michigan,2000-10-15,0.0,0.0,1,0.0,1.0,Unknown,Not Hispanic or Latino,1,Vandalism,1.0,Residence,Anti-Asian,Individual,S,N
+2011,Other,IN,Indiana,2011-12-26,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Residence,Anti-Black or African American,Individual,Y,Y
+2004,Suburban,WA,Washington,2004-09-13,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Robbery,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-White or Caucasian,Individual,S,Y
+2012,Suburban,NJ,New Jersey,2012-04-13,0.0,0.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Larceny-Theft,1.0,Residence,Anti-Jewish,Individual,Y,Y
+2004,City,MO,Missouri,2004-09-02,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Simple Assault,1.0,Park/Recreation Area,Anti-Asian,Individual,Y,Y
+2002,Other,NY,New York,2002-03-24,1.0,0.0,1,1.0,0.0,Unknown,Not Hispanic or Latino,1,Vandalism,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Homosexual,Individual,N,Y
+2009,Suburban,GA,Georgia,2009-06-25,1.0,0.0,2,1.0,1.0,White,Not Hispanic or Latino,2,Simple Assault,2.0,Park/Recreation Area,Anti-Black or African American,Group,Y,Y
+2002,City,CA,California,2002-08-21,0.0,0.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Larceny-Theft,1.0,Residence,Anti-Hispanic or Latino,Individual,N,Y
+2005,Suburban,TX,Texas,2005-11-29,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,1,Robbery,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Individual,Y,Y
+2000,Other,MT,Montana,2000-04-17,0.0,0.0,1,0.0,1.0,Unknown,Not Hispanic or Latino,1,Vandalism,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Homosexual,Individual,Y,Y
+2002,Suburban,IL,Illinois,2002-05-09,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Robbery,1.0,Residence,Anti-Jewish,Individual,Y,Y
+2000,City,OR,Oregon,2000-05-05,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Vandalism,1.0,Residence,Anti-Black or African American,Individual,S,N
+2008,Other,AK,Alaska,2008-06-09,0.0,0.0,1,0.0,1.0,Unknown,Not Hispanic or Latino,1,Larceny-Theft,1.0,Residence,Anti-Homosexual,Individual,N,Y
+2010,Suburban,VT,Vermont,2010-03-15,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Individual,Y,Y
+2006,City,FL,Florida,2006-07-18,0.0,0.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Larceny-Theft,1.0,Residence,Anti-White or Caucasian,Individual,Y,Y
+2014,Other,DE,Delaware,2014-02-18,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Simple Assault,1.0,Park/Recreation Area,Anti-Gay (Female),Individual,Y,Y
+2009,Suburban,NC,North Carolina,2009-10-26,1.0,0.0,2,1.0,1.0,Black or African American,Not Hispanic or Latino,2,Aggravated Assault,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Group,S,Y
+2005,Suburban,MD,Maryland,2005-09-07,0.0,0.0,2,0.0,2.0,Unknown,Not Specified,2,Vandalism,2.0,Park/Recreation Area,Anti-White or Caucasian,Group,Y,Y
+2006,Other,WI,Wisconsin,2006-09-10,1.0,0.0,1,1.0,0.0,Unknown,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Individual,S,Y
+2009,City,SC,South Carolina,2009-02-19,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Larceny-Theft,1.0,Residence,Anti-Gay (Male),Individual,Y,Y
+2002,Other,HI,Hawaii,2002-02-11,0.0,0.0,1,0.0,1.0,Unknown,Not Hispanic or Latino,1,Vandalism,1.0,Residence,Anti-Homosexual,Individual,Y,Y
+2011,Suburban,NE,Nebraska,2011-08-04,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,1,Larceny-Theft,1.0,Residence,Anti-Asian,Individual,N,Y
+2007,Other,NM,New Mexico,2007-03-16,0.0,0.0,1,0.0,1.0,Unknown,Not Hispanic or Latino,1,Robbery,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,Y,Y
+2009,City,MN,Minnesota,2009-06-07,0.0,0.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Murder,1.0,Park/Recreation Area,Anti-Black or African American,Individual,S,Y
+2003,Suburban,CT,Connecticut,2003-04-06,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,1,Larceny-Theft,1.0,Residence,Anti-Asian,Individual,S,Y
+2006,City,AR,Arkansas,2006-11-04,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Vandalism,1.0,Residence,Anti-Homosexual,Individual,Y,Y
+2008,City,ND,North Dakota,2008-06-15,1.0,0.0,1,1.0,0.0,Unknown,Not Hispanic or Latino,1,Robbery,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-White or Caucasian,Individual,Y,Y
+2002,Other,VT,Vermont,2002-05-23,0.0,0.0,1,0.0,1.0,Unknown,Not Hispanic or Latino,1,Aggravated Assault,1.0,Residence,Anti-Gay (Male),Individual,S,Y
+2006,Other,ME,Maine,2006-04-22,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Vandalism,1.0,Residence,Anti-Hispanic or Latino,Individual,S,Y
+2001,City,IN,Indiana,2001-02-08,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Larceny-Theft,1.0,Residence,Anti-White or Caucasian,Individual,Y,Y
+2008,Other,PA,Pennsylvania,2008-11-09,0.0,0.0,1,0.0,1.0,Unknown,Not Hispanic or Latino,1,Murder,1.0,Residence,Anti-Jewish,Individual,Y,Y
+2003,Suburban,OK,Oklaoma,2003-06-01,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Residence,Anti-Homosexual,Individual,Y,N
+2005,Suburban,CO,Colorado,2005-02-24,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Robbery,1.0,Residence,Anti-Asian,Individual,Y,Y
+2000,Other,RI,Rhode Island,2000-09-06,0.0,0.0,1,0.0,1.0,Unknown,Not Hispanic or Latino,1,Larceny-Theft,1.0,Residence,Anti-Gay (Female),Individual,Y,Y
+2003,City,HI,Hawaii,2003-09-13,0.0,0.0,1,0.0,1.0,Unknown,Not Hispanic or Latino,1,Vandalism,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,Y,Y
+2002,Suburban,WI,Wisconsin,2002-04-04,0.0,0.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Aggravated Assault,1.0,Residence,Anti-Black or African American,Individual,Y,Y
+2006,City,MS,Mississippi,2006-02-05,0.0,0.0,1,0.0,1.0,Unknown,Not Hispanic or Latino,1,Larceny-Theft,1.0,Residence,Anti-Hispanic or Latino,Individual,Y,Y
+2005,Other,MT,Montana,2005-05-25,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Vandalism,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Individual,N,Y
+2013,City,CA,California,2013-02-25,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Murder,1.0,Residence,Anti-Jewish,Individual,Y,Y
+2003,City,NY,New York,2003-12-22,0.0,0.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Robbery,1.0,Residence,Anti-Gay (Male),Individual,Y,Y
+2002,Suburban,UT,Utah,2002-05-03,1.0,0.0,1,1.0,0.0,Unknown,Not Hispanic or Latino,1,Simple Assault,1.0,Residence,Anti-Hispanic or Latino,Individual,Y,Y
+2003,Suburban,ND,North Dakota,2003-05-10,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,1,Larceny-Theft,1.0,Park/Recreation Area,Anti-Asian,Individual,Y,Y
+2008,Suburban,KS,Kansas,2008-09-27,1.0,0.0,1,1.0,0.0,Unknown,Not Hispanic or Latino,1,Aggravated Assault,1.0,Residence,Anti-White or Caucasian,Individual,Y,Y
+2010,City,GA,Georgia,2010-05-01,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Murder,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Individual,Y,Y
+2014,City,TX,Texas,2014-08-02,0.0,0.0,1,0.0,1.0,Unknown,Not Hispanic or Latino,1,Simple Assault,1.0,Residence,Anti-Asian,Individual,N,Y
+2006,Suburban,AL,Alabama,2006-04-08,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Vandalism,1.0,Residence,Anti-Gay (Male),Individual,Y,Y
+2006,Suburban,LA,Louisiana,2006-07-10,0.0,0.0,1,0.0,1.0,Unknown,Not Hispanic or Latino,1,Larceny-Theft,1.0,Residence,Anti-Jewish,Individual,Y,Y
+2000,Suburban,IA,Iowa,2000-08-28,1.0,0.0,2,1.0,1.0,Unknown,Not Hispanic or Latino,2,Murder,2.0,Residence,Anti-Hispanic or Latino,Group,N,N"

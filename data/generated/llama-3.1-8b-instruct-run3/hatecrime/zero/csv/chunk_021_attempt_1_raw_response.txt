@@ -1,0 +1,35 @@
+"data_year","agency_type_name","state_abbr","state_name","incident_date","adult_victim_count","juvenile_victim_count","total_offender_count","adult_offender_count","juvenile_offender_count","offender_race","offender_ethnicity","victim_count","offense_name","total_individual_victims","location_name","bias_desc","victim_types","multiple_offense","multiple_bias"
+"1991","Local",,"Alabama","1991-01-20",2,1,2,1,1,"White","Not Hispanic or Other Ethnicity",3,"Intimidation","3","Residence","Anti-White","Single","Anti-white",0
+"1991","State",,Alaska,"1991-01-22",1,0,1,1,0,"Asian or Pacific Islander","Not Hispanic or Other Ethnicity",1,"Simple Assault","1","Park or Playground","Anti-Asian","Single","Anti-Asian",0
+"1991","Federal",,Arizona,"1991-02-10",0,0,2,1,1,"Hispanic or Latino","Not Hispanic or Other Ethnicity",2,"Vandalism","2","Street","Anti-Hispanic","Single","Anti-Hispanic",0
+"1991","Local",,Arkansas,"1991-02-22",1,0,1,1,0,"White","Not Hispanic or Other Ethnicity",1,"Simple Assault","1","Street","Anti-White","Single","Anti-white",0
+"1991","State",,California,"1991-03-01",2,1,2,2,0,"Black or African American","Not Hispanic or Other Ethnicity",3,"Intimidation","3","Residence","Anti-Black","Single","Anti-black",0
+"1991","Federal",,Colorado,"1991-03-15",0,0,1,1,0,"American Indian or Alaska Native","Not Hispanic or Other Ethnicity",1,"Simple Assault","1","School","Anti-Native American","Single","Anti-native american",0
+"1991","Local",,Connecticut,"1991-03-22",1,0,1,1,0,"White","Not Hispanic or Other Ethnicity",1,"Simple Assault","1","Street","Anti-White","Single","Anti-white",0
+"1991","State",,Delaware,"1991-04-01",0,0,1,1,0,"Asian or Pacific Islander","Not Hispanic or Other Ethnicity",1,"Simple Assault","1","Park or Playground","Anti-Asian","Single","Anti-Asian",0
+"1991","Federal",,Florida,"1991-04-10",1,0,1,1,0,"Hispanic or Latino","Not Hispanic or Other Ethnicity",1,"Simple Assault","1","Residence","Anti-Hispanic","Single","Anti-Hispanic",0
+"1991","Local",,Georgia,"1991-04-20",2,1,2,2,0,"Black or African American","Not Hispanic or Other Ethnicity",3,"Intimidation","3","Residence","Anti-Black","Single","Anti-black",0
+"1991","State",,Hawaii,"1991-05-01",0,0,1,1,0,"White","Not Hispanic or Other Ethnicity",1,"Simple Assault","1","School","Anti-White","Single","Anti-white",0
+"1991","Federal",,Idaho,"1991-05-15",0,0,1,1,0,"Asian or Pacific Islander","Not Hispanic or Other Ethnicity",1,"Simple Assault","1","Street","Anti-Asian","Single","Anti-Asian",0
+"1991","Local",,Illinois,"1991-05-22",1,0,1,1,0,"Hispanic or Latino","Not Hispanic or Other Ethnicity",1,"Simple Assault","1","Residence","Anti-Hispanic","Single","Anti-Hispanic",0
+"1991","State",,Indiana,"1991-06-01",2,1,2,2,0,"Black or African American","Not Hispanic or Other Ethnicity",3,"Intimidation","3","Residence","Anti-Black","Single","Anti-black",0
+"1991","Federal",,Iowa,"1991-06-10",0,0,1,1,0,"American Indian or Alaska Native","Not Hispanic or Other Ethnicity",1,"Simple Assault","1","Park or Playground","Anti-Native American","Single","Anti-native american",0
+"1991","Local",,Kansas,"1991-06-20",1,0,1,1,0,"White","Not Hispanic or Other Ethnicity",1,"Simple Assault","1","Street","Anti-White","Single","Anti-white",0
+"1991","State",,Kentucky,"1991-07-01",0,0,1,1,0,"Asian or Pacific Islander","Not Hispanic or Other Ethnicity",1,"Simple Assault","1","School","Anti-Asian","Single","Anti-Asian",0
+"1991","Federal",,Louisiana,"1991-07-15",1,0,1,1,0,"Hispanic or Latino","Not Hispanic or Other Ethnicity",1,"Simple Assault","1","Residence","Anti-Hispanic","Single","Anti-Hispanic",0
+"1991","Local",,Maine,"1991-07-22",2,1,2,2,0,"Black or African American","Not Hispanic or Other Ethnicity",3,"Intimidation","3","Residence","Anti-Black","Single","Anti-black",0
+"1991","State",,Maryland,"1991-08-01",0,0,1,1,0,"American Indian or Alaska Native","Not Hispanic or Other Ethnicity",1,"Simple Assault","1","Park or Playground","Anti-Native American","Single","Anti-native american",0
+"1991","Federal",,Massachusetts,"1991-08-10",1,0,1,1,0,"Asian or Pacific Islander","Not Hispanic or Other Ethnicity",1,"Simple Assault","1","School","Anti-Asian","Single","Anti-Asian",0
+"1991","Local",,Michigan,"1991-08-20",1,0,1,1,0,"White","Not Hispanic or Other Ethnicity",1,"Simple Assault","1","Street","Anti-White","Single","Anti-white",0
+"1991","State",,Minnesota,"1991-09-01",0,0,1,1,0,"Hispanic or Latino","Not Hispanic or Other Ethnicity",1,"Simple Assault","1","Residence","Anti-Hispanic","Single","Anti-Hispanic",0
+"1991","Federal",,Mississippi,"1991-09-15",2,1,2,2,0,"Black or African American","Not Hispanic or Other Ethnicity",3,"Intimidation","3","Residence","Anti-Black","Single","Anti-black",0
+"1991","Local",,Missouri,"1991-09-22",1,0,1,1,0,"Asian or Pacific Islander","Not Hispanic or Other Ethnicity",1,"Simple Assault","1","School","Anti-Asian","Single","Anti-Asian",0
+"1991","State",,Montana,"1991-10-01",0,0,1,1,0,"White","Not Hispanic or Other Ethnicity",1,"Simple Assault","1","Park or Playground","Anti-White","Single","Anti-white",0
+"1991","Federal",,Nebraska,"1991-10-10",1,0,1,1,0,"Hispanic or Latino","Not Hispanic or Other Ethnicity",1,"Simple Assault","1","Residence","Anti-Hispanic","Single","Anti-Hispanic",0
+"1991","Local",,Nevada,"1991-10-20",2,1,2,2,0,"Black or African American","Not Hispanic or Other Ethnicity",3,"Intimidation","3","Residence","Anti-Black","Single","Anti-black",0
+"1991","State",,New Hampshire,"1991-11-01",0,0,1,1,0,"American Indian or Alaska Native","Not Hispanic or Other Ethnicity",1,"Simple Assault","1","Park or Playground","Anti-Native American","Single","Anti-native american",0
+"1991","Federal",,New Jersey,"1991-11-15",1,0,1,1,0,"Asian or Pacific Islander","Not Hispanic or Other Ethnicity",1,"Simple Assault","1","School","Anti-Asian","Single","Anti-Asian",0
+"1991","Local",,New Mexico,"1991-11-22",1,0,1,1,0,"White","Not Hispanic or Other Ethnicity",1,"Simple Assault","1","Street","Anti-White","Single","Anti-white",0
+"1991","State",,New York,"1991-12-01",2,1,2,2,0,"Black or African American","Not Hispanic or Other Ethnicity",3,"Intimidation","3","Residence","Anti-Black","Single","Anti-black",0
+"1991","Federal",,North Carolina,"1991-12-10",0,0,1,1,0,"Hispanic or Latino","Not Hispanic or Other Ethnicity",1,"Simple Assault","1","Residence","Anti-Hispanic","Single","Anti-Hispanic",0
+"1991","Local",,North Dakota,"1991-12-20",1,0,1,1,0,"Asian or Pacific Islander","Not Hispanic or Other Ethnicity",1,"Simple Assault","1","School","Anti-Asian","Single","Anti-Asian",0

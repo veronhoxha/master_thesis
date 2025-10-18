@@ -1,0 +1,55 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1992,Federal,FL,Florida,1992-03-15,0,1,1,1,0,Unknown,Not Specified,1,Assault,1.0,Hospital,Anti-Jewish,Victim Count,S,N
+1995,County,OH,Ohio,1995-07-22,1,0,2,1,1,White,Non-Hispanic,1,Assault,1.0,Residence,Anti-White,Other,S,S
+1998,City,GA,Georgia,1998-11-04,0,1,3,2,1,Black,Not Specified,1,Intimidation,1.0,School/College,Anti-Black or African American,Violence Count,N,S
+2001,Police,IL,Illinois,2001-02-19,1,0,1,1,0,Hispanic,Hispanic,1,Burglary,1.0,Warehouse,Anti-Latino,Victim Count,S,N
+1994,City,PA,Pennsylvania,1994-09-30,0,1,1,0,1,Unknown,Not Specified,1,Harassment,1.0,Church,Anti-Muslim,Other,S,N
+2003,Federal,WA,Washington,2003-06-11,1,0,2,1,1,Asian,Not Specified,1,Assault,1.0,Grocery Store,Anti-Asian,Victim Count,S,N
+2000,County,TX,Texas,2000-12-08,0,1,1,1,0,White,Non-Hispanic,1,Murder,1.0,Street,Anti-White,Other,S,S
+1997,City,NY,New York,1997-04-23,1,0,1,1,0,Hispanic,Hispanic,1,Robbery,1.0,Hospital,Anti-Latino,Victim Count,N,N
+2005,State,NV,Nevada,2005-08-17,0,1,2,1,1,Unknown,Not Specified,1,Vandalism,1.0,Hotel,Anti-Gay/Sexual Minority,Other,N,S
+1999,Federal,VA,Virginia,1999-10-01,1,1,1,1,0,Black,Not Specified,1,Assault,2.0,School/College,Anti-Black or African American,Violence Count,N,S
+2002,Police,MI,Michigan,2002-01-28,0,0,1,1,0,White,Non-Hispanic,1,Intimidation,1.0,Office,Anti-White,Other,S,N
+1993,City,NC,North Carolina,1993-05-14,1,0,3,2,1,Hispanic,Hispanic,1,Assault,1.0,Restaurant,Anti-Latino,Victim Count,S,S
+2006,County,OR,Oregon,2006-03-30,0,1,1,0,1,Unknown,Not Specified,1,Harassment,1.0,Residence,Anti-Muslim,Other,S,N
+2008,State,CO,Colorado,2008-07-09,1,0,2,1,1,Asian,Not Specified,1,Burglary,1.0,Store,Anti-Asian,Victim Count,S,N
+2004,City,MA,Massachusetts,2004-11-18,0,1,1,0,1,White,Non-Hispanic,1,Assault,1.0,School/College,Anti-White,Other,S,S
+1996,Federal,MD, Maryland,1996-02-23,1,0,2,1,1,Black,Not Specified,1,Intimidation,1.0,Church,Anti-Black or African American,Victim Count,N,N
+2010,Police,SC,South Carolina,2010-09-12,0,0,1,1,0,Hispanic,Hispanic,1,Murder,1.0,Street,Anti-Latino,Other,S,N
+2007,County,AL,Alabama,2007-06-27,1,0,3,1,2,Unknown,Not Specified,1,Assault,1.0,Public Park,Anti-Gay/Sexual Minority,Victim Count,N,S
+2009,City,ID,Idaho,2009-04-15,0,1,1,0,1,White,Non-Hispanic,1,Burglary,1.0,House,Anti-White,Other,S,N
+2011,State,RI,Rhode Island,2011-12-03,0,1,2,1,1,Black,Not Specified,1,Harassment,1.0,School/College,Anti-Black or African American,Violence Count,N,S
+2012,Federal,KS,Kansas,2012-01-21,1,0,1,1,0,Asian,Not Specified,1,Vandalism,1.0,Marketplace,Anti-Asian,Victim Count,N,N
+2001,Police,NE,Nebraska,2001-08-07,0,0,1,1,0,White,Non-Hispanic,1,Assault,1.0,Restaurant,Anti-White,Other,S,S
+2013,City,NJ,New Jersey,2013-05-10,0,1,2,1,1,Unknown,Not Specified,1,Intimidation,1.0,Shopping Mall,Anti-Gay/Sexual Minority,Victim Count,N,N
+1995,County,WA,Washington,1995-03-22,1,0,2,1,1,Hispanic,Hispanic,1,Burglary,1.0,Office,Anti-Latino,Other,N,S
+2014,State,TN,Tennessee,2014-11-19,0,1,1,0,1,Black,Not Specified,1,Assault,1.0,Residence,Anti-Black or African American,Victim Count,N,N
+1998,City,UT,Utah,1998-09-05,1,0,1,1,0,White,Non-Hispanic,1,Murder,1.0,Street,Anti-White,Other,S,N
+1997,Federal,KY,Kentucky,1997-12-28,0,0,1,1,0,Unknown,Not Specified,1,Harassment,1.0,School/College,Anti-Gay/Sexual Minority,Violence Count,S,S
+2003,Police,IN,Indiana,2003-07-14,0,1,3,2,1,Asian,Not Specified,1,Burglary,1.0,Apartment Complex,Anti-Asian,Other,S,N
+2005,City,MS,Mississippi,2005-02-06,1,0,2,1,1,Black,Not Specified,1,Assault,1.0,Hospital,Anti-Black or African American,Victim Count,S,S
+2009,County,DE,Delaware,2009-06-17,0,0,1,1,0,White,Non-Hispanic,1,Intimidation,1.0,Hotel,Anti-White,Other,N,N
+1996,State,MT,Montana,1996-10-31,1,1,1,1,0,Hispanic,Hispanic,1,Assault,2.0,Church,Anti-Latino,Victim Count,N,S
+2010,Federal,AK,Alaska,2010-04-13,0,1,2,1,1,Unknown,Not Specified,1,Burglary,1.0,House,Anti-Gay/Sexual Minority,Other,N,S
+2013,City,AR,Arkansas,2013-08-22,0,1,1,0,1,White,Non-Hispanic,1,Murder,1.0,Street,Anti-White,Violence Count,N,N
+2004,Police,NM,New Mexico,2004-01-08,1,0,1,1,0,Black,Not Specified,1,Harassment,1.0,School/College,Anti-Black or African American,Victim Count,N,N
+2008,County,VT,Vermont,2008-05-15,0,1,2,1,1,Asian,Not Specified,1,Assault,1.0,Store,Anti-Asian,Violence Count,S,N
+1999,Federal,ME,Maine,1999-03-29,1,0,1,1,0,White,Non-Hispanic,1,Burglary,1.0,Residence,Anti-White,Victim Count,N,S
+2002,City,WV,West Virginia,2002-11-04,0,1,1,0,1,Hispanic,Hispanic,1,Murder,1.0,Restaurant,Anti-Latino,Other,S,N
+2007,State,HI,Hawaii,2007-07-18,0,0,1,1,0,Unknown,Not Specified,1,Assault,1.0,Public Park,Anti-Gay/Sexual Minority,Other,N,S
+2006,Federal,MN,Minnesota,2006-09-21,1,0,2,1,1,Black,Not Specified,1,Intimidation,1.0,Hospital,Anti-Black or African American,Victim Count,N,N
+2011,Police,GA,Georgia,2011-02-03,0,1,1,0,1,White,Non-Hispanic,1,Burglary,1.0,Hotel,Anti-White,Other,S,S
+2014,City,CA,California,2014-04-12,1,0,1,1,0,Hispanic,Hispanic,1,Assault,1.0,School/College,Anti-Latino,Victim Count,S,N
+2000,County,SDE,South Dakota,2000-06-29,0,0,1,1,0,Unknown,Not Specified,1,Murder,1.0,Street,Anti-Gay/Sexual Minority,Other,N,N
+2012,Federal,OH,Ohio,2012-08-31,1,1,2,1,1,White,Non-Hispanic,1,Harassment,2.0,Church,Anti-White,Victim Count,S,N
+1994,City,KS,Kansas,1994-10-17,0,1,1,0,1,Black,Not Specified,1,Assault,1.0,School/College,Anti-Black or African American,Violence Count,S,S
+2013,State,WY,Wyoming,2013-01-24,0,0,1,1,0,Asian,Not Specified,1,Burglary,1.0,Apartment Complex,Anti-Asian,Other,N,N
+2003,Police,VT,Vermont,2003-03-11,1,0,2,1,1,Hispanic,Hispanic,1,Murder,1.0,Street,Anti-Latino,Victim Count,N,S
+2009,City,AL,Alabama,2009-12-05,0,1,1,0,1,Unknown,Not Specified,1,Assault,1.0,Hospital,Anti-Gay/Sexual Minority,Other,N,N
+1995,Federal,NH,New Hampshire,1995-04-19,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1.0,Restaurant,Anti-White,Victim Count,S,N
+2006,County,FL,Florida,2006-07-28,0,0,1,1,0,Black,Not Specified,1,Burglary,1.0,Housing Complex,Anti-Black or African American,Other,S,S
+2010,City,TX,Texas,2010-09-12,0,1,2,1,1,Hispanic,Hispanic,1,Assault,1.0,School/College,Anti-Latino,Violence Count,N,N
+2007,State,WI,Wisconsin,2007-11-03,1,0,2,1,1,Asian,Not Specified,1,Murder,1.0,Street,Anti-Asian,Victim Count,N,S
+2012,Federal,MN,Minnesota,2012-02-22,0,1,1,0,1,White,Non-Hispanic,1,Harassment,1.0,Shopping Mall,Anti-White,Other,S,N
+2001,City,OR,Oregon,2001-05-08,1,0,1,1,0,Unknown,Not Specified,1,Burglary,1.0,House,Anti-Gay/Sexual Minority,Victim Count,N,S
+1998,Police,PA,Pennsylvania,1998-08-16,0,0,1,1,0,Black,Not Specified,1,Assault,1.0,Restaurant,Anti-Black or African American,Other,S,N

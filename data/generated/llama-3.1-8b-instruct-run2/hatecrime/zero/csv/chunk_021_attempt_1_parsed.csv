@@ -1,0 +1,39 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2011,Local,,California,2011-01-05,1,0,1,1,0,White,Hispanic or Latino,1,Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-White Sentiment,Anti-White
+2012,State,,Texas,2012-02-20,0,1,1,0,1,Black,Not Hispanic or Latino,1,Vandalism,1,School Parking Lot,,,Hate Crime Motivated by Anti-Black Sentiment,Anti-Black
+2013,Local,,Florida,2013-03-10,1,0,1,1,0,Asian,Asian,2,Intimidation,2,Place of Worship,,,Multiple Hate Crime Motivated by Anti-Asian Sentiment,Anti-Asian
+2011,Federal,,New York,2011-04-15,0,0,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Larceny-Theft,1,Public Transportation,,,Hate Crime Motivated by Anti-Hispanic or Latino Sentiment,Anti-Hispanic or Latino
+2014,State,,Georgia,2014-05-25,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residence Hall,,,Multiple Hate Crime Motivated by Anti-White Sentiment,Anti-White
+1991,Local,,Ohio,1991-06-10,0,1,1,0,1,Black,Not Hispanic or Latino,1,Vandalism,1,School Parking Lot,,,Hate Crime Motivated by Anti-Black Sentiment,Anti-Black
+2013,Federal,,California,2013-07-20,1,0,1,1,0,White,Hispanic or Latino,1,Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-White Sentiment,Anti-White
+1992,State,,Michigan,1992-08-15,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Larceny-Theft,1,Public Transportation,,,Multiple Hate Crime Motivated by Anti-Hispanic or Latino Sentiment,Anti-Hispanic or Latino
+2012,Local,,North Carolina,2012-09-05,1,0,1,1,0,Asian,Asian,2,Intimidation,2,Place of Worship,,,Multiple Hate Crime Motivated by Anti-Asian Sentiment,Anti-Asian
+2014,State,,New Jersey,2014-10-10,0,1,1,0,1,White,Not Hispanic or Latino,1,Simple Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-White Sentiment,Anti-White
+1991,Federal,,Illinois,1991-11-20,1,0,1,1,0,Black,Not Hispanic or Latino,1,Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-Black Sentiment,Anti-Black
+2013,Federal,,New York,2013-12-15,0,0,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Larceny-Theft,1,Public Transportation,,,Hate Crime Motivated by Anti-Hispanic or Latino Sentiment,Anti-Hispanic or Latino
+2012,Local,,Florida,2012-01-10,1,0,1,1,0,Asian,Asian,2,Intimidation,2,Place of Worship,,,Multiple Hate Crime Motivated by Anti-Asian Sentiment,Anti-Asian
+2014,State,,Georgia,2014-02-05,0,1,1,0,1,White,Not Hispanic or Latino,1,Simple Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-White Sentiment,Anti-White
+1992,Local,,Ohio,1992-03-15,1,0,1,1,0,Black,Not Hispanic or Latino,1,Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-Black Sentiment,Anti-Black
+2011,Federal,,California,2011-04-20,0,0,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Larceny-Theft,1,Public Transportation,,,Hate Crime Motivated by Anti-Hispanic or Latino Sentiment,Anti-Hispanic or Latino
+2013,State,,Texas,2013-05-10,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-White Sentiment,Anti-White
+1991,State,,Michigan,1991-06-05,0,1,1,0,1,Asian,Asian,2,Intimidation,2,Place of Worship,,,Multiple Hate Crime Motivated by Anti-Asian Sentiment,Anti-Asian
+2012,Local,,North Carolina,2012-07-20,0,1,1,0,1,Black,Not Hispanic or Latino,1,Vandalism,1,School Parking Lot,,,Hate Crime Motivated by Anti-Black Sentiment,Anti-Black
+1992,Federal,,Illinois,1992-08-10,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-Hispanic or Latino Sentiment,Anti-Hispanic or Latino
+2011,State,,Georgia,2011-09-05,1,0,1,1,0,Asian,Asian,2,Intimidation,2,Place of Worship,,,Multiple Hate Crime Motivated by Anti-Asian Sentiment,Anti-Asian
+2014,Federal,,New York,2014-10-15,0,0,1,0,1,White,Not Hispanic or Latino,1,Simple Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-White Sentiment,Anti-White
+1991,Local,,Ohio,1991-11-15,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-Hispanic or Latino Sentiment,Anti-Hispanic or Latino
+2013,Federal,,California,2013-12-20,0,0,1,0,1,Black,Not Hispanic or Latino,1,Vandalism,1,School Parking Lot,,,Hate Crime Motivated by Anti-Black Sentiment,Anti-Black
+2012,Local,,Florida,2012-01-20,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-White Sentiment,Anti-White
+2014,State,,Texas,2014-02-20,0,1,1,0,1,Asian,Asian,2,Intimidation,2,Place of Worship,,,Multiple Hate Crime Motivated by Anti-Asian Sentiment,Anti-Asian
+1992,State,,Michigan,1992-03-20,1,0,1,1,0,Black,Not Hispanic or Latino,1,Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-Black Sentiment,Anti-Black
+2011,Local,,North Carolina,2011-04-10,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-Hispanic or Latino Sentiment,Anti-Hispanic or Latino
+2013,Federal,,New York,2013-05-15,0,0,1,0,1,White,Not Hispanic or Latino,1,Simple Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-White Sentiment,Anti-White
+1991,State,,Illinois,1991-06-20,0,1,1,0,1,Asian,Asian,2,Intimidation,2,Place of Worship,,,Multiple Hate Crime Motivated by Anti-Asian Sentiment,Anti-Asian
+2012,Local,,Georgia,2012-07-10,1,0,1,1,0,Black,Not Hispanic or Latino,1,Vandalism,1,School Parking Lot,,,Hate Crime Motivated by Anti-Black Sentiment,Anti-Black
+1992,Local,,Ohio,1992-08-20,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Larceny-Theft,1,Public Transportation,,,Hate Crime Motivated by Anti-Hispanic or Latino Sentiment,Anti-Hispanic or Latino
+2011,Federal,,California,2011-09-15,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-White Sentiment,Anti-White
+2014,State,,Michigan,2014-10-25,0,1,1,0,1,Asian,Asian,2,Intimidation,2,Place of Worship,,,Multiple Hate Crime Motivated by Anti-Asian Sentiment,Anti-Asian
+1991,Local,,Florida,1991-11-20,1,0,1,1,0,Black,Not Hispanic or Latino,1,Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-Black Sentiment,Anti-Black
+2013,Local,,North Carolina,2013-12-10,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-Hispanic or Latino Sentiment,Anti-Hispanic or Latino
+2012,Federal,,New York,2012-01-05,0,0,1,0,1,White,Not Hispanic or Latino,1,Simple Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-White Sentiment,Anti-White
+2014,Local,,Georgia,2014-02-10,1,0,1,1,0,Black,Not Hispanic or Latino,1,Vandalism,1,School Parking Lot,,,Hate Crime Motivated by Anti-Black Sentiment,Anti-Black

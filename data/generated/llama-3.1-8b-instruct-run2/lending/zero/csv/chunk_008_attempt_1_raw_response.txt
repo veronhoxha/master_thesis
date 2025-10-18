@@ -1,0 +1,81 @@
+"activity_year","derived_msa-md","state_code","county_code","census_tract","derived_loan_product_type","derived_dwelling_category","derived_ethnicity","derived_race","derived_sex","action_taken","loan_purpose","loan_amount","loan_to_value_ratio","interest_rate","rate_spread","hoepa_status","total_loan_costs","total_points_and_fees","origination_charges","discount_points","lender_credits","loan_term","prepayment_penalty_term","intro_rate_period","negative_amortization","interest_only_payment","balloon_payment","other_nonamortizing_features","property_value","construction_method","occupancy_type","manufactured_home_secured_property_type","manufactured_home_land_property_interest","total_units","multifamily_affordable_units","income","debt_to_income_ratio","applicant_credit_score_type","co-applicant_credit_score_type","applicant_ethnicity-1","co-applicant_ethnicity-1","applicant_ethnicity_observed","co-applicant_ethnicity_observed","applicant_race-1","co-applicant_race-1","applicant_race_observed","co-applicant_race_observed","applicant_sex","co-applicant_sex","applicant_sex_observed","co-applicant_sex_observed","applicant_age","co-applicant_age","applicant_age_above_62","co-applicant_age_above_62","submission_of_application","initially_payable_to_institution"
+
+"2024","New York-Newark-Jersey City, NY-NJ-PA","34","061","12345","Purchase Mortgage","Single Family Home","Hispanic or Latino","White","Female","Approved","Purchase","250000","0.55","3.75","0.88","No","31000","1000","500","1","2000","360","120","1","No","No","No","Owner Occupied","1","1","1","1","2","25","0","0","2024-01-01","Lender"
+
+"2024","Los Angeles-Long Beach-Anaheim, CA","06","029","67890","Refinance Mortgage","Manufactured Home","Asian","Native American","Male","Approved","Refinance","180000","0.7","3.5","0.8","No","28000","800","300","2","1500","300","30","1","No","No","No","Owner Occupied","2","1","2","2","3","35","1","1","2024-02-01","Borrower"
+
+"2024","Chicago-Naperville-Elgin, IL-IN-WI","17","047","34567","Home Equity Conversion Mortgage","1- to 4-Family Home","White","Black or African American","Female","Approved","Home Equity","100000","0.6","4.25","0.9","No","38000","1200","400","1","2500","240","120","1","No","No","No","Owner Occupied","3","2","3","3","4","45","0","0","2024-03-01","Lender"
+
+"2024","Dallas-Fort Worth-Arlington, TX","48","077","90123","Jumbo Mortgage","Condominium","Hispanic or Latino","White","Male","Approved","Purchase","750000","0.65","3.25","0.82","No","52000","1800","600","3","4000","480","180","1","No","No","No","Owner Occupied","1","1","1","1","1","50","0","0","2024-04-01","Borrower"
+
+"2024","Houston-The Woodlands-Sugar Land, TX","48","093","11111","FHA Mortgage","Manufactured Home","Asian","Native Hawaiian or Other Pacific Islander","Female","Approved","Purchase","220000","0.58","3.5","0.78","No","34000","1000","350","2","2000","360","120","1","No","No","No","Not Owner Occupied","2","2","2","2","2","30","0","0","2024-05-01","Lender"
+
+"2024","Washington-Baltimore-Arlington, DC-MD-VA","24","059","56789","VA Mortgage","1- to 4-Family Home","White","Black or African American","Male","Approved","Purchase","300000","0.52","3.25","0.72","No","46000","1400","500","2","2500","240","120","1","No","No","No","Owner Occupied","3","3","3","3","4","40","1","1","2024-06-01","Borrower"
+
+"2024","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","35","057","78901","Conventional Mortgage","Manufactured Home","Hispanic or Latino","White","Female","Approved","Refinance","240000","0.62","3.5","0.76","No","38000","1200","400","1","2500","300","30","1","No","No","No","Owner Occupied","1","1","1","1","1","25","0","0","2024-07-01","Lender"
+
+"2024","Atlanta-Sandy Springs-Alpharetta, GA","13","031","23456","FHA Mortgage","Condominium","Asian","Native Hawaiian or Other Pacific Islander","Male","Approved","Purchase","280000","0.55","3.25","0.74","No","44000","1600","550","2","3000","360","120","1","No","No","No","Owner Occupied","2","2","2","2","2","35","1","1","2024-08-01","Borrower"
+
+"2024","Miami-Fort Lauderdale-West Palm Beach, FL","12","027","67890","Conventional Mortgage","1- to 4-Family Home","White","Black or African American","Female","Approved","Home Equity","120000","0.6","3.75","0.78","No","32000","1000","400","1","2000","240","120","1","No","No","No","Owner Occupied","3","3","3","3","4","40","0","0","2024-09-01","Lender"
+
+"2024","Boston-Cambridge-Nashua, MA-NH","25","055","34567","VA Mortgage","Manufactured Home","Hispanic or Latino","White","Male","Approved","Purchase","200000","0.58","3.5","0.72","No","42000","1400","500","2","2500","300","30","1","No","No","No","Not Owner Occupied","2","2","2","2","2","30","0","0","2024-10-01","Borrower"
+
+"2024","Detroit-Warren-Dearborn, MI","26","051","90123","Jumbo Mortgage","1- to 4-Family Home","Asian","Native Hawaiian or Other Pacific Islander","Female","Approved","Home Equity","180000","0.65","3.25","0.76","No","38000","1200","400","1","2500","240","120","1","No","No","No","Owner Occupied","3","3","3","3","4","45","0","0","2024-11-01","Lender"
+
+"2024","San Francisco-Oakland-Berkeley, CA","06","021","11111","FHA Mortgage","Condominium","White","Black or African American","Male","Approved","Purchase","320000","0.52","3.25","0.68","No","48000","1800","600","3","4000","480","180","1","No","No","No","Owner Occupied","1","1","1","1","1","50","0","0","2024-12-01","Borrower"
+
+"2024","San Jose-Sunnyvale-Santa Clara, CA","06","051","56789","VA Mortgage","Manufactured Home","Hispanic or Latino","White","Female","Approved","Refinance","240000","0.58","3.5","0.72","No","46000","1400","500","2","2500","360","120","1","No","No","No","Owner Occupied","2","2","2","2","2","30","0","0","2024-01-02","Lender"
+
+"2024","Austin-Round Rock, TX","48","061","78901","Conventional Mortgage","1- to 4-Family Home","White","Black or African American","Male","Approved","Purchase","220000","0.6","3.25","0.74","No","44000","1600","550","2","3000","300","30","1","No","No","No","Not Owner Occupied","1","1","1","1","1","25","1","1","2024-02-02","Borrower"
+
+"2024","San Diego-Chula Vista-Carlsbad, CA","06","041","34567","FHA Mortgage","Manufactured Home","Asian","Native Hawaiian or Other Pacific Islander","Female","Approved","Home Equity","160000","0.62","3.5","0.76","No","38000","1200","400","1","2500","240","120","1","No","No","No","Owner Occupied","2","2","2","2","2","35","0","0","2024-03-02","Lender"
+
+"2024","Denver-Aurora-Lakewood, CO","08","017","90123","Conventional Mortgage","1- to 4-Family Home","Hispanic or Latino","White","Male","Approved","Purchase","280000","0.55","3.25","0.72","No","48000","1800","600","3","4000","360","120","1","No","No","No","Owner Occupied","1","1","1","1","1","50","0","0","2024-04-02","Borrower"
+
+"2024","Nashville-Davidson--Murfreesboro--Franklin, TN","24","045","56789","VA Mortgage","Manufactured Home","White","Black or African American","Female","Approved","Home Equity","140000","0.58","3.5","0.74","No","34000","1000","350","2","2000","300","30","1","No","No","No","Owner Occupied","2","2","2","2","2","30","0","0","2024-05-02","Lender"
+
+"2024","Seattle-Tacoma-Bellevue, WA","53","027","78901","FHA Mortgage","1- to 4-Family Home","Asian","Native Hawaiian or Other Pacific Islander","Male","Approved","Purchase","240000","0.6","3.25","0.76","No","46000","1600","550","2","3000","360","120","1","No","No","No","Not Owner Occupied","1","1","1","1","1","25","1","1","2024-06-02","Borrower"
+
+"2024","Portland-Vancouver-Hillsboro, OR-WA","41","027","34567","Conventional Mortgage","Manufactured Home","Hispanic or Latino","White","Female","Approved","Refinance","180000","0.62","3.5","0.78","No","38000","1200","400","1","2500","240","120","1","No","No","No","Owner Occupied","2","2","2","2","2","35","0","0","2024-07-02","Lender"
+
+"2024","St. Louis, MO-IL","29","041","67890","VA Mortgage","Condominium","White","Black or African American","Male","Approved","Purchase","320000","0.52","3.25","0.68","No","48000","1800","600","3","4000","480","180","1","No","No","No","Owner Occupied","1","1","1","1","1","50","0","0","2024-08-02","Borrower"
+
+"2024","Raleigh-Durham-Chapel Hill, NC","37","045","56789","FHA Mortgage","1- to 4-Family Home","Hispanic or Latino","White","Female","Approved","Home Equity","160000","0.58","3.5","0.74","No","34000","1000","350","2","2000","300","30","1","No","No","No","Owner Occupied","2","2","2","2","2","30","0","0","2024-09-02","Lender"
+
+"2024","Minneapolis-St. Paul-Bloomington, MN-WI","27","031","90123","Jumbo Mortgage","Manufactured Home","Asian","Native Hawaiian or Other Pacific Islander","Male","Approved","Refinance","220000","0.65","3.25","0.76","No","42000","1400","500","2","2500","360","120","1","No","No","No","Not Owner Occupied","1","1","1","1","1","25","1","1","2024-10-02","Borrower"
+
+"2024","Knoxville, TN","24","025","34567","Conventional Mortgage","1- to 4-Family Home","White","Black or African American","Female","Approved","Purchase","140000","0.6","3.25","0.72","No","44000","1600","550","2","3000","300","30","1","No","No","No","Owner Occupied","2","2","2","2","2","35","0","0","2024-11-02","Lender"
+
+"2024","Columbus, OH","39","031","56789","VA Mortgage","Manufactured Home","Hispanic or Latino","White","Male","Approved","Home Equity","160000","0.58","3.5","0.76","No","38000","1200","400","1","2500","240","120","1","No","No","No","Owner Occupied","2","2","2","2","2","30","0","0","2024-12-02","Borrower"
+
+"2024","Baltimore-Columbia-Towson, MD","24","023","90123","FHA Mortgage","1- to 4-Family Home","White","Black or African American","Female","Approved","Purchase","240000","0.62","3.5","0.78","No","46000","1400","500","2","2500","360","120","1","No","No","No","Not Owner Occupied","1","1","1","1","1","25","1","1","2024-01-03","Lender"
+
+"2024","Las Vegas-Henderson-Paradise, NV","32","017","78901","Jumbo Mortgage","Condominium","Hispanic or Latino","White","Male","Approved","Refinance","320000","0.65","3.25","0.76","No","48000","1800","600","3","4000","480","180","1","No","No","No","Owner Occupied","1","1","1","1","1","50","0","0","2024-02-03","Borrower"
+
+"2024","Charlotte-Concord-Gastonia, NC-SC","37","043","34567","Conventional Mortgage","Manufactured Home","Asian","Native Hawaiian or Other Pacific Islander","Female","Approved","Home Equity","140000","0.58","3.5","0.74","No","34000","1000","350","2","2000","300","30","1","No","No","No","Owner Occupied","2","2","2","2","2","30","0","0","2024-03-03","Lender"
+
+"2024","Orlando-Kissimmee-Sanford, FL","12","027","90123","VA Mortgage","1- to 4-Family Home","Hispanic or Latino","White","Male","Approved","Purchase","180000","0.6","3.25","0.72","No","42000","1400","500","2","2500","360","120","1","No","No","No","Not Owner Occupied","1","1","1","1","1","25","1","1","2024-04-03","Borrower"
+
+"2024","Indianapolis-Carmel-Anderson, IN","18","017","56789","FHA Mortgage","Manufactured Home","White","Black or African American","Female","Approved","Refinance","160000","0.62","3.5","0.78","No","38000","1200","400","1","2500","240","120","1","No","No","No","Owner Occupied","2","2","2","2","2","35","0","0","2024-05-03","Lender"
+
+"2024","Jacksonville, FL","12","019","78901","Conventional Mortgage","Condominium","Hispanic or Latino","White","Male","Approved","Purchase","240000","0.55","3.25","0.68","No","48000","1800","600","3","4000","480","180","1","No","No","No","Owner Occupied","1","1","1","1","1","50","0","0","2024-06-03","Borrower"
+
+"2024","Memphis, TN-MS-AR","27","023","34567","VA Mortgage","1- to 4-Family Home","White","Black or African American","Female","Approved","Home Equity","220000","0.58","3.5","0.74","No","34000","1000","350","2","2000","300","30","1","No","No","No","Owner Occupied","2","2","2","2","2","30","0","0","2024-07-03","Lender"
+
+"2024","Milwaukee-Waukesha-West Allis, WI","55","027","90123","FHA Mortgage","Manufactured Home","Asian","Native Hawaiian or Other Pacific Islander","Male","Approved","Refinance","180000","0.6","3.25","0.72","No","42000","1400","500","2","2500","360","120","1","No","No","No","Not Owner Occupied","1","1","1","1","1","25","1","1","2024-08-03","Borrower"
+
+"2024","Oklahoma City, OK","74","033","56789","Conventional Mortgage","Condominium","Hispanic or Latino","White","Female","Approved","Home Equity","160000","0.62","3.5","0.76","No","38000","1200","400","1","2500","240","120","1","No","No","No","Owner Occupied","2","2","2","2","2","35","0","0","2024-09-03","Lender"
+
+"2024","Louisville/Jefferson County, KY-IN","21","025","78901","VA Mortgage","1- to 4-Family Home","White","Black or African American","Male","Approved","Purchase","320000","0.55","3.25","0.68","No","48000","1800","600","3","4000","480","180","1","No","No","No","Owner Occupied","1","1","1","1","1","50","0","0","2024-10-03","Borrower"
+
+"2024","Albuquerque, NM","35","017","34567","FHA Mortgage","Manufactured Home","Asian","Native Hawaiian or Other Pacific Islander","Female","Approved","Refinance","140000","0.58","3.5","0.74","No","34000","1000","350","2","2000","300","30","1","No","No","No","Owner Occupied","2","2","2","2","2","30","0","0","2024-11-03","Lender"
+
+"2024","Kansas City, MO-KS","29","037","90123","Jumbo Mortgage","Condominium","Hispanic or Latino","White","Male","Approved","Purchase","240000","0.65","3.25","0.76","No","46000","1400","500","2","2500","360","120","1","No","No","No","Not Owner Occupied","1","1","1","1","1","25","1","1","2024-12-03","Borrower"
+
+"2024","Cleveland-Elyria, OH","39","027","56789","Conventional Mortgage","Manufactured Home","White","Black or African American","Female","Approved","Home Equity","160000","0.58","3.5","0.74","No","38000","1200","400","1","2500","240","120","1","No","No","No","Owner Occupied","2","2","2","2","2","35","0","0","2024-01-04","Lender"
+
+"2024","Pittsburgh, PA","42","031","78901","VA Mortgage","1- to 4-Family Home","Hispanic or Latino","White","Male","Approved","Refinance","220000","0.62","3.5","0.78","No","42000","1400","500","2","2500","360","120","1","No","No","No","Owner Occupied","1","1","1","1","1","50","0","0","2024-02-04","Borrower"
+
+"2024","San Antonio, TX","48","061","34567","FHA Mortgage","Manufactured Home","Asian","Native Hawaiian or Other Pacific Islander","Female","Approved","Home Equity","180000","0.6","3.25","0.72","No","34000","1000","350","2","2000","300","30","1","No","No","No","Owner Occupied","2","2","2","2","2","30","0","0","2024-03-04","Lender"
+
+"2024","Phoenix-Mesa-Scottsdale, AZ","04","003","90123","Conventional Mortgage","Condominium","Hispanic or Latino","White","Male","Approved","Purchase","280000","0.55","3.25","0.68","No","48000","1800","600","3","4000","480","180","1","No","No","No","Owner Occupied","1","1","1","1","1","50","0","0","2024-04-04","Borrower"

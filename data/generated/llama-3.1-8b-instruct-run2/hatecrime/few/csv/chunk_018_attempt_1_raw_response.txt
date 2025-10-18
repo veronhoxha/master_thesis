@@ -1,0 +1,48 @@
+"2009,City,FL,Florida,2009-03-18,,,0,,,Unknown,Not Specified,1,Arson,0.0,Residence,Anti-Jewish,Other,S,S
+2002,City,NY,New York,2002-11-17,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Specified,1,Larceny-Theft,1.0,Park/Monument/Garden,Anti-White,Individual,S,S
+1995,City,GA,Georgia,1995-09-15,1.0,0.0,2,1.0,1.0,White,Not Hispanic or Latino,2,Simple Assault,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Individual,S,S
+2013,Other,IL,Illinois,2013-04-07,0.0,0.0,2,0.0,2.0,Asian,Not Hispanic or Latino,2,Intimidation,2.0,Restaurant/Cafe/Brewery,Anti-Other,Group,S,S
+2001,City,OH,Ohio,2001-08-19,2.0,0.0,1,2.0,0.0,Black or African American,Not Hispanic or Latino,2,Crime Involving Firearms,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Individual,S,S
+1992,City,MI,Michigan,1992-10-21,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,1,Crime Against Persons,0.0,Store/Shop,Anti-Jewish,Individual,S,S
+2010,City,LA,Louisiana,2010-01-31,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Specified,1,Simple Assault,1.0,Residence,Anti-Other,Individual,S,S
+2005,City,MA,Massachusetts,2005-09-10,0.0,0.0,2,0.0,2.0,Asian,Not Hispanic or Latino,2,Larceny-Theft,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Group,S,S
+1994,City,NC,North Carolina,1994-07-15,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Individual,S,S
+2014,City,OR,Oregon,2014-08-03,2.0,0.0,1,2.0,0.0,Hispanic or Latino,Not Hispanic or Latino,2,Vandalism,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Individual,S,S
+2006,City,WA,Washington,2006-02-25,1.0,0.0,1,1.0,0.0,Black or African American,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-Jewish,Individual,S,S
+1996,City,IN,Indiana,1996-11-18,0.0,0.0,2,0.0,2.0,Asian,Not Hispanic or Latino,2,Simple Assault,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Group,S,S
+2003,City,MD,Maryland,2003-06-10,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,1,Crime Against Persons,0.0,Store/Shop,Anti-White,Individual,S,S
+1998,City,SC,South Carolina,1998-03-07,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Crime Against Property,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,S,S
+2011,City,TX,Texas,2011-05-12,,0.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Crime Against Persons,0.0,Residence,Anti-Asian,Individual,S,S
+2007,City,VT,Vermont,2007-09-03,0.0,0.0,2,0.0,2.0,White,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Group,S,S
+1993,City,KS,Kansas,1993-09-09,0.0,0.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Simple Assault,0.0,Residence,Anti-Hispanic or Latino,Individual,S,S
+2004,City,NE,Nebraska,2004-05-16,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-Jewish,Individual,S,S
+1999,City,CT,Connecticut,1999-02-12,0.0,0.0,2,0.0,2.0,Asian,Not Hispanic or Latino,2,Crime Against Property,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Group,S,S
+2012,City,WI,Wisconsin,2012-06-23,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Crime Involving Firearm,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,S,S
+2008,City,AL,Alabama,2008-03-26,0.0,0.0,2,0.0,2.0,Asian,Not Hispanic or Latino,2,Vandalism,2.0,Residence,Anti-White,Group,S,S
+1991,City,ID,Idaho,1991-08-23,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Larceny-Theft,1.0,Store/Shop,Anti-Black or African American,Individual,S,S
+2000,City,RI,Rhode Island,2000-07-09,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Crime Against Persons,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,S,S
+2013,City,MT,Montana,2013-05-13,2.0,0.0,1,2.0,0.0,White,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2.0,Residence,Anti-Jewish,Individual,S,S
+2002,City,WV,West Virginia,2002-02-24,0.0,0.0,2,0.0,2.0,Asian,Not Specified,2,Larceny-Theft,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Other,Group,S,S
+1996,City,WY,Wyoming,1996-01-11,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,1,Crime Against Property,0.0,Store/Shop,Anti-Jewish,Individual,S,S
+2005,City,NM,New Mexico,2005-04-26,1.0,0.0,2,1.0,1.0,Black or African American,Not Hispanic or Latino,2,Crime Against Persons,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Individual,S,S
+1997,City,PA,Pennsylvania,1997-09-12,0.0,0.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Crime Against Property,0.0,Store/Shop,Anti-Jewish,Individual,S,S
+2012,City,ME,Maine,2012-11-14,0.0,0.0,2,0.0,2.0,White,Not Hispanic or Latino,2,Simple Assault,2.0,Residence,Anti-Jewish,Group,S,S
+2009,City,DE,Delaware,2009-07-09,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Crime Involving Firearm,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,S,S
+2003,City,HI, Hawaii,2003-01-10,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,S,S
+1999,City,CO,Colorado,1999-04-22,0.0,0.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Crime Against Property,0.0,Store/Shop,Anti-Asian,Individual,S,S
+2010,City,ND,North Dakota,2010-10-19,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,1,Crime Against Property,0.0,Store/Shop,Anti-Jewish,Individual,S,S
+2004,City,AZ,Arizona,2004-02-25,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-Jewish,Individual,S,S
+1998,City,UT,Utah,1998-06-13,0.0,0.0,2,0.0,2.0,Asian,Not Hispanic or Latino,2,Simple Assault,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Group,S,S
+2011,City,OK, Oklahoma,2011-07-29,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Crime Involving Firearm,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,S,S
+2007,City,AR,Arkansas,2007-08-05,2.0,0.0,2,2.0,0.0,Hispanic or Latino,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Group,S,S
+1993,City,VT,Vermont,1993-12-14,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Crime Against Property,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,S,S
+2002,City,GA,Georgia,2002-03-17,0.0,0.0,2,0.0,2.0,Asian,Not Hispanic or Latino,2,Crime Against Property,2.0,Store/Shop,Anti-Asian,Group,S,S
+1995,City,IA,Iowa,1995-10-26,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,1,Crime Against Property,0.0,Store/Shop,Anti-Other,Individual,S,S
+2013,City,MS, Mississippi,2013-08-04,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Crime Involving Firearm,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,S,S
+2006,City,AK,Alaska,2006-03-24,2.0,0.0,1,2.0,0.0,White,Not Hispanic or Latino,2,Crime Involving Firearm,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,S,S
+1997,City,TX,Texas,1997-01-30,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-Jewish,Individual,S,S
+2012,City,NY,New York,2012-09-14,0.0,0.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Crime Against Property,0.0,Store/Shop,Anti-Jewish,Individual,S,S
+2009,City,NC,North Carolina,2009-01-26,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Crime Against Persons,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Individual,S,S
+1994,City,MO,Missouri,1994-06-05,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Crime Involving Firearm,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,S,S
+2013,City,CT,Connecticut,2013-10-28,0.0,0.0,2,0.0,2.0,Asian,Not Hispanic or Latino,2,Crime Against Property,2.0,Store/Shop,Anti-White,Group,S,S
+2004,City,IL,Illinois,2004-02-18,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,S,S"

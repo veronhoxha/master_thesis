@@ -1,0 +1,35 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2004,City,NJ,New Jersey,2004-11-15,1,0,1,1,0,White,Hispanic,2,Hate Crime Against Individuals or Property,2.0,Mall,Anti-Hispanic or Latino,Other,M,M
+1995,City,CA,California,1995-02-02,0,1,1,0,1,Black,Asian,1,Destruction/Damage/Vandalism of Property,1.0,Park,Anti-Asian or Asian American,S,M,
+2011,City,FL,Florida,2011-06-18,0,0,1,1,0,Unknown,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Street,Anti-Gay or Lesbian,Other,M,M
+1992,City,IL,Illinois,1992-08-28,1,0,1,1,0,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Office Building,Anti-White,Other,M,S
+1999,City,NY,New York,1999-09-14,1,0,1,1,0,Black,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Residence,Anti-Black or African American,Other,S,S
+2008,City,TX,Texas,2008-03-30,0,0,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,University,Anti-Male,Other,M,M
+2014,City,GA,Georgia,2014-10-20,1,0,1,1,0,Hispanic,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Transit Station,Anti-Hispanic or Latino,Other,M,M
+1998,City,MI,Michigan,1998-01-25,0,0,1,1,0,Black,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Store,Anti-Black or African American,Other,M,M
+2001,City,PA,Pennsylvania,2001-12-08,1,0,1,1,0,Asian,Not Specified,1,Hate Crime Against Individuals or Property,1.0,School/College,Anti-Asian or Asian American,Other,M,S
+1993,City,OH,Ohio,1993-04-17,1,0,1,1,0,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Restaurant,Anti-White,Other,M,M
+2009,City,NC,North Carolina,2009-07-14,1,0,1,1,0,Hispanic,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Street,Anti-Hispanic or Latino,Other,M,M
+2003,City,MA,Massachusetts,2003-09-03,0,0,1,1,0,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Office Building,Anti-White,Other,M,S
+1996,City,WI,Wisconsin,1996-05-15,1,0,1,1,0,Black,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Store,Anti-Black or African American,Other,M,M
+2012,City,SC,South Carolina,2012-02-10,1,0,1,1,0,Unknown,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Residence,Anti-Male,Other,M,S
+1997,City,CO,Colorado,1997-03-06,0,0,1,1,0,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,University,Anti-White,Other,M,M
+2002,City,CT,Connecticut,2002-01-14,1,0,1,1,0,Hispanic,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Street,Anti-Hispanic or Latino,Other,M,M
+1994,City,MD,Maryland,1994-08-31,1,0,1,1,0,Black,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Office Building,Anti-Black or African American,Other,M,S
+2005,City,IN,Indiana,2005-04-22,0,0,1,1,0,Asian,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Store,Anti-Asian or Asian American,Other,M,M
+2013,City,AL,Alabama,2013-08-15,1,0,1,1,0,White,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Transit Station,Anti-White,Other,M,M
+1991,City,OR,Oregon,1991-11-17,0,0,1,1,0,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-Male,Other,M,S
+2006,City,VT,Vermont,2006-05-15,1,0,1,1,0,Hispanic,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Store,Anti-Hispanic or Latino,Other,M,M
+2000,City,KY,Kentucky,2000-09-21,1,0,1,1,0,Black,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Street,Anti-Black or African American,Other,M,M
+2007,City,RI,Rhode Island,2007-11-21,1,0,1,1,0,Unknown,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Office Building,Anti-Male,Other,M,M
+1999,City,AZ,Arizona,1999-05-27,0,0,1,1,0,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,University,Anti-White,Other,M,M
+1996,City,IA,Iowa,1996-08-07,1,0,1,1,0,Asian,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Residence,Anti-Asian or Asian American,Other,M,S
+2001,City,ME,Maine,2001-07-15,1,0,1,1,0,Black,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Store,Anti-Black or African American,Other,M,M
+2002,City,WY,Wyoming,2002-09-01,1,0,1,1,0,White,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Street,Anti-White,Other,M,M
+2010,City,MT,Montana,2010-01-23,1,0,1,1,0,Hispanic,Not Specified,1,Simple Assault,1.0,Office Building,Anti-Hispanic or Latino,Other,M,S
+2005,City,HI,Hawaii,2005-06-14,0,0,1,1,0,Asian,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Residence,Anti-Asian or Asian American,Other,M,M
+1992,City,KS,Kansas,1992-09-09,1,0,1,1,0,Black,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Store,Anti-Black or African American,Other,M,M
+1998,City,AK,Alaska,1998-07-19,1,0,1,1,0,Unknown,Not Specified,1,Hate Crime Against Individuals or Property,1.0,University,Anti-Male,Other,M,S
+1995,City,DE,Delaware,1995-10-05,0,0,1,1,0,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Office Building,Anti-White,Other,M,M
+2003,City,UT,Utah,2003-04-17,1,0,1,1,0,Hispanic,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Street,Anti-Hispanic or Latino,Other,M,M
+2014,City,ND,North Dakota,2014-03-25,1,0,1,1,0,Black,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Store,Anti-Black or African American,Other,M,M

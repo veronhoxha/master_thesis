@@ -1,0 +1,59 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,Local Law Enforcement,CA,California,1991-03-15,1,0,2,1,1,White,N/A,1,Assault,1,Residence,Religious Bias,Individual,False,False
+1992,State Police,FL,Florida,1992-07-22,0,1,3,2,1,Black,N/A,1,Aggravated Assault,1,Street,Racial Bias,Individual,True,False
+1993,Local Law Enforcement,TX,Texas,1993-11-08,2,0,4,3,1,Hispanic,N/A,2,Intimidation,2,Place of Worship,Sexual Orientation Bias,Group,False,True
+1994,County Sheriff,IL,Illinois,1994-05-30,1,1,1,1,0,White,N/A,2,Assault,2,Housing Complex,Religious Bias,Individual,False,False
+1995,Federal Agency,NY,New York,1995-09-12,0,2,2,1,1,Asian,N/A,2,Assault,2,School,Bias Against Sexual Orientation,Individual,True,False
+1996,Local Law Enforcement,GA,Georgia,1996-02-18,1,0,2,1,1,White,N/A,1,Murder,1,Restaurant,Hate Bias,Individual,False,True
+1997,State Police,PA,Pennsylvania,1997-08-25,0,1,3,2,1,Black,N/A,1,Vandalism,1,College Campus,Racial Bias,Individual,True,False
+1998,County Sheriff,OH,Ohio,1998-12-03,1,0,2,2,0,White,N/A,1,Assault,1,Residence,Religious Bias,Group,False,False
+1999,Local Law Enforcement,MI,Michigan,1999-04-11,2,1,4,3,1,Hispanic,N/A,3,Intimidation,3,Hospital,Sexual Orientation Bias,Group,True,False
+2000,Federal Agency,VA,Virginia,2000-06-29,0,1,2,1,1,White,N/A,1,Aggravated Assault,1,Community Center,Bias Against Religious Group,Individual,True,True
+2001,Local Law Enforcement,NC,Carolina,2001-10-17,1,0,3,2,1,Black,N/A,1,Assault,1,Street,Racial Bias,Individual,False,False
+2002,State Police,MD,Maryland,2002-01-05,0,1,2,1,1,White,N/A,1,Assault,1,Apt. Complex,Hate Bias,Individual,True,True
+2003,County Sheriff,WI,Wisconsin,2003-03-28,1,1,3,2,1,Hispanic,N/A,2,Assault,2,Store,Motivated by Bias Against Religion,Individual,False,True
+2004,Local Law Enforcement,WA,Washington,2004-07-14,1,0,2,2,0,White,N/A,1,Intimidation,1,University,Sexual Orientation Bias,Individual,True,False
+2005,Federal Agency,OR,Oregon,2005-09-07,0,2,3,2,1,Asian,N/A,2,Assault,2,Restaurant,Racial Bias,Group,False,True
+2006,Local Law Enforcement,NJ,New Jersey,2006-11-22,1,0,3,2,1,White,N/A,1,Vandalism,1,Community Center,Religious Bias,Individual,True,False
+2007,State Police,VA,Virginia,2007-02-13,0,1,2,1,1,Black,N/A,1,Aggravated Assault,1,Housing Complex,Hate Bias,Individual,False,False
+2008,County Sheriff,GA,Georgia,2008-05-30,1,1,4,3,1,White,N/A,2,Assault,2,School,Racial Bias,Group,True,True
+2009,Local Law Enforcement,SC,South Carolina,2009-08-19,0,1,2,1,1,Hispanic,N/A,1,Intimidation,1,Store,Hate Bias,Individual,False,True
+2010,Federal Agency,TX,Texas,2010-10-02,1,0,2,1,1,White,N/A,1,Assault,1,Apartment Building,Religious Bias,Individual,True,False
+2011,Local Law Enforcement,CO,Colorado,2011-03-09,0,2,3,2,1,Black,N/A,2,Assault,2,University,Sexual Orientation Bias,Individual,False,True
+2012,State Police,FL,Florida,2012-06-15,1,0,2,1,1,White,N/A,1,Murder,1,Residence,Bias Against Religious Group,Group,True,False
+2013,County Sheriff,NJ,New Jersey,2013-09-27,0,1,3,2,1,Hispanic,N/A,1,Intimidation,1,Restaurant,Racial Bias,Individual,True,True
+2014,Local Law Enforcement,OH,Ohio,2014-12-01,1,1,2,1,1,White,N/A,2,Assault,2,Bar,Bias Against Sexual Orientation,Group,False,False
+2012,State Police,AL,Alabama,2012-01-22,0,1,2,1,1,Native American,N/A,1,Assault,1,Residence,Religious Bias,Individual,True,True
+2013,County Sheriff,IN,Indiana,2013-04-30,1,0,3,2,1,White,N/A,1,Vandalism,1,Community Center,Hate Bias,Individual,False,False
+2014,Local Law Enforcement,MA,Massachusetts,2014-07-11,0,1,2,1,1,Asian,N/A,1,Assault,1,College Campus,Racial Bias,Individual,True,True
+2011,Federal Agency,MS,Mississippi,2011-10-08,1,0,3,2,1,Black,N/A,1,Aggravated Assault,1,Residence,Sexual Orientation Bias,Group,False,False
+2010,Local Law Enforcement,RI,Rhode Island,2010-02-17,0,1,2,1,1,White,N/A,1,Assault,1,Housing Complex,Religious Bias,Individual,True,True
+2009,State Police,VT,Vermon,2009-05-20,1,0,2,1,1,Hispanic,N/A,1,Intimidation,1,School,Bias Against Religious Group,Individual,False,False
+2008,County Sheriff,MN,Minnesota,2008-08-03,0,1,2,1,1,White,N/A,1,Assault,1,Store,Hate Bias,Individual,True,True
+2007,Local Law Enforcement,NE,Nebraska,2007-11-12,1,0,3,2,1,Asian,N/A,1,Vandalism,1,Hospital,Racial Bias,Group,False,False
+2006,Federal Agency,MO,Missouri,2006-03-19,0,1,2,1,1,White,N/A,1,Aggravated Assault,1,University,Sexual Orientation Bias,Individual,True,True
+2005,Local Law Enforcement,ID,Idaho,2005-06-28,1,0,2,2,0,Black,N/A,1,Assault,1,Restaurant,Religious Bias,Individual,False,True
+2004,State Police,KY,Kentucky,2004-09-14,0,1,2,1,1,White,N/A,1,Intimidation,1,Grocery Store,Hate Bias,Group,True,False
+2003,County Sheriff,AR,Arkansas,2003-12-25,1,1,4,3,1,Hispanic,N/A,2,Assault,2,Apartment Complex,Racial Bias,Individual,False,True
+2002,Local Law Enforcement,SD,South Dakota,2002-02-03,0,1,2,1,1,Native American,N/A,1,Assault,1,Residence,Bias Against Religious Group,Individual,True,True
+2001,Federal Agency,UT,Utah,2001-05-18,1,0,3,2,1,White,N/A,1,Vandalism,1,Community Center,Sexual Orientation Bias,Group,False,False
+2000,Local Law Enforcement,KS,Kansas,2000-08-09,0,1,2,1,1,Black,N/A,1,Assault,1,Housing Complex,Religious Bias,Individual,True,True
+1999,State Police,WV,West Virginia,1999-11-04,1,0,3,2,1,White,N/A,1,Aggravated Assault,1,School,Hate Bias,Individual,False,False
+1998,County Sheriff,DE,Delaware,1998-01-16,0,1,2,1,1,Hispanic,N/A,1,Assault,1,Store,Racial Bias,Group,True,True
+1997,Local Law Enforcement,NH,New Hampshire,1997-04-21,1,0,2,1,1,White,N/A,1,Intimidation,1,Bar,Sexual Orientation Bias,Individual,False,True
+1996,Federal Agency,ME,Maine,1996-07-30,0,1,3,2,1,White,N/A,1,Aggravated Assault,1,Apartment Complex,Racial Bias,Individual,True,False
+1995,Local Law Enforcement,MT,Montana,1995-10-13,1,0,2,1,1,Asian,N/A,1,Assault,1,Restaurant,Religious Bias,Group,False,False
+1994,State Police,AK,Alaska,1994-01-06,0,1,2,1,1,White,N/A,1,Intimidation,1,Residence,Hate Bias,Individual,True,True
+1993,County Sheriff,HI,Hawaii,1993-03-11,1,0,3,2,1,Black,N/A,1,Vandalism,1,Housing Complex,Sexual Orientation Bias,Individual,False,True
+1992,Local Law Enforcement,NM,New Mexico,1992-06-25,0,1,2,1,1,Hispanic,N/A,1,Assault,1,Community Center,Racial Bias,Group,True,False
+1991,Federal Agency,LA,Louisiana,1991-09-20,1,0,3,2,1,White,N/A,1,Aggravated Assault,1,Store,Bias Against Religious Group,Individual,False,True
+2014,State Police,WY,Wyoming,2014-12-12,0,1,2,1,1,White,N/A,1,Assault,1,University,Religious Bias,Group,True,True
+2013,Local Law Enforcement,CT,Connecticut,2013-01-30,1,0,2,1,1,Hispanic,N/A,1,Intimidation,1,Hospital,Sexual Orientation Bias,Individual,False,False
+2012,County Sheriff,MD,Maryland,2012-05-16,0,1,2,1,1,White,N/A,1,Assault,1,Residence,Hate Bias,Individual,True,True
+2011,Local Law Enforcement,VT,Vermon,2011-08-14,1,0,3,2,1,Asian,N/A,1,Vandalism,1,Apartment Complex,Racial Bias,Group,False,False
+2010,Federal Agency,VA,Virginia,2010-11-21,0,1,2,1,1,White,N/A,1,Aggravated Assault,1,School,Bias Against Religious Group,Individual,True,True
+2009,Local Law Enforcement,NJ,New Jersey,2009-02-26,1,0,3,2,1,Black,N/A,1,Assault,1,Restaurant,Religious Bias,Individual,False,False
+2008,State Police,AR,Arkansas,2008-05-07,0,1,2,1,1,White,N/A,1,Intimidation,1,Grocery Store,Hate Bias,Group,True,True
+2007,County Sheriff,GA,Georgia,2007-08-18,1,0,3,2,1,White,N/A,1,Assault,1,Store,Sexual Orientation Bias,Individual,False,True
+2006,Local Law Enforcement,WI,Wisconsin,2006-11-30,0,1,2,1,1,Hispanic,N/A,1,Aggravated Assault,1,House,Racial Bias,Individual,True,False
+2005,Federal Agency,ME,Maine,2005-03-02,1,0,3,2,1,White,N/A,1,Vandalism,1,University,Religious Bias,Group,False,True

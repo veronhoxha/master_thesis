@@ -1,0 +1,41 @@
+"2002,City,FL,Florida,2002-06-20,0,0,2,2,0,White,Hispanic,1,Vandalism,1.0,Residential,Anti-White or Caucasian,Residential,D,M
+2002,County,IL,Illinois,2002-10-01,0,0,1,1,0,Black or African American,Not Specified,0,Hate Crime Motivation/Degredation,0.0,Other,Anti-LGBTQ+,Other,D,L
+2002,Tribal,MT,Montana,2002-08-16,1,0,1,1,0,Native American,Not Specified,1,Anti-Government,0.0,Other,Anti-Latino,Other,S,L
+2003,City,CA,California,2003-04-22,1,0,1,1,0,Asian or Asian American,Not Specified,1,Vandalism,1.0,Commercial,Anti-White or Caucasian,Commercial,D,L
+2003,County,NY,New York,2003-09-28,0,0,2,2,0,Hispanic or Latino,Not Specified,1,Intimidation,1.0,Residential,Anti-Arab or Arab American,Residential,S,L
+2003,County,OH,Ohio,2003-01-01,0,0,1,1,0,Black or African American,Not Specified,1,Vandalism,1.0,Other,Anti-White or Caucasian,Other,M,L
+2003,Tribal,WY,Wyoming,2003-11-03,0,0,1,1,0,Native American,Not Specified,0,Simple Assault,0.0,Other,Anti-Latino,Other,D,M
+2004,City,MI,Michigan,2004-06-15,0,0,1,1,0,White,Not Specified,1,Civil Rights,1.0,Other,Anti-Arab or Arab American,Other,M,L
+2004,County,GA,Georgia,2004-01-22,0,0,1,1,0,Black or African American,Not Specified,0,Simple Assault,0.0,Other,Anti-Jewish,Other,D,L
+2004,Tribal,OK,Oklahoma,2004-07-12,0,0,2,2,0,Native American,Not Specified,1,Hate Crime Motivation/Degredation,1.0,Other,Anti-LGBTQ+,Other,M,L
+2004,City,NC,North Carolina,2004-05-13,0,0,0,0,0,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Black or African American,Other,S,L
+2004,County,PA,Pennsylvania,2004-10-29,0,0,1,1,0,Hispanic or Latino,Not Specified,0,Simple Assault,0.0,Other,Anti-Asian or Asian American,Other,D,M
+2005,County,SC,South Carolina,2005-06-21,0,0,1,1,0,Black or African American,Not Specified,0,Simple Assault,0.0,Other,Anti-White or Caucasian,Other,M,L
+2005,County,CO,Colorado,2005-02-06,1,0,1,1,0,White,Not Specified,0,Simple Assault,0.0,Other,Anti-Arab or Arab American,Other,S,L
+2005,County,TX,Texas,2005-09-09,0,0,1,1,0,Hispanic or Latino,Not Specified,1,Vandalism,1.0,Commercial,Anti-Latino,Commercial,D,L
+2005,City,OR,Oregon,2005-11-04,0,0,1,1,0,Asian or Asian American,Not Specified,0,Simple Assault,0.0,Other,Anti-White or Caucasian,Other,M,L
+2006,County,WA,Washington,2006-02-08,0,0,2,2,0,Native American,Not Specified,1,Hate Crime Motivation/Degredation,1.0,Residential,Anti-LGBTQ+,Residential,S,L
+2006,County,IN,Indiana,2006-07-18,0,0,1,1,0,White,Not Specified,1,Vandalism,1.0,Commercial,Anti-Asian or Asian American,Commercial,S,L
+2006,County,KS,Kansas,2006-05-08,0,0,1,1,0,Black or African American,Not Specified,0,Simple Assault,0.0,Other,Anti-Jewish,Other,M,L
+2006,Tribal,ND,North Dakota,2006-06-23,0,0,1,1,0,Native American,Not Specified,1,Vandalism,1.0,Other,Anti-Latino,Other,D,L
+2007,County,AL,Alabama,2007-03-19,0,0,1,1,0,White,Not Specified,1,Civil Rights,1.0,Other,Anti-White or Caucasian,Other,M,L
+2007,City,IA,Iowa,2007-09-10,0,0,1,1,0,Hispanic or Latino,Not Specified,1,Vandalism,1.0,Residential,Anti-Latino,Residential,S,M
+2007,Tribal,CT,Connecticut,2007-01-01,0,0,1,1,0,Native American,Not Specified,1,Anti-Government,1.0,Other,Anti-Asian or Asian American,Other,M,L
+2008,County,GA,Georgia,2008-08-06,0,0,2,2,0,Black or African American,Not Specified,1,Intimidation,1.0,Commercial,Anti-White or Caucasian,Commercial,D,M
+2008,City,OH,Ohio,2008-11-11,0,0,1,1,0,White,Not Specified,0,Simple Assault,0.0,Other,Anti-Arab or Arab American,Other,D,L
+2009,County,AR,Arkansas,2009-04-14,0,0,1,1,0,Hispanic or Latino,Not Specified,1,Vandalism,1.0,Residential,Anti-African National,Residential,S,L
+2009,City,PA,Pennsylvania,2009-05-27,0,0,1,1,0,Native American,Not Specified,0,Simple Assault,0.0,Other,Anti-Latino,Other,M,L
+2009,County,VT,Vermont,2009-02-17,0,0,1,1,0,Asian or Asian American,Not Specified,1,Anti-Government,1.0,Other,Anti-LGBTQ+,Other,D,L
+2010,County,IL,Illinois,2010-09-22,0,0,1,1,0,Black or African American,Not Specified,0,Simple Assault,0.0,Other,Anti-Asian or Asian American,Other,S,L
+2010,County,NJ,New Jersey,2010-02-12,0,0,1,1,0,White,Not Specified,1,Vandalism,1.0,Commercial,Anti-White or Caucasian,Commercial,S,L
+2011,County,CA,California,2011-01-27,0,0,1,1,0,Hispanic or Latino,Not Specified,0,Simple Assault,0.0,Other,Anti-Jewish,Other,M,L
+2011,City,NC,North Carolina,2011-08-31,0,0,1,1,0,Native American,Not Specified,1,Civil Rights,1.0,Residential,Anti-Latino,Residential,M,M
+2011,City,OR,Oregon,2011-10-16,0,0,1,1,0,Asian or Asian American,Not Specified,1,Vandalism,1.0,Other,Anti-White or Caucasian,Other,M,L
+2012,County,FL,Florida,2012-02-10,0,0,1,1,0,Black or African American,Not Specified,1,Intimidation,1.0,Residential,Anti-White or Caucasian,Residential,S,M
+2012,Tribal,CO,Colorado,2012-03-21,0,0,2,2,0,Native American,Not Specified,1,Vandalism,1.0,Other,Anti-LGBTQ+,Other,D,L
+2012,County,GA,Georgia,2012-05-29,0,0,1,1,0,White,Not Specified,0,Simple Assault,0.0,Other,Anti-Arab or Arab American,Other,S,L
+2013,County,IL,Illinois,2013-06-12,0,0,1,1,0,Hispanic or Latino,Not Specified,0,Simple Assault,0.0,Other,Anti-Asian or Asian American,Other,D,L
+2013,City,KS,Kansas,2013-01-03,0,0,1,1,0,Native American,Not Specified,1,Hate Crime Motivation/Degredation,1.0,Residential,Anti-Latino,Residential,S,L
+2013,City,OH,Ohio,2013-04-15,0,0,1,1,0,Black or African American,Not Specified,1,Civil Rights,1.0,Commercial,Anti-White or Caucasian,Commercial,S,L
+2013,City,OR,Oregon,2013-09-25,0,0,1,1,0,Asian or Asian American,Not Specified,1,Vandalism,1.0,Other,Anti-LGBTQ+,Other,M,L
+2014,City,CA,California,2014-02-13,0,0,1,1,0,White,Not Specified,0,Simple Assault,0.0,Other,Anti-Arab or Arab American,Other,D,L"

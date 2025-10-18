@@ -1,0 +1,6 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1993,State Police,NY,New York,1993-06-10,1,0,1,1,0,White,Not Hispanic or Latino,2,Vandalism,2,Public Park,Anti-LGBT,1,0,0
+1994,County Police,CA,California,1994-05-28,1,0,2,1,1,Asian,Not Hispanic or Latino,3,Intimidation,3,Residential Area,Anti-White,1,0,1
+1995,City Police,TX,Texas,1995-07-04,0,1,1,0,1,Black,Hispanic or Latino,1,Simple Assault,1,Street,Anti-Jewish,0,1,0
+1996,State Police,FL,Florida,1996-04-16,2,0,2,2,0,White,Not Hispanic or Latino,2,Aggravated Assault,2,Commercial Area,Anti-Romani,1,0,0
+2022-09-14,1997,County Police,IL,Illinois,1997-02-22,1,0,1,1,0,American Indian or Alaska Native,Not Hispanic or Latino,1,Vandalism,1,Public Housing,Anti-Male,1,0

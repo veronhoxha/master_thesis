@@ -1,0 +1,48 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,State Police,CA,California,1991-01-01,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Residence,Anti-White,Adult,No,No
+1991,City Police,TX,Texas,1991-02-01,0,1,1,0,1,Black,Hispanic,1,Vandalism,1,Business,Anti-Black,Juvenile,Yes,No
+1992,County Sheriff,FL,Florida,1992-03-01,1,0,2,1,1,Asian,Non-Hispanic,2,Simple Assault,2,Park,Anti-Asian,Adult,Yes,No
+1992,City Police,NY,New York,1992-04-01,0,0,1,1,0,White,Non-Hispanic,1,Harassment,1,Residence,Anti-White,Adult,No,No
+1993,State Police,IL,Illinois,1993-05-01,2,0,1,2,0,Black,Hispanic,2,Aggravated Assault,2,Business,Anti-Black,Adult,No,No
+1993,City Police,OH,Ohio,1993-06-01,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,Residence,Anti-White,Juvenile,Yes,No
+1994,County Sheriff,GA,Georgia,1994-07-01,1,0,2,1,1,Asian,Non-Hispanic,2,Vandalism,2,Park,Anti-Asian,Adult,Yes,No
+1994,City Police,MI,Michigan,1994-08-01,0,0,1,1,0,White,Non-Hispanic,1,Harassment,1,Residence,Anti-White,Adult,No,No
+1995,State Police,NC,North Carolina,1995-09-01,2,0,1,2,0,Black,Hispanic,2,Simple Assault,2,Business,Anti-Black,Adult,No,No
+1995,City Police,WI,Wisconsin,1995-10-01,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,Residence,Anti-White,Juvenile,Yes,No
+1996,County Sheriff,SC,South Carolina,1996-11-01,1,0,2,1,1,Asian,Non-Hispanic,2,Vandalism,2,Park,Anti-Asian,Adult,Yes,No
+1996,City Police,TN,Tennessee,1996-12-01,0,0,1,1,0,White,Non-Hispanic,1,Harassment,1,Residence,Anti-White,Adult,No,No
+1997,State Police,LA,Louisiana,1997-01-01,2,0,1,2,0,Black,Hispanic,2,Simple Assault,2,Business,Anti-Black,Adult,No,No
+1997,City Police,KY,Kentucky,1997-02-01,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,Residence,Anti-White,Juvenile,Yes,No
+1998,County Sheriff,AL,Alabama,1998-03-01,1,0,2,1,1,Asian,Non-Hispanic,2,Vandalism,2,Park,Anti-Asian,Adult,Yes,No
+1998,City Police,MS,Mississippi,1998-04-01,0,0,1,1,0,White,Non-Hispanic,1,Harassment,1,Residence,Anti-White,Adult,No,No
+1999,State Police,OK,Oklahoma,1999-05-01,2,0,1,2,0,Black,Hispanic,2,Simple Assault,2,Business,Anti-Black,Adult,No,No
+1999,City Police,IN,Indiana,1999-06-01,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,Residence,Anti-White,Juvenile,Yes,No
+2000,County Sheriff,AR,Arkansas,2000-07-01,1,0,2,1,1,Asian,Non-Hispanic,2,Vandalism,2,Park,Anti-Asian,Adult,Yes,No
+2000,City Police,MO,Missouri,2000-08-01,0,0,1,1,0,White,Non-Hispanic,1,Harassment,1,Residence,Anti-White,Adult,No,No
+2001,State Police,NV,Nevada,2001-09-01,2,0,1,2,0,Black,Hispanic,2,Simple Assault,2,Business,Anti-Black,Adult,No,No
+2001,City Police,UT,Utah,2001-10-01,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,Residence,Anti-White,Juvenile,Yes,No
+2002,County Sheriff,WV,West Virginia,2002-11-01,1,0,2,1,1,Asian,Non-Hispanic,2,Vandalism,2,Park,Anti-Asian,Adult,Yes,No
+2002,City Police,NE,Nebraska,2002-12-01,0,0,1,1,0,White,Non-Hispanic,1,Harassment,1,Residence,Anti-White,Adult,No,No
+2003,State Police,CO,Colorado,2003-01-01,2,0,1,2,0,Black,Hispanic,2,Simple Assault,2,Business,Anti-Black,Adult,No,No
+2003,City Police,IA,Iowa,2003-02-01,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,Residence,Anti-White,Juvenile,Yes,No
+2004,County Sheriff,VT,Vermont,2004-03-01,1,0,2,1,1,Asian,Non-Hispanic,2,Vandalism,2,Park,Anti-Asian,Adult,Yes,No
+2004,City Police,DE,Delaware,2004-04-01,0,0,1,1,0,White,Non-Hispanic,1,Harassment,1,Residence,Anti-White,Adult,No,No
+2005,State Police,RI,Rhode Island,2005-05-01,2,0,1,2,0,Black,Hispanic,2,Simple Assault,2,Business,Anti-Black,Adult,No,No
+2005,City Police,ME,Maine,2005-06-01,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,Residence,Anti-White,Juvenile,Yes,No
+2006,County Sheriff,MN,Minnesota,2006-07-01,1,0,2,1,1,Asian,Non-Hispanic,2,Vandalism,2,Park,Anti-Asian,Adult,Yes,No
+2006,City Police,CT,Connecticut,2006-08-01,0,0,1,1,0,White,Non-Hispanic,1,Harassment,1,Residence,Anti-White,Adult,No,No
+2007,State Police,HI,Hawaii,2007-09-01,2,0,1,2,0,Black,Hispanic,2,Simple Assault,2,Business,Anti-Black,Adult,No,No
+2007,City Police,MT,Montana,2007-10-01,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,Residence,Anti-White,Juvenile,Yes,No
+2008,County Sheriff,ND,North Dakota,2008-11-01,1,0,2,1,1,Asian,Non-Hispanic,2,Vandalism,2,Park,Anti-Asian,Adult,Yes,No
+2008,City Police,SD,South Dakota,2008-12-01,0,0,1,1,0,White,Non-Hispanic,1,Harassment,1,Residence,Anti-White,Adult,No,No
+2009,State Police,WY,Wyoming,2009-01-01,2,0,1,2,0,Black,Hispanic,2,Simple Assault,2,Business,Anti-Black,Adult,No,No
+2009,City Police,AZ,Arizona,2009-02-01,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,Residence,Anti-White,Juvenile,Yes,No
+2010,County Sheriff,ID,Idaho,2010-03-01,1,0,2,1,1,Asian,Non-Hispanic,2,Vandalism,2,Park,Anti-Asian,Adult,Yes,No
+2010,City Police,VT,Vermont,2010-04-01,0,0,1,1,0,White,Non-Hispanic,1,Harassment,1,Residence,Anti-White,Adult,No,No
+2011,State Police,NH,New Hampshire,2011-05-01,2,0,1,2,0,Black,Hispanic,2,Simple Assault,2,Business,Anti-Black,Adult,No,No
+2011,City Police,MA,Massachusetts,2011-06-01,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,Residence,Anti-White,Juvenile,Yes,No
+2012,County Sheriff,AK,Alaska,2012-07-01,1,0,2,1,1,Asian,Non-Hispanic,2,Vandalism,2,Park,Anti-Asian,Adult,Yes,No
+2012,City Police,OR,Oregon,2012-08-01,0,0,1,1,0,White,Non-Hispanic,1,Harassment,1,Residence,Anti-White,Adult,No,No
+2013,State Police,GU,Guam,2013-09-01,2,0,1,2,0,Black,Hispanic,2,Simple Assault,2,Business,Anti-Black,Adult,No,No
+2013,City Police,MP,Northern Mariana Islands,2013-10-01,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,Residence,Anti-White,Juvenile,Yes,No
+2014,County Sheriff,AS,American Samoa,2014-11-01,1,0,2,1,1,Asian,Non-Hispanic,2,Vandalism,2,Park,Anti-Asian,Adult,Yes,No

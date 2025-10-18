@@ -1,0 +1,24 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1992,Local Police Department,NY,New York,1992-01-01,1,0,1,1,0,White,Not Hispanic or Latino,2,Intimidation,2,New York City,Anti-Black or African American,Adults Only,Yes,Yes
+1993,University Police Department,CA,California,1993-06-15,0,1,1,1,0,Unknown,Hispanic or Latino,1,Simple Assault,1,"University of California, Los Angeles",Anti-White,Adults Only,No,No
+1994,State Police,TX,Texas,1994-03-22,2,0,2,2,0,Other,Not Hispanic or Latino,2,Aggravated Assault,2,"Houston, TX",Anti-Hispanic or Latino,Adults Only,Yes,Yes
+1995,Local Police Department,FL,Florida,1995-09-10,1,0,1,1,0,White,Not Hispanic or Latino,1,Vandalism,1,"Miami, FL",Anti-Jewish,Adults Only,No,No
+1996,Federal Law Enforcement,IL,Illinois,1996-11-25,0,1,1,1,0,Unknown,Not Hispanic or Latino,1,Simple Assault,1,"Chicago, IL","Anti-Gay, Lesbian, Bisexual, or Transgender",Adults Only,No,No
+1997,County Police Department,OH,Ohio,1997-05-01,2,0,2,2,0,Black or African American,Not Hispanic or Latino,2,Intimidation,2,"Columbus, OH",Anti-White,Adults Only,Yes,Yes
+1998,University Police Department,PA,Pennsylvania,1998-02-14,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,University of Pennsylvania,Anti-Asian or Asian American,Adults Only,No,No
+1999,Local Police Department,GA,Georgia,1999-07-20,0,1,1,1,0,Unknown,Not Hispanic or Latino,1,Simple Assault,1,"Atlanta, GA",Anti-Hispanic or Latino,Adults Only,No,No
+2000,State Police,MI,Michigan,2000-01-15,2,0,2,2,0,Other,Not Hispanic or Latino,2,Aggravated Assault,2,"Detroit, MI",Anti-Jewish,Adults Only,Yes,Yes
+2001,County Police Department,NC,North Carolina,2001-03-22,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,"Raleigh, NC",Anti-Black or African American,Adults Only,No,No
+2002,University Police Department,CO,Colorado,2002-09-01,0,1,1,1,0,Unknown,Not Hispanic or Latino,1,Simple Assault,1,University of Colorado Boulder,Anti-White,Adults Only,No,No
+2003,Local Police Department,NJ,New Jersey,2003-05-10,2,0,2,2,0,Black or African American,Not Hispanic or Latino,2,Intimidation,2,"Newark, NJ",Anti-Hispanic or Latino,Adults Only,Yes,Yes
+2004,Federal Law Enforcement,IN,Indiana,2004-11-25,1,0,1,1,0,White,Not Hispanic or Latino,1,Vandalism,1,"Indianapolis, IN","Anti-Gay, Lesbian, Bisexual, or Transgender",Adults Only,No,No
+2005,County Police Department,KY,Kentucky,2005-01-01,0,1,1,1,0,Unknown,Not Hispanic or Latino,1,Simple Assault,1,"Louisville, KY",Anti-Asian or Asian American,Adults Only,No,No
+2006,University Police Department,OR,Oregon,2006-06-15,2,0,2,2,0,Other,Not Hispanic or Latino,2,Aggravated Assault,2,University of Oregon,Anti-Jewish,Adults Only,Yes,Yes
+2007,Local Police Department,TN,Tennessee,2007-03-22,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,"Nashville, TN",Anti-Hispanic or Latino,Adults Only,No,No
+2008,State Police,WA,Washington,2008-09-10,0,1,1,1,0,Unknown,Not Hispanic or Latino,1,Simple Assault,1,"Seattle, WA","Anti-Gay, Lesbian, Bisexual, or Transgender",Adults Only,No,No
+2009,County Police Department,SC,South Carolina,2009-05-01,2,0,2,2,0,Black or African American,Not Hispanic or Latino,2,Intimidation,2,"Columbia, SC",Anti-White,Adults Only,Yes,Yes
+2010,University Police Department,VT,Vermont,2010-02-14,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,University of Vermont,Anti-Asian or Asian American,Adults Only,No,No
+2011,Local Police Department,AR,Arkansas,2011-07-20,0,1,1,1,0,Unknown,Not Hispanic or Latino,1,Simple Assault,1,"Little Rock, AR",Anti-Hispanic or Latino,Adults Only,No,No
+2012,State Police,RI,Rhode Island,2012-01-15,2,0,2,2,0,Other,Not Hispanic or Latino,2,Aggravated Assault,2,"Providence, RI",Anti-Jewish,Adults Only,Yes,Yes
+2013,County Police Department,WV,West Virginia,2013-03-22,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,"Charleston, WV",Anti-Black or African American,Adults Only,No,No
+2014,University Police Department,DE,Delaware,2014-09-01,0,1,1,1,0,Unknown,Not Hispanic or Latino,1,Simple Assault,1,University of Delaware,Anti-White,Adults Only,No,No

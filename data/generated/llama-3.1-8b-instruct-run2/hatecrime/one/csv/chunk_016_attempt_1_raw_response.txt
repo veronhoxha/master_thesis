@@ -1,0 +1,38 @@
+"2004","City","NY","New York",2004-09-20,1,0,2,1,1,"White","Unknown",1,"Simple Assault",1.0,"Business",Anti-Other Bias,Adult,Unknown
+"2004","City","IL","Illinois",2004-04-17,1,0,1,1,0,"Hispanic or Latino","Unknown",1,"Intimidation",1.0,"Residence/Apartment",Anti-Jewish Bias,Adult,Unknown
+"2004","City","CA","California",2004-11-21,0,1,1,0,1,"Asian","Unknown",1,"Simple Assault",1.0,"College/University",Anti-White Bias,Juvenile,Unknown
+"2004","City","TX","Texas",2004-03-11,0,1,1,0,1,"Unknown","Unknown",1,"Vandalism",1.0,"Other",Anti-Hispanic or Latino Bias,Juvenile,Unknown
+"2004","City","FL","Florida",2004-07-16,1,0,1,1,0,"White","Unknown",1,"Simple Assault",1.0,"Business",Anti-Other Bias,Adult,Unknown
+"2004","City","OH","Ohio",2004-02-25,1,0,2,1,1,"Hispanic or Latino","Unknown",1,"Simple Assault",1.0,"Residence/Apartment",Anti-Jewish Bias,Adult,Unknown
+"2004","City","GA","Georgia",2004-10-27,1,0,1,1,0,"White","Unknown",1,"Intimidation",1.0,"Other",Anti-White Bias,Adult,Unknown
+"2004","City","NC","North Carolina",2004-01-29,0,1,1,0,1,"Asian","Unknown",1,"Simple Assault",1.0,"Residence/Apartment",Anti-White Bias,Juvenile,Unknown
+"2004","City","AZ","Arizona",2004-08-14,1,0,1,1,0,"Unknown","Unknown",1,"Simple Assault",1.0,"College/University",Anti-Hispanic or Latino Bias,Adult,Unknown
+"2004","City","CO","Colorado",2004-06-20,1,0,2,1,1,"Hispanic or Latino","Unknown",1,"Simple Assault",1.0,"Business",Anti-Other Bias,Adult,Unknown
+"2004","City","IN","Indiana",2004-05-04,0,1,1,0,1,"White","Unknown",1,"Intimidation",1.0,"Residence/Apartment",Anti-White Bias,Juvenile,Unknown
+"2004","State","MN","Minnesota",2004-03-07,0,0,1,0,1,"Asian","Unknown",1,"Simple Assault",1.0,"Other",Anti-White Bias,Unknown,Unknown
+"2004","City","VT","Vermont",2004-12-28,0,1,1,0,1,"Hispanic or Latino","Unknown",1,"Simple Assault",1.0,"Residence/Apartment",Anti-White Bias,Juvenile,Unknown
+"2004","City","PA","Pennsylvania",2004-09-15,1,0,2,1,1,"Unknown","Unknown",1,"Simple Assault",1.0,"Business",Anti-Other Bias,Adult,Unknown
+"2004","City","MI","Michigan",2004-07-31,1,0,1,1,0,"White","Unknown",1,"Simple Assault",1.0,"Other",Anti-White Bias,Adult,Unknown
+"2004","City","TN","Tennessee",2004-06-03,0,1,1,0,1,"Asian","Unknown",1,"Intimidation",1.0,"College/University",Anti-White Bias,Juvenile,Unknown
+"2004","City","MO","Missouri",2004-09-22,1,0,1,1,0,"Unknown","Unknown",1,"Simple Assault",1.0,"Residence/Apartment",Anti-Hispanic or Latino Bias,Adult,Unknown
+"2004","City","CT","Connecticut",2004-11-10,0,1,1,0,1,"Hispanic or Latino","Unknown",1,"Vandalism",1.0,"Business",Anti-White Bias,Juvenile,Unknown
+"2004","City","SC","South Carolina",2004-04-24,1,0,2,1,1,"White","Unknown",1,"Simple Assault",1.0,"Residence/Apartment",Anti-Other Bias,Adult,Unknown
+"2004","City","WA","Washington",2004-05-19,1,0,1,1,0,"Unknown","Unknown",1,"Simple Assault",1.0,"Other",Anti-Hispanic or Latino Bias,Adult,Unknown
+"2004","City","KY","Kentucky",2004-08-01,0,1,1,0,1,"Asian","Unknown",1,"Intimidation",1.0,"College/University",Anti-White Bias,Juvenile,Unknown
+"2004","City","NV","Nevada",2004-02-18,1,0,1,1,0,"White","Unknown",1,"Simple Assault",1.0,"Residence/Apartment",Anti-Other Bias,Adult,Unknown
+"2004","City","UT","Utah",2004-01-27,1,0,2,1,1,"Hispanic or Latino","Unknown",1,"Simple Assault",1.0,"Business",Anti-Other Bias,Adult,Unknown
+"2004","City","IA","Iowa",2004-10-05,0,1,1,0,1,"Asian","Unknown",1,"Vandalism",1.0,"Other",Anti-White Bias,Juvenile,Unknown
+"2004","City","KS","Kansas",2004-06-09,1,0,1,1,0,"Unknown","Unknown",1,"Simple Assault",1.0,"College/University",Anti-Hispanic or Latino Bias,Adult,Unknown
+"2004","City","AR","Arkansas",2004-04-02,0,1,1,0,1,"White","Unknown",1,"Intimidation",1.0,"Residence/Apartment",Anti-White Bias,Juvenile,Unknown
+"2004","City","OR","Oregon",2004-03-23,1,0,1,1,0,"Hispanic or Latino","Unknown",1,"Simple Assault",1.0,"Other",Anti-Other Bias,Adult,Unknown
+"2004","City","LA","Louisiana",2004-08-25,0,1,1,0,1,"Asian","Unknown",1,"Simple Assault",1.0,"College/University",Anti-White Bias,Juvenile,Unknown
+"2004","City","OK","Oklahoma",2004-09-17,1,0,2,1,1,"Unknown","Unknown",1,"Simple Assault",1.0,"Business",Anti-Other Bias,Adult,Unknown
+"2004","City","MS","Mississippi",2004-07-14,0,1,1,0,1,"White","Unknown",1,"Intimidation",1.0,"Residence/Apartment",Anti-White Bias,Juvenile,Unknown
+"2004","City","NM","New Mexico",2004-06-17,1,0,1,1,0,"Hispanic or Latino","Unknown",1,"Simple Assault",1.0,"Other",Anti-Other Bias,Adult,Unknown
+"2004","City","WI","Wisconsin",2004-05-28,0,1,1,0,1,"Asian","Unknown",1,"Vandalism",1.0,"College/University",Anti-White Bias,Juvenile,Unknown
+"2004","City","NE","Nebraska",2004-02-22,1,0,2,1,1,"Unknown","Unknown",1,"Simple Assault",1.0,"Business",Anti-Other Bias,Adult,Unknown
+"2004","City","RI","Rhode Island",2004-11-24,0,1,1,0,1,"Hispanic or Latino","Unknown",1,"Simple Assault",1.0,"Residence/Apartment",Anti-White Bias,Juvenile,Unknown
+"2004","City","SD","South Dakota",2004-08-16,1,0,1,1,0,"White","Unknown",1,"Simple Assault",1.0,"Other",Anti-Other Bias,Adult,Unknown
+"2004","City","AL","Alabama",2004-10-19,0,1,1,0,1,"Asian","Unknown",1,"Intimidation",1.0,"College/University",Anti-White Bias,Juvenile,Unknown
+"2004","City","MT","Montana",2004-01-15,1,0,2,1,1,"Hispanic or Latino","Unknown",1,"Simple Assault",1.0,"Business",Anti-Other Bias,Adult,Unknown
+"2004","City","DE","Delaware",2004-05-13,0,1,1,0,1,"Unknown","Unknown",1,"Simple Assault",1.0,"Residence/Apartment",Anti-Hispanic or Latino Bias,Juvenile,Unknown"

@@ -1,0 +1,62 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1995,Federal,AK,Alaska,1995-03-22,1,0,2,1,1,White,Hispanic,1,Violent Crime,1.0,Residence/Home,Anti-Black or African American,Hate Crime,N,N
+2001,State,CA,California,2001-11-08,0,1,3,2,1,Asian,Not Specified,1,Intimidation,1.0,School/College,Anti-Black or African American,Hate Crime,Y,Y
+1992,Local,FL,Florida,1992-07-15,1,0,1,1,0,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Store/Retail Shop,Anti-American Indian or Alaska Native,Hate Crime,N,N
+2007,County,IL,Illinois,2007-02-19,0,1,4,3,1,Black,Hispanic,1,Assault,1.0,Residence/Home,Anti-Jewish,Hate Crime,N,Y
+1998,Municipal,GA,Georgia,1998-09-30,1,0,2,1,1,Unknown,Not Specified,1,Violent Crime,1.0,Place of Worship,Anti-Arab,Hate Crime,Y,N
+2003,State,TX,Texas,2003-04-12,0,0,1,1,0,White,White,1,Destruction/Damage/Vandalism of Property,1.0,School/College,Anti-Mexican,Hate Crime,N,N
+1996,Local,NY,New York,1996-10-22,1,0,3,2,1,Hispanic,Hispanic,1,Assault,1.0,Public Park,Anti-Hispanic,Hate Crime,N,Y
+2009,Federal,NC,North Carolina,2009-06-05,1,0,2,1,1,Unknown,Not Specified,1,Violent Crime,1.0,Residence/Home,Anti-Black or African American,Hate Crime,N,N
+2005,County,WA,Washington,2005-12-18,0,1,1,1,0,Indian,Not Specified,1,Intimidation,1.0,Public Transit,Anti-American Indian or Alaska Native,Hate Crime,Y,N
+1999,Municipal,OH,Ohio,1999-01-30,1,0,4,3,1,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Store/Retail Shop,Anti-Black or African American,Hate Crime,N,Y
+2002,State,MA,Massachusetts,2002-08-14,0,0,2,1,1,Asian,Hispanic,1,Assault,1.0,Restaurant,Anti-Jewish,Hate Crime,N,N
+2008,Local,SC,South Carolina,2008-03-25,1,1,3,2,1,Black,Hispanic,2,Violent Crime,2.0,Public Park,Anti-Hispanic,Hate Crime,Y,Y
+1997,Federal,TN,Tennessee,1997-11-01,0,0,1,1,0,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,School/College,Anti-American Indian or Alaska Native,Hate Crime,N,N
+2000,County,Oklahoma,2000-05-10,1,0,2,1,1,Unknown,White,White,1,Assault,1.0,Residence/Home,Anti-Black or African American,Hate Crime,N,Y
+2010,State,OR,Oregon,2010-07-17,0,1,1,1,0,Native American,Not Specified,1,Intimidation,1.0,Store/Retail Shop,Anti-Jewish,Hate Crime,N,N
+2006,Municipal,VA,Virginia,2006-09-22,1,0,3,2,1,Hispanic,Hispanic,1,Violent Crime,1.0,Place of Worship,Anti-Mexican,Hate Crime,Y,Y
+1995,Local,CO,Colorado,1995-02-28,0,0,2,1,1,White,Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,Public Transit,Anti-Black or African American,Hate Crime,N,N
+2004,Federal,NV,Nevada,2004-10-29,1,0,1,1,0,Unknown,Not Specified,1,Assault,1.0,Residence/Home,Anti-American Indian or Alaska Native,Hate Crime,N,N
+2003,County,VT,Vermon,2003-01-15,0,1,3,2,1,Black,Not Specified,1,Intimidation,1.0,School/College,Anti-Jewish,Hate Crime,Y,Y
+1991,Municipal,WI,Wisconsin,1991-12-07,1,0,2,1,1,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Store/Retail Shop,Anti-Hispanic,Hate Crime,N,N
+2007,State,MN,Minnesota,2007-03-18,0,0,4,3,1,Asian,Asiatic/Pacific Islander,1,Assault,1.0,Restaurant,Anti-Black or African American,Hate Crime,N,Y
+1994,Local,ME,Maine,1994-06-27,1,1,3,2,1,White,Not Specified,2,Violent Crime,2.0,Public Park,Anti-Black or African American,Hate Crime,Y,N
+2000,Federal,KY,Kentucky,2000-09-11,0,0,1,1,0,Unknown,Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,Place of Worship,Anti-American Indian or Alaska Native,Hate Crime,N,N
+2009,County,MD,Maryland,2009-11-24,1,0,2,1,1,Black,White,1,Assault,1.0,Residence/Home,Anti-Jewish,Hate Crime,Y,Y
+2002,Municipal,MT,Montana,2002-02-03,0,1,1,1,0,White,Not Specified,1,Intimidation,1.0,School/College,Anti-Hispanic,Hate Crime,N,N
+1998,State,AR,Arkansas,1998-04-16,1,0,3,2,1,Hispanic,Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,Store/Retail Shop,Anti-Black or African American,Hate Crime,N,Y
+2005,Local,DE,Delaware,2005-07-30,0,0,2,1,1,White,White,1,Assault,1.0,Public Transit,Anti-American Indian or Alaska Native,Hate Crime,N,N
+2008,County,KS,Kansas,2008-10-12,1,0,4,3,1,Unknown,Not Specified,1,Violent Crime,1.0,Residence/Home,Anti-Jewish,Hate Crime,Y,N
+1999,Federal,AZ,Arizona,1999-12-08,0,1,1,1,0,Black,Hispanic,1,Intimidation,1.0,Public Park,Anti-Hispanic,Hate Crime,N,Y
+2001,State,MS,Mississippi,2001-01-21,1,0,2,1,1,Asian,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Restaurant,Anti-Black or African American,Hate Crime,N,N
+2003,Municipal,PA,Pennsylvania,2003-06-17,0,0,3,2,1,White,Hispanic,1,Assault,1.0,Store/Retail Shop,Anti-Jewish,Hate Crime,N,Y
+2006,Local,MN,Minnesota,2006-08-04,1,1,1,1,0,Unknown,Not Specified,2,Violent Crime,2.0,Residence/Home,Anti-American Indian or Alaska Native,Hate Crime,Y,Y
+2000,Federal,IL,Illinois,2000-03-10,0,0,2,1,1,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Place of Worship,Anti-Hispanic,Hate Crime,N,N
+2004,County,FL,Florida,2004-11-22,1,0,3,2,1,Black,Not Specified,1,Assault,1.0,Public Transit,Anti-Black or African American,Hate Crime,N,Y
+1991,State,GA,Georgia,1991-05-05,0,1,1,1,0,White,Hispanic,1,Intimidation,1.0,School/College,Anti-Jewish,Hate Crime,Y,N
+2007,Municipal,TN,Tennessee,2007-09-13,1,0,4,3,1,Unknown,Not Specified,1,Violent Crime,1.0,Residence/Home,Anti-American Indian or Alaska Native,Hate Crime,N,N
+2002,Local,CO,Colorado,2002-02-27,0,0,2,1,1,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Store/Retail Shop,Anti-Hispanic,Hate Crime,Y,Y
+2005,Federal,NC,North Carolina,2005-07-18,1,0,1,1,0,Asian,Hispanic,1,Assault,1.0,Public Park,Anti-Black or African American,Hate Crime,N,N
+1996,County,MI,Michigan,1996-09-01,0,1,3,2,1,White,Not Specified,1,Intimidation,1.0,Place of Worship,Anti-Jewish,Hate Crime,N,Y
+2009,Municipal,ID,Idaho,2009-10-15,1,0,2,1,1,Black,Hispanic,1,Violent Crime,1.0,Residence/Home,Anti-American Indian or Alaska Native,Hate Crime,Y,N
+2003,State,NH,New Hampshire,2003-01-04,0,0,4,3,1,White,White,1,Destruction/Damage/Vandalism of Property,1.0,School/College,Anti-Hispanic,Hate Crime,N,N
+2008,Local,NJ,New Jersey,2008-03-12,1,1,1,1,0,Unknown,Not Specified,2,Assault,2.0,Public Transit,Anti-Black or African American,Hate Crime,Y,Y
+1994,Federal,LA,Louisiana,1994-05-28,0,0,2,1,1,White,Hispanic,1,Intimidation,1.0,Residence/Home,Anti-Jewish,Hate Crime,N,N
+2001,County,CT,Connecticut,2001-08-03,1,0,3,2,1,Black,Not Specified,1,Violent Crime,1.0,Store/Retail Shop,Anti-American Indian or Alaska Native,Hate Crime,N,Y
+2006,Municipal,OK,Oklahoma,2006-12-14,0,1,1,1,0,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Restaurant,Anti-Hispanic,Hate Crime,Y,N
+2004,State,AL,Alabama,2004-02-19,1,0,2,1,1,Asian,Hispanic,1,Assault,1.0,Public Park,Anti-Black or African American,Hate Crime,N,N
+1998,Local,RI,Rhode Island,1998-04-30,0,0,3,2,1,Unknown,Not Specified,1,Intimidation,1.0,Residence/Home,Anti-Jewish,Hate Crime,Y,Y
+2007,Federal,NE,Nebraska,2007-06-09,1,0,4,3,1,White,White,1,Destruction/Damage/Vandalism of Property,1.0,School/College,Anti-American Indian or Alaska Native,Hate Crime,N,N
+2000,County,SD,South Dakota,2000-09-08,0,1,1,1,0,Black,Hispanic,1,Assault,1.0,Public Transit,Anti-Hispanic,Hate Crime,N,Y
+1992,Municipal,VT,Vermon,1992-11-25,1,0,2,1,1,Hispanic,Not Specified,1,Violent Crime,1.0,Residence/Home,Anti-Black or African American,Hate Crime,Y,N
+2005,State,WV,West Virginia,2005-01-12,0,0,3,2,1,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Place of Worship,Anti-Jewish,Hate Crime,N,N
+2003,Local,AK,Alaska,2003-05-29,1,1,1,1,0,Unknown,Not Specified,2,Assault,2.0,Store/Retail Shop,Anti-American Indian or Alaska Native,Hate Crime,Y,Y
+1999,Federal,VT,Vermon,1999-07-05,0,0,2,1,1,White,Hispanic,1,Intimidation,1.0,Residence/Home,Anti-Hispanic,Hate Crime,N,N
+2009,County,NM,New Mexico,2009-08-11,1,0,3,2,1,Black,Not Specified,1,Violent Crime,1.0,Public Park,Anti-Black or African American,Hate Crime,N,Y
+2002,Municipal,WY,Wyoming,2002-10-23,0,1,1,1,0,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Restaurant,Anti-Jewish,Hate Crime,Y,N
+2006,State,IN,Indiana,2006-12-28,1,0,4,3,1,Asian,Hispanic,1,Assault,1.0,Public Transit,Anti-American Indian or Alaska Native,Hate Crime,N,N
+1997,Local,WI,Wisconsin,1997-02-02,0,0,2,1,1,Unknown,Not Specified,1,Intimidation,1.0,Residence/Home,Anti-Hispanic,Hate Crime,Y,Y
+2008,Federal,MS,Mississippi,2008-03-18,1,0,1,1,0,White,White,1,Destruction/Damage/Vandalism of Property,1.0,School/College,Anti-Black or African American,Hate Crime,N,N
+2004,County,MO,Missouri,2004-06-10,0,1,3,2,1,Black,Hispanic,1,Assault,1.0,Public Park,Anti-Jewish,Hate Crime,Y,N
+1993,Municipal,ME,Maine,1993-08-27,1,0,2,1,1,White,Not Specified,1,Violent Crime,1.0,Residence/Home,Anti-American Indian or Alaska Native,Hate Crime,N,Y
+2001,State,MT,Montana,2001-10-17,0,0,4,3,1,Hispanic,Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,Store/Retail Shop,Anti-Hispanic,Hate Crime,N,N

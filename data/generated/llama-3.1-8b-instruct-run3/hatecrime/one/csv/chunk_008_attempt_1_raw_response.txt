@@ -1,0 +1,39 @@
+"2005,City,CA,California,2005-02-17,0,0,4,0,4,White,Non-Hispanic,1,Hate Crime Motivation Against Another Religion,1.0,School/College,Anti-White,Adults,Sexual Orientation,Single Offense,Single Bias
+2005,City,FL,Florida,2005-07-22,1,0,1,1,0,Asian,Non-Hispanic,2,Hate Crime Against a Business/Place of Worship,0.0,Residence,Anti-White,Adults,Veteran Status,Single Offense,Single Bias
+2005,City,IL,Illinois,2005-03-18,0,0,1,0,1,Unknown,Not Specified,1,Intimidation,1.0,Street/Sidewalk,Anti-Hispanic or Latino,Other,Disability,Single Offense,Single Bias
+2005,Suburban,LA,California,2005-11-15,1,0,1,1,0,White,Non-Hispanic,1,Aggravated Assault,1.0,Residence,Anti-White,Adults,Race/Ethnicity,Single Offense,Single Bias
+2005,Agency,CT,Connecticut,2005-04-19,0,0,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,Street/Sidewalk,Anti-Gay Lesbian Bisexual or Transgender,Other,Sexual Orientation,Single Offense,Single Bias
+2005,Suburban,FL,Florida,2005-10-01,1,0,2,1,1,White,Non-Hispanic,2,Hate Crime Against a Business/Place of Worship,1.0,Residence,Anti-White,Adults,Disability,Single Offense,Single Bias
+2005,City,GA,Georgia,2005-06-28,0,0,1,0,1,Asian,Non-Hispanic,1,Hate Crime Motivation Against Another Religion,1.0,School/College,Anti-White,Adults,Judicial System,Single Offense,Single Bias
+2005,Suburban,IL,Illinois,2005-09-06,1,0,2,1,1,Unknown,Not Specified,2,Simple Assault,1.0,Street/Sidewalk,Anti-Gay Lesbian Bisexual or Transgender,Other,Veteran Status,Single Offense,Single Bias
+2005,Suburban,MA,Massachusetts,2005-08-16,1,0,2,1,1,White,Non-Hispanic,2,Intimidation,1.0,Residence,Anti-White,Adults,Disability,Single Offense,Single Bias
+2005,City,NJ,New Jersey,2005-09-23,0,0,1,0,1,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Street/Sidewalk,Anti-Gay Lesbian Bisexual or Transgender,Other,Judicial System,Single Offense,Single Bias
+2005,City,NY,New York,2005-03-20,0,0,1,0,1,White,Non-Hispanic,1,Hate Crime Against a Business/Place of Worship,1.0,School/College,Anti-White,Adults,Gender,Single Offense,Single Bias
+2005,Suburban,OH,Ohio,2005-01-25,0,0,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,Street/Sidewalk,Anti-Gay Lesbian Bisexual or Transgender,Other,Race/Ethnicity,Single Offense,Single Bias
+2005,City,PA,Pennsylvania,2005-07-01,1,0,1,1,0,Asian,Non-Hispanic,1,Hate Crime Motivation Against Another Religion,1.0,School/College,Anti-White,Adults,Disability,Single Offense,Single Bias
+2005,City,VA,Virginia,2005-10-29,0,0,1,0,1,White,Non-Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-White,Adults,Disability,Single Offense,Single Bias
+2005,Suburban,WI,Wisconsin,2005-12-04,1,0,2,1,1,Unknown,Not Specified,2,Hate Crime Against a Business/Place of Worship,1.0,Street/Sidewalk,Anti-Gay Lesbian Bisexual or Transgender,Other,Sexual Orientation,Single Offense,Single Bias
+2005,City,CA,California,2005-09-18,0,0,1,0,1,White,Non-Hispanic,1,Hate Crime Against a Business/Place of Worship,1.0,School/College,Anti-White,Adults,Race/Ethnicity,Single Offense,Single Bias
+2005,City,FL,Florida,2005-06-11,0,0,1,0,1,Unknown,Not Specified,1,Intimidation,1.0,Street/Sidewalk,Anti-Gay Lesbian Bisexual or Transgender,Other,Disability,Single Offense,Single Bias
+2005,City,GA,Georgia,2005-05-27,0,0,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,Street/Sidewalk,Anti-Black or African American,Other,Judicial System,Single Offense,Single Bias
+2005,Suburban,IL,Illinois,2005-04-11,1,0,2,1,1,White,Non-Hispanic,2,Hate Crime Against a Business/Place of Worship,1.0,Residence,Anti-White,Adults,Disability,Single Offense,Single Bias
+2005,City,MA,Massachusetts,2005-02-16,0,0,1,0,1,Asian,Non-Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,School/College,Anti-White,Adults,Race/Ethnicity,Single Offense,Single Bias
+2005,City,NJ,New Jersey,2005-08-10,0,0,1,0,1,White,Non-Hispanic,1,Hate Crime Motivation Against Another Religion,1.0,Street/Sidewalk,Anti-White,Adults,Disability,Single Offense,Single Bias
+2005,City,NY,New York,2005-01-23,0,0,1,0,1,Unknown,Not Specified,1,Hate Crime Against a Business/Place of Worship,1.0,School/College,Anti-Gay Lesbian Bisexual or Transgender,Other,Disability,Single Offense,Single Bias
+2005,Suburban,OH,Ohio,2005-12-04,1,0,2,1,1,White,Non-Hispanic,2,Hate Crime Motivation Against Another Religion,1.0,Street/Sidewalk,Anti-White,Adults,Sexual Orientation,Single Offense,Single Bias
+2005,City,PA,Pennsylvania,2005-04-18,0,0,1,0,1,Asian,Non-Hispanic,1,Intimidation,1.0,Street/Sidewalk,Anti-White,Adults,Veteran Status,Single Offense,Single Bias
+2005,City,VA,Virginia,2005-05-20,1,0,1,1,0,White,Non-Hispanic,1,Aggravated Assault,1.0,Residence,Anti-White,Adults,Disability,Single Offense,Single Bias
+2005,City,WA,Washington,2005-06-24,1,0,1,1,0,Unknown,Not Specified,1,Hate Crime Against a Business/Place of Worship,1.0,School/College,Anti-Gay Lesbian Bisexual or Transgender,Other,Sexual Orientation,Single Offense,Single Bias
+2005,Suburban,WI,Wisconsin,2005-09-01,0,0,2,0,2,White,Non-Hispanic,2,Hate Crime Motivation Against Another Religion,1.0,Street/Sidewalk,Anti-White,Adults,Veteran Status,Single Offense,Single Bias
+2006,City,AL,Alabama,2006-08-03,0,0,1,0,1,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Street/Sidewalk,Anti-Gay Lesbian Bisexual or Transgender,Other,Disability,Single Offense,Single Bias
+2006,Suburban,CA,California,2006-01-23,1,0,2,1,1,White,Non-Hispanic,2,Intimidation,1.0,Residence,Anti-White,Adults,Disability,Single Offense,Single Bias
+2006,City,FL,Florida,2006-05-22,1,0,1,1,0,Unknown,Not Specified,1,Hate Crime Against a Business/Place of Worship,1.0,Street/Sidewalk,Anti-Gay Lesbian Bisexual or Transgender,Other,Veteran Status,Single Offense,Single Bias
+2006,City,GA,Georgia,2006-03-07,0,0,1,0,1,White,Non-Hispanic,1,Hate Crime Motivation Against Another Religion,1.0,School/College,Anti-White,Adults,Gender,Single Offense,Single Bias
+2006,Suburban,IL,Illinois,2006-07-25,1,0,1,1,0,Asian,Non-Hispanic,1,Aggravated Assault,1.0,Residence,Anti-White,Adults,Disability,Single Offense,Single Bias
+2006,City,MA,Massachusetts,2006-02-09,0,0,1,0,1,Unknown,Not Specified,1,Hate Crime Against a Business/Place of Worship,1.0,School/College,Anti-Black or African American,Other,Disability,Single Offense,Single Bias
+2006,City,NJ,New Jersey,2006-10-28,0,0,1,0,1,White,Non-Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adults,Veteran Status,Single Offense,Single Bias
+2006,City,NY,New York,2006-11-01,0,0,1,0,1,White,Non-Hispanic,1,Hate Crime Motivation Against Another Religion,1.0,Street/Sidewalk,Anti-White,Adults,Race/Ethnicity,Single Offense,Single Bias
+2006,Suburban,OH,Ohio,2006-03-20,1,0,2,1,1,Unknown,Not Specified,2,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-Gay Lesbian Bisexual or Transgender,Other,Disability,Single Offense,Single Bias
+2006,City,PA,Pennsylvania,2006-06-21,1,0,1,1,0,Asian,Non-Hispanic,1,Simple Assault,1.0,School/College,Anti-White,Adults,Disability,Single Offense,Single Bias
+2006,City,VA,Virginia,2006-08-15,0,0,1,0,1,White,Non-Hispanic,1,Hate Crime Against a Business/Place of Worship,1.0,School/College,Anti-White,Adults,Judicial System,Single Offense,Single Bias
+2006,City,WA,Washington,2006-05-25,1,0,1,1,0,White,Non-Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,Street/Sidewalk,Anti-White,Adults,Race/Ethnicity,Single Offense,Single Bias"

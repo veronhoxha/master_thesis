@@ -1,0 +1,64 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1995,Federal,CA,California,1995-03-22,0,0,3,2,1,Unknown,Hispanic,1,Assault,1.0,Place of Worship,Anti-Jewish,Victim/s, ,Y
+2001,County,IL,Illinois,2001-11-08,1,0,2,1,1,White,Non-Hispanic,1,Assault,1.0,Residence,Anti-Gay/Lesbian,Victim/s, ,N
+2003,City,TX,Texas,2003-07-15,0,1,1,1,0,Black,Non-Hispanic,1,Vandalism,1.0,Church,Anti-African American,Victim/s, ,Y
+1998,Federal,FL,Florida,1998-12-03,0,0,2,1,1,White,Hispanic,1,Assault,1.0,Store,Anti-Mexican,Victim/s, ,N
+2006,State,PA,Pennsylvania,2006-04-28,2,0,4,3,1,Asian,Asian-American,2,Assault,2.0,High School,Anti-Asian,Victim/s, ,Y
+2010,City,GA,Georgia,2010-08-19,0,1,1,1,0,White,Non-Hispanic,1,Burglary,1.0,Apartment Building,Anti-Hispanic,Victim/s, ,N
+1992,Federal,NY,New York,1992-01-11,1,0,3,2,1,Hisp,Not Specified,1,Drug Abuse Violations,1.0,Hotel,Anti-Hispanic,Other, ,Y
+2009,County,NJ,New Jersey,2009-06-30,0,0,2,2,0,Unknown,Not Specified,1,Vandalism,1.0,Street,Anti-American Indian or Alaska Native,Other, ,N
+2012,City,NC,North Carolina,2012-02-01,0,0,1,1,0,White,Non-Hispanic,1,Robbery,1.0,Store,Anti-White,Other, ,Y
+1997,Federal,OH,Ohio,1997-09-27,2,0,2,1,1,Black,Hispanic,2,Assault,2.0,Restaurant,Anti-black or African American,Victim/s, ,N
+2005,State,MN,Minnesota,2005-10-13,0,0,3,2,1,Unknown,Other,1,Criminal Mischief,1.0,Apartment,Anti-Religious,Other, ,Y
+2008,City,WI,Wisconsin,2008-05-04,0,0,4,3,1,Black,Not Specified,1,Assault,1.0,Highway,Anti-Black or African American,Victim/s, ,N
+1999,Federal,WA,Washington,1999-07-18,1,1,1,1,0,Hisp,Hispanic,2,Assault,2.0,Residence,Anti-Hispanic,Victim/s, ,Y
+2002,County,CO,Colorado,2002-12-02,0,0,3,2,1,White,Hispanic,1,Intimidation,1.0,Bar/Apartment,Anti-Mexican,Victim/s, ,N
+2011,City,MD,Florida,2011-03-29,0,1,2,1,1,Asian,Asian-American,1,Vandalism,1.0,Street,Anti-Asian,Victim/s, ,Y
+1996,Federal,OR,Oregon,1996-10-08,1,0,1,1,0,White,Non-Hispanic,1,Assault,1.0,Library,Anti-Bisexual,Other, ,N
+2000,State,MO,Missouri,2000-04-17,2,0,2,1,1,Black,Non-Hispanic,2,Assault,2.0,University,Anti-Black or African American,Victim/s, ,Y
+2007,City,NV,Nevada,2007-09-12,0,0,1,1,0,White,Hispanic,1,Larceny-Theft,1.0,School,Anti-Mexican,Victim/s, ,N
+2003,Federal,UT,Utah,2003-01-20,0,0,3,2,1,Unknown,Other,1,Assault,1.0,Government Building,Anti-American Indian or Alaska Native,Other, ,Y
+1994,County,TN,Tennessee,1994-08-05,1,1,2,1,1,Asian,Asian-American,2,Vandalism,2.0,Shopping Center,Anti-Asian,Victim/s, ,N
+2006,State,SC,South Carolina,2006-02-19,0,0,4,3,1,Black,Hispanic,1,Burglary,1.0,Store,Anti-Hispanic,Other, ,Y
+2014,City,IA,Iowa,2014-07-09,0,0,2,2,0,White,Non-Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,Hotel,Anti-White,Other, ,N
+2001,Federal,KY,Kentucky,2001-03-15,2,0,3,2,1,Black,Not Specified,2,Assault,2.0,Place of Worship,Anti-Gay/Lesbian,Victim/s, ,Y
+1993,County,MS,Mississippi,1993-11-22,0,1,1,1,0,White,Non-Hispanic,1,Robbery,1.0,Residence,Anti-White,Victim/s, ,N
+2010,State,IN,Indiana,2010-06-14,0,0,2,1,1,Hispanic,Hispanic,1,Vandalism,1.0,Gun Shop,Anti-Hispanic,Other, ,Y
+2005,City,AK,Alaska,2005-04-21,1,0,1,1,0,Hisp,Hispanic,1,Assault,1.0,School,Anti-Hispanic,Victim/s, ,N
+1998,Federal,VT,Vermont,1998-09-03,0,0,3,2,1,White,Not Specified,1,Drug Abuse Violations,1.0,Restaurant,Anti-Jewish,Both, ,Y
+2002,County,ME,Maine,2002-05-17,0,0,1,1,0,Black,Non-Hispanic,1,Assault,1.0,Apartment Building,Anti-Black or African American,Other, ,N
+2004,City,WY,Wyoming,2004-12-01,1,1,2,1,1,Unknown,Hispanic,2,Destruction/Damage/Vandalism of Property,2.0,Residence,Anti-Latinx,Victim/s, ,Y
+2009,Federal,MN,Minnesota,2009-11-10,0,0,2,1,1,White,Hispanic,1,Intimidation,1.0,Place of Worship,Anti-Hispanic,Victim/s, ,N
+1991,State,AZ,Arizona,1991-02-25,2,0,1,1,0,Asian,Asian-American,2,Assault,2.0,Community Center,Anti-Asian,Other, ,Y
+2013,City,NM,New Mexico,2013-08-18,0,0,3,2,1,White,Non-Hispanic,1,Assault,1.0,Office Building,Anti-White,Victim/s, ,N
+2007,Federal,GA,Georgia,2007-03-03,0,1,1,1,0,Unknown,Other,1,Robbery,1.0,School,Anti-American Indian or Alaska Native,Victim/s, ,Y
+1999,County,AR,Arkansas,1999-07-11,2,0,3,2,1,White,Hispanic,2,Assault,2.0,Public Park,Anti-Latinx,Victim/s, ,N
+2008,State,AL,Alabama,2008-01-09,0,0,2,1,1,White,Non-Hispanic,1,Larceny-Theft,1.0,Store,Anti-White,Other, ,Y
+2000,City,ID,Idaho,2000-06-24,0,0,1,1,0,Black,Hispanic,1,Assault,1.0,Residence,Anti-Black or African American,Victim/s, ,N
+2003,Federal,NY,New York,2003-09-15,1,0,2,1,1,Hisp,Hispanic,1,Assault,1.0,School,Anti-Hispanic,Victim/s, ,Y
+1994,County,WV,West Virginia,1994-10-31,0,0,3,2,1,White,Other,1,Intimidation,1.0,Apartment,Anti-Gay/Lesbian,Other, ,N
+2012,State,KY,Kentucky,2012-01-29,1,0,1,1,0,Unknown,Hispanic,1,Vandalism,1.0,Store,Anti-Latinx,Victim/s, ,Y
+2006,City,HI,Hawaii,2006-04-05,0,0,2,1,1,Asian,Chinese,1,Burglary,1.0,Apartment,Anti-Asian,Other, ,N
+2011,Federal,RI,Rhode Island,2011-07-12,2,0,1,1,0,White,Hispanic,2,Destruction/Damage/Vandalism of Property,2.0,Restaurant,Anti-Hispanic,Victim/s, ,Y
+1995,County,DE,Delaware,1995-11-18,0,0,3,2,1,Hispanic,Hispanic,1,Assault,1.0,Highway,Anti-Hispanic,Other, ,N
+2009,State,PA,Pennsylvania,2009-03-07,1,1,2,1,1,Unknown,Not Specified,2,Assault,2.0,Apartment,Anti-American Indian or Alaska Native,Victim/s, ,Y
+2010,City,MD,Maine,2010-05-30,1,0,1,1,0,White,Non-Hispanic,1,Vandalism,1.0,School,Anti-White,Victim/s, ,N
+2004,Federal,VA,Virginia,2004-08-13,0,0,2,1,1,Black,Not Specified,1,Assault,1.0,Residence,Anti-Black or African American,Other, ,Y
+1997,County,NH,New Hampshire,1997-06-27,0,1,2,1,1,Hisp,Hispanic,1,Robbery,1.0,Street,Anti-Hispanic,Victim/s, ,N
+2002,State,TX,Texas,2002-12-19,1,0,1,1,0,White,Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,University,Anti-Hispanic,Victim/s, ,Y
+2014,City,MT,Montana,2014-02-02,0,0,3,2,1,White,Not Specified,1,Assault,1.0,Store,Anti-Gay/Lesbian,Other, ,N
+1996,Federal,ME,Maine,1996-09-16,0,0,2,1,1,Black,Hispanic,1,Intimidation,1.0,Restaurant,Anti-Latinx,Other, ,Y
+2005,County,OK,Oklahoma,2005-05-11,2,0,1,1,0,White,Not Specified,2,Assault,2.0,Residence,Anti-White,Victim/s, ,N
+2001,City,NE,Nebraska,2001-08-24,0,0,4,3,1,Unknown,Hispanic,1,Vandalism,1.0,Highway,Anti-Latinx,Other, ,Y
+2013,Federal,FL,Florida,2013-01-08,1,1,1,1,0,White,Hispanic,2,Assault,2.0,Store,Anti-Latinx,Victim/s, ,N
+1993,State,MN,Minnesota,1993-07-04,1,0,3,2,1,Asian,Asian-American,1,Destruction/Damage/Vandalism of Property,1.0,Hotel,Anti-Asian,Other, ,Y
+2008,City,LA,Louisiana,2008-11-15,0,0,2,1,1,Black,Non-Hispanic,1,Assault,1.0,Apartment,Anti-Black or African American,Other, ,N
+2012,Federal,OH,Ohio,2012-04-18,0,1,1,1,0,Unknown,Hispanic,1,Burglary,1.0,School,Anti-Hispanic,Victim/s, ,Y
+2006,County,NJ,New Jersey,2006-09-29,2,0,3,2,1,White,Hispanic,2,Assault,2.0,Residence,Anti-Latinx,Victim/s, ,N
+2003,City,KS,Kansas,2003-05-16,0,0,1,1,0,White,Asian-American,1,Vandalism,1.0,Store,Anti-White,Other, ,Y
+1992,Federal,CT,Connecticut,1992-12-07,0,1,2,1,1,White,Hispanic,1,Assault,1.0,Apartment Building,Anti-Mexican,Victim/s, ,N
+2000,State,IL,Illinois,2000-03-30,1,0,2,1,1,Black,Not Specified,1,Assault,1.0,Street,Anti-Black or African American,Other, ,Y
+2007,City,MI,Michigan,2007-08-21,0,0,1,1,0,Black,Hispanic,1,Felony Assault,1.0,Apartment,Anti-Black or African American,Other, ,N
+2011,Federal,NY,New York,2011-10-14,1,0,1,1,0,White,Hispanic,1,Larceny-Theft,1.0,Restaurant,Anti-Hispanic,Victim/s, ,Y
+2009,County,WI,Wisconsin,2009-01-01,0,0,3,2,1,White,Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,Shop,Anti-Hispanic,Other, ,N
+2014,City,GA,Georgia,2014-06-03,1,1,2,1,1,Unknown,Not Specified,2,Assault,2.0,Residence,Anti-American Indian or Alaska Native,Victim/s, ,Y

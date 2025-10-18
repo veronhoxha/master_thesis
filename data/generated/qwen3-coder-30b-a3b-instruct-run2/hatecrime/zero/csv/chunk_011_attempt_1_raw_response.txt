@@ -1,0 +1,72 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,Federal Agency,CA,California,1991-03-15,1,0,2,1,1,White,Not Hispanic,1,Anti-Religious,1,Residence,Religion,"Adult",No,No
+1992,Local Police,NY,New York,1992-07-22,2,0,3,2,1,Black,Hispanic,2,Anti-Jewish,2,School,Religion,"Adult",No,No
+1993,State Police,FL,Florida,1993-11-08,0,1,1,0,1,White,Not Hispanic,1,Anti-LGBTQ,1,Hospital,Sexual Orientation,"Juvenile",Yes,Yes
+1994,County Sheriff,TX,Texas,1994-02-14,3,0,2,2,0,Hispanic,Hispanic,3,Anti-African American,3,Residence,Race,"Adult",Yes,No
+1995,City Police,IL,Illinois,1995-09-30,1,1,4,2,2,White,Not Hispanic,2,Anti-Asian,2,Public Place,Race,"Adult,Juvenile",Yes,Yes
+1996,Federal Agency,GA,Georgia,1996-05-18,0,2,2,0,2,Black,Not Hispanic,2,Anti-Jewish,2,Church,Religion,"Juvenile",Yes,No
+1997,Local Police,PA,Pennsylvania,1997-12-05,1,0,1,1,0,White,Not Hispanic,1,Anti-Black,1,Store,Race,"Adult",No,No
+1998,State Police,WA,Washington,1998-08-19,2,0,2,1,1,Hispanic,Hispanic,2,Anti-Hispanic,2,School,Holiday,"Adult",No,Yes
+1999,City Police,OH,Ohio,1999-04-10,1,1,3,1,2,White,Not Hispanic,2,Anti-LGBTQ,2,Restaurant,Sexual Orientation,"Adult,Juvenile",No,No
+2000,County Sheriff,MI,Michigan,2000-10-27,0,1,2,0,2,Black,Hispanic,1,Anti-Muslim,1,Residence,Religion,"Juvenile",No,Yes
+2001,Local Police,VA,Virginia,2001-01-03,3,0,4,3,1,White,Not Hispanic,3,Anti-Religious,3,Hospital,Religion,"Adult",No,Yes
+2002,Federal Agency,NC,Carolina,2002-06-17,1,0,1,1,0,Hispanic,Not Hispanic,1,Anti-Jewish,1,School,Religion,"Adult",Yes,No
+2003,State Police,MO,Missouri,2003-03-29,0,1,2,0,2,White,Hispanic,1,Anti-Black,1,Park,Race,"Juvenile",No,No
+2004,City Police,AL,Alabama,2004-11-12,2,0,3,2,1,Black,Not Hispanic,2,Anti-African American,2,Office,Race,"Adult",Yes,Yes
+2005,County Sheriff,NJ,New Jersey,2005-07-05,0,2,3,0,3,White,Not Hispanic,2,Anti-LGBTQ,2,Store,Sexual Orientation,"Juvenile",No,Yes
+2006,Local Police,MA,Massachusetts,2006-02-18,1,0,2,1,1,Hispanic,Hispanic,1,Anti-Religious,1,Hospital,Religion,"Adult",Yes,No
+2007,Federal Agency,MD,Maryland,2007-09-09,3,0,1,1,0,White,Not Hispanic,3,Anti-Jewish,3,Church,Religion,"Adult",Yes,Yes
+2008,State Police,MN,Minnesota,2008-12-21,0,1,1,0,1,Black,Hispanic,1,Anti-Asian,1,Residence,Race,"Juvenile",No,No
+2009,City Police,SC,Carolina,2009-05-15,1,0,3,2,1,White,Not Hispanic,1,Anti-Hispanic,1,Public Place,Holiday,"Adult",Yes,No
+2010,County Sheriff,IN,Indiana,2010-08-30,2,1,2,1,1,Hispanic,Hispanic,3,Anti-LGBTQ,3,Restaurant,Sexual Orientation,"Adult,Juvenile",YES,YES
+2011,Local Police,OR,Oregon,2011-01-23,0,1,2,0,2,White,Not Hispanic,1,Anti-Muslim,1,School,Religion,"Juvenile",No,Yes
+2012,Federal Agency,OK,Oklahoma,2012-04-16,1,0,1,1,0,Black,Not Hispanic,1,Anti-Religious,1,Store,Religion,"Adult",No,Yes
+2013,State Police,KY,Kentucky,2013-10-08,1,1,4,2,2,White,Hispanic,2,Anti-Jewish,2,Hospital,Religion,"Adult,Juvenile",No,No
+2014,City Police,NE,Nebraska,2014-07-25,3,0,1,1,0,Hispanic,Hispanic,3,Anti-Black,3,Residence,Race,"Adult",Yes,No
+1992,County Sheriff,VT,Vermon,1992-12-11,0,1,2,0,2,White,Not Hispanic,1,Anti-Asian,1,Public Place,Race,"Juvenile",Yes,Yes
+1993,Local Police,AZ,Arizona,1993-06-07,1,0,3,2,1,Black,Hispanic,1,Anti-Hispanic,1,Store,Holiday,"Adult",No,No
+1994,Federal Agency,DE,Delaware,1994-03-30,2,0,2,1,1,White,Not Hispanic,2,Anti-LGBTQ,2,School,Sexual Orientation,"Adult",Yes,Yes
+1995,State Police,AR,Arkansas,1995-09-18,0,2,1,0,1,Hispanic,Hispanic,2,Anti-Muslim,2,Restaurant,Religion,"Juvenile",No,No
+1996,City Police,WV,West Virginia,1996-05-22,1,1,3,1,2,White,Not Hispanic,2,Anti-Religious,2,Office,Religion,"Adult,Juvenile",Yes,No
+1997,County Sheriff,TN,Tennessee,1997-11-04,3,0,2,2,0,Black,Not Hispanic,3,Anti-Jewish,3,Hospital,Religion,"Adult",Yes,Yes
+1998,Local Police,LA,Louisiana,1998-01-13,1,0,1,1,0,White,Hispanic,1,Anti-African American,1,Store,Race,"Adult",No,No
+1999,Federal Agency,WI,Wisconsin,1999-08-27,0,1,4,0,4,Hispanic,Hispanic,1,Anti-LGBTQ,1,Church,Sexual Orientation,"Juvenile",No,Yes
+2000,State Police,MS,Mississippi,2000-02-19,2,0,2,1,1,White,Not Hispanic,2,Anti-Religious,2,Park,Religion,"Adult",No,Yes
+2001,City Police,VT,Vermon,2001-04-05,0,1,3,0,3,Black,Hispanic,1,Anti-Jewish,1,Residence,Religion,"Juvenile",Yes,No
+2002,County Sheriff,CO,Colorado,2002-07-31,1,0,1,1,0,White,Not Hispanic,1,Anti-Asian,1,School,Race,"Adult",No,Yes
+2003,Local Police,RI,Rhode Island,2003-10-10,3,0,2,2,0,Hispanic,Hispanic,3,Anti-Hispanic,3,Restaurant,Holiday,"Adult",Yes,No
+2004,Federal Agency,CT,Connecticut,2004-02-17,0,2,1,0,1,White,Not Hispanic,2,Anti-LGBTQ,2,Church,Sexual Orientation,"Juvenile",No,Yes
+2005,State Police,NH,New Hampshire,2005-12-23,1,1,3,1,2,Hispanic,Hispanic,2,Anti-Muslim,2,Store,Religion,"Adult,Juvenile",No,No
+2006,City Police,NM,New Mexico,2006-06-14,1,0,2,1,1,White,Not Hispanic,1,Anti-Religious,1,Hospital,Religion,"Adult",Yes,Yes
+2007,County Sheriff,AK,Alaska,2007-03-30,2,0,3,2,1,Black,Hispanic,2,Anti-Jewish,2,Residence,Religion,"Adult",No,No
+2008,Local Police,MN,Minnesota,2008-11-08,0,1,1,0,1,White,Not Hispanic,1,Anti-African American,1,Public Place,Race,"Juvenile",No,Yes
+2009,Federal Agency,NY,New York,2009-09-02,1,0,4,2,2,Hispanic,Hispanic,1,Anti-LGBTQ,1,Restaurant,Sexual Orientation,"Adult",Yes,Yes
+2010,State Police,FL,Florida,2010-07-15,3,0,2,1,1,White,Not Hispanic,3,Anti-Religious,3,Store,Religion,"Adult",No,No
+2011,City Police,GA,Georgia,2011-05-28,0,2,3,0,3,Black,Not Hispanic,2,Anti-Jewish,2,Church,Religion,"Juvenile",Yes,No
+2012,County Sheriff,TX,Texas,2012-01-11,1,0,1,1,0,White,Hispanic,1,Anti-Black,1,Park,Race,"Adult",No,Yes
+2013,Local Police,IL,Illinois,2013-08-17,2,0,2,2,0,Hispanic,Hispanic,2,Anti-Asian,2,School,Race,"Adult",No,No
+2014,Federal Agency,PA,Pennsylvania,2014-04-30,0,1,1,0,1,White,Not Hispanic,1,Anti-Hispanic,1,Residence,Holiday,"Juvenile",Yes,Yes
+1991,State Police,OH,Ohio,1991-12-05,1,1,3,1,2,Black,Hispanic,2,Anti-LGBTQ,2,Restaurant,Sexual Orientation,"Adult,Juvenile",No,Yes
+1992,City Police,VA,Virginia,1992-02-18,3,0,2,2,0,White,Not Hispanic,3,Anti-Muslim,3,Office,Religion,"Adult",Yes,No
+1993,County Sheriff,MD,Maryland,1993-09-10,0,2,3,0,3,Hispanic,Hispanic,2,Anti-Religious,2,Church,Religion,"Juvenile",No,No
+1994,Local Police,MN,Minnesota,1994-06-23,1,1,1,1,0,White,Not Hispanic,2,Anti-Jewish,2,Store,Religion,"Adult,Juvenile",Yes,Yes
+1995,Federal Agency,MI,Michigan,1995-11-12,2,0,4,2,2,Black,Hispanic,2,Anti-African American,2,School,Race,"Adult",No,No
+1996,State Police,SC,Carolina,1996-03-08,0,2,2,0,2,White,Not Hispanic,2,Anti-LGBTQ,2,Residence,Sexual Orientation,"Juvenile",Yes,Yes
+1997,City Police,NC,Carolina,1997-10-21,1,0,1,1,0,Hispanic,Hispanic,1,Anti-Hispanic,1,Public Place,Holiday,"Adult",No,No
+1998,County Sheriff,TN,Tennessee,1998-05-27,3,0,3,2,1,White,Not Hispanic,3,Anti-Religious,3,Hospital,Religion,"Adult",Yes,Yes
+1999,Local Police,CA,California,1999-07-14,0,1,2,0,2,Black,Not Hispanic,1,Anti-Jewish,1,Restaurant,Religion,"Juvenile",No,No
+2000,Federal Agency,OR,Oregon,2000-01-31,2,0,1,1,0,White,Hispanic,2,Anti-Black,2,Church,Race,"Adult",No,Yes
+2001,State Police,WY,Wyoming,2001-08-19,1,1,3,1,2,Hispanic,Hispanic,2,Anti-Asian,2,Store,Race,"Adult,Juvenile",Yes,No
+2002,City Police,VT,Vermon,2002-12-03,0,1,2,0,2,White,Not Hispanic,1,Anti-LGBTQ,1,Residence,Sexual Orientation,"Juvenile",No,Yes
+2003,County Sheriff,WI,Wisconsin,2003-04-16,1,0,1,1,0,Black,Hispanic,1,Anti-Muslim,1,School,Religion,"Adult",No,Yes
+2004,Local Police,NJ,New Jersey,2004-11-28,2,0,2,2,0,White,Not Hispanic,2,Anti-Religious,2,Office,Religion,"Adult",Yes,No
+2005,Federal Agency,IN,Indiana,2005-02-22,0,1,2,0,2,Hispanic,Hispanic,1,Anti-Jewish,1,Hospital,Religion,"Juvenile",No,No
+2006,State Police,GA,Georgia,2006-09-13,1,1,3,1,2,White,Not Hispanic,2,Anti-African American,2,School,Race,"Adult,Juvenile",Yes,Yes
+2007,City Police,KY,Kentucky,2007-06-06,3,0,1,1,0,Hispanic,Hispanic,3,Anti-LGBTQ,3,Restaurant,Sexual Orientation,"Adult",No,No
+2008,County Sheriff,TX,Texas,2008-03-22,0,2,3,0,3,White,Not Hispanic,2,Anti-Religious,2,Store,Religion,"Juvenile",No,Yes
+2009,Local Police,AL,Alabama,2009-10-08,1,0,1,1,0,Black,Hispanic,1,Anti-Hispanic,1,Residence,Holiday,"Adult",Yes,Yes
+2010,Federal Agency,AR,Arkansas,2010-07-29,2,1,2,1,1,White,Not Hispanic,3,Anti-Jewish,3,Church,Religion,"Adult,Juvenile",No,No
+2011,State Police,NE,Nebraska,2011-12-15,0,2,4,0,4,Hispanic,Hispanic,2,Anti-LGBTQ,2,Park,Sexual Orientation,"Juvenile",Yes,Yes
+2012,City Police,WV,West Virginia,2012-05-23,1,0,1,1,0,White,Not Hispanic,1,Anti-Muslim,1,Public Place,Religion,"Adult",No,No
+2013,County Sheriff,NM,New Mexico,2013-01-17,3,0,2,2,0,Black,Not Hispanic,3,Anti-Religious,3,Restaurant,Religion,"Adult",Yes,Yes
+2014,Local Police,CT,Connecticut,2014-09-10,0,1,1,0,1,White,Hispanic,1,Anti-Jewish,1,Office,Religion,"Juvenile",No,No

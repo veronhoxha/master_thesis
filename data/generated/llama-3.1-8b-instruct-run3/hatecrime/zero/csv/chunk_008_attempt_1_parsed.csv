@@ -1,0 +1,38 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1993,Federal Bureau of Investigation,CA,California,1993-04-20,1,0,5,3,2,White,Non-Hispanic,2,Simple Assault,2,Parks and recreational areas,Anti-White,Adult,Y,Y
+1996,City Police Department,NY,New York,1996-07-15,0,1,2,1,1,Asian,Hispanic,1,Intimidation,1,Residential areas,Anti-Asian,Juvenile,N,N
+2000,County Sheriff's Department,TX,Texas,2000-10-12,2,0,4,2,2,Black,Non-Hispanic,3,Aggravated Assault,3,Businesses and services,Anti-Black,Adult,Y,Y
+1995,State Police Department,OH,Ohio,1995-02-18,3,0,6,4,2,White,Non-Hispanic,4,Vandalism,4,Roadways and highways,Anti-White,Adult,Y,Y
+2001,City Police Department,FL,Florida,2001-05-25,1,0,3,2,1,Hispanic,Non-Hispanic,2,Hate Crime Against Individuals: Other,2,Parks and recreational areas,Anti-Hispanic,Adult,Y,Y
+1992,Federal Bureau of Investigation,IL,Illinois,1992-09-10,0,1,4,2,2,Native American,Non-Hispanic,1,Simple Assault,1,Residential areas,Anti-Native American,Juvenile,N,N
+2005,County Sheriff's Department,GA,Georgia,2005-11-22,2,0,5,3,2,Black,Non-Hispanic,3,Hate Crime Against Individuals: Other,3,Businesses and services,Anti-Black,Adult,Y,Y
+2003,City Police Department,MI,Michigan,2003-08-20,1,0,2,1,1,White,Non-Hispanic,2,Vandalism,2,Parks and recreational areas,Anti-White,Adult,Y,Y
+1998,State Police Department,NJ,New Jersey,1998-01-15,3,0,6,4,2,Asian,Non-Hispanic,4,Hate Crime Against Individuals: Other,4,Roadways and highways,Anti-Asian,Adult,Y,Y
+2008,Federal Bureau of Investigation,PA,Pennsylvania,2008-03-18,2,0,4,2,2,Black,Non-Hispanic,3,Simple Assault,3,Residential areas,Anti-Black,Adult,Y,Y
+2009,City Police Department,CT,Connecticut,2009-09-10,1,0,3,2,1,Hispanic,Non-Hispanic,2,Vandalism,2,Parks and recreational areas,Anti-Hispanic,Adult,Y,Y
+1997,County Sheriff's Department,NC,North Carolina,1997-06-25,2,0,5,3,2,White,Non-Hispanic,3,Hate Crime Against Individuals: Other,3,Businesses and services,Anti-White,Adult,Y,Y
+2006,State Police Department,IN,Indiana,2006-12-20,1,0,2,1,1,Asian,Non-Hispanic,2,Vandalism,2,Roadways and highways,Anti-Asian,Adult,Y,Y
+2004,Federal Bureau of Investigation,KY,Kentucky,2004-07-10,0,1,3,2,1,Black,Non-Hispanic,1,Simple Assault,1,Residential areas,Anti-Black,Juvenile,N,N
+1999,City Police Department,SC,South Carolina,1999-03-25,3,0,6,4,2,White,Non-Hispanic,4,Hate Crime Against Individuals: Other,4,Businesses and services,Anti-White,Adult,Y,Y
+2007,County Sheriff's Department,WI,Wisconsin,2007-10-15,2,0,5,3,2,Native American,Non-Hispanic,3,Hate Crime Against Individuals: Other,3,Parks and recreational areas,Anti-Native American,Adult,Y,Y
+2002,State Police Department,AR,Arkansas,2002-09-18,1,0,2,1,1,Hispanic,Non-Hispanic,2,Vandalism,2,Roadways and highways,Anti-Hispanic,Adult,Y,Y
+1994,Federal Bureau of Investigation,AL,Alabama,1994-05-10,0,1,4,2,2,Asian,Non-Hispanic,1,Simple Assault,1,Residential areas,Anti-Asian,Juvenile,N,N
+2000,County Sheriff's Department,OK,Oklahoma,2000-01-20,2,0,5,3,2,White,Non-Hispanic,3,Hate Crime Against Individuals: Other,3,Businesses and services,Anti-White,Adult,Y,Y
+1996,City Police Department,TN,Tennessee,1996-11-25,3,0,6,4,2,Black,Non-Hispanic,4,Vandalism,4,Parks and recreational areas,Anti-Black,Adult,Y,Y
+2001,State Police Department,MS,Mississippi,2001-06-10,1,0,2,1,1,White,Non-Hispanic,2,Vandalism,2,Roadways and highways,Anti-White,Adult,Y,Y
+1992,County Sheriff's Department,LA,Louisiana,1992-08-10,0,1,3,2,1,Native American,Non-Hispanic,1,Simple Assault,1,Residential areas,Anti-Native American,Juvenile,N,N
+2003,Federal Bureau of Investigation,NV,Nevada,2003-04-20,2,0,4,2,2,Asian,Non-Hispanic,3,Simple Assault,3,Businesses and services,Anti-Asian,Adult,Y,Y
+1995,City Police Department,UT,Utah,1995-09-15,1,0,2,1,1,Hispanic,Non-Hispanic,2,Vandalism,2,Parks and recreational areas,Anti-Hispanic,Adult,Y,Y
+2009,County Sheriff's Department,MO,Missouri,2009-01-10,2,0,5,3,2,Black,Non-Hispanic,3,Hate Crime Against Individuals: Other,3,Businesses and services,Anti-Black,Adult,Y,Y
+1998,State Police Department,IA,Iowa,1998-06-20,3,0,6,4,2,White,Non-Hispanic,4,Hate Crime Against Individuals: Other,4,Roadways and highways,Anti-White,Adult,Y,Y
+2008,City Police Department,DE,Delaware,2008-12-15,1,0,3,2,1,Native American,Non-Hispanic,2,Vandalism,2,Parks and recreational areas,Anti-Native American,Adult,Y,Y
+2002,Federal Bureau of Investigation,RI,Rhode Island,2002-01-20,0,1,2,1,1,Asian,Non-Hispanic,1,Simple Assault,1,Residential areas,Anti-Asian,Juvenile,N,N
+2005,County Sheriff's Department,VT,Vermont,2005-03-10,2,0,5,3,2,Black,Non-Hispanic,3,Hate Crime Against Individuals: Other,3,Businesses and services,Anti-Black,Adult,Y,Y
+2006,State Police Department,ND,North Dakota,2006-08-18,1,0,2,1,1,Hispanic,Non-Hispanic,2,Vandalism,2,Roadways and highways,Anti-Hispanic,Adult,Y,Y
+2007,City Police Department,MT,Montana,2007-09-25,3,0,6,4,2,White,Non-Hispanic,4,Hate Crime Against Individuals: Other,4,Parks and recreational areas,Anti-White,Adult,Y,Y
+2008,Federal Bureau of Investigation,WY,Wyoming,2008-04-10,2,0,5,3,2,Native American,Non-Hispanic,3,Simple Assault,3,Residential areas,Anti-Native American,Adult,Y,Y
+2004,County Sheriff's Department,ID,Idaho,2004-11-18,1,0,2,1,1,Asian,Non-Hispanic,2,Vandalism,2,Roadways and highways,Anti-Asian,Adult,Y,Y
+2003,State Police Department,MN,Minnesota,2003-07-20,0,1,3,2,1,Black,Non-Hispanic,1,Simple Assault,1,Residential areas,Anti-Black,Juvenile,N,N
+2002,City Police Department,NH,New Hampshire,2002-03-10,2,0,5,3,2,White,Non-Hispanic,3,Hate Crime Against Individuals: Other,3,Businesses and services,Anti-White,Adult,Y,Y
+1997,Federal Bureau of Investigation,CO,Colorado,1997-01-18,3,0,6,4,2,Hispanic,Non-Hispanic,4,Vandalism,4,Parks and recreational areas,Anti-Hispanic,Adult,Y,Y
+2005,County Sheriff's Department,SD,South Dakota,2005-06-20,1,0,2,1,1,Native American,Non-Hispanic,2,Vandalism,2,Roadways and highways,Anti-Native American,Adult,Y,Y

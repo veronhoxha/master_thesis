@@ -1,0 +1,56 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1992,County,CA,California,1992-03-15,0,1,1,1,0,White,Hispanic,1,Assault,1.0,Residence,Anti-Hispanic,Child,S,N
+2001,Tribal,OK,Oklahoma,2001-07-22,0,1,2,1,1,Unknown,Unknown,1,Intimidation,1.0,Restaurant,Anti-American Indian or Alaska Native,Child,S,N
+1995,Municipal,TX,Texas,1995-11-08,1,0,1,1,0,White,Non-Hispanic,1,Fearful Threat,1.0,Hallway,Anti-Jewish,Adult,S,N
+1998,State,FL,Florida,1998-02-14,0,0,1,1,0,Black,Non-Hispanic,0,Intimidation,0.0,Office Building,Anti-Black or African American,Adult,S,N
+2003,City,NC,North Carolina,2003-09-17,0,0,2,1,1,White,Non-Hispanic,0,Assault,0.0,Highway,Anti-Male,Adult,S,S
+1997,Municipal,IN,Indiana,1997-12-05,0,1,1,1,0,Unknown,Unknown,1,Assault,1.0,University,Anti-Gay or Lesbian,Child,S,N
+2000,County,GA,Georgia,2000-01-29,0,0,1,1,0,White,Non-Hispanic,0,Fearful Threat,0.0,Government Building,Anti-African American,Adult,S,N
+1993,Municipal,MD, Maryland,1993-08-11,1,0,1,1,0,Asian,Non-Hispanic,1,"Destruction/Damage/Vandalism of Property",1.0,Religious Facility,Anti-Asian,Adult,S,N
+2005,State,WI,Wisconsin,2005-04-19,0,1,1,0,1,White,Non-Hispanic,1,Assault,1.0,Public Park,Anti-Female,Child,S,N
+2008,Municipal,VA,Virginia,2008-10-23,1,0,1,1,0,Other,Hispanic,1,Intimidation,1.0,School/College,Anti-Hispanic,Adult,S,N
+1996,Municipal,LA,Louisiana,1996-06-30,0,0,2,2,0,Black,Non-Hispanic,0,Assault,0.0,Museum,Anti-Black or African American,Adult,S,N
+2002,City,OH,Ohio,2002-11-04,0,1,1,0,1,Unknown,Unknown,1,Fearful Threat,1.0,Library,Anti-Disabled,Child,S,N
+2007,Municipal,OR,Oregon,2007-03-18,0,0,1,1,0,White,Non-Hispanic,0,Intimidation,0.0,Community Center,Anti-LGBTQ,Adult,S,N
+1999,County,MA,Massachusetts,1999-12-02,1,0,1,1,0,White,Non-Hispanic,1,Assault,1.0,Store,Anti-African American,Adult,S,N
+2004,Municipal,AR,Arkansas,2004-05-13,0,0,1,1,0,Asian,Non-Hispanic,0,Intimidation,0.0,School/College,Anti-Asian,Adult,S,N
+2010,City,WY,Wyoming,2010-01-22,1,0,1,1,0,Hispanic,Hispanic,1,Fearful Threat,1.0,Hospital,Anti-Hispanic,Adult,S,N
+2006,State,NE,Nebraska,2006-08-27,0,1,1,0,1,White,Non-Hispanic,1,Assault,1.0,Public Transportation,Anti-Jewish,Child,S,N
+1994,Municipal,NJ,New Jersey,1994-10-10,0,0,2,2,0,White,Non-Hispanic,0,Fearful Threat,0.0,Shopping Mall,Anti-Male,Adult,S,S
+2009,City,MT,Montana,2009-04-01,0,0,1,1,0,Black,Non-Hispanic,0,Intimidation,0.0,Park,Anti-African American,Adult,S,N
+2011,County,NV,Nevada,2011-07-14,1,0,1,1,0,White,Non-Hispanic,1,Assault,1.0,Church,Anti-Jewish,Adult,S,N
+1991,Municipal,VT, Vermont,1991-09-28,0,1,1,0,1,White,Non-Hispanic,1,Fearful Threat,1.0,School/College,Anti-Gay or Lesbian,Child,S,N
+1992,City,KY,Kentucky,1992-02-19,0,0,1,1,0,Unknown,Unknown,0,Intimidation,0.0,Office Building,Anti-American Indian or Alaska Native,Adult,S,N
+2003,Status,SD,South Dakota,2003-11-03,0,1,2,1,1,Black,Non-Hispanic,1,Assault,1.0,Highway,Anti-Black or African American,Child,S,S
+2005,Tribal,WA,Washington,2005-03-30,1,0,1,1,0,White,Non-Hispanic,1,Fearful Threat,1.0,Residence,Anti-Hispanic,Adult,S,N
+2001,Municipal,CT,Connecticut,2001-12-08,0,0,2,1,1,White,Non-Hispanic,0,Assault,0.0,Restaurants,Anti-Male,Adult,S,S
+1998,Municipal,IL,Illinois,1998-07-22,0,0,1,1,0,Black,Non-Hispanic,0,Fearful Threat,0.0,Community Center,Anti-Black or African American,Adult,S,N
+2013,County,NH,New Hampshire,2013-06-16,0,1,1,0,1,Other,Hispanic,1,Assault,1.0,School/College,Anti-Hispanic,Child,S,N
+2000,State,SC, South Carolina,2000-05-04,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1.0,Church,Anti-African American,Adult,S,N
+2008,Municipal,MO,Missouri,2008-01-26,0,0,1,1,0,Hispanic,Hispanic,0,Fearful Threat,0.0,Store,Anti-Hispanic,Adult,S,N
+1997,City,PA,Pennsylvania,1997-09-12,0,1,1,0,1,White,Non-Hispanic,1,Assault,1.0,University,Anti-Gay or Lesbian,Child,S,N
+2012,Municipal,TN,Tennessee,2012-10-05,0,0,1,1,0,White,Non-Hispanic,0,Intimidation,0.0,Shopping Mall,Anti-Male,Adult,S,N
+2004,County,ID,Idaho,2004-04-19,0,1,1,1,0,Unknown,Unknown,1,Fearful Threat,1.0,School/College,Anti-LGBTQ,Child,S,N
+2006,Municipal,KS,Kansas,2006-11-30,1,0,1,1,0,Black,Non-Hispanic,1,Assault,1.0,Hallway,Anti-Black or African American,Adult,S,N
+1995,State,DE,Delaware,1995-07-07,0,0,2,1,1,White,Non-Hispanic,0,Intimidation,0.0,Public Park,Anti-Hispanic,Adult,S,S
+2002,City,RI,Rhode Island,2002-03-14,0,1,1,0,1,White,Non-Hispanic,1,Fearful Threat,1.0,Hospital,Anti-Female,Child,S,N
+2009,County,MN,Minnesota,2009-05-21,0,0,1,1,0,Asian,Non-Hispanic,0,Assault,0.0,School/College,Anti-Asian,Adult,S,N
+1996,Municipal,NY,New York,1996-12-17,1,0,1,1,0,Black,Non-Hispanic,1,Intimidation,1.0,Public Transportation,Anti-Black or African American,Adult,S,N
+2014,City,HI,Hawaii,2014-02-28,0,0,2,2,0,White,Non-Hispanic,0,Fearful Threat,0.0,Residence,Anti-Male,Adult,S,S
+2003,State,AL,Alabama,2003-08-10,0,1,1,0,1,Unknown,Unknown,1,Assault,1.0,Library,Anti-Disabled,Child,S,N
+1999,County,UT,Utah,1999-06-15,0,0,1,1,0,White,Non-Hispanic,0,Intimidation,0.0,Office Building,Anti-Jewish,Adult,S,N
+2007,Municipal,MS,Mississippi,2007-09-02,1,0,1,1,0,Hispanic,Hispanic,1,Fearful Threat,1.0,Museum,Anti-Hispanic,Adult,S,N
+2001,Tribal,CO,Colorado,2001-11-23,0,1,1,0,1,White,Non-Hispanic,1,Assault,1.0,Residence,Anti-Gay or Lesbian,Child,S,N
+1993,City,ME,Maine,1993-04-04,0,0,1,1,0,Other,Hispanic,0,Fearful Threat,0.0,Store,Anti-Hispanic,Adult,S,N
+2005,Municipal,MN,Minnesota,2005-07-18,0,1,2,1,1,White,Non-Hispanic,1,Assault,1.0,School/College,Anti-American Indian or Alaska Native,Child,S,S
+2000,County,DC,District of Columbia,2000-01-13,1,0,1,1,0,Black,Non-Hispanic,1,Intimidation,1.0,Hospital,Anti-Black or African American,Adult,S,N
+2010,Municipal,OH,Ohio,2010-12-03,0,0,2,2,0,White,Non-Hispanic,0,Assault,0.0,Park,Anti-Male,Adult,S,S
+1994,City,AR,Arkansas,1994-03-26,0,1,1,0,1,White,Non-Hispanic,1,Fearful Threat,1.0,Government Building,Anti-Female,Child,S,N
+2002,State,IA,Iowa,2002-08-18,0,0,1,1,0,Asian,Non-Hispanic,0,Intimidation,0.0,University,Anti-Asian,Adult,S,N
+2004,Tribal,FL,Florida,2004-11-11,0,0,1,1,0,White,Non-Hispanic,0,Assault,0.0,School/College,Anti-Male,Adult,S,N
+2008,Municipal,WV,West Virginia,2008-05-30,1,0,1,1,0,Black,Non-Hispanic,1,Fearful Threat,1.0,Government Building,Anti-Black or African American,Adult,S,N
+1996,Municipal,NM,New Mexico,1996-02-07,0,1,2,1,1,Other,Hispanic,1,Intimidation,1.0,Office Building,Anti-Hispanic,Child,S,S
+2013,City,MI,Michigan,2013-04-12,0,0,1,1,0,White,Non-Hispanic,0,Assault,0.0,School/College,Anti-Male,Adult,S,N
+2009,County,NC,North Carolina,2009-10-29,0,1,1,0,1,Black,Non-Hispanic,1,Fearful Threat,1.0,Community Center,Anti-Gay or Lesbian,Child,S,N
+1992,Municipal,MJ,Maryland,1992-07-24,1,0,1,1,0,Hispanic,Hispanic,1,Intimidation,1.0,Museum,Anti-Hispanic,Adult,S,N
+2006,State,MN,Minnesota,2006-03-15,0,0,1,1,0,White,Non-Hispanic,0,Assault,0.0,Restaurants,Anti-Male,Adult,S,N

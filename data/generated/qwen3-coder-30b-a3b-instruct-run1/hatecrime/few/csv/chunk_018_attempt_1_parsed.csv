@@ -1,0 +1,55 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1992,City,NY,New York,1992-03-15,1.0,0.0,2,1.0,1.0,White,Not Hispanic or Latino,2,Assault,2.0,Residence,Anti-Jewish,Individual,S,S
+2001,City,TX,Texas,2001-07-22,0.0,1.0,1,0.0,1.0,Hispanic,Hispanic,1,Simple Assault,1.0,Restaurant,Anti-Hispanic,Individual,S,S
+1995,County,FL,Florida,1995-11-08,2.0,0.0,3,2.0,1.0,Black or African American,Not Specified,3,Aggravated Assault,3.0,School/College,Anti-Black or African American,Individual,S,S
+1999,City,GA,Georgia,1999-02-14,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Harassment,1.0,Hospital,Anti-White,Individual,S,S
+2005,City,CA,California,2005-09-30,0.0,2.0,2,0.0,2.0,Asian,Not Hispanic or Latino,2,Felony Assault,2.0,Store,Anti-Asian,Individual,S,S
+1993,County,VA,Virginia,1993-06-11,1.0,0.0,1,1.0,0.0,Native American,Not Specified,1,Petty Theft,1.0,Church,Anti-American Indian or Alaska Native,Individual,S,S
+2008,City,WI,Wisconsin,2008-04-19,0.0,1.0,2,0.0,2.0,White,Not Hispanic or Latino,1,Assault,1.0,School/College,Anti-White,Individual,S,S
+1998,Private,MN,Minnesota,1998-12-03,1.0,0.0,3,1.0,2.0,Black or African American,Not Specified,4,Assault,1.0,Residence,Anti-Black or African American,Individual,S,S
+2003,City,IL,Illinois,2003-01-28,0.0,1.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Office Building,Anti-Asian,Individual,S,S
+1996,City,OH,Ohio,1996-05-17,2.0,0.0,4,2.0,2.0,White,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2.0,Street/Avenue,Other,Anti-White,Individual,S
+2010,City,NJ,New Jersey,2010-08-21,1.0,0.0,1,1.0,0.0,Hispanic,Hispanic,1,Petty Theft,1.0,Hospital,Anti-Hispanic,Individual,S,S
+1994,City,NJ,New Jersey,1994-03-23,0.0,2.0,2,0.0,2.0,White,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2.0,Store,Anti-White,Individual,S,S
+2007,City,PA,Pennsylvania,2007-07-04,1.0,0.0,2,1.0,1.0,White,Not Hispanic or Latino,3,Simple Assault,1.0,Restaurant,Anti-White,Individual,S,S
+1991,State,MI,Michigan,1991-10-12,1.0,1.0,3,1.0,2.0,Black or African American,Not Specified,2,Assault,2.0,Store,Anti-Black or African American,Individual,S,S
+2006,City,NJ,New Jersey,2006-05-02,0.0,1.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Assault,1.0,Restaurant,Anti-White,Individual,S,S
+1997,County,FL,Florida,1997-08-29,2.0,0.0,3,2.0,1.0,Hispanic,Hispanic,3,Assault,3.0,School/College,Anti-Hispanic,Individual,S,S
+2011,City,TX,Texas,2011-02-18,0.0,2.0,2,0.0,2.0,Asian,Not Hispanic or Latino,2,Simple Assault,2.0,Residence,Anti-Asian,Individual,S,S
+2002,City,NC,North Carolina,2002-04-07,1.0,0.0,2,1.0,1.0,White,Not Hispanic or Latino,2,Harassment,2.0,School/College,Anti-White,Individual,S,S
+1994,City,CO,Colorado,1994-11-30,0.0,1.0,1,0.0,1.0,Black or African American,Not Specified,1,Simple Assault,1.0,University,Anti-Black or African American,Individual,S,S
+2009,City,GA,Georgia,2009-06-25,2.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,2,Assault,2.0,Hospital,Anti-White,Individual,S,S
+2000,City,OR,Oregon,2000-01-15,1.0,0.0,2,1.0,1.0,Hispanic,Hispanic,3,Burglary,1.0,Residence,Anti-Hispanic,Individual,S,S
+1999,City,WY,Wyoming,1999-09-21,0.0,2.0,1,0.0,1.0,Asian,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2.0,Store,Anti-Asian,Individual,S,S
+2004,City,WA,Washington,2004-03-12,1.0,0.0,3,1.0,2.0,White,Not Hispanic or Latino,4,Aggravated Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Individual,S,S
+2005,County,NE,Nebraska,2005-08-07,0.0,1.0,2,0.0,2.0,White,Not Hispanic or Latino,1,Felony Assault,1.0,Church,Anti-White,Individual,S,S
+1993,City,AK,Alaska,1993-05-14,2.0,0.0,2,2.0,0.0,Black or African American,Not Specified,2,Assault,2.0,School/College,Anti-Black or African American,Individual,S,S
+2012,City,VT,Vermont,2012-04-09,1.0,0.0,1,1.0,0.0,Hispanic,Hispanic,1,Simple Assault,1.0,Residence,Anti-Hispanic,Individual,S,S
+1995,City,SC,South Carolina,1995-12-01,0.0,1.0,2,0.0,2.0,White,Not Hispanic or Latino,1,Assault,1.0,Store,Anti-White,Individual,S,S
+2013,City,SD,South Dakota,2013-07-22,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Office Building,Anti-White,Individual,S,S
+2001,City,WA,Washington,2001-02-10,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Harassment,1.0,School/College,Anti-Asian,Individual,S,S
+2008,City,ID,Idaho,2008-09-25,0.0,2.0,1,0.0,1.0,Hispanic,Hispanic,2,Assault,2.0,Restaurant,Anti-Hispanic,Individual,S,S
+1992,City,GA,Georgia,1992-03-19,1.0,0.0,3,1.0,2.0,White,Not Hispanic or Latino,3,Aggravated Assault,1.0,Store,Anti-White,Individual,S,S
+2003,City,MD,Maryland,2003-10-17,0.0,1.0,2,0.0,2.0,Black or African American,Not Specified,1,Simple Assault,1.0,Residence,Anti-Black or African American,Individual,S,S
+2010,City,AR,Arkansas,2010-06-22,2.0,0.0,2,2.0,0.0,White,Not Hispanic or Latino,2,Assault,2.0,Hospital,Anti-White,Individual,S,S
+2006,City,HI,Hawaii,2006-05-08,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Petty Theft,1.0,Street/Avenue,Other,Anti-Asian,Individual,S
+1996,City,NH,New Hampshire,1996-08-19,0.0,1.0,2,0.0,2.0,White,Not Hispanic or Latino,1,Felony Assault,1.0,Church,Anti-White,Individual,S,S
+2011,City,DE,Delaware,2011-12-20,1.0,0.0,3,1.0,2.0,Black or African American,Not Specified,2,Simple Assault,1.0,University,Anti-Black or African American,Individual,S,S
+2004,City,RI,Rhode Island,2004-01-26,0.0,2.0,1,0.0,1.0,Hispanic,Hispanic,2,Aggravated Assault,2.0,Store,Anti-Hispanic,Individual,S,S
+1998,City,KY,Kentucky,1998-03-31,1.0,0.0,2,1.0,1.0,White,Not Hispanic or Latino,3,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-White,Individual,S,S
+2000,City,NV,Nevada,2000-07-15,0.0,1.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Assault,1.0,Restaurant,Anti-Asian,Individual,S,S
+2007,County,CA,California,2007-04-01,2.0,0.0,2,2.0,0.0,White,Not Hispanic or Latino,2,Harassment,2.0,School/College,Anti-White,Individual,S,S
+1994,City,VT,Vermont,1994-02-28,1.0,0.0,3,1.0,2.0,Hispanic,Hispanic,3,Assault,3.0,Hospital,Anti-Hispanic,Individual,S,S
+2009,City,AZ,Arizona,2009-11-13,0.0,1.0,1,0.0,1.0,Black or African American,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-Black or African American,Individual,S,S
+2002,City,LA,Louisiana,2002-08-30,1.0,0.0,2,1.0,1.0,White,Not Hispanic or Latino,2,Simple Assault,2.0,Store,Anti-White,Individual,S,S
+1997,City,MN,Minnesota,1997-06-11,0.0,2.0,1,0.0,1.0,Asian,Not Hispanic or Latino,2,Assault,2.0,Restaurant,Anti-Asian,Individual,S,S
+2003,County,VT,Vermont,2003-09-24,1.0,0.0,3,1.0,2.0,White,Not Hispanic or Latino,4,Murder,1.0,School/College,Anti-White,Individual,S,S
+2005,City,MS,Mississippi,2005-01-06,0.0,1.0,1,0.0,1.0,Hispanic,Hispanic,1,Aggravated Assault,1.0,Street/Avenue,Anti-Hispanic,Individual,S,S
+2008,City,ME,Maine,2008-05-02,2.0,0.0,4,2.0,2.0,Black or African American,Not Specified,2,Assault,2.0,Office Building,Anti-Black or African American,Individual,S,S
+2001,City,PA,Pennsylvania,2001-04-14,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Petty Theft,1.0,Residence,Anti-White,Individual,S,S
+1995,City,IN,Indiana,1995-10-30,0.0,2.0,2,0.0,2.0,White,Not Hispanic or Latino,2,Simple Assault,2.0,Hospital,Anti-White,Individual,S,S
+2012,City,MT,Montana,2012-03-18,1.0,0.0,2,1.0,1.0,Hispanic,Hispanic,3,Assault,1.0,School/College,Anti-Hispanic,Individual,S,S
+2006,City,MD,Maryland,2006-01-15,0.0,1.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Assault,1.0,University,Anti-Asian,Individual,S,S
+2000,City,AL,Alabama,2000-07-19,2.0,0.0,3,2.0,1.0,White,Not Hispanic or Latino,3,Harassment,3.0,Store,Anti-White,Individual,S,S
+2004,City,OR,Oregon,2004-02-22,1.0,0.0,2,1.0,1.0,White,Not Hispanic or Latino,3,Aggravated Assault,1.0,Office Building,Anti-White,Individual,S,S
+2009,City,NH,New Hampshire,2009-09-14,0.0,1.0,1,0.0,1.0,Hispanic,Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,Restaurant,Anti-Hispanic,Individual,S,S

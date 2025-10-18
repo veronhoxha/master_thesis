@@ -1,0 +1,44 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+,State,CA,California,1993-01-01,2,1,3,2,1,W,Asian/Other,3,Larceny,3,Liberty Lines Transit,Antisemitic,Adult,Yes,Yes
+,Local,TX,Texas,1993-01-15,1,0,2,1,1,B,Black,1,Simple Assault,1,Sheriff's Office,Homophobic,Adult,No,No
+,Local,WA,Washington,1993-02-01,0,1,2,0,2,A,White,1,Vandalism,1,University of Washington,Racist,Juvenile,Yes,Yes
+,Federal,NY,New York,1993-03-01,2,0,4,2,2,W,Hispanic,2,Intimidation,2,New York City Police Department,Antisemitic,Adult,No,No
+,Local,IL,Illinois,1993-04-01,1,0,3,1,2,B,Black,1,Aggravated Assault,1,Chicago Police Department,Homophobic,Adult,Yes,Yes
+,State,FL,Florida,1993-05-01,0,2,2,0,2,A,White,2,Vandalism,2,Florida State University,Racist,Juvenile,No,No
+,Local,OH,Ohio,1993-06-01,2,0,4,2,2,W,Asian/Other,2,Intimidation,2,Columbus Police Department,Antisemitic,Adult,No,No
+,Federal,PA,Pennsylvania,1994-01-01,1,0,2,1,1,B,Black,1,Simple Assault,1,Pittsburgh Police Department,Homophobic,Adult,No,No
+,State,GA,Georgia,1994-01-15,0,1,2,0,2,A,White,1,Vandalism,1,Georgia State University,Racist,Juvenile,Yes,Yes
+,Local,NJ,New Jersey,1994-02-01,2,0,4,2,2,W,Hispanic,2,Intimidation,2,New Jersey State Police,Antisemitic,Adult,No,No
+,Local,AZ,Arizona,1994-03-01,1,0,3,1,2,B,Black,1,Aggravated Assault,1,Phoenix Police Department,Homophobic,Adult,Yes,Yes
+,State,MI,Michigan,1994-04-01,0,2,2,0,2,A,White,2,Vandalism,2,Michigan State University,Racist,Juvenile,No,No
+,Local,NC,North Carolina,1994-05-01,2,0,4,2,2,W,Asian/Other,2,Intimidation,2,Charlotte-Mecklenburg Police Department,Antisemitic,Adult,No,No
+,Federal,IN,Indiana,1995-01-01,1,0,2,1,1,B,Black,1,Simple Assault,1,Indianapolis Metropolitan Police Department,Homophobic,Adult,No,No
+,State,SC,South Carolina,1995-01-15,0,1,2,0,2,A,White,1,Vandalism,1,University of South Carolina,Racist,Juvenile,Yes,Yes
+,Local,VT,Vermont,1995-02-01,2,0,4,2,2,W,Hispanic,2,Intimidation,2,Burlington Police Department,Antisemitic,Adult,No,No
+,Local,NM,New Mexico,1995-03-01,1,0,3,1,2,B,Black,1,Aggravated Assault,1,Albuquerque Police Department,Homophobic,Adult,Yes,Yes
+,State,WI,Wisconsin,1995-04-01,0,2,2,0,2,A,White,2,Vandalism,2,University of Wisconsin,Racist,Juvenile,No,No
+,Local,KY,Kentucky,1995-05-01,2,0,4,2,2,W,Asian/Other,2,Intimidation,2,Louisville Metro Police Department,Antisemitic,Adult,No,No
+,Federal,CO,Colorado,1996-01-01,1,0,2,1,1,B,Black,1,Simple Assault,1,Denver Police Department,Homophobic,Adult,No,No
+,State,TN,Tennessee,1996-01-15,0,1,2,0,2,A,White,1,Vandalism,1,University of Tennessee,Racist,Juvenile,Yes,Yes
+,Local,IA,Iowa,1996-02-01,2,0,4,2,2,W,Hispanic,2,Intimidation,2,Des Moines Police Department,Antisemitic,Adult,No,No
+,Local,OK,Oklahoma,1996-03-01,1,0,3,1,2,B,Black,1,Aggravated Assault,1,Oklahoma City Police Department,Homophobic,Adult,Yes,Yes
+,State,AL,Alabama,1996-04-01,0,2,2,0,2,A,White,2,Vandalism,2,University of Alabama,Racist,Juvenile,No,No
+,Local,CT,Connecticut,1996-05-01,2,0,4,2,2,W,Asian/Other,2,Intimidation,2,Hartford Police Department,Antisemitic,Adult,No,No
+,Federal,WV,West Virginia,1997-01-01,1,0,2,1,1,B,Black,1,Simple Assault,1,West Virginia State Police,Homophobic,Adult,No,No
+,State,LA,Louisiana,1997-01-15,0,1,2,0,2,A,White,1,Vandalism,1,Louisiana State University,Racist,Juvenile,Yes,Yes
+,Local,MS,Mississippi,1997-02-01,2,0,4,2,2,W,Hispanic,2,Intimidation,2,Jackson Police Department,Antisemitic,Adult,No,No
+,Local,AR,Arkansas,1997-03-01,1,0,3,1,2,B,Black,1,Aggravated Assault,1,Little Rock Police Department,Homophobic,Adult,Yes,Yes
+,State,UT,Utah,1997-04-01,0,2,2,0,2,A,White,2,Vandalism,2,University of Utah,Racist,Juvenile,No,No
+,Local,SD,South Dakota,1997-05-01,2,0,4,2,2,W,Asian/Other,2,Intimidation,2,Sioux Falls Police Department,Antisemitic,Adult,No,No
+,Federal,NC,North Carolina,1998-01-01,1,0,2,1,1,B,Black,1,Simple Assault,1,Charlotte-Mecklenburg Police Department,Homophobic,Adult,No,No
+,State,VT,Vermont,1998-01-15,0,1,2,0,2,A,White,1,Vandalism,1,University of Vermont,Racist,Juvenile,Yes,Yes
+,Local,ID,Idaho,1998-02-01,2,0,4,2,2,W,Hispanic,2,Intimidation,2,Boise Police Department,Antisemitic,Adult,No,No
+,Local,ME,Maine,1998-03-01,1,0,3,1,2,B,Black,1,Aggravated Assault,1,Portland Police Department,Homophobic,Adult,Yes,Yes
+,State,MT,Montana,1998-04-01,0,2,2,0,2,A,White,2,Vandalism,2,University of Montana,Racist,Juvenile,No,No
+,Local,RI,Rhode Island,1998-05-01,2,0,4,2,2,W,Asian/Other,2,Intimidation,2,Providence Police Department,Antisemitic,Adult,No,No
+,Federal,DE,Delaware,1999-01-01,1,0,2,1,1,B,Black,1,Simple Assault,1,New Castle County Police,Homophobic,Adult,No,No
+,State,NE,Nebraska,1999-01-15,0,1,2,0,2,A,White,1,Vandalism,1,University of Nebraska,Racist,Juvenile,Yes,Yes
+,Local,MN,Minnesota,1999-02-01,2,0,4,2,2,W,Hispanic,2,Intimidation,2,Minneapolis Police Department,Antisemitic,Adult,No,No
+,Local,NV,Nevada,1999-03-01,1,0,3,1,2,B,Black,1,Aggravated Assault,1,Las Vegas Metropolitan Police Department,Homophobic,Adult,Yes,Yes
+,State,KY,Kentucky,1999-04-01,0,2,2,0,2,A,White,2,Vandalism,2,University of Kentucky,Racist,Juvenile,No,No
+,Local,WV,West Virginia,1999-05-01,2,0,4,2,2,W,Asian/Other,2,Intimidation,2,Fairmont Police Department,Antisemitic,Adult,No,No

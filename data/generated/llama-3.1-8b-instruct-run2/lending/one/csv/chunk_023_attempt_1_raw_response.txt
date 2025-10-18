@@ -1,0 +1,77 @@
+"activity_year","derived_msa-md","state_code","county_code","census_tract","derived_loan_product_type","derived_dwelling_category","derived_ethnicity","derived_race","derived_sex","action_taken","loan_purpose","loan_amount","loan_to_value_ratio","interest_rate","rate_spread","hoepa_status","total_loan_costs","total_points_and_fees","origination_charges","discount_points","lender_credits","loan_term","prepayment_penalty_term","intro_rate_period","negative_amortization","interest_only_payment","balloon_payment","other_nonamortizing_features","property_value","construction_method","occupancy_type","manufactured_home_secured_property_type","manufactured_home_land_property_interest","total_units","multifamily_affordable_units","income","debt_to_income_ratio","applicant_credit_score_type","co-applicant_credit_score_type","applicant_ethnicity-1","co-applicant_ethnicity-1","applicant_ethnicity_observed","co-applicant_ethnicity_observed","applicant_race-1","co-applicant_race-1","applicant_race_observed","co-applicant_race_observed","applicant_sex","co-applicant_sex","applicant_sex_observed","co-applicant_sex_observed","applicant_age","co-applicant_age","applicant_age_above_62","co-applicant_age_above_62","submission_of_application","initially_payable_to_institution"
+
+"2024","Los Angeles-Long Beach-Anaheim, CA Metropolitan Division","CA","061","9141010100.0","Conventional:Primary Lien","Single Family (1-4 Units):Site-Built","Hispanic or Latino","Asian","Female","Loan originator not certified","32","31000.0","6","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","30-44","9999","Yes","1","1"
+
+"2024","New York-Newark-Jersey City, NY-NJ-PA Metropolitan Division","NY","061","9141010100.0","FHA:Primary Lien","Single Family (1-4 Units):Site-Built","Not Hispanic or Latino","White","Male","File closed for incompleteness","32","38000.0","7","11","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","45-54","9999","Yes","1","1"
+
+"2024","Dallas-Fort Worth-Arlington, TX Metropolitan Division","TX","061","9141010100.0","Conventional:Primary Lien","Single Family (1-4 Units):Site-Built","Hispanic or Latino","White","Female","Loan originator not certified","32","45000.0","8","13","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","55-64","9999","Yes","1","1"
+
+"2024","Chicago-Naperville-Elgin, IL-IN-WI Metropolitan Division","IL","061","9141010100.0","FHA:Primary Lien","Single Family (1-4 Units):Site-Built","Not Hispanic or Latino","Asian","Male","Loan originator not certified","32","31000.0","5","15","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","30-44","9999","Yes","1","1"
+
+"2024","Washington-Arlington-Alexandria, DC-VA-MD Metropolitan Division","DC","061","9141010100.0","Conventional:Primary Lien","Single Family (1-4 Units):Site-Built","Hispanic or Latino","White","Female","Loan originator not certified","32","37000.0","6","10","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","45-54","9999","Yes","1","1"
+
+"2024","Houston-The Woodlands-Sugar Land, TX Metropolitan Division","TX","061","9141010100.0","FHA:Primary Lien","Single Family (1-4 Units):Site-Built","Not Hispanic or Latino","Asian","Male","Loan originator not certified","32","42000.0","7","12","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","55-64","9999","Yes","1","1"
+
+"2024","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metropolitan Division","PA","061","9141010100.0","Conventional:Primary Lien","Single Family (1-4 Units):Site-Built","Hispanic or Latino","White","Female","Loan originator not certified","32","29000.0","5","9","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","30-44","9999","Yes","1","1"
+
+"2024","Atlanta-Sandy Springs-Roswell, GA Metropolitan Division","GA","061","9141010100.0","FHA:Primary Lien","Single Family (1-4 Units):Site-Built","Not Hispanic or Latino","Asian","Male","Loan originator not certified","32","41000.0","6","11","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","45-54","9999","Yes","1","1"
+
+"2024","San Francisco-Oakland-Berkeley, CA Metropolitan Division","CA","061","9141010100.0","Conventional:Primary Lien","Single Family (1-4 Units):Site-Built","Hispanic or Latino","White","Female","Loan originator not certified","32","34000.0","7","14","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","30-44","9999","Yes","1","1"
+
+"2024","Boston-Cambridge-Nashua, MA-NH Metropolitan Division","MA","061","9141010100.0","FHA:Primary Lien","Single Family (1-4 Units):Site-Built","Not Hispanic or Latino","Asian","Male","Loan originator not certified","32","40000.0","8","16","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","55-64","9999","Yes","1","1"
+
+"2024","Detroit-Warren-Dearborn, MI Metropolitan Division","MI","061","9141010100.0","Conventional:Primary Lien","Single Family (1-4 Units):Site-Built","Hispanic or Latino","White","Female","Loan originator not certified","32","47000.0","9","17","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","45-54","9999","Yes","1","1"
+
+"2024","Seattle-Tacoma-Bellevue, WA Metropolitan Division","WA","061","9141010100.0","FHA:Primary Lien","Single Family (1-4 Units):Site-Built","Not Hispanic or Latino","Asian","Male","Loan originator not certified","32","43000.0","10","18","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","30-44","9999","Yes","1","1"
+
+"2024","Denver-Aurora-Lakewood, CO Metropolitan Division","CO","061","9141010100.0","Conventional:Primary Lien","Single Family (1-4 Units):Site-Built","Hispanic or Latino","White","Female","Loan originator not certified","32","51000.0","11","19","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","55-64","9999","Yes","1","1"
+
+"2024","Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Division","MN","061","9141010100.0","FHA:Primary Lien","Single Family (1-4 Units):Site-Built","Not Hispanic or Latino","Asian","Male","Loan originator not certified","32","49000.0","12","20","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","45-54","9999","Yes","1","1"
+
+"2024","Nashville-Davidson--Murfreesboro--Franklin, TN Metropolitan Division","TN","061","9141010100.0","Conventional:Primary Lien","Single Family (1-4 Units):Site-Built","Hispanic or Latino","White","Female","Loan originator not certified","32","44000.0","13","21","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","30-44","9999","Yes","1","1"
+
+"2024","Portland-Vancouver-Hillsboro, OR-WA Metropolitan Division","OR","061","9141010100.0","FHA:Primary Lien","Single Family (1-4 Units):Site-Built","Not Hispanic or Latino","Asian","Male","Loan originator not certified","32","48000.0","14","22","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","55-64","9999","Yes","1","1"
+
+"2024","Raleigh-Durham-Chapel Hill, NC Metropolitan Division","NC","061","9141010100.0","Conventional:Primary Lien","Single Family (1-4 Units):Site-Built","Hispanic or Latino","White","Female","Loan originator not certified","32","52000.0","15","23","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","45-54","9999","Yes","1","1"
+
+"2024","Kansas City, MO-KS Metropolitan Division","MO","061","9141010100.0","FHA:Primary Lien","Single Family (1-4 Units):Site-Built","Not Hispanic or Latino","Asian","Male","Loan originator not certified","32","46000.0","16","24","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","30-44","9999","Yes","1","1"
+
+"2024","St. Louis, MO-IL Metropolitan Division","MO","061","9141010100.0","Conventional:Primary Lien","Single Family (1-4 Units):Site-Built","Hispanic or Latino","White","Female","Loan originator not certified","32","55000.0","17","25","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","55-64","9999","Yes","1","1"
+
+"2024","Columbus, OH Metropolitan Division","OH","061","9141010100.0","FHA:Primary Lien","Single Family (1-4 Units):Site-Built","Not Hispanic or Latino","Asian","Male","Loan originator not certified","32","58000.0","18","26","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","45-54","9999","Yes","1","1"
+
+"2024","Indianapolis-Carmel-Anderson, IN Metropolitan Division","IN","061","9141010100.0","Conventional:Primary Lien","Single Family (1-4 Units):Site-Built","Hispanic or Latino","White","Female","Loan originator not certified","32","59000.0","19","27","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","30-44","9999","Yes","1","1"
+
+"2024","Austin-Round Rock, TX Metropolitan Division","TX","061","9141010100.0","FHA:Primary Lien","Single Family (1-4 Units):Site-Built","Not Hispanic or Latino","Asian","Male","Loan originator not certified","32","60000.0","20","28","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","55-64","9999","Yes","1","1"
+
+"2024","Milwaukee-Waukesha-West Allis, WI Metropolitan Division","WI","061","9141010100.0","Conventional:Primary Lien","Single Family (1-4 Units):Site-Built","Hispanic or Latino","White","Female","Loan originator not certified","32","61000.0","21","29","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","45-54","9999","Yes","1","1"
+
+"2024","Jacksonville, FL Metropolitan Division","FL","061","9141010100.0","FHA:Primary Lien","Single Family (1-4 Units):Site-Built","Not Hispanic or Latino","Asian","Male","Loan originator not certified","32","62000.0","22","30","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","30-44","9999","Yes","1","1"
+
+"2024","San Jose-Sunnyvale-Santa Clara, CA Metropolitan Division","CA","061","9141010100.0","Conventional:Primary Lien","Single Family (1-4 Units):Site-Built","Hispanic or Latino","White","Female","Loan originator not certified","32","63000.0","23","31","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","55-64","9999","Yes","1","1"
+
+"2024","Oklahoma City, OK Metropolitan Division","OK","061","9141010100.0","FHA:Primary Lien","Single Family (1-4 Units):Site-Built","Not Hispanic or Latino","Asian","Male","Loan originator not certified","32","64000.0","24","32","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","45-54","9999","Yes","1","1"
+
+"2024","New Orleans-Metairie, LA Metropolitan Division","LA","061","9141010100.0","Conventional:Primary Lien","Single Family (1-4 Units):Site-Built","Hispanic or Latino","White","Female","Loan originator not certified","32","65000.0","25","33","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","30-44","9999","Yes","1","1"
+
+"2024","Virginia Beach-Norfolk, VA Metropolitan Division","VA","061","9141010100.0","FHA:Primary Lien","Single Family (1-4 Units):Site-Built","Not Hispanic or Latino","Asian","Male","Loan originator not certified","32","66000.0","26","34","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","55-64","9999","Yes","1","1"
+
+"2024","Cleveland-Elyria, OH Metropolitan Division","OH","061","9141010100.0","Conventional:Primary Lien","Single Family (1-4 Units):Site-Built","Hispanic or Latino","White","Female","Loan originator not certified","32","67000.0","27","35","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","45-54","9999","Yes","1","1"
+
+"2024","Pittsburgh, PA Metropolitan Division","PA","061","9141010100.0","FHA:Primary Lien","Single Family (1-4 Units):Site-Built","Not Hispanic or Latino","Asian","Male","Loan originator not certified","32","68000.0","28","36","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","30-44","9999","Yes","1","1"
+
+"2024","Memphis, TN-MS-AR Metropolitan Division","TN","061","9141010100.0","Conventional:Primary Lien","Single Family (1-4 Units):Site-Built","Hispanic or Latino","White","Female","Loan originator not certified","32","69000.0","29","37","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","55-64","9999","Yes","1","1"
+
+"2024","Baltimore-Columbia-Towson, MD Metropolitan Division","MD","061","9141010100.0","FHA:Primary Lien","Single Family (1-4 Units):Site-Built","Not Hispanic or Latino","Asian","Male","Loan originator not certified","32","70000.0","30","38","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","45-54","9999","Yes","1","1"
+
+"2024","Cincinnati, OH-KY-IN Metropolitan Division","OH","061","9141010100.0","Conventional:Primary Lien","Single Family (1-4 Units):Site-Built","Hispanic or Latino","White","Female","Loan originator not certified","32","71000.0","31","39","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","30-44","9999","Yes","1","1"
+
+"2024","Sacramento--Roseville--Arden-Arcade, CA Metropolitan Division","CA","061","9141010100.0","FHA:Primary Lien","Single Family (1-4 Units):Site-Built","Not Hispanic or Latino","Asian","Male","Loan originator not certified","32","72000.0","32","40","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","55-64","9999","Yes","1","1"
+
+"2024","Miami-Fort Lauderdale-West Palm Beach, FL Metropolitan Division","FL","061","9141010100.0","Conventional:Primary Lien","Single Family (1-4 Units):Site-Built","Hispanic or Latino","White","Female","Loan originator not certified","32","73000.0","33","41","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","45-54","9999","Yes","1","1"
+
+"2024","Tampa-St. Petersburg-Clearwater, FL Metropolitan Division","FL","061","9141010100.0","FHA:Primary Lien","Single Family (1-4 Units):Site-Built","Not Hispanic or Latino","Asian","Male","Loan originator not certified","32","74000.0","34","42","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","30-44","9999","Yes","1","1"
+
+"2024","Riverside-San Bernardino-Ontario, CA Metropolitan Division","CA","061","9141010100.0","Conventional:Primary Lien","Single Family (1-4 Units):Site-Built","Hispanic or Latino","White","Female","Loan originator not certified","32","75000.0","35","43","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","55-64","9999","Yes","1","1"
+
+"2024","Las Vegas-Henderson-Paradise, NV Metropolitan Division","NV","061","9141010100.0","FHA:Primary Lien","Single Family (1-4 Units):Site-Built","Not Hispanic or Latino","Asian","Male","Loan originator not certified","32","76000.0","36","44","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","1","1","45-54","9999","Yes","1","1"

@@ -1,0 +1,36 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1995,Law Enforcement,WV,West Virginia,1995-01-15,1,0,1,0,1,White,Not Hispanic or Latino,1,Anti-Theft,1,,Hate Crime,1 Person,False,
+,,,Maine,1998-04-10,,,,,,Asian,Not Hispanic or Latino,1,,,,Racial Bias,1 Person,Yes,White Supremacy
+,,,Kansas,1999-08-05,,,,,,Black or African American,Not Hispanic or Latino,1,,,,Racial Bias,1 Person,Yes,Anti-Black
+2001,Law Enforcement,TX,Texas,2001-09-22,0,1,1,0,1,Hispanic or Latino,Not Hispanic or Latino,1,Vandalism,1,,Ethnic/National Origin Bias,1 Person,False,
+,,,North Dakota,2002-11-18,,,,,,White,Not Hispanic or Latino,1,,,,Hate Crime,1 Person,Yes,Anti-White
+2003,Law Enforcement,OK,Oklahoma,2003-02-14,0,1,1,0,1,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,1,Simple Assault,1,,Racial Bias,1 Person,False,
+,,,Vermont,2004-06-08,,,,,,Asian,Not Hispanic or Latino,1,,,,Racial Bias,1 Person,Yes,Anti-Asian
+2005,Law Enforcement,IA,Iowa,2005-03-25,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Vandalism,1,,Racial Bias,1 Person,False,
+,,,Montana,2006-10-01,,,,,,White,Not Hispanic or Latino,1,,,,Hate Crime,1 Person,Yes,Anti-White
+2007,Law Enforcement,MN,Minnesota,2007-01-17,0,1,1,0,1,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1,,Ethnic/National Origin Bias,1 Person,False,
+,,,Arizona,2008-07-15,,,,,,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,1,,,,Racial Bias,1 Person,Yes,Anti-Native American
+2009,Law Enforcement,SD,South Dakota,2009-12-02,0,1,1,0,1,Asian,Not Hispanic or Latino,1,Vandalism,1,,Racial Bias,1 Person,False,
+,,,Utah,2010-05-12,,,,,,Black or African American,Not Hispanic or Latino,1,,,,Hate Crime,1 Person,Yes,Anti-Black
+2011,Law Enforcement,DE,Delaware,2011-09-01,0,1,1,0,1,White,Not Hispanic or Latino,1,Simple Assault,1,,Racial Bias,1 Person,False,
+,,,Nebraska,2012-02-10,,,,,,Hispanic or Latino,Not Hispanic or Latino,1,,,,Ethnic/National Origin Bias,1 Person,Yes,Anti-Hispanic
+2013,Law Enforcement,ID,Idaho,2013-08-08,0,1,1,0,1,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,1,Vandalism,1,,Racial Bias,1 Person,False,
+,,,Wyoming,2014-01-15,,,,,,White,Not Hispanic or Latino,1,,,,Hate Crime,1 Person,Yes,Anti-White
+2014,Law Enforcement,NH,New Hampshire,2014-03-22,0,1,1,0,1,Asian,Not Hispanic or Latino,1,Simple Assault,1,,Racial Bias,1 Person,False,
+,,,South Carolina,2014-10-10,,,,,,Black or African American,Not Hispanic or Latino,1,,,,Racial Bias,1 Person,Yes,Anti-Black
+1995,Law Enforcement,IN,Indiana,1995-06-20,0,1,1,0,1,Hispanic or Latino,Not Hispanic or Latino,1,Vandalism,1,,Ethnic/National Origin Bias,1 Person,False,
+,,,California,1998-11-25,,,,,,White,Not Hispanic or Latino,1,,,,Hate Crime,1 Person,Yes,Anti-White
+2001,Law Enforcement,NV,Nevada,2001-04-02,0,1,1,0,1,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,1,Simple Assault,1,,Racial Bias,1 Person,False,
+,,,Georgia,2002-07-01,,,,,,Black or African American,Not Hispanic or Latino,1,,,,Racial Bias,1 Person,Yes,Anti-Black
+2003,Law Enforcement,MI,Michigan,2003-12-10,0,1,1,0,1,Asian,Not Hispanic or Latino,1,Vandalism,1,,Racial Bias,1 Person,False,
+,,,Colorado,2004-09-15,,,,,,White,Not Hispanic or Latino,1,,,,Hate Crime,1 Person,Yes,Anti-White
+2005,Law Enforcement,RI,Rhode Island,2005-02-05,0,1,1,0,1,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1,,Ethnic/National Origin Bias,1 Person,False,
+,,,Kentucky,2006-11-01,,,,,,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,1,,,,Racial Bias,1 Person,Yes,Anti-Native American
+2007,Law Enforcement,CT,Connecticut,2007-06-22,0,1,1,0,1,Asian,Not Hispanic or Latino,1,Vandalism,1,,Racial Bias,1 Person,False,
+,,,Alabama,2008-03-10,,,,,,White,Not Hispanic or Latino,1,,,,Hate Crime,1 Person,Yes,Anti-White
+2009,Law Enforcement,OR,Oregon,2009-09-01,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Simple Assault,1,,Racial Bias,1 Person,False,
+,,,Maryland,2010-02-15,,,,,,Hispanic or Latino,Not Hispanic or Latino,1,,,,Ethnic/National Origin Bias,1 Person,Yes,Anti-Hispanic
+2011,Law Enforcement,HI,Hawaii,2011-04-22,0,1,1,0,1,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,1,Vandalism,1,,Racial Bias,1 Person,False,
+,,,North Carolina,2012-01-01,,,,,,White,Not Hispanic or Latino,1,,,,Hate Crime,1 Person,Yes,Anti-White
+2013,Law Enforcement,FL,Florida,2013-06-10,0,1,1,0,1,Asian,Not Hispanic or Latino,1,Simple Assault,1,,Racial Bias,1 Person,False,
+,,,Arkansas,2014-08-15,,,,,,Black or African American,Not Hispanic or Latino,1,,,,Racial Bias,1 Person,Yes,Anti-Black

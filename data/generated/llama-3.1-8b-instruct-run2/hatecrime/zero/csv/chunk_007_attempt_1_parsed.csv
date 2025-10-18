@@ -1,0 +1,23 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1992,Law Enforcement Agency,NY,New York,1992-02-15,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,"New York City, Bronx",,"Male, Female",Yes,Anti-Black or African American
+1994,Law Enforcement Agency,CA,California,1994-08-12,0,1,1,0,1,Asian,Not Hispanic or Latino,1,Vandalism,1,"Los Angeles, San Fernando Valley",,Male,Yes,Anti-Asian
+1995,Law Enforcement Agency,TX,Texas,1995-11-25,2,0,3,2,1,Hispanic or Latino,Not Hispanic or Latino,2,Simple Assault,2,"Houston, Southwest",,"Male, Male",Yes,Anti-White
+1996,Law Enforcement Agency,FL,Florida,1996-03-17,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,"Miami, Miami Beach",,Male,Yes,Anti-White
+1997,Law Enforcement Agency,GA,Georgia,1997-09-02,0,2,2,0,2,Black or African American,Not Hispanic or Latino,2,Simple Assault,2,"Atlanta, East Atlanta",,"Female, Female",Yes,Anti-Hispanic or Latino
+1998,Law Enforcement Agency,IL,Illinois,1998-01-28,1,0,1,1,0,Asian,Not Hispanic or Latino,1,Intimidation,1,"Chicago, North Side",,Male,Yes,Anti-Male
+1999,Law Enforcement Agency,OH,Ohio,1999-05-15,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Vandalism,1,"Columbus, North End",,Male,Yes,Anti-Female
+2000,Law Enforcement Agency,NJ,New Jersey,2000-12-18,2,0,2,2,0,White,Not Hispanic or Latino,2,Simple Assault,2,"Newark, Newark City",,"Male, Male",Yes,Anti-Asian
+2001,Law Enforcement Agency,PA,Pennsylvania,2001-07-04,1,0,1,1,0,Hispanic or Latino,Not Hispanic or Latino,1,Intimidation,1,"Philadelphia, Northeast",,Male,Yes,Anti-Jewish
+2002,Law Enforcement Agency,NC,North Carolina,2002-03-22,0,2,2,0,2,Black or African American,Not Hispanic or Latino,2,Simple Assault,2,"Charlotte, University",,"Female, Female",Yes,Anti-White
+2003,Law Enforcement Agency,MI,Michigan,2003-11-01,1,0,1,1,0,Asian,Not Hispanic or Latino,1,Intimidation,1,"Detroit, Southwest",,Male,Yes,Anti-Asian
+2004,Law Enforcement Agency,TN,Tennessee,2004-08-20,0,1,1,0,1,White,Not Hispanic or Latino,1,Vandalism,1,"Nashville, Downtown",,Male,Yes,Anti-LGBTQ or LGBTQ+
+2005,Law Enforcement Agency,SC,South Carolina,2005-01-25,2,0,2,2,0,Black or African American,Not Hispanic or Latino,2,Simple Assault,2,"Columbia, Downtown",,"Male, Male",Yes,Anti-Female
+2006,Law Enforcement Agency,KY,Kentucky,2006-06-15,1,0,1,1,0,Hispanic or Latino,Not Hispanic or Latino,1,Intimidation,1,"Louisville, Downtown",,Male,Yes,Anti-White
+2007,Law Enforcement Agency,LA,Louisiana,2007-04-10,0,2,2,0,2,Black or African American,Not Hispanic or Latino,2,Simple Assault,2,"New Orleans, French Quarter",,"Female, Female",Yes,Anti-Asian
+2008,Law Enforcement Agency,MA,Massachusetts,2008-12-01,2,0,2,2,0,White,Not Hispanic or Latino,2,Simple Assault,2,"Boston, North End",,"Male, Male",Yes,Anti-White
+2009,Law Enforcement Agency,WA,Washington,2009-05-05,1,0,1,1,0,Asian,Not Hispanic or Latino,1,Intimidation,1,"Seattle, Capitol Hill",,Male,Yes,Anti-Jewish
+2010,Law Enforcement Agency,VT,Vermont,2010-09-20,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Vandalism,1,"Burlington, Downtown",,Male,Yes,Anti-LGBTQ or LGBTQ+
+2011,Law Enforcement Agency,WV,West Virginia,2011-01-25,2,0,2,2,0,White,Not Hispanic or Latino,2,Simple Assault,2,"Charleston, Downtown",,"Male, Male",Yes,Anti-Asian
+2012,Law Enforcement Agency,RI,Rhode Island,2012-06-01,1,0,1,1,0,Hispanic or Latino,Not Hispanic or Latino,1,Intimidation,1,"Providence, Downtown",,Male,Yes,Anti-Jewish
+2013,Law Enforcement Agency,AK,Alaska,2013-10-15,0,2,2,0,2,Black or African American,Not Hispanic or Latino,2,Simple Assault,2,"Anchorage, Downtown",,"Female, Female",Yes,Anti-Male
+2014,Law Enforcement Agency,HI,Hawaii,2014-03-20,2,0,2,2,0,White,Not Hispanic or Latino,2,Simple Assault,2,"Honolulu, Downtown",,"Male, Male",Yes,Anti-Female

@@ -1,0 +1,43 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+"2004""",City,CA,California,2004-02-25,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Vandalism,1.0,House/School/Church/Apartment/Residence,Anti-Jewish,Individual,S,S
+2004,Suburban,NY,New York,2004-08-10,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,School/College,Anti-Hispanic,Individual,S,S
+1997,Rural,TX,Texas,1997-01-15,0.0,0.0,1,1.0,0.0,Native American,Not Specified,1,Intimidation,1.0,Park/Recreation Area,Anti-White,Individual,S,S
+2005,City,FL,Florida,2005-03-20,0.0,0.0,2,1.0,1.0,Black or African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,2.0,Street/Railroad/Highway,Anti-Gay (Male),Individual,S,S
+2002,Suburban,IL,Illinois,2002-09-12,0.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Specified,1,Larceny-Theft,1.0,House/School/Church/Apartment/Residence,Anti-White,Individual,S,S
+1996,Rural,GA,Georgia,1996-04-01,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Vandalism,1.0,Park/Recreation Area,Anti-Asian,Individual,S,S
+2006,City,OH,Ohio,2006-10-22,0.0,0.0,1,1.0,0.0,Native American,Not Specified,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic,Individual,S,S
+2009,Suburban,MI,Michigan,2009-01-25,0.0,0.0,2,1.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,2.0,School/College,Anti-Gay (Female),Individual,S,S
+2001,Rural,NC,North Carolina,2001-06-10,0.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Park/Recreation Area,Anti-White,Individual,S,S
+2010,City,AZ,Arizona,2010-11-15,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,House/School/Church/Apartment/Residence,Anti-Jewish,Individual,S,S
+2008,Suburban,IN,Indiana,2008-07-28,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Vandalism,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic,Individual,S,S
+2003,Rural,KY,Kentucky,2003-03-25,0.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,House/School/Church/Apartment/Residence,Anti-Gay (Male),Individual,S,S
+2013,City,TN,Tennessee,2013-09-01,0.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,School/College,Anti-Jewish,Individual,S,S
+2007,Suburban,WI,Wisconsin,2007-04-18,0.0,0.0,1,1.0,0.0,Native American,Not Specified,1,Vandalism,1.0,Park/Recreation Area,Anti-White,Individual,S,S
+2000,Rural,SC,South Carolina,2000-10-22,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,House/School/Church/Apartment/Residence,Anti-Hispanic,Individual,S,S
+2011,City,UT,Utah,2011-01-20,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Intimidation,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Female),Individual,S,S
+2004,Suburban,CO,Colorado,2004-06-25,0.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Specified,1,Vandalism,1.0,School/College,Anti-Jewish,Individual,S,S
+1999,Rural,MS,Mississippi,1999-09-01,0.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Park/Recreation Area,Anti-Gay (Male),Individual,S,S
+2014,City,NV,Nevada,2014-03-10,0.0,0.0,1,1.0,0.0,Native American,Not Specified,1,Simple Assault,1.0,House/School/Church/Apartment/Residence,Anti-Jewish,Individual,S,S
+2002,Suburban,OR,Oregon,2002-11-15,0.0,0.0,2,1.0,1.0,Black or African American,Not Hispanic or Latino,1,Larceny-Theft,2.0,Street/Railroad/Highway,Anti-Hispanic,Individual,S,S
+1996,Rural,LA,Louisiana,1996-02-20,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Intimidation,1.0,Park/Recreation Area,Anti-Asian,Individual,S,S
+2006,City,OK,Oklahoma,2006-08-25,0.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Vandalism,1.0,House/School/Church/Apartment/Residence,Anti-Gay (Female),Individual,S,S
+2005,Suburban,MN,Minnesota,2005-01-15,0.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,School/College,Anti-Jewish,Individual,S,S
+1998,Rural,AL,Alabama,1998-04-10,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,S,S
+2009,City,IA,Iowa,2009-09-20,0.0,0.0,1,1.0,0.0,Native American,Not Specified,1,Vandalism,1.0,House/School/Church/Apartment/Residence,Anti-Hispanic,Individual,S,S
+2004,Suburban,NC,North Carolina,2004-07-25,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Intimidation,1.0,School/College,Anti-Jewish,Individual,S,S
+2012,Rural,KS,Kansas,2012-02-10,0.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Specified,1,Larceny-Theft,1.0,House/School/Church/Apartment/Residence,Anti-White,Individual,S,S
+2007,City,MO,Missouri,2007-05-01,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Female),Individual,S,S
+2000,Suburban,AR,Arkansas,2000-01-20,0.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Vandalism,1.0,School/College,Anti-White,Individual,S,S
+2013,City,WV,West Virginia,2013-07-15,0.0,0.0,1,1.0,0.0,Native American,Not Specified,1,Simple Assault,1.0,Park/Recreation Area,Anti-Gay (Male),Individual,S,S
+2008,Rural,VT,Vermont,2008-03-28,0.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,House/School/Church/Apartment/Residence,Anti-Hispanic,Individual,S,S
+1995,Suburban,ND,North Dakota,1995-06-01,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Street/Railroad/Highway,Anti-Jewish,Individual,S,S
+2003,City,ID,Idaho,2003-08-10,0.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Intimidation,1.0,School/College,Anti-White,Individual,S,S
+2010,Suburban,CT,Connecticut,2010-10-15,0.0,0.0,1,1.0,0.0,Native American,Not Specified,1,Larceny-Theft,1.0,House/School/Church/Apartment/Residence,Anti-Hispanic,Individual,S,S
+2006,Rural,MT,Montana,2006-09-20,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Vandalism,1.0,Park/Recreation Area,Anti-Jewish,Individual,S,S
+2002,City,DE,Delaware,2002-01-25,0.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,School/College,Anti-Asian,Individual,S,S
+1997,Suburban,HI,Hawaii,1997-03-15,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Street/Railroad/Highway,Anti-Gay (Female),Individual,S,S
+2011,City,ME,Maine,2011-08-25,0.0,0.0,1,1.0,0.0,Native American,Not Specified,1,Simple Assault,1.0,House/School/Church/Apartment/Residence,Anti-Hispanic,Individual,S,S
+2005,Rural,NE,Nebraska,2005-02-20,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Vandalism,1.0,Park/Recreation Area,Anti-Jewish,Individual,S,S
+2004,Suburban,RI,Rhode Island,2004-04-10,0.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,School/College,Anti-Gay (Male),Individual,S,S
+1999,City,AK,Alaska,1999-09-01,0.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Intimidation,1.0,House/School/Church/Apartment/Residence,Anti-White,Individual,S,S
+2012,Rural,NH,New Hampshire,2012-07-10,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Park/Recreation Area,Anti-Jewish,Individual,S,S

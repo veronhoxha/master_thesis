@@ -1,0 +1,54 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1998,State,GA,Georgia,1998-03-15,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Assault,1.0,Residence,Anti-Jewish,Individual,S,S
+2001,City,NC,North Carolina,2001-11-22,0.0,1.0,1,0.0,1.0,Hispanic or Latino,Hispanic or Latino,1,Felony assault,2.0,Church,Anti-Hispanic,Individual,S,S
+2005,Federal,WA,Washington,2005-07-08,1.0,0.0,2,1.0,1.0,Unknown,Not Specified,2,Aggravated Assault,3.0,Government Building,Anti-Gay (Male),Individual,S,S
+2009,County,IL,Illinois,2009-01-30,1.0,0.0,1,1.0,0.0,Black or African American,Not Specified,1,Intimidation,1.0,Store,Anti-Black or African American,Individual,S,S
+2012,City,TX,Texas,2012-09-14,0.0,1.0,1,0.0,1.0,White,Not Specified,2,Assault,2.0,Restaurant,Anti-Gay (Male),Individual,S,S
+1995,State,FL,Florida,1995-04-06,0.0,1.0,1,0.0,1.0,Hispanic or Latino,Hispanic or Latino,1,Felony assault,1.0,Vacant Building,Anti-Hispanic,Other,S,S
+2003,City,OH,Ohio,2003-10-19,1.0,0.0,2,1.0,1.0,Unknown,Not Specified,1,Intimidation,1.0,Hospital,Anti-Jewish,Individual,S,S
+1999,City,NY,New York,1999-12-02,0.0,1.0,1,0.0,1.0,White,Not Specified,1,Limited Criminal Damage,1.0,Residence,Anti-Gay (Male),Other,S,S
+2007,City,MI,Michigan,2007-08-25,1.0,0.0,1,1.0,0.0,Black or African American,Not Specified,3,Assault,3.0,School/College,Anti-Black or African American,Individual,S,S
+2010,City,PA,Pennsylvania,2010-05-17,1.0,0.0,1,1.0,0.0,White,Not Specified,1,Felony assault,1.0,Place of Worship,Anti-Jewish,Individual,S,S
+2002,State,VA,Virginia,2002-03-11,0.0,1.0,1,0.0,1.0,Hispanic or Latino,Hispanic or Latino,1,Assault,2.0,Mall/Apartment Complex,Anti-Hispanic,Individual,S,S
+2008,City,WI,Wisconsin,2008-11-03,1.0,0.0,3,1.0,2.0,White,Not Specified,1,Aggravated Assault,2.0,Educational Facility,Anti-Gay (Male),Individual,S,S
+1996,City,MD,Maryland,1996-09-28,0.0,1.0,1,0.0,1.0,Black or African American,Not Specified,1,Felony assault,1.0,Public Park,Anti-Black or African American,Individual,S,S
+2006,County,TX,Texas,2006-06-18,1.0,0.0,2,1.0,1.0,White,Not Specified,1,Intimidation,1.0,Store,Anti-Gay (Male),Individual,S,S
+2011,City,GA,Georgia,2011-02-14,0.0,1.0,1,0.0,1.0,Hispanic or Latino,Hispanic or Latino,1,Felony assault,1.0,School/College,Anti-Hispanic,Individual,S,S
+2000,City,IL,Illinois,2000-12-31,1.0,0.0,1,1.0,0.0,Black or African American,Not Specified,2,Assault,2.0,Residence,Anti-Black or African American,Other,S,S
+2013,State,CA,California,2013-07-22,0.0,1.0,1,0.0,1.0,White,Not Specified,1,Limited Criminal Damage,1.0,Rest Area,Anti-Gay (Male),Individual,S,S
+2004,City,OH,Ohio,2004-01-07,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1,Felony assault,1.0,Vacant Building,Anti-Hispanic,Individual,S,S
+2014,County,NH,New Hampshire,2014-04-16,1.0,0.0,2,1.0,1.0,Unknown,Not Specified,2,Assault,3.0,Office Building,Anti-Jewish,Individual,S,S
+2005,City,MO,Missouri,2005-10-09,0.0,1.0,1,0.0,1.0,White,Not Specified,2,Intimidation,1.0,Shopping Center,Anti-Gay (Male),Individual,S,S
+1997,Federal,CO,Colorado,1997-12-01,1.0,0.0,1,1.0,0.0,Black or African American,Not Specified,1,Felony assault,1.0,Airport,Anti-Black or African American,Individual,S,S
+2012,City,FL,Florida,2012-08-11,1.0,0.0,3,1.0,2.0,White,Not Specified,1,Aggravated Assault,1.0,Library,Anti-Gay (Female),Individual,S,S
+2001,County,AL,Alabama,2001-09-10,0.0,1.0,1,0.0,1.0,Hispanic or Latino,Hispanic or Latino,1,Assault,1.0,Residence,Anti-Hispanic,Individual,S,S
+2009,City,OR,Oregon,2009-05-25,1.0,0.0,1,1.0,0.0,White,Not Specified,2,Assault,2.0,Hotel,Anti-Gay (Male),Other,S,S
+2007,City,NJ,New Jersey,2007-11-19,0.0,1.0,1,0.0,1.0,Black or African American,Not Specified,1,Felony assault,1.0,School/College,Anti-Black or African American,Other,S,S
+2013,City,TN,Tennessee,2013-10-03,0.0,1.0,2,0.0,2.0,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1.0,Public Park,Anti-Hispanic,Individual,S,S
+2002,State,WV,West Virginia,2002-02-08,1.0,0.0,1,1.0,0.0,Black or African American,Not Specified,3,Assault,3.0,Hospital,Anti-Black or African American,Individual,S,S
+1999,City,AR,Arkansas,1999-06-27,1.0,0.0,1,1.0,0.0,White,Not Specified,1,Felony assault,1.0,Place of Worship,Anti-Jewish,Individual,S,S
+2008,City,SC,South Carolina,2008-03-13,0.0,1.0,2,0.0,2.0,Unknown,Not Specified,1,Assault,2.0,Vacant Building,Anti-Gay (Male),Individual,S,S
+2010,County,KY,Kentucky,2010-07-30,1.0,0.0,1,1.0,0.0,White,Not Specified,2,Aggravated Assault,1.0,Mall/Apartment Complex,Anti-Gay (Male),Other,S,S
+2006,City,SDE,South Dakota,2006-09-12,0.0,1.0,1,0.0,1.0,Black or African American,Not Specified,1,Intimidation,1.0,Residence,Anti-Black or African American,Individual,S,S
+2014,City,VT,Vermont,2014-01-17,1.0,0.0,1,1.0,0.0,White,Not Specified,1,Felony assault,1.0,Public Park,Anti-Gay (Male),Individual,S,S
+2003,County,IN,Indiana,2003-11-05,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1,Assault,2.0,Restaurant,Anti-Hispanic,Individual,S,S
+2000,City,MN,Minnesota,2000-04-18,0.0,1.0,2,0.0,2.0,Unknown,Not Specified,1,Limited Criminal Damage,1.0,School/College,Anti-Gay (Male),Individual,S,S
+2011,City,NE,Nebraska,2011-06-29,1.0,0.0,1,1.0,0.0,Black or African American,Not Specified,3,Assault,3.0,Housing Complex,Anti-Black or African American,Individual,S,S
+1998,City,ME,Maine,1998-02-12,0.0,1.0,1,0.0,1.0,White,Not Specified,1,Felony assault,1.0,Store,Anti-Gay (Male),Individual,S,S
+2005,State,UT,Utah,2005-08-14,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1.0,Residence,Anti-Hispanic,Individual,S,S
+2013,City,RI,Rhode Island,2013-12-22,0.0,1.0,1,0.0,1.0,White,Not Specified,1,Assault,1.0,Office Building,Anti-Gay (Male),Individual,S,S
+1996,City,GA,Georgia,1996-07-19,1.0,0.0,2,1.0,1.0,Black or African American,Not Specified,1,Aggravated Assault,1.0,Store,Anti-Black or African American,Individual,S,S
+2004,County,WA,Washington,2004-01-31,1.0,0.0,1,1.0,0.0,White,Not Specified,1,Felony assault,1.0,Airport,Anti-Gay (Male),Individual,S,S
+2007,State,KS,Kansas,2007-09-25,0.0,1.0,1,0.0,1.0,Hispanic or Latino,Hispanic or Latino,1,Assault,1.0,Hospital,Anti-Hispanic,Individual,S,S
+2009,City,NY,New York,2009-03-15,1.0,0.0,2,1.0,1.0,Unknown,Not Specified,2,Intimidation,2.0,Shopping Center,Anti-Jewish,Individual,S,S
+2012,City,VT,Vermont,2012-11-07,0.0,1.0,1,0.0,1.0,White,Not Specified,2,Felony assault,1.0,Mall/Apartment Complex,Anti-Gay (Male),Individual,S,S
+2001,City,NC,North Carolina,2001-05-13,1.0,0.0,1,1.0,0.0,Black or African American,Not Specified,1,Assault,1.0,Residence,Anti-Black or African American,Individual,S,S
+2008,City,FL,Florida,2008-10-28,0.0,1.0,1,0.0,1.0,Hispanic or Latino,Hispanic or Latino,1,Aggravated Assault,1.0,Public Park,Anti-Hispanic,Individual,S,S
+2010,City,AL,Alabama,2010-02-21,1.0,0.0,1,1.0,0.0,White,Not Specified,1,Felony assault,1.0,University,Anti-Gay (Male),Individual,S,S
+2003,County,MD,Maryland,2003-07-09,0.0,1.0,2,0.0,2.0,Unknown,Not Specified,1,Intimidation,1.0,Store,Anti-Gay (Male),Individual,S,S
+2014,City,TX,Texas,2014-04-18,1.0,0.0,1,1.0,0.0,Black or African American,Not Specified,2,Aggravated Assault,2.0,Residence,Anti-Black or African American,Individual,S,S
+2006,City,ID,Idaho,2006-11-03,0.0,1.0,1,0.0,1.0,Hispanic or Latino,Hispanic or Latino,1,Felony assault,2.0,Office Building,Anti-Hispanic,Individual,S,S
+2002,City,OK,Oklahoma,2002-03-27,1.0,0.0,1,1.0,0.0,White,Not Specified,1,Assault,1.0,Restaurant,Anti-Gay (Male),Individual,S,S
+1999,City,WA,Washington,1999-09-22,0.0,1.0,1,0.0,1.0,White,Not Specified,1,Intimidation,1.0,Hotel,Anti-Gay (Male),Individual,S,S
+2000,City,CA,California,2000-12-19,1.0,0.0,1,1.0,0.0,Black or African American,Not Specified,1,Felony assault,1.0,Place of Worship,Anti-Black or African American,Individual,S,S
+2011,City,MA,Massachusetts,2011-08-10,0.0,1.0,2,0.0,2.0,Hispanic or Latino,Hispanic or Latino,1,Assault,2.0,Shopping Center,Anti-Hispanic,Individual,S,S

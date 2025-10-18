@@ -1,0 +1,12 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2004,City,NY,New York,2004-08-02,1,0,1,1,0,Asian,Asian,2,Simple Assault,2.0,Residential/Apartment,Anti-Hispanic or Latino,Other,M,L
+2004,City,FL,Florida,2004-09-01,2,0,2,1,0,White,White,4,Vandalism,4.0,Commercial/Business,Anti-Jewish,Other,S,L
+2004,City,IL,Illinois,2004-10-15,1,0,1,1,0,Unknown,Unknown,1,Intimidation,1.0,Residential/Apartment,Anti-White,Other,S,S
+2004,City,CA,California,2004-11-12,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Crime Bias Other,1.0,School/College,Anti-Sexual Orientation,Other,S,M
+2004,City,NV,Nevada,2004-12-10,2,0,2,1,0,White,White,3,Destruction/Damage/Vandalism of Property,3.0,Commercial/Business,Anti-Arab,Other,M,L
+2004,Town or City Hall,MI,Michigan,2004-01-05,1,0,1,1,0,Asian,Asian,1,Vandalism,1.0,Residential/Apartment,Anti-Other Bias,Other,S,L
+2004,College or University,GA,Georgia,2004-02-01,2,0,2,1,0,White,White,2,Crime Bias Other,2.0,School/College,Anti-Hispanic or Latino,Other,M,S
+2004,College or University,NC,North Carolina,2004-03-20,1,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residential/Apartment,Anti-Jewish,Other,M,L
+2004,City,CT,Connecticut,2004-04-15,2,0,2,1,0,Hispanic or Latino,Hispanic or Latino,3,Destruction/Damage/Vandalism of Property,3.0,Commercial/Business,Anti-White,Other,M,L
+2004,Town or City Hall,OH,Ohio,2004-05-10,1,0,1,1,0,White,White,1,Intimidation,1.0,Residential/Apartment,Anti-Other Bias,Other,L,M
+2004,College or University,TX,Texas,2004-06-01,2,0,2,1,0,Asian,Asian,2,Vandalism,2.0,School/College,Anti-Hispanic or Latino,Other,S,S

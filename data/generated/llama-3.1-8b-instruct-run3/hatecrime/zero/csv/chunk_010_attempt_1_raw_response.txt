@@ -1,0 +1,47 @@
+"data_year","agency_type_name","state_abbr","state_name","incident_date","adult_victim_count","juvenile_victim_count","total_offender_count","adult_offender_count","juvenile_offender_count","offender_race","offender_ethnicity","victim_count","offense_name","total_individual_victims","location_name","bias_desc","victim_types","multiple_offense","multiple_bias"
+"1992","Local",NV,Nevada,1992-07-15,1,0,2,1,1,White,Non-Hispanic,2,"Hate Crime Against Property",2,"Las Vegas",Anti-Black,Adult,TRUE,FALSE
+"1996","State",NY,New York,1996-04-01,0,1,1,0,1,Hispanic,Hispanic,1,"Hate Crime Against a Business,Commerical Establishment",1,"New York City",Anti-White,Juvenile,FALSE,FALSE
+"2007","Local",AZ,Arizona,2007-02-20,0,0,1,0,1,Asian,Asian,1,"Hate Crime Against a Business,Commerical Establishment",1,"Phoenix",Anti-Asian,Adult,FALSE,TRUE
+"1999","State",TX,Texas,1999-09-01,2,0,3,2,1,White,Non-Hispanic,3,"Hate Crime Against a Business,Commerical Establishment",3,"Austin",Anti-Hispanic,Adult,TRUE,FALSE
+"2010","Local",FL,Florida,2010-05-15,1,0,1,1,0,Black,Non-Hispanic,1,"Hate Crime Against a Business,Commerical Establishment",1,"Miami",Anti-Jewish,Adult,FALSE,FALSE
+"1991","Local",IL,Illinois,1991-03-10,0,1,1,0,1,Hispanic,Hispanic,1,"Hate Crime Against a Business,Commerical Establishment",1,"Chicago",Anti-Asian,Juvenile,FALSE,FALSE
+"2009","State",CA,California,2009-12-20,0,0,1,0,1,Hispanic,Hispanic,1,"Hate Crime Against a Business,Commerical Establishment",1,"Los Angeles",Anti-White,Adult,FALSE,FALSE
+"1993","Local",NC,North Carolina,1993-09-15,1,0,2,1,1,White,Non-Hispanic,2,"Hate Crime Against a Business,Commerical Establishment",2,"Raleigh",Anti-Hispanic,Adult,TRUE,FALSE
+"2008","Local",PA,Pennsylvania,2008-07-01,0,1,1,0,1,Asian,Asian,1,"Hate Crime Against a Business,Commerical Establishment",1,"Philadelphia",Anti-Arab,Juvenile,FALSE,FALSE
+"2003","State",MD,Maryland,2003-04-20,1,0,1,1,0,Black,Non-Hispanic,1,"Hate Crime Against a Business,Commerical Establishment",1,"Baltimore",Anti-Jewish,Adult,FALSE,FALSE
+"1998","Local",OH,Ohio,1998-05-10,1,0,2,1,1,White,Non-Hispanic,2,"Hate Crime Against a Business,Commerical Establishment",2,"Columbus",Anti-Hispanic,Adult,TRUE,FALSE
+"2013","State",NC,North Carolina,2013-01-15,0,1,1,0,1,Hispanic,Hispanic,1,"Hate Crime Against a Business,Commerical Establishment",1,"Greensboro",Anti-Asian,Juvenile,FALSE,FALSE
+"2006","Local",TX,Texas,2006-03-01,0,0,1,0,1,Black,Non-Hispanic,1,"Hate Crime Against a Business,Commerical Establishment",1,"Dallas",Anti-Arab,Adult,FALSE,FALSE
+"1994","State",GA,Georgia,1994-07-20,2,0,3,2,1,White,Non-Hispanic,3,"Hate Crime Against a Business,Commerical Establishment",3,"Atlanta",Anti-Hispanic,Adult,TRUE,FALSE
+"2012","Local",CA,California,2012-10-15,1,0,1,1,0,Asian,Asian,1,"Hate Crime Against a Business,Commerical Establishment",1,"San Francisco",Anti-Jewish,Adult,FALSE,FALSE
+"2005","State",TN,Tennessee,2005-09-01,0,1,1,0,1,Hispanic,Hispanic,1,"Hate Crime Against a Business,Commerical Establishment",1,"Nashville",Anti-Asian,Juvenile,FALSE,FALSE
+"1997","Local",OR,Oregon,1997-02-15,0,0,1,0,1,White,Non-Hispanic,1,"Hate Crime Against a Business,Commerical Establishment",1,"Portland",Anti-Hispanic,Adult,FALSE,FALSE
+"2002","State",MO,Missouri,2002-05-20,1,0,1,1,0,Black,Non-Hispanic,1,"Hate Crime Against a Business,Commerical Establishment",1,"Kansas City",Anti-Arab,Adult,FALSE,FALSE
+"2011","Local",MI,Michigan,2011-06-01,0,1,1,0,1,Hispanic,Hispanic,1,"Hate Crime Against a Business,Commerical Establishment",1,"Detroit",Anti-White,Juvenile,FALSE,FALSE
+"1992","State",WV,West Virginia,1992-10-01,0,0,1,0,1,White,Non-Hispanic,1,"Hate Crime Against a Business,Commerical Establishment",1,"Charleston",Anti-Hispanic,Adult,FALSE,FALSE
+"2001","Local",KY,Kentucky,2001-01-15,1,0,2,1,1,White,Non-Hispanic,2,"Hate Crime Against a Business,Commerical Establishment",2,"Louisville",Anti-Jewish,Adult,TRUE,FALSE
+"1995","State",AL,Alabama,1995-03-20,2,0,3,2,1,White,Non-Hispanic,3,"Hate Crime Against a Business,Commerical Establishment",3,"Birmingham",Anti-Hispanic,Adult,TRUE,FALSE
+"2004","Local",SC,South Carolina,2004-08-01,0,1,1,0,1,Asian,Asian,1,"Hate Crime Against a Business,Commerical Establishment",1,"Columbia",Anti-Arab,Juvenile,FALSE,FALSE
+"1999","State",LA,Louisiana,1999-01-01,0,0,1,0,1,White,Non-Hispanic,1,"Hate Crime Against a Business,Commerical Establishment",1,"New Orleans",Anti-Asian,Adult,FALSE,FALSE
+"2014","Local",IN,Indiana,2014-03-20,1,0,1,1,0,Hispanic,Hispanic,1,"Hate Crime Against a Business,Commerical Establishment",1,"Indianapolis",Anti-Jewish,Adult,FALSE,FALSE
+"1993","State",SC,South Carolina,1993-06-20,1,0,1,1,0,Black,Non-Hispanic,1,"Hate Crime Against a Business,Commerical Establishment",1,"Greenville",Anti-White,Adult,FALSE,FALSE
+"2000","Local",OK,Oklaoma,2000-09-15,0,1,1,0,1,White,Non-Hispanic,1,"Oklahoma City",Anti-Asian,Juvenile,FALSE,FALSE
+"1998","State",AR,Arkansas,1998-04-01,2,0,3,2,1,White,Non-Hispanic,3,"Hate Crime Against a Business,Commerical Establishment",3,"Little Rock",Anti-Hispanic,Adult,TRUE,FALSE
+"1996","Local",GA,Georgia,1996-08-15,1,0,2,1,1,White,Non-Hispanic,2,"Hate Crime Against a Business,Commerical Establishment",2,"Savannah",Anti-Jewish,Adult,TRUE,FALSE
+"2010","State",MS,Mississippi,2010-11-01,0,0,1,0,1,Black,Non-Hispanic,1,"Jackson",Anti-Arab,Adult,FALSE,FALSE
+"2007","State",NH,New Hampshire,2007-05-20,0,1,1,0,1,Hispanic,Hispanic,1,"Hate Crime Against a Business,Commerical Establishment",1,"Manchester",Anti-Asian,Juvenile,FALSE,FALSE
+"1991","State",VT,Vermont,1991-09-01,1,0,1,1,0,White,Non-Hispanic,1,"Burlington",Anti-Jewish,Adult,FALSE,FALSE
+"2012","Local",GA,Georgia,2012-07-20,0,0,1,0,1,Asian,Asian,1,"Atlanta",Anti-White,Adult,FALSE,FALSE
+"2009","State",ME,Maine,2009-02-15,1,0,1,1,0,Black,Non-Hispanic,1,"Portland",Anti-Hispanic,Adult,FALSE,FALSE
+"1995","State",MT,Montana,1995-11-01,0,1,1,0,1,Hispanic,Hispanic,1,"Hate Crime Against a Business,Commerical Establishment",1,"Helena",Anti-Arab,Juvenile,FALSE,FALSE
+"2003","Local",VA,Virginia,2003-03-01,0,0,1,0,1,White,Non-Hispanic,1,"Richmond",Anti-Asian,Adult,FALSE,FALSE
+"1992","State",KS,Kansas,1992-06-01,2,0,3,2,1,White,Non-Hispanic,3,"Hate Crime Against a Business,Commerical Establishment",3,"Topeka",Anti-Hispanic,Adult,TRUE,FALSE
+"2006","State",CT,Connecticut,2006-10-01,0,1,1,0,1,Asian,Asian,1,"Hate Crime Against a Business,Commerical Establishment",1,"Hartford",Anti-Arab,Juvenile,FALSE,FALSE
+"1994","State",UT,Utah,1994-03-20,1,0,1,1,0,Black,Non-Hispanic,1,"Hate Crime Against a Business,Commerical Establishment",1,"Salt Lake City",Anti-Jewish,Adult,FALSE,FALSE
+"2011","State",RI,Rhode Island,2011-09-01,0,0,1,0,1,Hispanic,Hispanic,1,"Hate Crime Against a Business,Commerical Establishment",1,"Providence",Anti-White,Adult,FALSE,FALSE
+"2000","Local",DE,Delaware,2000-04-15,1,0,1,1,0,White,Non-Hispanic,1,"Wilmington",Anti-Arab,Adult,FALSE,FALSE
+"1997","State",ND,North Dakota,1997-08-20,1,0,1,1,0,Black,Non-Hispanic,1,"Bismarck",Anti-Jewish,Adult,FALSE,FALSE
+"2004","State",WY,Wyoming,2004-01-20,0,1,1,0,1,Asian,Asian,1,"Hate Crime Against a Business,Commerical Establishment",1,"Cheyenne",Anti-Arab,Juvenile,FALSE,FALSE
+"1999","Local",AK,Alaska,1999-07-01,1,0,1,1,0,White,Non-Hispanic,1,"Anchorage",Anti-Hispanic,Adult,FALSE,FALSE
+"2013","State",IA,Iowa,2013-06-15,0,0,1,0,1,Black,Non-Hispanic,1,"Des Moines",Anti-Asian,Adult,FALSE,FALSE
+"2008","Local",CO,Colorado,2008-10-20,0,1,1,0,1,Hispanic,Hispanic,1,"Denver",Anti-White,Juvenile,FALSE,FALSE

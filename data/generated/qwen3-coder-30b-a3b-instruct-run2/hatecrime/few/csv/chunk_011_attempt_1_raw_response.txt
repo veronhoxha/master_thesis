@@ -1,0 +1,53 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2004,City,NJ,New Jersey,2004-05-13,0.0,0.0,0.0,0.0,0.0,Unknown,Not Specified,1.0,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Black or African American,Other,S,S
+2016,Federal,DC,Washington DC,2016-08-21,1.0,0.0,1.0,1.0,0.0,White,Not Hispanic or Latino,1.0,Burglary/Breaking and Entering,1.0,Apartment Complex,Anti-Jewish,Individual,S,S
+2001,County,FL,Florida,2001-03-15,2.0,0.0,2.0,2.0,0.0,Black or African American,Not Specified,2.0,Assault,2.0,Hospital,Anti-Asian,Individual,S,S
+1998,City,NY,New York,1998-11-04,0.0,1.0,3.0,3.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Simple Assault,1.0,Park/Auditorium,Anti-Homosexual,Individual,S,S
+2012,State,GA,Georgia,2012-07-19,1.0,0.0,1.0,1.0,0.0,White,Not Hispanic or Latino,1.0,Aggravated Assault,1.0,Residence/Apartment/House,Anti-Black or African American,Individual,S,S
+1991,County,MD,Massachusetts,1991-01-08,0.0,0.0,0.0,0.0,0.0,Unknown,Not Specified,1.0,Theft,0.0,Vehicle,Anti-White,Individual,S,S
+2011,Federal,OR,Oregon,2011-09-30,0.0,1.0,2.0,2.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Destruction/Damage/Vandalism of Property,1.0,Shopping Center,Anti-Gay (Female),Individual,S,S
+2007,City,MI,Michigan,2007-04-22,0.0,0.0,1.0,1.0,0.0,White,Not Hispanic or Latino,1.0,Assault,1.0,Restaurant,Anti-Jewish,Individual,S,S
+2015,State,TX,Texas,2015-12-14,3.0,1.0,5.0,5.0,0.0,Black or African American,Not Specified,4.0,Aggravated Assault,4.0,Store/C store/Office Supply Store,Anti-Hispanic or Latino,Individual,S,S
+2003,County,VA,Virginia,2003-02-28,0.0,0.0,2.0,1.0,1.0,White,Not Hispanic or Latino,1.0,Burglary/Breaking and Entering,1.0,School/College,Anti-Homosexual,Individual,S,S
+1995,City,WA,Washington,1995-08-15,1.0,0.0,4.0,4.0,0.0,White,Not Hispanic or Latino,1.0,Destruction/Damage/Vandalism of Property,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-African American,Individual,S,S
+2017,Federal,WV,West Virginia,2017-06-18,1.0,1.0,3.0,3.0,0.0,Hispanic or Latino,Hispanic or Latino,2.0,Simple Assault,2.0,Transportation Facility,Anti-White,Individual,S,S
+2005,County,IL,Illinois,2005-10-11,0.0,0.0,1.0,1.0,0.0,Asian/Pacific Islander,Not Hispanic or Latino,1.0,Assault,1.0,Hotel/Motel,Anti-Black or African American,Individual,S,S
+2013,State,AL,Alabama,2013-05-25,2.0,0.0,2.0,2.0,0.0,Black or African American,Not Specified,2.0,Aggravated Assault,2.0,Residence/Apartment/House,Anti-Jewish,Individual,S,S
+2008,City,AZ,Arizona,2008-09-07,1.0,1.0,3.0,3.0,0.0,White,Not Hispanic or Latino,2.0,Simple Assault,2.0,Store/C store/Office Supply Store,Anti-Homosexual,Individual,S,S
+2010,County,SC,South Carolina,2010-01-29,0.0,1.0,2.0,2.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Burglary/Breaking and Entering,1.0,Hotel/Motel,Anti-Asian,Individual,S,S
+1999,Federal,PA,Pennsylvania,1999-07-23,1.0,0.0,1.0,1.0,0.0,White,Not Hispanic or Latino,1.0,Destruction/Damage/Vandalism of Property,1.0,Shopping Center,Anti-Gay (Female),Individual,S,S
+2018,State,NV,Nevada,2018-03-16,3.0,0.0,4.0,4.0,0.0,Black or African American,Not Specified,3.0,Assault,3.0,Residence/Apartment/House,Anti-Black or African American,Individual,S,S
+2009,City,GA,Georgia,2009-11-14,0.0,0.0,1.0,1.0,0.0,White,Not Hispanic or Latino,1.0,Aggravated Assault,1.0,School/College,Anti-Jewish,Individual,S,S
+1994,County,NH,New Hampshire,1994-04-18,1.0,0.0,2.0,2.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Burglary/Breaking and Entering,1.0,Park/Auditorium,Anti-Homosexual,Individual,S,S
+2019,Federal,NC,North Carolina,2019-08-12,0.0,1.0,3.0,3.0,0.0,Asian/Pacific Islander,Not Hispanic or Latino,1.0,Destruction/Damage/Vandalism of Property,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Individual,S,S
+2002,City,MA,Massachusetts,2002-06-30,2.0,0.0,2.0,2.0,0.0,White,Not Hispanic or Latino,2.0,Simple Assault,2.0,Apartment Complex,Anti-Black or African American,Individual,S,S
+2014,State,CO,Colorado,2014-12-25,1.0,1.0,3.0,3.0,0.0,Hispanic or Latino,Hispanic or Latino,2.0,Aggravated Assault,2.0,Store/C store/Office Supply Store,Anti-Gay (Male),Individual,S,S
+2006,County,OH,Ohio,2006-02-04,0.0,0.0,1.0,1.0,0.0,White,Not Hispanic or Latino,1.0,Burglary/Breaking and Entering,1.0,Restaurant,Anti-Jewish,Individual,S,S
+1996,City,IN,Indiana,1996-10-29,0.0,1.0,2.0,2.0,0.0,Black or African American,Not Specified,1.0,Assault,1.0,School/College,Anti-Asian,Individual,S,S
+2020,Federal,OK,Oklahoma,2020-04-11,0.0,0.0,1.0,1.0,0.0,White,Not Hispanic or Latino,1.0,Destruction/Damage/Vandalism of Property,1.0,Park/Auditorium,Anti-Homosexual,Individual,S,S
+2000,State,RI,Rhode Island,2000-09-17,2.0,1.0,2.0,2.0,0.0,Hispanic or Latino,Hispanic or Latino,3.0,Simple Assault,3.0,Shopping Center,Anti-Black or African American,Individual,S,S
+2015,City,KS,Kansas,2015-07-03,1.0,0.0,2.0,2.0,0.0,White,Not Hispanic or Latino,1.0,Aggravated Assault,1.0,Transportation Facility,Anti-Jewish,Individual,S,S
+2012,County,ME,Maine,2012-01-12,1.0,0.0,1.0,1.0,0.0,Asian/Pacific Islander,Not Hispanic or Latino,1.0,Burglary/Breaking and Entering,1.0,Apartment Complex,Anti-Gay (Female),Individual,S,S
+2007,State,VT,Vermont,2007-05-28,0.0,1.0,2.0,2.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Assault,1.0,Residence/Apartment/House,Anti-White,Individual,S,S
+2011,City,TN,Tennessee,2011-11-20,0.0,0.0,1.0,1.0,0.0,Black or African American,Not Specified,1.0,Destruction/Damage/Vandalism of Property,1.0,Store/C store/Office Supply Store,Anti-Asian,Individual,S,S
+1993,Federal,MO,Missouri,1993-03-31,0.0,0.0,1.0,1.0,0.0,White,Not Hispanic or Latino,1.0,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,S,S
+2016,County,MT,Montana,2016-08-14,1.0,0.0,2.0,2.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Aggravated Assault,1.0,Shopping Center,Anti-Homosexual,Individual,S,S
+2005,City,NY,New York,2005-06-19,0.0,1.0,2.0,2.0,0.0,White,Not Hispanic or Latino,1.0,Burglary/Breaking and Entering,1.0,Park/Auditorium,Anti-Black or African American,Individual,S,S
+1997,State,MN,Minnesota,1997-12-05,2.0,0.0,2.0,2.0,0.0,Hispanic or Latino,Hispanic or Latino,2.0,Simple Assault,2.0,Restaurant,Anti-Jewish,Individual,S,S
+2013,City,AR,Arkansas,2013-04-21,0.0,0.0,1.0,1.0,0.0,White,Not Hispanic or Latino,1.0,Assault,1.0,Hotel/Motel,Anti-White,Individual,S,S
+2021,County,MD,Massachusetts,2021-02-09,0.0,1.0,3.0,3.0,0.0,Black or African American,Not Specified,1.0,Destruction/Damage/Vandalism of Property,1.0,Store/C store/Office Supply Store,Anti-Asian,Individual,S,S
+1998,Federal,DE,Delaware,1998-07-15,1.0,0.0,2.0,2.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Aggravated Assault,1.0,School/College,Anti-Gay (Male),Individual,S,S
+2017,State,NE,Nebraska,2017-10-04,1.0,0.0,3.0,3.0,0.0,White,Not Hispanic or Latino,1.0,Burglary/Breaking and Entering,1.0,Transportation Facility,Anti-Jewish,Individual,S,S
+2003,City,NM,New Mexico,2003-01-02,0.0,0.0,1.0,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Assault,1.0,Residence/Apartment/House,Anti-Gay (Female),Individual,S,S
+2019,County,WI,Wisconsin,2019-03-22,2.0,0.0,3.0,3.0,0.0,Black or African American,Not Specified,2.0,Destruction/Damage/Vandalism of Property,2.0,Apartment Complex,Anti-Black or African American,Individual,S,S
+2009,Federal,MS,Mississippi,2009-05-08,0.0,1.0,2.0,2.0,0.0,Asian/Pacific Islander,Not Hispanic or Latino,1.0,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,S,S
+2014,City,WA,Washington,2014-11-30,0.0,0.0,1.0,1.0,0.0,White,Not Hispanic or Latino,1.0,Aggravated Assault,1.0,Restaurant,Anti-Asian,Individual,S,S
+1999,County,CT,Connecticut,1999-08-27,1.0,1.0,2.0,2.0,0.0,Hispanic or Latino,Hispanic or Latino,2.0,Burglary/Breaking and Entering,2.0,School/College,Anti-Homosexual,Individual,S,S
+2018,State,HI,Hawaii,2018-12-19,0.0,0.0,1.0,1.0,0.0,White,Not Hispanic or Latino,1.0,Simple Assault,1.0,Shopping Center,Anti-White,Individual,S,S
+2006,Federal,LA,Louisiana,2006-03-09,1.0,0.0,1.0,1.0,0.0,Black or African American,Not Specified,1.0,Aggravated Assault,1.0,Park/Auditorium,Anti-Jewish,Individual,S,S
+2010,County,FL,Florida,2010-07-21,0.0,1.0,3.0,3.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Burglary/Breaking and Entering,1.0,Store/C store/Office Supply Store,Anti-Asian,Individual,S,S
+2002,City,GA,Georgia,2002-06-18,0.0,0.0,1.0,1.0,0.0,White,Not Hispanic or Latino,1.0,Assault,1.0,Transportation Facility,Anti-Homosexual,Individual,S,S
+2016,State,MN,Minnesota,2016-02-10,2.0,0.0,2.0,2.0,0.0,Black or African American,Not Specified,2.0,Destruction/Damage/Vandalism of Property,2.0,Apartment Complex,Anti-Black or African American,Individual,S,S
+2013,City,DE,Delaware,2013-09-14,0.0,0.0,1.0,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Simple Assault,1.0,Residence/Apartment/House,Anti-Jewish,Individual,S,S
+1995,Federal,OR,Oregon,1995-11-23,1.0,0.0,2.0,2.0,0.0,White,Not Hispanic or Latino,1.0,Aggravated Assault,1.0,Park/Auditorium,Anti-White,Individual,S,S
+2022,County,NY,New York,2022-01-30,0.0,1.0,3.0,3.0,0.0,Asian/Pacific Islander,Not Hispanic or Latino,1.0,Burglary/Breaking and Entering,1.0,Store/C store/Office Supply Store,Anti-Asian,Individual,S,S

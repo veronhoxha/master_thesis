@@ -1,0 +1,48 @@
+2004,City,NY,New York,2004-09-12,2,,1,Latin American,Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,0.0,Residence/Apartment,Anti-White,Other,M,F
+2004,County,NJ,New Jersey,2004-05-24,1,,1,White,White,2,Murder/Non-Negligent Manslaughter,0.0,Business,Anti-Semitic,Other,M,M
+2004,State,CA,California,2004-02-14,2,1,1,Asian,Asian,3,Intimidation,0.0,Street/Highway,Anti-Hispanic,Other,M,F
+2004,State,FL,Florida,2004-04-08,1,1,1,Black or African American,Black or African American,1,Burglary,0.0,Parking Lot/Garage,Anti-White,Other,M,M
+2004,State,WI,Wisconsin,2004-09-27,1,1,1,Native American,Native American,1,Simple Assault,0.0,College/University,Anti-White,Other,M,M
+2004,City,IL,Illinois,2004-11-11,1,1,2,White,White,2,Aggravated Assault,0.0,Residence/Apartment,Anti-Hispanic,Other,M,M
+2004,County,GA,Georgia,2004-10-21,1,1,1,Black or African American,Black or African American,1,Robbery,0.0,Business,Anti-White,Other,M,M
+2004,City,CA,California,2004-05-17,1,1,1,Asian,Asian,1,Vandalism,0.0,Parking Lot/Garage,Anti-Hispanic,Other,M,M
+2004,State,MI,Michigan,2004-03-27,1,1,1,White,White,1,Simple Assault,0.0,Street/Highway,Anti-Asian,Other,M,M
+2004,County,NC,North Carolina,2004-08-14,1,1,1,Black or African American,Black or African American,1,Intimidation,0.0,School/College,Anti-White,Other,M,M
+2004,State,IA,Iowa,2004-07-15,1,1,1,White,White,1,Simple Assault,0.0,Parking Lot/Garage,Anti-Jewish,Other,M,M
+2004,City,NY,New York,2004-07-02,1,1,1,Black or African American,Black or African American,1,Vandalism,0.0,Residence/Apartment,Anti-White,Other,M,M
+2004,County,FL,Florida,2004-05-10,1,1,1,Black or African American,Black or African American,1,Simple Assault,0.0,Business,Anti-Hispanic,Other,M,M
+2004,State,LA,Louisiana,2004-01-05,1,1,1,Black or African American,Black or African American,1,Intimidation,0.0,Street/Highway,Anti-White,Other,M,M
+2004,County,IL,Illinois,2004-10-29,1,1,1,White,White,1,Robbery,0.0,Residence/Apartment,Anti-Asian,Other,M,M
+2004,City,MI,Michigan,2004-02-20,2,1,1,Black or African American,Black or African American,2,Aggravated Assault,0.0,Parking Lot/Garage,Anti-White,Other,M,F
+2004,State,AL,Alabama,2004-07-04,1,1,1,Native American,Native American,1,Intimidation,0.0,Street/Highway,Anti-White,Other,M,M
+2004,City,CA,California,2004-08-28,1,1,1,Asian,Asian,1,Vandalism,0.0,Parking Lot/Garage,Anti-Hispanic,Other,M,M
+2004,County,SC,South Carolina,2004-04-05,1,1,1,Black or African American,Black or African American,1,Simple Assault,0.0,Business,Anti-White,Other,M,M
+2004,City,FL,Florida,2004-04-17,2,1,1,Black or African American,Black or African American,3,Intimidation,0.0,Residence/Apartment,Anti-White,Other,M,F
+2004,State,OH,Ohio,2004-02-03,1,1,1,Black or African American,Black or African American,1,Vandalism,0.0,Parking Lot/Garage,Anti-White,Other,M,M
+2004,City,NY,New York,2004-05-25,1,1,1,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,0.0,Business,Anti-White,Other,M,M
+2004,County,GA,Georgia,2004-10-16,1,1,1,Black or African American,Black or African American,1,Robbery,0.0,School/College,Anti-White,Other,M,M
+2004,State,ME,Maine,2004-02-25,1,1,1,White,White,1,Vandalism,0.0,Street/Highway,Anti-Asian,Other,M,M
+2004,County,PA,Pennsylvania,2004-01-15,1,1,1,Black or African American,Black or African American,1,Intimidation,0.0,Business,Anti-White,Other,M,M
+2004,City,CA,California,2004-09-25,1,1,1,Asian,Asian,1,Vandalism,0.0,Parking Lot/Garage,Anti-Hispanic,Other,M,M
+2004,State,TX,Texas,2004-06-22,1,1,1,Black or African American,Black or African American,1,Simple Assault,0.0,Street/Highway,Anti-White,Other,M,M
+2004,County,IL,Illinois,2004-09-27,1,1,1,White,White,1,Intimidation,0.0,Business,Anti-Asian,Other,M,M
+2004,State,IN,Indiana,2004-12-19,1,1,1,White,White,1,Vandalism,0.0,Street/Highway,Anti-Jewish,Other,M,M
+2004,City,MI,Michigan,2004-09-15,1,1,1,Black or African American,Black or African American,1,Simple Assault,0.0,Business,Anti-White,Other,M,M
+2004,County,FL,Florida,2004-11-09,1,1,1,Black or African American,Black or African American,1,Robbery,0.0,Residence/Apartment,Anti-Hispanic,Other,M,M
+2004,State,OR,Oregon,2004-08-26,1,1,1,Asian,Asian,1,Vandalism,0.0,Parking Lot/Garage,Anti-White,Other,M,M
+2004,County,SC,South Carolina,2004-08-01,1,1,1,Black or African American,Black or African American,1,Intimidation,0.0,Business,Anti-White,Other,M,M
+2004,City,CA,California,2004-02-18,1,1,1,Asian,Asian,1,Simple Assault,0.0,Parking Lot/Garage,Anti-Hispanic,Other,M,M
+2004,County,NC,North Carolina,2004-08-25,1,1,1,Black or African American,Black or African American,1,Simple Assault,0.0,Business,Anti-White,Other,M,M
+2004,State,WI,Wisconsin,2004-12-16,1,1,1,White,White,1,Vandalism,0.0,Street/Highway,Anti-Asian,Other,M,M
+2004,County,GA,Georgia,2004-02-26,1,1,1,Black or African American,Black or African American,1,Robbery,0.0,Residence/Apartment,Anti-White,Other,M,M
+2004,City,MI,Michigan,2004-09-03,1,1,1,Black or African American,Black or African American,1,Simple Assault,0.0,Business,Anti-White,Other,M,M
+2004,State,VT,Vermont,2004-09-04,1,1,1,White,White,1,Vandalism,0.0,Street/Highway,Anti-Asian,Other,M,M
+2004,County,FL,Florida,2004-12-25,1,1,1,Black or African American,Black or African American,1,Intimidation,0.0,Parking Lot/Garage,Anti-Hispanic,Other,M,M
+2004,City,NY,New York,2004-02-22,1,1,1,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,0.0,Residence/Apartment,Anti-White,Other,M,M
+2004,County,IL,Illinois,2004-01-28,1,1,1,White,White,1,Simple Assault,0.0,Business,Anti-Asian,Other,M,M
+2004,State,LA,Louisiana,2004-09-06,1,1,1,Black or African American,Black or African American,1,Vandalism,0.0,Parking Lot/Garage,Anti-White,Other,M,M
+2004,City,CA,California,2004-05-20,1,1,1,Asian,Asian,1,Intimidation,0.0,Street/Highway,Anti-Hispanic,Other,M,M
+2004,County,NC,North Carolina,2004-06-17,1,1,1,Black or African American,Black or African American,1,Vandalism,0.0,College/University,Anti-White,Other,M,M
+2004,State,GA,Georgia,2004-02-11,1,1,1,Black or African American,Black or African American,1,Simple Assault,0.0,Business,Anti-White,Other,M,M
+2004,County,MI,Michigan,2004-02-15,1,1,1,Black or African American,Black or African American,1,Robbery,0.0,School/College,Anti-White,Other,M,M
+2004,City,NJ,New Jersey,2004-10-14,1,1,1,Black or African American,Black or African American,1,Vandalism,0.0,Parking Lot/Garage,Anti-White,Other,M,M

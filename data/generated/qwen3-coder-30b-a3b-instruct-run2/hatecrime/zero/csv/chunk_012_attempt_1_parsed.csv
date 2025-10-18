@@ -1,0 +1,68 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,Local Police,CA,California,1991-03-15,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Residence,Religious Bias,Individual,True,False
+1992,Federal Agency,FL,Florida,1992-07-22,0,1,1,0,1,Black,Non-Hispanic,1,Burglary,1,Commercial,Biological Race Bias,Individual,False,True
+1993,State Police,NY,New York,1993-11-08,2,0,3,2,1,Hispanic,Hisp/Other,2,Motor Vehicle Theft,2,Roadway,Gender Identity Bias,Group,False,False
+1994,Local Police,TX,Texas,1994-02-14,1,1,4,2,2,White,Non-Hispanic,2,Aggravated Assault,2,Residence,Racial Bias,Individual,False,False
+1995,Federal Agency,IL,Illinois,1995-09-30,0,0,1,1,0,Asian,Non-Hispanic,0,Arson,0,Public Building,Sexual Orientation Bias,Individual,True,True
+1996,State Police,GA,Georgia,1996-05-19,1,0,2,1,1,White,Non-Hispanic,1,Simple Assault,1,Educational Facility,LGBTQ+ Bias,Individual,False,True
+1997,Local Police,PA,Pennsylvania,1997-12-04,0,1,1,0,1,Black,Non-Hispanic,1,Vandalism,1,School Property,Religious Bias,Individual,True,False
+1998,Federal Agency,OH,Ohio,1998-04-11,0,0,1,0,1,Hispanic,Hisp/Other,0,Theft,0,Public Transportation,Anti-Semitism Bias,Individual,False,False
+1999,State Police,VA,Virginia,1999-10-27,2,0,3,2,1,White,Non-Hispanic,2,Robbery,2,Housing Complex,Racial Bias,Individual,True,True
+2000,Local Police,MI,Michigan,2000-01-06,1,0,2,1,1,Asian,Non-Hispanic,1,Assault,1,Place of Worship,Religious Bias,Group,False,False
+2001,Federal Agency,NC,Carolina,2001-08-18,0,1,1,0,1,White,Non-Hispanic,1,Burglary,1,Residence,Gender Identity Bias,Individual,True,False
+2002,State Police,WA,Washington,2002-06-30,1,1,4,2,2,Black,Non-Hispanic,2,Aggravated Assault,2,College Campus,Racial Bias,Group,False,True
+2003,Local Police,NJ,New Jersey,2003-12-13,0,0,1,1,0,Hispanic,Hisp/Other,0,Assault,0,Street,Sexual Orientation Bias,Individual,False,False
+2004,Federal Agency,MD,Maryland,2004-03-22,2,0,3,2,1,White,Non-Hispanic,2,Motor Vehicle Theft,2,Park Property,Biological Race Bias,Individual,True,False
+2005,State Police,IN,Indiana,2005-09-05,1,0,2,1,1,Asian,Non-Hispanic,1,Simple Assault,1,Shopping Mall,Gender Identity Bias,Individual,False,True
+2006,Local Police,MO,Missouri,2006-07-19,0,1,1,0,1,Black,Non-Hispanic,1,Vandalism,1,Residence,Racial Bias,Individual,True,False
+2007,Federal Agency,TN,Tennessee,2007-11-28,1,0,2,1,1,Hispanic,Hisp/Other,1,Arson,1,Campus,LGBTQ+ Bias,Individual,False,True
+2008,State Police,SC,South Carolina,2008-02-14,0,0,1,0,1,White,Non-Hispanic,0,Theft,0,Public Building,Religious Bias,Individual,True,False
+2009,Local Police,AL,Alabama,2009-05-31,2,0,3,2,1,White,Non-Hispanic,2,Robbery,2,School Property,Anti-Semitism Bias,Individual,False,False
+2010,Federal Agency,KS,Kansas,2010-10-12,1,0,2,1,1,Asian,Non-Hispanic,1,Assault,1,Residence,Racial Bias,Group,True,True
+2011,State Police,LB,Louisiana,2011-04-17,0,1,1,0,1,Black,Non-Hispanic,1,Burglary,1,Housing Complex,Gender Identity Bias,Individual,False,False
+2012,Local Police,NV,Nevada,2012-08-03,1,0,2,1,1,White,Non-Hispanic,1,Motor Vehicle Theft,1,Park Property,Religious Bias,Individual,True,True
+2013,Federal Agency,VT,Vermont,2013-12-25,0,0,1,1,0,Hispanic,Hisp/Other,0,Simple Assault,0,Place of Worship,Sexual Orientation Bias,Individual,True,False
+2014,State Police,WI,Wisconsin,2014-01-10,2,0,3,2,1,White,Non-Hispanic,2,Assault,2,Commercial,Religious Bias,Individual,False,True
+2013,Local Police,OK,Oklahoma,2013-06-15,1,1,4,2,2,Black,Non-Hispanic,2,Aggravated Assault,2,School Facility,Gender Identity Bias,Group,True,False
+2012,Federal Agency,NE,Nebraska,2012-09-20,0,0,1,0,1,Hispanic,Hisp/Other,0,Theft,0,Roadway,Racial Bias,Individual,False,True
+2011,State Police,AZ,Arizona,2011-11-07,1,0,2,1,1,White,Non-Hispanic,1,Robbery,1,Residence,LGBTQ+ Bias,Individual,True,False
+2010,Local Police,WA,Washington,2010-03-28,0,1,1,0,1,Asian,Non-Hispanic,1,Burglary,1,Public Building,Religious Bias,Individual,False,True
+2009,Federal Agency,NY,New York,2009-07-14,1,0,2,1,1,Black,Non-Hispanic,1,Simple Assault,1,Shopping Mall,Anti-Semitism Bias,Individual,True,False
+2008,State Police,GA,Georgia,2008-10-30,0,0,1,1,0,White,Non-Hispanic,0,Assault,0,Public Transportation,Racial Bias,Individual,True,True
+2007,Local Police,FL,Florida,2007-02-12,2,0,3,2,1,Hispanic,Hisp/Other,2,Motor Vehicle Theft,2,Housing Complex,Gender Identity Bias,Group,False,False
+2006,Federal Agency,TX,Texas,2006-05-18,1,1,4,2,2,White,Non-Hispanic,2,Aggravated Assault,2,Residence,Sexual Orientation Bias,Individual,True,True
+2005,State Police,VA,Virginia,2005-08-22,0,0,1,0,1,Asian,Non-Hispanic,0,Theft,0,School Property,Religious Bias,Individual,True,False
+2004,Local Police,MI,Michigan,2004-12-05,1,0,2,1,1,White,Non-Hispanic,1,Robbery,1,Park Property,Racial Bias,Individual,False,True
+2003,Federal Agency,OH,Ohio,2003-01-19,0,1,1,0,1,Black,Non-Hispanic,1,Burglary,1,Commercial,Gender Identity Bias,Individual,True,False
+2002,State Police,PA,Pennsylvania,2002-04-26,1,0,2,1,1,Hispanic,Hisp/Other,1,Assault,1,College Campus,LGBTQ+ Bias,Single,True,True
+2001,Local Police,NC,Carolina,2001-07-13,0,0,1,1,0,White,Non-Hispanic,0,Motor Vehicle Theft,0,Residence,Religious Bias,Individual,True,False
+1999,Federal Agency,MD,Maryland,1999-10-02,1,0,2,1,1,Asian,Non-Hispanic,1,Simple Assault,1,Street,Racial Bias,Individual,True,True
+1998,State Police,DE,Delaware,1998-03-30,0,1,1,0,1,White,Non-Hispanic,1,Burglary,1,Public Building,Sexual Orientation Bias,Individual,True,False
+1997,Local Police,NJ,New Jersey,1997-06-25,2,0,3,2,1,Hispanic,Hisp/Other,2,Assault,2,Roadway,Religious Bias,Group,True,False
+1996,Federal Agency,CT,Connecticut,1996-12-08,1,0,2,1,1,White,Non-Hispanic,1,Aggravated Assault,1,Residence,Anti-Semitism Bias,Individual,True,True
+1995,State Police,RI,Rhode Island,1995-11-11,0,0,1,0,1,Black,Non-Hispanic,0,Theft,0,Place of Worship,Racial Bias,Individual,True,False
+1994,Local Police,MA,Massachusetts,1994-02-17,1,1,4,2,2,White,Non-Hispanic,2,Motor Vehicle Theft,2,School Property,Gender Identity Bias,Group,True,True
+1993,Federal Agency,NH,New Hampshire,1993-05-12,0,0,1,1,0,Hispanic,Hisp/Other,0,Burglary,0,Shopping Mall,Religious Bias,Individual,True,False
+1992,State Police,ME,Maine,1992-08-28,2,0,3,2,1,White,Non-Hispanic,2,Simple Assault,2,Public Transportation,Sexual Orientation Bias,Individual,True,True
+1991,Local Police,WV,West Virginia,1991-10-20,1,0,2,1,1,Black,Non-Hispanic,1,Assault,1,Housing Complex,Racial Bias,Individual,True,False
+1994,State Police,VT,Vermont,1994-01-03,0,0,1,0,1,Hispanic,Hisp/Other,0,Theft,0,Church Property,LGBTQ+ Bias,Individual,True,False
+1995,Federal Agency,TN,Tennessee,1995-03-15,1,1,4,2,2,White,Non-Hispanic,2,Aggravated Assault,2,Office Building,Religious Bias,Group,True,True
+1996,Local Police,SC,South Carolina,1996-07-22,0,0,1,1,0,Asian,Non-Hispanic,0,Motor Vehicle Theft,0,Park Property,Anti-Semitism Bias,Individual,True,False
+1997,State Police,AL,Alabama,1997-09-30,2,0,3,2,1,Black,Non-Hispanic,2,Robbery,2,School Facility,Gender Identity Bias,Individual,True,True
+1998,Federal Agency,FL,Florida,1998-11-08,1,0,2,1,1,White,Non-Hispanic,1,Burglary,1,Residence,Religious Bias,Individual,True,False
+1999,Local Police,GA,Georgia,1999-02-14,0,1,1,0,1,Hispanic,Hisp/Other,1,Assault,1,School Property,Racial Bias,Individual,True,True
+2000,State Police,NC,Carolina,2000-05-20,1,0,2,1,1,White,Non-Hispanic,1,Motor Vehicle Theft,1,Public Building,Gender Identity Bias,Individual,False,False
+2001,Federal Agency,VA,Virginia,2001-08-04,0,0,1,0,1,Black,Non-Hispanic,0,Theft,0,Campus,LGBTQ+ Bias,Individual,True,True
+2002,Local Police,PA,Pennsylvania,2002-11-12,2,0,3,2,1,Hispanic,Hisp/Other,2,Simple Assault,2,Residence,Religious Bias,Group,True,False
+2003,State Police,NY,New York,2003-01-25,1,1,4,2,2,White,Non-Hispanic,2,Aggravated Assault,2,Street,Anti-Semitism Bias,Individual,False,True
+2004,Federal Agency,NJ,New Jersey,2004-04-30,0,0,1,1,0,Asian,Non-Hispanic,0,Burglary,0,Shopping Mall,Sexual Orientation Bias,Individual,True,False
+2005,Local Police,IL,Illinois,2005-07-17,1,0,2,1,1,White,Non-Hispanic,1,Motor Vehicle Theft,1,Office Building,Racial Bias,Individual,True,True
+2006,State Police,OH,Ohio,2006-10-02,0,1,1,0,1,Hispanic,Hisp/Other,1,Assault,1,Park Property,Religious Bias,Individual,True,False
+2007,Federal Agency,MI,Michigan,2007-01-18,2,0,3,2,1,White,Non-Hispanic,2,Robbery,2,Commercial,Gender Identity Bias,Group,True,True
+2008,Local Police,GA,Georgia,2008-03-20,1,0,2,1,1,Black,Non-Hispanic,1,Burglary,1,Housing Complex,LGBTQ+ Bias,Individual,True,False
+2009,State Police,TX,Texas,2009-06-06,0,0,1,0,1,Hispanic,Hisp/Other,0,Theft,0,Residence,Anti-Semitism Bias,Individual,True,True
+2010,Federal Agency,AL,Alabama,2010-09-13,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Public Building,Religious Bias,Individual,True,False
+2011,Local Police,NC,Carolina,2011-12-21,0,1,1,0,1,Asian,Non-Hispanic,1,Motor Vehicle Theft,1,College Campus,Racial Bias,Individual,True,True
+2012,State Police,WV,West Virginia,2012-03-05,1,1,4,2,2,White,Non-Hispanic,2,Burglary,2,Street,Gender Identity Bias,Group,True,False
+2013,Federal Agency,MD,Maryland,2013-05-19,0,0,1,1,0,Black,Non-Hispanic,0,Aggravated Assault,0,Park Property,LGBTQ+ Bias,Individual,True,True
+2014,Local Police,DE,Delaware,2014-08-07,2,0,3,2,1,Hispanic,Hisp/Other,2,Simple Assault,2,Residence,Religious Bias,Individual,True,False

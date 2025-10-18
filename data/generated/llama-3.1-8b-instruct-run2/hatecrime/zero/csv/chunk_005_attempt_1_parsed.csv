@@ -1,0 +1,28 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2012,Local,,,4/25/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Transportation,Anti-Other Bias,Adult,false,N/A
+2012,Local,,,5/31/2012,1,0,1,1,0,Asian,Asian,1,Simple Assault,1,Public Housing,Anti-Asian Bias,Adult,false,N/A
+,2012,Local,,,6/15/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,"School, Including Public, Private, Charter, and Magnet",,Anti-Other Bias,Adult
+,2012,State,,,3/21/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Park or Playground,,Anti-Other Bias,Adult
+,2012,Federal,,,4/15/2012,1,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,1,Other Public Space,,Anti-Other Bias,Adult
+,2012,Federal,,,5/13/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Park or Playground,,Anti-Other Bias,Adult
+,2012,Local,,,2/24/2012,1,0,1,1,0,Asian,Asian,1,Simple Assault,1,College or University,,Anti-Asian Bias,Adult
+,2012,State,,,4/20/2012,1,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,1,Public Transportation,,Anti-Other Bias,Adult
+,2012,State,,,5/14/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Park or Playground,,Anti-Other Bias,Adult
+,2012,Federal,,,3/20/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Housing,,Anti-Other Bias,Adult
+,2012,Federal,,,2/18/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Other Public Space,,Anti-Other Bias,Adult
+,2012,State,,,6/16/2012,1,0,1,1,0,Asian,Asian,1,Simple Assault,1,"School, Including Public, Private, Charter, and Magnet",,Anti-Asian Bias,Adult
+,2012,Local,,,4/28/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Park or Playground,,Anti-Other Bias,Adult
+,2012,Federal,,,6/4/2012,1,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,1,Public Transportation,,Anti-Other Bias,Adult
+,2012,Local,,,3/7/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Housing,,Anti-Other Bias,Adult
+,2012,State,,,2/22/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Transportation,,Anti-Other Bias,Adult
+,2012,Federal,,,5/2/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Park or Playground,,Anti-Other Bias,Adult
+,2012,Federal,,,6/1/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Transportation,,Anti-Other Bias,Adult
+,2012,Local,,,5/15/2012,1,0,1,1,0,Asian,Asian,1,Simple Assault,1,Public Housing,,Anti-Asian Bias,Adult
+,2012,Local,,,3/19/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Transportation,,Anti-Other Bias,Adult
+,2012,Local,,,6/3/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Housing,,Anti-Other Bias,Adult
+,2012,State,,,4/5/2012,1,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,1,College or University,,Anti-Other Bias,Adult
+,2012,Federal,,,5/6/2012,1,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,1,Public Park or Playground,,Anti-Other Bias,Adult
+,2012,Federal,,,6/20/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Transportation,,Anti-Other Bias,Adult
+,2012,Local,,,3/26/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Housing,,Anti-Other Bias,Adult
+,2012,Local,,,2/29/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Transportation,,Anti-Other Bias,Adult
+,2012,State,,,5/5/2012,1,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,1,College or University,,Anti-Other Bias,Adult

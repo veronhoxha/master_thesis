@@ -1,0 +1,47 @@
+"date","data_year","agency_type_name","state_abbr","state_name","incident_date","adult_victim_count","juvenile_victim_count","total_offender_count","adult_offender_count","juvenile_offender_count","offender_race","offender_ethnicity","victim_count","offense_name","total_individual_victims","location_name","bias_desc","victim_types","multiple_offense","multiple_bias"
+
+"2022-09-14","1993","State Police","NY","New York","1993-06-10",1,0,1,1,0,"White","Not Hispanic or Latino",2,"Vandalism",2,"Public Park","Anti-LGBT",1,0,0
+"2022-09-14","1994","County Police","CA","California","1994-05-28",1,0,2,1,1,"Asian","Not Hispanic or Latino",3,"Intimidation",3,"Residential Area","Anti-White",1,0,1
+"2022-09-14","1995","City Police","TX","Texas","1995-07-04",0,1,1,0,1,"Black","Hispanic or Latino",1,"Simple Assault",1,"Street","Anti-Jewish",0,1,0
+"2022-09-14","1996","State Police","FL","Florida","1996-04-16",2,0,2,2,0,"White","Not Hispanic or Latino",2,"Aggravated Assault",2,"Commercial Area","Anti-Romani",1,0,0
+"2022-09-14","1997","County Police","IL","Illinois","1997-02-22",1,0,1,1,0,"American Indian or Alaska Native","Not Hispanic or Latino",1,"Vandalism",1,"Public Housing","Anti-Male","1","0","0
+"2022-09-14","1998","City Police","GA","Georgia","1998-06-21",0,1,1,0,1,"Black","Not Hispanic or Latino",1,"Intimidation",1,"Public Park","Anti-Lesbian, Gay, Bisexual, or Transgender","0","1","0
+"2022-09-14","1999","State Police","OH","Ohio","1999-08-15",1,0,2,1,1,"White","Not Hispanic or Latino",3,"Simple Assault",3,"Public Transportation","Anti-Sikh","1","0","1
+"2022-09-14","2000","County Police","NC","North Carolina","2000-09-14",2,0,2,2,0,"Black","Not Hispanic or Latino",2,"Aggravated Assault",2,"Commercial Area","Anti-White","1","0","0
+"2022-09-14","2001","City Police","MA","Massachusetts","2001-05-13",0,1,1,0,1,"White","Not Hispanic or Latino",1,"Intimidation",1,"Public Park","Anti-Female","0","1","0
+"2022-09-14","2002","State Police","SC","South Carolina","2002-06-04",1,0,1,1,0,"Black","Not Hispanic or Latino",1,"Vandalism",1,"Residential Area","Anti-Jewish","1","0","0
+"2022-09-14","2003","County Police","OR","Oregon","2003-09-26",2,0,2,2,0,"White","Not Hispanic or Latino",2,"Aggravated Assault",2,"Commercial Area","Anti-Romani","1","0","0
+"2022-09-14","2004","City Police","LA","Louisiana","2004-04-10",1,0,1,1,0,"Black","Not Hispanic or Latino",1,"Simple Assault",1,"Public Housing","Anti-Male","1","0","0
+"2022-09-14","2005","State Police","VA","Virginia","2005-06-18",0,1,1,0,1,"White","Not Hispanic or Latino",1,"Intimidation",1,"Public Park","Anti-Lesbian, Gay, Bisexual, or Transgender","0","1","0
+"2022-09-14","2006","County Police","WY","Wyoming","2006-03-12",1,0,2,1,1,"White","Not Hispanic or Latino",3,"Simple Assault",3,"Public Transportation","Anti-Sikh","1","0","1
+"2022-09-14","2007","City Police","IN","Indiana","2007-09-16",2,0,2,2,0,"American Indian or Alaska Native","Not Hispanic or Latino",2,"Aggravated Assault",2,"Commercial Area","Anti-White","1","0","0
+"2022-09-14","2008","State Police","MT","Montana","2008-04-18",0,1,1,0,1,"Black","Not Hispanic or Latino",1,"Intimidation",1,"Public Park","Anti-Female","0","1","0
+"2022-09-14","2009","County Police","DE","Delaware","2009-08-08",1,0,1,1,0,"White","Not Hispanic or Latino",1,"Vandalism",1,"Residential Area","Anti-Jewish","1","0","0
+"2022-09-14","2010","City Police","NM","New Mexico","2010-04-16",2,0,2,2,0,"White","Not Hispanic or Latino",2,"Aggravated Assault",2,"Commercial Area","Anti-Romani","1","0","0
+"2022-09-14","2011","State Police","MI","Michigan","2011-06-09",1,0,1,1,0,"American Indian or Alaska Native","Not Hispanic or Latino",1,"Simple Assault",1,"Public Housing","Anti-Male","1","0","0
+"2022-09-14","2012","County Police","RI","Rhode Island","2012-02-14",0,1,1,0,1,"Black","Not Hispanic or Latino",1,"Intimidation",1,"Public Park","Anti-Lesbian, Gay, Bisexual, or Transgender","0","1","0
+"2022-09-14","2013","City Police","CT","Connecticut","2013-09-22",2,0,2,2,0,"White","Not Hispanic or Latino",2,"Aggravated Assault",2,"Commercial Area","Anti-White","1","0","0
+"2022-09-14","2014","State Police","NV","Nevada","2014-07-01",1,0,1,1,0,"Black","Not Hispanic or Latino",1,"Vandalism",1,"Residential Area","Anti-Jewish","1","0","0
+"2022-09-14","1992","County Police","UT","Utah","1992-06-25",0,1,1,0,1,"White","Not Hispanic or Latino",1,"Intimidation",1,"Public Park","Anti-Lesbian, Gay, Bisexual, or Transgender","0","1","0
+"2022-09-14","1993","State Police","ND","North Dakota","1993-04-15",2,0,2,2,0,"American Indian or Alaska Native","Not Hispanic or Latino",2,"Aggravated Assault",2,"Commercial Area","Anti-White","1","0","0
+"2022-09-14","1994","City Police","AK","Alaska","1994-08-12",1,0,1,1,0,"Black","Not Hispanic or Latino",1,"Simple Assault",1,"Public Housing","Anti-Male","1","0","0
+"2022-09-14","1995","County Police","ME","Maine","1995-02-26",0,1,1,0,1,"White","Not Hispanic or Latino",1,"Intimidation",1,"Public Park","Anti-Female","0","1","0
+"2022-09-14","1996","State Police","HI","Hawaii","1996-07-19",2,0,2,2,0,"White","Not Hispanic or Latino",2,"Aggravated Assault",2,"Commercial Area","Anti-Romani","1","0","0
+"2022-09-14","1997","City Police","KS","Kansas","1997-09-02",1,0,1,1,0,"American Indian or Alaska Native","Not Hispanic or Latino",1,"Vandalism",1,"Residential Area","Anti-Jewish","1","0","0
+"2022-09-14","1998","County Police","ID","Idaho","1998-05-17",0,1,1,0,1,"Black","Not Hispanic or Latino",1,"Intimidation",1,"Public Park","Anti-Lesbian, Gay, Bisexual, or Transgender","0","1","0
+"2022-09-14","1999","State Police","NE","Nebraska","1999-04-09",2,0,2,2,0,"White","Not Hispanic or Latino",2,"Aggravated Assault",2,"Commercial Area","Anti-White","1","0","0
+"2022-09-14","2000","City Police","TN","Tennessee","2000-07-17",1,0,1,1,0,"Black","Not Hispanic or Latino",1,"Simple Assault",1,"Public Housing","Anti-Male","1","0","0
+"2022-09-14","2001","County Police","WV","West Virginia","2001-05-08",0,1,1,0,1,"White","Not Hispanic or Latino",1,"Intimidation",1,"Public Park","Anti-Female","0","1","0
+"2022-09-14","2002","State Police","AR","Arkansas","2002-02-14",2,0,2,2,0,"American Indian or Alaska Native","Not Hispanic or Latino",2,"Aggravated Assault",2,"Commercial Area","Anti-White","1","0","0
+"2022-09-14","2003","City Police","KY","Kentucky","2003-09-19",1,0,1,1,0,"Black","Not Hispanic or Latino",1,"Vandalism",1,"Residential Area","Anti-Jewish","1","0","0
+"2022-09-14","2004","County Police","OK","Oklahoma","2004-08-16",0,1,1,0,1,"White","Not Hispanic or Latino",1,"Intimidation",1,"Public Park","Anti-Lesbian, Gay, Bisexual, or Transgender","0","1","0
+"2022-09-14","2005","State Police","AZ","Arizona","2005-07-15",2,0,2,2,0,"White","Not Hispanic or Latino",2,"Aggravated Assault",2,"Commercial Area","Anti-White","1","0","0
+"2022-09-14","2006","City Police","MD","Maryland","2006-05-02",1,0,1,1,0,"Black","Not Hispanic or Latino",1,"Simple Assault",1,"Public Housing","Anti-Male","1","0","0
+"2022-09-14","2007","County Police","SD","South Dakota","2007-09-26",0,1,1,0,1,"White","Not Hispanic or Latino",1,"Intimidation",1,"Public Park","Anti-Female","0","1","0
+"2022-09-14","2008","State Police","MN","Minnesota","2008-08-18",2,0,2,2,0,"American Indian or Alaska Native","Not Hispanic or Latino",2,"Aggravated Assault",2,"Commercial Area","Anti-White","1","0","0
+"2022-09-14","2009","City Police","CO","Colorado","2009-09-14",1,0,1,1,0,"Black","Not Hispanic or Latino",1,"Vandalism",1,"Residential Area","Anti-Jewish","1","0","0
+"2022-09-14","2010","County Police","VT","Vermont","2010-04-20",0,1,1,0,1,"White","Not Hispanic or Latino",1,"Intimidation",1,"Public Park","Anti-Lesbian, Gay, Bisexual, or Transgender","0","1","0
+"2022-09-14","2011","State Police","LA","Louisiana","2011-08-15",2,0,2,2,0,"White","Not Hispanic or Latino",2,"Aggravated Assault",2,"Commercial Area","Anti-White","1","0","0
+"2022-09-14","2012","City Police","MO","Missouri","2012-05-21",1,0,1,1,0,"Black","Not Hispanic or Latino",1,"Simple Assault",1,"Public Housing","Anti-Male","1","0","0
+"2022-09-14","2013","County Police","GA","Georgia","2013-03-16",0,1,1,0,1,"White","Not Hispanic or Latino",1,"Intimidation",1,"Public Park","Anti-Female","0","1","0
+"2022-09-14","2014","State Police","IA","Iowa","2014-06-20",2,0,2,2,0,"American Indian or Alaska Native","Not Hispanic or Latino",2,"Aggravated Assault",2,"Commercial Area","Anti-White","1","0","0"

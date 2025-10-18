@@ -1,0 +1,41 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2004,State,CA,California,2004-02-10,,,0,,,White,Not Hispanic or Latino,2,Larceny-Theft,2.0,Residence/Home,Anti-Gay (Male),Other,2,S
+2009,Local,IL,Illinois,2009-03-27,1.0,0.0,0,0.0,0.0,Black or African American,Not Hispanic or Latino,1,Vandalism,1.0,Street/Road Other,Anti-Hispanic,Individual,S,Y
+2004,State,NJ,New Jersey,2004-11-01,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,2,Hate Crime Against Individuals,2.0,Other,Anti-American Indian/Alaska Native,Other,2,S
+2003,City,MA,Massachusetts,2003-01-01,1.0,0.0,0,0.0,0.0,Asian,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-White,Individual,S,Y
+2009,Local,TX,Texas,2009-08-01,2.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,2,Simple Assault,2.0,Street/Road Other,Anti-Gay (Male),Other,2,S
+2010,State,FL,Florida,2010-03-18,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Intimidation,1.0,Residence/Home,Anti-Jewish,Individual,S,Y
+2007,Local,GA,Georgia,2007-09-01,1.0,0.0,0,0.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Home,Anti-Asian,Individual,S,Y
+2003,State,NC,North Carolina,2003-05-01,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,2,Simple Assault,2.0,Residence/Home,Anti-Latino,Other,2,S
+2002,Local,WI,Wisconsin,2002-02-19,0.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Hate Crime Against Individuals,1.0,Street/Road Other,Anti-White,Individual,S,Y
+2005,State,MI,Michigan,2005-04-09,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,2,Vandalism,2.0,Residence/Home,Anti-Gay (Female),Other,2,S
+2008,Local,OH,Ohio,2008-01-05,1.0,0.0,0,0.0,0.0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-Asian,Individual,S,Y
+2007,State,IL,Illinois,2007-08-21,0.0,0.0,0,0.0,0.0,Asian,Not Hispanic or Latino,2,Hate Crime Against Individuals,2.0,Other,Anti-Jewish,Other,2,S
+2006,Local,SC,South Carolina,2006-05-17,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,2,Simple Assault,2.0,Residence/Home,Anti-Gay (Male),Other,2,S
+2007,City,TN,Tennessee,2007-06-01,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Hate Crime Against Individuals,1.0,Residence/Home,Anti-Black or African American,Individual,S,Y
+2004,State,IL,Illinois,2004-07-01,1.0,0.0,0,0.0,0.0,Asian,Not Hispanic or Latino,1,Vandalism,1.0,Residence/Home,Anti-Gay (Female),Individual,S,Y
+2006,Local,MI,Michigan,2006-03-15,2.0,0.0,0,0.0,0.0,Black or African American,Not Hispanic or Latino,2,Simple Assault,2.0,Street/Road Other,Anti-Asian,Other,2,S
+2001,State,FL,Florida,2001-09-01,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-White,Individual,S,Y
+2003,City,TX,Texas,2003-11-01,0.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Home,Anti-American Indian/Alaska Native,Individual,S,Y
+1998,Local,NC,North Carolina,1998-02-01,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Hate Crime Against Individuals,1.0,Street/Road Other,Anti-Black or African American,Individual,S,Y
+2001,State,GA,Georgia,2001-02-01,1.0,0.0,0,0.0,0.0,Asian,Not Hispanic or Latino,2,Larceny-Theft,2.0,Residence/Home,Anti-Gay (Male),Other,2,S
+2004,Local,OH,Ohio,2004-08-01,0.0,0.0,0,0.0,0.0,Black or African American,Not Hispanic or Latino,2,Simple Assault,2.0,Residence/Home,Anti-Asian,Individual,S,Y
+2007,State,WI,Wisconsin,2007-01-01,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-White,Individual,S,Y
+2008,City,CA,California,2008-01-02,1.0,0.0,0,0.0,0.0,Asian,Not Hispanic or Latino,1,Hate Crime Against Individuals,1.0,Street/Road Other,Anti-Asian,Individual,S,Y
+2005,Local,NJ,New Jersey,2005-06-03,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,2,Intimidation,2.0,Residence/Home,Anti-Gay (Male),Other,2,S
+2011,State,IA,Iowa,2011-02-13,2.0,0.0,0,0.0,0.0,Black or African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Other,Anti-White,Individual,S,Y
+2006,City,IL,Illinois,2006-01-19,0.0,0.0,0,0.0,0.0,Asian,Not Hispanic or Latino,2,Hate Crime Against Individuals,2.0,Residence/Home,Anti-Gay (Female),Other,2,S
+2007,State,MI,Michigan,2007-03-01,1.0,0.0,0,0.0,0.0,Black or African American,Not Hispanic or Latino,2,Vandalism,2.0,Residence/Home,Anti-Latino,Other,2,S
+2005,Local,GA,Georgia,2005-09-01,0.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,2,Simple Assault,2.0,Street/Road Other,Anti-Gay (Male),Other,2,S
+2007,State,WI,Wisconsin,2007-05-01,0.0,0.0,0,0.0,0.0,White,Not Hispanic or Latino,2,Hate Crime Against Individuals,2.0,Other,Anti-Jewish,Other,2,S
+2008,Local,FL,Florida,2008-03-30,1.0,0.0,0,0.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Home,Anti-Gay (Female),Individual,S,Y
+2005,City,NY,New York,2005-06-17,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2.0,Street/Road Other,Anti-Latino,Other,2,S
+2004,State,MI,Michigan,2004-10-01,0.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Intimidation,1.0,Residence/Home,Anti-Gay (Female),Individual,S,Y
+2009,Local,IL,Illinois,2009-10-01,0.0,0.0,0,0.0,0.0,Black or African American,Not Hispanic or Latino,2,Larceny-Theft,2.0,Residence/Home,Anti-Gay (Male),Individual,S,Y
+2006,City,GA,Georgia,2006-01-01,2.0,0.0,0,0.0,0.0,Asian,Not Hispanic or Latino,2,Hate Crime Against Individuals,2.0,Other,Anti-Latino,Other,2,S
+2001,State,TX,Texas,2001-03-01,1.0,0.0,0,0.0,0.0,Black or African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Anti-Gay (Female),Individual,S,Y
+2002,Local,NC,North Carolina,2002-03-01,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Intimidation,1.0,Residence/Home,Anti-Asian,Individual,S,Y
+1999,State,CA,California,1999-04-01,0.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Home,Anti-Hispanic,Individual,S,Y
+2005,Local,NC,North Carolina,2005-08-01,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Home,Anti-Jewish,Individual,S,Y
+2007,City,FL,Florida,2007-11-01,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,2,Simple Assault,2.0,Street/Road Other,Anti-Asian,Other,2,S
+2002,State,IL,Illinois,2002-01-01,0.0,0.0,0,0.0,0.0,Asian,Not Hispanic or Latino,2,Hate Crime Against Individuals,2.0,Other,Anti-Gay (Female),Other,2,S

@@ -1,0 +1,49 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2014,Local,NY,New York,2014-03-27,1,0,2,1,1,White,Not Hispanic or Latino,1,Simple Assault,1,Brooklyn,Ethnicity/Immigrant Status,Adult,Yes,Yes
+2013,State,CA,California,2013-02-11,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1,Los Angeles,Religion,,No,Yes
+2012,Local,FL,Florida,2012-08-25,1,0,1,1,0,Black or African American,Black or African American,1,Vandalism,1,Miami,Disability,,Yes,Yes
+2011,Federal,TX,Texas,2011-06-20,0,0,1,0,1,Asian,Asian,1,Aggravated Assault,1,Houston,Sexual Orientation,,No,Yes
+2010,Local,GA,Georgia,2010-10-29,1,0,2,1,1,White,Not Hispanic or Latino,2,Simple Assault,2,Atlanta,Ethnicity/Immigrant Status,"Adult, Juvenile",Yes,Yes
+2009,State,IL,Illinois,2009-12-15,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1,Chicago,Religion,,No,Yes
+2008,Local,NC,North Carolina,2008-05-22,1,0,1,1,0,Black or African American,Black or African American,1,Vandalism,1,Charlotte,Disability,,Yes,Yes
+2007,Federal,OH,Ohio,2007-01-17,0,0,1,0,1,Asian,Asian,1,Aggravated Assault,1,Columbus,Sexual Orientation,,No,Yes
+2006,Local,TN,Tennessee,2006-09-18,1,0,2,1,1,White,Not Hispanic or Latino,2,Simple Assault,2,Nashville,Ethnicity/Immigrant Status,"Adult, Juvenile",Yes,Yes
+2005,State,PA,Pennsylvania,2005-03-28,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1,Philadelphia,Religion,,No,Yes
+2004,Local,SC,South Carolina,2004-11-14,1,0,1,1,0,Black or African American,Black or African American,1,Vandalism,1,Columbia,Disability,,Yes,Yes
+2003,Federal,WI,Wisconsin,2003-07-10,0,0,1,0,1,Asian,Asian,1,Aggravated Assault,1,Madison,Sexual Orientation,,No,Yes
+2002,Local,AL,Alabama,2002-02-24,1,0,2,1,1,White,Not Hispanic or Latino,2,Simple Assault,2,Birmingham,Ethnicity/Immigrant Status,"Adult, Juvenile",Yes,Yes
+2001,State,CO,Colorado,2001-09-17,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1,Denver,Religion,,No,Yes
+2000,Local,ID,Idaho,2000-04-22,1,0,1,1,0,Black or African American,Black or African American,1,Vandalism,1,Boise,Disability,,Yes,Yes
+1999,Federal,KS,Kansas,1999-01-15,0,0,1,0,1,Asian,Asian,1,Aggravated Assault,1,Topeka,Sexual Orientation,,No,Yes
+1998,Local,LA,Louisiana,1998-08-26,1,0,2,1,1,White,Not Hispanic or Latino,2,Simple Assault,2,New Orleans,Ethnicity/Immigrant Status,"Adult, Juvenile",Yes,Yes
+1997,State,ME,Maine,1997-03-21,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1,Portland,Religion,,No,Yes
+1996,Local,MS,Mississippi,1996-10-23,1,0,1,1,0,Black or African American,Black or African American,1,Vandalism,1,Jackson,Disability,,Yes,Yes
+1995,Federal,MO,Missouri,1995-06-18,0,0,1,0,1,Asian,Asian,1,Aggravated Assault,1,Kansas City,Sexual Orientation,,No,Yes
+1994,Local,NE,Nebraska,1994-01-20,1,0,2,1,1,White,Not Hispanic or Latino,2,Simple Assault,2,Omaha,Ethnicity/Immigrant Status,"Adult, Juvenile",Yes,Yes
+1993,State,NV,Nevada,1993-09-15,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1,Las Vegas,Religion,,No,Yes
+1992,Local,OR,Oregon,1992-04-22,1,0,1,1,0,Black or African American,Black or African American,1,Vandalism,1,Portland,Disability,,Yes,Yes
+1991,Federal,UT,Utah,1991-01-17,0,0,1,0,1,Asian,Asian,1,Aggravated Assault,1,Salt Lake City,Sexual Orientation,,No,Yes
+2014,Federal,AZ,Arizona,2014-11-14,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Phoenix,Disability,,Yes,No
+2013,State,DE,Delaware,2013-07-20,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1,Wilmington,Religion,,No,Yes
+2012,Local,VT,Vermont,2012-02-25,1,0,2,1,1,White,Not Hispanic or Latino,2,Simple Assault,2,Burlington,Ethnicity/Immigrant Status,"Adult, Juvenile",Yes,Yes
+2011,Federal,GU,Guam,2011-05-21,0,0,1,0,1,Asian,Asian,1,Aggravated Assault,1,Hagåtña,Sexual Orientation,,No,Yes
+2010,Local,AS,American Samoa,2010-08-26,1,0,1,1,0,Black or African American,Black or African American,1,Vandalism,1,Pago Pago,Disability,,Yes,No
+2009,State,VI,Virgin Islands,2009-03-21,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1,Charlotte Amalie,Religion,,No,Yes
+2008,Federal,PR,Puerto Rico,2008-01-18,1,0,2,1,1,White,Not Hispanic or Latino,2,Simple Assault,2,San Juan,Ethnicity/Immigrant Status,"Adult, Juvenile",Yes,Yes
+2007,Local,MP,Northern Mariana Islands,2007-06-22,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1,Saipan,Religion,,No,Yes
+2006,Federal,UM,United States Minor Outlying Islands,2006-09-15,1,0,1,1,0,Black or African American,Black or African American,1,Vandalism,1,Unincorporated place,Disability,,Yes,No
+2005,State,PW,Palau,2005-04-20,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1,Ngerulmud,Religion,,No,Yes
+2004,Local,MH,Marshall Islands,2004-01-24,1,0,2,1,1,White,Not Hispanic or Latino,2,Simple Assault,2,Majuro,Ethnicity/Immigrant Status,"Adult, Juvenile",Yes,Yes
+2003,Federal,FM,Federated States of Micronesia,2003-08-22,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1,Palikir,Religion,,No,Yes
+2002,Local,PW,Palau,2002-03-20,1,0,1,1,0,Black or African American,Black or African American,1,Vandalism,1,Ngerulmud,Disability,,Yes,No
+2001,State,GU,Guam,2001-09-21,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1,Hagåtña,Religion,,No,Yes
+2000,Federal,AS,American Samoa,2000-04-24,1,0,2,1,1,White,Not Hispanic or Latino,2,Simple Assault,2,Pago Pago,Ethnicity/Immigrant Status,"Adult, Juvenile",Yes,Yes
+1999,Local,VI,Virgin Islands,1999-01-22,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1,Charlotte Amalie,Religion,,No,Yes
+1998,Federal,PR,Puerto Rico,1998-06-20,1,0,1,1,0,Black or African American,Black or African American,1,Vandalism,1,San Juan,Disability,,Yes,No
+1997,State,MP,Northern Mariana Islands,1997-02-21,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1,Saipan,Religion,,No,Yes
+1996,Local,UM,United States Minor Outlying Islands,1996-08-26,1,0,2,1,1,White,Not Hispanic or Latino,2,Simple Assault,2,Unincorporated place,Ethnicity/Immigrant Status,"Adult, Juvenile",Yes,Yes
+1995,Federal,PW,Palau,1995-03-22,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1,Ngerulmud,Religion,,No,Yes
+1994,State,MH,Marshall Islands,1994-09-20,1,0,1,1,0,Black or African American,Black or African American,1,Vandalism,1,Majuro,Disability,,Yes,No
+1993,Local,FM,Federated States of Micronesia,1993-02-22,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1,Palikir,Religion,,No,Yes
+1992,Federal,GU,Guam,1992-08-24,1,0,2,1,1,White,Not Hispanic or Latino,2,Simple Assault,2,Hagåtña,Ethnicity/Immigrant Status,"Adult, Juvenile",Yes,Yes
+1991,State,AS,American Samoa,1991-04-22,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1,Pago Pago,Religion,,No,Yes

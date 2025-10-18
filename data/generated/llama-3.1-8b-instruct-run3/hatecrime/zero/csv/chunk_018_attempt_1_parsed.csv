@@ -1,0 +1,38 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+,2013,Local,CT,Connecticut,4/15/2013,1,0,1,1,0,White,White,1,Larceny/theft,1,"Central Office, Danbury Police Department",Anti-White,Adult,Larceny/theft
+,2013,Local,CT,Connecticut,5/5/2013,0,1,1,1,0,Black or African American,Hispanic or Latino,1,Simple assault,1,Norwalk Police Department,Anti-Black or African American,Juvenile,Simple assault
+,2013,Local,DE,Delaware,6/15/2013,1,0,1,1,0,White,White,1,Intimidation,1,Seaford Police Department,Anti-White,Adult,Intimidation
+,2013,Local,DE,Delaware,7/4/2013,0,1,1,0,1,Asian,Asian,1,Vandalism,1,Newark Police Department,Anti-Asian,Juvenile,Vandalism
+,2013,State,FL,Florida,8/15/2013,1,0,1,1,0,Black or African American,Black or African American,1,Aggravated assault,1,Florida State University Police Department,Anti-Black or African American,Adult,Aggravated assault
+,2013,Local,GA,Georgia,9/1/2013,0,1,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple assault,1,Atlanta Police Department,Anti-Hispanic or Latino,Juvenile,Simple assault
+,2013,Local,HI,Hawaii,9/15/2013,1,0,1,1,0,White,White,1,Intimidation,1,Honolulu Police Department,Anti-White,Adult,Intimidation
+,2013,Local,IA,Iowa,10/1/2013,0,1,1,0,1,American Indian or Alaska Native,American Indian or Alaska Native,1,Vandalism,1,Des Moines Police Department,Anti-American Indian or Alaska Native,Juvenile,Vandalism
+,2013,State,IL,Illinois,10/15/2013,1,0,1,1,0,Black or African American,Black or African American,1,Aggravated assault,1,Illinois State Police,Anti-Black or African American,Adult,Aggravated assault
+,2013,Local,KS,Kansas,11/1/2013,0,1,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple assault,1,Wichita Police Department,Anti-Hispanic or Latino,Juvenile,Simple assault
+,2013,Local,KY,Kentucky,11/15/2013,1,0,1,1,0,White,White,1,Intimidation,1,Louisville Metro Police Department,Anti-White,Adult,Intimidation
+,2013,Local,LA,Louisiana,12/1/2013,0,1,1,0,1,Asian,Asian,1,Vandalism,1,New Orleans Police Department,Anti-Asian,Juvenile,Vandalism
+,2013,Local,MA,Massachusetts,12/15/2013,1,0,1,1,0,Black or African American,Black or African American,1,Aggravated assault,1,Boston Police Department,Anti-Black or African American,Adult,Aggravated assault
+,2013,Local,ME,Maine,1/1/2014,0,1,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple assault,1,Portland Police Department,Anti-Hispanic or Latino,Juvenile,Simple assault
+,2013,Local,MI,Michigan,1/15/2014,1,0,1,1,0,White,White,1,Intimidation,1,Detroit Police Department,Anti-White,Adult,Intimidation
+,2013,Local,MN,Minnesota,2/1/2014,0,1,1,0,1,Asian,Asian,1,Vandalism,1,Minneapolis Police Department,Anti-Asian,Juvenile,Vandalism
+,2013,Local,MO,Missouri,2/15/2014,1,0,1,1,0,Black or African American,Black or African American,1,Aggravated assault,1,Kansas City Police Department,Anti-Black or African American,Adult,Aggravated assault
+,2013,Local,MT,Montana,3/1/2014,0,1,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple assault,1,Billings Police Department,Anti-Hispanic or Latino,Juvenile,Simple assault
+,2013,Local,NC,North Carolina,3/15/2014,1,0,1,1,0,White,White,1,Intimidation,1,Charlotte-Mecklenburg Police Department,Anti-White,Adult,Intimidation
+,2013,Local,ND,North Dakota,4/1/2014,0,1,1,0,1,American Indian or Alaska Native,American Indian or Alaska Native,1,Vandalism,1,Fargo Police Department,Anti-American Indian or Alaska Native,Juvenile,Vandalism
+,2013,Local,NE,Nebraska,4/15/2014,1,0,1,1,0,Black or African American,Black or African American,1,Aggravated assault,1,Omaha Police Department,Anti-Black or African American,Adult,Aggravated assault
+,2013,Local,NH,New Hampshire,5/1/2014,0,1,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple assault,1,Manchester Police Department,Anti-Hispanic or Latino,Juvenile,Simple assault
+,2013,Local,NJ,New Jersey,5/15/2014,1,0,1,1,0,White,White,1,Intimidation,1,Newark Police Department,Anti-White,Adult,Intimidation
+,2013,Local,NM,New Mexico,6/1/2014,0,1,1,0,1,Asian,Asian,1,Vandalism,1,Albuquerque Police Department,Anti-Asian,Juvenile,Vandalism
+,2013,Local,NV,Nevada,6/15/2014,1,0,1,1,0,Black or African American,Black or African American,1,Aggravated assault,1,Las Vegas Metropolitan Police Department,Anti-Black or African American,Adult,Aggravated assault
+,2013,Local,NY,New York,7/1/2014,0,1,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple assault,1,New York City Police Department,Anti-Hispanic or Latino,Juvenile,Simple assault
+,2013,Local,OH,Ohio,7/15/2014,1,0,1,1,0,White,White,1,Intimidation,1,Columbus Police Department,Anti-White,Adult,Intimidation
+,2013,Local,OK,Oklahoma,8/1/2014,0,1,1,0,1,Asian,Asian,1,Vandalism,1,Oklahoma City Police Department,Anti-Asian,Juvenile,Vandalism
+,2013,Local,OR,Oregon,8/15/2014,1,0,1,1,0,Black or African American,Black or African American,1,Aggravated assault,1,Portland Police Bureau,Anti-Black or African American,Adult,Aggravated assault
+,2013,Local,PA,Pennsylvania,9/1/2014,0,1,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple assault,1,Philadelphia Police Department,Anti-Hispanic or Latino,Juvenile,Simple assault
+,2013,Local,RI,Rhode Island,9/15/2014,1,0,1,1,0,White,White,1,Intimidation,1,Providence Police Department,Anti-White,Adult,Intimidation
+,2013,Local,SC,South Carolina,10/1/2014,0,1,1,0,1,Asian,Asian,1,Vandalism,1,Charleston Police Department,Anti-Asian,Juvenile,Vandalism
+,2013,Local,SD,South Dakota,10/15/2014,1,0,1,1,0,Black or African American,Black or African American,1,Aggravated assault,1,Sioux Falls Police Department,Anti-Black or African American,Adult,Aggravated assault
+,2013,Local,TN,Tennessee,11/1/2014,0,1,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple assault,1,Memphis Police Department,Anti-Hispanic or Latino,Juvenile,Simple assault
+,2013,Local,TX,Texas,11/15/2014,1,0,1,1,0,White,White,1,Intimidation,1,Dallas Police Department,Anti-White,Adult,Intimidation
+,2013,Local,UT,Utah,12/1/2014,0,1,1,0,1,Asian,Asian,1,Vandalism,1,Salt Lake City Police Department,Anti-Asian,Juvenile,Vandalism
+,2013,Local,VA,Virginia,12/15/2014,1,0,1,1,0,Black or African American,Black or African American,1,Aggravated assault,1,Virginia State Police,Anti-Black or African American,Adult,Aggravated assault

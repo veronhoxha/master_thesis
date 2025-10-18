@@ -1,0 +1,1044 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,State Police,FL,Florida,1991-01-01,1,0,1,1,0,White,Unknown,1,Vandalism,1,Park,Anti-Hispanic,Adult,False,False
+1991,City Police,NY,New York,1991-02-01,0,1,2,1,1,Unknown,Hispanic,1,Intimidation,1,School,Anti-Black,"Adult, Juvenile",False,False
+1991,County Sheriff,TX,Texas,1991-03-01,1,0,1,1,0,Black,Unknown,1,Simple Assault,1,Restaurant,Anti-White,Juvenile,False,False
+1992,State Police,CA,California,1992-01-01,0,0,2,1,1,Unknown,Asian,2,Vandalism,2,Center,Anti-Asian,"Adult, Adult",False,False
+1992,City Police,IL,Illinois,1992-02-01,1,0,1,1,0,White,Unknown,1,Intimidation,1,Home,Anti-Jewish,Adult,False,False
+1992,County Sheriff,AZ,Arizona,1992-03-01,0,1,1,0,1,Hispanic,Unknown,1,Simple Assault,1,Street,Anti-White,Juvenile,False,False
+1993,State Police,FL,Florida,1993-01-01,0,0,1,1,0,Black,Unknown,1,Vandalism,1,Park,Anti-Hispanic,Adult,False,False
+1993,City Police,NY,New York,1993-02-01,1,0,2,1,1,Unknown,Hispanic,1,Intimidation,1,School,Anti-Black,Adult,False,False
+1993,County Sheriff,TX,Texas,1993-03-01,0,1,1,0,1,White,Unknown,1,Simple Assault,1,Restaurant,Anti-Asian,Juvenile,False,False
+1994,State Police,CA,California,1994-01-01,1,0,1,1,0,Unknown,Hispanic,1,Vandalism,1,Center,Anti-Jewish,Adult,False,False
+1994,City Police,IL,Illinois,1994-02-01,0,0,2,1,1,Unknown,Asian,2,Intimidation,2,Home,Anti-White,"Adult, Adult",False,False
+1994,County Sheriff,AZ,Arizona,1994-03-01,1,0,1,1,0,Hispanic,Unknown,1,Simple Assault,1,Street,Anti-Black,Adult,False,False
+1995,State Police,FL,Florida,1995-01-01,0,1,2,1,1,White,Unknown,1,Vandalism,1,Park,Anti-Hispanic,Juvenile,False,False
+1995,City Police,NY,New York,1995-02-01,1,0,1,1,0,Black,Unknown,1,Intimidation,1,School,Anti-Asian,Adult,False,False
+1995,County Sheriff,TX,Texas,1995-03-01,0,0,1,1,0,Unknown,Hispanic,1,Simple Assault,1,Restaurant,Anti-Jewish,Adult,False,False
+1996,State Police,CA,California,1996-01-01,0,0,2,1,1,Unknown,Asian,2,Vandalism,2,Center,Anti-White,"Adult, Adult",False,False
+1996,City Police,IL,Illinois,1996-02-01,1,0,1,1,0,White,Unknown,1,Intimidation,1,Home,Anti-Hispanic,Adult,False,False
+1996,County Sheriff,AZ,Arizona,1996-03-01,1,0,1,1,0,Hispanic,Unknown,1,Simple Assault,1,Street,Anti-Black,Adult,False,False
+1997,State Police,FL,Florida,1997-01-01,0,1,1,0,1,Black,Unknown,1,Vandalism,1,Park,Anti-Asian,Juvenile,False,False
+1997,City Police,NY,New York,1997-02-01,1,0,2,1,1,Unknown,Hispanic,1,Intimidation,1,School,Anti-Jewish,Adult,False,False
+1997,County Sheriff,TX,Texas,1997-03-01,0,0,1,1,0,White,Unknown,1,Simple Assault,1,Restaurant,Anti-White,Adult,False,False
+1998,State Police,CA,California,1998-01-01,0,0,2,1,1,Unknown,Asian,2,Vandalism,2,Center,Anti-Hispanic,"Adult, Adult",False,False
+1998,City Police,IL,Illinois,1998-02-01,1,0,1,1,0,Hispanic,Unknown,1,Intimidation,1,Home,Anti-Asian,Adult,False,False
+1998,County Sheriff,AZ,Arizona,1998-03-01,0,1,1,0,1,White,Unknown,1,Simple Assault,1,Street,Anti-Jewish,Juvenile,False,False
+1999,State Police,FL,Florida,1999-01-01,1,0,1,1,0,Black,Unknown,1,Vandalism,1,Park,Anti-White,Adult,False,False
+1999,City Police,NY,New York,1999-02-01,0,0,2,1,1,Unknown,Hispanic,2,Intimidation,2,School,Anti-Black,"Adult, Adult",False,False
+1999,County Sheriff,TX,Texas,1999-03-01,1,0,1,1,0,White,Unknown,1,Simple Assault,1,Restaurant,Anti-Hispanic,Adult,False,False
+2000,State Police,CA,California,2000-01-01,0,0,2,1,1,Unknown,Asian,2,Vandalism,2,Center,Anti-Jewish,"Adult, Adult",False,False
+2000,City Police,IL,Illinois,2000-02-01,1,0,1,1,0,Hispanic,Unknown,1,Intimidation,1,Home,Anti-Asian,Adult,False,False
+2000,County Sheriff,AZ,Arizona,2000-03-01,1,0,1,1,0,White,Unknown,1,Simple Assault,1,Street,Anti-Black,Adult,False,False
+2001,State Police,FL,Florida,2001-01-01,0,1,1,0,1,Black,Unknown,1,Vandalism,1,Park,Anti-Hispanic,Juvenile,False,False
+2001,City Police,NY,New York,2001-02-01,1,0,2,1,1,Unknown,Hispanic,1,Intimidation,1,School,Anti-Jewish,Adult,False,False
+2001,County Sheriff,TX,Texas,2001-03-01,0,0,1,1,0,White,Unknown,1,Simple Assault,1,Restaurant,Anti-Asian,Adult,False,False
+2002,State Police,CA,California,2002-01-01,0,0,2,1,1,Unknown,Asian,2,Vandalism,2,Center,Anti-White,"Adult, Adult",False,False
+2002,City Police,IL,Illinois,2002-02-01,1,0,1,1,0,Hispanic,Unknown,1,Intimidation,1,Home,Anti-Hispanic,Adult,False,False
+2002,County Sheriff,AZ,Arizona,2002-03-01,0,1,1,0,1,White,Unknown,1,Simple Assault,1,Street,Anti-Asian,Juvenile,False,False
+2003,State Police,FL,Florida,2003-01-01,1,0,1,1,0,Black,Unknown,1,Vandalism,1,Park,Anti-Jewish,Adult,False,False
+2003,City Police,NY,New York,2003-02-01,1,0,2,1,1,Unknown,Hispanic,1,Intimidation,1,School,Anti-White,Adult,False,False
+2003,County Sheriff,TX,Texas,2003-03-01,0,0,1,1,0,White,Unknown,1,Simple Assault,1,Restaurant,Anti-Hispanic,Adult,False,False
+2004,State Police,CA,California,2004-01-01,0,0,2,1,1,Unknown,Asian,2,Vandalism,2,Center,Anti-Asian,"Adult, Adult",False,False
+2004,City Police,IL,Illinois,2004-02-01,0,1,1,0,1,Hispanic,Unknown,1,Intimidation,1,Home,Anti-Jewish,Juvenile,False,False
+2004,County Sheriff,AZ,Arizona,2004-03-01,0,0,1,1,0,White,Unknown,1,Simple Assault,1,Street,Anti-Hispanic,Adult,False,False
+2005,State Police,FL,Florida,2005-01-01,1,0,1,1,0,Black,Unknown,1,Vandalism,1,Park,Anti-Black,Adult,False,False
+2005,City Police,NY,New York,2005-02-01,0,0,2,1,1,Unknown,Hispanic,2,Intimidation,2,School,Anti-Asian,"Adult, Adult",False,False
+2005,County Sheriff,TX,Texas,2005-03-01,1,0,1,1,0,White,Unknown,1,Simple Assault,1,Restaurant,Anti-Jewish,Adult,False,False
+2006,State Police,CA,California,2006-01-01,0,1,1,0,1,Unknown,Asian,1,Vandalism,1,Center,Anti-Hispanic,Juvenile,False,False
+2006,City Police,IL,Illinois,2006-02-01,1,0,2,1,1,Hispanic,Unknown,1,Intimidation,1,Home,Anti-Black,Adult,False,False
+2006,County Sheriff,AZ,Arizona,2006-03-01,0,0,1,1,0,White,Unknown,1,Simple Assault,1,Street,Anti-Jewish,Adult,False,False
+2007,State Police,FL,Florida,2007-01-01,1,0,1,1,0,Black,Unknown,1,Vandalism,1,Park,Anti-Asian,Adult,False,False
+2007,City Police,NY,New York,2007-02-01,0,0,2,1,1,Unknown,Hispanic,2,Intimidation,2,School,Anti-White,"Adult, Adult",False,False
+2007,County Sheriff,TX,Texas,2007-03-01,0,1,1,0,1,White,Unknown,1,Simple Assault,1,Restaurant,Anti-Hispanic,Juvenile,False,False
+2008,State Police,CA,California,2008-01-01,0,0,2,1,1,Unknown,Asian,2,Vandalism,2,Center,Anti-Black,"Adult, Adult",False,False
+2008,City Police,IL,Illinois,2008-02-01,1,0,1,1,0,Hispanic,Unknown,1,Intimidation,1,Home,Anti-Jewish,Adult,False,False
+2008,County Sheriff,AZ,Arizona,2008-03-01,0,0,1,1,0,White,Unknown,1,Simple Assault,1,Street,Anti-Asian,Adult,False,False
+2009,State Police,FL,Florida,2009-01-01,0,1,1,0,1,Black,Unknown,1,Vandalism,1,Park,Anti-White,Juvenile,False,False
+2009,City Police,NY,New York,2009-02-01,1,0,2,1,1,Unknown,Hispanic,1,Intimidation,1,School,Anti-Jewish,Adult,False,False
+2009,County Sheriff,TX,Texas,2009-03-01,0,0,1,1,0,White,Unknown,1,Simple Assault,1,Restaurant,Anti-Asian,Adult,False,False
+2010,State Police,CA,California,2010-01-01,1,0,1,1,0,Unknown,Asian,1,Vandalism,1,Center,Anti-Hispanic,Adult,False,False
+2010,City Police,IL,Illinois,2010-02-01,0,0,2,1,1,Hispanic,Unknown,2,Intimidation,2,Home,Anti-Jewish,"Adult, Adult",False,False
+2010,County Sheriff,AZ,Arizona,2010-03-01,0,1,1,0,1,White,Unknown,1,Simple Assault,1,Street,Anti-Asian,Juvenile,False,False
+2011,State Police,FL,Florida,2011-01-01,1,0,1,1,0,Black,Unknown,1,Vandalism,1,Park,Anti-White,Adult,False,False
+2011,City Police,NY,New York,2011-02-01,0,0,2,1,1,Unknown,Hispanic,2,Intimidation,2,School,Anti-Black,"Adult, Adult",False,False
+2011,County Sheriff,TX,Texas,2011-03-01,0,0,1,1,0,White,Unknown,1,Simple Assault,1,Restaurant,Anti-Jewish,Adult,False,False
+2012,State Police,CA,California,2012-01-01,1,0,1,1,0,Unknown,Asian,1,Vandalism,1,Center,Anti-Asian,Adult,False,False
+2012,City Police,IL,Illinois,2012-02-01,0,0,2,1,1,Hispanic,Unknown,2,Intimidation,2,Home,Anti-Black,"Adult, Adult",False,False
+2012,County Sheriff,AZ,Arizona,2012-03-01,0,1,1,0,1,White,Unknown,1,Simple Assault,1,Street,Anti-Jewish,Juvenile,False,False
+2013,State Police,FL,Florida,2013-01-01,1,0,1,1,0,Black,Unknown,1,Vandalism,1,Park,Anti-Hispanic,Adult,False,False
+2013,City Police,NY,New York,2013-02-01,0,0,2,1,1,Unknown,Hispanic,2,Intimidation,2,School,Anti-Asian,"Adult, Adult",False,False
+2013,County Sheriff,TX,Texas,2013-03-01,0,0,1,1,0,White,Unknown,1,Simple Assault,1,Restaurant,Anti-Black,Adult,False,False
+2014,State Police,CA,California,2014-01-01,0,1,1,0,1,Unknown,Asian,1,Vandalism,1,Center,Anti-Jewish,Juvenile,False,False
+1991,Law Enforcement Agency,NY,New York,1991-01-01,1,0,1,1,0,W,White,1,Assault,1,New York City,Anti-White,Adult,True,Anti-White
+1992,Law Enforcement Agency,CA,California,1992-02-02,0,1,2,1,1,B,Black,1,Intimidation,1,Los Angeles,Anti-Hispanic,"Adult, Juvenile",True,Anti-Hispanic
+1993,Law Enforcement Agency,TX,Texas,1993-03-03,2,0,1,1,0,A,Asian,2,Vandalism,2,Houston,Anti-White,Adult,False,
+1994,Law Enforcement Agency,FL,Florida,1994-04-04,1,0,1,1,0,W,White,1,Simple Assault,1,Miami,Anti-Black,Adult,True,Anti-Black
+1995,Law Enforcement Agency,IL,Illinois,1995-05-05,0,1,2,1,1,B,Black,1,Hate Crime,1,Chicago,Anti-Asian,"Adult, Juvenile",True,Anti-Asian
+1996,Law Enforcement Agency,GA,Georgia,1996-06-06,1,0,1,1,0,W,White,1,Assault,1,Atlanta,Anti-Hispanic,Adult,False,
+1997,Law Enforcement Agency,NC,North Carolina,1997-07-07,2,0,2,1,1,A,Asian,2,Intimidation,2,Charlotte,Anti-White,Adult,True,Anti-White
+1998,Law Enforcement Agency,SC,South Carolina,1998-08-08,0,1,1,1,0,B,Black,0,Hate Crime,0,Columbia,Anti-Black,Juvenile,True,Anti-Black
+1999,Law Enforcement Agency,PA,Pennsylvania,1999-09-09,1,0,1,1,0,W,White,1,Simple Assault,1,Philadelphia,Anti-Asian,Adult,False,
+2000,Law Enforcement Agency,NJ,New Jersey,2000-10-10,2,0,2,1,1,A,Asian,2,Hate Crime,2,Newark,Anti-Hispanic,Adult,True,Anti-Hispanic
+2001,Law Enforcement Agency,OH,Ohio,2001-11-11,1,0,1,1,0,W,White,1,Vandalism,1,Cleveland,Anti-Black,Adult,False,
+2002,Law Enforcement Agency,IN,Indiana,2002-12-12,0,1,1,1,0,B,Black,0,Intimidation,0,Indianapolis,Anti-Asian,Juvenile,True,Anti-Asian
+2003,Law Enforcement Agency,VA,Virginia,2003-01-01,2,0,2,1,1,A,Asian,2,Hate Crime,2,Virginia Beach,Anti-White,Adult,True,Anti-White
+2004,Law Enforcement Agency,AL,Alabama,2004-02-02,1,0,1,1,0,W,White,1,Simple Assault,1,Birmingham,Anti-Hispanic,Adult,False,
+2005,Law Enforcement Agency,MS,Mississippi,2005-03-03,0,1,1,1,0,B,Black,0,Vandalism,0,Jackson,Anti-Asian,Juvenile,True,Anti-Asian
+2006,Law Enforcement Agency,MN,Minnesota,2006-04-04,2,0,2,1,1,A,Asian,2,Hate Crime,2,Minneapolis,Anti-White,Adult,True,Anti-White
+2007,Law Enforcement Agency,AR,Arkansas,2007-05-05,1,0,1,1,0,W,White,1,Intimidation,1,Little Rock,Anti-Black,Adult,False,
+2008,Law Enforcement Agency,SD,South Dakota,2008-06-06,0,1,1,1,0,B,Black,0,Simple Assault,0,Pierre,Anti-Asian,Juvenile,True,Anti-Asian
+2009,Law Enforcement Agency,CO,Colorado,2009-07-07,2,0,2,1,1,A,Asian,2,Hate Crime,2,Denver,Anti-Hispanic,Adult,True,Anti-Hispanic
+2010,Law Enforcement Agency,KY,Kentucky,2010-08-08,1,0,1,1,0,W,White,1,Vandalism,1,Frankfort,Anti-White,Adult,False,
+2011,Law Enforcement Agency,TN,Tennessee,2011-09-09,0,1,1,1,0,B,Black,0,Intimidation,0,Nashville,Anti-Asian,Juvenile,True,Anti-Asian
+2012,Law Enforcement Agency,WV,West Virginia,2012-10-10,2,0,2,1,1,A,Asian,2,Hate Crime,2,Charleston,Anti-White,Adult,True,Anti-White
+2013,Law Enforcement Agency,LA,Louisiana,2013-11-11,1,0,1,1,0,W,White,1,Simple Assault,1,New Orleans,Anti-Hispanic,Adult,False,
+2014,Law Enforcement Agency,UT,Utah,2014-12-12,0,1,1,1,0,B,Black,0,Vandalism,0,Salt Lake City,Anti-Asian,Juvenile,True,Anti-Asian
+1992,Law Enforcement,NY,New York,1992-01-01,1,0,1,1,0,White,Non-Hispanic,1,Larceny/Theft,1,New York,Anti-White Bias,Adult,True,False
+1993,Local Police Department,CA,California,1993-02-02,0,1,1,0,1,Asian,Non-Hispanic,1,Simple Assault,1,Los Angeles,Anti-Asian Bias,Juvenile,False,False
+1994,State Police,TX,Texas,1994-03-03,1,0,2,1,1,Black,Non-Hispanic,2,Vandalism,2,Houston,Anti-Black Bias,Adult,True,False
+1995,Federal Police,FL,Florida,1995-04-04,0,0,1,0,1,Hispanic,Non-Hispanic,1,Intimidation,1,Miami,Anti-Hispanic Bias,Adult,False,False
+1996,Sheriff's Department,GA,Georgia,1996-05-05,1,0,1,1,0,White,Non-Hispanic,1,Hate Crime Against Property,1,Atlanta,Anti-White Bias,Adult,True,False
+1997,City Police Department,IL,Illinois,1997-06-06,0,1,1,0,1,Asian,Non-Hispanic,1,Vandalism,1,Chicago,Anti-Asian Bias,Juvenile,False,False
+1998,County Police Department,NC,North Carolina,1998-07-07,2,0,2,2,0,Black,Non-Hispanic,2,Simple Assault,2,Raleigh,Anti-Black Bias,Adult,True,False
+1999,Town Police Department,OH,Ohio,1999-08-08,0,0,1,0,1,Hispanic,Non-Hispanic,1,Intimidation,1,Columbus,Anti-Hispanic Bias,Adult,False,False
+2000,Village Police Department,NJ,New Jersey,2000-09-09,1,0,1,1,0,White,Non-Hispanic,1,Hate Crime Against Property,1,Newark,Anti-White Bias,Adult,True,False
+2001,City Police Department,MI,Michigan,2001-10-10,0,1,1,0,1,Asian,Non-Hispanic,1,Vandalism,1,Detroit,Anti-Asian Bias,Juvenile,False,False
+2002,County Police Department,SC,South Carolina,2002-11-11,2,0,2,2,0,Black,Non-Hispanic,2,Simple Assault,2,Columbia,Anti-Black Bias,Adult,True,False
+2003,Town Police Department,TN,Tennessee,2003-12-12,0,0,1,0,1,Hispanic,Non-Hispanic,1,Intimidation,1,Nashville,Anti-Hispanic Bias,Adult,False,False
+2004,Village Police Department,IN,Indiana,2004-01-13,1,0,1,1,0,White,Non-Hispanic,1,Hate Crime Against Property,1,Indianapolis,Anti-White Bias,Adult,True,False
+2005,Local Police Department,OR,Oregon,2005-02-14,0,1,1,0,1,Asian,Non-Hispanic,1,Vandalism,1,Portland,Anti-Asian Bias,Juvenile,False,False
+2006,State Police,AZ,Arizona,2006-03-15,1,0,2,1,1,Black,Non-Hispanic,2,Vandalism,2,Phoenix,Anti-Black Bias,Adult,True,False
+2007,Federal Police,CT,Connecticut,2007-04-16,0,0,1,0,1,Hispanic,Non-Hispanic,1,Intimidation,1,Hartford,Anti-Hispanic Bias,Adult,False,False
+2008,Sheriff's Department,WI,Wisconsin,2008-05-17,1,0,1,1,0,White,Non-Hispanic,1,Hate Crime Against Property,1,Madison,Anti-White Bias,Adult,True,False
+2009,City Police Department,VA,Virginia,2009-06-18,0,1,1,0,1,Asian,Non-Hispanic,1,Vandalism,1,Richmond,Anti-Asian Bias,Juvenile,False,False
+2010,County Police Department,LA,Louisiana,2010-07-19,2,0,2,2,0,Black,Non-Hispanic,2,Simple Assault,2,Baton Rouge,Anti-Black Bias,Adult,True,False
+2011,Town Police Department,MS,Mississippi,2011-08-20,0,0,1,0,1,Hispanic,Non-Hispanic,1,Intimidation,1,Jackson,Anti-Hispanic Bias,Adult,False,False
+2012,Village Police Department,AL,Alabama,2012-09-21,1,0,1,1,0,White,Non-Hispanic,1,Hate Crime Against Property,1,Montgomery,Anti-White Bias,Adult,True,False
+2013,Local Police Department,OK,Oklahoma,2013-10-22,0,1,1,0,1,Asian,Non-Hispanic,1,Vandalism,1,Oklahoma City,Anti-Asian Bias,Juvenile,False,False
+2014,State Police,KY,Kentucky,2014-11-23,1,0,2,1,1,Black,Non-Hispanic,2,Vandalism,2,Louisville,Anti-Black Bias,Adult,True,False
+1992,Local Police Department,MI,Michigan,1992-01-01,1,0,1,1,0,Asian,Non-Hispanic,1,Larceny/Theft,1,Detroit,Anti-Asian Bias,Adult,True,False
+1993,City Police Department,CA,California,1993-02-02,0,1,1,0,1,White,Non-Hispanic,1,Simple Assault,1,Los Angeles,Anti-White Bias,Juvenile,False,False
+1994,County Police Department,TX,Texas,1994-03-03,2,0,2,2,0,Black,Non-Hispanic,2,Simple Assault,2,Houston,Anti-Black Bias,Adult,True,False
+1995,Town Police Department,FL,Florida,1995-04-04,0,0,1,0,1,Hispanic,Non-Hispanic,1,Intimidation,1,Miami,Anti-Hispanic Bias,Adult,False,False
+1996,Village Police Department,GA,Georgia,1996-05-05,1,0,1,1,0,White,Non-Hispanic,1,Hate Crime Against Property,1,Atlanta,Anti-White Bias,Adult,True,False
+1997,Sheriff's Department,IL,Illinois,1997-06-06,0,1,1,0,1,Asian,Non-Hispanic,1,Vandalism,1,Chicago,Anti-Asian Bias,Juvenile,False,False
+1998,Local Police Department,NC,North Carolina,1998-07-07,2,0,2,2,0,Black,Non-Hispanic,2,Simple Assault,2,Raleigh,Anti-Black Bias,Adult,True,False
+1999,City Police Department,OH,Ohio,1999-08-08,0,0,1,0,1,Hispanic,Non-Hispanic,1,Intimidation,1,Columbus,Anti-Hispanic Bias,Adult,False,False
+2000,County Police Department,NJ,New Jersey,2000-09-09,1,0,1,1,0,White,Non-Hispanic,1,Hate Crime Against Property,1,Newark,Anti-White Bias,Adult,True,False
+2001,Town Police Department,MI,Michigan,2001-10-10,0,1,1,0,1,Asian,Non-Hispanic,1,Vandalism,1,Detroit,Anti-Asian Bias,Juvenile,False,False
+2002,Village Police Department,SC,South Carolina,2002-11-11,2,0,2,2,0,Black,Non-Hispanic,2,Simple Assault,2,Columbia,Anti-Black Bias,Adult,True,False
+2003,Local Police Department,TN,Tennessee,2003-12-12,0,0,1,0,1,Hispanic,Non-Hispanic,1,Intimidation,1,Nashville,Anti-Hispanic Bias,Adult,False,False
+2004,City Police Department,IN,Indiana,2004-01-13,1,0,1,1,0,White,Non-Hispanic,1,Hate Crime Against Property,1,Indianapolis,Anti-White Bias,Adult,True,False
+2005,County Police Department,OR,Oregon,2005-02-14,0,1,1,0,1,Asian,Non-Hispanic,1,Vandalism,1,Portland,Anti-Asian Bias,Juvenile,False,False
+2006,State Police,AZ,Arizona,2006-03-15,1,0,2,1,1,Black,Non-Hispanic,2,Vandalism,2,Phoenix,Anti-Black Bias,Adult,True,False
+2007,Federal Police,CT,Connecticut,2007-04-16,0,0,1,0,1,Hispanic,Non-Hispanic,1,Intimidation,1,Hartford,Anti-Hispanic Bias,Adult,False,False
+2008,Sheriff's Department,WI,Wisconsin,2008-05-17,1,0,1,1,0,White,Non-Hispanic,1,Hate Crime Against Property,1,Madison,Anti-White Bias,Adult,True,False
+2009,City Police Department,VA,Virginia,2009-06-18,0,1,1,0,1,Asian,Non-Hispanic,1,Vandalism,1,Richmond,Anti-Asian Bias,Juvenile,False,False
+2010,County Police Department,LA,Louisiana,2010-07-19,2,0,2,2,0,Black,Non-Hispanic,2,Simple Assault,2,Baton Rouge,Anti-Black Bias,Adult,True,False
+2011,Town Police Department,MS,Mississippi,2011-08-20,0,0,1,0,1,Hispanic,Non-Hispanic,1,Intimidation,1,Jackson,Anti-Hispanic Bias,Adult,False,False
+2012,Village Police Department,AL,Alabama,2012-09-21,1,0,1,1,0,White,Non-Hispanic,1,Hate Crime Against Property,1,Montgomery,Anti-White Bias,Adult,True,False
+2013,Local Police Department,OK,Oklahoma,2013-10-22,0,1,1,0,1,Asian,Non-Hispanic,1,Vandalism,1,Oklahoma City,Anti-Asian Bias,Juvenile,False,False
+2014,State Police,KY,Kentucky,2014-11-23,1,0,2,1,1,Black,Non-Hispanic,2,Vandalism,2,Louisville,Anti-Black Bias,Adult,True,False
+1992,City Police Department,CA,California,1992-01-01,0,1,1,0,1,White,Non-Hispanic,1,Simple Assault,1,Los Angeles,Anti-White Bias,Juvenile,False,False
+1993,County Police Department,TX,Texas,1993-02-02,2,0,2,2,0,Black,Non-Hispanic,2,Simple Assault,2,Houston,Anti-Black Bias,Adult,True,False
+1994,Town Police Department,FL,Florida,1994-03-03,0,0,1,0,1,Hispanic,Non-Hispanic,1,Intimidation,1,Miami,Anti-Hispanic Bias,Adult,False,False
+1995,Village Police Department,GA,Georgia,1995-04-04,1,0,1,1,0,White,Non-Hispanic,1,Hate Crime Against Property,1,Atlanta,Anti-White Bias,Adult,True,False
+1991,State,NY,New York,6/10/1991,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Intimidation,1,Street/Highway,Anti-White,1,0,TRUE
+1991,Local,CA,California,5/20/1991,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,Store/Merchant,Anti-White,1,0,TRUE
+1991,Local,PA,Pennsylvania,10/15/1991,0,1,1,0,1,Black,Not Hispanic or Other Ethnicity,1,Vandalism,1,School/College,Anti-Racial,1,0,TRUE
+1991,Federal,TX,Texas,9/1/1991,1,0,2,1,1,White,Hispanic or Latino,2,Intimidation,2,Store/Merchant,Anti-White,2,0,TRUE
+1992,State,AZ,Arizona,8/10/1992,0,1,1,0,1,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1992,Federal,FL,Florida,7/20/1992,1,0,1,1,0,Black,Not Hispanic or Other Ethnicity,1,Vandalism,1,Street/Highway,Anti-White,1,0,TRUE
+1992,Local,IL,Illinois,6/1/1992,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Intimidation,1,Store/Merchant,Anti-White,1,0,TRUE
+1992,Federal,OH,Ohio,5/10/1992,0,1,1,0,1,Black,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1992,State,GA,Georgia,4/15/1992,1,0,2,1,1,White,Not Hispanic or Other Ethnicity,2,Intimidation,2,Street/Highway,Anti-White,2,0,TRUE
+1993,Local,NC,North Carolina,10/20/1993,0,1,1,0,1,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1993,Federal,MI,Michigan,9/1/1993,1,0,1,1,0,Black,Not Hispanic or Other Ethnicity,1,Vandalism,1,Store/Merchant,Anti-White,1,0,TRUE
+1993,State,TN,Tennessee,8/10/1993,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Intimidation,1,Street/Highway,Anti-White,1,0,TRUE
+1993,Federal,NJ,New Jersey,7/20/1993,0,1,1,0,1,Black,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1993,Local,RI,Rhode Island,6/15/1993,1,0,2,1,1,White,Not Hispanic or Other Ethnicity,2,Intimidation,2,Store/Merchant,Anti-White,2,0,TRUE
+1994,State,IN,Indiana,10/1/1994,0,1,1,0,1,Black,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1994,Federal,SC,South Carolina,9/10/1994,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Vandalism,1,Store/Merchant,Anti-White,1,0,TRUE
+1994,Local,NV,Nevada,8/20/1994,1,0,1,1,0,Black,Not Hispanic or Other Ethnicity,1,Intimidation,1,Street/Highway,Anti-White,1,0,TRUE
+1994,State,WY,Wyoming,7/15/1994,0,1,1,0,1,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1994,Federal,CT,Connecticut,6/10/1994,1,0,2,1,1,White,Not Hispanic or Other Ethnicity,2,Intimidation,2,Store/Merchant,Anti-White,2,0,TRUE
+1995,Local,DE,Delaware,10/10/1995,1,0,1,1,0,Black,Not Hispanic or Other Ethnicity,1,Vandalism,1,Street/Highway,Anti-White,1,0,TRUE
+1995,Federal,VT,Vermont,9/1/1995,0,1,1,0,1,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1995,State,ND,North Dakota,8/20/1995,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Intimidation,1,Store/Merchant,Anti-White,1,0,TRUE
+1995,Local,NE,Nebraska,7/15/1995,0,1,1,0,1,Black,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1995,Federal,IA,Iowa,6/10/1995,1,0,2,1,1,White,Not Hispanic or Other Ethnicity,2,Intimidation,2,Street/Highway,Anti-White,2,0,TRUE
+1996,Local,KS,Kansas,10/10/1996,1,0,1,1,0,Black,Not Hispanic or Other Ethnicity,1,Vandalism,1,Store/Merchant,Anti-White,1,0,TRUE
+1996,Federal,ME,Maine,9/1/1996,0,1,1,0,1,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1996,State,MT,Montana,8/20/1996,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Intimidation,1,Street/Highway,Anti-White,1,0,TRUE
+1996,Local,AR,Arkansas,7/15/1996,0,1,1,0,1,Black,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1996,Federal,WV,West Virginia,6/10/1996,1,0,2,1,1,White,Not Hispanic or Other Ethnicity,2,Intimidation,2,Store/Merchant,Anti-White,2,0,TRUE
+1997,Local,LA,Louisiana,10/10/1997,1,0,1,1,0,Black,Not Hispanic or Other Ethnicity,1,Vandalism,1,Store/Merchant,Anti-White,1,0,TRUE
+1997,Federal,KY,Kentucky,9/1/1997,0,1,1,0,1,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1997,State,OK,Oklahoma,8/20/1997,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Intimidation,1,Street/Highway,Anti-White,1,0,TRUE
+1997,Local,CO,Colorado,7/15/1997,0,1,1,0,1,Black,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1997,Federal,UT,Utah,6/10/1997,1,0,2,1,1,White,Not Hispanic or Other Ethnicity,2,Intimidation,2,Store/Merchant,Anti-White,2,0,TRUE
+1998,Local,GA,Georgia,10/10/1998,1,0,1,1,0,Black,Not Hispanic or Other Ethnicity,1,Vandalism,1,Store/Merchant,Anti-White,1,0,TRUE
+1998,Federal,ID,Idaho,9/1/1998,0,1,1,0,1,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1998,State,NM,New Mexico,8/20/1998,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Intimidation,1,Street/Highway,Anti-White,1,0,TRUE
+1998,Local,HI,Hawaii,7/15/1998,0,1,1,0,1,Black,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1998,Federal,AK,Alaska,6/10/1998,1,0,2,1,1,White,Not Hispanic or Other Ethnicity,2,Intimidation,2,Store/Merchant,Anti-White,2,0,TRUE
+1999,Local,VT,Vermont,10/10/1999,1,0,1,1,0,Black,Not Hispanic or Other Ethnicity,1,Vandalism,1,Store/Merchant,Anti-White,1,0,TRUE
+1999,Federal,WV,West Virginia,9/1/1999,0,1,1,0,1,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1999,State,OR,Oregon,8/20/1999,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Intimidation,1,Street/Highway,Anti-White,1,0,TRUE
+1999,Local,NH,New Hampshire,7/15/1999,0,1,1,0,1,Black,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1999,Federal,MN,Minnesota,6/10/1999,1,0,2,1,1,White,Not Hispanic or Other Ethnicity,2,Intimidation,2,Store/Merchant,Anti-White,2,0,TRUE
+2001,Local,MA,Massachusetts,10/10/2001,1,0,1,1,0,Black,Not Hispanic or Other Ethnicity,1,Vandalism,1,Store/Merchant,Anti-White,1,0,TRUE
+2001,Federal,MS,Mississippi,9/1/2001,0,1,1,0,1,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+2001,State,DE,Delaware,8/20/2001,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Intimidation,1,Street/Highway,Anti-White,1,0,TRUE
+2001,Local,UT,Utah,7/15/2001,0,1,1,0,1,Black,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+2001,Federal,NV,Nevada,6/10/2001,1,0,2,1,1,White,Not Hispanic or Other Ethnicity,2,Intimidation,2,Store/Merchant,Anti-White,2,0,TRUE
+2002,Local,WY,Wyoming,10/10/2002,1,0,1,1,0,Black,Not Hispanic or Other Ethnicity,1,Vandalism,1,Store/Merchant,Anti-White,1,0,TRUE
+2002,Federal,RI,Rhode Island,9/1/2002,0,1,1,0,1,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+2002,State,AK,Alaska,8/20/2002,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Intimidation,1,Street/Highway,Anti-White,1,0,TRUE
+2002,Local,SC,South Carolina,7/15/2002,0,1,1,0,1,Black,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+2002,Federal,ND,North Dakota,6/10/2002,1,0,2,1,1,White,Not Hispanic or Other Ethnicity,2,Intimidation,2,Store/Merchant,Anti-White,2,0,TRUE
+2003,Local,IL,Illinois,10/10/2003,1,0,1,1,0,Black,Not Hispanic or Other Ethnicity,1,Vandalism,1,Store/Merchant,Anti-White,1,0,TRUE
+2003,Federal,ME,Maine,9/1/2003,0,1,1,0,1,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+2003,State,VT,Vermont,8/20/2003,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Intimidation,1,Street/Highway,Anti-White,1,0,TRUE
+2003,Local,CT,Connecticut,7/15/2003,0,1,1,0,1,Black,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+2003,Federal,MT,Montana,6/10/2003,1,0,2,1,1,White,Not Hispanic or Other Ethnicity,2,Intimidation,2,Store/Merchant,Anti-White,2,0,TRUE
+2004,Local,HI,Hawaii,10/10/2004,1,0,1,1,0,Black,Not Hispanic or Other Ethnicity,1,Vandalism,1,Store/Merchant,Anti-White,1,0,TRUE
+2004,Federal,NH,New Hampshire,9/1/2004,0,1,1,0,1,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+2004,State,KY,Kentucky,8/20/2004,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Intimidation,1,Street/Highway,Anti-White,1,0,TRUE
+2004,Local,MD,Maryland,7/15/2004,0,1,1,0,1,Black,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+2004,Federal,OR,Oregon,6/10/2004,1,0,2,1,1,White,Not Hispanic or Other Ethnicity,2,Intimidation,2,Store/Merchant,Anti-White,2,0,TRUE
+2012,Local,,,4/25/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Transportation,Anti-Other Bias,Adult,false,N/A
+2012,Local,,,5/31/2012,1,0,1,1,0,Asian,Asian,1,Simple Assault,1,Public Housing,Anti-Asian Bias,Adult,false,N/A
+,2012,Local,,,6/15/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,"School, Including Public, Private, Charter, and Magnet",,Anti-Other Bias,Adult
+,2012,State,,,3/21/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Park or Playground,,Anti-Other Bias,Adult
+,2012,Federal,,,4/15/2012,1,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,1,Other Public Space,,Anti-Other Bias,Adult
+,2012,Federal,,,5/13/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Park or Playground,,Anti-Other Bias,Adult
+,2012,Local,,,2/24/2012,1,0,1,1,0,Asian,Asian,1,Simple Assault,1,College or University,,Anti-Asian Bias,Adult
+,2012,State,,,4/20/2012,1,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,1,Public Transportation,,Anti-Other Bias,Adult
+,2012,State,,,5/14/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Park or Playground,,Anti-Other Bias,Adult
+,2012,Federal,,,3/20/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Housing,,Anti-Other Bias,Adult
+,2012,Federal,,,2/18/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Other Public Space,,Anti-Other Bias,Adult
+,2012,State,,,6/16/2012,1,0,1,1,0,Asian,Asian,1,Simple Assault,1,"School, Including Public, Private, Charter, and Magnet",,Anti-Asian Bias,Adult
+,2012,Local,,,4/28/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Park or Playground,,Anti-Other Bias,Adult
+,2012,Federal,,,6/4/2012,1,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,1,Public Transportation,,Anti-Other Bias,Adult
+,2012,Local,,,3/7/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Housing,,Anti-Other Bias,Adult
+,2012,State,,,2/22/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Transportation,,Anti-Other Bias,Adult
+,2012,Federal,,,5/2/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Park or Playground,,Anti-Other Bias,Adult
+,2012,Federal,,,6/1/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Transportation,,Anti-Other Bias,Adult
+,2012,Local,,,5/15/2012,1,0,1,1,0,Asian,Asian,1,Simple Assault,1,Public Housing,,Anti-Asian Bias,Adult
+,2012,Local,,,3/19/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Transportation,,Anti-Other Bias,Adult
+,2012,Local,,,6/3/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Housing,,Anti-Other Bias,Adult
+,2012,State,,,4/5/2012,1,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,1,College or University,,Anti-Other Bias,Adult
+,2012,Federal,,,5/6/2012,1,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,1,Public Park or Playground,,Anti-Other Bias,Adult
+,2012,Federal,,,6/20/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Transportation,,Anti-Other Bias,Adult
+,2012,Local,,,3/26/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Housing,,Anti-Other Bias,Adult
+,2012,Local,,,2/29/2012,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Public Transportation,,Anti-Other Bias,Adult
+,2012,State,,,5/5/2012,1,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,1,College or University,,Anti-Other Bias,Adult
+1991,State Police,CA,California,1991-01-01,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Residence,Anti-White,Adult,No,No
+1991,City Police,TX,Texas,1991-02-01,0,1,1,0,1,Black,Hispanic,1,Vandalism,1,Business,Anti-Black,Juvenile,Yes,No
+1992,County Sheriff,FL,Florida,1992-03-01,1,0,2,1,1,Asian,Non-Hispanic,2,Simple Assault,2,Park,Anti-Asian,Adult,Yes,No
+1992,City Police,NY,New York,1992-04-01,0,0,1,1,0,White,Non-Hispanic,1,Harassment,1,Residence,Anti-White,Adult,No,No
+1993,State Police,IL,Illinois,1993-05-01,2,0,1,2,0,Black,Hispanic,2,Aggravated Assault,2,Business,Anti-Black,Adult,No,No
+1993,City Police,OH,Ohio,1993-06-01,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,Residence,Anti-White,Juvenile,Yes,No
+1994,County Sheriff,GA,Georgia,1994-07-01,1,0,2,1,1,Asian,Non-Hispanic,2,Vandalism,2,Park,Anti-Asian,Adult,Yes,No
+1994,City Police,MI,Michigan,1994-08-01,0,0,1,1,0,White,Non-Hispanic,1,Harassment,1,Residence,Anti-White,Adult,No,No
+1995,State Police,NC,North Carolina,1995-09-01,2,0,1,2,0,Black,Hispanic,2,Simple Assault,2,Business,Anti-Black,Adult,No,No
+1995,City Police,WI,Wisconsin,1995-10-01,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,Residence,Anti-White,Juvenile,Yes,No
+1996,County Sheriff,SC,South Carolina,1996-11-01,1,0,2,1,1,Asian,Non-Hispanic,2,Vandalism,2,Park,Anti-Asian,Adult,Yes,No
+1996,City Police,TN,Tennessee,1996-12-01,0,0,1,1,0,White,Non-Hispanic,1,Harassment,1,Residence,Anti-White,Adult,No,No
+1997,State Police,LA,Louisiana,1997-01-01,2,0,1,2,0,Black,Hispanic,2,Simple Assault,2,Business,Anti-Black,Adult,No,No
+1997,City Police,KY,Kentucky,1997-02-01,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,Residence,Anti-White,Juvenile,Yes,No
+1998,County Sheriff,AL,Alabama,1998-03-01,1,0,2,1,1,Asian,Non-Hispanic,2,Vandalism,2,Park,Anti-Asian,Adult,Yes,No
+1998,City Police,MS,Mississippi,1998-04-01,0,0,1,1,0,White,Non-Hispanic,1,Harassment,1,Residence,Anti-White,Adult,No,No
+1999,State Police,OK,Oklahoma,1999-05-01,2,0,1,2,0,Black,Hispanic,2,Simple Assault,2,Business,Anti-Black,Adult,No,No
+1999,City Police,IN,Indiana,1999-06-01,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,Residence,Anti-White,Juvenile,Yes,No
+2000,County Sheriff,AR,Arkansas,2000-07-01,1,0,2,1,1,Asian,Non-Hispanic,2,Vandalism,2,Park,Anti-Asian,Adult,Yes,No
+2000,City Police,MO,Missouri,2000-08-01,0,0,1,1,0,White,Non-Hispanic,1,Harassment,1,Residence,Anti-White,Adult,No,No
+2001,State Police,NV,Nevada,2001-09-01,2,0,1,2,0,Black,Hispanic,2,Simple Assault,2,Business,Anti-Black,Adult,No,No
+2001,City Police,UT,Utah,2001-10-01,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,Residence,Anti-White,Juvenile,Yes,No
+2002,County Sheriff,WV,West Virginia,2002-11-01,1,0,2,1,1,Asian,Non-Hispanic,2,Vandalism,2,Park,Anti-Asian,Adult,Yes,No
+2002,City Police,NE,Nebraska,2002-12-01,0,0,1,1,0,White,Non-Hispanic,1,Harassment,1,Residence,Anti-White,Adult,No,No
+2003,State Police,CO,Colorado,2003-01-01,2,0,1,2,0,Black,Hispanic,2,Simple Assault,2,Business,Anti-Black,Adult,No,No
+2003,City Police,IA,Iowa,2003-02-01,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,Residence,Anti-White,Juvenile,Yes,No
+2004,County Sheriff,VT,Vermont,2004-03-01,1,0,2,1,1,Asian,Non-Hispanic,2,Vandalism,2,Park,Anti-Asian,Adult,Yes,No
+2004,City Police,DE,Delaware,2004-04-01,0,0,1,1,0,White,Non-Hispanic,1,Harassment,1,Residence,Anti-White,Adult,No,No
+2005,State Police,RI,Rhode Island,2005-05-01,2,0,1,2,0,Black,Hispanic,2,Simple Assault,2,Business,Anti-Black,Adult,No,No
+2005,City Police,ME,Maine,2005-06-01,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,Residence,Anti-White,Juvenile,Yes,No
+2006,County Sheriff,MN,Minnesota,2006-07-01,1,0,2,1,1,Asian,Non-Hispanic,2,Vandalism,2,Park,Anti-Asian,Adult,Yes,No
+2006,City Police,CT,Connecticut,2006-08-01,0,0,1,1,0,White,Non-Hispanic,1,Harassment,1,Residence,Anti-White,Adult,No,No
+2007,State Police,HI,Hawaii,2007-09-01,2,0,1,2,0,Black,Hispanic,2,Simple Assault,2,Business,Anti-Black,Adult,No,No
+2007,City Police,MT,Montana,2007-10-01,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,Residence,Anti-White,Juvenile,Yes,No
+2008,County Sheriff,ND,North Dakota,2008-11-01,1,0,2,1,1,Asian,Non-Hispanic,2,Vandalism,2,Park,Anti-Asian,Adult,Yes,No
+2008,City Police,SD,South Dakota,2008-12-01,0,0,1,1,0,White,Non-Hispanic,1,Harassment,1,Residence,Anti-White,Adult,No,No
+2009,State Police,WY,Wyoming,2009-01-01,2,0,1,2,0,Black,Hispanic,2,Simple Assault,2,Business,Anti-Black,Adult,No,No
+2009,City Police,AZ,Arizona,2009-02-01,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,Residence,Anti-White,Juvenile,Yes,No
+2010,County Sheriff,ID,Idaho,2010-03-01,1,0,2,1,1,Asian,Non-Hispanic,2,Vandalism,2,Park,Anti-Asian,Adult,Yes,No
+2010,City Police,VT,Vermont,2010-04-01,0,0,1,1,0,White,Non-Hispanic,1,Harassment,1,Residence,Anti-White,Adult,No,No
+2011,State Police,NH,New Hampshire,2011-05-01,2,0,1,2,0,Black,Hispanic,2,Simple Assault,2,Business,Anti-Black,Adult,No,No
+2011,City Police,MA,Massachusetts,2011-06-01,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,Residence,Anti-White,Juvenile,Yes,No
+2012,County Sheriff,AK,Alaska,2012-07-01,1,0,2,1,1,Asian,Non-Hispanic,2,Vandalism,2,Park,Anti-Asian,Adult,Yes,No
+2012,City Police,OR,Oregon,2012-08-01,0,0,1,1,0,White,Non-Hispanic,1,Harassment,1,Residence,Anti-White,Adult,No,No
+2013,State Police,GU,Guam,2013-09-01,2,0,1,2,0,Black,Hispanic,2,Simple Assault,2,Business,Anti-Black,Adult,No,No
+2013,City Police,MP,Northern Mariana Islands,2013-10-01,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,Residence,Anti-White,Juvenile,Yes,No
+2014,County Sheriff,AS,American Samoa,2014-11-01,1,0,2,1,1,Asian,Non-Hispanic,2,Vandalism,2,Park,Anti-Asian,Adult,Yes,No
+1992,Law Enforcement Agency,NY,New York,1992-02-15,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,"New York City, Bronx",,"Male, Female",Yes,Anti-Black or African American
+1994,Law Enforcement Agency,CA,California,1994-08-12,0,1,1,0,1,Asian,Not Hispanic or Latino,1,Vandalism,1,"Los Angeles, San Fernando Valley",,Male,Yes,Anti-Asian
+1995,Law Enforcement Agency,TX,Texas,1995-11-25,2,0,3,2,1,Hispanic or Latino,Not Hispanic or Latino,2,Simple Assault,2,"Houston, Southwest",,"Male, Male",Yes,Anti-White
+1996,Law Enforcement Agency,FL,Florida,1996-03-17,1,0,1,1,0,White,Not Hispanic or Latino,1,Intimidation,1,"Miami, Miami Beach",,Male,Yes,Anti-White
+1997,Law Enforcement Agency,GA,Georgia,1997-09-02,0,2,2,0,2,Black or African American,Not Hispanic or Latino,2,Simple Assault,2,"Atlanta, East Atlanta",,"Female, Female",Yes,Anti-Hispanic or Latino
+1998,Law Enforcement Agency,IL,Illinois,1998-01-28,1,0,1,1,0,Asian,Not Hispanic or Latino,1,Intimidation,1,"Chicago, North Side",,Male,Yes,Anti-Male
+1999,Law Enforcement Agency,OH,Ohio,1999-05-15,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Vandalism,1,"Columbus, North End",,Male,Yes,Anti-Female
+2000,Law Enforcement Agency,NJ,New Jersey,2000-12-18,2,0,2,2,0,White,Not Hispanic or Latino,2,Simple Assault,2,"Newark, Newark City",,"Male, Male",Yes,Anti-Asian
+2001,Law Enforcement Agency,PA,Pennsylvania,2001-07-04,1,0,1,1,0,Hispanic or Latino,Not Hispanic or Latino,1,Intimidation,1,"Philadelphia, Northeast",,Male,Yes,Anti-Jewish
+2002,Law Enforcement Agency,NC,North Carolina,2002-03-22,0,2,2,0,2,Black or African American,Not Hispanic or Latino,2,Simple Assault,2,"Charlotte, University",,"Female, Female",Yes,Anti-White
+2003,Law Enforcement Agency,MI,Michigan,2003-11-01,1,0,1,1,0,Asian,Not Hispanic or Latino,1,Intimidation,1,"Detroit, Southwest",,Male,Yes,Anti-Asian
+2004,Law Enforcement Agency,TN,Tennessee,2004-08-20,0,1,1,0,1,White,Not Hispanic or Latino,1,Vandalism,1,"Nashville, Downtown",,Male,Yes,Anti-LGBTQ or LGBTQ+
+2005,Law Enforcement Agency,SC,South Carolina,2005-01-25,2,0,2,2,0,Black or African American,Not Hispanic or Latino,2,Simple Assault,2,"Columbia, Downtown",,"Male, Male",Yes,Anti-Female
+2006,Law Enforcement Agency,KY,Kentucky,2006-06-15,1,0,1,1,0,Hispanic or Latino,Not Hispanic or Latino,1,Intimidation,1,"Louisville, Downtown",,Male,Yes,Anti-White
+2007,Law Enforcement Agency,LA,Louisiana,2007-04-10,0,2,2,0,2,Black or African American,Not Hispanic or Latino,2,Simple Assault,2,"New Orleans, French Quarter",,"Female, Female",Yes,Anti-Asian
+2008,Law Enforcement Agency,MA,Massachusetts,2008-12-01,2,0,2,2,0,White,Not Hispanic or Latino,2,Simple Assault,2,"Boston, North End",,"Male, Male",Yes,Anti-White
+2009,Law Enforcement Agency,WA,Washington,2009-05-05,1,0,1,1,0,Asian,Not Hispanic or Latino,1,Intimidation,1,"Seattle, Capitol Hill",,Male,Yes,Anti-Jewish
+2010,Law Enforcement Agency,VT,Vermont,2010-09-20,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Vandalism,1,"Burlington, Downtown",,Male,Yes,Anti-LGBTQ or LGBTQ+
+2011,Law Enforcement Agency,WV,West Virginia,2011-01-25,2,0,2,2,0,White,Not Hispanic or Latino,2,Simple Assault,2,"Charleston, Downtown",,"Male, Male",Yes,Anti-Asian
+2012,Law Enforcement Agency,RI,Rhode Island,2012-06-01,1,0,1,1,0,Hispanic or Latino,Not Hispanic or Latino,1,Intimidation,1,"Providence, Downtown",,Male,Yes,Anti-Jewish
+2013,Law Enforcement Agency,AK,Alaska,2013-10-15,0,2,2,0,2,Black or African American,Not Hispanic or Latino,2,Simple Assault,2,"Anchorage, Downtown",,"Female, Female",Yes,Anti-Male
+2014,Law Enforcement Agency,HI,Hawaii,2014-03-20,2,0,2,2,0,White,Not Hispanic or Latino,2,Simple Assault,2,"Honolulu, Downtown",,"Male, Male",Yes,Anti-Female
+1993,State,TX,Texas,1993-02-25,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,Police Department,Anti-White,Adult,True,True
+1993,Local,NY,New York,1993-03-15,0,1,2,2,0,Black,Hispanic or Latino,1,Intimidation,1,School,Anti-Black,Juvenile,False,False
+1992,Local,CA,California,1992-09-01,1,0,1,1,0,Asian,Not Hispanic or Other Ethnicity,1,Aggravated Assault,1,Residence,Anti-Asian,Adult,True,True
+1994,Federal,OH,Ohio,1994-06-20,0,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Vandalism,1,Park,Anti-White,Adult,True,True
+1991,State,FL,Florida,1991-01-20,1,0,1,1,0,Black,Not Hispanic or Other Ethnicity,1,Simple Assault,1,Business,Anti-Black,Adult,True,True
+1992,Local,IL,Illinois,1992-11-15,0,1,2,2,0,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1,Public Transportation,Anti-Hispanic or Latino,Juvenile,False,False
+1994,Local,GA,Georgia,1994-03-10,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Aggravated Assault,1,Residence,Anti-White,Adult,True,True
+1993,Federal,NC,North Carolina,1993-08-01,0,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Vandalism,1,School,Anti-White,Adult,True,True
+1991,Local,NJ,New Jersey,1991-06-01,0,1,2,2,0,Black,Black,2,Intimidation,2,Public Park,Anti-Black,Juvenile,False,False
+1992,State,AZ,Arizona,1992-05-01,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,Business,Anti-White,Adult,True,True
+1994,Local,MI,Michigan,1994-04-15,0,1,2,2,0,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1,Residence,Anti-Hispanic or Latino,Juvenile,False,False
+1993,Federal,SC,South Carolina,1993-09-20,0,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Vandalism,1,Police Department,Anti-White,Adult,True,True
+1991,Local,MA,Massachusetts,1991-03-01,0,1,2,2,0,Asian,Asian,2,Intimidation,2,Public Transportation,Anti-Asian,Juvenile,False,False
+1992,State,VT,Vermont,1992-07-01,1,0,1,1,0,Black,Not Hispanic or Other Ethnicity,1,Aggravated Assault,1,Residence,Anti-Black,Adult,True,True
+1994,Local,IN,Indiana,1994-01-10,0,1,2,2,0,White,White,2,Simple Assault,2,School,Anti-White,Juvenile,False,False
+1993,Federal,LA,Louisiana,1993-10-15,0,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Vandalism,1,Public Park,Anti-Hispanic or Latino,Adult,True,True
+1991,Local,RI,Rhode Island,1991-09-20,0,1,2,2,0,Black,Black,2,Intimidation,2,Public Transportation,Anti-Black,Juvenile,False,False
+1992,State,KY,Kentucky,1992-04-01,1,0,1,1,0,Asian,Not Hispanic or Other Ethnicity,1,Aggravated Assault,1,Business,Anti-Asian,Adult,True,True
+1994,Local,TN,Tennessee,1994-02-25,0,1,2,2,0,White,White,2,Simple Assault,2,Residence,Anti-White,Juvenile,False,False
+1993,Federal,CT,Connecticut,1993-06-01,0,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Vandalism,1,School,Anti-Hispanic or Latino,Adult,True,True
+1991,Local,ME,Maine,1991-07-15,0,1,2,2,0,Black,Black,2,Intimidation,2,Public Park,Anti-Black,Juvenile,False,False
+1992,State,IA,Iowa,1992-08-01,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Aggravated Assault,1,Business,Anti-White,Adult,True,True
+1994,Local,VT,Vermont,1994-11-10,0,1,2,2,0,White,White,2,Simple Assault,2,Residence,Anti-White,Juvenile,False,False
+1993,Federal,OR,Oregon,1993-03-01,0,0,1,1,0,Asian,Not Hispanic or Other Ethnicity,1,Vandalism,1,Public Transportation,Anti-Asian,Adult,True,True
+1991,Local,MT,Montana,1991-10-01,0,1,2,2,0,White,White,2,Intimidation,2,Public Park,Anti-White,Juvenile,False,False
+1992,State,ND,North Dakota,1992-01-15,1,0,1,1,0,Black,Not Hispanic or Other Ethnicity,1,Simple Assault,1,Business,Anti-Black,Adult,True,True
+1994,Local,NV,Nevada,1994-05-01,0,1,2,2,0,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1,Residence,Anti-Hispanic or Latino,Juvenile,False,False
+1993,Federal,AK,Alaska,1993-09-01,0,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Vandalism,1,School,Anti-White,Adult,True,True
+1991,Local,WY,Wyoming,1991-12-20,0,1,2,2,0,Black,Black,2,Intimidation,2,Public Transportation,Anti-Black,Juvenile,False,False
+1992,State,WV,West Virginia,1992-03-01,1,0,1,1,0,Asian,Not Hispanic or Other Ethnicity,1,Aggravated Assault,1,Business,Anti-Asian,Adult,True,True
+1994,Local,DE,Delaware,1994-08-01,0,1,2,2,0,White,White,2,Simple Assault,2,Residence,Anti-White,Juvenile,False,False
+1993,Federal,HI,Hawaii,1993-11-15,0,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Vandalism,1,Public Park,Anti-Hispanic or Latino,Adult,True,True
+1991,Local,SD,South Dakota,1991-05-01,0,1,2,2,0,Black,Black,2,Intimidation,2,Public Transportation,Anti-Black,Juvenile,False,False
+1992,State,NE,Nebraska,1992-09-01,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Aggravated Assault,1,Business,Anti-White,Adult,True,True
+1994,Local,KS,Kansas,1994-03-25,0,1,2,2,0,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1,Residence,Anti-Hispanic or Latino,Juvenile,False,False
+1995,Law Enforcement,WV,West Virginia,1995-01-15,1,0,1,0,1,White,Not Hispanic or Latino,1,Anti-Theft,1,,Hate Crime,1 Person,False,
+,,,Maine,1998-04-10,,,,,,Asian,Not Hispanic or Latino,1,,,,Racial Bias,1 Person,Yes,White Supremacy
+,,,Kansas,1999-08-05,,,,,,Black or African American,Not Hispanic or Latino,1,,,,Racial Bias,1 Person,Yes,Anti-Black
+2001,Law Enforcement,TX,Texas,2001-09-22,0,1,1,0,1,Hispanic or Latino,Not Hispanic or Latino,1,Vandalism,1,,Ethnic/National Origin Bias,1 Person,False,
+,,,North Dakota,2002-11-18,,,,,,White,Not Hispanic or Latino,1,,,,Hate Crime,1 Person,Yes,Anti-White
+2003,Law Enforcement,OK,Oklahoma,2003-02-14,0,1,1,0,1,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,1,Simple Assault,1,,Racial Bias,1 Person,False,
+,,,Vermont,2004-06-08,,,,,,Asian,Not Hispanic or Latino,1,,,,Racial Bias,1 Person,Yes,Anti-Asian
+2005,Law Enforcement,IA,Iowa,2005-03-25,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Vandalism,1,,Racial Bias,1 Person,False,
+,,,Montana,2006-10-01,,,,,,White,Not Hispanic or Latino,1,,,,Hate Crime,1 Person,Yes,Anti-White
+2007,Law Enforcement,MN,Minnesota,2007-01-17,0,1,1,0,1,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1,,Ethnic/National Origin Bias,1 Person,False,
+,,,Arizona,2008-07-15,,,,,,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,1,,,,Racial Bias,1 Person,Yes,Anti-Native American
+2009,Law Enforcement,SD,South Dakota,2009-12-02,0,1,1,0,1,Asian,Not Hispanic or Latino,1,Vandalism,1,,Racial Bias,1 Person,False,
+,,,Utah,2010-05-12,,,,,,Black or African American,Not Hispanic or Latino,1,,,,Hate Crime,1 Person,Yes,Anti-Black
+2011,Law Enforcement,DE,Delaware,2011-09-01,0,1,1,0,1,White,Not Hispanic or Latino,1,Simple Assault,1,,Racial Bias,1 Person,False,
+,,,Nebraska,2012-02-10,,,,,,Hispanic or Latino,Not Hispanic or Latino,1,,,,Ethnic/National Origin Bias,1 Person,Yes,Anti-Hispanic
+2013,Law Enforcement,ID,Idaho,2013-08-08,0,1,1,0,1,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,1,Vandalism,1,,Racial Bias,1 Person,False,
+,,,Wyoming,2014-01-15,,,,,,White,Not Hispanic or Latino,1,,,,Hate Crime,1 Person,Yes,Anti-White
+2014,Law Enforcement,NH,New Hampshire,2014-03-22,0,1,1,0,1,Asian,Not Hispanic or Latino,1,Simple Assault,1,,Racial Bias,1 Person,False,
+,,,South Carolina,2014-10-10,,,,,,Black or African American,Not Hispanic or Latino,1,,,,Racial Bias,1 Person,Yes,Anti-Black
+1995,Law Enforcement,IN,Indiana,1995-06-20,0,1,1,0,1,Hispanic or Latino,Not Hispanic or Latino,1,Vandalism,1,,Ethnic/National Origin Bias,1 Person,False,
+,,,California,1998-11-25,,,,,,White,Not Hispanic or Latino,1,,,,Hate Crime,1 Person,Yes,Anti-White
+2001,Law Enforcement,NV,Nevada,2001-04-02,0,1,1,0,1,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,1,Simple Assault,1,,Racial Bias,1 Person,False,
+,,,Georgia,2002-07-01,,,,,,Black or African American,Not Hispanic or Latino,1,,,,Racial Bias,1 Person,Yes,Anti-Black
+2003,Law Enforcement,MI,Michigan,2003-12-10,0,1,1,0,1,Asian,Not Hispanic or Latino,1,Vandalism,1,,Racial Bias,1 Person,False,
+,,,Colorado,2004-09-15,,,,,,White,Not Hispanic or Latino,1,,,,Hate Crime,1 Person,Yes,Anti-White
+2005,Law Enforcement,RI,Rhode Island,2005-02-05,0,1,1,0,1,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1,,Ethnic/National Origin Bias,1 Person,False,
+,,,Kentucky,2006-11-01,,,,,,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,1,,,,Racial Bias,1 Person,Yes,Anti-Native American
+2007,Law Enforcement,CT,Connecticut,2007-06-22,0,1,1,0,1,Asian,Not Hispanic or Latino,1,Vandalism,1,,Racial Bias,1 Person,False,
+,,,Alabama,2008-03-10,,,,,,White,Not Hispanic or Latino,1,,,,Hate Crime,1 Person,Yes,Anti-White
+2009,Law Enforcement,OR,Oregon,2009-09-01,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Simple Assault,1,,Racial Bias,1 Person,False,
+,,,Maryland,2010-02-15,,,,,,Hispanic or Latino,Not Hispanic or Latino,1,,,,Ethnic/National Origin Bias,1 Person,Yes,Anti-Hispanic
+2011,Law Enforcement,HI,Hawaii,2011-04-22,0,1,1,0,1,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,1,Vandalism,1,,Racial Bias,1 Person,False,
+,,,North Carolina,2012-01-01,,,,,,White,Not Hispanic or Latino,1,,,,Hate Crime,1 Person,Yes,Anti-White
+2013,Law Enforcement,FL,Florida,2013-06-10,0,1,1,0,1,Asian,Not Hispanic or Latino,1,Simple Assault,1,,Racial Bias,1 Person,False,
+,,,Arkansas,2014-08-15,,,,,,Black or African American,Not Hispanic or Latino,1,,,,Racial Bias,1 Person,Yes,Anti-Black
+,2012,Law Enforcement,AL,Alabama,2/16/2012,1,0,2,1,1,White,Non-Hispanic,1,Intimidation,1,Commercial Business,Anti-White,Adult,True
+,2012,Law Enforcement,AZ,Arizona,7/14/2012,0,1,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1,Residential Building,Anti-Black or African American,Juvenile,False
+,2012,Law Enforcement,CA,California,1/1/2012,0,0,2,2,0,Asian,Asian,2,Intimidation,2,Residential Building,Anti-Jewish,Adult,False
+,2012,Law Enforcement,FL,Florida,9/18/2012,1,0,2,1,1,White,Non-Hispanic,1,Simple Assault,1,Residential Building,Anti-Homosexual,Adult,True
+,2012,Law Enforcement,GA,Georgia,10/15/2012,0,1,1,1,0,Black or African American,Black or African American,1,Vandalism,1,Commercial Business,Anti-Romani,Juvenile,False
+,2012,Law Enforcement,IL,Illinois,12/20/2012,0,0,2,2,0,Black or African American,Black or African American,2,Intimidation,2,Residential Building,Anti-Homosexual,Adult,False
+,2012,Law Enforcement,KS,Kansas,11/28/2012,1,0,2,1,1,White,Non-Hispanic,1,Simple Assault,1,Commercial Business,Anti-White,Adult,True
+,2012,Law Enforcement,MD,Maryland,8/25/2012,0,1,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1,Residential Building,Anti-Black or African American,Juvenile,False
+,2012,Law Enforcement,MI,Michigan,6/30/2012,0,0,2,2,0,Black or African American,Black or African American,2,Intimidation,2,Residential Building,Anti-Homosexual,Adult,False
+,2012,Law Enforcement,MO,Missouri,5/20/2012,0,1,1,1,0,White,Non-Hispanic,1,Vandalism,1,Commercial Business,Anti-Romani,Juvenile,False
+,2012,Law Enforcement,NC,North Carolina,9/21/2012,1,0,2,1,1,Black or African American,Black or African American,1,Simple Assault,1,Residential Building,Anti-Asian,Adult,True
+,2012,Law Enforcement,NY,New York,1/15/2012,0,0,2,2,0,Asian,Asian,2,Intimidation,2,Residential Building,Anti-Jewish,Adult,False
+,2012,Law Enforcement,OH,Ohio,3/20/2012,0,1,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1,Commercial Business,Anti-Black or African American,Juvenile,False
+,2012,Law Enforcement,OK,Oklahoma,10/29/2012,1,0,2,1,1,White,Non-Hispanic,1,Simple Assault,1,Residential Building,Anti-Homosexual,Adult,True
+,2012,Law Enforcement,OR,Oregon,6/5/2012,0,0,2,2,0,Black or African American,Black or African American,2,Intimidation,2,Residential Building,Anti-Romani,Adult,False
+,2012,Law Enforcement,SC,South Carolina,12/12/2012,0,1,1,1,0,White,Non-Hispanic,1,Vandalism,1,Commercial Business,Anti-Black or African American,Juvenile,False
+,2012,Law Enforcement,TX,Texas,7/1/2012,0,0,2,2,0,Asian,Asian,2,Intimidation,2,Residential Building,Anti-Jewish,Adult,False
+,2012,Law Enforcement,UT,Utah,9/1/2012,1,0,2,1,1,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1,Commercial Business,Anti-Homosexual,Adult,True
+,2012,Law Enforcement,VA,Virginia,8/10/2012,0,1,1,1,0,White,Non-Hispanic,1,Simple Assault,1,Residential Building,Anti-Black or African American,Juvenile,False
+,2012,Law Enforcement,WA,Washington,11/25/2012,0,0,2,2,0,Black or African American,Black or African American,2,Intimidation,2,Residential Building,Anti-Romani,Adult,False
+,2012,Law Enforcement,WI,Wisconsin,10/15/2012,1,0,2,1,1,White,Non-Hispanic,1,Simple Assault,1,Commercial Business,Anti-Asian,Adult,True
+,2013,Law Enforcement,AK,Alaska,6/14/2013,0,1,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1,Residential Building,Anti-Black or African American,Juvenile,False
+,2013,Law Enforcement,AZ,Arizona,8/7/2013,0,0,2,2,0,Asian,Asian,2,Intimidation,2,Residential Building,Anti-Jewish,Adult,False
+,2013,Law Enforcement,CA,California,2/21/2013,1,0,2,1,1,White,Non-Hispanic,1,Simple Assault,1,Commercial Business,Anti-Homosexual,Adult,True
+,2013,Law Enforcement,FL,Florida,9/6/2013,0,1,1,1,0,Black or African American,Black or African American,1,Vandalism,1,Commercial Business,Anti-Romani,Juvenile,False
+,2013,Law Enforcement,GA,Georgia,3/20/2013,0,0,2,2,0,Black or African American,Black or African American,2,Intimidation,2,Residential Building,Anti-Homosexual,Adult,False
+,2013,Law Enforcement,IL,Illinois,12/12/2013,1,0,2,1,1,White,Non-Hispanic,1,Simple Assault,1,Residential Building,Anti-Asian,Adult,True
+,2013,Law Enforcement,KS,Kansas,1/8/2013,0,1,1,1,0,White,Non-Hispanic,1,Simple Assault,1,Commercial Business,Anti-Black or African American,Juvenile,False
+,2013,Law Enforcement,MD,Maryland,11/25/2013,0,0,2,2,0,Asian,Asian,2,Intimidation,2,Residential Building,Anti-Jewish,Adult,False
+,2013,Law Enforcement,MI,Michigan,5/1/2013,0,1,1,1,0,Black or African American,Black or African American,1,Vandalism,1,Commercial Business,Anti-Romani,Juvenile,False
+,2013,Law Enforcement,MO,Missouri,6/10/2013,0,0,2,2,0,Hispanic or Latino,Hispanic or Latino,2,Intimidation,2,Residential Building,Anti-Homosexual,Adult,False
+,2013,Law Enforcement,NC,North Carolina,8/14/2013,1,0,2,1,1,White,Non-Hispanic,1,Simple Assault,1,Commercial Business,Anti-Asian,Adult,True
+,2013,Law Enforcement,NY,New York,1/25/2013,0,1,1,1,0,Asian,Asian,1,Simple Assault,1,Residential Building,Anti-Romani,Juvenile,False
+,2013,Law Enforcement,OH,Ohio,4/5/2013,1,0,2,1,1,White,Non-Hispanic,1,Simple Assault,1,Commercial Business,Anti-Homosexual,Adult,True
+,2013,Law Enforcement,OK,Oklahoma,10/22/2013,0,0,2,2,0,Black or African American,Black or African American,2,Intimidation,2,Residential Building,Anti-Jewish,Adult,False
+,2013,Law Enforcement,OR,Oregon,9/8/2013,0,1,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1,Commercial Business,Anti-Asian,Juvenile,False
+,2013,Law Enforcement,SC,South Carolina,11/17/2013,0,1,1,1,0,White,Non-Hispanic,1,Vandalism,1,Residential Building,Anti-Romani,Juvenile,False
+,2013,Law Enforcement,TX,Texas,3/25/2013,0,0,2,2,0,Asian,Asian,2,Intimidation,2,Residential Building,Anti-Jewish,Adult,False
+,2013,Law Enforcement,UT,Utah,10/28/2013,0,1,1,1,0,White,Non-Hispanic,1,Simple Assault,1,Commercial Business,Anti-Black or African American,Juvenile,False
+,2013,Law Enforcement,VA,Virginia,5/1/2013,1,0,2,1,1,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1,Residential Building,Anti-Homosexual,Adult,True
+,2013,Law Enforcement,WA,Washington,7/14/2013,1,0,2,1,1,White,Non-Hispanic,1,Simple Assault,1,Commercial Business,Anti-Asian,Adult,True
+,2013,Law Enforcement,WI,Wisconsin,12/12/2013,0,0,2,2,0,Black or African American,Black or African American,2,Intimidation,2,Residential Building,Anti-Romani,Adult,False
+1992,Local,"""CA""","""California""","""1992-02-15""",1,0,1,1,0,"""White""","""Not Hispanic or Other Ethnicity""",1,"""Simple Assault""",1,"""Residence""","""Antisemitism""","""Individual Victimized""","""False""","""False"""
+1992,State,"""TX""","""Texas""","""1992-03-20""",0,1,1,0,1,"""Black or African American""","""Not Hispanic or Other Ethnicity""",1,"""Intimidation""",1,"""Business""","""Sexual Orientation""","""Individual Victimized""","""False""","""False"""
+1992,Local,"""FL""","""Florida""","""1992-05-10""",1,0,1,1,0,"""White""","""Not Hispanic or Other Ethnicity""",1,"""Vandalism""",1,"""Street""","""Bigotry""","""Individual Victimized""","""True""","""False"""
+1992,Local,"""NY""","""New York""","""1992-06-15""",0,1,1,0,1,"""Asian""","""Not Hispanic or Other Ethnicity""",1,"""Simple Assault""",1,"""Residence""","""Antisemitism""","""Individual Victimized""","""False""","""False"""
+1992,State,"""IL""","""Illinois""","""1992-08-25""",1,0,1,1,0,"""White""","""Not Hispanic or Other Ethnicity""",1,"""Intimidation""",1,"""Business""","""Sexual Orientation""","""Individual Victimized""","""False""","""False"""
+1992,Local,"""PA""","""Pennsylvania""","""1992-09-01""",0,1,1,0,1,"""Black or African American""","""Not Hispanic or Other Ethnicity""",1,"""Vandalism""",1,"""Street""","""Bigotry""","""Individual Victimized""","""True""","""False"""
+1992,State,"""GA""","""Georgia""","""1992-10-10""",1,0,1,1,0,"""White""","""Not Hispanic or Other Ethnicity""",1,"""Intimidation""",1,"""Business""","""Sexual Orientation""","""Individual Victimized""","""False""","""False"""
+1992,Local,"""MI""","""Michigan""","""1992-11-15""",0,1,1,0,1,"""Asian""","""Not Hispanic or Other Ethnicity""",1,"""Simple Assault""",1,"""Residence""","""Antisemitism""","""Individual Victimized""","""False""","""False"""
+1993,State,"""NC""","""North Carolina""","""1993-01-20""",1,0,1,1,0,"""White""","""Not Hispanic or Other Ethnicity""",1,"""Intimidation""",1,"""Business""","""Sexual Orientation""","""Individual Victimized""","""False""","""False"""
+1993,Local,"""OH""","""Ohio""","""1993-02-10""",0,1,1,0,1,"""Black or African American""","""Not Hispanic or Other Ethnicity""",1,"""Vandalism""",1,"""Street""","""Bigotry""","""Individual Victimized""","""True""","""False"""
+1993,State,"""SC""","""South Carolina""","""1993-03-25""",1,0,1,1,0,"""White""","""Not Hispanic or Other Ethnicity""",1,"""Simple Assault""",1,"""Residence""","""Antisemitism""","""Individual Victimized""","""False""","""False"""
+1993,Local,"""TN""","""Tennessee""","""1993-04-15""",0,1,1,0,1,"""Asian""","""Not Hispanic or Other Ethnicity""",1,"""Intimidation""",1,"""Business""","""Sexual Orientation""","""Individual Victimized""","""False""","""False"""
+1993,State,"""WI""","""Wisconsin""","""1993-05-10""",1,0,1,1,0,"""White""","""Not Hispanic or Other Ethnicity""",1,"""Vandalism""",1,"""Street""","""Bigotry""","""Individual Victimized""","""True""","""False"""
+1993,Local,"""VT""","""Vermont""","""1993-06-01""",0,1,1,0,1,"""Black or African American""","""Not Hispanic or Other Ethnicity""",1,"""Simple Assault""",1,"""Residence""","""Antisemitism""","""Individual Victimized""","""False""","""False"""
+1993,State,"""WY""","""Wyoming""","""1993-07-15""",1,0,1,1,0,"""White""","""Not Hispanic or Other Ethnicity""",1,"""Intimidation""",1,"""Business""","""Sexual Orientation""","""Individual Victimized""","""False""","""False"""
+1993,Local,"""MS""","""Mississippi""","""1993-08-10""",0,1,1,0,1,"""Asian""","""Not Hispanic or Other Ethnicity""",1,"""Vandalism""",1,"""Street""","""Bigotry""","""Individual Victimized""","""True""","""False"""
+1993,State,"""SD""","""South Dakota""","""1993-09-01""",1,0,1,1,0,"""White""","""Not Hispanic or Other Ethnicity""",1,"""Simple Assault""",1,"""Residence""","""Antisemitism""","""Individual Victimized""","""False""","""False"""
+1993,Local,"""DE""","""Delaware""","""1993-10-15""",0,1,1,0,1,"""Black or African American""","""Not Hispanic or Other Ethnicity""",1,"""Intimidation""",1,"""Business""","""Sexual Orientation""","""Individual Victimized""","""False""","""False"""
+1993,State,"""ME""","""Maine""","""1993-11-10""",1,0,1,1,0,"""White""","""Not Hispanic or Other Ethnicity""",1,"""Vandalism""",1,"""Street""","""Bigotry""","""Individual Victimized""","""True""","""False"""
+1994,Local,"""AL""","""Alabama""","""1994-01-01""",0,1,1,0,1,"""Asian""","""Not Hispanic or Other Ethnicity""",1,"""Simple Assault""",1,"""Residence""","""Antisemitism""","""Individual Victimized""","""False""","""False"""
+1994,State,"""AK""","""Alaska""","""1994-02-10""",1,0,1,1,0,"""White""","""Not Hispanic or Other Ethnicity""",1,"""Intimidation""",1,"""Business""","""Sexual Orientation""","""Individual Victimized""","""False""","""False"""
+1994,Local,"""KS""","""Kansas""","""1994-03-15""",0,1,1,0,1,"""Black or African American""","""Not Hispanic or Other Ethnicity""",1,"""Vandalism""",1,"""Street""","""Bigotry""","""Individual Victimized""","""True""","""False"""
+1994,State,"""LA""","""Louisiana""","""1994-04-01""",1,0,1,1,0,"""White""","""Not Hispanic or Other Ethnicity""",1,"""Simple Assault""",1,"""Residence""","""Antisemitism""","""Individual Victimized""","""False""","""False"""
+1994,Local,"""NE""","""Nebraska""","""1994-05-10""",0,1,1,0,1,"""Asian""","""Not Hispanic or Other Ethnicity""",1,"""Intimidation""",1,"""Business""","""Sexual Orientation""","""Individual Victimized""","""False""","""False"""
+1994,State,"""MT""","""Montana""","""1994-06-15""",1,0,1,1,0,"""White""","""Not Hispanic or Other Ethnicity""",1,"""Vandalism""",1,"""Street""","""Bigotry""","""Individual Victimized""","""True""","""False"""
+1994,Local,"""NV""","""Nevada""","""1994-07-01""",0,1,1,0,1,"""Black or African American""","""Not Hispanic or Other Ethnicity""",1,"""Simple Assault""",1,"""Residence""","""Antisemitism""","""Individual Victimized""","""False""","""False"""
+1994,State,"""NH""","""New Hampshire""","""1994-08-10""",1,0,1,1,0,"""White""","""Not Hispanic or Other Ethnicity""",1,"""Intimidation""",1,"""Business""","""Sexual Orientation""","""Individual Victimized""","""False""","""False"""
+1994,Local,"""ND""","""North Dakota""","""1994-09-15""",0,1,1,0,1,"""Asian""","""Not Hispanic or Other Ethnicity""",1,"""Vandalism""",1,"""Street""","""Bigotry""","""Individual Victimized""","""True""","""False"""
+1994,State,"""RI""","""Rhode Island""","""1994-10-01""",1,0,1,1,0,"""White""","""Not Hispanic or Other Ethnicity""",1,"""Simple Assault""",1,"""Residence""","""Antisemitism""","""Individual Victimized""","""False""","""False"""
+1994,Local,"""UT""","""Utah""","""1994-11-10""",0,1,1,0,1,"""Black or African American""","""Not Hispanic or Other Ethnicity""",1,"""Intimidation""",1,"""Business""","""Sexual Orientation""","""Individual Victimized""","""False""","""False"""
+1995,State,"""AR""","""Arkansas""","""1995-01-01""",1,0,1,1,0,"""White""","""Not Hispanic or Other Ethnicity""",1,"""Vandalism""",1,"""Street""","""Bigotry""","""Individual Victimized""","""True""","""False"""
+1995,Local,"""ID""","""Idaho""","""1995-02-10""",0,1,1,0,1,"""Asian""","""Not Hispanic or Other Ethnicity""",1,"""Simple Assault""",1,"""Residence""","""Antisemitism""","""Individual Victimized""","""False""","""False"""
+1995,State,"""IA""","""Iowa""","""1995-03-15""",1,0,1,1,0,"""White""","""Not Hispanic or Other Ethnicity""",1,"""Intimidation""",1,"""Business""","""Sexual Orientation""","""Individual Victimized""","""False""","""False"""
+1995,Local,"""IN""","""Indiana""","""1995-04-01""",0,1,1,0,1,"""Black or African American""","""Not Hispanic or Other Ethnicity""",1,"""Vandalism""",1,"""Street""","""Bigotry""","""Individual Victimized""","""True""","""False"""
+1995,State,"""OK""","""Oklahoma""","""1995-05-10""",1,0,1,1,0,"""White""","""Not Hispanic or Other Ethnicity""",1,"""Simple Assault""",1,"""Residence""","""Antisemitism""","""Individual Victimized""","""False""","""False"""
+1995,Local,"""OR""","""Oregon""","""1995-06-15""",0,1,1,0,1,"""Asian""","""Not Hispanic or Other Ethnicity""",1,"""Intimidation""",1,"""Business""","""Sexual Orientation""","""Individual Victimized""","""False""","""False"""
+1995,State,"""MO""","""Missouri""","""1995-07-01""",1,0,1,1,0,"""White""","""Not Hispanic or Other Ethnicity""",1,"""Vandalism""",1,"""Street""","""Bigotry""","""Individual Victimized""","""True""","""False"""
+1995,Local,"""AR""","""Arkansas""","""1995-08-10""",0,1,1,0,1,"""Black or African American""","""Not Hispanic or Other Ethnicity""",1,"""Simple Assault""",1,"""Residence""","""Antisemitism""","""Individual Victimized""","""False""","""False"""
+1995,State,"""WV""","""West Virginia""","""1995-09-15""",1,0,1,1,0,"""White""","""Not Hispanic or Other Ethnicity""",1,"""Intimidation""",1,"""Business""","""Sexual Orientation""","""Individual Victimized""","""False""","""False"""
+1995,Local,"""AZ""","""Arizona""","""1995-10-01""",0,1,1,0,1,"""Asian""","""Not Hispanic or Other Ethnicity""",1,"""Vandalism""",1,"""Street""","""Bigotry""","""Individual Victimized""","""True""","""False"""
+1995,State,"""MN""","""Minnesota""","""1995-11-10""",1,0,1,1,0,"""White""","""Not Hispanic or Other Ethnicity""",1,"""Simple Assault""",1,"""Residence""","""Antisemitism""","""Individual Victimized""","""False""","""False"""
+1996,Local,"""CT""","""Connecticut""","""1996-01-01""",0,1,1,0,1,"""Black or African American""","""Not Hispanic or Other Ethnicity""",1,"""Intimidation""",1,"""Business""","""Sexual Orientation""","""Individual Victimized""","""False""","""False"""
+1996,State,"""CO""","""Colorado""","""1996-02-10""",1,0,1,1,0,"""White""","""Not Hispanic or Other Ethnicity""",1,"""Vandalism""",1,"""Street""","""Bigotry""","""Individual Victimized""","""True""","""False"""
+1996,Local,"""KY""","""Kentucky""","""1996-03-15""",0,1,1,0,1,"""Asian""","""Not Hispanic or Other Ethnicity""",1,"""Simple Assault""",1,"""Residence""","""Antisemitism""","""Individual Victimized""","""False""","""False"""
+1996,State,"""MD""","""Maryland""","""1996-04-01""",1,0,1,1,0,"""White""","""Not Hispanic or Other Ethnicity""",1,"""Intimidation""",1,"""Business""","""Sexual Orientation""","""Individual Victimized""","""False""","""False"""
+1996,Local,"""NM""","""New Mexico""","""1996-05-10""",0,1,1,0,1,"""Black or African American""","""Not Hispanic or Other Ethnicity""",1,"""Vandalism""",1,"""Street""","""Bigotry""","""Individual Victimized""","""True""","""False"""
+1996,State,"""VA""","""Virginia""","""1996-06-15""",1,0,1,1,0,"""White""","""Not Hispanic or Other Ethnicity""",1,"""Simple Assault""",1,"""Residence""","""Antisemitism""","""Individual Victimized""","""False""","""False"""
+1996,Local,"""WI""","""Wisconsin""","""1996-07-01""",0,1,1,0,1,"""Asian""","""Not Hispanic or Other Ethnicity""",1,"""Intimidation""",1,"""Business""","""Sexual Orientation""","""Individual Victimized""","""False""","""False"
+1994,State/Local,DE,Delaware,1994-08-23,0,1,1,1,0,White,Hispanic,1,Simple Assault,1,Delaware State University,Anti-White,Adult,true,false
+1992,State/Local,AK,Alaska,1992-12-15,1,0,1,1,0,Asian,White,1,Intimidation,1,Anchorage Park,Anti-Asian,Adult,false,false
+1996,State/Local,IL,Illinois,1996-05-22,1,0,2,2,0,White,Black,2,Aggravated Assault,2,Chicago Public Library,Anti-White,"Adult,Minor",false,false
+2000,State/Local,CO,Colorado,2000-09-12,0,1,1,1,0,Black,Hispanic,1,Vandalism,1,Denver High School,Anti-Black,Minor,true,false
+2001,State/Local,TX,Texas,2001-07-20,2,0,2,2,0,White,White,4,Simple Assault,4,Austin Community College,Anti-White,Adult,false,false
+2004,State/Local,CA,California,2004-02-18,1,0,1,1,0,Hispanic,Asian,1,Intimidation,1,Los Angeles Park,Anti-Hispanic,Adult,false,false
+2005,State/Local,OH,Ohio,2005-04-11,0,1,1,1,0,Black,White,1,Vandalism,1,Cincinnati Elementary School,Anti-Black,Minor,true,false
+2007,State/Local,NV,Nevada,2007-10-15,2,0,2,2,0,White,White,4,Simple Assault,4,Las Vegas Public Library,Anti-White,Adult,false,false
+2008,State/Local,NY,New York,2008-11-28,1,0,1,1,0,Hispanic,Black,1,Intimidation,1,New York City Subway,Anti-Hispanic,Adult,false,false
+2011,State/Local,FL,Florida,2011-08-22,0,1,1,1,0,Asian,White,1,Vandalism,1,Miami Beach High School,Anti-Asian,Minor,true,false
+1993,Local,AZ,Arizona,1993-02-10,1,0,1,1,0,Black,Black,1,Aggravated Assault,1,Phoenix Park,Anti-Black,Adult,false,false
+2003,Local,PA,Pennsylvania,2003-05-06,0,1,1,1,0,White,Asian,1,Intimidation,1,Pittsburgh Elementary School,Anti-White,Minor,true,false
+1995,Local,NC,North Carolina,1995-09-25,2,0,2,2,0,White,White,4,Simple Assault,4,Raleigh Public Library,Anti-White,Adult,false,false
+1997,Local,OR,Oregon,1997-07-29,1,0,1,1,0,Hispanic,Black,1,Intimidation,1,Portland Community College,Anti-Hispanic,Adult,false,false
+2009,Local,WA,Washington,2009-04-01,0,1,1,1,0,Asian,White,1,Vandalism,1,Seattle High School,Anti-Asian,Minor,true,false
+1998,State/Local,MI,Michigan,1998-01-14,1,0,1,1,0,White,White,1,Aggravated Assault,1,Detroit Public Library,Anti-White,Adult,false,false
+2006,State/Local,GA,Georgia,2006-10-27,2,0,2,2,0,Black,Asian,4,Simple Assault,4,Atlanta Community College,Anti-Black,Adult,false,false
+2010,State/Local,VT,Vermont,2010-05-16,0,1,1,1,0,Hispanic,White,1,Intimidation,1,Burlington Park,Anti-Hispanic,Minor,true,false
+1999,State/Local,WV,West Virginia,1999-08-31,1,0,1,1,0,White,White,1,Vandalism,1,Charleston Public Library,Anti-White,Adult,false,false
+2002,State/Local,SC,South Carolina,2002-02-20,0,1,1,1,0,Black,Asian,1,Simple Assault,1,Columbia University,Anti-Black,Minor,true,false
+1996,State/Local,UT,Utah,1996-04-11,1,0,1,1,0,White,White,1,Intimidation,1,Salt Lake City Park,Anti-White,Adult,false,false
+2012,State/Local,RI,Rhode Island,2012-01-08,2,0,2,2,0,Hispanic,Black,4,Aggravated Assault,4,Providence Public Library,Anti-Hispanic,Adult,false,false
+2000,Local,MO,Missouri,2000-06-19,0,1,1,1,0,White,Asian,1,Vandalism,1,Kansas City Elementary School,Anti-White,Minor,true,false
+2013,Local,ME,Maine,2013-09-10,1,0,1,1,0,Black,White,1,Intimidation,1,Portland Public Library,Anti-Black,Adult,false,false
+1992,Local,LA,Louisiana,1992-03-10,2,0,2,2,0,White,White,4,Simple Assault,4,New Orleans Public Library,Anti-White,Adult,false,false
+1991,Local,KY,Kentucky,1991-11-14,0,1,1,1,0,Asian,Black,1,Vandalism,1,Lexington High School,Anti-Asian,Minor,true,false
+1993,Local,IN,Indiana,1993-09-18,1,0,1,1,0,Hispanic,White,1,Intimidation,1,Indianapolis Public Library,Anti-Hispanic,Adult,false,false
+1994,Local,IA,Iowa,1994-04-09,2,0,2,2,0,White,Asian,4,Aggravated Assault,4,Des Moines Public Library,Anti-White,Adult,false,false
+2008,Local,HI,Hawaii,2008-01-15,0,1,1,1,0,Black,White,1,Simple Assault,1,Honolulu Elementary School,Anti-Black,Minor,true,false
+2004,Local,GU,Guam,2004-08-22,1,0,1,1,0,Asian,White,1,Intimidation,1,Guam Community College,Anti-Asian,Adult,false,false
+2005,Local,PR,Puerto Rico,2005-05-14,2,0,2,2,0,White,White,4,Vandalism,4,San Juan Public Library,Anti-White,Adult,false,false
+1995,Local,VI,Virgin Islands,1995-02-18,0,1,1,1,0,Hispanic,Black,1,Simple Assault,1,St. Thomas Elementary School,Anti-Hispanic,Minor,true,false
+1997,Local,MP,Northern Mariana Islands,1997-09-15,1,0,1,1,0,Asian,White,1,Intimidation,1,Saipan Community College,Anti-Asian,Adult,false,false
+1999,Local,AS,American Samoa,1999-04-12,2,0,2,2,0,White,White,4,Aggravated Assault,4,Pago Pago Public Library,Anti-White,Adult,false,false
+2001,Local,UM,United States Minor Outlying Islands,2001-07-28,0,1,1,1,0,Black,Asian,1,Vandalism,1,Baker Island Elementary School,Anti-Black,Minor,true,false
+2002,State/Local,MA,Massachusetts,2002-11-22,1,0,1,1,0,Hispanic,White,1,Intimidation,1,Boston Public Library,Anti-Hispanic,Adult,false,false
+2011,State/Local,CT,Connecticut,2011-09-11,2,0,2,2,0,White,Asian,4,Simple Assault,4,Hartford Public Library,Anti-White,Adult,false,false
+1991,State/Local,NJ,New Jersey,1991-03-10,0,1,1,1,0,Black,White,1,Vandalism,1,Newark Public Library,Anti-Black,Minor,true,false
+2003,State/Local,TN,Tennessee,2003-01-25,1,0,1,1,0,White,White,1,Intimidation,1,Nashville Public Library,Anti-White,Adult,false,false
+2009,State/Local,AK,Alaska,2009-12-18,2,0,2,2,0,Asian,Asian,4,Aggravated Assault,4,Anchorage Public Library,Anti-Asian,Adult,false,false
+2004,Local,ND,North Dakota,2004-10-14,0,1,1,1,0,Hispanic,Black,1,Vandalism,1,Fargo Elementary School,Anti-Hispanic,Minor,true,false
+2014,Local,WY,Wyoming,2014-05-22,1,0,1,1,0,White,White,1,Intimidation,1,Cheyenne Public Library,Anti-White,Adult,false,false
+1998,State/Local,ID,Idaho,1998-08-25,2,0,2,2,0,Black,Asian,4,Simple Assault,4,Boise Public Library,Anti-Black,Adult,false,false
+2007,State/Local,NE,Nebraska,2007-01-12,0,1,1,1,0,Asian,White,1,Vandalism,1,Omaha Elementary School,Anti-Asian,Minor,true,false
+2006,State/Local,KS,Kansas,2006-09-10,1,0,1,1,0,Hispanic,Black,1,Intimidation,1,Wichita Public Library,Anti-Hispanic,Adult,false,false
+2005,State/Local,OK,Oklahoma,2005-05-01,2,0,2,2,0,White,Asian,4,Aggravated Assault,4,Oklahoma City Public Library,Anti-White,Adult,false,false
+2013,State/Local,SD,South Dakota,2013-02-19,0,1,1,1,0,Black,White,1,Simple Assault,1,Sioux Falls Public Library,Anti-Black,Minor,true,false
+2002,State/Local,AR,Arkansas,2002-08-15,1,0,1,1,0,Hispanic,White,1,Intimidation,1,Little Rock Public Library,Anti-Hispanic,Adult,false,false
+1996,State/Local,MS,Mississippi,1996-04-10,2,0,2,2,0,White,Asian,4,Vandalism,4,Jackson Public Library,Anti-White,Adult,false,false
+2001,State/Local,NC,North Carolina,2001-11-28,0,1,1,1,0,Asian,Black,1,Aggravated Assault,1,Raleigh Elementary School,Anti-Asian,Minor,true,false
+1993,Federal Bureau of Investigation,CA,California,1992-12-29,1,0,2,2,0,White,Hispanic or Latino,2,Intimidation,2,"Riverside, California",Anti-White,Adult,Yes,Yes
+1993,Local Police Department,NY,New York,1993-03-16,0,1,1,1,0,Asian,Asian,1,Simple Assault,1,"Brooklyn, New York",Anti-Asian,Juvenile,No,No
+2001,Local Police Department,TX,Texas,2001-08-15,1,0,3,3,0,Black or African American,Hispanic or Latino,3,Aggravated Assault,3,"Dallas, Texas",Anti-Hispanic,Adult,Yes,Yes
+2011,Federal Bureau of Investigation,IL,Illinois,2011-06-21,0,0,2,2,0,American Indian or Alaska Native,Native Hawaiian or Other Pacific Islander,2,Intimidation,2,"Chicago, Illinois",Anti-Native American,Adult,Yes,Yes
+2009,Local Police Department,FL,Florida,2009-10-12,1,0,1,1,0,White,White,1,Vandalism,1,"Miami, Florida",Anti-White,Adult,No,No
+1992,Federal Bureau of Investigation,OH,Ohio,1992-02-14,2,0,1,1,0,Black or African American,Black or African American,2,Simple Assault,2,"Columbus, Ohio",Anti-Black,Adult,Yes,Yes
+2003,Local Police Department,GA,Georgia,2003-09-01,0,1,1,1,0,Asian,Asian,1,Vandalism,1,"Atlanta, Georgia",Anti-Asian,Juvenile,No,No
+2010,Federal Bureau of Investigation,PA,Pennsylvania,2010-11-25,1,0,2,2,0,White,Hispanic or Latino,2,Intimidation,2,"Philadelphia, Pennsylvania",Anti-White,Adult,Yes,Yes
+1992,Local Police Department,NJ,New Jersey,1992-07-18,0,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1,"Newark, New Jersey",Anti-Hispanic,Adult,No,No
+2002,Local Police Department,MI,Michigan,2002-04-20,1,0,1,1,0,White,White,1,Vandalism,1,"Detroit, Michigan",Anti-White,Adult,No,No
+2012,Federal Bureau of Investigation,NC,North Carolina,2012-01-15,0,0,2,2,0,Black or African American,Black or African American,2,Intimidation,2,"Raleigh, North Carolina",Anti-Black,Adult,Yes,Yes
+2008,Local Police Department,CO,Colorado,2008-06-28,0,1,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1,"Denver, Colorado",Anti-Hispanic,Juvenile,No,No
+2013,Federal Bureau of Investigation,MA,Massachusetts,2013-10-10,1,0,2,2,0,White,White,2,Intimidation,2,"Boston, Massachusetts",Anti-White,Adult,Yes,Yes
+1995,Local Police Department,AZ,Arizona,1995-05-22,0,0,1,1,0,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,1,Vandalism,1,"Phoenix, Arizona",Anti-Native American,Adult,No,No
+2007,Local Police Department,NV,Nevada,2007-09-19,1,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,1,"Las Vegas, Nevada",Anti-Black,Adult,No,No
+1992,Federal Bureau of Investigation,WA,Washington,1992-10-01,0,0,1,1,0,White,White,1,Vandalism,1,"Seattle, Washington",Anti-White,Adult,No,No
+2014,Federal Bureau of Investigation,IN,Indiana,2014-02-16,0,0,2,2,0,Asian,Asian,2,Intimidation,2,"Indianapolis, Indiana",Anti-Asian,Adult,Yes,Yes
+2001,Local Police Department,SC,South Carolina,2001-07-17,1,0,1,1,0,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,1,Simple Assault,1,"Columbia, South Carolina",Anti-Native American,Adult,No,No
+2006,Local Police Department,OR,Oregon,2006-08-02,0,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Vandalism,1,"Portland, Oregon",Anti-Hispanic,Adult,No,No
+1992,Federal Bureau of Investigation,KS,Kansas,1992-03-05,1,0,1,1,0,White,White,1,Simple Assault,1,"Topeka, Kansas",Anti-White,Adult,No,No
+2011,Local Police Department,AL,Alabama,2011-05-13,0,1,1,1,0,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,1,Simple Assault,1,"Birmingham, Alabama",Anti-Native American,Juvenile,No,No
+1992,Local Police Department,VT,Vermont,1992-09-16,0,0,1,1,0,White,White,1,Vandalism,1,"Montpelier, Vermont",Anti-White,Adult,No,No
+2009,Federal Bureau of Investigation,IA,Iowa,2009-04-11,1,0,2,2,0,Black or African American,Black or African American,2,Intimidation,2,"Des Moines, Iowa",Anti-Black,Adult,Yes,Yes
+2003,Local Police Department,WI,Wisconsin,2003-11-25,0,0,1,1,0,Asian,Asian,1,Vandalism,1,"Madison, Wisconsin",Anti-Asian,Adult,No,No
+2012,Federal Bureau of Investigation,MS,Mississippi,2012-08-22,0,0,2,2,0,White,White,2,Intimidation,2,"Jackson, Mississippi",Anti-White,Adult,Yes,Yes
+2008,Local Police Department,CT,Connecticut,2008-01-15,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1,"Hartford, Connecticut",Anti-Hispanic,Adult,No,No
+2010,Local Police Department,KY,Kentucky,2010-03-20,0,0,1,1,0,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,1,Vandalism,1,"Frankfort, Kentucky",Anti-Native American,Adult,No,No
+2005,Local Police Department,ID,Idaho,2005-11-15,0,1,1,1,0,Asian,Asian,1,Simple Assault,1,"Boise, Idaho",Anti-Asian,Juvenile,No,No
+2013,Federal Bureau of Investigation,DE,Delaware,2013-06-05,1,0,2,2,0,White,White,2,Intimidation,2,"Dover, Delaware",Anti-White,Adult,Yes,Yes
+2004,Local Police Department,NM,New Mexico,2004-02-28,0,0,1,1,0,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,1,Vandalism,1,"Santa Fe, New Mexico",Anti-Native American,Adult,No,No
+1993,Federal Bureau of Investigation,AK,Alaska,1993-07-04,1,0,1,1,0,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,1,Simple Assault,1,"Juneau, Alaska",Anti-Native American,Adult,No,No
+2002,Local Police Department,MT,Montana,2002-05-29,1,0,1,1,0,White,White,1,Vandalism,1,"Helena, Montana",Anti-White,Adult,No,No
+2014,Federal Bureau of Investigation,WY,Wyoming,2014-09-10,0,0,2,2,0,Black or African American,Black or African American,2,Intimidation,2,"Cheyenne, Wyoming",Anti-Black,Adult,Yes,Yes
+2000,Local Police Department,UT,Utah,2000-01-18,0,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Vandalism,1,"Salt Lake City, Utah",Anti-Hispanic,Adult,No,No
+1994,Federal Bureau of Investigation,MO,Missouri,1994-08-25,1,0,1,1,0,Asian,Asian,1,Simple Assault,1,"Kansas City, Missouri",Anti-Asian,Adult,No,No
+2007,Local Police Department,OK,Oklahoma,2007-02-14,1,0,1,1,0,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,1,Vandalism,1,"Oklahoma City, Oklahoma",Anti-Native American,Adult,No,No
+1995,Local Police Department,NE,Nebraska,1995-11-01,0,0,1,1,0,White,White,1,Simple Assault,1,"Lincoln, Nebraska",Anti-White,Adult,No,No
+2004,Local Police Department,AR,Arkansas,2004-03-22,0,1,1,1,0,Asian,Asian,1,Simple Assault,1,"Little Rock, Arkansas",Anti-Asian,Juvenile,No,No
+2012,Federal Bureau of Investigation,TN,Tennessee,2012-10-11,1,0,1,1,0,White,White,1,Simple Assault,1,"Nashville, Tennessee",Anti-White,Adult,No,No
+2006,Local Police Department,GA,Georgia,2006-07-18,1,0,1,1,0,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,1,Vandalism,1,"Atlanta, Georgia",Anti-Native American,Adult,No,No
+2009,Local Police Department,OH,Ohio,2009-01-15,0,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Vandalism,1,"Columbus, Ohio",Anti-Hispanic,Adult,No,No
+2005,Local Police Department,LA,Louisiana,2005-04-11,0,1,1,1,0,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,1,Simple Assault,1,"Baton Rouge, Louisiana",Anti-Native American,Juvenile,No,No
+2011,Federal Bureau of Investigation,VT,Vermont,2011-11-01,0,0,1,1,0,White,White,1,Vandalism,1,"Montpelier, Vermont",Anti-White,Adult,No,No
+1998,Law Enforcement,CO,Colorado,1998-01-01,1,0,1,1,0,White,Non-Hispanic,2,Larceny-theft,2,Denver,Anti-Asian,Asian,M,F
+1998,Law Enforcement,CA,California,1998-02-01,0,1,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple assault,1,Los Angeles,Anti-White,White,M,F
+2012,Law Enforcement,TX,Texas,2012-03-01,2,0,2,2,0,Black or African American,Non-Hispanic,4,Intimidation,4,Houston,Anti-Black,Black,M,
+1991,Law Enforcement,NY,New York,1991-04-01,1,0,1,1,0,White,Non-Hispanic,1,Hate crime against a business,1,New York City,Anti-Jewish,Jewish,F,
+2009,Law Enforcement,FL,Florida,2009-05-01,0,1,1,1,0,Asian,Non-Hispanic,1,Vandalism,1,Miami,Anti-Asian,Asian,M,
+2014,Law Enforcement,IL,Illinois,2014-06-01,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1,Chicago,Anti-Hispanic,Hispanic or Latino,F,
+1995,Law Enforcement,GA,Georgia,1995-07-01,1,0,1,1,0,White,Non-Hispanic,1,Simple assault,1,Atlanta,Anti-White,White,M,
+2001,Law Enforcement,NJ,New Jersey,2001-08-01,0,1,1,1,0,Black or African American,Non-Hispanic,1,Larceny-theft,1,Jersey City,Anti-Black,Black,F,
+2005,Law Enforcement,OH,Ohio,2005-09-01,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Vandalism,1,Columbus,Anti-Hispanic,Hispanic or Latino,M,
+1996,Law Enforcement,PA,Pennsylvania,1996-10-01,2,0,2,2,0,White,Non-Hispanic,4,Intimidation,4,Philadelphia,Anti-White,White,M,
+2010,Law Enforcement,NC,North Carolina,2010-11-01,1,0,1,1,0,Asian,Non-Hispanic,1,Larceny-theft,1,Charlotte,Anti-Asian,Asian,F,
+2007,Law Enforcement,MI,Michigan,2007-12-01,0,1,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Hate crime against a business,1,Detroit,Anti-Hispanic,Hispanic or Latino,M,
+1999,Law Enforcement,TN,Tennessee,1999-01-01,1,0,1,1,0,Black or African American,Non-Hispanic,1,Simple assault,1,Nashville,Anti-Black,Black,F,
+2003,Law Enforcement,VA,Virginia,2003-02-01,2,0,2,2,0,White,Non-Hispanic,4,Vandalism,4,Richmond,Anti-White,White,M,
+2008,Law Enforcement,WA,Washington,2008-03-01,0,1,1,1,0,Asian,Non-Hispanic,1,Intimidation,1,Seattle,Anti-Asian,Asian,M,
+1994,Law Enforcement,SC,South Carolina,1994-04-01,1,0,1,1,0,White,Non-Hispanic,1,Hate crime against a business,1,Columbia,Anti-White,White,F,
+2013,Law Enforcement,MO,Missouri,2013-05-01,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Larceny-theft,1,Kansas City,Anti-Hispanic,Hispanic or Latino,M,
+2004,Law Enforcement,IN,Indiana,2004-06-01,2,0,2,2,0,Black or African American,Non-Hispanic,4,Simple assault,4,Indianapolis,Anti-Black,Black,M,
+1992,Law Enforcement,AZ,Arizona,1992-07-01,1,0,1,1,0,White,Non-Hispanic,1,Vandalism,1,Phoenix,Anti-White,White,F,
+1997,Law Enforcement,UT,Utah,1997-08-01,0,1,1,1,0,Asian,Non-Hispanic,1,Intimidation,1,Salt Lake City,Anti-Asian,Asian,M,
+2000,Law Enforcement,KY,Kentucky,2000-09-01,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Hate crime against a business,1,Louisville,Anti-Hispanic,Hispanic or Latino,F,
+2002,Law Enforcement,WV,West Virginia,2002-10-01,2,0,2,2,0,White,Non-Hispanic,4,Larceny-theft,4,Charleston,Anti-White,White,M,
+1993,Law Enforcement,LA,Louisiana,1993-11-01,0,1,1,1,0,Black or African American,Non-Hispanic,1,Simple assault,1,New Orleans,Anti-Black,Black,M,
+2011,Law Enforcement,AR,Arkansas,2011-12-01,1,0,1,1,0,Asian,Non-Hispanic,1,Vandalism,1,Little Rock,Anti-Asian,Asian,F,
+2006,Law Enforcement,OK,Oklahoma,2006-01-01,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1,Oklahoma City,Anti-Hispanic,Hispanic or Latino,M,
+2002,Law Enforcement,IA,Iowa,2002-02-01,2,0,2,2,0,Black or African American,Non-Hispanic,4,Hate crime against a business,4,Des Moines,Anti-Black,Black,M,
+1996,Law Enforcement,MD,Maryland,1996-03-01,0,1,1,1,0,Asian,Non-Hispanic,1,Larceny-theft,1,Baltimore,Anti-Asian,Asian,F,
+2005,Law Enforcement,AL,Alabama,2005-04-01,1,0,1,1,0,White,Non-Hispanic,1,Simple assault,1,Birmingham,Anti-White,White,M,
+1993,Law Enforcement,MS,Mississippi,1993-05-01,2,0,2,2,0,Black or African American,Non-Hispanic,4,Vandalism,4,Jackson,Anti-Black,Black,M,
+2010,Law Enforcement,SD,South Dakota,2010-06-01,0,1,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Hate crime against a business,1,Sioux Falls,Anti-Hispanic,Hispanic or Latino,F,
+2008,Law Enforcement,NV,Nevada,2008-07-01,1,0,1,1,0,Asian,Non-Hispanic,1,Intimidation,1,Las Vegas,Anti-Asian,Asian,M,
+1999,Law Enforcement,NC,North Carolina,1999-08-01,1,0,1,1,0,White,Non-Hispanic,1,Simple assault,1,Raleigh,Anti-White,White,F,
+2001,Law Enforcement,AK,Alaska,2001-09-01,2,0,2,2,0,Black or African American,Non-Hispanic,4,Larceny-theft,4,Anchorage,Anti-Black,Black,M,
+1994,Law Enforcement,CT,Connecticut,1994-10-01,0,1,1,1,0,Asian,Non-Hispanic,1,Intimidation,1,Hartford,Anti-Asian,Asian,M,
+2009,Law Enforcement,RI,Rhode Island,2009-11-01,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Hate crime against a business,1,Providence,Anti-Hispanic,Hispanic or Latino,F,
+2014,Law Enforcement,DE,Delaware,2014-12-01,1,0,1,1,0,Black or African American,Non-Hispanic,1,Simple assault,1,Wilmington,Anti-Black,Black,M,
+2007,Law Enforcement,KS,Kansas,2007-01-01,2,0,2,2,0,Asian,Non-Hispanic,4,Larceny-theft,4,Topeka,Anti-Asian,Asian,M,
+2004,Law Enforcement,MT,Montana,2004-02-01,0,1,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Hate crime against a business,1,Helena,Anti-Hispanic,Hispanic or Latino,F,
+1992,Law Enforcement,NE,Nebraska,1992-03-01,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Omaha,Anti-White,White,M,
+1995,Law Enforcement,VT,Vermont,1995-04-01,1,0,1,1,0,Asian,Non-Hispanic,1,Larceny-theft,1,Burlington,Anti-Asian,Asian,F,
+2010,Law Enforcement,OR,Oregon,2010-05-01,2,0,2,2,0,Black or African American,Non-Hispanic,4,Hate crime against a business,4,Portland,Anti-Black,Black,M,
+2003,Law Enforcement,ME,Maine,2003-06-01,0,1,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple assault,1,Augusta,Anti-Hispanic,Hispanic or Latino,M,
+1997,Law Enforcement,MN,Minnesota,1997-07-01,1,0,1,1,0,Asian,Non-Hispanic,1,Vandalism,1,Minneapolis,Anti-Asian,Asian,F,
+2009,Law Enforcement,WI,Wisconsin,2009-08-01,1,0,1,1,0,White,Non-Hispanic,1,Larceny-theft,1,Madison,Anti-White,White,M,
+2013,Law Enforcement,TN,Tennessee,2013-09-01,2,0,2,2,0,Hispanic or Latino,Hispanic or Latino,4,Intimidation,4,Nashville,Anti-Hispanic,Hispanic or Latino,M,
+2002,Law Enforcement,ID,Idaho,2002-10-01,0,1,1,1,0,Black or African American,Non-Hispanic,1,Hate crime against a business,1,Boise,Anti-Black,Black,F,
+2006,Law Enforcement,ND,North Dakota,2006-11-01,1,0,1,1,0,White,Non-Hispanic,1,Simple assault,1,Bismarck,Anti-White,White,M,
+2005,Law Enforcement,GU,Guam,2005-12-01,1,0,1,1,0,Asian,Non-Hispanic,1,Larceny-theft,1,Hagåtña,Anti-Asian,Asian,F,
+2000,Law Enforcement,PR,Puerto Rico,2000-01-01,2,0,2,2,0,Black or African American,Non-Hispanic,4,Vandalism,4,San Juan,Anti-Black,Black,M,
+2008,Law Enforcement,VI,Virgin Islands,2008-02-01,0,1,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Hate crime against a business,1,Charlotte Amalie,Anti-Hispanic,Hispanic or Latino,F,
+1996,Law Enforcement,AS,American Samoa,1996-03-01,1,0,1,1,0,Asian,Non-Hispanic,1,Intimidation,1,Pago Pago,Anti-Asian,Asian,M,
+2004,Law Enforcement,MP,Northern Mariana Islands,2004-04-01,0,1,1,1,0,Black or African American,Non-Hispanic,1,Larceny-theft,1,Saipan,Anti-Black,Black,F,
+2011,Law Enforcement,GU,Guam,2011-05-01,1,0,1,1,0,White,Non-Hispanic,1,Simple assault,1,Hagåtña,Anti-White,White,M,
+2009,Law Enforcement,VI,Virgin Islands,2009-06-01,2,0,2,2,0,Hispanic or Latino,Hispanic or Latino,4,Vandalism,4,Charlotte Amalie,Anti-Hispanic,Hispanic or Latino,M,
+2007,Law Enforcement,AS,American Samoa,2007-07-01,0,1,1,1,0,Asian,Non-Hispanic,1,Hate crime against a business,1,Pago Pago,Anti-Asian,Asian,F,
+2012,Law Enforcement,MP,Northern Mariana Islands,2012-08-01,1,0,1,1,0,Black or African American,Non-Hispanic,1,Intimidation,1,Saipan,Anti-Black,Black,M,
+2001,Law Enforcement,GU,Guam,2001-09-01,1,0,1,1,0,White,Non-Hispanic,1,Larceny-theft,1,Hagåtña,Anti-White,White,F,
+2006,Law Enforcement,VI,Virgin Islands,2006-10-01,2,0,2,2,0,Asian,Non-Hispanic,4,Simple assault,4,Charlotte Amalie,Anti-Asian,Asian,M,
+2003,Law Enforcement,AS,American Samoa,2003-11-01,0,1,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Hate crime against a business,1,Pago Pago,Anti-Hispanic,Hispanic or Latino,F,
+1998,Law Enforcement,MP,Northern Mariana Islands,1998-12-01,1,0,1,1,0,Black or African American,Non-Hispanic,1,Vandalism,1,Saipan,Anti-Black,Black,M,
+2013,State/Local,,Alabama,2013-02-10,1,0,1,0,1,Unknown,Unknown,1,Simple Assault,1,Residence,Anti-Other Defamation,Adult,N,Y
+2013,State/Local,,Texas,2013-11-15,0,1,1,1,0,White,Hispanic or Latino,1,Intimidation,1,Street,Anti-Black or African American Bias,,N,N
+2013,State/Local,,California,2013-08-25,0,0,1,1,0,Asian,Asian,1,Hate Crime Against Children,1,Playground,Anti-Jewish Bias,,N,Y
+2013,State/Local,,Florida,2013-01-01,1,0,1,1,0,Unknown,Unknown,1,Aggravated Assault,1,Hotel/Motel,Anti-LGBTQ+ Bias,,N,N
+2013,State/Local,,Ohio,2013-03-20,1,0,0,0,0,White,Hispanic or Latino,1,Vandalism,1,Business,Anti-Hispanic or Latino Bias,,N,N
+2013,State/Local,,Georgia,2013-05-05,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1,Residence,Anti-White Supremacist Bias,,N,N
+2013,State/Local,,New York,2013-09-01,1,0,1,1,0,Asian,Asian,1,Hate Crime Against Children,1,School,Anti-Japanese Bias,,N,Y
+2013,State/Local,,Michigan,2013-10-01,0,1,1,1,0,White,Hispanic or Latino,1,Intimidation,1,Street,Anti-American Indian or Alaska Native Bias,,N,N
+2013,State/Local,,North Carolina,2013-12-15,1,0,1,1,0,Unknown,Unknown,1,Aggravated Assault,1,Hotel/Motel,Anti-Arab Bias,,N,N
+2013,State/Local,,Pennsylvania,2013-07-10,0,0,1,1,0,Asian,Asian,1,Hate Crime Against Children,1,Playground,Anti-Greek Bias,,N,Y
+2013,State/Local,,New Jersey,2013-06-20,1,0,0,0,0,White,Hispanic or Latino,1,Vandalism,1,Business,Anti-Latino Bias,,N,N
+2013,Federal,,New York,2013-02-01,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1,Residence,Anti-Other Bias,,N,N
+2013,Other,,New York,2013-01-10,0,0,1,1,0,Asian,Asian,1,Hate Crime Against Children,1,School,Anti-Korean Bias,,N,Y
+2013,State/Local,,Illinois,2013-04-01,1,0,1,1,0,White,Hispanic or Latino,1,Aggravated Assault,1,Hotel/Motel,Anti-African/Caribbean Bias,,N,N
+2013,Other,,California,2013-03-15,0,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Residence,Anti-Filipino Bias,,N,N
+2013,State/Local,,Tennessee,2013-08-01,0,1,1,1,0,Unknown,Unknown,1,Intimidation,1,Street,Anti-Somali Bias,,N,N
+2013,Federal,,Texas,2013-09-10,1,0,1,1,0,Asian,Asian,1,Hate Crime Against Children,1,Playground,Anti-Arab Bias,,N,Y
+2013,Other,,Florida,2013-05-20,0,0,1,1,0,White,Hispanic or Latino,1,Vandalism,1,Business,Anti-Haitian Bias,,N,N
+2013,State/Local,,Massachusetts,2013-11-01,1,0,0,0,0,Unknown,Unknown,1,Aggravated Assault,1,Hotel/Motel,Anti-Other Defamation,,N,N
+2013,Federal,,California,2013-10-01,0,0,1,1,0,Asian,Asian,1,Hate Crime Against Children,1,School,Anti-Greek Bias,,N,Y
+2013,Other,,Georgia,2013-06-01,0,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Residence,Anti-Somali Bias,,N,N
+2013,State/Local,,Washington,2013-12-10,0,0,1,1,0,Unknown,Unknown,1,Aggravated Assault,1,Hotel/Motel,Anti-Other Bias,,N,N
+2013,Federal,,New York,2013-11-20,1,0,0,0,0,White,Hispanic or Latino,1,Vandalism,1,Business,Anti-Arab Bias,,N,N
+2013,Other,,Michigan,2013-09-15,0,0,1,1,0,Unknown,Unknown,1,Hate Crime Against Children,1,School,Anti-Japanese Bias,,N,Y
+2013,State/Local,,Oregon,2013-07-01,1,0,1,1,0,Asian,Asian,1,Aggravated Assault,1,Hotel/Motel,Anti-Greek Bias,,N,N
+2013,Federal,,Illinois,2013-08-10,0,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Residence,Anti-Filipino Bias,,N,N
+2013,Other,,North Carolina,2013-04-15,1,0,1,1,0,Unknown,Unknown,1,Intimidation,1,Street,Anti-Somali Bias,,N,N
+2013,State/Local,,Wisconsin,2013-10-20,0,0,1,1,0,Asian,Asian,1,Hate Crime Against Children,1,Playground,Anti-Korean Bias,,N,Y
+2013,Federal,,New Jersey,2013-06-01,1,0,0,0,0,White,Hispanic or Latino,1,Vandalism,1,Business,Anti-Latino Bias,,N,N
+2013,Other,,Tennessee,2013-01-20,0,0,1,1,0,Unknown,Unknown,1,Aggravated Assault,1,Hotel/Motel,Anti-Other Defamation,,N,N
+2013,State/Local,,Virginia,2013-03-15,0,0,1,1,0,Asian,Asian,1,Simple Assault,1,Residence,Anti-Japanese Bias,,N,N
+2013,Federal,,Pennsylvania,2013-09-01,1,0,0,0,0,White,Hispanic or Latino,1,Vandalism,1,Business,Anti-Haitian Bias,,N,N
+2013,Other,,Alabama,2013-12-01,1,0,1,1,0,Unknown,Unknown,1,Intimidation,1,Street,Anti-Somali Bias,,N,N
+2013,State/Local,,Missouri,2013-05-10,0,0,1,1,0,Asian,Asian,1,Hate Crime Against Children,1,School,Anti-Filipino Bias,,N,Y
+"2003""",Local,,OH,Ohio,2003-01-01,0,0,1,1,0,Asian or Asian American,Other ethnicity,1,Simple Assault,1,Residence/Housing,Hate crime motivated by anti-Asian bias,Adult,2003-01-01
+2003,State,,,US,2003-03-12,2,0,1,1,0,Hispanic or Latino,Hispanic,2,Intimidation,2,Street,Hate crime motivated by anti-Hispanic bias,Adult,2003-03-12
+2003,Local,,MI,Michigan,2003-05-10,0,0,2,2,0,White,Non-Hispanic,0,Vandalism,0,Public Transportation,No bias motivation,Adult,2003-05-10
+2003,Federal,,,US,2003-07-04,0,0,1,1,0,Black or African American,Non-Hispanic,0,Simple Assault,0,Public Park or Playground,Hate crime motivated by anti-Black bias,Adult,2003-07-04
+2003,Local,,TX,Texas,2003-09-01,1,0,1,1,0,Asian or Asian American,Other ethnicity,1,Intimidation,1,Residence/Housing,Hate crime motivated by anti-Asian bias,Adult,2003-09-01
+2003,State,,,US,2003-11-15,1,0,1,1,0,Native Hawaiian or Other Pacific Islander,Other ethnicity,1,Simple Assault,1,Public Street,Hate crime motivated by anti-Native American bias,Adult,2003-11-15
+2003,Local,,CA,California,2003-01-02,0,0,2,2,0,White,Non-Hispanic,0,Vandalism,0,Public School,No bias motivation,Adult,2003-01-02
+2004,Federal,,,US,2004-01-03,2,0,1,1,0,Hispanic or Latino,Hispanic,2,Intimidation,2,Public Park or Playground,Hate crime motivated by anti-Hispanic bias,Adult,2004-01-03
+2004,Local,,NY,New York,2004-03-14,1,0,1,1,0,Asian or Asian American,Other ethnicity,1,Simple Assault,1,Residence/Housing,Hate crime motivated by anti-Asian bias,Adult,2004-03-14
+2004,State,,,US,2004-05-16,0,0,2,2,0,White,Non-Hispanic,0,Vandalism,0,Public Transportation,No bias motivation,Adult,2004-05-16
+2004,Federal,,,US,2004-07-05,0,0,1,1,0,Black or African American,Non-Hispanic,0,Simple Assault,0,Public Park or Playground,Hate crime motivated by anti-Black bias,Adult,2004-07-05
+2004,Local,,FL,Florida,2004-09-02,2,0,1,1,0,Native Hawaiian or Other Pacific Islander,Other ethnicity,2,Intimidation,2,Public Street,Hate crime motivated by anti-Native American bias,Adult,2004-09-02
+2004,State,,,US,2004-11-18,1,0,1,1,0,Asian or Asian American,Other ethnicity,1,Simple Assault,1,Residence/Housing,Hate crime motivated by anti-Asian bias,Adult,2004-11-18
+2005,Federal,,,US,2005-01-04,0,0,2,2,0,White,Non-Hispanic,0,Vandalism,0,Public School,No bias motivation,Adult,2005-01-04
+2005,Local,,PA,Pennsylvania,2005-03-15,1,0,1,1,0,Hispanic or Latino,Hispanic,1,Intimidation,1,Public Park or Playground,Hate crime motivated by anti-Hispanic bias,Adult,2005-03-15
+2005,State,,,US,2005-05-17,2,0,1,1,0,Black or African American,Non-Hispanic,2,Simple Assault,2,Public Street,Hate crime motivated by anti-Black bias,Adult,2005-05-17
+2005,Federal,,,US,2005-07-06,0,0,1,1,0,Asian or Asian American,Other ethnicity,0,Intimidation,0,Public Park or Playground,Hate crime motivated by anti-Asian bias,Adult,2005-07-06
+2005,Local,,IL,Illinois,2005-09-03,0,0,2,2,0,White,Non-Hispanic,0,Vandalism,0,Public Transportation,No bias motivation,Adult,2005-09-03
+2005,State,,,US,2005-11-19,1,0,1,1,0,Native Hawaiian or Other Pacific Islander,Other ethnicity,1,Simple Assault,1,Residence/Housing,Hate crime motivated by anti-Native American bias,Adult,2005-11-19
+2006,Federal,,,US,2006-01-05,2,0,1,1,0,Hispanic or Latino,Hispanic,2,Intimidation,2,Public Park or Playground,Hate crime motivated by anti-Hispanic bias,Adult,2006-01-05
+2006,Local,,TX,Texas,2006-03-16,0,0,2,2,0,White,Non-Hispanic,0,Vandalism,0,Public School,No bias motivation,Adult,2006-03-16
+2006,State,,,US,2006-05-18,1,0,1,1,0,Asian or Asian American,Other ethnicity,1,Simple Assault,1,Public Street,Hate crime motivated by anti-Asian bias,Adult,2006-05-18
+2006,Federal,,,US,2006-07-07,0,0,1,1,0,Black or African American,Non-Hispanic,0,Intimidation,0,Public Park or Playground,Hate crime motivated by anti-Black bias,Adult,2006-07-07
+2006,Local,,CA,California,2006-09-04,2,0,1,1,0,Native Hawaiian or Other Pacific Islander,Other ethnicity,2,Simple Assault,2,Public Transportation,Hate crime motivated by anti-Native American bias,Adult,2006-09-04
+2006,State,,,US,2006-11-21,1,0,1,1,0,Asian or Asian American,Other ethnicity,1,Intimidation,1,Residence/Housing,Hate crime motivated by anti-Asian bias,Adult,2006-11-21
+2007,Federal,,,US,2007-01-08,0,0,2,2,0,White,Non-Hispanic,0,Vandalism,0,Public School,No bias motivation,Adult,2007-01-08
+2007,Local,,FL,Florida,2007-03-19,1,0,1,1,0,Hispanic or Latino,Hispanic,1,Simple Assault,1,Public Park or Playground,Hate crime motivated by anti-Hispanic bias,Adult,2007-03-19
+2007,State,,,US,2007-05-22,2,0,1,1,0,Black or African American,Non-Hispanic,2,Intimidation,2,Public Street,Hate crime motivated by anti-Black bias,Adult,2007-05-22
+2007,Federal,,,US,2007-07-09,0,0,1,1,0,Asian or Asian American,Other ethnicity,0,Simple Assault,0,Public Park or Playground,Hate crime motivated by anti-Asian bias,Adult,2007-07-09
+2007,Local,,NY,New York,2007-09-05,0,0,2,2,0,White,Non-Hispanic,0,Vandalism,0,Public Transportation,No bias motivation,Adult,2007-09-05
+2007,State,,,US,2007-11-23,1,0,1,1,0,Native Hawaiian or Other Pacific Islander,Other ethnicity,1,Intimidation,1,Residence/Housing,Hate crime motivated by anti-Native American bias,Adult,2007-11-23
+2008,Federal,,,US,2008-01-09,2,0,1,1,0,Hispanic or Latino,Hispanic,2,Simple Assault,2,Public Park or Playground,Hate crime motivated by anti-Hispanic bias,Adult,2008-01-09
+2008,Local,,IL,Illinois,2008-03-20,0,0,2,2,0,White,Non-Hispanic,0,Vandalism,0,Public School,No bias motivation,Adult,2008-03-20
+2008,State,,,US,2008-05-24,1,0,1,1,0,Asian or Asian American,Other ethnicity,1,Intimidation,1,Public Street,Hate crime motivated by anti-Asian bias,Adult,2008-05-24
+2008,Federal,,,US,2008-07-10,0,0,1,1,0,Black or African American,Non-Hispanic,0,Simple Assault,0,Public Park or Playground,Hate crime motivated by anti-Black bias,Adult,2008-07-10
+2008,Local,,TX,Texas,2008-09-06,1,0,1,1,0,Native Hawaiian or Other Pacific Islander,Other ethnicity,1,Intimidation,1,Public Transportation,Hate crime motivated by anti-Native American bias,Adult,2008-09-06
+2008,State,,,US,2008-11-25,0,0,2,2,0,White,Non-Hispanic,0,Vandalism,0,Public School,No bias motivation,Adult,2008-11-25
+2009,Federal,,,US,2009-01-11,1,0,1,1,0,Hispanic or Latino,Hispanic,1,Simple Assault,1,Public Park or Playground,Hate crime motivated by anti-Hispanic bias,Adult,2009-01-11
+2009,Local,,PA,Pennsylvania,2009-03-21,2,0,1,1,0,Asian or Asian American,Other ethnicity,2,Intimidation,2,Public Street,Hate crime motivated by anti-Asian bias,Adult,2009-03-21
+2009,State,,,US,2009-05-25,0,0,2,2,0,White,Non-Hispanic,0,Vandalism,0,Public Transportation,No bias motivation,Adult,2009-05-25
+2009,Federal,,,US,2009-07-12,0,0,1,1,0,Black or African American,Non-Hispanic,0,Simple Assault,0,Public Park or Playground,Hate crime motivated by anti-Black bias,Adult,2009-07-12
+2009,Local,,FL,Florida,2009-09-07,1,0,1,1,0,Native Hawaiian or Other Pacific Islander,Other ethnicity,1,Intimidation,1,Public Transportation,Hate crime motivated by anti-Native American bias,Adult,2009-09-07
+2009,State,,,US,2009-11-27,2,0,1,1,0,Asian or Asian American,Other ethnicity,2,Simple Assault,2,Public Street,Hate crime motivated by anti-Asian bias,Adult,2009-11-27
+2010,Federal,,,US,2010-01-13,0,0,2,2,0,White,Non-Hispanic,0,Vandalism,0,Public School,No bias motivation,Adult,2010-01-13
+2010,Local,,NY,New York,2010-03-22,1,0,1,1,0,Hispanic or Latino,Hispanic,1,Intimidation,1,Public Park or Playground,Hate crime motivated by anti-Hispanic bias,Adult,2010-03-22
+2010,State,,,US,2010-05-26,1,0,1,1,0,Asian or Asian American,Other ethnicity,1,Simple Assault,1,Public Street,Hate crime motivated by anti-Asian bias,Adult,2010-05-26
+2010,Federal,,,US,2010-07-14,0,0,1,1,0,Black or African American,Non-Hispanic,0,Intimidation,0,Public Park or Playground,Hate crime motivated by anti-Black bias,Adult,2010-07-14
+2010,Local,,CA,California,2010-09-08,2,0,1,1,0,Native Hawaiian or Other Pacific Islander,Other ethnicity,2,Simple Assault,2,Public Transportation,Hate crime motivated by anti-Native American bias,Adult,2010-09-08
+2010,State,,,US,2010-11-29,1,0,1,1,0,Asian or Asian American,Other ethnicity,1,Intimidation,1,Residence/Housing,Hate crime motivated by anti-Asian bias,Adult,2010-11-29
+1994,County,,California,1994-04-01,1,0,2,1,1,White,Hispanic,2,Simple Assault,2,Residence,,Intimidation,,"Race, Ethnicity"
+1994,County,,California,1994-03-15,0,1,1,1,0,Black,White,1,Vandalism,1,Place of Worship,,Anti-Religious,,"Race, Ethnicity"
+2007,City,,New York,,2007-02-20,1,0,1,1,0,White,Hispanic,1,Aggravated Assault,1,Residence,,Racial Bias,
+2001,City,,Texas,,2001-05-25,1,0,2,1,1,Hispanic,White,2,Simple Assault,2,Commercial Business,,Anti-Religious,
+1997,State,,Florida,,1997-01-20,0,1,1,1,0,Black,White,1,Vandalism,1,Park,,Anti-Religious,
+2009,State,,Illinois,,2009-03-15,1,0,2,1,1,Asian,White,2,Simple Assault,2,Residence,,Bias Motivated,
+2012,County,,North Carolina,,2012-02-28,1,0,1,1,0,Hispanic,Hispanic,1,Aggravated Assault,1,Public Transportation,,Ethnic Bias,
+2003,City,,Ohio,,2003-05-10,0,1,1,1,0,White,White,1,Vandalism,1,School,,Racial Bias,
+2005,County,,Georgia,,2005-03-01,1,0,2,1,1,White,Black,2,Simple Assault,2,Commercial Business,,Anti-Religious,
+1996,City,,Massachusetts,,1996-06-15,0,1,1,1,0,Black,White,1,Vandalism,1,Residence,,Anti-Religious,
+2008,State,,Pennsylvania,,2008-09-01,1,0,1,1,0,Hispanic,Hispanic,1,Aggravated Assault,1,Public Transportation,,Bias Motivated,
+2014,City,,Michigan,,2014-01-20,0,1,1,1,0,Asian,White,1,Vandalism,1,Commercial Business,,Racial Bias,
+1998,County,,Wisconsin,,1998-03-15,1,0,2,1,1,White,Black,2,Simple Assault,2,School,,Anti-Religious,
+2004,City,,Colorado,,2004-02-20,0,1,1,1,0,White,White,1,Vandalism,1,Residence,,Racial Bias,
+2006,City,,New Jersey,,2006-05-01,1,0,1,1,0,Black,Hispanic,1,Aggravated Assault,1,Public Transportation,,Ethnic Bias,
+2002,State,,Alabama,,2002-08-01,1,0,2,1,1,White,Black,2,Simple Assault,2,Commercial Business,,Bias Motivated,
+2010,County,,South Carolina,,2010-04-01,0,1,1,1,0,Asian,White,1,Vandalism,1,School,,Anti-Religious,
+1995,City,,Iowa,,1995-06-15,0,1,1,1,0,Black,White,1,Vandalism,1,Residence,,Racial Bias,
+1993,County,,Oregon,,1993-02-20,1,0,2,1,1,White,Hispanic,2,Simple Assault,2,Place of Worship,,Anti-Religious,
+1999,State,,Nevada,,1999-03-01,1,0,1,1,0,Hispanic,Hispanic,1,Aggravated Assault,1,Public Transportation,,Bias Motivated,
+1992,City,,Indiana,,1992-05-25,0,1,1,1,0,White,White,1,Vandalism,1,Residence,,Racial Bias,
+2000,City,,Louisiana,,2000-02-01,1,0,2,1,1,Asian,Black,2,Simple Assault,2,Commercial Business,,Anti-Religious,
+2013,County,,Kentucky,,2013-01-15,0,1,1,1,0,Black,White,1,Vandalism,1,School,,Racial Bias,
+2001,City,,Virginia,,2001-03-01,0,1,1,1,0,White,White,1,Vandalism,1,Residence,,Anti-Religious,
+1991,State,,Tennessee,,1991-04-01,1,0,1,1,0,Hispanic,Hispanic,1,Aggravated Assault,1,Public Transportation,,Bias Motivated,
+1997,City,,Maryland,,1997-05-25,0,1,1,1,0,Asian,White,1,Vandalism,1,School,,Racial Bias,
+2005,City,,Delaware,,2005-06-15,1,0,1,1,0,Black,White,1,Aggravated Assault,1,Public Transportation,,Bias Motivated,
+2011,State,,Montana,,2011-02-20,1,0,2,1,1,White,Black,2,Simple Assault,2,Commercial Business,,Anti-Religious,
+2009,County,,Rhode Island,,2009-04-01,0,1,1,1,0,Asian,White,1,Vandalism,1,Residence,,Racial Bias,
+2004,City,,Kansas,,2004-03-15,0,1,1,1,0,White,White,1,Vandalism,1,School,,Anti-Religious,
+1996,State,,Arkansas,,1996-01-01,1,0,1,1,0,Hispanic,Hispanic,1,Aggravated Assault,1,Public Transportation,,Bias Motivated,
+1998,County,,Minnesota,,1998-05-01,1,0,2,1,1,White,Black,2,Simple Assault,2,Commercial Business,,Anti-Religious,
+2008,City,,Mississippi,,2008-02-20,0,1,1,1,0,Asian,White,1,Vandalism,1,Residence,,Racial Bias,
+2002,State,,Missouri,,2002-03-01,1,0,1,1,0,Black,White,1,Aggravated Assault,1,Public Transportation,,Bias Motivated,
+2007,County,,Oklahoma,,2007-05-01,0,1,1,1,0,White,White,1,Vandalism,1,School,,Anti-Religious,
+1993,City,,Utah,,1993-04-15,1,0,2,1,1,White,Black,2,Simple Assault,2,Commercial Business,,Anti-Religious,
+1999,State,,Nebraska,,1999-02-20,0,1,1,1,0,Asian,White,1,Vandalism,1,Residence,,Racial Bias,
+2003,City,,Nevada,,2003-06-01,1,0,1,1,0,Hispanic,Hispanic,1,Aggravated Assault,1,Public Transportation,,Bias Motivated,
+2012,County,,Idaho,,2012-03-01,0,1,1,1,0,White,White,1,Vandalism,1,School,,Racial Bias,
+2006,City,,Arizona,,2006-01-15,1,0,2,1,1,Black,Black,2,Simple Assault,2,Commercial Business,,Anti-Religious,
+1992,State,,Alaska,,1992-06-01,1,0,1,1,0,Hispanic,Hispanic,1,Aggravated Assault,1,Public Transportation,,Bias Motivated,
+2001,City,,Connecticut,,2001-09-01,0,1,1,1,0,Asian,White,1,Vandalism,1,Residence,,Racial Bias,
+1991,City,,Washington,,1991-03-25,0,1,1,1,0,White,White,1,Vandalism,1,School,,Anti-Religious,
+1995,County,,Kentucky,,1995-02-20,1,0,2,1,1,White,Black,2,Simple Assault,2,Commercial Business,,Anti-Religious,
+1996,City,,Oregon,,1996-01-01,1,0,1,1,0,Asian,Asian,1,Aggravated Assault,1,Public Transportation,,Bias Motivated,
+2000,County,,California,,2000-05-01,1,0,2,1,1,White,Black,2,Simple Assault,2,Residence,,Racial Bias,
+2005,State,,New Hampshire,,2005-02-20,0,1,1,1,0,White,White,1,Vandalism,1,School,,Anti-Religious,
+1992,Police Department,CA,California,1992-02-27,1,0,1,1,0,WHITE,WHITE,2,Vandalism,2,"Los Angeles, CA",Racial Bias,Adult,N,Y
+1993,Sheriff's Office,TX,Texas,1993-08-25,0,1,1,0,1,BLACK,HISPANIC OR LATINO,1,Intimidation,1,"Houston, TX",Racial Bias,Juvenile,N,N
+1993,Police Department,NY,New York,1993-03-21,1,0,1,1,0,ASIAN,ASIAN,2,Simple Assault,2,"New York, NY",Racial Bias,Adult,N,Y
+1992,Police Department,FL,Florida,1992-11-14,2,0,2,2,0,WHITE,WHITE,4,Vandalism,4,"Miami, FL",Racial Bias,Adult,N,Y
+1994,Police Department,IL,Illinois,1994-09-02,0,1,1,0,1,BLACK,BLACK,1,Simple Assault,1,"Chicago, IL",Racial Bias,Juvenile,N,N
+1995,Sheriff's Office,NC,North Carolina,1995-04-12,1,0,1,1,0,WHITE,WHITE,2,Simple Assault,2,"Raleigh, NC",Racial Bias,Adult,N,Y
+1994,Police Department,OH,Ohio,1994-01-15,0,2,2,0,2,HISPANIC OR LATINO,HISPANIC OR LATINO,2,Intimidation,2,"Columbus, OH",Racial Bias,Juvenile,N,N
+1993,Police Department,GA,Georgia,1993-06-20,2,0,2,2,0,BLACK,BLACK,4,Simple Assault,4,"Atlanta, GA",Racial Bias,Adult,N,Y
+1993,Sheriff's Office,MI,Michigan,1993-10-16,1,0,1,1,0,WHITE,WHITE,2,Intimidation,2,"Detroit, MI",Racial Bias,Adult,N,Y
+1995,Police Department,MA,Massachusetts,1995-07-25,0,1,1,0,1,ASIAN,ASIAN,1,Simple Assault,1,"Boston, MA",Racial Bias,Juvenile,N,N
+1992,Police Department,NV,Nevada,1992-05-01,2,0,2,2,0,WHITE,WHITE,4,Vandalism,4,"Las Vegas, NV",Racial Bias,Adult,N,Y
+1993,Police Department,CO,Colorado,1993-02-14,0,2,2,0,2,HISPANIC OR LATINO,HISPANIC OR LATINO,2,Intimidation,2,"Denver, CO",Racial Bias,Juvenile,N,N
+1993,Sheriff's Office,SC,South Carolina,1993-09-22,1,0,1,1,0,BLACK,BLACK,2,Simple Assault,2,"Columbia, SC",Racial Bias,Adult,N,Y
+1994,Police Department,WI,Wisconsin,1994-03-18,0,1,1,0,1,WHITE,WHITE,1,Simple Assault,1,"Madison, WI",Racial Bias,Juvenile,N,N
+1992,Police Department,OR,Oregon,1992-08-28,2,0,2,2,0,WHITE,WHITE,4,Vandalism,4,"Portland, OR",Racial Bias,Adult,N,Y
+1995,Sheriff's Office,IN,Indiana,1995-11-12,1,0,1,1,0,WHITE,WHITE,2,Intimidation,2,"Indianapolis, IN",Racial Bias,Adult,N,Y
+1994,Police Department,UT,Utah,1994-06-19,0,2,2,0,2,HISPANIC OR LATINO,HISPANIC OR LATINO,2,Simple Assault,2,"Salt Lake City, UT",Racial Bias,Juvenile,N,N
+1995,Police Department,MO,Missouri,1995-01-07,2,0,2,2,0,BLACK,BLACK,4,Vandalism,4,"Kansas City, MO",Racial Bias,Adult,N,Y
+1993,Sheriff's Office,IA,Iowa,1993-05-26,1,0,1,1,0,WHITE,WHITE,2,Intimidation,2,"Des Moines, IA",Racial Bias,Adult,N,Y
+1992,Police Department,DE,Delaware,1992-10-23,0,1,1,0,1,ASIAN,ASIAN,1,Simple Assault,1,"Wilmington, DE",Racial Bias,Juvenile,N,N
+1995,Police Department,KY,Kentucky,1995-03-25,0,2,2,0,2,HISPANIC OR LATINO,HISPANIC OR LATINO,2,Simple Assault,2,"Louisville, KY",Racial Bias,Juvenile,N,N
+1994,Sheriff's Office,AR,Arkansas,1994-07-16,1,0,1,1,0,BLACK,BLACK,2,Intimidation,2,"Little Rock, AR",Racial Bias,Adult,N,Y
+1995,Police Department,VT,Vermont,1995-09-11,0,1,1,0,1,WHITE,WHITE,1,Simple Assault,1,"Burlington, VT",Racial Bias,Juvenile,N,N
+1993,Police Department,ME,Maine,1993-01-15,2,0,2,2,0,WHITE,WHITE,4,Vandalism,4,"Portland, ME",Racial Bias,Adult,N,Y
+1994,Sheriff's Office,LA,Louisiana,1994-02-26,0,1,1,0,1,BLACK,BLACK,1,Simple Assault,1,"New Orleans, LA",Racial Bias,Juvenile,N,N
+1992,Police Department,CT,Connecticut,1992-04-17,1,0,1,1,0,HISPANIC OR LATINO,HISPANIC OR LATINO,2,Intimidation,2,"Hartford, CT",Racial Bias,Adult,N,Y
+1995,Sheriff's Office,NH,New Hampshire,1995-06-18,0,2,2,0,2,WHITE,WHITE,2,Simple Assault,2,"Manchester, NH",Racial Bias,Juvenile,N,N
+1993,Police Department,RI,Rhode Island,1993-08-14,2,0,2,2,0,BLACK,BLACK,4,Vandalism,4,"Providence, RI",Racial Bias,Adult,N,Y
+1994,Police Department,OK,Oklahoma,1994-11-20,1,0,1,1,0,WHITE,WHITE,2,Simple Assault,2,"Oklahoma City, OK",Racial Bias,Adult,N,Y
+1995,Sheriff's Office,WV,West Virginia,1995-03-28,0,1,1,0,1,BLACK,BLACK,1,Simple Assault,1,"Charleston, WV",Racial Bias,Juvenile,N,N
+1992,Police Department,AL,Alabama,1992-09-11,0,2,2,0,2,HISPANIC OR LATINO,HISPANIC OR LATINO,2,Intimidation,2,"Birmingham, AL",Racial Bias,Juvenile,N,N
+1993,Sheriff's Office,MT,Montana,1993-01-22,1,0,1,1,0,WHITE,WHITE,2,Simple Assault,2,"Helena, MT",Racial Bias,Adult,N,Y
+1994,Police Department,ND,North Dakota,1994-06-25,0,1,1,0,1,BLACK,BLACK,1,Simple Assault,1,"Bismarck, ND",Racial Bias,Juvenile,N,N
+1995,Sheriff's Office,ID,Idaho,1995-10-15,2,0,2,2,0,WHITE,WHITE,4,Vandalism,4,"Boise, ID",Racial Bias,Adult,N,Y
+1993,Police Department,WY,Wyoming,1993-04-10,1,0,1,1,0,HISPANIC OR LATINO,HISPANIC OR LATINO,2,Intimidation,2,"Cheyenne, WY",Racial Bias,Adult,N,Y
+1994,Police Department,MS,Mississippi,1994-07-24,0,1,1,0,1,BLACK,BLACK,1,Simple Assault,1,"Jackson, MS",Racial Bias,Juvenile,N,N
+1995,Sheriff's Office,AZ,Arizona,1995-01-29,2,0,2,2,0,WHITE,WHITE,4,Vandalism,4,"Phoenix, AZ",Racial Bias,Adult,N,Y
+1992,Police Department,NE,Nebraska,1992-03-13,1,0,1,1,0,BLACK,BLACK,2,Simple Assault,2,"Omaha, NE",Racial Bias,Adult,N,Y
+1995,Police Department,SD,South Dakota,1995-09-25,0,2,2,0,2,HISPANIC OR LATINO,HISPANIC OR LATINO,2,Intimidation,2,"Pierre, SD",Racial Bias,Juvenile,N,N
+1993,Local Police Department,AL,Alabama,1993-02-10,1,0,2,1,1,White,Unknown,2,Intimidation,2,Birmingham - Downtown,Anti-White,"Adult, Law Enforcement Officer",Yes,Anti-Government
+1994,State Bureau of Investigation,AK,Alaska,1994-08-01,0,1,1,0,1,Native American,Unknown,1,Vandalism,1,Anchorage - Southside,Anti-Asian,Juvenile,No,
+1991,Local Police Department,AZ,Arizona,1991-06-15,1,0,1,1,0,Hispanic or Latino,Unknown,1,Simple Assault,1,Phoenix - Downtown,Anti-Hispanic,Adult,Yes,
+1995,Federal Bureau of Investigation,AR,Arkansas,1995-04-05,1,0,1,1,0,White,Unknown,1,Intimidation,1,Little Rock - Downtown,Anti-White,Adult,No,
+1999,Local Police Department,CA,California,1999-10-25,1,0,1,1,0,Asian,Unknown,1,Simple Assault,1,Los Angeles - Westside,Anti-Asian,Adult,Yes,
+2004,State Bureau of Investigation,CO,Colorado,2004-02-12,0,1,1,0,1,Black or African American,Unknown,1,Vandalism,1,Denver - Downtown,Anti-Black,Juvenile,No,
+1992,Local Police Department,CT,Connecticut,1992-09-20,1,0,1,1,0,White,Unknown,1,Intimidation,1,Hartford - Downtown,Anti-White,Adult,Yes,
+1996,Federal Bureau of Investigation,DE,Delaware,1996-11-15,0,1,1,0,1,Hispanic or Latino,Unknown,1,Vandalism,1,Wilmington - Downtown,Anti-Hispanic,Juvenile,No,
+2001,Local Police Department,FL,Florida,2001-03-25,1,0,1,1,0,Asian,Unknown,1,Simple Assault,1,Miami - Downtown,Anti-Asian,Adult,Yes,
+1997,State Bureau of Investigation,GA,Georgia,1997-06-10,0,1,1,0,1,White,Unknown,1,Vandalism,1,Atlanta - Downtown,Anti-White,Juvenile,No,
+2006,Local Police Department,HI,Hawaii,2006-09-01,1,0,1,1,0,Native American,Unknown,1,Intimidation,1,Honolulu - Downtown,Anti-Native,Adult,Yes,
+1998,Federal Bureau of Investigation,ID,Idaho,1998-01-20,1,0,1,1,0,Black or African American,Unknown,1,Simple Assault,1,Boise - Downtown,Anti-Black,Adult,No,
+2009,Local Police Department,IL,Illinois,2009-05-10,0,1,1,0,1,Hispanic or Latino,Unknown,1,Vandalism,1,Chicago - Downtown,Anti-Hispanic,Juvenile,No,
+1994,State Bureau of Investigation,IN,Indiana,1994-03-25,1,0,1,1,0,White,Unknown,1,Intimidation,1,Indianapolis - Downtown,Anti-White,Adult,Yes,
+2007,Local Police Department,IA,Iowa,2007-07-15,1,0,1,1,0,Asian,Unknown,1,Simple Assault,1,Des Moines - Downtown,Anti-Asian,Adult,No,
+1992,Federal Bureau of Investigation,KS,Kansas,1992-08-01,0,1,1,0,1,Native American,Unknown,1,Vandalism,1,Topeka - Downtown,Anti-Native,Juvenile,No,
+2003,Local Police Department,KY,Kentucky,2003-02-10,1,0,1,1,0,Black or African American,Unknown,1,Intimidation,1,Louisville - Downtown,Anti-Black,Adult,Yes,
+1995,State Bureau of Investigation,LA,Louisiana,1995-09-20,0,1,1,0,1,White,Unknown,1,Vandalism,1,New Orleans - Downtown,Anti-White,Juvenile,No,
+2005,Local Police Department,ME,Maine,2005-06-25,1,0,1,1,0,Asian,Unknown,1,Simple Assault,1,Portland - Downtown,Anti-Asian,Adult,Yes,
+1999,Federal Bureau of Investigation,MD,Maryland,1999-04-01,1,0,1,1,0,Hispanic or Latino,Unknown,1,Intimidation,1,Baltimore - Downtown,Anti-Hispanic,Adult,No,
+2008,Local Police Department,MA,Massachusetts,2008-11-15,0,1,1,0,1,Black or African American,Unknown,1,Vandalism,1,Boston - Downtown,Anti-Black,Juvenile,No,
+1993,State Bureau of Investigation,MI,Michigan,1993-01-10,1,0,1,1,0,White,Unknown,1,Intimidation,1,Detroit - Downtown,Anti-White,Adult,Yes,
+2002,Local Police Department,MN,Minnesota,2002-03-25,1,0,1,1,0,Asian,Unknown,1,Simple Assault,1,Minneapolis - Downtown,Anti-Asian,Adult,No,
+1996,Federal Bureau of Investigation,MS,Mississippi,1996-08-01,0,1,1,0,1,Native American,Unknown,1,Vandalism,1,Jackson - Downtown,Anti-Native,Juvenile,No,
+2000,Local Police Department,MO,Missouri,2000-07-10,1,0,1,1,0,Black or African American,Unknown,1,Intimidation,1,Kansas City - Downtown,Anti-Black,Adult,Yes,
+1997,State Bureau of Investigation,MT,Montana,1997-11-15,0,1,1,0,1,Hispanic or Latino,Unknown,1,Vandalism,1,Helena - Downtown,Anti-Hispanic,Juvenile,No,
+2004,Local Police Department,NE,Nebraska,2004-04-01,1,0,1,1,0,Asian,Unknown,1,Simple Assault,1,Omaha - Downtown,Anti-Asian,Adult,Yes,
+1998,Federal Bureau of Investigation,NV,Nevada,1998-06-25,0,1,1,0,1,Native American,Unknown,1,Vandalism,1,Las Vegas - Downtown,Anti-Native,Juvenile,No,
+2006,Local Police Department,NH,New Hampshire,2006-01-10,1,0,1,1,0,White,Unknown,1,Intimidation,1,Manchester - Downtown,Anti-White,Adult,Yes,
+1994,State Bureau of Investigation,NJ,New Jersey,1994-05-01,0,1,1,0,1,Black or African American,Unknown,1,Vandalism,1,Newark - Downtown,Anti-Black,Juvenile,No,
+2009,Local Police Department,NM,New Mexico,2009-09-15,1,0,1,1,0,Hispanic or Latino,Unknown,1,Simple Assault,1,Albuquerque - Downtown,Anti-Hispanic,Adult,Yes,
+1992,Federal Bureau of Investigation,NY,New York,1992-07-25,1,0,1,1,0,Asian,Unknown,1,Intimidation,1,New York City - Downtown,Anti-Asian,Adult,No,
+2003,Local Police Department,NC,North Carolina,2003-03-10,0,1,1,0,1,Native American,Unknown,1,Vandalism,1,Raleigh - Downtown,Anti-Native,Juvenile,No,
+1995,State Bureau of Investigation,ND,North Dakota,1995-02-01,1,0,1,1,0,White,Unknown,1,Simple Assault,1,Bismarck - Downtown,Anti-White,Adult,Yes,
+2007,Local Police Department,OH,Ohio,2007-08-15,1,0,1,1,0,Black or African American,Unknown,1,Intimidation,1,Columbus - Downtown,Anti-Black,Adult,No,
+1999,Federal Bureau of Investigation,OK,Oklahoma,1999-10-01,0,1,1,0,1,Hispanic or Latino,Unknown,1,Vandalism,1,Oklahoma City - Downtown,Anti-Hispanic,Juvenile,No,
+2002,Local Police Department,OR,Oregon,2002-11-25,1,0,1,1,0,Asian,Unknown,1,Simple Assault,1,Portland - Downtown,Anti-Asian,Adult,Yes,
+1996,State Bureau of Investigation,PA,Pennsylvania,1996-04-10,1,0,1,1,0,Native American,Unknown,1,Intimidation,1,Philadelphia - Downtown,Anti-Native,Adult,No,
+2005,Local Police Department,RI,Rhode Island,2005-06-01,0,1,1,0,1,White,Unknown,1,Vandalism,1,Providence - Downtown,Anti-White,Juvenile,No,
+1997,Federal Bureau of Investigation,SC,South Carolina,1997-08-15,1,0,1,1,0,Black or African American,Unknown,1,Simple Assault,1,Columbia - Downtown,Anti-Black,Adult,Yes,
+2008,Local Police Department,SD,South Dakota,2008-01-10,1,0,1,1,0,Hispanic or Latino,Unknown,1,Intimidation,1,Pierre - Downtown,Anti-Hispanic,Adult,No,
+1994,State Bureau of Investigation,TN,Tennessee,1994-09-20,0,1,1,0,1,Asian,Unknown,1,Vandalism,1,Nashville - Downtown,Anti-Asian,Juvenile,No,
+2004,Local Police Department,TX,Texas,2004-03-25,1,0,1,1,0,Native American,Unknown,1,Simple Assault,1,Houston - Downtown,Anti-Native,Adult,Yes,
+1992,Federal Bureau of Investigation,UT,Utah,1992-11-01,1,0,1,1,0,White,Unknown,1,Intimidation,1,Salt Lake City - Downtown,Anti-White,Adult,No,
+2001,Local Police Department,VT,Vermont,2001-09-10,0,1,1,0,1,Black or African American,Unknown,1,Vandalism,1,Burlington - Downtown,Anti-Black,Juvenile,No,
+1995,State Bureau of Investigation,VA,Virginia,1995-06-15,1,0,1,1,0,Hispanic or Latino,Unknown,1,Simple Assault,1,Richmond - Downtown,Anti-Hispanic,Adult,Yes,
+1999,Federal Bureau of Investigation,WA,Washington,1999-02-10,1,0,1,1,0,Native American,Unknown,1,Intimidation,1,Seattle - Downtown,Anti-Native,Adult,No,
+2006,Local Police Department,WV,West Virginia,2006-08-01,0,1,1,0,1,Asian,Unknown,1,Vandalism,1,Charleston - Downtown,Anti-Asian,Juvenile,No,
+1993,State Bureau of Investigation,WI,Wisconsin,1993-05-25,1,0,1,1,0,Black or African American,Unknown,1,Simple Assault,1,Milwaukee - Downtown,Anti-Black,Adult,Yes,
+2002,Local Police Department,WY,Wyoming,2002-04-01,1,0,1,1,0,White,Unknown,1,Intimidation,1,Cheyenne - Downtown,Anti-White,Adult,No,
+2005,State,CA,California,2005-10-14,1,0,2,1,1,White,Hispanic or Latino,1,Intimidation,1,Store,Racial Bias,Adult,0,
+2002,Local,TX,Texas,2002-05-01,0,1,1,0,1,Asian,1,Simple Assault,1,Restaurant,Ethnic Bias,Juvenile,0,,
+2009,Federal,IL,Illinois,2009-07-25,1,0,1,1,0,Black or African American,White,1,Vandalism,1,Park,Racial Bias,Adult,1,
+2007,State,NY,New York,2007-02-10,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Hate Crime Against Individuals,1,School,Ethnic Bias,Juvenile,0,
+1995,Local,OH,Ohio,1995-08-20,1,0,1,1,0,White,Black or African American,1,Simple Assault,1,Residence,Racial Bias,Adult,0,
+2004,Federal,NC,North Carolina,2004-11-15,0,1,1,0,1,Asian,1,Criminal Mischief,1,Store,Ethnic Bias,Juvenile,0,,
+2011,State,GA,Georgia,2011-04-01,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Hate Crime Against Individuals,1,Restaurant,Ethnic Bias,Adult,0,
+2006,Local,AZ,Arizona,2006-09-10,0,1,1,0,1,Black or African American,Black or African American,1,Simple Assault,1,Park,Racial Bias,Juvenile,0,
+2008,Federal,MI,Michigan,2008-01-25,1,0,1,1,0,White,White,1,Intimidation,1,Residence,Racial Bias,Adult,0,
+2003,State,NC,North Carolina,2003-06-01,0,1,1,0,1,Asian,1,Vandalism,1,School,Ethnic Bias,Juvenile,0,,
+1998,Local,FL,Florida,1998-03-15,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Hate Crime Against Individuals,1,Store,Ethnic Bias,Adult,0,
+2013,Federal,WA,Washington,2013-08-01,0,1,1,0,1,Black or African American,Black or African American,1,Simple Assault,1,Restaurant,Racial Bias,Juvenile,0,
+1994,State,PA,Pennsylvania,1994-01-20,1,0,2,1,1,White,White,1,Intimidation,1,Park,Racial Bias,Adult,1,
+2000,Local,TN,Tennessee,2000-07-01,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Criminal Mischief,1,School,Ethnic Bias,Juvenile,0,
+2002,Federal,NJ,New Jersey,2002-02-15,1,0,1,1,0,Asian,1,Vandalism,1,Residence,Ethnic Bias,Adult,0,,
+1996,State,IN,Indiana,1996-09-10,0,1,1,0,1,Black or African American,Black or African American,1,Simple Assault,1,Restaurant,Racial Bias,Juvenile,0,
+2010,Local,SC,South Carolina,2010-03-25,1,0,1,1,0,White,White,1,Hate Crime Against Individuals,1,Store,Racial Bias,Adult,0,
+1992,Federal,KY,Kentucky,1992-05-01,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Criminal Mischief,1,School,Ethnic Bias,Juvenile,0,
+2001,State,MA,Massachusetts,2001-10-01,1,0,2,1,1,Asian,Asian,1,Vandalism,1,Park,Ethnic Bias,Adult,1,
+2007,Local,IA,Iowa,2007-11-10,0,1,1,0,1,Black or African American,Black or African American,1,Simple Assault,1,Restaurant,Racial Bias,Juvenile,0,
+1999,Federal,VT,Vermont,1999-04-25,1,0,1,1,0,White,White,1,Intimidation,1,Residence,Racial Bias,Adult,0,
+2014,State,WV,West Virginia,2014-02-01,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Criminal Mischief,1,School,Ethnic Bias,Juvenile,0,
+2005,Local,CT,Connecticut,2005-03-10,1,0,1,1,0,Asian,1,Vandalism,1,Residence,Ethnic Bias,Adult,0,,
+1997,Federal,SD,South Dakota,1997-01-01,0,1,1,0,1,Black or African American,Black or African American,1,Simple Assault,1,Restaurant,Racial Bias,Juvenile,0,
+2009,State,DE,Delaware,2009-08-25,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Hate Crime Against Individuals,1,Store,Ethnic Bias,Juvenile,0,
+2008,Local,AK,Alaska,2008-06-10,1,0,1,1,0,White,White,1,Intimidation,1,Park,Racial Bias,Adult,0,
+2004,Federal,RI,Rhode Island,2004-09-01,0,1,1,0,1,Asian,1,Criminal Mischief,1,School,Ethnic Bias,Juvenile,0,,
+2006,State,MT,Montana,2006-03-25,1,0,2,1,1,Hispanic or Latino,Hispanic or Latino,1,Vandalism,1,Residence,Ethnic Bias,Adult,1,
+1993,Local,CO,Colorado,1993-07-01,0,1,1,0,1,Black or African American,Black or African American,1,Simple Assault,1,Restaurant,Racial Bias,Juvenile,0,
+2000,Federal,ND,North Dakota,2000-11-15,1,0,1,1,0,White,White,1,Intimidation,1,Park,Racial Bias,Adult,0,
+2012,State,NE,Nebraska,2012-05-01,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Criminal Mischief,1,School,Ethnic Bias,Juvenile,0,
+2003,Local,NV,Nevada,2003-09-10,1,0,1,1,0,Asian,1,Vandalism,1,Residence,Ethnic Bias,Adult,0,,
+2007,Federal,ME,Maine,2007-04-01,0,1,1,0,1,Black or African American,Black or African American,1,Simple Assault,1,Restaurant,Racial Bias,Juvenile,0,
+2010,State,HI,Hawaii,2010-09-25,1,0,2,1,1,White,White,1,Hate Crime Against Individuals,1,Store,Racial Bias,Adult,1,
+1996,Local,KS,Kansas,1996-02-10,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Criminal Mischief,1,School,Ethnic Bias,Juvenile,0,
+1992,Federal,UT,Utah,1992-06-01,1,0,1,1,0,Asian,1,Vandalism,1,Residence,Ethnic Bias,Adult,0,,
+2009,State,"OR""",Oregon,2009-12-25,1,0,1,1,0,White,White,1,Intimidation,1,Park,Racial Bias,Adult,0,
+2011,Local,,California,2011-01-05,1,0,1,1,0,White,Hispanic or Latino,1,Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-White Sentiment,Anti-White
+2012,State,,Texas,2012-02-20,0,1,1,0,1,Black,Not Hispanic or Latino,1,Vandalism,1,School Parking Lot,,,Hate Crime Motivated by Anti-Black Sentiment,Anti-Black
+2013,Local,,Florida,2013-03-10,1,0,1,1,0,Asian,Asian,2,Intimidation,2,Place of Worship,,,Multiple Hate Crime Motivated by Anti-Asian Sentiment,Anti-Asian
+2011,Federal,,New York,2011-04-15,0,0,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Larceny-Theft,1,Public Transportation,,,Hate Crime Motivated by Anti-Hispanic or Latino Sentiment,Anti-Hispanic or Latino
+2014,State,,Georgia,2014-05-25,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residence Hall,,,Multiple Hate Crime Motivated by Anti-White Sentiment,Anti-White
+1991,Local,,Ohio,1991-06-10,0,1,1,0,1,Black,Not Hispanic or Latino,1,Vandalism,1,School Parking Lot,,,Hate Crime Motivated by Anti-Black Sentiment,Anti-Black
+2013,Federal,,California,2013-07-20,1,0,1,1,0,White,Hispanic or Latino,1,Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-White Sentiment,Anti-White
+1992,State,,Michigan,1992-08-15,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Larceny-Theft,1,Public Transportation,,,Multiple Hate Crime Motivated by Anti-Hispanic or Latino Sentiment,Anti-Hispanic or Latino
+2012,Local,,North Carolina,2012-09-05,1,0,1,1,0,Asian,Asian,2,Intimidation,2,Place of Worship,,,Multiple Hate Crime Motivated by Anti-Asian Sentiment,Anti-Asian
+2014,State,,New Jersey,2014-10-10,0,1,1,0,1,White,Not Hispanic or Latino,1,Simple Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-White Sentiment,Anti-White
+1991,Federal,,Illinois,1991-11-20,1,0,1,1,0,Black,Not Hispanic or Latino,1,Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-Black Sentiment,Anti-Black
+2013,Federal,,New York,2013-12-15,0,0,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Larceny-Theft,1,Public Transportation,,,Hate Crime Motivated by Anti-Hispanic or Latino Sentiment,Anti-Hispanic or Latino
+2012,Local,,Florida,2012-01-10,1,0,1,1,0,Asian,Asian,2,Intimidation,2,Place of Worship,,,Multiple Hate Crime Motivated by Anti-Asian Sentiment,Anti-Asian
+2014,State,,Georgia,2014-02-05,0,1,1,0,1,White,Not Hispanic or Latino,1,Simple Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-White Sentiment,Anti-White
+1992,Local,,Ohio,1992-03-15,1,0,1,1,0,Black,Not Hispanic or Latino,1,Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-Black Sentiment,Anti-Black
+2011,Federal,,California,2011-04-20,0,0,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Larceny-Theft,1,Public Transportation,,,Hate Crime Motivated by Anti-Hispanic or Latino Sentiment,Anti-Hispanic or Latino
+2013,State,,Texas,2013-05-10,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-White Sentiment,Anti-White
+1991,State,,Michigan,1991-06-05,0,1,1,0,1,Asian,Asian,2,Intimidation,2,Place of Worship,,,Multiple Hate Crime Motivated by Anti-Asian Sentiment,Anti-Asian
+2012,Local,,North Carolina,2012-07-20,0,1,1,0,1,Black,Not Hispanic or Latino,1,Vandalism,1,School Parking Lot,,,Hate Crime Motivated by Anti-Black Sentiment,Anti-Black
+1992,Federal,,Illinois,1992-08-10,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-Hispanic or Latino Sentiment,Anti-Hispanic or Latino
+2011,State,,Georgia,2011-09-05,1,0,1,1,0,Asian,Asian,2,Intimidation,2,Place of Worship,,,Multiple Hate Crime Motivated by Anti-Asian Sentiment,Anti-Asian
+2014,Federal,,New York,2014-10-15,0,0,1,0,1,White,Not Hispanic or Latino,1,Simple Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-White Sentiment,Anti-White
+1991,Local,,Ohio,1991-11-15,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-Hispanic or Latino Sentiment,Anti-Hispanic or Latino
+2013,Federal,,California,2013-12-20,0,0,1,0,1,Black,Not Hispanic or Latino,1,Vandalism,1,School Parking Lot,,,Hate Crime Motivated by Anti-Black Sentiment,Anti-Black
+2012,Local,,Florida,2012-01-20,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-White Sentiment,Anti-White
+2014,State,,Texas,2014-02-20,0,1,1,0,1,Asian,Asian,2,Intimidation,2,Place of Worship,,,Multiple Hate Crime Motivated by Anti-Asian Sentiment,Anti-Asian
+1992,State,,Michigan,1992-03-20,1,0,1,1,0,Black,Not Hispanic or Latino,1,Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-Black Sentiment,Anti-Black
+2011,Local,,North Carolina,2011-04-10,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-Hispanic or Latino Sentiment,Anti-Hispanic or Latino
+2013,Federal,,New York,2013-05-15,0,0,1,0,1,White,Not Hispanic or Latino,1,Simple Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-White Sentiment,Anti-White
+1991,State,,Illinois,1991-06-20,0,1,1,0,1,Asian,Asian,2,Intimidation,2,Place of Worship,,,Multiple Hate Crime Motivated by Anti-Asian Sentiment,Anti-Asian
+2012,Local,,Georgia,2012-07-10,1,0,1,1,0,Black,Not Hispanic or Latino,1,Vandalism,1,School Parking Lot,,,Hate Crime Motivated by Anti-Black Sentiment,Anti-Black
+1992,Local,,Ohio,1992-08-20,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Larceny-Theft,1,Public Transportation,,,Hate Crime Motivated by Anti-Hispanic or Latino Sentiment,Anti-Hispanic or Latino
+2011,Federal,,California,2011-09-15,1,0,1,1,0,White,Hispanic or Latino,1,Simple Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-White Sentiment,Anti-White
+2014,State,,Michigan,2014-10-25,0,1,1,0,1,Asian,Asian,2,Intimidation,2,Place of Worship,,,Multiple Hate Crime Motivated by Anti-Asian Sentiment,Anti-Asian
+1991,Local,,Florida,1991-11-20,1,0,1,1,0,Black,Not Hispanic or Latino,1,Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-Black Sentiment,Anti-Black
+2013,Local,,North Carolina,2013-12-10,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-Hispanic or Latino Sentiment,Anti-Hispanic or Latino
+2012,Federal,,New York,2012-01-05,0,0,1,0,1,White,Not Hispanic or Latino,1,Simple Assault,1,Residence Hall,,,Hate Crime Motivated by Anti-White Sentiment,Anti-White
+2014,Local,,Georgia,2014-02-10,1,0,1,1,0,Black,Not Hispanic or Latino,1,Vandalism,1,School Parking Lot,,,Hate Crime Motivated by Anti-Black Sentiment,Anti-Black
+1991,Federal Bureau of Investigation,CA,California,1991-04-10,1,0,2,1,1,White,Not Hispanic or Latino,1,Simple Assault,1,Residential Area,Racial Bias,Adult Only,No,No
+1991,State Police,TX,Texas,1991-06-15,0,1,1,0,1,Asian,Not Hispanic or Latino,1,Intimidation,1,Highway/Road,Sexual Orientation Bias,Juvenile Only,No,No
+1991,County Police Department,NY,New York,1991-08-20,2,0,1,2,0,Hispanic or Latino,Not Hispanic or Latino,2,Vandalism,2,Commercial Area,Disability Bias,Adult Only,Yes,No
+1991,Federal Bureau of Investigation,FL,Florida,1991-09-05,1,0,1,0,1,White,Not Hispanic or Latino,1,Simple Assault,1,Residential Area,Racial Bias,Adult Only,No,No
+1992,City Police Department,IL,Illinois,1992-01-25,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Intimidation,1,Highway/Road,Racial Bias,Juvenile Only,No,No
+1992,State Police,NC,North Carolina,1992-03-10,1,0,2,1,1,White,Not Hispanic or Latino,1,Simple Assault,1,Residential Area,Racial Bias,Adult Only,No,No
+1992,Federal Bureau of Investigation,OH,Ohio,1992-04-15,2,0,1,1,1,Hispanic or Latino,Not Hispanic or Latino,2,Vandalism,2,Commercial Area,Disability Bias,Adult Only,Yes,No
+1992,County Police Department,MD,Maryland,1992-05-20,0,1,1,0,1,Asian,Not Hispanic or Latino,1,Simple Assault,1,Highway/Road,Racial Bias,Juvenile Only,No,No
+1992,City Police Department,GA,Georgia,1992-06-10,1,0,2,1,1,White,Not Hispanic or Latino,1,Intimidation,1,Residential Area,Racial Bias,Adult Only,No,No
+1992,State Police,MI,Michigan,1992-07-15,1,0,1,0,1,Hispanic or Latino,Not Hispanic or Latino,1,Vandalism,1,Commercial Area,Disability Bias,Adult Only,No,No
+1992,Federal Bureau of Investigation,WA,Washington,1992-08-20,2,0,1,2,0,White,Not Hispanic or Latino,2,Simple Assault,2,Residential Area,Racial Bias,Adult Only,Yes,No
+1992,City Police Department,NJ,New Jersey,1992-09-05,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Intimidation,1,Highway/Road,Racial Bias,Juvenile Only,No,No
+1993,County Police Department,AZ,Arizona,1993-01-10,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residential Area,Racial Bias,Adult Only,No,No
+1993,State Police,VT,Vermont,1993-02-15,0,1,1,0,1,Asian,Not Hispanic or Latino,1,Vandalism,1,Commercial Area,Disability Bias,Juvenile Only,No,No
+1993,Federal Bureau of Investigation,IA,Iowa,1993-03-20,2,0,1,2,0,Hispanic or Latino,Not Hispanic or Latino,2,Intimidation,2,Highway/Road,Racial Bias,Adult Only,Yes,No
+1993,City Police Department,TN,Tennessee,1993-04-10,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residential Area,Racial Bias,Adult Only,No,No
+1993,County Police Department,DE,Delaware,1993-05-15,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Intimidation,1,Highway/Road,Racial Bias,Juvenile Only,No,No
+1993,State Police,CT,Connecticut,1993-06-20,2,0,1,2,0,Hispanic or Latino,Not Hispanic or Latino,2,Vandalism,2,Commercial Area,Disability Bias,Adult Only,Yes,No
+1993,Federal Bureau of Investigation,SD,South Dakota,1993-07-05,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residential Area,Racial Bias,Adult Only,No,No
+1993,City Police Department,RI,Rhode Island,1993-08-10,0,1,1,0,1,Asian,Not Hispanic or Latino,1,Intimidation,1,Highway/Road,Racial Bias,Juvenile Only,No,No
+1993,County Police Department,ME,Maine,1993-09-15,2,0,1,2,0,Hispanic or Latino,Not Hispanic or Latino,2,Vandalism,2,Commercial Area,Disability Bias,Adult Only,Yes,No
+1994,State Police,ND,North Dakota,1994-01-10,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residential Area,Racial Bias,Adult Only,No,No
+1994,Federal Bureau of Investigation,AL,Alabama,1994-02-15,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Intimidation,1,Highway/Road,Racial Bias,Juvenile Only,No,No
+1994,City Police Department,KY,Kentucky,1994-03-20,2,0,1,2,0,Hispanic or Latino,Not Hispanic or Latino,2,Vandalism,2,Commercial Area,Disability Bias,Adult Only,Yes,No
+1994,County Police Department,MT,Montana,1994-04-10,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residential Area,Racial Bias,Adult Only,No,No
+1994,State Police,WV,West Virginia,1994-05-15,0,1,1,0,1,Asian,Not Hispanic or Latino,1,Intimidation,1,Highway/Road,Racial Bias,Juvenile Only,No,No
+1994,Federal Bureau of Investigation,SC,South Carolina,1994-06-20,2,0,1,2,0,Hispanic or Latino,Not Hispanic or Latino,2,Vandalism,2,Commercial Area,Disability Bias,Adult Only,Yes,No
+1994,City Police Department,OR,Oregon,1994-07-05,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residential Area,Racial Bias,Adult Only,No,No
+1994,County Police Department,NM,New Mexico,1994-08-10,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Intimidation,1,Highway/Road,Racial Bias,Juvenile Only,No,No
+1994,State Police,AK,Alaska,1994-09-15,2,0,1,2,0,Hispanic or Latino,Not Hispanic or Latino,2,Vandalism,2,Commercial Area,Disability Bias,Adult Only,Yes,No
+1995,Federal Bureau of Investigation,LA,Louisiana,1995-01-10,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residential Area,Racial Bias,Adult Only,No,No
+1995,City Police Department,MS,Mississippi,1995-02-15,0,1,1,0,1,Asian,Not Hispanic or Latino,1,Intimidation,1,Highway/Road,Racial Bias,Juvenile Only,No,No
+1995,County Police Department,NV,Nevada,1995-03-20,2,0,1,2,0,Hispanic or Latino,Not Hispanic or Latino,2,Vandalism,2,Commercial Area,Disability Bias,Adult Only,Yes,No
+1995,State Police,OK,Oklahoma,1995-04-10,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residential Area,Racial Bias,Adult Only,No,No
+1995,Federal Bureau of Investigation,UT,Utah,1995-05-15,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Intimidation,1,Highway/Road,Racial Bias,Juvenile Only,No,No
+1995,City Police Department,ID,Idaho,1995-06-20,2,0,1,2,0,Hispanic or Latino,Not Hispanic or Latino,2,Vandalism,2,Commercial Area,Disability Bias,Adult Only,Yes,No
+1995,County Police Department,NE,Nebraska,1995-07-05,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residential Area,Racial Bias,Adult Only,No,No
+1995,State Police,KS,Kansas,1995-08-10,0,1,1,0,1,Asian,Not Hispanic or Latino,1,Intimidation,1,Highway/Road,Racial Bias,Juvenile Only,No,No
+1995,Federal Bureau of Investigation,MO,Missouri,1995-09-15,2,0,1,2,0,Hispanic or Latino,Not Hispanic or Latino,2,Vandalism,2,Commercial Area,Disability Bias,Adult Only,Yes,No
+1996,City Police Department,AR,Arkansas,1996-01-10,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residential Area,Racial Bias,Adult Only,No,No
+1996,County Police Department,WI,Wisconsin,1996-02-15,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Intimidation,1,Highway/Road,Racial Bias,Juvenile Only,No,No
+1996,State Police,PA,Pennsylvania,1996-03-20,2,0,1,2,0,Hispanic or Latino,Not Hispanic or Latino,2,Vandalism,2,Commercial Area,Disability Bias,Adult Only,Yes,No
+1996,Federal Bureau of Investigation,GA,Georgia,1996-04-10,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residential Area,Racial Bias,Adult Only,No,No
+1996,City Police Department,MN,Minnesota,1996-05-15,0,1,1,0,1,Asian,Not Hispanic or Latino,1,Intimidation,1,Highway/Road,Racial Bias,Juvenile Only,No,No
+1996,County Police Department,NV,Nevada,1996-06-20,2,0,1,2,0,Hispanic or Latino,Not Hispanic or Latino,2,Vandalism,2,Commercial Area,Disability Bias,Adult Only,Yes,No
+1996,State Police,HI,Hawaii,1996-07-05,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residential Area,Racial Bias,Adult Only,No,No
+1996,Federal Bureau of Investigation,CO,Colorado,1996-08-10,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Intimidation,1,Highway/Road,Racial Bias,Juvenile Only,No,No
+1996,City Police Department,IN,Indiana,1996-09-15,2,0,1,2,0,Hispanic or Latino,Not Hispanic or Latino,2,Vandalism,2,Commercial Area,Disability Bias,Adult Only,Yes,No
+1997,County Police Department,VT,Vermont,1997-01-10,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residential Area,Racial Bias,Adult Only,No,No
+1997,State Police,WY,Wyoming,1997-02-15,0,1,1,0,1,Asian,Not Hispanic or Latino,1,Intimidation,1,Highway/Road,Racial Bias,Juvenile Only,No,No
+1997,Federal Bureau of Investigation,IN,Indiana,1997-03-20,2,0,1,2,0,Hispanic or Latino,Not Hispanic or Latino,2,Vandalism,2,Commercial Area,Disability Bias,Adult Only,Yes,No
+1997,City Police Department,AL,Alabama,1997-04-10,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residential Area,Racial Bias,Adult Only,No,No
+1997,County Police Department,ND,North Dakota,1997-05-15,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Intimidation,1,Highway/Road,Racial Bias,Juvenile Only,No,No
+1997,State Police,GA,Georgia,1997-06-20,2,0,1,2,0,Hispanic or Latino,Not Hispanic or Latino,2,Vandalism,2,Commercial Area,Disability Bias,Adult Only,Yes,No
+1997,Federal Bureau of Investigation,MO,Missouri,1997-07-05,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residential Area,Racial Bias,Adult Only,No,No
+1997,City Police Department,MI,Michigan,1997-08-10,0,1,1,0,1,Asian,Not Hispanic or Latino,1,Intimidation,1,Highway/Road,Racial Bias,Juvenile Only,No,No
+1997,County Police Department,ME,Maine,1997-09-15,2,0,1,2,0,Hispanic or Latino,Not Hispanic or Latino,2,Vandalism,2,Commercial Area,Disability Bias,Adult Only,Yes,No
+1998,State Police,UT,Utah,1998-01-10,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residential Area,Racial Bias,Adult Only,No,No
+1998,Federal Bureau of Investigation,CT,Connecticut,1998-02-15,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Intimidation,1,Highway/Road,Racial Bias,Juvenile Only,No,No
+1998,City Police Department,NE,Nebraska,1998-03-20,2,0,1,2,0,Hispanic or Latino,Not Hispanic or Latino,2,Vandalism,2,Commercial Area,Disability Bias,Adult Only,Yes,No
+1998,County Police Department,SD,South Dakota,1998-04-10,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residential Area,Racial Bias,Adult Only,No,No
+1998,State Police,ND,North Dakota,1998-05-15,0,1,1,0,1,Asian,Not Hispanic or Latino,1,Intimidation,1,Highway/Road,Racial Bias,Juvenile Only,No,No
+1998,Federal Bureau of Investigation,KY,Kentucky,1998-06-20,2,0,1,2,0,Hispanic or Latino,Not Hispanic or Latino,2,Vandalism,2,Commercial Area,Disability Bias,Adult Only,Yes,No
+1998,City Police Department,MS,Mississippi,1998-07-05,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residential Area,Racial Bias,Adult Only,No,No
+1998,County Police Department,KS,Kansas,1998-08-10,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Intimidation,1,Highway/Road,Racial Bias,Juvenile Only,No,No
+1998,State Police,ID,Idaho,1998-09-15,2,0,1,2,0,Hispanic or Latino,Not Hispanic or Latino,2,Vandalism,2,Commercial Area,Disability Bias,Adult Only,Yes,No
+1999,Federal Bureau of Investigation,NH,New Hampshire,1999-01-10,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residential Area,Racial Bias,Adult Only,No,No
+1999,City Police Department,LA,Louisiana,1999-02-15,0,1,1,0,1,Asian,Not Hispanic or Latino,1,Intimidation,1,Highway/Road,Racial Bias,Juvenile Only,No,No
+1999,County Police Department,GA,Georgia,1999-03-20,2,0,1,2,0,Hispanic or Latino,Not Hispanic or Latino,2,Vandalism,2,Commercial Area,Disability Bias,Adult Only,Yes,No
+1999,State Police,IL,Illinois,1999-04-10,1,0,1,1,0,White,Not Hispanic or Latino,1,Simple Assault,1,Residential Area,Racial Bias,Adult Only,No,No
+1999,Federal Bureau of Investigation,VT,Vermont,1999-05-15,0,1,1,0,1,Black or African American,Not Hispanic or Latino,1,Intimidation,1,Highway/Road,Racial Bias,Juvenile Only,No,No
+1999,City Police Department,RI,Rhode Island,1999-06-20,2,0,1,2,0,Hispanic or Latino,Not Hispanic or Latino,2,Vandalism,2,Commercial Area,Disability Bias,Adult Only,Yes,No
+1991,Local Police Department,,California,1/1/1991,1,0,1,1,0,Asian,Hispanic,1,Vandalism,1,San Francisco,Antisemitic,Adult,Yes,Yes
+1991,Sherriff's Department,,Texas,2/2/1991,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,Houston,Racist,Juvenile,Yes,Yes
+1991,State Police Department,,New York,3/3/1991,2,0,2,1,1,Black,Hispanic,2,Simple Assault,2,Albany,Antigay,Adult/Juvenile,No,No
+1991,County Police Department,,Florida,4/4/1991,1,0,1,1,0,Asian,Non-Hispanic,1,Aggravated Assault,1,Miami,Racist,Adult,No,No
+1991,Local Police Department,,Illinois,5/5/1991,0,1,1,0,1,White,Hispanic,1,Vandalism,1,Chicago,Antisemitic,Juvenile,Yes,Yes
+1991,Sherriff's Department,,Michigan,6/6/1991,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Detroit,Racist,Adult/Juvenile,Yes,Yes
+1991,State Police Department,,North Carolina,7/7/1991,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Raleigh,Antigay,Adult,Yes,No
+1991,County Police Department,,Ohio,8/8/1991,0,1,1,0,1,White,Non-Hispanic,1,Vandalism,1,Columbus,Racist,Juvenile,No,No
+1991,Local Police Department,,Pennsylvania,9/9/1991,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Pittsburgh,Antisemitic,Adult/Juvenile,Yes,Yes
+1991,Sherriff's Department,,Tennessee,10/10/1991,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Nashville,Racist,Adult,Yes,No
+1992,Local Police Department,,California,1/1/1992,0,1,1,0,1,White,Hispanic,1,Vandalism,1,San Francisco,Antisemitic,Juvenile,Yes,Yes
+1992,Sherriff's Department,,Texas,2/2/1992,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Houston,Racist,Adult/Juvenile,Yes,Yes
+1992,State Police Department,,New York,3/3/1992,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Albany,Antigay,Adult,Yes,No
+1992,County Police Department,,Florida,4/4/1992,0,1,1,0,1,White,Non-Hispanic,1,Aggravated Assault,1,Miami,Racist,Juvenile,No,No
+1992,Local Police Department,,Illinois,5/5/1992,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Chicago,Antisemitic,Adult/Juvenile,Yes,Yes
+1992,Sherriff's Department,,Michigan,6/6/1992,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Detroit,Racist,Adult,Yes,No
+1992,State Police Department,,North Carolina,7/7/1992,0,1,1,0,1,White,Hispanic,1,Vandalism,1,Raleigh,Antigay,Juvenile,Yes,Yes
+1992,County Police Department,,Ohio,8/8/1992,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Columbus,Racist,Adult/Juvenile,Yes,Yes
+1992,Local Police Department,,Pennsylvania,9/9/1992,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Pittsburgh,Antisemitic,Adult,Yes,No
+1992,Sherriff's Department,,Tennessee,10/10/1992,0,2,2,0,2,White,Non-Hispanic,2,Vandalism,2,Nashville,Racist,Juvenile/Adult,No,No
+1993,Local Police Department,,California,1/1/1993,1,0,1,1,0,Asian,Hispanic,1,Aggravated Assault,1,San Francisco,Antigay,Adult,Yes,No
+1993,Sherriff's Department,,Texas,2/2/1993,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Houston,Racist,Adult/Juvenile,Yes,Yes
+1993,State Police Department,,New York,3/3/1993,0,1,1,0,1,White,Hispanic,1,Vandalism,1,Albany,Antisemitic,Juvenile,Yes,Yes
+1993,County Police Department,,Florida,4/4/1993,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Miami,Racist,Adult,Yes,No
+1993,Local Police Department,,Illinois,5/5/1993,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Chicago,Antisemitic,Adult/Juvenile,Yes,Yes
+1993,Sherriff's Department,,Michigan,6/6/1993,0,1,1,0,1,White,Hispanic,1,Aggravated Assault,1,Detroit,Racist,Juvenile,Yes,No
+1993,State Police Department,,North Carolina,7/7/1993,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Raleigh,Antigay,Adult,Yes,No
+1993,County Police Department,,Ohio,8/8/1993,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Columbus,Racist,Adult/Juvenile,Yes,Yes
+1993,Local Police Department,,Pennsylvania,9/9/1993,0,2,2,0,2,White,Non-Hispanic,2,Vandalism,2,Pittsburgh,Racist,Juvenile/Adult,No,No
+1993,Sherriff's Department,,Tennessee,10/10/1993,1,0,1,1,0,Asian,Hispanic,1,Aggravated Assault,1,Nashville,Antigay,Adult,Yes,No
+1994,Local Police Department,,California,1/1/1994,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,San Francisco,Racist,Adult/Juvenile,Yes,Yes
+1994,Sherriff's Department,,Texas,2/2/1994,0,1,1,0,1,White,Hispanic,1,Vandalism,1,Houston,Racist,Juvenile,Yes,Yes
+1994,State Police Department,,New York,3/3/1994,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Albany,Antigay,Adult,Yes,No
+1994,County Police Department,,Florida,4/4/1994,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Miami,Antisemitic,Adult/Juvenile,Yes,Yes
+1994,Local Police Department,,Illinois,5/5/1994,0,1,1,0,1,White,Hispanic,1,Aggravated Assault,1,Chicago,Racist,Juvenile,Yes,No
+1994,Sherriff's Department,,Michigan,6/6/1994,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Detroit,Racist,Adult,Yes,No
+1994,State Police Department,,North Carolina,7/7/1994,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Raleigh,Antisemitic,Adult/Juvenile,Yes,Yes
+1994,County Police Department,,Ohio,8/8/1994,0,2,2,0,2,White,Non-Hispanic,2,Vandalism,2,Columbus,Racist,Juvenile/Adult,No,No
+1994,Local Police Department,,Pennsylvania,9/9/1994,1,0,1,1,0,Asian,Hispanic,1,Aggravated Assault,1,Pittsburgh,Antigay,Adult,Yes,No
+1994,Sherriff's Department,,Tennessee,10/10/1994,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Nashville,Racist,Adult/Juvenile,Yes,Yes
+1995,Local Police Department,,California,1/1/1995,0,1,1,0,1,White,Hispanic,1,Vandalism,1,San Francisco,Racist,Juvenile,Yes,Yes
+1995,Sherriff's Department,,Texas,2/2/1995,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Houston,Antigay,Adult,Yes,No
+1995,State Police Department,,New York,3/3/1995,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Albany,Racist,Adult/Juvenile,Yes,Yes
+1995,County Police Department,,Florida,4/4/1995,0,2,2,0,2,White,Non-Hispanic,2,Vandalism,2,Miami,Antisemitic,Juvenile/Adult,No,No
+1995,Local Police Department,,Illinois,5/5/1995,1,0,1,1,0,Asian,Hispanic,1,Aggravated Assault,1,Chicago,Racist,Adult,Yes,No
+1995,Sherriff's Department,,Michigan,6/6/1995,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Detroit,Antisemitic,Adult/Juvenile,Yes,Yes
+1995,State Police Department,,North Carolina,7/7/1995,0,1,1,0,1,White,Hispanic,1,Vandalism,1,Raleigh,Racist,Juvenile,Yes,Yes
+1995,County Police Department,,Ohio,8/8/1995,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Columbus,Antigay,Adult,Yes,No
+1995,Local Police Department,,Pennsylvania,9/9/1995,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Pittsburgh,Racist,Adult/Juvenile,Yes,Yes
+1995,Sherriff's Department,,Tennessee,10/10/1995,0,2,2,0,2,White,Non-Hispanic,2,Vandalism,2,Nashville,Racist,Juvenile/Adult,No,No
+1996,Local Police Department,,California,1/1/1996,1,0,1,1,0,Asian,Hispanic,1,Aggravated Assault,1,San Francisco,Antigay,Adult,Yes,No
+1996,Sherriff's Department,,Texas,2/2/1996,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Houston,Racist,Adult/Juvenile,Yes,Yes
+1996,State Police Department,,New York,3/3/1996,0,1,1,0,1,White,Hispanic,1,Vandalism,1,Albany,Racist,Juvenile,Yes,Yes
+1996,County Police Department,,Florida,4/4/1996,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Miami,Antisemitic,Adult,Yes,No
+1996,Local Police Department,,Illinois,5/5/1996,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Chicago,Racist,Adult/Juvenile,Yes,Yes
+1996,Sherriff's Department,,Michigan,6/6/1996,0,2,2,0,2,White,Non-Hispanic,2,Vandalism,2,Detroit,Antisemitic,Juvenile/Adult,No,No
+1996,State Police Department,,North Carolina,7/7/1996,1,0,1,1,0,Asian,Hispanic,1,Aggravated Assault,1,Raleigh,Racist,Adult,Yes,No
+1996,County Police Department,,Ohio,8/8/1996,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Columbus,Antigay,Adult/Juvenile,Yes,Yes
+1996,Local Police Department,,Pennsylvania,9/9/1996,0,1,1,0,1,White,Hispanic,1,Vandalism,1,Pittsburgh,Racist,Juvenile,Yes,Yes
+1996,Sherriff's Department,,Tennessee,10/10/1996,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Nashville,Antisemitic,Adult/Juvenile,Yes,Yes

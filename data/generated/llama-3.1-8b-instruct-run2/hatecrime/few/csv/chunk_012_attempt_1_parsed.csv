@@ -1,0 +1,51 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2009,City,CA,California,2009-02-22,,,1,,,White,Not Hispanic or Latino,1,Simple Assault,1.0,Public Park,Anti-Hispanic,Individual,S,S
+2012,Town,GA,Georgia,2012-06-15,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Business,Anti-Lesbian,Gay,Bisexual or Transgender,Individual
+2002,State,FL,Florida,2002-04-05,1.0,0.0,1,1.0,0.0,American Indian or Alaska Native,Not Hispanic or Latino,1,Simple Assault,1.0,Public Building,Anti-White,Individual,S,S
+2005,Other,IL,Illinois,2005-10-11,1.0,0.0,2,1.0,1.0,White,Not Hispanic or Latino,1,Aggravated Assault,2.0,Railroad,Anti-Asian,Individual,S,S
+2010,Municipality,NY,New York,2010-05-23,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Public Transportation,Anti-Gay (Male),Individual,S,S
+1995,Town,NC,North Carolina,1995-11-27,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Lesbian,Gay,Bisexual or Transgender,Individual
+2014,State,AL,Alabama,2014-06-27,2.0,0.0,2,2.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,2.0,School/College,Anti-White,Other,S,S
+2001,City,MA,Massachusetts,2001-05-29,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Public Building,Anti-Lesbian,Gay,Bisexual or Transgender,Individual
+2007,Municipality,MI,Michigan,2007-02-10,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Public Park,Anti-Asian,Individual,S,S
+2013,Other,OH,Ohio,2013-03-05,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Retail Store,Anti-White,Individual,S,S
+2006,Town,WI,Wisconsin,2006-10-23,2.0,0.0,2,2.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Lesbian,Gay,Bisexual or Transgender,Other
+2003,State,TX,Texas,2003-06-18,1.0,0.0,1,1.0,0.0,American Indian or Alaska Native,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Asian,Individual,S,S
+2011,City,SC,South Carolina,2011-03-02,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Public Park,Anti-Lesbian,Gay,Bisexual or Transgender,Individual
+1994,Other,PA,Pennsylvania,1994-09-22,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Business,Anti-Hispanic,Individual,S,S
+2008,Municipality,IN,Indiana,2008-01-29,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Public Transportation,Anti-Asian,Individual,S,S
+2016,Town,NM,New Mexico,2016-08-04,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-White,Individual,S,S
+2000,State,GA,Georgia,2000-04-06,2.0,0.0,2,2.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,2.0,Public Building,Anti-Asian,Other,S,S
+1998,City,FL,Florida,1998-07-03,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Public Park,Anti-Lesbian,Gay,Bisexual or Transgender,Individual
+2004,City,OH,Ohio,2004-05-25,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Public Building,Anti-Hispanic,Individual,S,S
+1993,Town,NC,North Carolina,1993-09-16,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Public Park,Anti-Asian,Individual,S,S
+2018,Municipality,VT,Vermont,2018-03-18,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Public Building,Anti-White,Individual,S,S
+2009,State,NJ,New Jersey,2009-08-16,1.0,0.0,1,1.0,0.0,American Indian or Alaska Native,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Asian,Individual,S,S
+1999,Municipality,MI,Michigan,1999-01-23,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Public Park,Anti-Hispanic,Individual,S,S
+2015,City,AL,Alabama,2015-02-19,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Public Building,Anti-White,Individual,S,S
+2002,Town,MA,Massachusetts,2002-09-12,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Public Park,Anti-Lesbian,Gay,Bisexual or Transgender,Individual
+1996,Municipality,TN,Tennessee,1996-08-16,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Public Park,Anti-Asian,Individual,S,S
+2012,State,WI,Wisconsin,2012-05-02,2.0,0.0,2,2.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Other,S,S
+2017,Other,GA,Georgia,2017-06-05,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Public Building,Anti-Lesbian,Gay,Bisexual or Transgender,Individual
+2005,Municipality,CA,California,2005-04-19,2.0,0.0,2,2.0,0.0,American Indian or Alaska Native,Not Hispanic or Latino,1,Simple Assault,2.0,Public Park,Anti-Asian,Other,S,S
+1992,Town,PA,Pennsylvania,1992-06-21,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Public Building,Anti-Gay (Male),Individual,S,S
+2007,State,IL,Illinois,2007-08-09,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Public Building,Anti-Hispanic,Individual,S,S
+2019,City,NM,New Mexico,2019-04-06,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Public Park,Anti-Lesbian,Gay,Bisexual or Transgender,Individual
+1998,Municipality,MO,Missouri,1998-02-25,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Public Building,Anti-Hispanic,Individual,S,S
+2006,Town,SC,South Carolina,2006-06-15,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Public Park,Anti-Asian,Individual,S,S
+2003,State,NC,North Carolina,2003-09-11,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Public Park,Anti-Lesbian,Gay,Bisexual or Transgender,Individual
+2014,Municipality,MA,Massachusetts,2014-01-21,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Public Building,Anti-Asian,Individual,S,S
+1994,State,VT,Vermont,1994-08-05,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Public Park,Anti-Lesbian,Gay,Bisexual or Transgender,Individual
+2006,City,IN,Indiana,2006-10-27,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Public Park,Anti-Hispanic,Individual,S,S
+1991,State,ME,Maine,1991-09-19,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Public Park,Anti-Lesbian,Gay,Bisexual or Transgender,Individual
+2013,Town,CA,California,2013-04-11,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Public Building,Anti-Hispanic,Individual,S,S
+2009,Municipality,GA,Georgia,2009-01-28,2.0,0.0,2,2.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,2.0,Business,Anti-White,Other,S,S
+2009,State,NC,North Carolina,2009-06-17,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Public Park,Anti-Asian,Individual,S,S
+1996,Other,NY,New York,1996-08-08,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Asian,Individual,S,S
+2008,Town,WI,Wisconsin,2008-06-28,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Public Park,Anti-Lesbian,Gay,Bisexual or Transgender,Individual
+2015,City,VT,Vermont,2015-01-23,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Public Building,Anti-Asian,Individual,S,S
+2005,State,AL,Alabama,2005-02-18,1.0,0.0,1,1.0,0.0,American Indian or Alaska Native,Not Hispanic or Latino,1,Simple Assault,1.0,Public Park,Anti-Gay (Male),Individual,S,S
+2002,Other,FL,Florida,2002-11-25,2.0,0.0,2,2.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,2.0,Public Building,Anti-Lesbian,Gay,Bisexual or Transgender,Other
+2019,Town,NY,New York,2019-08-27,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Public Park,Anti-Hispanic,Individual,S,S
+2010,Municipality,MD,Maryland,2010-03-20,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Public Building,Anti-Lesbian,Gay,Bisexual or Transgender,Individual
+1997,State,CO,Colorado,1997-10-24,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Public Park,Anti-Hispanic,Individual,S,S

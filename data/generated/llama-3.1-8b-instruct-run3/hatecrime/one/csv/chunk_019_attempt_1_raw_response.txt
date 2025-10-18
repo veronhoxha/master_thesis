@@ -1,0 +1,39 @@
+2004,City,IL,Illinois,2004-07-02,0,0,1,1,0,Unknown,Not Specified,1,Murder,1.0,Residence,Anti-White,Adult,V
+2008,Township,CT,Connecticut,2008-12-19,0,0,1,0,1,White,Not Specified,1,Vandalism,1.0,Residence,Anti-Asian,Adult,V
+2012,City,MA,Massachusetts,2012-06-05,1,0,1,1,0,Hispanic or Latino,Not Specified,1,Intimidation,1.0,Residence,Anti-Hispanic or Latino,Adult,A
+2001,City,CA,California,2001-09-28,0,0,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,Residence,Anti-Jewish,Other,V
+2009,City,NY,New York,2009-02-14,1,0,1,1,0,White,Not Specified,1,Robbery,1.0,Residence,Anti-White,Adult,A
+2003,Township,GA,Georgia,2003-09-03,0,0,1,0,1,Asian,Not Specified,1,Aggravated Assault,1.0,Residence,Anti-Asian,Adult,V
+2010,County,OH,Ohio,2010-08-11,1,0,1,0,1,Hispanic or Latino,Not Specified,1,Vandalism,1.0,Residence,Anti-Hispanic or Latino,Adult,A
+2007,City,FL,Florida,2007-03-01,1,0,1,1,0,Black or African American,Not Specified,1,Simple Assault,1.0,Residence,Anti-Black or African American,Adult,V
+2002,City,NC,North Carolina,2002-09-24,0,0,1,0,1,Unknown,Not Specified,1,Intimidation,1.0,Residence,Anti-Jewish,Other,V
+2005,City,MI,Michigan,2005-11-17,0,0,1,0,1,White,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-White,Adult,A
+2011,City,WI,Wisconsin,2011-04-06,0,0,1,0,1,Hispanic or Latino,Not Specified,1,Simple Assault,1.0,Residence,Anti-Hispanic or Latino,Adult,V
+2006,Township,TX,Texas,2006-11-23,1,0,1,1,0,Asian,Not Specified,1,Robbery,1.0,Residence,Anti-Asian,Adult,A
+1997,City,PA,Pennsylvania,1997-10-27,0,0,1,0,1,Unknown,Not Specified,1,Murder,1.0,Residence,Anti-White,Adult,V
+2008,City,OR,Oregon,2008-07-19,0,0,1,0,1,Hispanic or Latino,Not Specified,1,Intimidation,1.0,Residence,Anti-Hispanic or Latino,Adult,A
+2004,County,SC,South Carolina,2004-01-15,1,0,1,0,1,Black or African American,Not Specified,1,Simple Assault,1.0,Residence,Anti-Black or African American,Adult,V
+2013,City,IN,Indiana,2013-02-22,0,0,1,0,1,White,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-White,Adult,A
+2009,Township,LA,Louisiana,2009-01-10,0,0,1,0,1,Asian,Not Specified,1,Robbery,1.0,Residence,Anti-Asian,Adult,V
+2014,City,DE,Delaware,2014-08-21,1,0,1,0,1,Hispanic or Latino,Not Specified,1,Intimidation,1.0,Residence,Anti-Hispanic or Latino,Adult,V
+2003,City,MO,Missouri,2003-02-05,0,0,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,Residence,Anti-Jewish,Other,A
+2006,City,AL,Alabama,2006-11-29,0,0,1,1,0,Black or African American,Not Specified,1,Murder,1.0,Residence,Anti-Black or African American,Adult,V
+2005,Township,KY,Kentucky,2005-08-13,1,0,1,0,1,Hispanic or Latino,Not Specified,1,Vandalism,1.0,Residence,Anti-Hispanic or Latino,Adult,A
+2002,City,MS,Mississippi,2002-05-21,0,0,1,1,0,White,Not Specified,1,Simple Assault,1.0,Residence,Anti-White,Adult,V
+2009,County,VT,Vermont,2009-11-16,0,0,1,0,1,Asian,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Asian,Adult,A
+2012,County,IA,Iowa,2012-02-25,0,0,1,0,1,Black or African American,Not Specified,1,Vandalism,1.0,Residence,Anti-Black or African American,Adult,V
+2008,City,GA,Georgia,2008-05-01,1,0,1,0,1,Unknown,Not Specified,1,Robbery,1.0,Residence,Anti-Jewish,Other,V
+2004,County,WI,Wisconsin,2004-05-24,0,0,1,0,1,Hispanic or Latino,Not Specified,1,Intimidation,1.0,Residence,Anti-Hispanic or Latino,Adult,A
+2005,County,NJ,New Jersey,2005-09-23,1,0,1,0,1,White,Not Specified,1,Murder,1.0,Residence,Anti-White,Adult,V
+2001,City,CO,Colorado,2001-01-29,0,0,1,0,1,Asian,Not Specified,1,Vandalism,1.0,Residence,Anti-Asian,Adult,A
+2010,City,MA,Massachusetts,2010-02-03,0,0,1,0,1,Black or African American,Not Specified,1,Simple Assault,1.0,Residence,Anti-Black or African American,Adult,V
+2007,City,CT,Connecticut,2007-09-04,0,0,1,0,1,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Jewish,Other,A
+2004,City,OH,Ohio,2004-10-26,0,0,1,0,1,Hispanic or Latino,Not Specified,1,Robbery,1.0,Residence,Anti-Hispanic or Latino,Adult,V
+2009,City,IA,Iowa,2009-09-18,1,0,1,0,1,White,Not Specified,1,Murder,1.0,Residence,Anti-White,Adult,V
+2006,County,AK,Alaska,2006-04-22,0,0,1,0,1,Black or African American,Not Specified,1,Vandalism,1.0,Residence,Anti-Black or African American,Adult,A
+2005,County,ND,North Dakota,2005-01-11,0,0,1,0,1,Asian,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Asian,Adult,A
+2001,City,ME,Maine,2001-03-06,1,0,1,0,1,Hispanic or Latino,Not Specified,1,Simple Assault,1.0,Residence,Anti-Hispanic or Latino,Adult,V
+2008,City,IN,Indiana,2008-03-28,0,0,1,1,0,White,Not Specified,1,Robbery,1.0,Residence,Anti-White,Adult,V
+2011,City,MT,Montana,2011-07-27,0,0,1,0,1,Asian,Not Specified,1,Intimidation,1.0,Residence,Anti-Asian,Adult,V
+2009,City,NY,New York,2009-09-25,1,0,1,0,1,Hispanic or Latino,Not Specified,1,Vandalism,1.0,Residence,Anti-Hispanic or Latino,Adult,A
+2013,City,VT,Vermont,2013-09-04,0,0,1,0,1,Black or African American,Not Specified,1,Murder,1.0,Residence,Anti-Black or African American,Adult,V

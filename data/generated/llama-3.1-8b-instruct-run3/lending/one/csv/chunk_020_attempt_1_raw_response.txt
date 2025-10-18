@@ -1,0 +1,59 @@
+"activity_year","derived_msa-md","state_code","county_code","census_tract","derived_loan_product_type","derived_dwelling_category","derived_ethnicity","derived_race","derived_sex","action_taken","loan_purpose","loan_amount","loan_to_value_ratio","interest_rate","rate_spread","hoepa_status","total_loan_costs","total_points_and_fees","origination_charges","discount_points","lender_credits","loan_term","prepayment_penalty_term","intro_rate_period","negative_amortization","interest_only_payment","balloon_payment","other_nonamortizing_features","property_value","construction_method","occupancy_type","manufactured_home_secured_property_type","manufactured_home_land_property_interest","total_units","multifamily_affordable_units","income","debt_to_income_ratio","applicant_credit_score_type","co-applicant_credit_score_type","applicant_ethnicity-1","co-applicant_ethnicity-1","applicant_ethnicity_observed","co-applicant_ethnicity_observed","applicant_race-1","co-applicant_race-1","applicant_race_observed","co-applicant_race_observed","applicant_sex","co-applicant_sex","applicant_sex_observed","co-applicant_sex_observed","applicant_age","co-applicant_age","applicant_age_above_62","co-applicant_age_above_62","submission_of_application","initially_payable_to_institution"
+
+"2024","Bridgeport-Stamford-Norwalk, CT","CT","002","14212000800.0","FHA: Single Family Home","Single Family (1-4 Units): Site-Built","Not Hispanic or Latino","White","Female","Loan originator did not verify income",14,36000.0,,,,,1,,,,,,,240,,,3,3,3,3,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,3.0,8.0,2,5,0,5,2,5,45-54,Yes,,1,1
+
+"2024","Baltimore-Columbia-Towson, MD","MD","024","2402009000.0","VA: Single Family Home","Single Family (1-4 Units): Site-Built","Hispanic or Latino","Other Asian","Male","File closed for incompleteness",36,22000.0,,,,,2,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,5.0,8.0,2,4,1,5,2,4,55-64,Yes,,1,1
+
+"2024","Los Angeles-Long Beach-Anaheim, CA","CA","037","1403100000.0","USDA: Single Family Home","Single Family (1-4 Units): Site-Built","Not Hispanic or Latino","American Indian or Alaska Native","Female","Loan originator did not verify income",28,28000.0,,,,,3,,,,,,240,,,3,3,3,3,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,3.0,8.0,2,5,0,5,2,5,65-74,Yes,,1,1
+
+"2024","New York-Newark-Jersey City, NY-NJ-PA","NY","036","42005080200.0","FHA: Single Family Home","Single Family (1-4 Units): Site-Built","Not Hispanic or Latino","White","Male","File closed for incompleteness",32,24000.0,,,,,1,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,5.0,8.0,2,4,1,5,2,4,45-54,Yes,,1,1
+
+"2024","Chicago-Naperville-Elgin, IL-IN-WI","IL","171","17003001300.0","Conventional: Strip Lien","Single Family (1-4 Units): Site-Built","Hispanic or Latino","Asian","Female","File closed for incompleteness",29,20000.0,,,,,3,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,3.0,8.0,2,5,0,5,2,5,55-64,Yes,,1,1
+
+"2024","Washington-Baltimore-Arlington, DC-MD-VA","DC","110","2401900000.0","FHA: Single Family Home","Single Family (1-4 Units): Site-Built","Not Hispanic or Latino","White","Male","File closed for incompleteness",22,38000.0,,,,,1,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,5.0,8.0,2,4,1,5,2,4,65-74,Yes,,1,1
+
+"2024","Dallas-Fort Worth, TX","TX","481","4814108000.0","VA: Single Family Home","Single Family (1-4 Units): Site-Built","Not Hispanic or Latino","White","Female","File closed for incompleteness",33,26000.0,,,,,1,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,3.0,8.0,2,5,0,5,2,5,45-54,Yes,,1,1
+
+"2024","Houston-The Woodlands, TX","TX","480","4817101000.0","FHA: Single Family Home","Single Family (1-4 Units): Site-Built","Not Hispanic or Latino","White","Male","File closed for incompleteness",35,25000.0,,,,,2,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,5.0,8.0,2,4,1,5,2,4,55-64,Yes,,1,1
+
+"2024","Seattle-Tacoma-Bellevue, WA","WA","530","53093580100.0","Conventional: Single Family Home","Single Family (1-4 Units): Site-Built","Not Hispanic or Latino","White","Female","File closed for incompleteness",26,36000.0,,,,,3,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,3.0,8.0,2,5,0,5,2,5,65-74,Yes,,1,1
+
+"2024","Miami-Fort Lauderdale-West Palm Beach, FL","FL","120","12065000200.0","FHA: Single Family Home","Single Family (1-4 Units): Site-Built","Not Hispanic or Latino","White","Male","File closed for incompleteness",31,28000.0,,,,,1,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,5.0,8.0,2,4,1,5,2,4,45-54,Yes,,1,1
+
+"2024","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","PA","421","42091020800.0","VA: Single Family Home","Single Family (1-4 Units): Site-Built","Not Hispanic or Latino","White","Female","File closed for incompleteness",38,24000.0,,,,,2,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,3.0,8.0,2,5,0,5,2,5,55-64,Yes,,1,1
+
+"2024","Minneapolis-St Paul-Bloomington, MN-WI","MN","271","27093000800.0","Conventional: Single Family Home","Single Family (1-4 Units): Site-Built","Not Hispanic or Latino","White","Male","File closed for incompleteness",25,38000.0,,,,,3,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,5.0,8.0,2,4,1,5,2,4,65-74,Yes,,1,1
+
+"2024","San Jose-Sunnyvale-Santa Clara, CA","CA","069","0690200000.0","FHA: Single Family Home","Single Family (1-4 Units): Site-Built","Not Hispanic or Latino","White","Female","File closed for incompleteness",30,32000.0,,,,,1,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,3.0,8.0,2,5,0,5,2,5,45-54,Yes,,1,1
+
+"2024","Denver-Aurora-Lakewood, CO","CO","080","0800300000.0","Conventional: Single Family Home","Single Family (1-4 Units): Site-Built","Not Hispanic or Latino","White","Male","File closed for incompleteness",40,30000.0,,,,,2,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,5.0,8.0,2,4,1,5,2,4,55-64,Yes,,1,1
+
+"2024","San Francisco-Oakland-Hayward, CA","CA","069","06904001800.0","VA: Single Family Home","Single Family (1-4 Units): Site-Built","Not Hispanic or Latino","White","Female","File closed for incompleteness",24,42000.0,,,,,3,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,3.0,8.0,2,5,0,5,2,5,65-74,Yes,,1,1
+
+"2024","Boston-Cambridge-Nashua, MA-NH","MA","250","25061000600.0","Conventional: Single Family Home","Single Family (1-4 Units): Site-Built","Not Hispanic or Latino","White","Male","File closed for incompleteness",41,32000.0,,,,,1,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,5.0,8.0,2,4,1,5,2,4,45-54,Yes,,1,1
+
+"2024","Charlotte-Concord-Gastonia, NC-SC","NC","370","37123001200.0","FHA: Single Family Home","Single Family (1-4 Units): Site-Built","Not Hispanic or Latino","White","Female","File closed for incompleteness",27,36000.0,,,,,2,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,3.0,8.0,2,5,0,5,2,5,55-64,Yes,,1,1
+
+"2024","Phoenix-Mesa-Scottsdale, AZ","AZ","040","0400400000.0","Conventional: Single Family Home","Single Family (1-4 Units): Site-Built","Not Hispanic or Latino","White","Male","File closed for incompleteness",39,38000.0,,,,,3,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,5.0,8.0,2,4,1,5,2,4,45-54,Yes,,1,1
+
+"2024","St Louis, MO-IL","MO","295","29501061000.0","VA: Single Family Home","Single Family (1-4 Units): Site-Built","Not Hispanic or Latino","White","Female","File closed for incompleteness",36,28000.0,,,,,1,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,3.0,8.0,2,5,0,5,2,5,55-64,Yes,,1,1
+
+"2024","Columbus, OH","OH","390","3908009000.0","FHA: Single Family Home","Single Family (1-4 Units): Site-Built","Not Hispanic or Latino","White","Male","File closed for incompleteness",28,24000.0,,,,,3,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,5.0,8.0,2,4,1,5,2,4,65-74,Yes,,1,1
+
+"2024","Indianapolis-Carmel-Anderson, IN","IN","180","1800600000.0","Conventional: Single Family Home","Single Family (1-4 Units): Site-Built","Not Hispanic or Latino","White","Female","File closed for incompleteness",42,30000.0,,,,,2,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,3.0,8.0,2,5,0,5,2,5,45-54,Yes,,1,1
+
+"2024","Austin-Round Rock, TX","TX","481","4811101000.0","FHA: Single Family Home","Single Family (1-4 Units): Site-Built","Not Hispanic or Latino","White","Male","File closed for incompleteness",43,26000.0,,,,,1,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,5.0,8.0,2,4,1,5,2,4,55-64,Yes,,1,1
+
+"2024","San Antonio-New Braunfels, TX","TX","481","48123000200.0","VA: Single Family Home","Single Family (1-4 Units): Site-Built","Not Hispanic or Latino","White","Female","File closed for incompleteness",44,29000.0,,,,,3,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,3.0,8.0,2,5,0,5,2,5,65-74,Yes,,1,1
+
+"2024","Jacksonville, FL","FL","120","12035000400.0","FHA: Single Family Home","Single Family (1-4 Units): Site-Built","Not Hispanic or Latino","White","Male","File closed for incompleteness",45,32000.0,,,,,2,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,5.0,8.0,2,4,1,5,2,4,45-54,Yes,,1,1
+
+"2024","Louisville/Jefferson County, KY-IN","KY","210","2110108000.0","Conventional: Single Family Home","Single Family (1-4 Units): Site-Built","Not Hispanic or Latino","White","Female","File closed for incompleteness",46,25000.0,,,,,1,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,3.0,8.0,2,5,0,5,2,5,55-64,Yes,,1,1
+
+"2024","Portland-Vancouver-Hillsboro, OR-WA","OR","410","41006001400.0","FHA: Single Family Home","Single Family (1-4 Units): Site-Built","Not Hispanic or Latino","White","Male","File closed for incompleteness",47,28000.0,,,,,3,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,5.0,8.0,2,4,1,5,2,4,45-54,Yes,,1,1
+
+"2024","Oklahoma City, OK","OK","740","7409309000.0","VA: Single Family Home","Single Family (1-4 Units): Site-Built","Not Hispanic or Latino","White","Female","File closed for incompleteness",48,24000.0,,,,,2,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,3.0,8.0,2,5,0,5,2,5,65-74,Yes,,1,1
+
+"2024","Providence-Warwick, RI-MA","RI","440","44006000600.0","Conventional: Single Family Home","Single Family (1-4 Units): Site-Built","Not Hispanic or Latino","White","Male","File closed for incompleteness",49,26000.0,,,,,1,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,5.0,8.0,2,4,1,5,2,4,55-64,Yes,,1,1
+
+"2024","Raleigh-Durham-Chapel Hill, NC","NC","370","3716400000.0","FHA: Single Family Home","Single Family (1-4 Units): Site-Built","Not Hispanic or Latino","White","Female","File closed for incompleteness",50,29000.0,,,,,3,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,3.0,8.0,2,5,0,5,2,5,45-54,Yes,,1,1

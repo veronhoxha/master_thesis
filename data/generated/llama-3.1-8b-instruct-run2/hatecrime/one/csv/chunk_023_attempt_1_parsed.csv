@@ -1,0 +1,49 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+"2009""",City,CA,California,2009-07-14,1,0,1,1,0,Asian,Asian,2,Simple Assault,2.0,Residential Area,Anti-Hispanic or Latino,Individual,Hate Crime Incident,Hate Crime of a Bias-Motivated Crime Against the Person
+2009,City,FL,Florida,2009-10-16,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Vandalism,1.0,Residential Area,Anti-Jewish,Other,S,S
+2009,Township,IL,Illinois,2009-03-25,0,1,1,1,0,Native American/Native Alaskan,Native American/Native Alaskan,1,Simple Assault,1.0,Public Park or Recreation Area,Anti-White,Other,M,M
+2009,City,TX,Texas,2009-12-15,2,0,2,2,0,Unknown,Not Specified,2,Destruction/Damage/Vandalism of Property,2.0,Residential Area,Anti-Asian,Other,S,S
+2009,City,OH,Ohio,2009-05-10,0,1,1,1,0,Black or African American,Black or African American,1,Intimidation,1.0,School/College,Anti-Asian,Other,M,M
+2009,Suburban Area,GA,Georgia,2009-08-05,1,0,1,1,0,White,White,1,Simple Assault,1.0,Residential Area,Anti-Hispanic or Latino,Other,S,S
+2009,City,MA,Massachusetts,2009-06-20,0,1,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1.0,Public Park or Recreation Area,Anti-White,Other,M,M
+2009,Township,MI,Michigan,2009-02-14,1,0,1,1,0,Asian,Asian,1,Simple Assault,1.0,School/College,Anti-Asian,Other,M,M
+2009,City,NC,North Carolina,2009-09-01,1,0,1,1,0,Black or African American,Black or African American,1,Destruction/Damage/Vandalism of Property,1.0,Residential Area,Anti-Jewish,Other,S,S
+2009,City,AZ,Arizona,2009-11-14,0,1,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,Public Park or Recreation Area,Anti-White,Other,M,M
+2009,City,CO,Colorado,2009-04-10,1,0,1,1,0,White,White,1,Intimidation,1.0,School/College,Anti-Jewish,Other,M,M
+2009,Suburban Area,PA,Pennsylvania,2009-06-21,0,1,1,1,0,Native American/Native Alaskan,Native American/Native Alaskan,1,Destruction/Damage/Vandalism of Property,1.0,Residential Area,Anti-Asian,Other,S,S
+2009,City,AL,Alabama,2009-07-25,2,0,2,2,0,Unknown,Not Specified,2,Vandalism,2.0,Public Park or Recreation Area,Anti-Hispanic or Latino,Other,S,S
+2009,City,KY,Kentucky,2009-03-28,1,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,1.0,School/College,Anti-Asian,Other,M,M
+2009,Township,NJ,New Jersey,2009-09-02,0,1,1,1,0,White,White,1,Intimidation,1.0,Public Park or Recreation Area,Anti-Jewish,Other,M,M
+2009,City,OK,Oklahoma,2009-12-18,1,0,1,1,0,Asian,Asian,1,Destruction/Damage/Vandalism of Property,1.0,Residential Area,Anti-Hispanic or Latino,Other,S,S
+2009,City,SC,South Carolina,2009-05-12,0,1,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,School/College,Anti-White,Other,M,M
+2009,City,IN,Indiana,2009-01-17,1,0,1,1,0,Black or African American,Black or African American,1,Destruction/Damage/Vandalism of Property,1.0,Residential Area,Anti-Asian,Other,S,S
+2009,Suburban Area,CT,Connecticut,2009-08-07,0,1,1,1,0,Native American/Native Alaskan,Native American/Native Alaskan,1,Intimidation,1.0,Public Park or Recreation Area,Anti-Hispanic or Latino,Other,M,M
+2009,City,TN,Tennessee,2009-10-22,1,0,1,1,0,White,White,1,Vandalism,1.0,School/College,Anti-Jewish,Other,M,M
+2009,Township,VT,Vermont,2009-04-08,0,1,1,1,0,Asian,Asian,1,Simple Assault,1.0,Residential Area,Anti-White,Other,S,S
+2009,City,IA,Iowa,2009-11-09,1,0,1,1,0,Black or African American,Black or African American,1,Intimidation,1.0,Public Park or Recreation Area,Anti-Asian,Other,M,M
+2009,City,WY,Wyoming,2009-06-05,0,1,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,School/College,Anti-Jewish,Other,M,M
+2009,City,UT,Utah,2009-03-21,1,0,1,1,0,White,White,1,Intimidation,1.0,Residential Area,Anti-Black or African American,Other,S,S
+2009,Suburban Area,RI,Rhode Island,2009-09-25,0,1,1,1,0,Native American/Native Alaskan,Native American/Native Alaskan,1,Simple Assault,1.0,Public Park or Recreation Area,Anti-Hispanic or Latino,Other,M,M
+2009,City,DE,Delaware,2009-02-14,1,0,1,1,0,Asian,Asian,1,Intimidation,1.0,School/College,Anti-Jewish,Other,M,M
+2009,City,MO,Missouri,2009-01-20,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Residential Area,Anti-Asian,Other,S,S
+2009,Township,NV,Nevada,2009-11-16,0,1,1,1,0,White,White,1,Vandalism,1.0,Public Park or Recreation Area,Anti-White,Other,M,M
+2009,City,OR,Oregon,2009-08-28,1,0,1,1,0,Black or African American,Black or African American,1,Intimidation,1.0,School/College,Anti-Jewish,Other,M,M
+2009,Suburban Area,ME,Maine,2009-04-22,0,1,1,1,0,Native American/Native Alaskan,Native American/Native Alaskan,1,Simple Assault,1.0,Public Park or Recreation Area,Anti-Asian,Other,M,M
+2009,City,KS,Kansas,2009-05-13,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Residential Area,Anti-White,Other,S,S
+2009,City,AR,Arkansas,2009-07-01,0,1,1,1,0,Asian,Asian,1,Intimidation,1.0,Public Park or Recreation Area,Anti-Black or African American,Other,M,M
+2009,Suburban Area,ND,North Dakota,2009-03-05,1,0,1,1,0,White,White,1,Simple Assault,1.0,Residential Area,Anti-Jewish,Other,S,S
+2009,City,HI,Hawaii,2009-01-10,0,1,1,1,0,Native American/Native Alaskan,Native American/Native Alaskan,1,Destruction/Damage/Vandalism of Property,1.0,School/College,Anti-Asian,Other,M,M
+2009,City,MT,Montana,2009-09-25,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1.0,Public Park or Recreation Area,Anti-Black or African American,Other,M,M
+2009,Township,ID,Idaho,2009-11-14,0,1,1,1,0,Asian,Asian,1,Simple Assault,1.0,Residential Area,Anti-White,Other,S,S
+2009,City,NE,Nebraska,2009-06-19,1,0,1,1,0,Black or African American,Black or African American,1,Destruction/Damage/Vandalism of Property,1.0,School/College,Anti-Asian,Other,M,M
+2009,City,WI,Wisconsin,2009-12-11,0,1,1,1,0,Native American/Native Alaskan,Native American/Native Alaskan,1,Intimidation,1.0,Public Park or Recreation Area,Anti-Hispanic or Latino,Other,M,M
+2009,Suburban Area,WA,Washington,2009-04-01,1,0,1,1,0,White,White,1,Vandalism,1.0,Residential Area,Anti-Asian,Other,S,S
+2009,City,LA,Louisiana,2009-07-15,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1.0,School/College,Anti-Jewish,Other,M,M
+2009,City,MS,Mississippi,2009-08-29,0,1,1,1,0,Black or African American,Black or African American,1,Simple Assault,1.0,Public Park or Recreation Area,Anti-White,Other,M,M
+2009,Township,GU,Guam,2009-10-06,0,1,1,1,0,Asian,Asian,1,Destruction/Damage/Vandalism of Property,1.0,Residential Area,Anti-Jewish,Other,S,S
+2009,City,VI,Virgin Islands,2009-01-18,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1.0,Public Park or Recreation Area,Anti-Asian,Other,M,M
+2009,City,PR,Puerto Rico,2009-06-17,0,1,1,1,0,White,White,1,Vandalism,1.0,School/College,Anti-Hispanic or Latino,Other,M,M
+2009,Suburban Area,MP,Marshall Islands,2009-08-26,1,0,1,1,0,Native American/Native Alaskan,Native American/Native Alaskan,1,Simple Assault,1.0,Residential Area,Anti-White,Other,M,M
+2009,City,FM,Federated States of Micronesia,2009-09-11,0,1,1,1,0,Asian,Asian,1,Intimidation,1.0,Public Park or Recreation Area,Anti-Jewish,Other,M,M
+2009,City,PW,Palau,2009-10-31,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Residential Area,Anti-Asian,Other,S,S
+2009,City,AS,American Samoa,2009-12-22,0,1,1,1,0,White,White,1,Vandalism,1.0,School/College,Anti-Hispanic or Latino,Other,M,M

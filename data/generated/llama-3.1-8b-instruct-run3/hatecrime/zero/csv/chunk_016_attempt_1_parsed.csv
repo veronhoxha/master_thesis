@@ -1,0 +1,51 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1993,Local,,Alabama,1993-05-01,1,0,1,1,0,White,Hispanic,1,Hate Crime Against House of Worship,1,Commercial Building,Anti-Religious,Adult,Yes,None
+2011,State,,Alaska,2011-02-01,0,1,2,1,1,Asian,White,2,Intimidation,2,Residential Area,Ethnicity,"Adult,Child",Yes,Anti-Asian
+1995,Federal,,Arizona,1995-09-01,1,0,1,1,0,White,Black,1,Hate Crime Against Business or Charity,1,School,Anti-Racial,Adult,Yes,None
+1999,Local,,Arkansas,1999-07-01,0,1,1,1,0,Hispanic,White,1,Simple Assault,1,Residential Area,Anti-Religious,Child,Yes,Anti-Christian
+2005,State,,California,2005-11-01,1,0,1,1,0,Black,White,1,Hate Crime Against Business or Charity,1,Commercial Building,Anti-Racial,Adult,Yes,None
+1992,Federal,,Colorado,1992-03-01,0,1,1,1,0,White,Asian,1,Simple Assault,1,Residential Area,Anti-Ethnicity,Child,Yes,Anti-Asian
+1996,Local,,Connecticut,1996-10-01,1,0,1,1,0,White,Hispanic,1,Hate Crime Against Business or Charity,1,School,Anti-Racial,Adult,Yes,None
+2007,State,,Delaware,2007-08-01,0,1,2,1,1,Hispanic,White,2,Intimidation,2,Commercial Building,Anti-Religious,"Adult,Child",Yes,Anti-Christian
+1994,Federal,,Florida,1994-01-01,1,0,1,1,0,White,Black,1,Hate Crime Against House of Worship,1,Residential Area,Anti-Racial,Adult,Yes,None
+2009,Local,,Georgia,2009-06-01,0,1,1,1,0,Asian,White,1,Simple Assault,1,School,Anti-Ethnicity,Child,Yes,Anti-Asian
+1998,State,,Hawaii,1998-04-01,1,0,1,1,0,White,Hispanic,1,Hate Crime Against Business or Charity,1,Commercial Building,Anti-Religious,Adult,Yes,None
+2003,Federal,,Idaho,2003-09-01,0,1,1,1,0,White,Black,1,Hate Crime Against Business or Charity,1,Residential Area,Anti-Racial,Child,Yes,Anti-Black
+1997,Local,,Illinois,1997-02-01,1,0,1,1,0,Black,White,1,Hate Crime Against House of Worship,1,School,Anti-Racial,Adult,Yes,None
+2001,State,,Indiana,2001-05-01,0,1,2,1,1,White,Asian,2,Intimidation,2,Commercial Building,Anti-Ethnicity,"Adult,Child",Yes,Anti-Asian
+1991,Federal,,Iowa,1991-08-01,1,0,1,1,0,White,Hispanic,1,Hate Crime Against Business or Charity,1,Residential Area,Anti-Religious,Adult,Yes,None
+2006,Local,,Kansas,2006-03-01,0,1,1,1,0,Asian,White,1,Simple Assault,1,School,Anti-Ethnicity,Child,Yes,Anti-Asian
+1999,State,,Kentucky,1999-01-01,1,0,1,1,0,Black,White,1,Hate Crime Against House of Worship,1,Commercial Building,Anti-Racial,Adult,Yes,None
+2004,Federal,,Louisiana,2004-07-01,0,1,1,1,0,White,Black,1,Hate Crime Against Business or Charity,1,Residential Area,Anti-Racial,Child,Yes,Anti-Black
+1993,Local,,Maine,1993-09-01,1,0,1,1,0,White,Hispanic,1,Hate Crime Against Business or Charity,1,School,Anti-Religious,Adult,Yes,None
+2008,State,,Maryland,2008-02-01,0,1,2,1,1,White,Asian,2,Intimidation,2,Commercial Building,Anti-Ethnicity,"Adult,Child",Yes,Anti-Asian
+1995,Federal,,Massachusetts,1995-04-01,1,0,1,1,0,White,Black,1,Hate Crime Against House of Worship,1,Residential Area,Anti-Racial,Adult,Yes,None
+2000,Local,,Michigan,2000-11-01,0,1,1,1,0,Hispanic,White,1,Simple Assault,1,School,Anti-Religious,Child,Yes,Anti-Christian
+1992,State,,Minnesota,1992-06-01,1,0,1,1,0,Black,White,1,Hate Crime Against Business or Charity,1,Commercial Building,Anti-Racial,Adult,Yes,None
+2002,Federal,,Mississippi,2002-03-01,0,1,1,1,0,White,Asian,1,Hate Crime Against Business or Charity,1,Residential Area,Anti-Ethnicity,Child,Yes,Anti-Asian
+1996,Local,,Missouri,1996-08-01,1,0,1,1,0,White,Hispanic,1,Hate Crime Against House of Worship,1,School,Anti-Religious,Adult,Yes,None
+2009,State,,Montana,2009-05-01,0,1,2,1,1,White,Black,2,Intimidation,2,Commercial Building,Anti-Racial,"Adult,Child",Yes,Anti-Black
+1998,Federal,,Nebraska,1998-01-01,1,0,1,1,0,White,Hispanic,1,Hate Crime Against Business or Charity,1,Residential Area,Anti-Religious,Adult,Yes,None
+2005,Local,,Nevada,2005-02-01,0,1,1,1,0,Asian,White,1,Simple Assault,1,School,Anti-Ethnicity,Child,Yes,Anti-Asian
+1994,State,,New Hampshire,1994-07-01,1,0,1,1,0,Black,White,1,Hate Crime Against House of Worship,1,Commercial Building,Anti-Racial,Adult,Yes,None
+2007,Federal,,New Jersey,2007-09-01,0,1,1,1,0,White,Hispanic,1,Hate Crime Against Business or Charity,1,Residential Area,Anti-Religious,Child,Yes,Anti-Christian
+1997,Local,,New Mexico,1997-03-01,1,0,1,1,0,White,Asian,1,Hate Crime Against House of Worship,1,School,Anti-Ethnicity,Adult,Yes,None
+2003,State,,New York,2003-01-01,0,1,2,1,1,Hispanic,White,2,Intimidation,2,Commercial Building,Anti-Religious,"Adult,Child",Yes,Anti-Christian
+1999,Federal,,North Carolina,1999-08-01,1,0,1,1,0,Black,White,1,Hate Crime Against Business or Charity,1,Residential Area,Anti-Racial,Adult,Yes,None
+2006,Local,,North Dakota,2006-04-01,0,1,1,1,0,Asian,White,1,Simple Assault,1,School,Anti-Ethnicity,Child,Yes,Anti-Asian
+1992,State,,Ohio,1992-10-01,1,0,1,1,0,White,Hispanic,1,Hate Crime Against House of Worship,1,Commercial Building,Anti-Religious,Adult,Yes,None
+2008,Federal,,Oklahoma,2008-06-01,0,1,1,1,0,White,Black,1,Hate Crime Against Business or Charity,1,Residential Area,Anti-Racial,Child,Yes,Anti-Black
+1995,Local,,Oregon,1995-01-01,1,0,1,1,0,Black,White,1,Hate Crime Against House of Worship,1,School,Anti-Racial,Adult,Yes,None
+2002,State,,Pennsylvania,2002-09-01,0,1,2,1,1,White,Asian,2,Intimidation,2,Commercial Building,Anti-Ethnicity,"Adult,Child",Yes,Anti-Asian
+1993,Federal,,Rhode Island,1993-05-01,1,0,1,1,0,White,Hispanic,1,Hate Crime Against Business or Charity,1,Residential Area,Anti-Religious,Adult,Yes,None
+2004,Local,,South Carolina,2004-02-01,0,1,1,1,0,Asian,White,1,Simple Assault,1,School,Anti-Ethnicity,Child,Yes,Anti-Asian
+1996,State,,South Dakota,1996-01-01,1,0,1,1,0,Black,White,1,Hate Crime Against House of Worship,1,Commercial Building,Anti-Racial,Adult,Yes,None
+2009,Federal,,Tennessee,2009-03-01,0,1,1,1,0,White,Hispanic,1,Hate Crime Against Business or Charity,1,Residential Area,Anti-Religious,Child,Yes,Anti-Christian
+1998,Local,,Texas,1998-09-01,1,0,1,1,0,White,Asian,1,Hate Crime Against House of Worship,1,School,Anti-Ethnicity,Adult,Yes,None
+2005,State,,Utah,2005-10-01,0,1,2,1,1,Hispanic,White,2,Intimidation,2,Commercial Building,Anti-Religious,"Adult,Child",Yes,Anti-Christian
+1999,Federal,,Vermont,1999-04-01,1,0,1,1,0,Black,White,1,Hate Crime Against Business or Charity,1,Residential Area,Anti-Racial,Adult,Yes,None
+2006,Local,,Virginia,2006-01-01,0,1,1,1,0,Asian,White,1,Simple Assault,1,School,Anti-Ethnicity,Child,Yes,Anti-Asian
+1992,State,,Washington,1992-07-01,1,0,1,1,0,White,Hispanic,1,Hate Crime Against House of Worship,1,Commercial Building,Anti-Religious,Adult,Yes,None
+2007,Federal,,West Virginia,2007-02-01,0,1,1,1,0,White,Black,1,Hate Crime Against Business or Charity,1,Residential Area,Anti-Racial,Child,Yes,Anti-Black
+1994,Local,,Wisconsin,1994-06-01,1,0,1,1,0,Black,White,1,Hate Crime Against House of Worship,1,School,Anti-Racial,Adult,Yes,None
+2003,State,,Wyoming,2003-08-01,0,1,2,1,1,White,Asian,2,Intimidation,2,Commercial Building,Anti-Ethnicity,"Adult,Child",Yes,Anti-Asian

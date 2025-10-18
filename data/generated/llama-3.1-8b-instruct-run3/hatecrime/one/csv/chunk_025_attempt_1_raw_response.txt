@@ -1,0 +1,35 @@
+2004,Local,CA,California,2004-03-02,1,0,1,1,0,White,Hispanic,1,Hate Crime Against Children,1.0,Residence,Anti-Gay or Lesbian,Child,White,White
+2004,Local,FL,Florida,2004-07-21,1,0,1,1,0,Asian,Other,1,Vandalism,1.0,Residence,Anti-Asian,Adult,Asian,Asian
+2004,Local,GA,Georgia,2004-09-15,0,1,1,1,0,Black or African American,Hispanic,2,Simple Assault,2.0,Residence,Anti-Hispanic,Minor,Black or African American,Hispanic
+2004,Local,IA,Iowa,2004-06-28,1,0,1,1,0,Unknown,Unknown,1,Intimidation,1.0,Residence,Anti-White,Adult,Unknown,Unknown
+2004,University,NC,North Carolina,2004-02-03,1,0,1,1,0,White,Hispanic,1,Hate Crime Against Individuals with Disabilities,1.0,Residence,Anti-Hispanic,Adult,White,Hispanic
+2004,State,NY,New York,2004-04-20,0,1,1,1,0,Black or African American,Black or African American,2,Aggravated Assault,2.0,Residence,Anti-Black or African American,Minor,Black or African American,Black or African American
+2004,Local,OH,Ohio,2004-05-26,1,0,1,1,0,Asian,Asian,1,Arson,1.0,Residence,Anti-Asian,Adult,Asian,Asian
+2004,Local,OK, Oklahoma, 2004-11-04,1,0,1,1,0,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-White,Adult,White,White
+2004,University,SC,South Carolina,2004-10-27,1,0,1,1,0,Black or African American,Black or African American,1,Hate Crime Against Children,1.0,Residence,Anti-Black or African American,Minor,Black or African American,Black or African American
+2004,Local,TX,Texas,2004-01-31,1,0,1,1,0,Hispanic,Hispanic,1,Stalking,1.0,Residence,Anti-Hispanic,Adult,Hispanic,Hispanic
+2004,Local,WI,Wisconsin,2004-08-18,0,1,1,1,0,Unknown,Unknown,2,Simple Assault,2.0,Residence,Anti-Unknown,Minor,Unknown,Unknown
+2003,University,MI,Michigan,2003-06-19,1,0,1,1,0,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-White,Adult,White,White
+2003,Local,NC,North Carolina,2003-03-21,1,0,1,1,0,Hispanic,Hispanic,1,Hate Crime Against Individuals with Disabilities,1.0,Residence,Anti-Hispanic,Adult,Hispanic,Hispanic
+2003,Local,OH,Ohio,2003-05-01,1,0,1,1,0,Unknown,Unknown,1,Intimidation,1.0,Residence,Anti-Unknown,Adult,Unknown,Unknown
+2003,State,NY,New York,2003-09-14,0,1,1,1,0,Black or African American,Black or African American,2,Aggravated Assault,2.0,Residence,Anti-Black or African American,Minor,Black or African American,Black or African American
+2003,Local,PA,Pennsylvania,2003-07-22,1,0,1,1,0,White,White,1,Stalking,1.0,Residence,Anti-White,Adult,White,White
+2003,Local,TX,Texas,2003-11-17,1,0,1,1,0,Black or African American,Black or African American,1,Hate Crime Against Children,1.0,Residence,Anti-Black or African American,Minor,Black or African American,Black or African American
+2003,Local,WI,Wisconsin,2003-04-25,0,1,1,1,0,Asian,Asian,2,Simple Assault,2.0,Residence,Anti-Asian,Minor,Asian,Asian
+2002,Local,CA,California,2002-09-23,1,0,1,1,0,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-White,Adult,White,White
+2002,University,FL,Florida,2002-02-02,1,0,1,1,0,Hispanic,Hispanic,1,Hate Crime Against Individuals with Disabilities,1.0,Residence,Anti-Hispanic,Adult,Hispanic,Hispanic
+2002,Local,GA,Georgia,2002-06-15,0,1,1,1,0,Black or African American,Black or African American,2,Aggravated Assault,2.0,Residence,Anti-Black or African American,Minor,Black or African American,Black or African American
+2002,Local,IA,Iowa,2002-03-18,1,0,1,1,0,Asian,Asian,1,Intimidation,1.0,Residence,Anti-Asian,Adult,Asian,Asian
+2002,State,NY,New York,2002-05-06,0,1,1,1,0,Unknown,Unknown,2,Simple Assault,2.0,Residence,Anti-Unknown,Minor,Unknown,Unknown
+2002,Local,OH,Ohio,2002-11-24,1,0,1,1,0,White,White,1,Hate Crime Against Children,1.0,Residence,Anti-White,Adult,White,White
+2002,Local,OK, Oklahoma, 2002-01-23,1,0,1,1,0,Black or African American,Black or African American,1,Stalking,1.0,Residence,Anti-Black or African American,Minor,Black or African American,Black or African American
+2002,University,SC,South Carolina,2002-08-19,1,0,1,1,0,Hispanic,Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-Hispanic,Adult,Hispanic,Hispanic
+2002,Local,TX,Texas,2002-10-27,1,0,1,1,0,Asian,Asian,1,Intimidation,1.0,Residence,Anti-Asian,Adult,Asian,Asian
+2002,Local,WI,Wisconsin,2002-12-01,0,1,1,1,0,Unknown,Unknown,2,Simple Assault,2.0,Residence,Anti-Unknown,Minor,Unknown,Unknown
+2001,University,MI,Michigan,2001-10-21,1,0,1,1,0,White,White,1,Hate Crime Against Individuals with Disabilities,1.0,Residence,Anti-White,Adult,White,White
+2001,Local,NC,North Carolina,2001-08-12,1,0,1,1,0,Black or African American,Black or African American,1,Stalking,1.0,Residence,Anti-Black or African American,Minor,Black or African American,Black or African American
+2001,Local,OH,Ohio,2001-06-09,1,0,1,1,0,Asian,Asian,1,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-Asian,Adult,Asian,Asian
+2001,Local,OK, Oklahoma, 2001-03-25,1,0,1,1,0,White,White,1,Hate Crime Against Children,1.0,Residence,Anti-White,Adult,White,White
+2001,University,SC,South Carolina,2001-01-14,1,0,1,1,0,Unknown,Unknown,1,Intimidation,1.0,Residence,Anti-Unknown,Adult,Unknown,Unknown
+2001,Local,TX,Texas,2001-12-16,1,0,1,1,0,Black or African American,Black or African American,1,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-Black or African American,Minor,Black or African American,Black or African American
+2001,Local,WI,Wisconsin,2001-09-02,0,1,1,1,0,Hispanic,Hispanic,2,Aggravated Assault,2.0,Residence,Anti-Hispanic,Minor,Hispanic,Hispanic

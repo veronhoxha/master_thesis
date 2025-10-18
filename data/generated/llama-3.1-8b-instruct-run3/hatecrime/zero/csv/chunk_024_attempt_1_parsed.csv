@@ -1,0 +1,51 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1,1993,State Police,NY,New York,1993-02-14,1,0,2,1,1,White,Hispanic,2,Anti-LGBT Hate Crime,2,Bronx,Sexual Orientation,Male,Yes
+2,1995,Sheriffs Department,CA,California,1995-08-09,0,1,1,1,0,Black,Non-Hispanic,1,Anti-Religious Hate Crime,1,Los Angeles,Religion,Female,No
+3,1992,County Police,TX,Texas,1992-04-18,2,0,3,2,1,Hispanic,Yes,2,Anti-Racial Hate Crime,2,Houston,Race,Male,Yes
+4,1994,City Police,FL,Florida,1994-11-25,1,0,1,1,0,White,Non-Hispanic,1,Anti-Disability Hate Crime,1,Miami,Disability,Male,No
+5,1991,State Police,GA,Georgia,1991-09-03,0,1,2,1,1,Black,Non-Hispanic,1,Anti-Sexual Orientation Hate Crime,1,Atlanta,Sexual Orientation,Female,Yes
+6,1996,County Police,IL,Illinois,1996-03-25,1,0,1,1,0,Hispanic,Yes,1,Anti-Religious Hate Crime,1,Chicago,Religion,Male,No
+7,1997,City Police,NJ,New Jersey,1997-01-10,2,0,2,2,0,White,Non-Hispanic,2,Anti-Racial Hate Crime,2,Newark,Race,Male,Yes
+8,1998,Sheriffs Department,MA,Massachusetts,1998-06-05,0,1,1,1,0,Black,Non-Hispanic,1,Anti-Sexual Orientation Hate Crime,1,Boston,Sexual Orientation,Female,No
+9,1999,State Police,PA,Pennsylvania,1999-10-17,1,0,1,1,0,Hispanic,Yes,1,Anti-Racial Hate Crime,1,Philadelphia,Race,Male,No
+10,2000,County Police,OH,Ohio,2000-04-22,2,0,2,2,0,White,Non-Hispanic,2,Anti-Disability Hate Crime,2,Columbus,Disability,Male,Yes
+11,2001,City Police,MI,Michigan,2001-09-20,1,0,1,1,0,Black,Non-Hispanic,1,Anti-Religious Hate Crime,1,Detroit,Religion,Male,No
+12,2002,Sheriffs Department,TN,Tennessee,2002-02-14,0,1,2,1,1,Hispanic,Yes,1,Anti-Sexual Orientation Hate Crime,1,Nashville,Sexual Orientation,Female,Yes
+13,2003,State Police,NC,North Carolina,2003-05-18,2,0,2,2,0,White,Non-Hispanic,2,Anti-Racial Hate Crime,2,Raleigh,Race,Male,Yes
+14,2004,County Police,SC,South Carolina,2004-11-25,1,0,1,1,0,Black,Non-Hispanic,1,Anti-Disability Hate Crime,1,Columbia,Disability,Male,No
+15,2005,City Police,KY,Kentucky,2005-08-09,0,1,1,1,0,Hispanic,Yes,1,Anti-Religious Hate Crime,1,Lexington,Religion,Female,No
+16,2006,Sheriffs Department,WI,Wisconsin,2006-04-18,2,0,2,2,0,White,Non-Hispanic,2,Anti-Sexual Orientation Hate Crime,2,Madison,Sexual Orientation,Male,Yes
+17,2007,State Police,AR,Arkansas,2007-09-03,1,0,1,1,0,Black,Non-Hispanic,1,Anti-Racial Hate Crime,1,Little Rock,Race,Male,No
+18,2008,County Police,LA,Louisiana,2008-03-25,0,1,2,1,1,Hispanic,Yes,1,Anti-Disability Hate Crime,1,New Orleans,Disability,Female,Yes
+19,2009,City Police,IN,Indiana,2009-01-10,2,0,2,2,0,White,Non-Hispanic,2,Anti-Religious Hate Crime,2,Indianapolis,Religion,Male,Yes
+20,2010,Sheriffs Department,MS,Mississippi,2010-06-05,1,0,1,1,0,Black,Non-Hispanic,1,Anti-Sexual Orientation Hate Crime,1,Jackson,Sexual Orientation,Male,No
+21,2011,State Police,IA,Iowa,2011-10-17,0,1,1,1,0,Hispanic,Yes,1,Anti-Racial Hate Crime,1,Des Moines,Race,Female,No
+22,2012,County Police,VT,Vermont,2012-04-22,2,0,2,2,0,White,Non-Hispanic,2,Anti-Disability Hate Crime,2,Montpelier,Disability,Male,Yes
+23,2013,City Police,WV,West Virginia,2013-09-20,1,0,1,1,0,Black,Non-Hispanic,1,Anti-Religious Hate Crime,1,Charleston,Religion,Male,No
+24,2014,Sheriffs Department,NV,Nevada,2014-02-14,0,1,2,1,1,Hispanic,Yes,1,Anti-Sexual Orientation Hate Crime,1,Las Vegas,Sexual Orientation,Female,Yes
+25,1992,County Police,OK,Oklahoma,1992-04-18,2,0,3,2,1,White,Non-Hispanic,2,Anti-Racial Hate Crime,2,Oklahoma City,Race,Male,Yes
+26,1995,City Police,DE,Delaware,1995-08-09,0,1,1,1,0,Black,Non-Hispanic,1,Anti-Disability Hate Crime,1,Wilmington,Disability,Female,No
+27,1996,Sheriffs Department,MO,Missouri,1996-03-25,1,0,1,1,0,Hispanic,Yes,1,Anti-Religious Hate Crime,1,Kansas City,Religion,Male,No
+28,1997,State Police,AZ,Arizona,1997-01-10,2,0,2,2,0,White,Non-Hispanic,2,Anti-Sexual Orientation Hate Crime,2,Phoenix,Sexual Orientation,Male,Yes
+29,1998,County Police,CT,Connecticut,1998-06-05,0,1,1,1,0,Black,Non-Hispanic,1,Anti-Racial Hate Crime,1,Hartford,Race,Female,No
+30,1999,City Police,OR,Oregon,1999-10-17,1,0,1,1,0,Hispanic,Yes,1,Anti-Disability Hate Crime,1,Portland,Disability,Male,No
+31,2000,Sheriffs Department,UT,Utah,2000-04-22,2,0,2,2,0,White,Non-Hispanic,2,Anti-Religious Hate Crime,2,Salt Lake City,Religion,Male,Yes
+32,2001,State Police,ME,Maine,2001-09-20,0,1,1,1,0,Black,Non-Hispanic,1,Anti-Sexual Orientation Hate Crime,1,Augusta,Sexual Orientation,Female,No
+33,2002,County Police,NE,Nebraska,2002-02-14,1,0,1,1,0,Hispanic,Yes,1,Anti-Racial Hate Crime,1,Omaha,Race,Male,No
+34,2003,City Police,HI,Hawaii,2003-05-18,2,0,2,2,0,White,Non-Hispanic,2,Anti-Disability Hate Crime,2,Honolulu,Disability,Male,Yes
+35,2004,Sheriffs Department,AK,Alaska,2004-11-25,0,1,2,1,1,Black,Non-Hispanic,1,Anti-Religious Hate Crime,1,Anchorage,Religion,Female,Yes
+36,2005,State Police,ID,Idaho,2005-08-09,1,0,1,1,0,Hispanic,Yes,1,Anti-Sexual Orientation Hate Crime,1,Boise,Sexual Orientation,Male,No
+37,2006,County Police,ND,North Dakota,2006-04-18,2,0,2,2,0,White,Non-Hispanic,2,Anti-Racial Hate Crime,2,Bismarck,Race,Male,Yes
+38,2007,City Police,MN,Minnesota,2007-09-03,0,1,1,1,0,Black,Non-Hispanic,1,Anti-Disability Hate Crime,1,St. Paul,Disability,Female,No
+39,2008,Sheriffs Department,RI,Rhode Island,2008-03-25,1,0,1,1,0,Hispanic,Yes,1,Anti-Religious Hate Crime,1,Providence,Religion,Male,No
+40,2009,State Police,SD,South Dakota,2009-01-10,2,0,2,2,0,White,Non-Hispanic,2,Anti-Sexual Orientation Hate Crime,2,Pierre,Sexual Orientation,Male,Yes
+41,2010,County Police,MT,Montana,2010-06-05,0,1,1,1,0,Black,Non-Hispanic,1,Anti-Racial Hate Crime,1,Helena,Race,Female,No
+42,2011,City Police,WY,Wyoming,2011-10-17,1,0,1,1,0,Hispanic,Yes,1,Anti-Disability Hate Crime,1,Cheyenne,Disability,Male,No
+43,2012,Sheriffs Department,VT,Vermont,2012-04-22,2,0,2,2,0,White,Non-Hispanic,2,Anti-Religious Hate Crime,2,Montpelier,Religion,Male,Yes
+44,2013,State Police,NH,New Hampshire,2013-09-20,0,1,1,1,0,Black,Non-Hispanic,1,Anti-Sexual Orientation Hate Crime,1,Concord,Sexual Orientation,Female,No
+45,2014,County Police,AL,Alabama,2014-02-14,1,0,1,1,0,Hispanic,Yes,1,Anti-Racial Hate Crime,1,Montgomery,Race,Male,No
+46,1992,City Police,CO,Colorado,1992-04-18,2,0,3,2,1,White,Non-Hispanic,2,Anti-Disability Hate Crime,2,Denver,Disability,Male,Yes
+47,1995,Sheriffs Department,GA,Georgia,1995-08-09,0,1,1,1,0,Black,Non-Hispanic,1,Anti-Religious Hate Crime,1,Atlanta,Religion,Female,No
+48,1996,State Police,AZ,Arizona,1996-03-25,1,0,1,1,0,Hispanic,Yes,1,Anti-Sexual Orientation Hate Crime,1,Phoenix,Sexual Orientation,Male,No
+49,1997,County Police,NV,Nevada,1997-01-10,2,0,2,2,0,White,Non-Hispanic,2,Anti-Racial Hate Crime,2,Las Vegas,Race,Male,Yes
+50,1998,City Police,HI,Hawaii,1998-06-05,0,1,1,1,0,Black,Non-Hispanic,1,Anti-Disability Hate Crime,1,Honolulu,Disability,Female,No

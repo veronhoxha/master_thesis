@@ -1,0 +1,56 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1998,County,AZ,Arizona,1998-03-15,1.0,0.0,2,1.0,1.0,White,Not Hispanic or Latino,1,Aggravated Assault,1.0,Residence,Anti-Black or African American,Individual,N,N
+2002,State,NY,New York,2002-11-22,0.0,1.0,3,2.0,1.0,Hispanic or Latino,Hispanic or Latino,1,Assault,1.0,Public Park,Anti-Jewish,Individual,N,N
+2005,City,OH,Ohio,2005-07-09,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Physical Attack,1.0,School/College,Anti-Mexican,Individual,N,N
+2010,Other,FL,Florida,2010-02-18,2.0,0.0,4,3.0,1.0,Black or African American,Not Hispanic or Latino,2,Simple Assault,2.0,Restaurant,Anti-White,Individual,N,N
+1999,City,TX,Texas,1999-09-30,0.0,2.0,3,1.0,2.0,White,Not Hispanic or Latino,2,Vandalism,2.0,Housing Complex,Anti-Hispanic,Group,N,N
+2007,State,GA,Georgia,2007-06-14,1.0,0.0,2,1.0,1.0,Asian or Pacific Islander,Not Specified,1,Assault,1.0,Place of Worship,Anti-Islamic,Individual,N,N
+2003,County,PA,Pennsylvania,2003-01-05,3.0,0.0,2,2.0,0.0,Native American,Not Specified,3,Robbery,3.0,Bank/Automated Teller Machine,Anti-Native American,Individual,N,N
+2014,City,NC,North Carolina,2014-10-12,2.0,1.0,3,2.0,1.0,Asian or Pacific Islander,Not Specified,3,Assault,3.0,Grocery Store,Anti-Asian,Individual,N,N
+2001,Other,IL,Illinois,2001-04-28,0.0,1.0,1,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1,Vandalism,1.0,Museum,Anti-Latino,Individual,N,N
+1995,City,MI,Michigan,1995-12-03,1.0,0.0,3,2.0,1.0,White,Not Hispanic or Latino,1,Aggravated Assault,1.0,Shopping Mall,Anti-Muslim,Individual,S,N
+2008,County,WA,Washington,2008-08-19,0.0,2.0,4,3.0,1.0,Black or African American,Not Hispanic or Latino,2,Assault,2.0,School/College,Anti-Black or African American,Group,S,S
+2006,State,MD,Maryland,2006-05-17,3.0,0.0,5,4.0,1.0,Unknown,Not Specified,3,Destruction/Damage/Vandalism of Property,3.0,Hospital,Anti-American Indian or Alaska Native,Individual,S,N
+2012,City,CT,Connecticut,2012-03-11,1.0,1.0,2,1.0,1.0,White,Not Hispanic or Latino,2,Simple Assault,2.0,University Campus,Anti-Jewish,Group,S,N
+2004,Other,NE,Nebraska,2004-11-25,0.0,1.0,3,2.0,1.0,Hispanic or Latino,Hispanic or Latino,1,Physical Attack,1.0,Bar/Apartment/Hotel,Anti-Hispanic,Individual,N,N
+1997,County,NM,New Mexico,1997-07-08,1.0,0.0,4,3.0,1.0,Asian or Pacific Islander,Not Specified,1,Assault,1.0,Public Park,Anti-Asian,Individual,N,N
+2009,City,IN,Indiana,2009-09-16,2.0,0.0,2,1.0,1.0,White,Not Hispanic or Latino,2,Aggravated Assault,2.0,Residence,Anti-Gay (Male),Individual,N,N
+2000,State,SC,South Carolina,2000-02-24,0.0,1.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Place of Worship,Anti-Christianity,Individual,S,S
+2013,Other,OR,Oregon,2013-05-09,1.0,0.0,3,2.0,1.0,Native American,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Native American,Individual,N,N
+2002,City,KY,Kentucky,2002-12-28,0.0,2.0,4,2.0,2.0,White,Not Hispanic or Latino,2,Vandalism,2.0,Housing Complex,Anti-American Indian or Alaska Native,Group,S,S
+2011,County,AK,Alaska,2011-04-22,3.0,0.0,5,4.0,1.0,Unknown,Not Specified,3,Assault,3.0,University Campus,Anti-White,Individual,S,N
+1996,City,WV,West Virginia,1996-08-03,1.0,0.0,2,1.0,1.0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,School/College,Anti-Latino,Individual,N,N
+2005,State,VT,Vermont,2005-03-19,0.0,1.0,3,1.0,2.0,Asian or Pacific Islander,Not Specified,1,Aggravated Assault,1.0,Public Park,Anti-Asian,Individual,N,N
+2003,Other,WI,Wisconsin,2003-10-31,2.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,2,Physical Attack,2.0,College Dormitory,Anti-Gay (Male),Individual,N,N
+2014,City,AR,Arkansas,2014-01-07,1.0,0.0,3,2.0,1.0,Black or African American,Not Hispanic or Latino,1,Assault,1.0,Federal Building,Anti-African American,Individual,S,N
+1998,County,MO,Missouri,1998-06-13,0.0,2.0,2,1.0,1.0,Unknown,Not Specified,2,Destruction/Damage/Vandalism of Property,2.0,Shopping Mall,Anti-American Indian or Alaska Native,Group,S,N
+2007,City,RI,Rhode Island,2007-09-29,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1,Physical Attack,1.0,Library,Anti-Hispanic,Individual,N,N
+2009,State,MA,Massachusetts,2009-02-11,0.0,1.0,2,2.0,0.0,Asian or Pacific Islander,Not Specified,1,Simple Assault,1.0,Residence,Anti-Asian,Individual,S,N
+1999,Other,DE,Delaware,1999-12-18,1.0,1.0,3,2.0,1.0,White,Not Hispanic or Latino,2,Aggravated Assault,2.0,Bank/Automated Teller Machine,Anti-White,Group,S,N
+2006,City,VT,Vermont,2006-07-04,0.0,1.0,2,1.0,1.0,Unknown,Not Specified,1,Assault,1.0,University Campus,Anti-American Indian or Alaska Native,Individual,N,N
+2010,County,LA,Louisiana,2010-03-01,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Physical Attack,1.0,Public Park,Anti-White,Individual,N,N
+2001,State,MS,Mississippi,2001-08-26,2.0,0.0,3,2.0,1.0,Hispanic or Latino,Hispanic or Latino,2,Simple Assault,2.0,School/College,Anti-Latino,Individual,N,N
+2013,City,MN,Minnesota,2013-11-15,0.0,1.0,4,3.0,1.0,Black or African American,Not Hispanic or Latino,1,Aggravated Assault,1.0,Shopping Mall,Anti-African American,Individual,N,N
+2012,Other,ID,Idaho,2012-05-28,1.0,1.0,2,1.0,1.0,Unknown,Not Specified,2,Assault,2.0,School/College,Anti-American Indian or Alaska Native,Group,S,N
+2004,County,RI,Rhode Island,2004-04-02,1.0,0.0,3,2.0,1.0,Asian or Pacific Islander,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Housing Complex,Anti-Asian,Individual,N,N
+1996,City,MN,Minnesota,1996-09-17,0.0,2.0,2,1.0,1.0,White,Not Hispanic or Latino,2,Simple Assault,2.0,University Campus,Anti-Gay (Male),Group,S,S
+2011,State,VT,Vermont,2011-07-21,2.0,0.0,1,1.0,0.0,Native American,Not Specified,2,Physical Attack,2.0,School/College,Anti-Native American,Group,S,N
+2000,County,NH,New Hampshire,2000-01-23,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Vandalism,1.0,Hospital,Anti-White,Individual,N,N
+2008,City,NC,North Carolina,2008-06-08,0.0,1.0,3,2.0,1.0,Hispanic or Latino,Hispanic or Latino,1,Aggravated Assault,1.0,Residence,Anti-Latino,Individual,N,N
+1998,Other,KY,Kentucky,1998-11-30,1.0,0.0,2,1.0,1.0,Unknown,Not Specified,1,Assault,1.0,Public Park,Anti-American Indian or Alaska Native,Individual,S,A
+2014,State,MT,Montana,2014-04-14,3.0,0.0,5,4.0,1.0,Hispanic or Latino,Hispanic or Latino,3,Assault,3.0,Rest Area,Anti-Latino,Individual,S,N
+2002,City,MG,Maryland,2002-10-21,0.0,1.0,4,3.0,1.0,Asian or Pacific Islander,Not Specified,1,Physical Attack,1.0,Restaurant,Anti-Asian,Individual,N,N
+2007,County,CO,Colorado,2007-05-06,1.0,1.0,2,1.0,1.0,White,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2.0,Office Building,Anti-Gay (Male),Group,S,N
+2003,City,MD,Maryland,2003-12-11,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Assault,1.0,Public Park,Anti-American Indian or Alaska Native,Individual,N,N
+2009,State,IA,Iowa,2009-08-08,2.0,0.0,3,3.0,0.0,White,Not Hispanic or Latino,2,Simple Assault,2.0,Shopping Mall,Anti-White,Individual,N,N
+1997,Other,OK,Oklahoma,1997-02-26,1.0,1.0,4,3.0,1.0,Native American,Not Specified,2,Aggravated Assault,2.0,University Campus,Anti-Native American,Group,S,N
+2005,City,SD,South Dakota,2005-12-30,0.0,2.0,3,2.0,1.0,Unknown,Not Specified,2,Physical Attack,2.0,Public Park,Anti-American Indian or Alaska Native,Group,S,N
+2001,County,GA,Georgia,2001-07-19,2.0,0.0,1,1.0,0.0,Hispanic or Latino,Hispanic or Latino,2,Assault,2.0,Federal Building,Anti-Latino,Group,S,N
+2013,State,AL,Alabama,2013-03-05,0.0,1.0,2,1.0,1.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,School/College,Anti-African American,Individual,N,N
+2006,City,WY,Wyoming,2006-09-12,1.0,0.0,3,2.0,1.0,Asian or Pacific Islander,Not Specified,1,Vandalism,1.0,Office Building,Anti-Asian,Individual,S,S
+1999,County,PA,Pennsylvania,1999-05-18,3.0,0.0,4,3.0,1.0,White,Not Hispanic or Latino,3,Assault,3.0,Public Park,Anti-White,Group,S,S
+2004,Other,MD,Maryland,2004-01-14,0.0,1.0,3,2.0,1.0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Housing Complex,Anti-Gay (Male),Individual,N,N
+2010,City,NV,Nevada,2010-10-22,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1,Aggravated Assault,1.0,University Campus,Anti-Latino,Individual,N,N
+2008,County,WA,Washington,2008-07-03,0.0,2.0,2,1.0,1.0,Asian or Pacific Islander,Not Specified,2,Simple Assault,2.0,Residence,Anti-Asian,Group,S,N
+1995,State,DE,Delaware,1995-08-11,2.0,0.0,3,2.0,1.0,Native American,Not Specified,2,Physical Attack,2.0,Restaurant,Anti-Native American,Individual,S,N
+2012,City,NY,New York,2012-04-03,1.0,1.0,1,1.0,0.0,White,Not Hispanic or Latino,2,Assault,2.0,Public Park,Anti-Gay (Male),Group,S,S

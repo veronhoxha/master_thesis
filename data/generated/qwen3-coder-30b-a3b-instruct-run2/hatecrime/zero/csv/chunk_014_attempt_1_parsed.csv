@@ -1,0 +1,61 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,Police,CA,California,1991-03-15,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Residence,Religious Bias,Adult Victim,False,False
+1992,Police,TX,Texas,1992-07-22,2,1,3,2,1,Black,Non-Hispanic,3,Harassment,3,School,Family Violence,"Adult Victim, Juvenile Victim",False,True
+1993,Police,NY,New York,1993-11-08,0,1,1,0,1,Asian,Hispanic,1,Assault,1,Community Center,Racial Bias,Juvenile Victim,False,False
+1994,Police,FL,Florida,1994-02-14,3,0,4,3,1,White,Non-Hispanic,3,Assault,3,Church,Hate Bias,Adult Victim,False,False
+1995,Police,IL,Illinois,1995-09-30,1,0,2,1,1,Native American,Non-Hispanic,1,Harassment,1,Museum,Religious Bias,Adult Victim,False,True
+1996,Police,OH,Ohio,1996-05-18,2,1,3,2,1,Hispanic,Hispanic,3,Assault,3,Highway,Bias Against Sexual Orientation,"Adult Victim, Juvenile Victim",False,False
+1997,Police,GA,Georgia,1997-12-04,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Restaurant,Gender Identity Bias,Adult Victim,True,False
+1998,Police,WA,Washington,1998-08-11,0,1,1,0,1,Black,Non-Hispanic,1,Harassment,1,Apartment Complex,Racial Bias,Juvenile Victim,False,False
+1999,Police,PA,Pennsylvania,1999-04-27,2,1,3,2,1,White,Non-Hispanic,3,Assault,3,University,Gender Identity Bias,False,True,
+2000,Police,MI,Michigan,2000-10-19,1,0,2,1,1,Hispanic,Hispanic,1,Harassment,1,Bar,Hate Bias,Adult Victim,False,False
+2001,Police,NC,Carolina,2001-01-05,3,1,4,3,1,Black,Non-Hispanic,4,Assault,4,Street,Religious Bias,"Adult Victim, Juvenile Victim",False,False
+2002,Police,VA,Virginia,2002-06-23,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Store,Bias Against Sexual Orientation,Adult Victim,False,True
+2003,Police,MO,Missouri,2003-09-12,0,1,1,0,1,Hispanic,Hispanic,1,Harassment,1,Library,Hate Bias,Juvenile Victim,False,False
+2004,Police,MD,Maryland,2004-11-30,2,1,3,2,1,White,Non-Hispanic,3,Assault,3,Airport,Racial Bias,"Adult Victim, Juvenile Victim",False,False
+2005,Police,MA,Massachusetts,2005-03-17,1,0,2,1,1,Native American,Non-Hispanic,1,Assault,1,School,Religious Bias,Adult Victim,False,False
+2006,Police,CT,Connecticut,2006-07-09,0,1,1,0,1,Asian,Hispanic,1,Harassment,1,Hospital,Gender Identity Bias,Juvenile Victim,False,True
+2007,Police,NJ,New Jersey,2007-12-24,2,0,3,2,1,White,Non-Hispanic,2,Assault,2,Hotel,Racial Bias,Adult Victim,False,False
+2008,Police,NV,Nevada,2008-05-14,1,1,2,1,1,Black,Non-Hispanic,2,Harassment,2,Community Center,Hate Bias,"Adult Victim, Juvenile Victim",False,False
+2009,Police,OR,Oregon,2009-02-06,3,0,4,3,1,Hispanic,Hispanic,3,Assault,3,Residence,Religious Bias,Adult Victim,False,True
+2010,Police,AZ,Arizona,2010-08-19,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Museum,Family Violence,Adult Victim,False,False
+2011,Police,AL,Alabama,2011-04-03,0,1,1,0,1,Asian,Hispanic,1,Harassment,1,Church,Gender Identity Bias,Juvenile Victim,False,False
+2012,Police,WI,Wisconsin,2012-10-11,2,1,3,2,1,White,Non-Hispanic,3,Assault,3,University,Racial Bias,"Adult Victim, Juvenile Victim",False,True
+2013,Police,KY,Kentucky,2013-01-28,1,0,2,1,1,Black,Non-Hispanic,1,Assault,1,School,Hate Bias,Adult Victim,False,False
+2014,Police,WA,Washington,2014-06-05,0,1,1,0,1,Hispanic,Hispanic,1,Harassment,1,Highway,Bias Against Sexual Orientation,Juvenile Victim,False,False
+1991,Police,CO,Colorado,1991-12-22,2,0,3,2,1,White,Non-Hispanic,2,Assault,2,Street,Family Violence,Adult Victim,False,False
+1992,Police,TN,Tennessee,1992-03-15,1,1,2,1,1,Asian,Hispanic,2,Harassment,2,University,Religious Bias,"Adult Victim, Juvenile Victim",False,True
+1993,Police,SC,Carolina,1993-10-08,0,1,1,0,1,White,Non-Hispanic,1,Assault,1,Store,Gender Identity Bias,Juvenile Victim,False,False
+1994,Police,VA,Virginia,1994-01-29,3,0,4,3,1,Hispanic,Hispanic,3,Assault,3,Residence,Racial Bias,Adult Victim,False,False
+1995,Police,GA,Georgia,1995-07-16,1,1,2,1,1,White,Non-Hispanic,2,Harassment,2,Museum,Hate Bias,"Adult Victim, Juvenile Victim",False,True
+1996,Police,MI,Michigan,1996-11-04,2,0,3,2,1,Black,Non-Hispanic,2,Assault,2,Community Center,Religious Bias,Adult Victim,False,False
+1997,Police,FL,Florida,1997-05-21,0,1,1,0,1,White,Non-Hispanic,1,Harassment,1,Restaurant,Bias Against Sexual Orientation,Juvenile Victim,False,False
+1998,Police,NC,Carolina,1998-09-10,2,1,3,2,1,Hispanic,Hispanic,3,Assault,3,Hotel,Gender Identity Bias,"Adult Victim, Juvenile Victim",False,False
+1999,Police,IL,Illinois,1999-02-28,1,0,2,1,1,Asian,Hispanic,1,Assault,1,House,Racial Bias,Adult Victim,False,True
+2000,Police,MN,Minnesota,2000-08-17,3,0,4,3,1,White,Non-Hispanic,3,Harassment,3,Church,Hate Bias,Adult Victim,False,False
+2001,Police,UT,Utah,2001-04-01,1,0,2,1,1,Native American,Non-Hispanic,1,Assault,1,School,Religious Bias,Adult Victim,False,False
+2002,Police,LA,Louisiana,2002-12-12,0,1,1,0,1,Black,Non-Hispanic,1,Harassment,1,Library,Bias Against Sexual Orientation,Juvenile Victim,False,True
+2003,Police,MS,Mississippi,2003-06-30,2,1,3,2,1,White,Non-Hispanic,3,Assault,3,Park,Gender Identity Bias,"Adult Victim, Juvenile Victim",False,False
+2004,Police,OR,Oregon,2004-11-15,1,0,2,1,1,Hispanic,Hispanic,1,Assault,1,Bank,Racial Bias,Adult Victim,False,False
+2005,Police,ID,Idaho,2005-01-22,0,1,1,0,1,White,Non-Hispanic,1,Harassment,1,Office,Hate Bias,Juvenile Victim,False,False
+2006,Police,MT,Montana,2006-09-08,2,0,3,2,1,Asian,Hispanic,2,Assault,2,Stadium,Religious Bias,Adult Victim,False,True
+2007,Police,WV,West Virginia,2007-03-19,1,1,2,1,1,Black,Non-Hispanic,2,Harassment,2,Cinema,Bias Against Sexual Orientation,"Adult Victim, Juvenile Victim",False,False
+2008,Police,NH,New Hampshire,2008-07-05,3,0,4,3,1,White,Non-Hispanic,3,Assault,3,Church,Gender Identity Bias,Adult Victim,False,False
+2009,Police,VT,Vermonth,2009-10-13,1,0,2,1,1,Hispanic,Hispanic,1,Assault,1,Museum,Racial Bias,Adult Victim,False,False
+2010,Police,AK,Alaska,2010-05-17,0,1,1,0,1,White,Non-Hispanic,1,Harassment,1,University,Hate Bias,Juvenile Victim,False,True
+2011,Police,HI,Hawaii,2011-12-03,2,1,3,2,1,Asian,Hispanic,3,Assault,3,Apartment Complex,Religious Bias,"Adult Victim, Juvenile Victim",False,False
+2012,Police,NE,Nebraska,2012-08-21,1,0,2,1,1,Native American,Non-Hispanic,1,Assault,1,House,Bias Against Sexual Orientation,Adult Victim,False,False
+2013,Police,SD,South Dakota,2013-04-19,0,1,1,0,1,Black,Non-Hispanic,1,Harassment,1,Community Center,Gender Identity Bias,Juvenile Victim,False,False
+2014,Police,RI,Rhode Island,2014-11-07,2,1,3,2,1,White,Non-Hispanic,3,Assault,3,Hotel,Racial Bias,"Adult Victim, Juvenile Victim",False,True
+1991,Police,DE,Delaware,1991-02-26,3,0,4,3,1,Hispanic,Hispanic,3,Assault,3,Store,Religious Bias,Adult Victim,False,False
+1992,Police,ME,Maine,1992-06-09,1,1,2,1,1,White,Non-Hispanic,2,Harassment,2,School,Hate Bias,"Adult Victim, Juvenile Victim",False,False
+1993,Police,ME,Maine,1993-11-14,0,1,1,0,1,Asian,Hispanic,1,Assault,1,University,Bias Against Sexual Orientation,Juvenile Victim,False,False
+1994,Police,RI,Rhode Island,1994-04-30,2,0,3,2,1,White,Non-Hispanic,2,Assault,2,Restaurant,Gender Identity Bias,Adult Victim,False,True
+1995,Police,NM,New Mexico,1995-09-11,1,1,2,1,1,Hispanic,Hispanic,2,Harassment,2,Bar,Racial Bias,"Adult Victim, Juvenile Victim",False,False
+1996,Police,AR,Arkansas,1996-01-05,0,1,1,0,1,Black,Non-Hispanic,1,Assault,1,School,Hate Bias,Juvenile Victim,False,False
+1997,Police,OK,Oklahoma,1997-08-28,2,0,3,2,1,White,Non-Hispanic,2,Harassment,2,Apartment Complex,Religious Bias,Adult Victim,False,True
+1998,Police,KS,Kansas,1998-12-17,1,1,2,1,1,Native American,Non-Hispanic,2,Assault,2,Church,Bias Against Sexual Orientation,"Adult Victim, Juvenile Victim",False,False
+1999,Police,ND,North Dakota,1999-03-03,3,0,4,3,1,Black,Non-Hispanic,3,Assault,3,Community Center,Gender Identity Bias,Adult Victim,False,False
+2000,Police,SD,South Dakota,2000-07-19,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Highway,Racial Bias,Adult Victim,False,False
+2001,Police,WY,Wyoming,2001-10-22,0,1,1,0,1,Hispanic,Hispanic,1,Harassment,1,University,Hate Bias,Juvenile Victim,False,True
+2002,Police,IA,Iowa,2002-02-16,2,1,3,2,1,White,Non-Hispanic,3,Assault,3,Bus Stop,Religious Bias,"Adult Victim, Juvenile Victim",False,False

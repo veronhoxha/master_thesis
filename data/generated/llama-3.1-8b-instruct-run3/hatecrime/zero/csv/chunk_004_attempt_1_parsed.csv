@@ -1,0 +1,42 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1992,Law Enforcement Agency,IL,Illinois,1992-03-01,2,1,2,1,1,White,Hispanic,3,Anti-LGBT Hate Crime,3,Chicago,Anti-LGBT,"Male, Female",True,Anti-LGBT
+1996,Law Enforcement Agency,MD,Maryland,1996-09-01,1,0,1,1,0,Black,Not Hispanic,1,Intimidation,1,Baltimore,Anti-Black or African American,Male,False,
+2003,Law Enforcement Agency,TX,Texas,2003-06-15,0,1,1,0,1,White,Not Hispanic,1,Simple Assault,1,Houston,Anti-LGBT,Female,False,
+2007,Law Enforcement Agency,NY,New York,2007-02-25,1,0,2,1,1,Asian,Not Hispanic,2,Aggravated Assault,2,New York,Anti-Asian,"Male, Female",True,Anti-Asian
+1999,Law Enforcement Agency,FL,Florida,1999-10-10,2,0,3,2,1,Hispanic,Not Hispanic,2,Vandalism,2,Miami,Anti-Immigrant,"Male, Male",True,Anti-Immigrant
+2009,Law Enforcement Agency,CA,California,2009-04-05,0,1,1,0,1,Native American,Not Hispanic,1,Simple Assault,1,Los Angeles,Anti-Native American,Female,False,
+2013,Law Enforcement Agency,NC,North Carolina,2013-01-20,1,0,1,1,0,White,Not Hispanic,1,Intimidation,1,Raleigh,Anti-White,Male,False,
+1994,Law Enforcement Agency,GA,Georgia,1994-08-01,1,0,1,1,0,Black,Not Hispanic,1,Simple Assault,1,Atlanta,Anti-Black or African American,Male,False,
+2005,Law Enforcement Agency,OH,Ohio,2005-12-01,0,1,1,0,1,Hispanic,Not Hispanic,1,Vandalism,1,Columbus,Anti-Hispanic,Female,False,
+2011,Law Enforcement Agency,AZ,Arizona,2011-09-01,1,0,2,1,1,White,Not Hispanic,2,Aggravated Assault,2,Phoenix,Anti-White,"Male, Male",True,Anti-White
+1995,Law Enforcement Agency,MI,Michigan,1995-05-01,2,0,2,2,0,White,Not Hispanic,2,Intimidation,2,Detroit,Anti-White,"Male, Male",True,Anti-White
+2002,Law Enforcement Agency,PA,Pennsylvania,2002-03-01,0,1,1,0,1,Black,Not Hispanic,1,Simple Assault,1,Philadelphia,Anti-Black or African American,Female,False,
+2008,Law Enforcement Agency,WA,Washington,2008-11-15,1,0,1,1,0,Asian,Not Hispanic,1,Intimidation,1,Seattle,Anti-Asian,Male,False,
+2014,Law Enforcement Agency,VT,Vermont,2014-02-01,0,1,1,0,1,White,Not Hispanic,1,Simple Assault,1,Burlington,Anti-White,Female,False,
+1993,Law Enforcement Agency,NJ,New Jersey,1993-04-01,1,0,1,1,0,Black,Not Hispanic,1,Simple Assault,1,Newark,Anti-Black or African American,Male,False,
+1998,Law Enforcement Agency,LA,Louisiana,1998-01-01,2,0,2,2,0,Hispanic,Not Hispanic,2,Vandalism,2,New Orleans,Anti-Immigrant,"Male, Male",True,Anti-Immigrant
+2001,Law Enforcement Agency,IN,Indiana,2001-09-01,0,1,1,0,1,White,Not Hispanic,1,Vandalism,1,Indianapolis,Anti-White,Female,False,
+2006,Law Enforcement Agency,CO,Colorado,2006-06-01,1,0,1,1,0,Native American,Not Hispanic,1,Intimidation,1,Denver,Anti-Native American,Male,False,
+2012,Law Enforcement Agency,SC,South Carolina,2012-03-20,1,0,1,1,0,Black,Not Hispanic,1,Simple Assault,1,Columbia,Anti-Black or African American,Male,False,
+1997,Law Enforcement Agency,TN,Tennessee,1997-02-01,0,1,1,0,1,Hispanic,Not Hispanic,1,Simple Assault,1,Nashville,Anti-Immigrant,Female,False,
+1991,Law Enforcement Agency,AK,Alaska,1991-06-01,1,0,1,1,0,Asian,Not Hispanic,1,Intimidation,1,Anchorage,Anti-Asian,Male,False,
+2004,Law Enforcement Agency,CT,Connecticut,2004-04-01,2,0,2,2,0,White,Not Hispanic,2,Vandalism,2,Hartford,Anti-White,"Male, Male",True,Anti-White
+2010,Law Enforcement Agency,OR,Oregon,2010-01-15,0,1,1,0,1,Black,Not Hispanic,1,Simple Assault,1,Portland,Anti-Black or African American,Female,False,
+1996,Law Enforcement Agency,ME,Maine,1996-11-01,1,0,1,1,0,White,Not Hispanic,1,Intimidation,1,Bangor,Anti-White,Male,False,
+2009,Law Enforcement Agency,UT,Utah,2009-03-01,0,1,1,0,1,Hispanic,Not Hispanic,1,Vandalism,1,Salt Lake City,Anti-Hispanic,Female,False,
+2013,Law Enforcement Agency,DE,Delaware,2013-09-01,2,0,2,2,0,White,Not Hispanic,2,Vandalism,2,Wilmington,Anti-White,"Male, Male",True,Anti-White
+1994,Law Enforcement Agency,KY,Kentucky,1994-03-01,1,0,1,1,0,Native American,Not Hispanic,1,Intimidation,1,Louisville,Anti-Native American,Male,False,
+2005,Law Enforcement Agency,NV,Nevada,2005-08-01,0,1,1,0,1,Black,Not Hispanic,1,Simple Assault,1,Las Vegas,Anti-Black or African American,Female,False,
+2011,Law Enforcement Agency,MT,Montana,2011-06-01,1,0,1,1,0,Asian,Not Hispanic,1,Intimidation,1,Helena,Anti-Asian,Male,False,
+1995,Law Enforcement Agency,RI,Rhode Island,1995-07-01,2,0,2,2,0,Hispanic,Not Hispanic,2,Vandalism,2,Providence,Anti-Immigrant,"Male, Male",True,Anti-Immigrant
+2002,Law Enforcement Agency,IA,Iowa,2002-10-01,0,1,1,0,1,White,Not Hispanic,1,Simple Assault,1,Des Moines,Anti-White,Female,False,
+2007,Law Enforcement Agency,KS,Kansas,2007-09-01,1,0,1,1,0,Native American,Not Hispanic,1,Intimidation,1,Topeka,Anti-Native American,Male,False,
+1999,Law Enforcement Agency,WV,West Virginia,1999-05-01,1,0,1,1,0,Black,Not Hispanic,1,Simple Assault,1,Charleston,Anti-Black or African American,Male,False,
+2009,Law Enforcement Agency,ND,North Dakota,2009-07-01,0,1,1,0,1,Asian,Not Hispanic,1,Simple Assault,1,Bismarck,Anti-Asian,Female,False,
+2013,Law Enforcement Agency,AK,Alaska,2013-05-01,2,0,2,2,0,White,Not Hispanic,2,Vandalism,2,Juneau,Anti-White,"Male, Male",True,Anti-White
+1994,Law Enforcement Agency,VT,Vermont,1994-09-01,1,0,1,1,0,Native American,Not Hispanic,1,Intimidation,1,Montpelier,Anti-Native American,Male,False,
+2005,Law Enforcement Agency,ID,Idaho,2005-01-01,0,1,1,0,1,Hispanic,Not Hispanic,1,Simple Assault,1,Boise,Anti-Hispanic,Female,False,
+2011,Law Enforcement Agency,NE,Nebraska,2011-04-01,1,0,1,1,0,Asian,Not Hispanic,1,Intimidation,1,Lincoln,Anti-Asian,Male,False,
+1995,Law Enforcement Agency,WY,Wyoming,1995-03-01,1,0,1,1,0,Black,Not Hispanic,1,Simple Assault,1,Cheyenne,Anti-Black or African American,Male,False,
+2002,Law Enforcement Agency,HI,Hawaii,2002-12-01,0,1,1,0,1,White,Not Hispanic,1,Simple Assault,1,Honolulu,Anti-White,Female,False,
+2007,Law Enforcement Agency,GA,Georgia,2007-08-01,2,0,2,2,0,Hispanic,Not Hispanic,2,Vandalism,2,Atlanta,Anti-Immigrant,"Male, Male",True,Anti-Immigrant

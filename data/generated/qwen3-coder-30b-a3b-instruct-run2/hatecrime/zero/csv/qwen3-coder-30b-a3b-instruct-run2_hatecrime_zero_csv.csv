@@ -1,0 +1,1007 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,Local Police,CA,California,1991-03-15,2,0,3,2,1,White,Non-Hispanic,2,Assault,2,Residence,Religious Bias,"Adult,Child",False,True
+1992,State Police,NY,New York,1992-07-22,1,1,2,1,1,Black,Non-Hispanic,2,Intimidation,2,Street,Racial Bias,"Adult,Child",False,False
+1993,Local Police,TX,Texas,1993-11-08,0,3,4,3,1,Hispanic,Hispanic,3,Battery,3,School,Hate Crime,Child,False,True
+1994,Federal Police,FL,Florida,1994-02-14,3,0,5,4,1,White,Non-Hispanic,3,Assault,3,Public Place,Sexual Orientation Bias,Adult,False,False
+1995,Local Police,GA,Georgia,1995-09-30,2,1,6,5,1,Black,Non-Hispanic,3,Assault,3,Restaurant,Religious Bias,"Adult,Child",True,False
+1996,State Police,IL,Illinois,1996-05-17,1,2,3,2,1,White,Non-Hispanic,3,Hate Crime,3,Park,Racial Bias,"Adult,Child",False,True
+1997,Local Police,OH,Ohio,1997-12-04,4,0,7,6,1,Asian,Asian,4,Intimidation,4,Store,Gender Identity Bias,Adult,False,False
+1998,Federal Police,PA,Pennsylvania,1998-08-21,2,1,4,3,1,White,Non-Hispanic,3,Assault,3,Church,Hate Crime,"Adult,Child",True,False
+1999,Local Police,MI,Michigan,1999-01-11,3,0,5,4,1,Hispanic,Hispanic,3,Battery,3,Street,Religious Bias,Adult,False,False
+2000,State Police,VA,Virginia,2000-06-28,1,2,6,5,1,Black,Non-Hispanic,3,Assault,3,School,Racial Bias,"Adult,Child",False,True
+2001,Local Police,NJ,New Jersey,2001-10-05,2,1,3,2,1,White,Non-Hispanic,3,Battery,3,Public Place,Gender Identity Bias,"Adult,Child",False,False
+2002,Federal Police,NC,North Carolina,2002-03-19,0,3,4,3,1,Hispanic,Hispanic,3,Assault,3,Hospital,Sexual Orientation Bias,Child,True,False
+2003,Local Police,MD,Maryland,2003-11-13,5,0,8,7,1,White,Non-Hispanic,5,Intimidation,5,Residence,Hate Crime,Adult,False,True
+2004,State Police,WA,Washington,2004-04-25,3,1,6,5,1,Asian,Asian,4,Assault,4,University,Racial Bias,"Adult,Child",True,False
+2005,Local Police,SC,South Carolina,2005-07-18,2,2,5,4,1,Black,Non-Hispanic,4,Battery,4,Restaurant,Religious Bias,"Adult,Child",False,True
+2006,Federal Police,CO,Colorado,2006-12-30,1,3,7,6,1,White,Non-Hispanic,4,Assault,4,Office,Hate Crime,"Adult,Child",False,False
+2007,Local Police,OR,Oregon,2007-02-11,4,0,6,5,1,Hispanic,Hispanic,4,Assault,4,Park,Sexual Orientation Bias,Adult,True,False
+2008,State Police,FL,Florida,2008-09-03,3,1,4,3,1,White,Non-Hispanic,4,Intimidation,4,Store,Racial Bias,"Adult,Child",False,True
+2009,Local Police,TX,Texas,2009-05-20,2,2,5,4,1,Black,Non-Hispanic,4,Battery,4,Street,Hate Crime,"Adult,Child",True,False
+2010,Federal Police,NJ,New Jersey,2010-08-14,1,3,6,5,1,Asian,Asian,4,Assault,4,Residence,Religious Bias,"Adult,Child",False,True
+2011,Local Police,GA,Georgia,2011-01-27,3,0,7,6,1,White,Non-Hispanic,3,Assault,3,University,Gender Identity Bias,Adult,False,False
+2012,State Police,PA,Pennsylvania,2012-10-09,2,1,5,4,1,Hispanic,Hispanic,3,Battery,3,Church,Sexual Orientation Bias,"Adult,Child",True,False
+2013,Local Police,IL,Illinois,2013-03-16,0,4,6,5,1,Black,Non-Hispanic,4,Assault,4,School,Hate Crime,Child,False,True
+2014,County Sheriff,OH,Ohio,2014-11-30,3,1,5,4,1,White,Non-Hispanic,4,Intimidation,4,Store,Racial Bias,"Adult,Child",False,False
+2000,Federal Police,NV,Nevada,2000-04-12,1,0,2,2,0,White,Non-Hispanic,1,Assault,1,Residence,Sexual Orientation Bias,Adult,True,True
+1995,Local Police,AL,Alabama,1995-07-19,2,2,3,2,1,Black,Non-Hispanic,4,Battery,4,Hotel,Hate Crime,"Adult,Child",False,True
+1998,State Police,AR,Arkansas,1998-12-08,1,1,4,3,1,Hispanic,Hispanic,2,Assault,2,School,Religious Bias,"Adult,Child",True,False
+1999,Federal Police,VT,Vermont,1999-05-25,3,0,6,5,1,White,Non-Hispanic,3,Intimidation,3,Church,Gender Identity Bias,Adult,False,True
+2002,Local Police,MS,Mississippi,2002-09-10,3,0,5,4,1,Black,Non-Hispanic,3,Assault,3,Park,Hate Crime,Adult,True,False
+2003,State Police,WI,Wisconsin,2003-02-14,1,2,4,3,1,Asian,Asian,3,Battery,3,Restaurant,Racial Bias,"Adult,Child",False,True
+2005,Federal Police,OK,Oklahoma,2005-08-05,2,1,6,5,1,White,Non-Hispanic,3,Assault,3,University,Sexual Orientation Bias,"Adult,Child",True,False
+2007,Local Police,AZ,Arizona,2007-11-22,4,0,8,7,1,Hispanic,Hispanic,4,Intimidation,4,Store,Hate Crime,Adult,False,True
+2009,State Police,WV,West Virginia,2009-04-16,2,2,5,4,1,White,Non-Hispanic,4,Battery,4,Office,Racial Bias,"Adult,Child",True,False
+2010,Federal Police,IN,Indiana,2010-07-09,1,3,6,5,1,Black,Non-Hispanic,4,Assault,4,Hospital,Religious Bias,"Adult,Child",False,True
+2012,Local Police,KY,Kentucky,2012-01-30,3,1,4,3,1,White,Non-Hispanic,4,Assault,4,Street,Gender Identity Bias,"Adult,Child",True,False
+2013,State Police,ME,Maine,2013-06-14,2,1,5,4,1,Hispanic,Hispanic,3,Battery,3,University,Hate Crime,"Adult,Child",False,True
+2006,Federal Police,RI,Rhode Island,2006-09-28,1,2,4,3,1,White,Non-Hispanic,3,Assault,3,School,Sexual Orientation Bias,"Adult,Child",True,False
+2011,Local Police,ND,North Dakota,2011-03-17,1,3,5,4,1,Asian,Asian,4,Intimidation,4,Public Place,Racial Bias,"Adult,Child",False,True
+2004,State Police,SD,South Dakota,2004-10-10,2,1,6,5,1,Black,Non-Hispanic,3,Battery,3,Church,Hate Crime,"Adult,Child",True,False
+1997,Federal Police,IA,Iowa,1997-01-21,0,4,6,5,1,White,Non-Hispanic,4,Assault,4,Restaurant,Religious Bias,Child,False,True
+2008,Local Police,NE,Nebraska,2008-05-06,3,1,5,4,1,Hispanic,Hispanic,4,Intimidation,4,Store,Racial Bias,"Adult,Child",True,False
+2014,State Police,MT,Montana,2014-08-20,1,2,4,3,1,White,Non-Hispanic,3,Battery,3,Park,Sexual Orientation Bias,"Adult,Child",False,True
+1994,Federal Police,DE,Delaware,1994-12-02,4,0,7,6,1,Black,Non-Hispanic,4,Assault,4,Residence,Hate Crime,Adult,True,False
+2001,Local Police,RI,Rhode Island,2001-06-30,2,1,5,4,1,White,Non-Hispanic,3,Battery,3,University,Religious Bias,"Adult,Child",False,True
+2003,State Police,CT,Connecticut,2003-11-15,1,3,6,5,1,Asian,Asian,4,Assault,4,Hospital,Gender Identity Bias,"Adult,Child",True,False
+2007,Federal Police,VT,Vermont,2007-02-08,2,0,4,3,1,White,Non-Hispanic,2,Intimidation,2,Store,Sexual Orientation Bias,Adult,False,True
+2013,Local Police,NH,New Hampshire,2013-08-18,3,1,5,4,1,Hispanic,Hispanic,4,Assault,4,Restaurant,Racial Bias,"Adult,Child",False,True
+2009,State Police,MN,Minnesota,2009-04-01,1,2,6,5,1,White,Non-Hispanic,3,Battery,3,School,Hate Crime,"Adult,Child",True,False
+2002,Federal Police,NC,Carolina,2002-07-25,2,1,5,4,1,Black,Non-Hispanic,3,Assault,3,Church,Religious Bias,"Adult,Child",False,True
+2006,Local Police,LA,Louisiana,2006-01-13,3,0,7,6,1,Hispanic,Hispanic,3,Intimidation,3,Park,Sexual Orientation Bias,Adult,True,False
+2010,State Police,ID,Idaho,2010-09-04,1,2,4,3,1,White,Non-Hispanic,3,Battery,3,University,Gender Identity Bias,"Adult,Child",False,True
+2005,Federal Police,KS,Kansas,2005-03-28,3,1,6,5,1,White,Non-Hispanic,4,Assault,4,Residence,Racial Bias,"Adult,Child",True,False
+2012,Local Police,OK,Oklahoma,2012-05-17,0,4,7,6,1,Asian,Asian,4,Intimidation,4,Hospital,Religious Bias,Child,False,True
+2004,State Police,WY,Wyoming,2004-12-30,2,2,5,4,1,Black,Non-Hispanic,4,Battery,4,School,Hate Crime,"Adult,Child",True,False
+2008,Federal Police,MO,Missouri,2008-08-15,1,3,6,5,1,White,Non-Hispanic,4,Assault,4,Store,Sexual Orientation Bias,"Adult,Child",False,True
+2011,Local Police,WV,West Virginia,2011-02-27,2,1,5,4,1,Hispanic,Hispanic,3,Intimidation,3,University,Racial Bias,"Adult,Child",True,False
+1996,State Police,KY,Kentucky,1996-06-08,3,1,6,5,1,White,Non-Hispanic,4,Battery,4,Park,Hate Crime,"Adult,Child",False,True
+2003,Federal Police,MN,Minnesota,2003-05-22,1,2,6,5,1,Asian,Asian,3,Assault,3,Restaurant,Religious Bias,"Adult,Child",True,False
+2014,Local Police,MD,Maryland,2014-07-11,0,3,7,6,1,White,Non-Hispanic,3,Intimidation,3,School,Sexual Orientation Bias,Child,False,True
+1999,State Police,PA,Pennsylvania,1999-10-30,2,1,5,4,1,Hispanic,Hispanic,3,Battery,3,Church,Gender Identity Bias,"Adult,Child",True,False
+2000,Federal Police,FL,Florida,2000-01-18,3,0,7,6,1,Black,Non-Hispanic,3,Assault,3,Office,Racial Bias,Adult,False,True
+2013,Local Police,NJ,New Jersey,2013-12-05,1,3,6,5,1,White,Non-Hispanic,4,Intimidation,4,Residence,Hate Crime,"Adult,Child",True,False
+1997,State Police,WA,Washington,1997-09-09,4,0,8,7,1,Asian,Asian,4,Assault,4,Store,Religious Bias,Adult,False,True
+2009,Federal Police,TX,Texas,2009-03-12,2,1,6,5,1,White,Non-Hispanic,3,Battery,3,Hospital,Sexual Orientation Bias,"Adult,Child",True,False
+2012,Local Police,CA,California,2012-11-24,1,2,4,3,1,Hispanic,Hispanic,3,Assault,3,University,Gender Identity Bias,"Adult,Child",False,True
+2007,State Police,IL,Illinois,2007-08-02,3,1,5,4,1,Black,Non-Hispanic,4,Intimidation,4,Church,Racial Bias,"Adult,Child",True,False
+2010,Federal Police,GA,Georgia,2010-02-01,2,1,6,5,1,White,Non-Hispanic,3,Battery,3,Residence,Hate Crime,"Adult,Child",False,True
+1992,State Police,CA,California,1992-03-15,1,0,2,1,1,White,Not Hispanic,1,Alien / Foreign Born,1,Residence,Religious Bias,"Individual,Group",No,No
+1993,Local Police,NY,New York,1993-07-22,2,1,3,2,1,Black,Not Hispanic,3,Physical Attack,3,Street,Sexual Orientation Bias,"Individual,Group",Yes,Yes
+1994,County Sheriff,FL,Florida,1994-11-08,0,1,1,0,1,White,Hispanic,1,Criminal Mischief,1,School,Other Bias,Individual,No,No
+1995,Federal Agency,IL,Illinois,1995-02-28,1,0,2,1,1,Hispanic,Hispanic,1,Assault,1,Store,Disability Bias,"Individual,Group",No,No
+1996,Local Police,TX,Texas,1996-09-14,0,2,2,0,2,White,Not Hispanic,2,Aggravated Assault,2,Residence,Racial Bias,Individual,Yes,Yes
+1997,State Police,WA,Washington,1997-05-30,1,0,1,1,0,African American,Not Hispanic,1,Assault,1,Park,Hate Group Activity,Individual,No,Yes
+1998,County Sheriff,OH,Ohio,1998-12-05,2,0,4,3,1,Asian,Not Hispanic,2,Intimidation,2,Office,Gender Bias,"Individual,Group",No,No
+1999,Local Police,MN,Minnesota,1999-08-19,1,1,3,2,1,White,Not Hispanic,2,Intimidation,2,Restaurant,Religious Bias,Individual,Yes,No
+2000,State Police,GA,Georgia,2000-01-11,0,1,1,0,1,Native American,Not Hispanic,1,Criminal Mischief,1,Place of Worship,Ethnicity Bias,Individual,No,No
+2001,Local Police,VA,Virginia,2001-06-25,3,0,5,4,1,Black,Not Hispanic,3,Assault,3,Hotel,LGBTQ+ Bias,Individual,Yes,Yes
+2002,County Sheriff,NC,North Carolina,2002-10-17,1,0,1,1,0,Hispanic,Hispanic,1,Robbery,1,Residence,Gender Bias,Individual,No,No
+2003,State Police,MI,Michigan,2003-04-03,0,1,2,1,1,White,Not Hispanic,1,Assault,1,College,Cultural Bias,Individual,Yes,Yes
+2004,Local Police,CO,Colorado,2004-11-30,2,0,3,2,1,White,Not Hispanic,2,Intimidation,2,Shopping Center,Sexual Orientation Bias,Individual,No,No
+2005,County Sheriff,AR,Arkansas,2005-03-12,1,0,2,1,1,Native American,Not Hispanic,1,Aggravated Assault,1,Church,Racial Bias,Individual,Yes,No
+2006,State Police,MD,Maryland,2006-07-18,0,2,2,0,2,Asian,Not Hispanic,2,Criminal Mischief,2,School,Bias Against Women,Individual,No,No
+2007,Local Police,KY,Kentucky,2007-09-21,3,1,4,3,1,White,Not Hispanic,4,Physical Attack,4,Park,Religious Bias,"Individual,Group",Yes,Yes
+2008,County Sheriff,NJ,New Jersey,2008-02-04,1,0,2,1,1,Hispanic,Hispanic,1,Assault,1,Home,Different Race,Individual,No,No
+2009,State Police,OR,Oregon,2009-05-16,0,3,3,0,3,White,Not Hispanic,3,Intimidation,3,Store,Other Bias,Individual,Yes,Yes
+2010,Local Police,WV,West Virginia,2010-12-08,2,0,2,2,0,African American,Not Hispanic,2,Physical Attack,2,Residence,Hate Group Activity,Individual,No,No
+2011,County Sheriff,AL,Alabama,2011-08-29,1,1,3,2,1,White,Not Hispanic,2,Assault,2,Street,Gender Bias,Individual,Yes,No
+2012,State Police,NE,Nebraska,2012-01-31,0,2,2,0,2,Black,Not Hispanic,2,Criminal Mischief,2,School,Racial Bias,Individual,No,No
+2013,Local Police,VT,Vermont,2013-10-15,2,0,3,2,1,Hispanic,Hispanic,2,Aggravated Assault,2,Dormitory,LGBTQ+ Bias,Individual,Yes,Yes
+2014,County Sheriff,LA,Louisiana,2014-03-22,1,0,1,1,0,White,Not Hispanic,1,Intimidation,1,Office,Religious Bias,Individual,No,No
+1991,State Police,PA,Pennsylvania,1991-07-07,3,1,4,3,1,Asian,Not Hispanic,4,Assault,4,House,Racial Bias,"Individual,Group",Yes,Yes
+1992,Local Police,SC,South Carolina,1992-12-14,1,0,2,1,1,White,Hispanic,1,Robbery,1,Restaurant,Sexual Orientation Bias,Individual,No,No
+1993,County Sheriff,MT,Montana,1993-06-23,0,1,1,0,1,African American,Not Hispanic,1,Criminal Mischief,1,Place of Worship,Ethnicity Bias,Individual,Yes,No
+1994,State Police,DE,Delaware,1994-11-05,2,0,3,2,1,White,Not Hispanic,2,Physical Attack,2,Residence,Hate Group Activity,Individual,No,No
+1995,Local Police,AK,Alaska,1995-02-18,1,1,2,1,1,Native American,Not Hispanic,2,Assault,2,Store,Gender Bias,Individual,Yes,Yes
+1996,County Sheriff,NH,New Hampshire,1996-09-27,0,3,3,0,3,White,Not Hispanic,3,Intimidation,3,School,Religious Bias,Individual,No,No
+1997,State Police,ME,Maine,1997-04-11,2,0,4,3,1,Hispanic,Hispanic,2,Aggravated Assault,2,Warehouse,Cultural Bias,Individual,Yes,Yes
+1998,Local Police,ND,North Dakota,1998-08-08,1,0,2,1,1,White,Not Hispanic,1,Assault,1,Church,Bias Against Women,Individual,No,No
+1999,County Sheriff,WI,Wisconsin,1999-12-19,0,2,2,0,2,Black,Not Hispanic,2,Criminal Mischief,2,Residence,Racial Bias,Individual,Yes,No
+2000,State Police,ID,Idaho,2000-05-02,3,0,5,4,1,White,Not Hispanic,3,Physical Attack,3,Park,Sexual Orientation Bias,Individual,No,No
+2001,Local Police,RI,Rhode Island,2001-10-25,1,1,3,2,1,African American,Not Hispanic,2,Assault,2,Street,Religious Bias,Individual,Yes,Yes
+2002,County Sheriff,SD,South Dakota,2002-03-30,0,1,1,0,1,White,Hispanic,1,Intimidation,1,Office,Other Bias,Individual,No,No
+2003,State Police,VT,Vermont,2003-07-13,2,0,3,2,1,Native American,Not Hispanic,2,Assault,2,University,Hate Group Activity,Individual,Yes,No
+2004,Local Police,HI,Hawaii,2004-11-20,1,0,2,1,1,Asian,Not Hispanic,1,Robbery,1,Store,Gender Bias,Individual,No,Yes
+2005,County Sheriff,IN,Indiana,2005-03-01,0,2,2,0,2,White,Not Hispanic,2,Criminal Mischief,2,Residence,Ethnicity Bias,Individual,Yes,Yes
+2006,State Police,GA,Georgia,2006-09-28,3,0,4,3,1,Hispanic,Hispanic,3,Aggravated Assault,3,Restaurant,Religious Bias,Individual,No,No
+2007,Local Police,WV,West Virginia,2007-01-15,1,1,2,1,1,White,Not Hispanic,2,Assault,2,Home,Sexual Orientation Bias,Individual,Yes,Yes
+2008,County Sheriff,FL,Florida,2008-07-12,0,1,1,0,1,Black,Not Hispanic,1,Intimidation,1,School,Racial Bias,Individual,No,No
+2009,State Police,AZ,Arizona,2009-12-09,2,0,3,2,1,White,Hispanic,2,Physical Attack,2,Store,LGBTQ+ Bias,Individual,Yes,No
+2010,Local Police,CA,California,2010-04-04,1,0,2,1,1,Native American,Not Hispanic,1,Assault,1,Customer Service Area,Disability Bias,Individual,No,No
+2011,County Sheriff,NY,New York,2011-11-22,0,3,3,0,3,White,Not Hispanic,3,Criminal Mischief,3,Residence,Hate Group Activity,Individual,Yes,Yes
+2012,State Police,OH,Ohio,2012-02-14,3,1,4,3,1,Hispanic,Hispanic,4,Aggravated Assault,4,Office,Religious Bias,"Individual,Group",No,No
+2013,Local Police,TX,Texas,2013-08-31,1,0,2,1,1,White,Not Hispanic,1,Intimidation,1,University,Gender Bias,Individual,Yes,Yes
+2014,County Sheriff,IL,Illinois,2014-05-17,0,1,1,0,1,African American,Not Hispanic,1,Assault,1,Hospital,Cultural Bias,Individual,No,No
+1991,State Police,FL,Florida,1991-01-23,2,0,3,2,1,White,Not Hispanic,2,Robbery,2,Residence,Bias Against Women,Individual,Yes,No
+1992,Local Police,GA,Georgia,1992-08-14,1,1,2,1,1,Black,Not Hispanic,2,Physical Attack,2,Office,Racial Bias,Individual,No,Yes
+1993,County Sheriff,TX,Texas,1993-04-07,0,2,2,0,2,Hispanic,Hispanic,2,Assault,2,School,Sexual Orientation Bias,Individual,Yes,Yes
+1994,State Police,NC,North Carolina,1994-10-13,3,0,4,3,1,White,Not Hispanic,3,Aggravated Assault,3,Store,Religious Bias,Individual,No,No
+1995,Local Police,NY,New York,1995-06-21,1,0,2,1,1,African American,Not Hispanic,1,Intimidation,1,Street,Other Bias,Individual,Yes,No
+1996,County Sheriff,MA,Massachusetts,1996-12-02,0,1,1,0,1,White,Hispanic,1,Criminal Mischief,1,Residence,Hate Group Activity,Individual,No,No
+1997,State Police,VA,Virginia,1997-03-18,2,1,3,2,1,Asian,Not Hispanic,3,Assault,3,Park,Disability Bias,Individual,Yes,Yes
+1998,Local Police,MD,Maryland,1998-09-05,1,0,1,1,0,White,Not Hispanic,1,Physical Attack,1,Home,Gender Bias,Individual,No,No
+1999,County Sheriff,MN,Minnesota,1999-12-29,0,2,2,0,2,Hispanic,Hispanic,2,Intimidation,2,School,Racial Bias,Individual,Yes,No
+2000,State Police,CT,Connecticut,2000-07-16,2,0,3,2,1,White,Not Hispanic,2,Aggravated Assault,2,Store,Religious Bias,Individual,No,No
+2001,Local Police,MI,Michigan,2001-02-27,1,1,2,1,1,African American,Not Hispanic,2,Assault,2,Restaurant,Sexual Orientation Bias,Individual,Yes,Yes
+2002,County Sheriff,OR,Oregon,2002-10-30,0,1,1,0,1,Native American,Not Hispanic,1,Criminal Mischief,1,Church,Other Bias,Individual,No,No
+2003,State Police,CO,Colorado,2003-04-12,3,0,4,3,1,White,Not Hispanic,3,Physical Attack,3,College,Hate Group Activity,Individual,Yes,No
+2004,Local Police,NJ,New Jersey,2004-08-17,1,0,2,1,1,Hispanic,Hispanic,1,Assault,1,Residence,Gender Bias,Individual,No,No
+2005,County Sheriff,KY,Kentucky,2005-01-22,0,2,2,0,2,White,Not Hispanic,2,Intimidation,2,Office,Racial Bias,Individual,Yes,Yes
+2006,State Police,WA,Washington,2006-06-13,2,0,3,2,1,Asian,Not Hispanic,2,Aggravated Assault,2,Park,Religious Bias,Individual,No,No
+2007,Local Police,RI,Rhode Island,2007-11-28,1,1,2,1,1,White,Not Hispanic,2,Assault,2,Shop,Cultural Bias,Individual,Yes,No
+2008,County Sheriff,NH,New Hampshire,2008-03-09,0,1,1,0,1,Black,Not Hispanic,1,Criminal Mischief,1,Residence,Sexual Orientation Bias,Individual,No,No
+2009,State Police,AL,Alabama,2009-07-18,2,0,3,2,1,Hispanic,Hispanic,2,Physical Attack,2,Hair Salon,Disability Bias,Individual,Yes,Yes
+2010,Local Police,MN,Minnesota,2010-12-04,1,1,2,1,1,White,Not Hispanic,2,Assault,2,Restaurant,Religious Bias,Individual,No,No
+2011,County Sheriff,FL,Florida,2011-02-19,0,2,2,0,2,African American,Not Hispanic,2,Intimidation,2,Store,Bias Against Women,Individual,Yes,No
+2012,State Police,Oklahoma,2012-06-10,3,0,3,2,1,White,Not Hispanic,3,Aggravated Assault,3,Park,Racial Bias,Individual,No,Yes,
+2013,Local Police,VA,Virginia,2013-10-24,1,0,2,1,1,Hispanic,Hispanic,1,Assault,1,Residence,Hate Group Activity,Individual,Y,esNo
+2014,County Sheriff,GA,Georgia,2014-01-16,0,1,1,0,1,White,Not Hispanic,1,Criminal Mischief,1,Office,Ethnicity Bias,Individual,No,No
+1991,Police Department,AL,Alabama,1991-03-15,1,0,2,1,1,White,Not Hispanic,1,Assault,1,Residence,Religious Bias,Individual,False,True
+1992,Police Department,AK,Alaska,1992-07-22,0,1,1,0,1,Black,Not Hispanic,1,Assault,1,Street,Racial Bias,Family Member,False,True
+1993,Police Department,AZ,Arizona,1993-11-08,2,0,3,2,1,Hispanic,Hispanic,2,Aggravated Assault,2,Restaurant,Hate Crime,Individual,True,True
+1994,Police Department,AR,Arkansas,1994-01-30,1,0,1,1,0,White,Not Hispanic,1,Burglary,1,House of Worship,Sexual Orientation Bias,LGBTQ+ Individual,False,False
+1995,Police Department,CA,California,1995-05-12,0,2,2,0,2,White,Not Hispanic,2,Assault,2,School,Racial Bias,Students,True,False
+1996,Police Department,CO,Colorado,1996-09-18,1,0,1,1,0,Native American,Not Hispanic,1,Robbery,1,Mall,Religious Bias,Individual,False,False
+1997,Police Department,CT,Connecticut,1997-02-28,0,1,2,0,2,Asian,Not Hispanic,1,Aggravated Assault,1,Bar,Sexual Orientation Bias,LGBTQ+ Individual,True,True
+1998,Police Department,DE,Delaware,1998-10-05,2,0,2,1,1,White,Not Hispanic,2,Assault,2,House of Worship,Hate Crime,Individual,True,False
+1999,Police Department,FL,Florida,1999-04-17,0,1,1,0,1,Black,Not Hispanic,1,Assault,1,Residence,Religious Bias,Father,False,True
+2000,Police Department,GA,Georgia,2000-08-23,1,1,3,1,2,White,Not Hispanic,2,Assault,2,School,Gender Identity Bias,LGBTQ+ Individual,True,True
+2001,Police Department,HI,Hawaii,2001-12-11,0,2,2,0,2,Asian,Not Hispanic,2,Burglary,2,Store,Racial Bias,Family Member,True,False
+2002,Police Department,ID,Idaho,2002-06-30,1,0,3,2,1,Native American,Not Hispanic,1,Robbery,1,Residence,Hate Crime,Individual,False,True
+2003,Police Department,IL,Illinois,2003-03-14,1,0,2,1,1,White,Not Hispanic,1,Assault,1,Street,Hate Crime,Individual,True,False
+2004,Police Department,IN,Indiana,2004-11-02,2,0,2,2,0,Hispanic,Hispanic,2,Burglary,2,House of Worship,Religious Bias,Individual,True,False
+2005,Police Department,IA,Iowa,2005-07-19,0,1,1,0,1,Black,Not Hispanic,1,Aggravated Assault,1,School,Racial Bias,Students,False,True
+2006,Police Department,KS,Kansas,2006-01-25,1,0,2,1,1,White,Not Hispanic,1,Assault,1,Residence,Religious Bias,Family Member,True,True
+2007,Police Department,KY,Kentucky,2007-09-10,0,1,1,0,1,Asian,Not Hispanic,1,Assault,1,Mall,Sexual Orientation Bias,LGBTQ+ Individual,False,False
+2008,Police Department,LA,Louisiana,2008-05-07,2,0,3,2,1,White,Not Hispanic,2,Aggravated Assault,2,Home,Hate Crime,Individual,True,True
+2009,Police Department,ME,Maine,2009-10-15,0,2,2,0,2,Native American,Not Hispanic,2,Burglary,2,School,Racial Bias,Students,False,True
+2010,Police Department,MD,Maryland,2010-02-20,1,0,1,1,0,Hispanic,Hispanic,1,Assault,1,Street,Religious Bias,Individual,True,False
+2011,Police Department,MA,Massachusetts,2011-08-31,0,1,2,0,2,Black,Not Hispanic,1,Assault,1,Bar,Hate Crime,Individual,True,True
+2012,Police Department,MI,Michigan,2012-04-12,2,0,2,1,1,White,Not Hispanic,2,Robbery,2,House of Worship,Sexual Orientation Bias,LGBTQ+ Individual,True,False
+2013,Police Department,MN,Minnesota,2013-12-08,0,2,3,0,3,Asian,Not Hispanic,2,Aggravated Assault,2,Restaurant,Racial Bias,Family Member,True,True
+2014,Police Department,MS,Mississippi,2014-03-27,1,0,1,1,0,Native American,Not Hispanic,1,Burglary,1,Residence,Religious Bias,Individual,True,False
+2013,Police Department,MO,Missouri,2013-07-05,2,0,2,2,0,White,Not Hispanic,2,Assault,2,School,Hate Crime,Individual,True,True
+2012,Police Department,MT,Montana,2012-11-18,0,1,1,0,1,Black,Not Hispanic,1,Aggravated Assault,1,Residence,Religious Bias,Family Member,True,False
+2011,Police Department,NE,Nebraska,2011-01-30,1,0,3,2,1,Hispanic,Hispanic,1,Assault,1,Street,Racial Bias,Individual,True,True
+2010,Police Department,NV,Nevada,2010-09-22,0,2,2,0,2,White,Not Hispanic,2,Burglary,2,Mall,Sexual Orientation Bias,LGBTQ+ Individual,True,False
+2009,Police Department,NH,New Hampshire,2009-05-11,2,0,1,1,0,Native American,Not Hispanic,2,Aggravated Assault,2,House of Worship,Hate Crime,Individual,True,True
+2008,Police Department,NJ,New Jersey,2008-12-04,0,1,2,0,2,Asian,Not Hispanic,1,Assault,1,Store,Religious Bias,Individual,True,False
+2007,Police Department,NM,New Mexico,2007-06-16,1,0,2,1,1,Hispanic,Hispanic,1,Burglary,1,Residence,Hate Crime,Individual,True,True
+2006,Police Department,NY,New York,2006-02-28,0,2,2,0,2,White,Not Hispanic,2,Aggravated Assault,2,School,Racial Bias,Students,True,False
+2005,Police Department,NC,North Carolina,2005-08-09,1,0,3,2,1,Native American,Not Hispanic,1,Assault,1,Street,Religious Bias,Individual,True,True
+2004,Police Department,ND,North Dakota,2004-04-13,0,1,1,0,1,Black,Not Hispanic,1,Robbery,1,Residence,Sexual Orientation Bias,LGBTQ+ Individual,False,True
+2003,Police Department,OH,Ohio,2003-10-31,2,0,2,1,1,White,Not Hispanic,2,Burglary,2,House of Worship,Hate Crime,Individual,True,False
+2002,Police Department,OK,Oklahoma,2002-07-05,0,1,1,0,1,Asian,Not Hispanic,1,Assault,1,Mall,Racial Bias,Family Member,True,True
+2001,Police Department,OR,Oregon,2001-12-19,1,0,3,2,1,Hispanic,Hispanic,1,Aggravated Assault,1,Street,Religious Bias,Individual,True,False
+2000,Police Department,PA,Pennsylvania,2000-03-26,0,2,2,0,2,White,Not Hispanic,2,Burglary,2,House of Worship,Sexual Orientation Bias,LGBTQ+ Individual,True,True
+1999,Police Department,RI,Rhode Island,1999-09-10,1,0,1,1,0,Black,Not Hispanic,1,Assault,1,School,Hate Crime,Student,True,False
+1998,Police Department,SC,South Carolina,1998-05-30,0,1,2,0,2,Native American,Not Hispanic,1,Aggravated Assault,1,Residence,Racial Bias,Family Member,True,True
+1997,Police Department,SD,South Dakota,1997-11-15,2,0,2,1,1,White,Not Hispanic,2,Robbery,2,Street,Religious Bias,Individual,True,False
+1996,Police Department,TN,Tennessee,1996-02-01,0,2,1,0,1,Asian,Not Hispanic,2,Burglary,2,House of Worship,Hate Crime,Individual,True,True
+1995,Police Department,TX,Texas,1995-08-14,1,0,3,2,1,Hispanic,Hispanic,1,Assault,1,School,Racial Bias,Students,True,False
+1994,Police Department,UT,Utah,1994-04-19,0,1,1,0,1,White,Not Hispanic,1,Aggravated Assault,1,Store,Sexual Orientation Bias,LGBTQ+ Individual,True,True
+1993,Police Department,VT,Vermont,1993-07-25,1,0,2,1,1,Native American,Not Hispanic,1,Burglary,1,Residence,Hate Crime,Individual,True,False
+1992,Police Department,VA,Virginia,1992-12-08,0,2,2,0,2,Black,Not Hispanic,2,Assault,2,House of Worship,Racial Bias,Group,True,True
+1991,Police Department,WA,Washington,1991-06-22,2,0,1,1,0,White,Not Hispanic,2,Aggravated Assault,2,Street,Religious Bias,Individual,True,False
+2014,Police Department,WV,West Virginia,2014-01-18,0,1,1,0,1,Hispanic,Hispanic,1,Burglary,1,School,Hate Crime,Student,True,True
+2013,Police Department,WI,Wisconsin,2013-08-30,1,0,3,2,1,White,Not Hispanic,1,Assault,1,Residence,Racial Bias,Individual,True,False
+2012,Police Department,WY,Wyoming,2012-04-10,0,2,2,0,2,Asiian,Not Hispanic,2,Aggravated Assault,2,Bar,Religious Bias,LGBTQ+ Individual,True,True
+2011,Police Department,DC,District of Columbia,2011-10-25,2,0,2,1,1,Black,Not Hispanic,2,Burglary,2,House of Worship,Sexual Orientation Bias,Individual,True,False
+2010,Police Department,AL,Alabama,2010-02-11,1,0,1,1,0,White,Not Hispanic,1,Assault,1,School,Hate Crime,Student,False,True
+2009,Police Department,AR,Arkansas,2009-07-08,0,1,2,0,2,Native American,Not Hispanic,1,Robbery,1,Bar,Racial Bias,Family Member,True,True
+2008,Police Department,FL,Florida,2008-12-19,1,0,2,1,1,Asian,Not Hispanic,1,Burglary,1,Store,Religious Bias,Individual,False,False
+2007,Police Department,GD,Georgia,2007-03-23,0,2,1,0,1,Hispanic,Hispanic,2,Aggravated Assault,2,Residence,Hate Crime,Individual,True,True
+2006,Police Department,KY,Kentucky,2006-09-05,2,0,3,2,1,White,Not Hispanic,2,Assault,2,School,Racial Bias,Students,True,False
+2005,Police Department,MA,Massachusetts,2005-11-14,0,1,1,0,1,Native American,Not Hispanic,1,Robbery,1,Street,Sexual Orientation Bias,LGBTQ+ Individual,True,True
+2004,Police Department,MD,Maryland,2004-05-30,1,0,2,1,1,Black,Not Hispanic,1,Burglary,1,House of Worship,Hate Crime,Individual,False,False
+2003,Police Department,MI,Michigan,2003-08-21,0,2,2,0,2,White,Not Hispanic,2,Aggravated Assault,2,School,Racial Bias,Students,True,True
+2002,Police Department,NE,Nebraska,2002-01-17,2,0,1,1,0,Hispanic,Hispanic,2,Burglary,2,House of Worship,Religious Bias,Individual,True,False
+2001,Police Department,NY,New York,2001-06-08,0,1,3,0,3,Asian,Not Hispanic,1,Assault,1,Residence,Hate Crime,Individual,True,True
+2000,Police Department,NC,North Carolina,2000-10-28,1,0,2,1,1,Black,Not Hispanic,1,Robbery,1,Mall,Racial Bias,Family Member,True,False
+1999,Police Department,OR,Oregon,1999-04-14,0,2,1,0,1,White,Not Hispanic,2,Aggravated Assault,2,Street,Sexual Orientation Bias,LGBTQ+ Individual,True,True
+1998,Police Department,PA,Pennsylvania,1998-12-03,2,0,2,1,1,Hispanic,Hispanic,2,Burglary,2,Store,Hate Crime,Individual,True,False
+1997,Police Department,TX,Texas,1997-07-19,0,1,1,0,1,Native American,Not Hispanic,1,Assault,1,House of Worship,Racial Bias,Individual,True,True
+1996,Police Department,VA,Virginia,1996-09-30,1,0,3,2,1,Black,Not Hispanic,1,Burglary,1,School,Religious Bias,Student,True,False
+1995,Police Department,WV,West Virginia,1995-02-15,0,2,2,0,2,White,Not Hispanic,2,Aggravated Assault,2,Residence,Hate Crime,Individual,True,True
+1994,Police Department,WI,Wisconsin,1994-05-27,1,0,2,1,1,Asian,Not Hispanic,1,Robbery,1,Store,Racial Bias,Family Member,False,False
+1993,Police Department,CA,California,1993-08-11,0,1,1,0,1,Hispanic,Hispanic,1,Assault,1,House of Worship,Sexual Orientation Bias,LGBTQ+ Individual,True,True
+1992,Police Department,FL,Florida,1992-11-22,2,0,2,1,1,White,Not Hispanic,2,Burglary,2,School,Hate Crime,Individual,True,False
+1991,Police Department,IL,Illinois,1991-03-30,0,2,1,0,1,Black,Not Hispanic,2,Aggravated Assault,2,Residence,Racial Bias,Family Member,True,True
+1991,Local Law Enforcement,NY,New York,1991-03-15,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Residence,Racial Bias,Adult Victim,False,False
+1992,State Police,CA,California,1992-07-22,2,0,3,2,1,Black,Hispanic,2,Assault,2,Street,Hate Crime,Adult Victim,False,False
+1993,Local Law Enforcement,TX,Texas,1993-11-08,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,Church,Religious Bias,Juvenile Victim,True,False
+1994,County Sheriff,FL,Florida,1994-02-14,1,0,2,1,1,Hispanic,Hispanic,1,Assault,1,Restaurant,Sexual Orientation Bias,Adult Victim,False,False
+1995,Local Law Enforcement,IL,Illinois,1995-09-30,2,1,4,2,2,White,Non-Hispanic,3,Assault,3,Street,Racial Bias,Adult Victim,True,False
+1996,State Police,PA,Pennsylvania,1996-04-17,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,School,Religious Bias,Adult Victim,False,False
+1997,Local Law Enforcement,OH,Ohio,1997-10-25,3,0,2,2,0,Black,Non-Hispanic,3,Assault,3,Store,Racial Bias,Adult Victim,True,True
+1998,County Sheriff,GA,Georgia,1998-06-03,0,1,2,0,2,White,Non-Hispanic,1,Assault,1,Residence,Gender Bias,Juvenile Victim,True,False
+1999,Local Law Enforcement,MN,Minnesota,1999-01-19,2,0,3,2,1,Asian,Non-Hispanic,2,Intimidation,2,Other,Political Bias,Adult Victim,False,False
+2000,State Police,WA,Washington,2000-08-12,1,1,2,1,1,White,Non-Hispanic,2,Assault,2,School,Religious Bias,Juvenile Victim,True,False
+2001,Local Law Enforcement,NC,North Carolina,2001-12-05,0,2,3,0,3,White,Non-Hispanic,2,Assault,2,House,Sexual Orientation Bias,Juvenile Victim,True,False
+2002,County Sheriff,NJ,New Jersey,2002-05-30,1,0,2,1,1,Black,Non-Hispanic,1,Intimidation,1,Community Center,Racial Bias,Adult Victim,False,False
+2003,Local Law Enforcement,MI,Michigan,2003-09-18,2,1,1,1,0,White,Non-Hispanic,3,Assault,3,Office Building,Hate Crime,Adult Victim,True,True
+2004,State Police,VA,Virginia,2004-02-27,1,0,2,1,1,Hispanic,Hispanic,1,Assault,1,Street,Religious Bias,Adult Victim,False,True
+2005,Local Law Enforcement,MD,Maryland,2005-07-11,1,0,3,2,1,White,Non-Hispanic,1,Intimidation,1,Residence,Hate Crime,Adult Victim,False,False
+2006,County Sheriff,IN,Indiana,2006-10-09,0,1,2,0,2,Asian,Asian,1,Assault,1,Restaurant,Bias Against Disability,Juvenile Victim,True,False
+2007,Local Law Enforcement,OR,Oregon,2007-03-23,2,0,2,2,0,White,Non-Hispanic,2,Assault,2,Shopping Mall,Gender Bias,Adult Victim,True,False
+2008,State Police,NE,Nebraska,2008-06-14,3,1,4,2,2,Black,Non-Hispanic,4,Assault,4,Street,Racial Bias,Juvenile Victim,True,True
+2009,Local Law Enforcement,TN,Tennessee,2009-11-01,1,0,3,2,1,Hispanic,Hispanic,1,Intimidation,1,Church,Hate Crime,Adult Victim,False,True
+2010,County Sheriff,WI,Wisconsin,2010-04-16,0,2,3,0,3,White,Non-Hispanic,2,Assault,2,School,Religious Bias,Juvenile Victim,True,False
+2011,Local Law Enforcement,AL,Alabama,2011-08-29,1,0,3,2,1,White,Non-Hispanic,1,Assault,1,Store,Gender Bias,Adult Victim,True,False
+2012,State Police,KY,Kentucky,2012-01-07,2,0,2,2,0,Black,Non-Hispanic,2,Intimidation,2,Residence,Hate Crime,Adult Victim,False,False
+2013,Local Law Enforcement,VT,Vermont,2013-09-10,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Museum,Religious Bias,Adult Victim,True,False
+2014,County Sheriff,SD,South Dakota,2014-05-21,1,1,3,2,1,White,Non-Hispanic,2,Assault,2,Bus Station,Racial Bias,Juvenile Victim,True,True
+1991,Local Law Enforcement,GA,Georgia,1991-05-14,0,1,2,0,2,White,Non-Hispanic,1,Intimidation,1,Library,Religious Bias,Juvenile Victim,True,False
+1992,State Police,AZ,Arizona,1992-12-03,4,0,3,2,1,Hispanic,Hispanic,4,Assault,4,Office Building,Racial Bias,Adult Victim,True,False
+1993,Local Law Enforcement,ID,Idaho,1993-07-19,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Dormitory,Hate Crime,Adult Victim,True,False
+1994,County Sheriff,ME,Maine,1994-10-02,2,1,2,1,1,Black,Non-Hispanic,3,Assault,3,Residence,Sexual Orientation Bias,Adult Victim,True,False
+1995,Local Law Enforcement,MT,Montana,1995-01-15,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Store,Bias Against Disability,Adult Victim,True,False
+1996,State Police,NH,New Hampshire,1996-06-28,0,2,3,0,3,White,Non-Hispanic,2,Assault,2,Residence,Religious Bias,Juvenile Victim,True,False
+1997,Local Law Enforcement,RI,Rhode Island,1997-09-01,1,1,4,2,2,Hispanic,Hispanic,2,Assault,2,Gym,Hate Crime,Juvenile Victim,True,True
+1998,County Sheriff,SC,South Carolina,1998-03-17,3,0,3,2,1,Black,Non-Hispanic,3,Intimidation,3,Street,Racial Bias,Adult Victim,True,False
+1999,Local Law Enforcement,KS,Kansas,1999-11-12,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Restaurant,Gender Bias,Adult Victim,True,False
+2000,State Police,AR,Arkansas,2000-07-24,0,1,2,0,2,White,Non-Hispanic,1,Assault,1,School,Religious Bias,Juvenile Victim,True,False
+2001,Local Law Enforcement,MO,Missouri,2001-02-28,2,1,3,2,1,Hispanic,Hispanic,3,Intimidation,3,House,Racial Bias,Juvenile Victim,True,True
+2002,County Sheriff,AK,Alaska,2002-08-15,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Street,Hate Crime,Adult Victim,True,False
+2003,Local Law Enforcement,VT,Vermont,2003-12-10,0,1,1,0,1,White,Non-Hispanic,1,Assault,1,Park,Sexual Orientation Bias,Juvenile Victim,True,False
+2004,State Police,WV,West Virginia,2004-04-23,2,0,3,2,1,Black,Non-Hispanic,2,Assault,2,Store,Gender Bias,Adult Victim,True,False
+2005,Local Law Enforcement,WY,Wyoming,2005-09-30,0,1,2,0,2,White,Non-Hispanic,1,Intimidation,1,Residence,Bias Against Disability,Juvenile Victim,True,False
+2006,County Sheriff,DE,Delaware,2006-03-07,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Museum,Religious Bias,Adult Victim,True,False
+2007,Local Law Enforcement,ND,North Dakota,2007-07-08,3,0,4,2,2,Hispanic,Hispanic,3,Assault,3,Community Center,Racial Bias,Adult Victim,True,True
+2008,State Police,MT,Montana,2008-01-14,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Church,Hate Crime,Adult Victim,True,False
+2009,Local Law Enforcement,KY,Kentucky,2009-05-19,0,2,3,0,3,White,Non-Hispanic,2,Assault,2,Office Building,Sexual Orientation Bias,Juvenile Victim,True,False
+2010,County Sheriff,NM,New Mexico,2010-08-26,4,0,3,2,1,Hispanic,Hispanic,4,Assault,4,School,Racial Bias,Adult Victim,True,False
+2011,Local Law Enforcement,LA,Louisiana,2011-10-13,2,1,3,2,1,White,Non-Hispanic,3,Intimidation,3,Fairground,Bias Against Disability,Juvenile Victim,True,True
+2012,State Police,OH,Ohio,2012-02-22,1,0,2,1,1,Black,Non-Hispanic,1,Assault,1,Residence,Hate Crime,Adult Victim,True,False
+2013,Local Law Enforcement,UT,Utah,2013-06-06,3,0,4,2,2,White,Non-Hispanic,3,Assault,3,School,Religious Bias,Adult Victim,True,True
+2014,County Sheriff,MD,Maryland,2014-12-15,0,1,2,0,2,Asian,Asian,1,Intimidation,1,Store,Sexual Orientation Bias,Juvenile Victim,True,False
+1991,Local Law Enforcement,CT,Connecticut,1991-03-25,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Restaurant,Hate Crime,Adult Victim,True,False
+1992,State Police,NV,Nevada,1992-08-01,2,0,3,2,1,Hispanic,Hispanic,2,Assault,2,Gym,Racial Bias,Adult Victim,True,False
+1993,Local Law Enforcement,AK,Alaska,1993-12-30,0,2,2,0,2,White,Non-Hispanic,2,Intimidation,2,Residence,Religious Bias,Juvenile Victim,True,False
+1994,County Sheriff,CO,Colorado,1994-04-18,1,0,1,1,0,White,Non-Hispanic,1,Assault,1,Store,Gender Bias,Adult Victim,True,False
+1995,Local Law Enforcement,WV,West Virginia,1995-10-05,0,1,3,0,3,White,Non-Hispanic,1,Assault,1,Church,Bias Against Disability,Juvenile Victim,True,False
+1996,State Police,IA,Iowa,1996-06-11,2,0,2,2,0,Hispanic,Hispanic,2,Intimidation,2,Residence,Religious Bias,Adult Victim,True,False
+1997,Local Law Enforcement,MA,Massachusetts,1997-12-17,1,1,3,1,2,White,Non-Hispanic,2,Assault,2,Library,Sexual Orientation Bias,Juvenile Victim,True,True
+1998,County Sheriff,HI,Hawaii,1998-07-22,3,0,3,2,1,Black,Non-Hispanic,3,Assault,3,Museum,Hate Crime,Adult Victim,True,False
+1999,Local Law Enforcement,RI,Rhode Island,1999-01-11,0,1,2,0,2,White,Non-Hispanic,1,Intimidation,1,Park,Religious Bias,Juvenile Victim,True,False
+2000,State Police,KS,Kansas,2000-05-25,1,0,3,2,1,Hispanic,Hispanic,1,Assault,1,Street,Bias Against Disability,Adult Victim,True,False
+2001,Local Law Enforcement,MS,Mississippi,2001-11-14,1,0,1,1,0,White,Non-Hispanic,1,Assault,1,Residence,Hate Crime,Adult Victim,True,False
+2002,County Sheriff,SC,South Carolina,2002-03-29,0,2,2,0,2,White,Non-Hispanic,2,Intimidation,2,House,Sexual Orientation Bias,Juvenile Victim,True,False
+2003,Local Law Enforcement,VA,Virginia,2003-09-06,1,0,3,2,1,Black,Non-Hispanic,1,Assault,1,Library,Racial Bias,Adult Victim,True,True
+2004,State Police,NC,North Carolina,2004-12-02,3,0,3,2,1,Hispanic,Hispanic,3,Assault,3,Gym,Hate Crime,Adult Victim,True,False
+2005,Local Law Enforcement,DE,Delaware,2005-07-19,1,0,2,1,1,White,Non-Hispanic,1,Intimidation,1,Store,Religious Bias,Adult Victim,True,False
+2006,County Sheriff,GA,Georgia,2006-02-08,0,1,1,0,1,White,Non-Hispanic,1,Assault,1,School,Bias Against Disability,Juvenile Victim,True,False
+2007,Local Law Enforcement,WI,Wisconsin,2007-07-30,2,0,4,2,2,White,Non-Hispanic,2,Assault,2,Cemetery,Sexual Orientation Bias,Adult Victim,True,True
+2008,State Police,CA,California,2008-11-13,1,1,2,1,1,Hispanic,Hispanic,2,Intimidation,2,Museum,Hate Crime,Juvenile Victim,True,False
+2009,Local Law Enforcement,ID,Idaho,2009-05-21,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Store,Religious Bias,Adult Victim,True,False
+2010,County Sheriff,FL,Florida,2010-08-04,2,0,3,2,1,Black,Non-Hispanic,2,Assault,2,Restaurant,Gender Bias,Adult Victim,True,False
+2011,Local Law Enforcement,AL,Alabama,2011-02-14,0,1,2,0,2,White,Non-Hispanic,1,Intimidation,1,Residence,Bias Against Disability,Juvenile Victim,True,False
+2012,State Police,WA,Washington,2012-10-17,1,0,3,2,1,Hispanic,Hispanic,1,Assault,1,Home,Hate Crime,Adult Victim,True,False
+1991,Local Police,CA,California,1991-03-15,1,0,2,1,1,White,Not Hispanic,1,Assault,1,Residence,Religious Bias,Male Victim,False,False
+1992,State Police,FL,Florida,1992-07-22,0,1,3,2,1,Black,Hispanic,1,Property Damage,1,Street,Racial Bias,Female Victim,True,False
+1993,Local Police,NY,New York,1993-11-08,2,0,4,3,1,Asian,Not Hispanic,2,Assault,2,School,Sexual Orientation Bias,Male Victim,False,True
+1994,Federal Agency,TX,Texas,1994-02-19,1,1,2,1,1,White,Not Hispanic,2,Burglary,2,Residence,Religious Bias,Female Victim,False,False
+1995,Local Police,GA,Georgia,1995-09-30,0,2,3,2,1,Hispanic,Hispanic,2,Harassment,2,Restaurant,Racial Bias,Male Victim,True,True
+1996,State Police,IL,Illinois,1996-04-12,1,0,1,1,0,White,Not Hispanic,1,Threats,1,Street,Gender Bias,Male Victim,False,False
+1997,Local Police,OH,Ohio,1997-10-05,1,0,2,1,1,Black,Not Hispanic,1,Assault,1,Bar,Hate Crime,,Female Victim,False
+1998,County Sheriff,VA,Virginia,1998-01-28,0,1,2,1,1,Hispanic,Hispanic,1,Molesting,1,House,Religious Bias,Male Victim,True,False
+1999,Local Police,NC,North Carolina,1999-06-14,2,0,3,2,1,White,Not Hispanic,2,Burglary,2,School,Sexual Orientation Bias,Female Victim,False,False
+2000,Federal Agency,WA,Washington,2000-08-20,1,1,2,1,1,Asian,Not Hispanic,2,Assault,2,Store,Racial Bias,Male Victim,True,True
+2001,State Police,MI,Michigan,2001-12-03,0,1,3,2,1,White,Hispanic,1,Bomb Threat,1,Park,Religious Bias,Female Victim,False,False
+2002,Local Police,PA,Pennsylvania,2002-03-11,1,0,2,1,1,Black,Not Hispanic,1,Robbery,1,School,Hate Crime,,Male Victim,True
+2003,County Sheriff,MD,Maryland,2003-05-27,0,2,2,1,1,White,Not Hispanic,2,Harassment,2,Workplace,Gender Bias,Female Victim,False,True
+2004,Local Police,IN,Indiana,2004-09-16,2,0,4,3,1,Hispanic,Not Hispanic,2,Assault,2,House,Racial Bias,Male Victim,False,False
+2005,Federal Agency,SC,South Carolina,2005-02-24,0,1,2,1,1,Asian,Hispanic,1,Molesting,1,Street,Religious Bias,Female Victim,True,True
+2006,State Police,TN,Tennessee,2006-11-10,1,0,3,2,1,White,Not Hispanic,1,Burglary,1,Cemetery,Sexual Orientation Bias,Male Victim,False,False
+2007,Local Police,AR,Arkansas,2007-07-07,1,1,4,3,1,Black,Not Hispanic,2,Assault,2,Residence,Hate Crime,,Female Victim,True
+2008,County Sheriff,MN,Minnesota,2008-10-18,0,1,2,1,1,Hispanic,Hispanic,1,Threats,1,Restaurant,Racial Bias,Female Victim,False,True
+2009,Local Police,WV,West Virginia,2009-01-22,2,0,2,1,1,White,Not Hispanic,2,Robbery,2,Store,Religious Bias,Male Victim,False,False
+2010,Federal Agency,KY,Kentucky,2010-04-30,1,1,3,2,1,Asian,Not Hispanic,2,Property Damage,2,School,Gender Bias,Male Victim,True,True
+2011,State Police,LA,Louisiana,2011-08-15,0,1,2,1,1,White,Hispanic,1,Assault,1,House,Sexual Orientation Bias,Female Victim,False,False
+2012,Local Police,NJ,New Jersey,2012-02-13,1,0,3,2,1,Black,Not Hispanic,1,Burglary,1,Street,Hate Crime,,Male Victim,False
+2013,County Sheriff,VT,Vermont,2013-06-20,0,2,2,1,1,Hispanic,Hispanic,2,Harassment,2,Residence,Racial Bias,Female Victim,True,False
+2014,Local Police,NH,New Hampshire,2014-12-06,2,0,4,3,1,White,Not Hispanic,2,Assault,2,School,Religious Bias,Male Victim,False,False
+2001,State Police,MN,Minnesota,2001-05-19,1,0,3,2,1,Hispanic,Not Hispanic,1,Robbery,1,Workplace,Gender Bias,Female Victim,False,True
+2002,Local Police,OH,Ohio,2002-09-11,0,2,2,1,1,Black,Hispanic,2,Burglary,2,Residence,Hate Crime,,Male Victim,True
+2003,County Sheriff,CO,Colorado,2003-11-08,2,0,2,1,1,White,Not Hispanic,2,Assault,2,Store,Racial Bias,Female Victim,False,False
+2004,Local Police,AL,Alabama,2004-03-22,1,1,4,3,1,Asian,Not Hispanic,2,Property Damage,2,Park,Religious Bias,Male Victim,False,True
+2005,Federal Agency,WI,Wisconsin,2005-07-14,0,1,3,2,1,White,Hispanic,1,Threats,1,Street,Sexual Orientation Bias,Female Victim,True,False
+2006,State Police,KS,Kansas,2006-10-02,1,0,2,1,1,Black,Not Hispanic,1,Robbery,1,School,Hate Crime,,Male Victim,False
+2007,Local Police,VA,Virginia,2007-01-25,0,1,3,2,1,Hispanic,Hispanic,1,Assault,1,Residence,Racial Bias,Female Victim,False,False
+2008,County Sheriff,GA,Georgia,2008-04-18,2,0,2,1,1,White,Not Hispanic,2,Burglary,2,Shopping Mall,Gender Bias,Male Victim,True,True
+2009,Local Police,MN,Minnesota,2009-06-30,0,1,3,2,1,Asian,Hispanic,1,Harassment,1,Apartment Complex,Hate Crime,,Female Victim,False
+2010,Federal Agency,MD,Maryland,2010-08-12,1,1,2,1,1,White,Not Hispanic,2,Assault,2,Office,Religious Bias,Male Victim,True,True
+2011,State Police,FL,Florida,2011-10-05,1,0,4,3,1,Black,Not Hispanic,1,Molesting,1,Church,Sexual Orientation Bias,Female Victim,False,False
+2012,Local Police,TN,Tennessee,2012-12-16,0,1,2,1,1,Hispanic,Hispanic,1,Bomb Threat,1,Restaurant,Racial Bias,Male Victim,True,True
+2013,County Sheriff,UT,Utah,2013-02-28,2,0,3,2,1,White,Not Hispanic,2,Robbery,2,School,Hate Crime,,Female Victim,False
+2014,Local Police,NE,Nebraska,2014-05-19,1,0,2,1,1,Asian,Not Hispanic,1,Burglary,1,Hotel,Gender Bias,Male Victim,True,True
+2001,State Police,SC,South Carolina,2001-07-28,0,1,2,1,1,White,Hispanic,1,Assault,1,Street,Racial Bias,Female Victim,False,False
+2002,Local Police,NY,New York,2002-09-11,2,0,3,2,1,Black,Not Hispanic,2,Property Damage,2,School,Religious Bias,Male Victim,True,True
+2003,County Sheriff,MA,Massachusetts,2003-11-08,1,1,2,1,1,Hispanic,Hispanic,2,Burglary,2,House,Sexual Orientation Bias,Female Victim,False,False
+2004,Local Police,AZ,Arizona,2004-01-20,0,1,3,2,1,White,Not Hispanic,1,Assault,1,Shopping Mall,Hate Crime,,Male Victim,True
+2005,Federal Agency,NJ,New Jersey,2005-03-15,1,0,2,1,1,Asian,Not Hispanic,1,Threats,1,Residence,Gender Bias,Female Victim,False,False
+2006,State Police,MN,Minnesota,2006-06-05,1,1,4,3,1,White,Hispanic,2,Robbery,2,Street,Racial Bias,Male Victim,True,True
+2007,Local Police,MO,Missouri,2007-08-27,0,1,2,1,1,Black,Not Hispanic,1,Molesting,1,Restaurant,Religious Bias,Female Victim,False,False
+2008,County Sheriff,AL,Alabama,2008-10-30,2,0,3,2,1,Hispanic,Hispanic,2,Burglary,2,Church,Hate Crime,,Male Victim,True
+2009,Local Police,DE,Delaware,2009-12-12,1,1,2,1,1,White,Not Hispanic,2,Assault,2,Park,Sexual Orientation Bias,Female Victim,False,False
+2010,Federal Agency,NH,New Hampshire,2010-02-24,0,1,3,2,1,Asian,Hispanic,1,Threats,1,Home,Racial Bias,Male Victim,True,True
+2011,State Police,VT,Verмонт,2011-04-19,1,0,2,1,1,White,Not Hispanic,1,Burglary,1,Store,Gender Bias,Female Victim,False,False
+2012,Local Police,RI,Rhode Island,2012-06-03,0,2,2,1,1,Black,Not Hispanic,2,Harassment,2,Apartment Complex,Hate Crime,,Male Victim,True
+2013,County Sheriff,ND,North Dakota,2013-08-18,2,0,3,2,1,Hispanic,Hispanic,2,Assault,2,School,Religious Bias,Female Victim,False,False
+2014,Local Police,ID,Idaho,2014-10-01,1,1,4,3,1,White,Not Hispanic,2,Molesting,2,House,Sexual Orientation Bias,Male Victim,True,True
+2001,State Police,MT,Montana,2001-11-15,0,1,2,1,1,Asian,Not Hispanic,1,Bomb Threat,1,Restaurant,Racial Bias,Female Victim,False,False
+2002,Local Police,SD,South Dakota,2002-01-27,2,0,3,2,1,White,Hispanic,2,Robbery,2,Office,Hate Crime,,Male Victim,True
+2003,County Sheriff,OK,Oklahoma,2003-03-16,1,1,2,1,1,Black,Not Hispanic,2,Burglary,2,Hotel,Gender Bias,Female Victim,False,False
+2004,Local Police,KY,Kentucky,2004-05-08,0,1,4,3,1,Hispanic,Hispanic,1,Assault,1,Park,Racial Bias,Male Victim,True,True
+2005,Federal Agency,NV,Nevada,2005-07-22,1,0,2,1,1,White,Not Hispanic,1,Threats,1,Residence,Religious Bias,Female Victim,False,False
+2006,State Police,CA,California,2006-09-12,1,1,3,2,1,Asian,Not Hispanic,2,Molesting,2,School,Hate Crime,,Male Victim,True
+2007,Local Police,OR,Oregon,2007-11-29,0,1,2,1,1,White,Hispanic,1,Burglary,1,Bar,Sexual Orientation Bias,Female Victim,False,False
+2008,County Sheriff,WY,Wyoming,2008-01-10,2,0,3,2,1,Black,Not Hispanic,2,Assault,2,Street,Racial Bias,Male Victim,True,True
+2009,Local Police,ID,Idaho,2009-03-05,1,1,2,1,1,Hispanic,Hispanic,2,Threats,2,Workplace,Hate Crime,,Female Victim,False
+2010,Federal Agency,UT,Utah,2010-05-17,0,1,3,2,1,White,Not Hispanic,1,Robbery,1,Church,Gender Bias,Male Victim,True,True
+2011,State Police,AK,Alaska,2011-07-19,1,0,2,1,1,Asian,Hispanic,1,Burglary,1,Restaurant,Hate Crime,,Female Victim,False
+2012,Local Police,HI,Hawaii,2012-09-23,0,2,2,1,1,White,Not Hispanic,2,Property Damage,2,Home,Racial Bias,Male Victim,True,True
+2013,County Sheriff,PR,Puerto Rico,2013-11-03,2,0,3,2,1,Black,Hispanic,2,Assault,2,School,Religious Bias,Female Victim,False,False
+2014,Local Police,DC,Washington DC,2014-01-08,1,1,4,3,1,Hispanic,Hispanic,2,Molesting,2,Store,Hate Crime,,Male Victim,True
+2001,State Police,FL,Florida,2001-02-10,0,1,2,1,1,White,Not Hispanic,1,Harassment,1,Park,Sexual Orientation Bias,Female Victim,False,False
+2002,Local Police,GA,Georgia,2002-04-20,2,0,3,2,1,Asian,Hispanic,2,Robbery,2,Apartment Complex,Racial Bias,Male Victim,True,True
+2003,County Sheriff,IN,Indiana,2003-06-28,1,1,2,1,1,White,Not Hispanic,2,Threats,2,School,Hate Crime,,Female Victim,False
+2004,Local Police,MS,Mississippi,2004-08-19,0,1,3,2,1,Black,Not Hispanic,1,Burglary,1,Street,Gender Bias,Male Victim,True,True
+2005,Federal Agency,TX,Texas,2005-10-15,1,0,2,1,1,Hispanic,Hispanic,1,Assault,1,Residence,Hate Crime,,Female Victim,False
+2006,State Police,NC,North Carolina,2006-12-03,0,2,2,1,1,White,Not Hispanic,2,Molesting,2,Restaurant,Racial Bias,Male Victim,True,True
+2007,Local Police,SJ,New Mexico,2007-01-20,2,0,3,2,1,Asian,Hispanic,2,Property Damage,2,Store,Religious Bias,Female Victim,False,False
+2008,County Sheriff,PA,Pennsylvania,2008-03-12,1,1,2,1,1,White,Not Hispanic,2,Threats,2,Church,Hate Crime,,Male Victim,True
+2009,Local Police,WV,West Virginia,2009-05-27,0,1,4,3,1,Black,Hispanic,1,Robbery,1,Workplace,Gender Bias,Female Victim,False,False
+1991,Local Police,CA,California,1991-03-15,2,0,3,2,1,White,Non-Hispanic,2,Simple Assault,2,Residence,Bias Against Race or National Origin,"Adults,Children",No,No
+1992,State Police,FL,Florida,1992-07-22,1,1,2,1,1,Black,Hispanic,2,Assault with Intent to Commit Murder,2,Public Place,Bias Against Religion,"Adults,Children",No,No
+1993,Local Police,NY,New York,1993-11-08,0,2,1,0,1,White,Non-Hispanic,2,Harassment,2,School,Bias Against Sexual Orientation,Children,No,No
+1994,Federal Agency,TX,Texas,1994-01-30,3,0,2,2,0,Asian,Non-Hispanic,3,Property Damage,3,Office,Bias Against Race or National Origin,Adults,No,No
+1995,Local Police,GA,Georgia,1995-05-17,1,0,1,1,0,Hispanic,Hispanic,1,Assault,1,Street,Bias Against Religion,Adults,No,No
+1996,State Police,OH,Ohio,1996-09-12,2,1,3,2,1,White,Non-Hispanic,3,Simple Assault,3,Hospital,Bias Against Gender Identity,"Adults,Children",No,No
+1997,Local Police,IL,Illinois,1997-02-28,1,0,2,2,0,Black,Non-Hispanic,1,Robbery,1,Residence,Bias Against Race or National Origin,Adults,No,No
+1998,Federal Agency,PA,Pennsylvania,1998-06-05,0,2,1,0,1,White,Non-Hispanic,2,Harassment,2,School,Bias Against Sexual Orientation,Children,No,No
+1999,Local Police,MI,Michigan,1999-10-19,3,0,4,3,1,Hispanic,Hispanic,3,Assault with Intent to Commit Murder,3,Public Place,Bias Against Religion,Adults,No,No
+2000,State Police,VA,Virginia,2000-04-23,0,1,2,1,1,White,Non-Hispanic,1,Simple Assault,1,Residence,Bias Against Gender Identity,Children,No,No
+2001,Local Police,WA,Washington,2001-08-14,2,0,3,2,1,Asian,Non-Hispanic,2,Property Damage,2,Office,Bias Against Race or National Origin,Adults,No,No
+2002,Federal Agency,NC,Carolina,2002-12-03,1,1,2,1,1,Black,Non-Hispanic,2,Assault,2,Hospital,Bias Against Religion,"Adults,Children",No,No
+2003,Local Police,MO,Missouri,2003-03-31,0,2,1,0,1,White,Non-Hispanic,2,Harassment,2,School,Bias Against Sexual Orientation,Children,No,No
+2004,State Police,CO,Colorado,2004-07-18,3,0,4,3,1,White,Non-Hispanic,3,Simple Assault,3,Street,Bias Against Race or National Origin,Adults,No,No
+2005,Local Police,TN,Tennessee,2005-11-09,1,0,2,2,0,Hispanic,Hispanic,1,Assault with Intent to Commit Murder,1,Residence,Bias Against Religion,Adults,No,No
+2006,Federal Agency,AL,Alabama,2006-01-26,2,1,3,2,1,White,Non-Hispanic,3,Property Damage,3,Public Place,Bias Against Gender Identity,"Adults,Children",No,No
+2007,Local Police,MA,Massachusetts,2007-05-15,0,2,1,0,1,Black,Non-Hispanic,2,Harassment,2,School,Bias Against Sexual Orientation,Children,No,No
+2008,State Police,MN,Minnesota,2008-09-22,3,0,2,2,0,White,Non-Hispanic,3,Assault,3,Office,Bias Against Race or National Origin,Adults,No,No
+2009,Local Police,KY,Kentucky,2009-02-11,1,0,1,1,0,Asian,Non-Hispanic,1,Simple Assault,1,Residence,Bias Against Religion,Adults,No,No
+2010,Federal Agency,OR,Oregon,2010-06-07,0,2,1,0,1,White,Non-Hispanic,2,Harassment,2,Hospital,Bias Against Gender Identity,Children,No,No
+2011,Local Police,IN,Indiana,2011-10-04,2,0,3,2,1,Black,Non-Hispanic,2,Property Damage,2,Public Place,Bias Against Race or National Origin,Adults,No,No
+2012,State Police,SC,South Carolina,2012-04-19,1,1,2,1,1,White,Non-Hispanic,2,Assault with Intent to Commit Murder,2,Street,Bias Against Religion,"Adults,Children",No,No
+2013,Local Police,KS,Kansas,2013-08-30,0,2,1,0,1,Hispanic,Hispanic,2,Simple Assault,2,Residence,Bias Against Gender Identity,Children,No,No
+2014,Local Police,NJ,New Jersey,2014-12-12,3,0,4,3,1,White,Non-Hispanic,3,Assault,3,Office,Bias Against Race or National Origin,Adults,No,No
+2000,State Police,WI,Wisconsin,2000-03-18,1,0,2,2,0,Black,Non-Hispanic,1,Simple Assault,1,Residence,Bias Against Religion,Adults,No,No
+2001,Local Police,MS,Mississippi,2001-07-25,2,1,3,2,1,White,Non-Hispanic,3,Property Damage,3,Public Place,Bias Against Gender Identity,"Adults,Children",No,No
+2002,Federal Agency,NH,New Hampshire,2002-11-09,0,2,1,0,1,Asian,Non-Hispanic,2,Harassment,2,School,Bias Against Sexual Orientation,Children,No,No
+2003,Local Police,VT,Vermont,2003-05-14,3,0,2,2,0,White,Non-Hispanic,3,Assault with Intent to Commit Murder,3,Hospital,Bias Against Race or National Origin,Adults,No,No
+2004,State Police,ME,Maine,2004-09-30,1,1,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Street,Bias Against Religion,"Adults,Children",No,No
+2005,Local Police,ID,Idaho,2005-01-16,0,2,1,0,1,White,Non-Hispanic,2,Harassment,2,Residence,Bias Against Gender Identity,Children,No,No
+2006,State Police,MT,Montana,2006-06-02,2,0,3,2,1,Hispanic,Hispanic,2,Property Damage,2,Public Place,Bias Against Race or National Origin,Adults,No,No
+2007,Local Police,ND,North Dakota,2007-10-21,1,0,2,2,0,White,Non-Hispanic,1,Assault,1,Office,Bias Against Religion,Adults,No,No
+2008,Federal Agency,SD,South Dakota,2008-02-13,3,1,4,3,1,Black,Non-Hispanic,4,Simple Assault,4,Residence,Bias Against Gender Identity,"Adults,Children",No,No
+2009,Local Police,NE,Nebraska,2009-08-17,0,2,1,0,1,White,Non-Hispanic,2,Harassment,2,Hospital,Bias Against Sexual Orientation,Children,No,No
+2010,State Police,AZ,Arizona,2010-12-29,2,0,3,2,1,Asian,Non-Hispanic,2,Property Damage,2,Public Place,Bias Against Race or National Origin,Adults,No,No
+2011,Local Police,WA,Washington,2011-04-06,1,1,2,1,1,White,Non-Hispanic,2,Assault with Intent to Commit Murder,2,Street,Bias Against Religion,"Adults,Children",No,No
+2012,Federal Agency,CA,California,2012-08-20,0,2,1,0,1,Black,Non-Hispanic,2,Simple Assault,2,Residence,Bias Against Gender Identity,Children,No,No
+2013,Local Police,NV,Nevada,2013-01-11,3,0,4,3,1,White,Non-Hispanic,3,Assault,3,Office,Bias Against Race or National Origin,Adults,No,No
+2014,State Police,OR,Oregon,2014-05-18,1,0,2,2,0,Hispanic,Hispanic,1,Property Damage,1,Public Place,Bias Against Religion,Adults,No,No
+1991,Local Police,UT,Utah,1991-09-25,2,1,3,2,1,White,Non-Hispanic,3,Harassment,3,Residence,Bias Against Gender Identity,"Adults,Children",No,No
+1992,State Police,NM,New Mexico,1992-03-10,0,2,1,0,1,Asian,Non-Hispanic,2,Assault with Intent to Commit Murder,2,Hospital,Bias Against Sexual Orientation,Children,No,No
+1993,Local Police,AZ,Arizona,1993-07-21,3,0,2,2,0,White,Non-Hispanic,3,Simple Assault,3,Public Place,Bias Against Race or National Origin,Adults,No,No
+1994,Federal Agency,CO,Colorado,1994-11-04,1,1,2,1,1,Black,Non-Hispanic,2,Property Damage,2,Street,Bias Against Religion,"Adults,Children",No,No
+1995,Local Police,WY,Wyoming,1995-02-15,0,2,1,0,1,White,Non-Hispanic,2,Assault,2,Residence,Bias Against Gender Identity,Children,No,No
+1996,State Police,AK,Alaska,1996-06-30,2,0,3,2,1,Hispanic,Hispanic,2,Simple Assault,2,Office,Bias Against Race or National Origin,Adults,No,No
+1997,Local Police,HI,Hawaii,1997-10-12,1,0,2,2,0,White,Non-Hispanic,1,Harassment,1,Public Place,Bias Against Religion,Adults,No,No
+1998,Federal Agency,FL,Florida,1998-01-29,3,1,4,3,1,Black,Non-Hispanic,4,Property Damage,4,Residence,Bias Against Gender Identity,"Adults,Children",No,No
+1999,Local Police,GA,Georgia,1999-05-17,0,2,1,0,1,White,Non-Hispanic,2,Assault with Intent to Commit Murder,2,Hospital,Bias Against Sexual Orientation,Children,No,No
+2000,State Police,NC,Carolina,2000-09-03,2,0,3,2,1,Asian,Non-Hispanic,2,Simple Assault,2,Street,Bias Against Race or National Origin,Adults,No,No
+2001,Local Police,PA,Pennsylvania,2001-12-22,1,1,2,1,1,White,Non-Hispanic,2,Assault,2,Public Place,Bias Against Religion,"Adults,Children",No,No
+2002,Federal Agency,IL,Illinois,2002-03-15,0,2,1,0,1,Black,Non-Hispanic,2,Property Damage,2,Residence,Bias Against Gender Identity,Children,No,No
+2003,Local Police,TX,Texas,2003-07-28,3,0,4,3,1,White,Non-Hispanic,3,Simple Assault,3,Office,Bias Against Race or National Origin,Adults,No,No
+2004,State Police,OH,Ohio,2004-11-09,1,0,2,2,0,Hispanic,Hispanic,1,Harassment,1,Hospital,Bias Against Religion,Adults,No,No
+2005,Local Police,MI,Michigan,2005-02-18,2,1,3,2,1,White,Non-Hispanic,3,Property Damage,3,Street,Bias Against Gender Identity,"Adults,Children",No,No
+2006,Federal Agency,VA,Virginia,2006-06-14,0,2,1,0,1,Black,Non-Hispanic,2,Assault with Intent to Commit Murder,2,Public Place,Bias Against Sexual Orientation,Children,No,No
+2007,Local Police,WA,Washington,2007-10-27,3,0,2,2,0,White,Non-Hispanic,3,Simple Assault,3,Residence,Bias Against Race or National Origin,Adults,No,No
+2008,State Police,NY,New York,2008-01-31,1,1,2,1,1,Asian,Non-Hispanic,2,Assault,2,Office,Bias Against Religion,"Adults,Children",No,No
+2009,Local Police,CT,Connecticut,2009-05-12,0,2,1,0,1,White,Non-Hispanic,2,Property Damage,2,Hospital,Bias Against Gender Identity,Children,No,No
+2010,Federal Agency,NJ,New Jersey,2010-09-19,2,0,3,2,1,Black,Non-Hispanic,2,Simple Assault,2,Street,Bias Against Race or National Origin,Adults,No,No
+2011,Local Police,MD,Maryland,2011-12-07,1,0,2,2,0,White,Non-Hispanic,1,Harassment,1,Public Place,Bias Against Religion,Adults,No,No
+2012,State Police,DE,Delaware,2012-03-24,3,1,4,3,1,Hispanic,Hispanic,4,Property Damage,4,Residence,Bias Against Gender Identity,"Adults,Children",No,No
+2013,Local Police,RI,Rhode Island,2013-07-15,0,2,1,0,1,White,Non-Hispanic,2,Assault with Intent to Commit Murder,2,Hospital,Bias Against Sexual Orientation,Children,No,No
+2014,Federal Agency,SC,South Carolina,2014-11-02,2,0,3,2,1,Black,Non-Hispanic,2,Simple Assault,2,Street,Bias Against Race or National Origin,Adults,No,No
+1991,Local Law Enforcement,CA,California,1991-03-15,1,0,2,1,1,White,N/A,1,Assault,1,Residence,Religious Bias,Individual,False,False
+1992,State Police,FL,Florida,1992-07-22,0,1,3,2,1,Black,N/A,1,Aggravated Assault,1,Street,Racial Bias,Individual,True,False
+1993,Local Law Enforcement,TX,Texas,1993-11-08,2,0,4,3,1,Hispanic,N/A,2,Intimidation,2,Place of Worship,Sexual Orientation Bias,Group,False,True
+1994,County Sheriff,IL,Illinois,1994-05-30,1,1,1,1,0,White,N/A,2,Assault,2,Housing Complex,Religious Bias,Individual,False,False
+1995,Federal Agency,NY,New York,1995-09-12,0,2,2,1,1,Asian,N/A,2,Assault,2,School,Bias Against Sexual Orientation,Individual,True,False
+1996,Local Law Enforcement,GA,Georgia,1996-02-18,1,0,2,1,1,White,N/A,1,Murder,1,Restaurant,Hate Bias,Individual,False,True
+1997,State Police,PA,Pennsylvania,1997-08-25,0,1,3,2,1,Black,N/A,1,Vandalism,1,College Campus,Racial Bias,Individual,True,False
+1998,County Sheriff,OH,Ohio,1998-12-03,1,0,2,2,0,White,N/A,1,Assault,1,Residence,Religious Bias,Group,False,False
+1999,Local Law Enforcement,MI,Michigan,1999-04-11,2,1,4,3,1,Hispanic,N/A,3,Intimidation,3,Hospital,Sexual Orientation Bias,Group,True,False
+2000,Federal Agency,VA,Virginia,2000-06-29,0,1,2,1,1,White,N/A,1,Aggravated Assault,1,Community Center,Bias Against Religious Group,Individual,True,True
+2001,Local Law Enforcement,NC,Carolina,2001-10-17,1,0,3,2,1,Black,N/A,1,Assault,1,Street,Racial Bias,Individual,False,False
+2002,State Police,MD,Maryland,2002-01-05,0,1,2,1,1,White,N/A,1,Assault,1,Apt. Complex,Hate Bias,Individual,True,True
+2003,County Sheriff,WI,Wisconsin,2003-03-28,1,1,3,2,1,Hispanic,N/A,2,Assault,2,Store,Motivated by Bias Against Religion,Individual,False,True
+2004,Local Law Enforcement,WA,Washington,2004-07-14,1,0,2,2,0,White,N/A,1,Intimidation,1,University,Sexual Orientation Bias,Individual,True,False
+2005,Federal Agency,OR,Oregon,2005-09-07,0,2,3,2,1,Asian,N/A,2,Assault,2,Restaurant,Racial Bias,Group,False,True
+2006,Local Law Enforcement,NJ,New Jersey,2006-11-22,1,0,3,2,1,White,N/A,1,Vandalism,1,Community Center,Religious Bias,Individual,True,False
+2007,State Police,VA,Virginia,2007-02-13,0,1,2,1,1,Black,N/A,1,Aggravated Assault,1,Housing Complex,Hate Bias,Individual,False,False
+2008,County Sheriff,GA,Georgia,2008-05-30,1,1,4,3,1,White,N/A,2,Assault,2,School,Racial Bias,Group,True,True
+2009,Local Law Enforcement,SC,South Carolina,2009-08-19,0,1,2,1,1,Hispanic,N/A,1,Intimidation,1,Store,Hate Bias,Individual,False,True
+2010,Federal Agency,TX,Texas,2010-10-02,1,0,2,1,1,White,N/A,1,Assault,1,Apartment Building,Religious Bias,Individual,True,False
+2011,Local Law Enforcement,CO,Colorado,2011-03-09,0,2,3,2,1,Black,N/A,2,Assault,2,University,Sexual Orientation Bias,Individual,False,True
+2012,State Police,FL,Florida,2012-06-15,1,0,2,1,1,White,N/A,1,Murder,1,Residence,Bias Against Religious Group,Group,True,False
+2013,County Sheriff,NJ,New Jersey,2013-09-27,0,1,3,2,1,Hispanic,N/A,1,Intimidation,1,Restaurant,Racial Bias,Individual,True,True
+2014,Local Law Enforcement,OH,Ohio,2014-12-01,1,1,2,1,1,White,N/A,2,Assault,2,Bar,Bias Against Sexual Orientation,Group,False,False
+2012,State Police,AL,Alabama,2012-01-22,0,1,2,1,1,Native American,N/A,1,Assault,1,Residence,Religious Bias,Individual,True,True
+2013,County Sheriff,IN,Indiana,2013-04-30,1,0,3,2,1,White,N/A,1,Vandalism,1,Community Center,Hate Bias,Individual,False,False
+2014,Local Law Enforcement,MA,Massachusetts,2014-07-11,0,1,2,1,1,Asian,N/A,1,Assault,1,College Campus,Racial Bias,Individual,True,True
+2011,Federal Agency,MS,Mississippi,2011-10-08,1,0,3,2,1,Black,N/A,1,Aggravated Assault,1,Residence,Sexual Orientation Bias,Group,False,False
+2010,Local Law Enforcement,RI,Rhode Island,2010-02-17,0,1,2,1,1,White,N/A,1,Assault,1,Housing Complex,Religious Bias,Individual,True,True
+2009,State Police,VT,Vermon,2009-05-20,1,0,2,1,1,Hispanic,N/A,1,Intimidation,1,School,Bias Against Religious Group,Individual,False,False
+2008,County Sheriff,MN,Minnesota,2008-08-03,0,1,2,1,1,White,N/A,1,Assault,1,Store,Hate Bias,Individual,True,True
+2007,Local Law Enforcement,NE,Nebraska,2007-11-12,1,0,3,2,1,Asian,N/A,1,Vandalism,1,Hospital,Racial Bias,Group,False,False
+2006,Federal Agency,MO,Missouri,2006-03-19,0,1,2,1,1,White,N/A,1,Aggravated Assault,1,University,Sexual Orientation Bias,Individual,True,True
+2005,Local Law Enforcement,ID,Idaho,2005-06-28,1,0,2,2,0,Black,N/A,1,Assault,1,Restaurant,Religious Bias,Individual,False,True
+2004,State Police,KY,Kentucky,2004-09-14,0,1,2,1,1,White,N/A,1,Intimidation,1,Grocery Store,Hate Bias,Group,True,False
+2003,County Sheriff,AR,Arkansas,2003-12-25,1,1,4,3,1,Hispanic,N/A,2,Assault,2,Apartment Complex,Racial Bias,Individual,False,True
+2002,Local Law Enforcement,SD,South Dakota,2002-02-03,0,1,2,1,1,Native American,N/A,1,Assault,1,Residence,Bias Against Religious Group,Individual,True,True
+2001,Federal Agency,UT,Utah,2001-05-18,1,0,3,2,1,White,N/A,1,Vandalism,1,Community Center,Sexual Orientation Bias,Group,False,False
+2000,Local Law Enforcement,KS,Kansas,2000-08-09,0,1,2,1,1,Black,N/A,1,Assault,1,Housing Complex,Religious Bias,Individual,True,True
+1999,State Police,WV,West Virginia,1999-11-04,1,0,3,2,1,White,N/A,1,Aggravated Assault,1,School,Hate Bias,Individual,False,False
+1998,County Sheriff,DE,Delaware,1998-01-16,0,1,2,1,1,Hispanic,N/A,1,Assault,1,Store,Racial Bias,Group,True,True
+1997,Local Law Enforcement,NH,New Hampshire,1997-04-21,1,0,2,1,1,White,N/A,1,Intimidation,1,Bar,Sexual Orientation Bias,Individual,False,True
+1996,Federal Agency,ME,Maine,1996-07-30,0,1,3,2,1,White,N/A,1,Aggravated Assault,1,Apartment Complex,Racial Bias,Individual,True,False
+1995,Local Law Enforcement,MT,Montana,1995-10-13,1,0,2,1,1,Asian,N/A,1,Assault,1,Restaurant,Religious Bias,Group,False,False
+1994,State Police,AK,Alaska,1994-01-06,0,1,2,1,1,White,N/A,1,Intimidation,1,Residence,Hate Bias,Individual,True,True
+1993,County Sheriff,HI,Hawaii,1993-03-11,1,0,3,2,1,Black,N/A,1,Vandalism,1,Housing Complex,Sexual Orientation Bias,Individual,False,True
+1992,Local Law Enforcement,NM,New Mexico,1992-06-25,0,1,2,1,1,Hispanic,N/A,1,Assault,1,Community Center,Racial Bias,Group,True,False
+1991,Federal Agency,LA,Louisiana,1991-09-20,1,0,3,2,1,White,N/A,1,Aggravated Assault,1,Store,Bias Against Religious Group,Individual,False,True
+2014,State Police,WY,Wyoming,2014-12-12,0,1,2,1,1,White,N/A,1,Assault,1,University,Religious Bias,Group,True,True
+2013,Local Law Enforcement,CT,Connecticut,2013-01-30,1,0,2,1,1,Hispanic,N/A,1,Intimidation,1,Hospital,Sexual Orientation Bias,Individual,False,False
+2012,County Sheriff,MD,Maryland,2012-05-16,0,1,2,1,1,White,N/A,1,Assault,1,Residence,Hate Bias,Individual,True,True
+2011,Local Law Enforcement,VT,Vermon,2011-08-14,1,0,3,2,1,Asian,N/A,1,Vandalism,1,Apartment Complex,Racial Bias,Group,False,False
+2010,Federal Agency,VA,Virginia,2010-11-21,0,1,2,1,1,White,N/A,1,Aggravated Assault,1,School,Bias Against Religious Group,Individual,True,True
+2009,Local Law Enforcement,NJ,New Jersey,2009-02-26,1,0,3,2,1,Black,N/A,1,Assault,1,Restaurant,Religious Bias,Individual,False,False
+2008,State Police,AR,Arkansas,2008-05-07,0,1,2,1,1,White,N/A,1,Intimidation,1,Grocery Store,Hate Bias,Group,True,True
+2007,County Sheriff,GA,Georgia,2007-08-18,1,0,3,2,1,White,N/A,1,Assault,1,Store,Sexual Orientation Bias,Individual,False,True
+2006,Local Law Enforcement,WI,Wisconsin,2006-11-30,0,1,2,1,1,Hispanic,N/A,1,Aggravated Assault,1,House,Racial Bias,Individual,True,False
+2005,Federal Agency,ME,Maine,2005-03-02,1,0,3,2,1,White,N/A,1,Vandalism,1,University,Religious Bias,Group,False,True
+1991,Local Police,CA,California,1991-03-15,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Residence,Religious Bias,Individual,True,False
+1992,County Sheriff,FL,Florida,1992-07-22,0,1,1,0,1,Black,Hispanic,1,Intimidation,1,Street,Racial Bias,Individual,False,True
+1993,State Police,NY,New York,1993-11-08,2,0,3,2,1,Asian,Non-Hispanic,2,Battery,2,Vehicle,Racial Bias,Group,True,False
+1994,Local Police,TX,Texas,1994-02-14,1,0,2,1,1,White,Non-Hispanic,1,Hate Crime,1,Residence,Sexual Orientation Bias,Individual,False,True
+1995,State Police,IL,Illinois,1995-05-30,0,1,1,0,1,Latino,Hispanic,1,Harassment,1,School,Gender Identity Bias,Individual,True,False
+1996,Local Police,GA,Georgia,1996-09-05,1,0,1,1,0,White,Non-Hispanic,1,Assault,1,Park,Racial Bias,Individual,False,False
+1997,County Sheriff,OH,Ohio,1997-12-18,1,0,2,1,1,Black,Non-Hispanic,1,Vandalism,1,Store,Religious Bias,Individual,True,True
+1998,State Police,WA,Washington,1998-04-27,0,1,2,0,2,White,Non-Hispanic,1,Assault,1,Street,Gender Identity Bias,Individual,False,True
+1999,Local Police,VA,Virginia,1999-08-11,2,0,1,1,0,Asian,Non-Hispanic,2,Battery,2,Residence,Racial Bias,Group,True,False
+2000,State Police,PA,Pennsylvania,2000-01-23,1,0,3,2,1,White,Hispanic,1,Hate Crime,1,School,Sexual Orientation Bias,Individual,True,True
+2001,County Sheriff,MI,Michigan,2001-06-09,0,1,1,0,1,Latino,Hispanic,1,Intimidation,1,Cafe,Racial Bias,Individual,False,False
+2002,Local Police,NC,Tennessee,2002-10-14,2,0,2,2,0,White,Non-Hispanic,2,Assault,2,Residence,Sexual Orientation Bias,Group,True,False
+2003,State Police,IN,Indiana,2003-03-28,1,0,1,1,0,Black,Hispanic,1,Battery,1,Park,Religious Bias,Individual,True,True
+2004,Local Police,MN,Minnesota,2004-07-16,0,1,3,0,3,Asian,Non-Hispanic,1,Harassment,1,Store,Gender Identity Bias,Individual,False,True
+2005,County Sheriff,MD,Maryland,2005-11-02,1,0,2,1,1,White,Hispanic,1,Assault,1,Street,Racial Bias,Individual,True,False
+2006,State Police,MO,Missouri,2006-04-19,1,0,1,1,0,Latino,Non-Hispanic,1,Vandalism,1,School,Religious Bias,Individual,False,True
+2007,Local Police,MW,Mississippi,2007-09-07,0,1,3,0,3,White,Non-Hispanic,1,Battery,1,Residence,Sexual Orientation Bias,Individual,True,False
+2008,County Sheriff,SC,South Carolina,2008-12-21,2,0,2,2,0,Black,Hispanic,2,Assault,2,College,Gender Identity Bias,Group,True,True
+2009,State Police,CO,Colorado,2009-02-13,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Store,Racial Bias,Individual,False,False
+2010,Local Police,KY,Kentucky,2010-05-30,1,0,1,1,0,Asian,Non-Hispanic,1,Assault,1,Restaurant,Religious Bias,Individual,True,False
+2011,State Police,NV,Nevada,2011-08-17,0,1,3,0,3,White,Hispanic,1,Battery,1,Street,Sexual Orientation Bias,Individual,False,True
+2012,County Sheriff,WV,West Virginia,2012-11-06,1,0,2,1,1,Latino,Non-Hispanic,1,Hate Crime,1,Landmark,Gender Identity Bias,Individual,True,True
+2013,Local Police,AL,Alabama,2013-01-29,1,0,1,1,0,Black,Hispanic,1,Assault,1,Residence,Racial Bias,Individual,False,False
+2014,State Police,AZ,Arizona,2014-03-15,0,1,2,0,2,White,Non-Hispanic,1,Vandalism,1,School,Religious Bias,Individual,True,False
+1991,Local Police,RI,Rhode Island,1991-06-23,2,0,1,1,0,White,Non-Hispanic,2,Battery,2,Residence,Sexual Orientation Bias,Group,True,True
+1992,County Sheriff,VT,Vermont,1992-09-08,0,1,3,0,3,Asian,Non-Hispanic,1,Harassment,1,Street,Gender Identity Bias,Individual,False,True
+1993,State Police,NH,New Hampshire,1993-12-14,1,0,2,1,1,Black,Hispanic,1,Assault,1,Cafe,Racial Bias,Individual,True,False
+1994,Local Police,ME,Maine,1994-02-25,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Hotel,Religious Bias,Individual,False,True
+1995,County Sheriff,DE,Delaware,1995-05-17,0,1,2,0,2,Latino,Hispanic,1,Assault,1,Residence,Sexual Orientation Bias,Individual,True,False
+1996,State Police,AK,Alaska,1996-08-03,2,0,3,2,1,White,Non-Hispanic,2,Battery,2,Store,Racial Bias,Group,True,True
+1997,Local Police,HI,Hawaii,1997-11-20,1,0,1,1,0,Asian,Non-Hispanic,1,Hate Crime,1,School,Gender Identity Bias,Individual,False,False
+1998,County Sheriff,OR,Oregon,1998-03-31,0,1,1,0,1,White,Hispanic,1,Vandalism,1,Street,Racial Bias,Individual,True,True
+1999,State Police,ID,Idaho,1999-07-12,1,0,2,1,1,Black,Non-Hispanic,1,Assault,1,Residence,Religious Bias,Individual,False,True
+2000,Local Police,MT,Montana,2000-10-04,0,1,3,0,3,White,Non-Hispanic,1,Battery,1,College,Sexual Orientation Bias,Individual,True,False
+2001,County Sheriff,SD,South Dakota,2001-01-18,2,0,1,1,0,Latino,Hispanic,2,Assault,2,Restaurant,Gender Identity Bias,Group,True,True
+2002,State Police,ND,Dakota,2002-04-23,1,0,2,1,1,White,Non-Hispanic,1,Intimidation,1,Store,Racial Bias,Individual,False,True
+2003,Local Police,WI,Wisconsin,2003-07-10,1,0,1,1,0,Asian,Non-Hispanic,1,Battery,1,Street,Religious Bias,Individual,True,False
+2004,County Sheriff,NE,Nebraska,2004-10-30,0,1,3,0,3,White,Hispanic,1,Assault,1,Residence,Sexual Orientation Bias,Individual,False,True
+2005,State Police,KS,Kansas,2005-01-16,2,0,2,2,0,Black,Non-Hispanic,2,Hate Crime,2,College,Gender Identity Bias,Group,True,False
+2006,Local Police,AR,Arkansas,2006-05-22,1,0,1,1,0,White,Hispanic,1,Assault,1,Residence,Racial Bias,Individual,True,True
+2007,County Sheriff,LA,Louisiana,2007-08-07,0,1,2,0,2,Latino,Non-Hispanic,1,Vandalism,1,Store,Religious Bias,Individual,False,True
+2008,State Police,TN,Tennessee,2008-11-15,1,0,1,1,0,White,Non-Hispanic,1,Assault,1,School,Sexual Orientation Bias,Individual,True,False
+2009,Local Police,MS,Mississippi,2009-02-28,1,0,3,1,2,Asian,Non-Hispanic,1,Intimidation,1,Residence,Gender Identity Bias,Individual,True,True
+2010,County Sheriff,ME,Maine,2010-06-11,0,1,2,0,2,White,Hispanic,1,Battery,1,Street,Racial Bias,Individual,False,True
+2011,State Police,MN,Minnesota,2011-09-25,2,0,1,1,0,Latino,Non-Hispanic,2,Assault,2,Store,Religious Bias,Group,True,False
+2012,Local Police,WI,Wisconsin,2012-12-03,1,0,2,1,1,White,Non-Hispanic,1,Hate Crime,1,Cafe,Sexual Orientation Bias,Individual,True,True
+2013,County Sheriff,OR,Oregon,2013-03-18,0,1,1,0,1,Black,Hispanic,1,Assault,1,Residence,Gender Identity Bias,Individual,False,True
+2014,State Police,CA,California,2014-06-30,2,0,3,2,1,White,Non-Hispanic,2,Battery,2,School,Racial Bias,Group,True,False
+1991,Local Police,MD,Maryland,1991-09-10,1,0,1,1,0,Native American,Non-Hispanic,1,Assault,1,Residence,Religious Bias,Individual,True,True
+1992,County Sheriff,TX,Texas,1992-12-05,0,1,2,0,2,White,Hispanic,1,Harassment,1,Street,Sexual Orientation Bias,Individual,False,False
+1993,State Police,FL,Florida,1993-03-17,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Store,Gender Identity Bias,Individual,True,True
+1994,Local Police,NJ,New Jersey,1994-06-22,2,0,3,2,1,Black,Non-Hispanic,2,Assault,2,Residence,Racial Bias,Group,False,False
+1995,County Sheriff,GA,Georgia,1995-09-14,1,0,2,1,1,Hispanic,Hispanic,1,Battery,1,School,Religious Bias,Individual,True,True
+1996,State Police,IL,Illinois,1996-12-23,0,1,1,0,1,White,Hispanic,1,Hate Crime,1,Restaurant,Sexual Orientation Bias,Individual,False,True
+1997,Local Police,MI,Michigan,1997-02-01,1,0,3,1,2,Latino,Non-Hispanic,1,Assault,1,Street,Gender Identity Bias,Individual,True,False
+1998,County Sheriff,NC,Tennessee,1998-05-09,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Store,Racial Bias,Individual,False,True
+1999,State Police,VA,Virginia,1999-08-12,2,0,2,2,0,Asian,Non-Hispanic,2,Battery,2,University,Religious Bias,Group,True,False
+2000,Local Police,PA,Pennsylvania,2000-11-18,0,1,1,0,1,White,Hispanic,1,Assault,1,Residence,Sexual Orientation Bias,Individual,True,True
+2001,County Sheriff,NY,New York,2001-02-25,2,0,3,2,1,Black,Non-Hispanic,2,Battery,2,Store,Gender Identity Bias,Group,False,False
+2002,State Police,OH,Ohio,2002-05-15,1,0,1,1,0,White,Non-Hispanic,1,Assault,1,Street,Racial Bias,Individual,True,True
+2003,Local Police,WV,West Virginia,2003-08-31,0,1,2,0,2,Hispanic,Hispanic,1,Hate Crime,1,School,Religious Bias,Individual,True,False
+2004,County Sheriff,DE,Delaware,2004-11-07,1,0,1,1,0,White,Non-Hispanic,1,Intimidation,1,Residence,Sexual Orientation Bias,Individual,False,True
+2005,State Police,MN,Minnesota,2005-02-19,1,0,3,1,2,Black,Non-Hispanic,1,Battery,1,College,Gender Identity Bias,Individual,True,False
+2006,Local Police,AK,Alaska,2006-05-04,2,0,2,2,0,Asian,Non-Hispanic,2,Assault,2,Residence,Racial Bias,Group,True,True
+2007,County Sheriff,VT,Vermont,2007-08-11,0,1,1,0,1,White,Hispanic,1,Harassment,1,Store,Religious Bias,Individual,False,True
+2008,State Police,MT,Montana,2008-11-22,1,0,2,1,1,Latino,Non-Hispanic,1,Intimidation,1,Restaurant,Sexual Orientation Bias,Individual,True,False
+2009,Local Police,NH,New Hampshire,2009-02-14,1,0,1,1,0,White,Non-Hispanic,1,Assault,1,Street,Gender Identity Bias,Individual,True,True
+2010,County Sheriff,SC,South Carolina,2010-05-28,2,0,3,2,1,Black,Hispanic,2,Battery,2,Residence,Racial Bias,Group(False,True),
+1991,Police Department,FL,Florida,1991-03-15,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Residence,Religious Bias,Person,TRUE,FALSE
+1992,Police Department,NY,New York,1992-07-22,2,0,3,2,1,Black,Non-Hispanic,2,Assault,2,Street,Racial Bias,Person,FALSE,FALSE
+1993,Police Department,TX,Texas,1993-11-08,0,1,1,0,1,White,Non-Hispanic,1,Aggravated Assault,1,Place of Worship,Hate Group Activity,Person,FALSE,FALSE
+1994,Police Department,CA,California,1994-02-19,3,0,4,3,1,Hispanic,Hispanic,3,Assault,3,School,Racial Bias,Person,FALSE,FALSE
+1995,Police Department,GA,Georgia,1995-09-30,1,0,2,1,1,White,Non-Hispanic,1,Battery,1,Park,Sexual Orientation Bias,Person,FALSE,FALSE
+1996,Police Department,IL,Illinois,1996-05-14,2,0,3,2,1,White,Non-Hispanic,2,Assault,2,Residence,Anti-Semitism,Person,FALSE,FALSE
+1997,Police Department,OH,Ohio,1997-12-03,0,1,2,0,2,Black,Non-Hispanic,1,Aggravated Assault,1,School,Religious Bias,Person,FALSE,FALSE
+1998,Police Department,PA,Pennsylvania,1998-08-17,3,0,5,3,2,White,Non-Hispanic,3,Assault,3,Street,Hate Group Activity,Person,FALSE,FALSE
+1999,Police Department,MN,Minnesota,1999-04-22,1,0,2,1,1,Asian,Pacific Islander,1,Battery,1,Residence,Racial Bias,Person,FALSE,FALSE
+2000,Police Department,WA,Washington,2000-06-30,2,0,3,2,1,Hispanic,Hispanic,2,Assault,2,Public Facility,Sexual Orientation Bias,Person,FALSE,FALSE
+2001,Police Department,VA,Virginia,2001-10-11,1,0,2,1,1,White,Non-Hispanic,1,Aggravated Assault,1,Place of Worship,Anti-Semitism,Person,FALSE,FALSE
+2002,Police Department,MD,Maryland,2002-01-28,3,0,4,3,1,Black,Non-Hispanic,3,Assault,3,Residence,Hate Group Activity,Person,FALSE,FALSE
+2003,Police Department,MI,Michigan,2003-07-14,2,0,3,2,1,Hispanic,Hispanic,2,Battery,2,School,Racial Bias,Person,FALSE,FALSE
+2004,Police Department,NC,North Carolina,2004-11-05,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Park,Religious Bias,Person,FALSE,FALSE
+2005,Police Department,SC,South Carolina,2005-03-18,2,0,3,2,1,Black,Non-Hispanic,2,Aggravated Assault,2,Street,Hate Group Activity,Person,FALSE,FALSE
+2006,Police Department,CO,Colorado,2006-09-22,1,0,2,1,1,White,Non-Hispanic,1,Battery,1,Residence,Sexual Orientation Bias,Person,FALSE,FALSE
+2007,Police Department,MO,Missouri,2007-02-09,3,0,4,3,1,Hispanic,Hispanic,3,Assault,3,Place of Worship,Anti-Semitism,Person,FALSE,FALSE
+2008,Police Department,NE,Nebraska,2008-06-13,2,0,3,2,1,White,Non-Hispanic,2,Aggravated Assault,2,School,Racial Bias,Person,FALSE,FALSE
+2009,Police Department,WI,Wisconsin,2009-12-04,1,0,2,1,1,Black,Non-Hispanic,1,Assault,1,Residence,Hate Group Activity,Person,FALSE,FALSE
+2010,Police Department,IN,Indiana,2010-04-17,3,0,4,3,1,White,Non-Hispanic,3,Battery,3,Street,Religious Bias,Person,FALSE,FALSE
+2011,Police Department,TN,Tennessee,2011-08-30,2,0,3,2,1,Hispanic,Hispanic,2,Assault,2,Park,Sexual Orientation Bias,Person,FALSE,FALSE
+2012,Police Department,OR,Oregon,2012-01-11,1,0,2,1,1,White,Non-Hispanic,1,Aggravated Assault,1,Place of Worship,Anti-Semitism,Person,FALSE,FALSE
+2013,Police Department,KY,Kentucky,2013-05-22,2,0,3,2,1,Black,Non-Hispanic,2,Battery,2,Residence,Hate Group Activity,Person,FALSE,FALSE
+2014,Police Department,NJ,New Jersey,2014-09-08,3,0,4,3,1,White,Non-Hispanic,3,Assault,3,School,Racial Bias,Person,FALSE,FALSE
+1991,Police Department,FL,Florida,1991-06-25,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Residence,Religious Bias,Person,TRUE,FALSE
+1992,Police Department,NY,New York,1992-10-19,2,0,3,2,1,Black,Non-Hispanic,2,Assault,2,Street,Racial Bias,Person,FALSE,FALSE
+1993,Police Department,TX,Texas,1993-02-04,0,1,1,0,1,White,Non-Hispanic,1,Aggravated Assault,1,Place of Worship,Hate Group Activity,Person,FALSE,FALSE
+1994,Police Department,CA,California,1994-07-28,3,0,4,3,1,Hispanic,Hispanic,3,Assault,3,School,Racial Bias,Person,FALSE,FALSE
+1995,Police Department,GA,Georgia,1995-11-13,1,0,2,1,1,White,Non-Hispanic,1,Battery,1,Park,Sexual Orientation Bias,Person,FALSE,FALSE
+1996,Police Department,IL,Illinois,1996-03-24,2,0,3,2,1,White,Non-Hispanic,2,Assault,2,Residence,Anti-Semitism,Person,FALSE,FALSE
+1997,Police Department,OH,Ohio,1997-08-09,0,1,2,0,2,Black,Non-Hispanic,1,Aggravated Assault,1,School,Religious Bias,Person,FALSE,FALSE
+1998,Police Department,PA,Pennsylvania,1998-12-16,3,0,5,3,2,White,Non-Hispanic,3,Assault,3,Street,Hate Group Activity,Person,FALSE,FALSE
+1999,Police Department,MN,Minnesota,1999-05-02,1,0,2,1,1,Asian,Pacific Islander,1,Battery,1,Residence,Racial Bias,Person,FALSE,FALSE
+2000,Police Department,WA,Washington,2000-09-15,2,0,3,2,1,Hispanic,Hispanic,2,Assault,2,Public Facility,Sexual Orientation Bias,Person,FALSE,FALSE
+2001,Police Department,VA,Virginia,2001-04-18,1,0,2,1,1,White,Non-Hispanic,1,Aggravated Assault,1,Place of Worship,Anti-Semitism,Person,FALSE,FALSE
+2002,Police Department,MD,Maryland,2002-08-10,3,0,4,3,1,Black,Non-Hispanic,3,Assault,3,Residence,Hate Group Activity,Person,FALSE,FALSE
+2003,Police Department,MI,Michigan,2003-02-21,2,0,3,2,1,Hispanic,Hispanic,2,Battery,2,School,Racial Bias,Person,FALSE,FALSE
+2004,Police Department,NC,North Carolina,2004-10-30,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Park,Religious Bias,Person,FALSE,FALSE
+2005,Police Department,SC,South Carolina,2005-07-07,2,0,3,2,1,Black,Non-Hispanic,2,Aggravated Assault,2,Street,Hate Group Activity,Person,FALSE,FALSE
+2006,Police Department,CO,Colorado,2006-11-14,1,0,2,1,1,White,Non-Hispanic,1,Battery,1,Residence,Sexual Orientation Bias,Person,FALSE,FALSE
+2007,Police Department,MO,Missouri,2007-03-17,3,0,4,3,1,Hispanic,Hispanic,3,Assault,3,Place of Worship,Anti-Semitism,Person,FALSE,FALSE
+2008,Police Department,NE,Nebraska,2008-07-29,2,0,3,2,1,White,Non-Hispanic,2,Aggravated Assault,2,School,Racial Bias,Person,FALSE,FALSE
+2009,Police Department,WI,Wisconsin,2009-11-01,1,0,2,1,1,Black,Non-Hispanic,1,Assault,1,Residence,Hate Group Activity,Person,FALSE,FALSE
+2010,Police Department,IN,Indiana,2010-02-14,3,0,4,3,1,White,Non-Hispanic,3,Battery,3,Street,Religious Bias,Person,FALSE,FALSE
+2011,Police Department,TN,Tennessee,2011-05-31,2,0,3,2,1,Hispanic,Hispanic,2,Assault,2,Park,Sexual Orientation Bias,Person,FALSE,FALSE
+2012,Police Department,OR,Oregon,2012-09-23,1,0,2,1,1,White,Non-Hispanic,1,Aggravated Assault,1,Place of Worship,Anti-Semitism,Person,FALSE,FALSE
+2013,Police Department,KY,Kentucky,2013-12-04,2,0,3,2,1,Black,Non-Hispanic,2,Battery,2,Residence,Hate Group Activity,Person,FALSE,FALSE
+2014,Police Department,NJ,New Jersey,2014-01-18,3,0,4,3,1,White,Non-Hispanic,3,Assault,3,School,Racial Bias,Person,FALSE,FALSE
+1991,Police Department,FL,Florida,1991-09-14,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Residence,Religious Bias,Person,TRUE,FALSE
+1992,Police Department,NY,New York,1992-12-08,2,0,3,2,1,Black,Non-Hispanic,2,Assault,2,Street,Racial Bias,Person,FALSE,FALSE
+1993,Police Department,TX,Texas,1993-04-19,0,1,1,0,1,White,Non-Hispanic,1,Aggravated Assault,1,Place of Worship,Hate Group Activity,Person,FALSE,FALSE
+1994,Police Department,CA,California,1994-09-27,3,0,4,3,1,Hispanic,Hispanic,3,Assault,3,School,Racial Bias,Person,FALSE,FALSE
+1995,Police Department,GA,Georgia,1995-01-25,1,0,2,1,1,White,Non-Hispanic,1,Battery,1,Park,Sexual Orientation Bias,Person,FALSE,FALSE
+1996,Police Department,IL,Illinois,1996-06-11,2,0,3,2,1,White,Non-Hispanic,2,Assault,2,Residence,Anti-Semitism,Person,FALSE,FALSE
+1997,Police Department,OH,Ohio,1997-10-03,0,1,2,0,2,Black,Non-Hispanic,1,Aggravated Assault,1,School,Religious Bias,Person,FALSE,FALSE
+1998,Police Department,PA,Pennsylvania,1998-03-30,3,0,5,3,2,White,Non-Hispanic,3,Assault,3,Street,Hate Group Activity,Person,FALSE,FALSE
+1999,Police Department,MN,Minnesota,1999-08-24,1,0,2,1,1,Asian,Pacific Islander,1,Battery,1,Residence,Racial Bias,Person,FALSE,FALSE
+2000,Police Department,WA,Washington,2000-11-13,2,0,3,2,1,Hispanic,Hispanic,2,Assault,2,Public Facility,Sexual Orientation Bias,Person,FALSE,FALSE
+2001,Police Department,VA,Virginia,2001-07-28,1,0,2,1,1,White,Non-Hispanic,1,Aggravated Assault,1,Place of Worship,Anti-Semitism,Person,FALSE,FALSE
+2002,Police Department,MD,Maryland,2002-11-18,3,0,4,3,1,Black,Non-Hispanic,3,Assault,3,Residence,Hate Group Activity,Person,FALSE,FALSE
+2003,Police Department,MI,Michigan,2003-05-10,2,0,3,2,1,Hispanic,Hispanic,2,Battery,2,School,Racial Bias,Person,FALSE,FALSE
+2004,Police Department,NC,North Carolina,2004-01-16,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Park,Religious Bias,Person,FALSE,FALSE
+2005,Police Department,SC,South Carolina,2005-10-30,2,0,3,2,1,Black,Non-Hispanic,2,Aggravated Assault,2,Street,Hate Group Activity,Person,FALSE,FALSE
+2006,Police Department,CO,Colorado,2006-01-03,1,0,2,1,1,White,Non-Hispanic,1,Battery,1,Residence,Sexual Orientation Bias,Person,FALSE,FALSE
+2007,Police Department,MO,Missouri,2007-05-28,3,0,4,3,1,Hispanic,Hispanic,3,Assault,3,Place of Worship,Anti-Semitism,Person,FALSE,FALSE
+2008,Police Department,NE,Nebraska,2008-09-17,2,0,3,2,1,White,Non-Hispanic,2,Aggravated Assault,2,School,Racial Bias,Person,FALSE,FALSE
+2009,Police Department,WI,Wisconsin,2009-04-24,1,0,2,1,1,Black,Non-Hispanic,1,Assault,1,Residence,Hate Group Activity,Person,FALSE,FALSE
+2010,Police Department,IN,Indiana,2010-08-12,3,0,4,3,1,White,Non-Hispanic,3,Battery,3,Street,Religious Bias,Person,FALSE,FALSE
+2011,Police Department,TN,Tennessee,2011-12-01,2,0,3,2,1,Hispanic,Hispanic,2,Assault,2,Park,Sexual Orientation Bias,Person,FALSE,FALSE
+1991,Police,MN,Minnesota,1991-03-15,1,0,2,1,1,White,Not Hispanic,1,Assault,1,Residence,Religious Bias,"Individual, Family",No,Yes
+1992,Police,CA,California,1992-07-22,0,1,3,2,1,Black,Not Hispanic,1,Intimidation,1,School,Sexual Orientation Bias,Student,No,No
+1993,Police,TX,Texas,1993-11-08,2,0,4,3,1,Hispanic,Hispanic,2,Assault,2,Store,Religious Bias,Individual,Yes,No
+1994,Police,NY,New York,1994-02-14,1,1,3,2,1,White,Not Hispanic,2,Vandalism,2,Street,Political Bias,"Individual, Family",No,No
+1995,Police,FL,Florida,1995-09-30,0,0,1,0,1,Native American,Not Hispanic,0,Intimidation,0,Office,Racial Bias,,No,Yes
+1996,Police,IL,Illinois,1996-05-17,1,0,2,1,1,Hispanic,Hispanic,1,Burglary,1,Apartment,Sexual Orientation Bias,Individual,No,Yes
+1997,Police,OH,Ohio,1997-12-03,0,1,3,2,1,White,Not Hispanic,1,Assault,1,Residence,Religious Bias,Student,No,No
+1998,Police,PA,Pennsylvania,1998-08-29,2,0,4,3,1,Black,Not Hispanic,2,Stalking,2,Hallway,Political Bias,Individual,Yes,Yes
+1999,Police,GA,Georgia,1999-01-11,1,0,2,1,1,Asian,Asian,1,Vandalism,1,College Campus,Religious Bias,Individual,No,No
+2000,Police,NC,Carolina,2000-06-19,0,1,3,2,1,White,Not Hispanic,1,Intimidation,1,Public Transportation,Sexual Orientation Bias,Student,No,No
+2001,Police,TX,Texas,2001-04-02,1,0,2,1,1,Hispanic,Hispanic,1,Assault,1,Retail Store,Racial Bias,Individual,No,Yes
+2002,Police,WA,Washington,2002-10-14,1,1,3,2,1,Black,Not Hispanic,2,Attack,2,Cafe,Political Bias,"Individual, Family",No,No
+2003,Police,CO,Colorado,2003-03-27,0,0,1,0,1,White,Not Hispanic,0,Intimidation,0,Home,Religious Bias,,No,Yes
+2004,Police,MD,Maryland,2004-11-05,2,0,4,3,1,Unknown,Not Hispanic,2,Burglary,2,Apartment Complex,Sexual Orientation Bias,Individual,Yes,No
+2005,Police,VA,Virginia,2005-07-18,1,0,2,1,1,White,Not Hispanic,1,Assault,1,Restaurant,Religious Bias,Individual,No,Yes
+2006,Police,MA,Massachusetts,2006-09-12,0,1,3,2,1,Hispanic,Hispanic,1,Stalking,1,School,Political Bias,Student,No,No
+2007,Police,MI,Michigan,2007-02-23,1,0,2,1,1,Black,Not Hispanic,1,Vandalism,1,Housing Complex,Sexual Orientation Bias,Individual,No,Yes
+2008,Police,SC,South Carolina,2008-08-30,0,1,3,2,1,Asian,Asian,1,Attack,1,Dormitory,Racial Bias,Student,No,No
+2009,Police,AL,Alabama,2009-05-16,1,0,2,1,1,White,Not Hispanic,1,Intimidation,1,Office,Bias Against Women,Individual,No,Yes
+2010,Police,IN,Indiana,2010-12-01,0,0,1,0,1,Hispanic,Hispanic,0,Assault,0,Street,Religious Bias,,No,No
+2011,Police,WI,Wisconsin,2011-04-14,2,0,4,3,1,White,Not Hispanic,2,Burglary,2,Store,Political Bias,Individual,Yes,No
+2012,Police,KY,Kentucky,2012-07-28,1,1,3,2,1,Black,Not Hispanic,2,Assault,2,Residence,Sexual Orientation Bias,"Individual, Family",No,Yes
+2013,Police,OR,Oregon,2013-01-09,0,0,1,0,1,Native American,Not Hispanic,0,Vandalism,0,College Campus,Racial Bias,,NoNo,
+2014,Police,VT,Vermont,2014-06-17,1,0,2,1,1,White,Not Hispanic,1,Intimidation,1,Public Transit,Religious Bias,Individual,No,Yes
+1991,Police,GA,Georgia,1991-10-11,0,1,3,2,1,Hispanic,Hispanic,1,Assault,1,School,Political Bias,Student,No,No
+1992,Police,TN,Tennessee,1992-03-04,1,0,2,1,1,Black,Not Hispanic,1,Stalking,1,Office,Sexual Orientation Bias,Individual,No,Yes
+1993,Police,FL,Florida,1993-11-22,0,0,1,0,1,White,Not Hispanic,0,Burglary,0,Residence,Religious Bias,,No,No
+1994,Police,NV,Nevada,1994-08-30,1,1,3,2,1,Asian,Asian,2,Assault,2,Street,Political Bias,"Individual, Family",Yes,No
+1995,Police,MN,Minnesota,1995-05-02,0,1,3,2,1,White,Not Hispanic,1,Vandalism,1,Hotel,Sexual Orientation Bias,Student,No,Yes
+1996,Police,ME,Maine,1996-12-18,2,0,4,3,1,Hispanic,Hispanic,2,Attack,2,Public Space,Racial Bias,Individual,Yes,No
+1997,Police,RI,Rhode Island,1997-07-09,1,0,2,1,1,Black,Not Hispanic,1,Intimidation,1,Campus,Religious Bias,Individual,No,Yes
+1998,Police,IA,Iowa,1998-04-21,0,1,3,2,1,White,Not Hispanic,1,Assault,1,Apartment Complex,Political Bias,Student,No,No
+1999,Police,OK,Oklahoma,1999-09-15,1,0,2,1,1,Native American,Not Hispanic,1,Burglary,1,Store,Sexual Orientation Bias,Individual,No,Yes
+2000,Police,AZ,Arizona,2000-02-08,0,0,1,0,1,White,Not Hispanic,0,Assault,0,Residence,Racial Bias,,No,No
+2001,Police,CT,Connecticut,2001-11-27,1,1,3,2,1,Hispanic,Hispanic,2,Vandalism,2,School,Religious Bias,"Individual, Family",No,Yes
+2002,Police,ID,Idaho,2002-06-13,0,0,1,0,1,Black,Not Hispanic,0,Intimidation,0,Office,Political Bias,,No,No
+2003,Police,DE,Delaware,2003-09-05,1,0,2,1,1,White,Not Hispanic,1,Assault,1,Residence,Sexual Orientation Bias,Individual,No,Yes
+2004,Police,WA,Washington,2004-01-19,2,0,4,3,1,Asian,Asian,2,Burglary,2,Apartment,Religious Bias,Individual,Yes,No
+2005,Police,OR,Oregon,2005-08-30,1,1,3,2,1,White,Not Hispanic,2,Assault,2,Hallway,Political Bias,"Individual, Family",No,Yes
+2006,Police,MT,Montana,2006-04-12,0,0,1,0,1,Native American,Not Hispanic,0,Vandalism,0,School,Racial Bias,,No,No
+2007,Police,MS,Mississippi,2007-10-01,1,0,2,1,1,White,Not Hispanic,1,Intimidation,1,Store,Religious Bias,Individual,No,Yes
+2008,Police,AR,Arkansas,2008-05-17,0,1,3,2,1,Hispanic,Hispanic,1,Assault,1,Dormitory,Political Bias,Student,No,No
+2009,Police,MN,Minnesota,2009-12-23,2,0,4,3,1,Black,Not Hispanic,2,Burglary,2,Office,Sexual Orientation Bias,Individual,Yes,Yes
+2010,Police,NJ,New Jersey,2010-03-14,1,0,2,1,1,White,Not Hispanic,1,Attack,1,Residence,Racial Bias,Individual,No,No
+2011,Police,AL,Alabama,2011-07-05,0,0,1,0,1,Hispanic,Hispanic,0,Vandalism,0,College Campus,Religious Bias,,No,Yes
+2012,Police,VA,Virginia,2012-11-19,1,1,3,2,1,White,Not Hispanic,2,Assault,2,Cafe,Political Bias,"Individual, Family",No,No
+2013,Police,NM,New Mexico,2013-02-28,0,1,3,2,1,Black,Not Hispanic,1,Intimidation,1,Store,Sexual Orientation Bias,Student,Yes,Yes
+2014,Police,WV,West Virginia,2014-09-30,1,0,2,1,1,Asian,Asian,1,Burglary,1,Residence,Racial Bias,Individual,No,Yes
+1991,Police,NE,Nebraska,1991-06-22,0,0,1,0,1,White,Not Hispanic,0,Assault,0,Street,Religious Bias,,No,No
+1992,Police,NH,New Hampshire,1992-09-07,1,0,2,1,1,Hispanic,Hispanic,1,Stalking,1,Housing Complex,Political Bias,Individual,No,Yes
+1993,Police,LA,Louisiana,1993-01-16,0,1,3,2,1,Black,Not Hispanic,1,Vandalism,1,Office,Racial Bias,Student,No,No
+1994,Police,MD,Maryland,1994-12-03,1,0,2,1,1,White,Not Hispanic,1,Attack,1,Store,Religious Bias,Individual,No,Yes
+1995,Police,TX,Texas,1995-05-24,2,0,4,3,1,Native American,Not Hispanic,2,Intimidation,2,Campus,Sexual Orientation Bias,Individual,Yes,No
+1996,Police,ME,Maine,1996-08-11,1,1,3,2,1,White,Not Hispanic,2,Burglary,2,Apartment Complex,Racial Bias,"Individual, Family",No,Ye
+1997,Police,MO,Missouri,1997-04-18,0,0,1,0,1,Hispanic,Hispanic,0,Assault,0,Residence,Religious Bias,,No,No
+1998,Police,OH,Ohio,1998-11-06,1,0,2,1,1,Black,Not Hispanic,1,Vandalism,1,Restaurant,Political Bias,Individual,No,Yes
+1999,Police,IN,Indiana,1999-03-25,0,1,3,2,1,White,Not Hispanic,1,Stalking,1,Campus,Sexual Orientation Bias,Student,No,No
+2000,Police,NC,Carolina,2000-07-14,1,0,2,1,1,Asian,Asian,1,Attack,1,Store,Racial Bias,Individual,No,Yes
+2001,Police,OR,Oregon,2001-10-09,0,0,1,0,1,White,Not Hispanic,0,Intimidation,0,Home,Religious Bias,,No,No
+2002,Police,CA,California,2002-01-31,1,1,3,2,1,Hispanic,Hispanic,2,Burglary,2,Parking Lot,Political Bias,"Individual, Family",No,Yes
+2003,Police,IL,Illinois,2003-08-12,2,0,4,3,1,White,Not Hispanic,2,Assault,2,Shopping Mall,Sexual Orientation Bias,Individual,Yes,No
+2004,Police,NY,New York,2004-06-29,1,0,2,1,1,Black,Not Hispanic,1,Vandalism,1,Residence,Racial Bias,Individual,No,Yes
+2005,Police,VA,Virginia,2005-09-17,0,1,3,2,1,White,Not Hispanic,1,Stalking,1,Office,Religious Bias,Student,No,No
+2006,Police,AK,Alaska,2006-04-03,1,0,2,1,1,Native American,Not Hispanic,1,Intimidation,1,Restaurant,Political Bias,Individual,No,Yes
+2007,Police,TN,Tennessee,2007-12-20,0,0,1,0,1,White,Not Hispanic,0,Burglary,0,Store,Sexual Orientation Bias,,No,No
+2008,Police,SC,South Carolina,2008-02-15,1,1,3,2,1,Hispanic,Hispanic,2,Assault,2,Dormitory,Racial Bias,"Individual, Family",Yes,Yes
+2009,Police,MN,Minnesota,2009-07-08,0,0,1,0,1,Black,Not Hispanic,0,Vandalism,0,Residence,Religious Bias,,No,No
+2010,Police,NJ,New Jersey,2010-11-26,1,0,2,1,1,White,Not Hispanic,1,Attack,1,Apartment Complex,Political Bias,Individual,No,Yes
+2011,Police,WY,Wyoming,2011-05-13,2,0,4,3,1,Asian,Asian,2,Intimidation,2,Store,Sexual Orientation Bias,Individual,Yes,No
+2012,Police,MS,Mississippi,2012-09-30,1,1,3,2,1,White,Not Hispanic,2,Burglary,2,College Campus,Racial Bias,"Individual, Family",No,Yes
+2013,Police,GA,Georgia,2013-01-04,0,0,1,0,1,Hispanic,Hispanic,0,Assault,0,Street,Religious Bias,,No,No
+2014,Police,KY,Kentucky,2014-06-22,1,0,2,1,1,Black,Not Hispanic,1,Vandalism,1,Housing Complex,Political Bias,Individual,No,Yes
+1991,Federal Agency,CA,California,1991-03-15,1,0,2,1,1,White,Not Hispanic,1,Anti-Religious,1,Residence,Religion,Adult,No,No
+1992,Local Police,NY,New York,1992-07-22,2,0,3,2,1,Black,Hispanic,2,Anti-Jewish,2,School,Religion,Adult,No,No
+1993,State Police,FL,Florida,1993-11-08,0,1,1,0,1,White,Not Hispanic,1,Anti-LGBTQ,1,Hospital,Sexual Orientation,Juvenile,Yes,Yes
+1994,County Sheriff,TX,Texas,1994-02-14,3,0,2,2,0,Hispanic,Hispanic,3,Anti-African American,3,Residence,Race,Adult,Yes,No
+1995,City Police,IL,Illinois,1995-09-30,1,1,4,2,2,White,Not Hispanic,2,Anti-Asian,2,Public Place,Race,"Adult,Juvenile",Yes,Yes
+1996,Federal Agency,GA,Georgia,1996-05-18,0,2,2,0,2,Black,Not Hispanic,2,Anti-Jewish,2,Church,Religion,Juvenile,Yes,No
+1997,Local Police,PA,Pennsylvania,1997-12-05,1,0,1,1,0,White,Not Hispanic,1,Anti-Black,1,Store,Race,Adult,No,No
+1998,State Police,WA,Washington,1998-08-19,2,0,2,1,1,Hispanic,Hispanic,2,Anti-Hispanic,2,School,Holiday,Adult,No,Yes
+1999,City Police,OH,Ohio,1999-04-10,1,1,3,1,2,White,Not Hispanic,2,Anti-LGBTQ,2,Restaurant,Sexual Orientation,"Adult,Juvenile",No,No
+2000,County Sheriff,MI,Michigan,2000-10-27,0,1,2,0,2,Black,Hispanic,1,Anti-Muslim,1,Residence,Religion,Juvenile,No,Yes
+2001,Local Police,VA,Virginia,2001-01-03,3,0,4,3,1,White,Not Hispanic,3,Anti-Religious,3,Hospital,Religion,Adult,No,Yes
+2002,Federal Agency,NC,Carolina,2002-06-17,1,0,1,1,0,Hispanic,Not Hispanic,1,Anti-Jewish,1,School,Religion,Adult,Yes,No
+2003,State Police,MO,Missouri,2003-03-29,0,1,2,0,2,White,Hispanic,1,Anti-Black,1,Park,Race,Juvenile,No,No
+2004,City Police,AL,Alabama,2004-11-12,2,0,3,2,1,Black,Not Hispanic,2,Anti-African American,2,Office,Race,Adult,Yes,Yes
+2005,County Sheriff,NJ,New Jersey,2005-07-05,0,2,3,0,3,White,Not Hispanic,2,Anti-LGBTQ,2,Store,Sexual Orientation,Juvenile,No,Yes
+2006,Local Police,MA,Massachusetts,2006-02-18,1,0,2,1,1,Hispanic,Hispanic,1,Anti-Religious,1,Hospital,Religion,Adult,Yes,No
+2007,Federal Agency,MD,Maryland,2007-09-09,3,0,1,1,0,White,Not Hispanic,3,Anti-Jewish,3,Church,Religion,Adult,Yes,Yes
+2008,State Police,MN,Minnesota,2008-12-21,0,1,1,0,1,Black,Hispanic,1,Anti-Asian,1,Residence,Race,Juvenile,No,No
+2009,City Police,SC,Carolina,2009-05-15,1,0,3,2,1,White,Not Hispanic,1,Anti-Hispanic,1,Public Place,Holiday,Adult,Yes,No
+2010,County Sheriff,IN,Indiana,2010-08-30,2,1,2,1,1,Hispanic,Hispanic,3,Anti-LGBTQ,3,Restaurant,Sexual Orientation,"Adult,Juvenile",YES,YES
+2011,Local Police,OR,Oregon,2011-01-23,0,1,2,0,2,White,Not Hispanic,1,Anti-Muslim,1,School,Religion,Juvenile,No,Yes
+2012,Federal Agency,OK,Oklahoma,2012-04-16,1,0,1,1,0,Black,Not Hispanic,1,Anti-Religious,1,Store,Religion,Adult,No,Yes
+2013,State Police,KY,Kentucky,2013-10-08,1,1,4,2,2,White,Hispanic,2,Anti-Jewish,2,Hospital,Religion,"Adult,Juvenile",No,No
+2014,City Police,NE,Nebraska,2014-07-25,3,0,1,1,0,Hispanic,Hispanic,3,Anti-Black,3,Residence,Race,Adult,Yes,No
+1992,County Sheriff,VT,Vermon,1992-12-11,0,1,2,0,2,White,Not Hispanic,1,Anti-Asian,1,Public Place,Race,Juvenile,Yes,Yes
+1993,Local Police,AZ,Arizona,1993-06-07,1,0,3,2,1,Black,Hispanic,1,Anti-Hispanic,1,Store,Holiday,Adult,No,No
+1994,Federal Agency,DE,Delaware,1994-03-30,2,0,2,1,1,White,Not Hispanic,2,Anti-LGBTQ,2,School,Sexual Orientation,Adult,Yes,Yes
+1995,State Police,AR,Arkansas,1995-09-18,0,2,1,0,1,Hispanic,Hispanic,2,Anti-Muslim,2,Restaurant,Religion,Juvenile,No,No
+1996,City Police,WV,West Virginia,1996-05-22,1,1,3,1,2,White,Not Hispanic,2,Anti-Religious,2,Office,Religion,"Adult,Juvenile",Yes,No
+1997,County Sheriff,TN,Tennessee,1997-11-04,3,0,2,2,0,Black,Not Hispanic,3,Anti-Jewish,3,Hospital,Religion,Adult,Yes,Yes
+1998,Local Police,LA,Louisiana,1998-01-13,1,0,1,1,0,White,Hispanic,1,Anti-African American,1,Store,Race,Adult,No,No
+1999,Federal Agency,WI,Wisconsin,1999-08-27,0,1,4,0,4,Hispanic,Hispanic,1,Anti-LGBTQ,1,Church,Sexual Orientation,Juvenile,No,Yes
+2000,State Police,MS,Mississippi,2000-02-19,2,0,2,1,1,White,Not Hispanic,2,Anti-Religious,2,Park,Religion,Adult,No,Yes
+2001,City Police,VT,Vermon,2001-04-05,0,1,3,0,3,Black,Hispanic,1,Anti-Jewish,1,Residence,Religion,Juvenile,Yes,No
+2002,County Sheriff,CO,Colorado,2002-07-31,1,0,1,1,0,White,Not Hispanic,1,Anti-Asian,1,School,Race,Adult,No,Yes
+2003,Local Police,RI,Rhode Island,2003-10-10,3,0,2,2,0,Hispanic,Hispanic,3,Anti-Hispanic,3,Restaurant,Holiday,Adult,Yes,No
+2004,Federal Agency,CT,Connecticut,2004-02-17,0,2,1,0,1,White,Not Hispanic,2,Anti-LGBTQ,2,Church,Sexual Orientation,Juvenile,No,Yes
+2005,State Police,NH,New Hampshire,2005-12-23,1,1,3,1,2,Hispanic,Hispanic,2,Anti-Muslim,2,Store,Religion,"Adult,Juvenile",No,No
+2006,City Police,NM,New Mexico,2006-06-14,1,0,2,1,1,White,Not Hispanic,1,Anti-Religious,1,Hospital,Religion,Adult,Yes,Yes
+2007,County Sheriff,AK,Alaska,2007-03-30,2,0,3,2,1,Black,Hispanic,2,Anti-Jewish,2,Residence,Religion,Adult,No,No
+2008,Local Police,MN,Minnesota,2008-11-08,0,1,1,0,1,White,Not Hispanic,1,Anti-African American,1,Public Place,Race,Juvenile,No,Yes
+2009,Federal Agency,NY,New York,2009-09-02,1,0,4,2,2,Hispanic,Hispanic,1,Anti-LGBTQ,1,Restaurant,Sexual Orientation,Adult,Yes,Yes
+2010,State Police,FL,Florida,2010-07-15,3,0,2,1,1,White,Not Hispanic,3,Anti-Religious,3,Store,Religion,Adult,No,No
+2011,City Police,GA,Georgia,2011-05-28,0,2,3,0,3,Black,Not Hispanic,2,Anti-Jewish,2,Church,Religion,Juvenile,Yes,No
+2012,County Sheriff,TX,Texas,2012-01-11,1,0,1,1,0,White,Hispanic,1,Anti-Black,1,Park,Race,Adult,No,Yes
+2013,Local Police,IL,Illinois,2013-08-17,2,0,2,2,0,Hispanic,Hispanic,2,Anti-Asian,2,School,Race,Adult,No,No
+2014,Federal Agency,PA,Pennsylvania,2014-04-30,0,1,1,0,1,White,Not Hispanic,1,Anti-Hispanic,1,Residence,Holiday,Juvenile,Yes,Yes
+1991,State Police,OH,Ohio,1991-12-05,1,1,3,1,2,Black,Hispanic,2,Anti-LGBTQ,2,Restaurant,Sexual Orientation,"Adult,Juvenile",No,Yes
+1992,City Police,VA,Virginia,1992-02-18,3,0,2,2,0,White,Not Hispanic,3,Anti-Muslim,3,Office,Religion,Adult,Yes,No
+1993,County Sheriff,MD,Maryland,1993-09-10,0,2,3,0,3,Hispanic,Hispanic,2,Anti-Religious,2,Church,Religion,Juvenile,No,No
+1994,Local Police,MN,Minnesota,1994-06-23,1,1,1,1,0,White,Not Hispanic,2,Anti-Jewish,2,Store,Religion,"Adult,Juvenile",Yes,Yes
+1995,Federal Agency,MI,Michigan,1995-11-12,2,0,4,2,2,Black,Hispanic,2,Anti-African American,2,School,Race,Adult,No,No
+1996,State Police,SC,Carolina,1996-03-08,0,2,2,0,2,White,Not Hispanic,2,Anti-LGBTQ,2,Residence,Sexual Orientation,Juvenile,Yes,Yes
+1997,City Police,NC,Carolina,1997-10-21,1,0,1,1,0,Hispanic,Hispanic,1,Anti-Hispanic,1,Public Place,Holiday,Adult,No,No
+1998,County Sheriff,TN,Tennessee,1998-05-27,3,0,3,2,1,White,Not Hispanic,3,Anti-Religious,3,Hospital,Religion,Adult,Yes,Yes
+1999,Local Police,CA,California,1999-07-14,0,1,2,0,2,Black,Not Hispanic,1,Anti-Jewish,1,Restaurant,Religion,Juvenile,No,No
+2000,Federal Agency,OR,Oregon,2000-01-31,2,0,1,1,0,White,Hispanic,2,Anti-Black,2,Church,Race,Adult,No,Yes
+2001,State Police,WY,Wyoming,2001-08-19,1,1,3,1,2,Hispanic,Hispanic,2,Anti-Asian,2,Store,Race,"Adult,Juvenile",Yes,No
+2002,City Police,VT,Vermon,2002-12-03,0,1,2,0,2,White,Not Hispanic,1,Anti-LGBTQ,1,Residence,Sexual Orientation,Juvenile,No,Yes
+2003,County Sheriff,WI,Wisconsin,2003-04-16,1,0,1,1,0,Black,Hispanic,1,Anti-Muslim,1,School,Religion,Adult,No,Yes
+2004,Local Police,NJ,New Jersey,2004-11-28,2,0,2,2,0,White,Not Hispanic,2,Anti-Religious,2,Office,Religion,Adult,Yes,No
+2005,Federal Agency,IN,Indiana,2005-02-22,0,1,2,0,2,Hispanic,Hispanic,1,Anti-Jewish,1,Hospital,Religion,Juvenile,No,No
+2006,State Police,GA,Georgia,2006-09-13,1,1,3,1,2,White,Not Hispanic,2,Anti-African American,2,School,Race,"Adult,Juvenile",Yes,Yes
+2007,City Police,KY,Kentucky,2007-06-06,3,0,1,1,0,Hispanic,Hispanic,3,Anti-LGBTQ,3,Restaurant,Sexual Orientation,Adult,No,No
+2008,County Sheriff,TX,Texas,2008-03-22,0,2,3,0,3,White,Not Hispanic,2,Anti-Religious,2,Store,Religion,Juvenile,No,Yes
+2009,Local Police,AL,Alabama,2009-10-08,1,0,1,1,0,Black,Hispanic,1,Anti-Hispanic,1,Residence,Holiday,Adult,Yes,Yes
+2010,Federal Agency,AR,Arkansas,2010-07-29,2,1,2,1,1,White,Not Hispanic,3,Anti-Jewish,3,Church,Religion,"Adult,Juvenile",No,No
+2011,State Police,NE,Nebraska,2011-12-15,0,2,4,0,4,Hispanic,Hispanic,2,Anti-LGBTQ,2,Park,Sexual Orientation,Juvenile,Yes,Yes
+2012,City Police,WV,West Virginia,2012-05-23,1,0,1,1,0,White,Not Hispanic,1,Anti-Muslim,1,Public Place,Religion,Adult,No,No
+2013,County Sheriff,NM,New Mexico,2013-01-17,3,0,2,2,0,Black,Not Hispanic,3,Anti-Religious,3,Restaurant,Religion,Adult,Yes,Yes
+2014,Local Police,CT,Connecticut,2014-09-10,0,1,1,0,1,White,Hispanic,1,Anti-Jewish,1,Office,Religion,Juvenile,No,No
+1991,Local Police,CA,California,1991-03-15,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Residence,Religious Bias,Individual,True,False
+1992,Federal Agency,FL,Florida,1992-07-22,0,1,1,0,1,Black,Non-Hispanic,1,Burglary,1,Commercial,Biological Race Bias,Individual,False,True
+1993,State Police,NY,New York,1993-11-08,2,0,3,2,1,Hispanic,Hisp/Other,2,Motor Vehicle Theft,2,Roadway,Gender Identity Bias,Group,False,False
+1994,Local Police,TX,Texas,1994-02-14,1,1,4,2,2,White,Non-Hispanic,2,Aggravated Assault,2,Residence,Racial Bias,Individual,False,False
+1995,Federal Agency,IL,Illinois,1995-09-30,0,0,1,1,0,Asian,Non-Hispanic,0,Arson,0,Public Building,Sexual Orientation Bias,Individual,True,True
+1996,State Police,GA,Georgia,1996-05-19,1,0,2,1,1,White,Non-Hispanic,1,Simple Assault,1,Educational Facility,LGBTQ+ Bias,Individual,False,True
+1997,Local Police,PA,Pennsylvania,1997-12-04,0,1,1,0,1,Black,Non-Hispanic,1,Vandalism,1,School Property,Religious Bias,Individual,True,False
+1998,Federal Agency,OH,Ohio,1998-04-11,0,0,1,0,1,Hispanic,Hisp/Other,0,Theft,0,Public Transportation,Anti-Semitism Bias,Individual,False,False
+1999,State Police,VA,Virginia,1999-10-27,2,0,3,2,1,White,Non-Hispanic,2,Robbery,2,Housing Complex,Racial Bias,Individual,True,True
+2000,Local Police,MI,Michigan,2000-01-06,1,0,2,1,1,Asian,Non-Hispanic,1,Assault,1,Place of Worship,Religious Bias,Group,False,False
+2001,Federal Agency,NC,Carolina,2001-08-18,0,1,1,0,1,White,Non-Hispanic,1,Burglary,1,Residence,Gender Identity Bias,Individual,True,False
+2002,State Police,WA,Washington,2002-06-30,1,1,4,2,2,Black,Non-Hispanic,2,Aggravated Assault,2,College Campus,Racial Bias,Group,False,True
+2003,Local Police,NJ,New Jersey,2003-12-13,0,0,1,1,0,Hispanic,Hisp/Other,0,Assault,0,Street,Sexual Orientation Bias,Individual,False,False
+2004,Federal Agency,MD,Maryland,2004-03-22,2,0,3,2,1,White,Non-Hispanic,2,Motor Vehicle Theft,2,Park Property,Biological Race Bias,Individual,True,False
+2005,State Police,IN,Indiana,2005-09-05,1,0,2,1,1,Asian,Non-Hispanic,1,Simple Assault,1,Shopping Mall,Gender Identity Bias,Individual,False,True
+2006,Local Police,MO,Missouri,2006-07-19,0,1,1,0,1,Black,Non-Hispanic,1,Vandalism,1,Residence,Racial Bias,Individual,True,False
+2007,Federal Agency,TN,Tennessee,2007-11-28,1,0,2,1,1,Hispanic,Hisp/Other,1,Arson,1,Campus,LGBTQ+ Bias,Individual,False,True
+2008,State Police,SC,South Carolina,2008-02-14,0,0,1,0,1,White,Non-Hispanic,0,Theft,0,Public Building,Religious Bias,Individual,True,False
+2009,Local Police,AL,Alabama,2009-05-31,2,0,3,2,1,White,Non-Hispanic,2,Robbery,2,School Property,Anti-Semitism Bias,Individual,False,False
+2010,Federal Agency,KS,Kansas,2010-10-12,1,0,2,1,1,Asian,Non-Hispanic,1,Assault,1,Residence,Racial Bias,Group,True,True
+2011,State Police,LB,Louisiana,2011-04-17,0,1,1,0,1,Black,Non-Hispanic,1,Burglary,1,Housing Complex,Gender Identity Bias,Individual,False,False
+2012,Local Police,NV,Nevada,2012-08-03,1,0,2,1,1,White,Non-Hispanic,1,Motor Vehicle Theft,1,Park Property,Religious Bias,Individual,True,True
+2013,Federal Agency,VT,Vermont,2013-12-25,0,0,1,1,0,Hispanic,Hisp/Other,0,Simple Assault,0,Place of Worship,Sexual Orientation Bias,Individual,True,False
+2014,State Police,WI,Wisconsin,2014-01-10,2,0,3,2,1,White,Non-Hispanic,2,Assault,2,Commercial,Religious Bias,Individual,False,True
+2013,Local Police,OK,Oklahoma,2013-06-15,1,1,4,2,2,Black,Non-Hispanic,2,Aggravated Assault,2,School Facility,Gender Identity Bias,Group,True,False
+2012,Federal Agency,NE,Nebraska,2012-09-20,0,0,1,0,1,Hispanic,Hisp/Other,0,Theft,0,Roadway,Racial Bias,Individual,False,True
+2011,State Police,AZ,Arizona,2011-11-07,1,0,2,1,1,White,Non-Hispanic,1,Robbery,1,Residence,LGBTQ+ Bias,Individual,True,False
+2010,Local Police,WA,Washington,2010-03-28,0,1,1,0,1,Asian,Non-Hispanic,1,Burglary,1,Public Building,Religious Bias,Individual,False,True
+2009,Federal Agency,NY,New York,2009-07-14,1,0,2,1,1,Black,Non-Hispanic,1,Simple Assault,1,Shopping Mall,Anti-Semitism Bias,Individual,True,False
+2008,State Police,GA,Georgia,2008-10-30,0,0,1,1,0,White,Non-Hispanic,0,Assault,0,Public Transportation,Racial Bias,Individual,True,True
+2007,Local Police,FL,Florida,2007-02-12,2,0,3,2,1,Hispanic,Hisp/Other,2,Motor Vehicle Theft,2,Housing Complex,Gender Identity Bias,Group,False,False
+2006,Federal Agency,TX,Texas,2006-05-18,1,1,4,2,2,White,Non-Hispanic,2,Aggravated Assault,2,Residence,Sexual Orientation Bias,Individual,True,True
+2005,State Police,VA,Virginia,2005-08-22,0,0,1,0,1,Asian,Non-Hispanic,0,Theft,0,School Property,Religious Bias,Individual,True,False
+2004,Local Police,MI,Michigan,2004-12-05,1,0,2,1,1,White,Non-Hispanic,1,Robbery,1,Park Property,Racial Bias,Individual,False,True
+2003,Federal Agency,OH,Ohio,2003-01-19,0,1,1,0,1,Black,Non-Hispanic,1,Burglary,1,Commercial,Gender Identity Bias,Individual,True,False
+2002,State Police,PA,Pennsylvania,2002-04-26,1,0,2,1,1,Hispanic,Hisp/Other,1,Assault,1,College Campus,LGBTQ+ Bias,Single,True,True
+2001,Local Police,NC,Carolina,2001-07-13,0,0,1,1,0,White,Non-Hispanic,0,Motor Vehicle Theft,0,Residence,Religious Bias,Individual,True,False
+1999,Federal Agency,MD,Maryland,1999-10-02,1,0,2,1,1,Asian,Non-Hispanic,1,Simple Assault,1,Street,Racial Bias,Individual,True,True
+1998,State Police,DE,Delaware,1998-03-30,0,1,1,0,1,White,Non-Hispanic,1,Burglary,1,Public Building,Sexual Orientation Bias,Individual,True,False
+1997,Local Police,NJ,New Jersey,1997-06-25,2,0,3,2,1,Hispanic,Hisp/Other,2,Assault,2,Roadway,Religious Bias,Group,True,False
+1996,Federal Agency,CT,Connecticut,1996-12-08,1,0,2,1,1,White,Non-Hispanic,1,Aggravated Assault,1,Residence,Anti-Semitism Bias,Individual,True,True
+1995,State Police,RI,Rhode Island,1995-11-11,0,0,1,0,1,Black,Non-Hispanic,0,Theft,0,Place of Worship,Racial Bias,Individual,True,False
+1994,Local Police,MA,Massachusetts,1994-02-17,1,1,4,2,2,White,Non-Hispanic,2,Motor Vehicle Theft,2,School Property,Gender Identity Bias,Group,True,True
+1993,Federal Agency,NH,New Hampshire,1993-05-12,0,0,1,1,0,Hispanic,Hisp/Other,0,Burglary,0,Shopping Mall,Religious Bias,Individual,True,False
+1992,State Police,ME,Maine,1992-08-28,2,0,3,2,1,White,Non-Hispanic,2,Simple Assault,2,Public Transportation,Sexual Orientation Bias,Individual,True,True
+1991,Local Police,WV,West Virginia,1991-10-20,1,0,2,1,1,Black,Non-Hispanic,1,Assault,1,Housing Complex,Racial Bias,Individual,True,False
+1994,State Police,VT,Vermont,1994-01-03,0,0,1,0,1,Hispanic,Hisp/Other,0,Theft,0,Church Property,LGBTQ+ Bias,Individual,True,False
+1995,Federal Agency,TN,Tennessee,1995-03-15,1,1,4,2,2,White,Non-Hispanic,2,Aggravated Assault,2,Office Building,Religious Bias,Group,True,True
+1996,Local Police,SC,South Carolina,1996-07-22,0,0,1,1,0,Asian,Non-Hispanic,0,Motor Vehicle Theft,0,Park Property,Anti-Semitism Bias,Individual,True,False
+1997,State Police,AL,Alabama,1997-09-30,2,0,3,2,1,Black,Non-Hispanic,2,Robbery,2,School Facility,Gender Identity Bias,Individual,True,True
+1998,Federal Agency,FL,Florida,1998-11-08,1,0,2,1,1,White,Non-Hispanic,1,Burglary,1,Residence,Religious Bias,Individual,True,False
+1999,Local Police,GA,Georgia,1999-02-14,0,1,1,0,1,Hispanic,Hisp/Other,1,Assault,1,School Property,Racial Bias,Individual,True,True
+2000,State Police,NC,Carolina,2000-05-20,1,0,2,1,1,White,Non-Hispanic,1,Motor Vehicle Theft,1,Public Building,Gender Identity Bias,Individual,False,False
+2001,Federal Agency,VA,Virginia,2001-08-04,0,0,1,0,1,Black,Non-Hispanic,0,Theft,0,Campus,LGBTQ+ Bias,Individual,True,True
+2002,Local Police,PA,Pennsylvania,2002-11-12,2,0,3,2,1,Hispanic,Hisp/Other,2,Simple Assault,2,Residence,Religious Bias,Group,True,False
+2003,State Police,NY,New York,2003-01-25,1,1,4,2,2,White,Non-Hispanic,2,Aggravated Assault,2,Street,Anti-Semitism Bias,Individual,False,True
+2004,Federal Agency,NJ,New Jersey,2004-04-30,0,0,1,1,0,Asian,Non-Hispanic,0,Burglary,0,Shopping Mall,Sexual Orientation Bias,Individual,True,False
+2005,Local Police,IL,Illinois,2005-07-17,1,0,2,1,1,White,Non-Hispanic,1,Motor Vehicle Theft,1,Office Building,Racial Bias,Individual,True,True
+2006,State Police,OH,Ohio,2006-10-02,0,1,1,0,1,Hispanic,Hisp/Other,1,Assault,1,Park Property,Religious Bias,Individual,True,False
+2007,Federal Agency,MI,Michigan,2007-01-18,2,0,3,2,1,White,Non-Hispanic,2,Robbery,2,Commercial,Gender Identity Bias,Group,True,True
+2008,Local Police,GA,Georgia,2008-03-20,1,0,2,1,1,Black,Non-Hispanic,1,Burglary,1,Housing Complex,LGBTQ+ Bias,Individual,True,False
+2009,State Police,TX,Texas,2009-06-06,0,0,1,0,1,Hispanic,Hisp/Other,0,Theft,0,Residence,Anti-Semitism Bias,Individual,True,True
+2010,Federal Agency,AL,Alabama,2010-09-13,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Public Building,Religious Bias,Individual,True,False
+2011,Local Police,NC,Carolina,2011-12-21,0,1,1,0,1,Asian,Non-Hispanic,1,Motor Vehicle Theft,1,College Campus,Racial Bias,Individual,True,True
+2012,State Police,WV,West Virginia,2012-03-05,1,1,4,2,2,White,Non-Hispanic,2,Burglary,2,Street,Gender Identity Bias,Group,True,False
+2013,Federal Agency,MD,Maryland,2013-05-19,0,0,1,1,0,Black,Non-Hispanic,0,Aggravated Assault,0,Park Property,LGBTQ+ Bias,Individual,True,True
+2014,Local Police,DE,Delaware,2014-08-07,2,0,3,2,1,Hispanic,Hisp/Other,2,Simple Assault,2,Residence,Religious Bias,Individual,True,False
+1991,Local Police,CA,California,1991-03-15,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Residence,Religious Bias,Individuals,No,Yes
+1992,State Police,FL,Florida,1992-07-22,0,1,3,2,1,Black,Hispanic,1,Harassment,1,Street,Racial Bias,Children,No,No
+1993,Local Police,TX,Texas,1993-11-08,2,0,1,1,0,Asian,Non-Hispanic,2,Criminal Mischief,2,Place of Worship,Homosexual Bias,Individuals,Yes,No
+1994,County Sheriff,NY,New York,1994-02-14,1,0,2,1,1,White,Non-Hispanic,1,Vandalism,1,School,Other Bias,Individuals,No,Yes
+1995,Local Police,IL,Illinois,1995-09-30,0,2,1,0,1,Historic,Hispanic,2,Assault,2,Public Park,Gender Bias,Children,No,No
+1996,State Police,OH,Ohio,1996-05-12,3,0,2,2,0,White,Non-Hispanic,3,Hate Crime,3,Dormitory,Racial Bias,Individuals,Yes,No
+1997,Local Police,VA,Virginia,1997-08-19,1,0,1,1,0,Black,Non-Hispanic,1,Intimidation,1,Library,Sexual Orientation Bias,Individuals,No,No
+1998,County Sheriff,GA,Georgia,1998-12-05,0,1,2,1,1,Hispanic,Hispanic,1,Burglary,1,Store,Religious Bias,Children,No,Yes
+1999,Local Police,PA,Pennsylvania,1999-04-10,2,1,3,2,1,White,Non-Hispanic,3,Aggravated Assault,3,Street,Other Bias,Individuals,Yes,No
+2000,State Police,WA,Washington,2000-10-27,1,0,2,1,1,Asian,Non-Hispanic,1,Hate Crime,1,Restaurant,Racial Bias,Individuals,No,No
+2001,Local Police,NC,Texas,2001-01-18,0,1,2,1,1,White,Hispanic,1,Harassment,1,Community Center,Sexual Orientation Bias,Children,NoYes,
+2002,County Sheriff,MD,Maryland,2002-06-30,2,0,1,1,0,Black,Non-Hispanic,2,Criminal Mischief,2,Park,Religious Bias,Individuals,Yes,No
+2003,Local Police,MI,Michigan,2003-03-22,1,0,1,1,0,Hispanic,Hispanic,1,Vandalism,1,House,Gender Bias,Individuals,No,No
+2004,State Police,FL,Florida,2004-11-15,0,1,1,0,1,White,Non-Hispanic,1,Assault,1,School,Sexual Orientation Bias,Children,No,No
+2005,Local Police,IN,Indiana,2005-02-28,3,0,1,1,0,Asian,Non-Hispanic,3,Hate Crime,3,Office Park,Racial Bias,Individuals,Yes,No
+2006,County Sheriff,VA,Virginia,2006-07-14,1,0,2,1,1,White,Non-Hispanic,1,Intimidation,1,Bank,Other Bias,Individuals,No,Yes
+2007,Local Police,TX,Texas,2007-09-23,0,1,1,0,1,Black,Non-Hispanic,1,Burglary,1,Residence,Racial Bias,Children,No,No
+2008,State Police,CA,California,2008-04-05,2,0,1,1,0,White,Hispanic,2,Aggravated Assault,2,School,Religious Bias,Individuals,Yes,No
+2009,Local Police,OH,Ohio,2009-12-18,1,0,2,1,1,Hispanic,Hispanic,1,Harassment,1,Street,Sexual Orientation Bias,Individuals,No,Yes
+2010,County Sheriff,GA,Georgia,2010-08-30,0,2,1,0,1,White,Non-Hispanic,2,Hate Crime,2,Church,Gender Bias,Children,No,No
+2011,Local Police,WI,Wisconsin,2011-01-13,2,0,1,1,0,Black,Non-Hispanic,2,Criminal Mischief,2,University,Racial Bias,Individuals,Yes,No
+2012,State Police,NJ,New Jersey,2012-05-29,1,0,2,1,1,White,Non-Hispanic,1,Vandalism,1,Hospital,Other Bias,Individuals,No,No
+2013,Local Police,MA,Massachusetts,2013-10-07,0,1,1,0,1,Asian,Hispanic,1,Assault,1,Apartment Complex,Racial Bias,Children,No,Yes
+2014,County Sheriff,OR,Oregon,2014-03-24,3,0,1,1,0,White,Non-Hispanic,3,Intimidation,3,Marketplace,Sexual Orientation Bias,Individuals,Yes,No
+1991,Local Police,SC,South Carolina,1991-06-19,1,0,2,1,1,Black,Non-Hispanic,1,Aggravated Assault,1,Shopping Mall,Religious Bias,Individuals,No,No
+1992,State Police,LA,Louisiana,1992-10-12,0,1,3,2,1,Hispanic,Hispanic,1,Burglary,1,Residence,Other Bias,Children,No,Yes
+1993,Local Police,CO,Colorado,1993-02-27,2,0,1,1,0,White,Non-Hispanic,2,Harassment,2,Community Center,Gender Bias,Individuals,Yes,No
+1994,County Sheriff,TN,Tennessee,1994-08-07,1,0,1,1,0,White,Hispanic,1,Hate Crime,1,School,Sexual Orientation Bias,Individuals,No,No
+1995,Local Police,AL,Alabama,1995-11-30,0,2,1,0,1,Black,Non-Hispanic,2,Criminal Mischief,2,Church,Racial Bias,Children,No,No
+1996,State Police,KY,Kentucky,1996-04-16,3,0,1,1,0,Hispanic,Hispanic,3,Assault,3,Apartment Complex,Religious Bias,Individuals,Yes,No
+1997,Local Police,NV,Nevada,1997-07-11,1,0,2,1,1,White,Non-Hispanic,1,Intimidation,1,Restaurant,Other Bias,Individuals,No,Yes
+1998,County Sheriff,MO,Missouri,1998-12-10,0,1,1,0,1,Asian,Non-Hispanic,1,Harassment,1,School,Racial Bias,Children,No,No
+1999,Local Police,WV,West Virginia,1999-09-25,2,0,1,1,0,White,Hispanic,2,Aggravated Assault,2,Library,Sexual Orientation Bias,Individuals,Yes,No
+2000,State Police,ID,Idaho,2000-01-05,1,0,2,1,1,Black,Non-Hispanic,1,Criminal Mischief,1,Office Building,Gender Bias,Individuals,No,No
+2001,Local Police,CT,Connecticut,2001-03-20,0,1,1,0,1,White,Non-Hispanic,1,Vandalism,1,Housing Complex,Religious Bias,Children,No,Yes
+2002,County Sheriff,VT,Vermont,2002-08-02,3,0,1,1,0,Hispanic,Hispanic,3,Assault,3,Bar,Racial Bias,Individuals,Yes,No
+2003,Local Police,RH,Rhode Island,2003-11-15,1,0,2,1,1,White,Non-Hispanic,1,Aggravated Assault,1,Street,Other Bias,Individuals,No,No
+2004,State Police,ND,North Dakota,2004-05-28,0,1,1,0,1,Black,Non-Hispanic,1,Hate Crime,1,Store,Sexual Orientation Bias,Children,No,No
+2005,Local Police,SD,South Dakota,2005-07-14,2,0,1,1,0,White,Hispanic,2,Intimidation,2,Home,Racial Bias,Individuals,Yes,No
+2006,County Sheriff,KS,Kansas,2006-10-31,1,0,2,1,1,White,Non-Hispanic,1,Harassment,1,University,Gender Bias,Individuals,No,Yes
+2007,Local Police,NE,Nebraska,2007-02-12,0,1,1,0,1,Asian,Non-Hispanic,1,Criminal Mischief,1,Community Center,Religious Bias,Children,No,No
+2008,State Police,AR,Arkansas,2008-06-18,3,0,1,1,0,White,Non-Hispanic,3,Aggravated Assault,3,Restaurant,Other Bias,Individuals,Yes,No
+2009,Local Police,OK,Oklahoma,2009-09-04,1,0,2,1,1,Hispanic,Hispanic,1,Vandalism,1,Library,Sexual Orientation Bias,Individuals,No,No
+2010,County Sheriff,MT,Montana,2010-12-21,0,2,1,0,1,Black,Non-Hispanic,2,Hate Crime,2,Church,Racial Bias,Children,No,Yes
+2011,Local Police,WY,Wyoming,2011-03-26,2,0,1,1,0,White,Non-Hispanic,2,Criminal Mischief,2,Community Center,Gender Bias,Individuals,Yes,No
+2012,State Police,ME,Maine,2012-07-17,1,0,2,1,1,White,Hispanic,1,Assault,1,Housing Complex,Religious Bias,Individuals,No,No
+2013,Local Police,HI,Hawaii,2013-10-09,0,1,1,0,1,Asian,Non-Hispanic,1,Aggravated Assault,1,Apartment,Other Bias,Children,No,Yes
+2014,County Sheriff,PR,Puerto Rico,2014-01-22,3,0,1,1,0,White,Non-Hispanic,3,Intimidation,3,Shopping Mall,Sexual Orientation Bias,Individuals,Yes,No
+1991,Local Police,MS,Mississippi,1991-04-15,1,0,2,1,1,Black,Non-Hispanic,1,Criminal Mischief,1,Street,Racial Bias,Individuals,No,No
+1992,State Police,LA,Louisiana,1992-06-30,0,1,3,2,1,Hispanic,Hispanic,1,Vandalism,1,Residence,Religious Bias,Children,No,Yes
+1993,Local Police,AL,Alabama,1993-09-01,2,0,1,1,0,White,Non-Hispanic,2,Assault,2,School,Gender Bias,Individuals,Yes,No
+1994,County Sheriff,TX,Texas,1994-12-07,1,0,2,1,1,White,Hispanic,1,Burglary,1,Park,Other Bias,Individuals,No,No
+1995,Local Police,FL,Florida,1995-02-21,0,2,1,0,1,Black,Non-Hispanic,2,Hate Crime,2,Bar,Sexual Orientation Bias,Children,No,No
+1996,State Police,MN,Minnesota,1996-05-05,2,0,1,1,0,Hispanic,Hispanic,2,Criminal Mischief,2,Office Building,Racial Bias,Individuals,Yes,No
+1997,Local Police,VT,Vermont,1997-08-12,1,0,2,1,1,White,Non-Hispanic,1,Aggravated Assault,1,Restaurant,Religious Bias,Individuals,No,Yes
+1998,County Sheriff,NJ,New Jersey,1998-11-17,0,1,1,0,1,Asian,Non-Hispanic,1,Assault,1,Community Center,Gender Bias,Children,No,No
+1999,Local Police,NY,New York,1999-01-28,3,0,1,1,0,White,Hispanic,3,Intimidation,3,Hospital,Other Bias,Individuals,Yes,No
+2000,State Police,NC,Tennessee,2000-04-15,1,0,2,1,1,Black,Non-Hispanic,1,Harassment,1,Church,Sexual Orientation Bias,Individuals,No,No
+2001,Local Police,VA,Virginia,2001-07-22,0,1,1,0,1,White,Non-Hispanic,1,Criminal Mischief,1,School,Racial Bias,Children,No,Yes
+2002,County Sheriff,GA,Georgia,2002-10-09,2,0,1,1,0,Hispanic,Hispanic,2,Aggravated Assault,2,University,Religious Bias,Individuals,Yes,No
+2003,Local Police,SC,South Carolina,2003-01-04,1,0,2,1,1,White,Non-Hispanic,1,Vandalism,1,Park,Gender Bias,Individuals,No,No
+2004,State Police,MS,Mississippi,2004-03-16,0,1,1,0,1,Asian,Hispanic,1,Assault,1,Farm,Sexual Orientation Bias,Children,No,No
+2005,Local Police,IL,Illinois,2005-06-29,2,0,1,1,0,White,Non-Hispanic,2,Criminal Mischief,2,Restaurant,Racial Bias,Individuals,Yes,No
+2006,County Sheriff,OH,Ohio,2006-09-11,1,0,2,1,1,Black,Non-Hispanic,1,Vandalism,1,Apartment Complex,Religious Bias,Individuals,No,Yes
+2007,Local Police,IN,Indiana,2007-12-18,0,2,1,0,1,Hispanic,Hispanic,2,Hate Crime,2,Community Center,Gender Bias,Children,No,No
+2008,State Police,WV,West Virginia,2008-03-30,3,0,1,1,0,White,Non-Hispanic,3,Aggravated Assault,3,Store,Other Bias,Individuals,Yes,No
+2009,Local Police,MD,Maryland,2009-05-15,1,0,2,1,1,White,Hispanic,1,Criminal Mischief,1,University,Sexual Orientation Bias,Individuals,No,No
+2010,County Sheriff,DC,Washington D.C.,2010-07-27,0,1,1,0,1,Black,Non-Hispanic,1,Vandalism,1,Apartment Complex,Racial Bias,Children,No,Yes
+2011,Local Police,NH,New Hampshire,2011-10-03,2,0,1,1,0,White,Non-Hispanic,2,Assault,2,Church,Religious Bias,Individuals,Yes,No
+2012,State Police,DE,Delaware,2012-12-14,1,0,2,1,1,Hispanic,Hispanic,1,Burglary,1,School,Gender Bias,Individuals,No,No
+1991,Police,CA,California,1991-03-15,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Residence,Religious Bias,Adult Victim,False,False
+1992,Police,TX,Texas,1992-07-22,2,1,3,2,1,Black,Non-Hispanic,3,Harassment,3,School,Family Violence,"Adult Victim, Juvenile Victim",False,True
+1993,Police,NY,New York,1993-11-08,0,1,1,0,1,Asian,Hispanic,1,Assault,1,Community Center,Racial Bias,Juvenile Victim,False,False
+1994,Police,FL,Florida,1994-02-14,3,0,4,3,1,White,Non-Hispanic,3,Assault,3,Church,Hate Bias,Adult Victim,False,False
+1995,Police,IL,Illinois,1995-09-30,1,0,2,1,1,Native American,Non-Hispanic,1,Harassment,1,Museum,Religious Bias,Adult Victim,False,True
+1996,Police,OH,Ohio,1996-05-18,2,1,3,2,1,Hispanic,Hispanic,3,Assault,3,Highway,Bias Against Sexual Orientation,"Adult Victim, Juvenile Victim",False,False
+1997,Police,GA,Georgia,1997-12-04,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Restaurant,Gender Identity Bias,Adult Victim,True,False
+1998,Police,WA,Washington,1998-08-11,0,1,1,0,1,Black,Non-Hispanic,1,Harassment,1,Apartment Complex,Racial Bias,Juvenile Victim,False,False
+1999,Police,PA,Pennsylvania,1999-04-27,2,1,3,2,1,White,Non-Hispanic,3,Assault,3,University,Gender Identity Bias,False,True,
+2000,Police,MI,Michigan,2000-10-19,1,0,2,1,1,Hispanic,Hispanic,1,Harassment,1,Bar,Hate Bias,Adult Victim,False,False
+2001,Police,NC,Carolina,2001-01-05,3,1,4,3,1,Black,Non-Hispanic,4,Assault,4,Street,Religious Bias,"Adult Victim, Juvenile Victim",False,False
+2002,Police,VA,Virginia,2002-06-23,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Store,Bias Against Sexual Orientation,Adult Victim,False,True
+2003,Police,MO,Missouri,2003-09-12,0,1,1,0,1,Hispanic,Hispanic,1,Harassment,1,Library,Hate Bias,Juvenile Victim,False,False
+2004,Police,MD,Maryland,2004-11-30,2,1,3,2,1,White,Non-Hispanic,3,Assault,3,Airport,Racial Bias,"Adult Victim, Juvenile Victim",False,False
+2005,Police,MA,Massachusetts,2005-03-17,1,0,2,1,1,Native American,Non-Hispanic,1,Assault,1,School,Religious Bias,Adult Victim,False,False
+2006,Police,CT,Connecticut,2006-07-09,0,1,1,0,1,Asian,Hispanic,1,Harassment,1,Hospital,Gender Identity Bias,Juvenile Victim,False,True
+2007,Police,NJ,New Jersey,2007-12-24,2,0,3,2,1,White,Non-Hispanic,2,Assault,2,Hotel,Racial Bias,Adult Victim,False,False
+2008,Police,NV,Nevada,2008-05-14,1,1,2,1,1,Black,Non-Hispanic,2,Harassment,2,Community Center,Hate Bias,"Adult Victim, Juvenile Victim",False,False
+2009,Police,OR,Oregon,2009-02-06,3,0,4,3,1,Hispanic,Hispanic,3,Assault,3,Residence,Religious Bias,Adult Victim,False,True
+2010,Police,AZ,Arizona,2010-08-19,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Museum,Family Violence,Adult Victim,False,False
+2011,Police,AL,Alabama,2011-04-03,0,1,1,0,1,Asian,Hispanic,1,Harassment,1,Church,Gender Identity Bias,Juvenile Victim,False,False
+2012,Police,WI,Wisconsin,2012-10-11,2,1,3,2,1,White,Non-Hispanic,3,Assault,3,University,Racial Bias,"Adult Victim, Juvenile Victim",False,True
+2013,Police,KY,Kentucky,2013-01-28,1,0,2,1,1,Black,Non-Hispanic,1,Assault,1,School,Hate Bias,Adult Victim,False,False
+2014,Police,WA,Washington,2014-06-05,0,1,1,0,1,Hispanic,Hispanic,1,Harassment,1,Highway,Bias Against Sexual Orientation,Juvenile Victim,False,False
+1991,Police,CO,Colorado,1991-12-22,2,0,3,2,1,White,Non-Hispanic,2,Assault,2,Street,Family Violence,Adult Victim,False,False
+1992,Police,TN,Tennessee,1992-03-15,1,1,2,1,1,Asian,Hispanic,2,Harassment,2,University,Religious Bias,"Adult Victim, Juvenile Victim",False,True
+1993,Police,SC,Carolina,1993-10-08,0,1,1,0,1,White,Non-Hispanic,1,Assault,1,Store,Gender Identity Bias,Juvenile Victim,False,False
+1994,Police,VA,Virginia,1994-01-29,3,0,4,3,1,Hispanic,Hispanic,3,Assault,3,Residence,Racial Bias,Adult Victim,False,False
+1995,Police,GA,Georgia,1995-07-16,1,1,2,1,1,White,Non-Hispanic,2,Harassment,2,Museum,Hate Bias,"Adult Victim, Juvenile Victim",False,True
+1996,Police,MI,Michigan,1996-11-04,2,0,3,2,1,Black,Non-Hispanic,2,Assault,2,Community Center,Religious Bias,Adult Victim,False,False
+1997,Police,FL,Florida,1997-05-21,0,1,1,0,1,White,Non-Hispanic,1,Harassment,1,Restaurant,Bias Against Sexual Orientation,Juvenile Victim,False,False
+1998,Police,NC,Carolina,1998-09-10,2,1,3,2,1,Hispanic,Hispanic,3,Assault,3,Hotel,Gender Identity Bias,"Adult Victim, Juvenile Victim",False,False
+1999,Police,IL,Illinois,1999-02-28,1,0,2,1,1,Asian,Hispanic,1,Assault,1,House,Racial Bias,Adult Victim,False,True
+2000,Police,MN,Minnesota,2000-08-17,3,0,4,3,1,White,Non-Hispanic,3,Harassment,3,Church,Hate Bias,Adult Victim,False,False
+2001,Police,UT,Utah,2001-04-01,1,0,2,1,1,Native American,Non-Hispanic,1,Assault,1,School,Religious Bias,Adult Victim,False,False
+2002,Police,LA,Louisiana,2002-12-12,0,1,1,0,1,Black,Non-Hispanic,1,Harassment,1,Library,Bias Against Sexual Orientation,Juvenile Victim,False,True
+2003,Police,MS,Mississippi,2003-06-30,2,1,3,2,1,White,Non-Hispanic,3,Assault,3,Park,Gender Identity Bias,"Adult Victim, Juvenile Victim",False,False
+2004,Police,OR,Oregon,2004-11-15,1,0,2,1,1,Hispanic,Hispanic,1,Assault,1,Bank,Racial Bias,Adult Victim,False,False
+2005,Police,ID,Idaho,2005-01-22,0,1,1,0,1,White,Non-Hispanic,1,Harassment,1,Office,Hate Bias,Juvenile Victim,False,False
+2006,Police,MT,Montana,2006-09-08,2,0,3,2,1,Asian,Hispanic,2,Assault,2,Stadium,Religious Bias,Adult Victim,False,True
+2007,Police,WV,West Virginia,2007-03-19,1,1,2,1,1,Black,Non-Hispanic,2,Harassment,2,Cinema,Bias Against Sexual Orientation,"Adult Victim, Juvenile Victim",False,False
+2008,Police,NH,New Hampshire,2008-07-05,3,0,4,3,1,White,Non-Hispanic,3,Assault,3,Church,Gender Identity Bias,Adult Victim,False,False
+2009,Police,VT,Vermonth,2009-10-13,1,0,2,1,1,Hispanic,Hispanic,1,Assault,1,Museum,Racial Bias,Adult Victim,False,False
+2010,Police,AK,Alaska,2010-05-17,0,1,1,0,1,White,Non-Hispanic,1,Harassment,1,University,Hate Bias,Juvenile Victim,False,True
+2011,Police,HI,Hawaii,2011-12-03,2,1,3,2,1,Asian,Hispanic,3,Assault,3,Apartment Complex,Religious Bias,"Adult Victim, Juvenile Victim",False,False
+2012,Police,NE,Nebraska,2012-08-21,1,0,2,1,1,Native American,Non-Hispanic,1,Assault,1,House,Bias Against Sexual Orientation,Adult Victim,False,False
+2013,Police,SD,South Dakota,2013-04-19,0,1,1,0,1,Black,Non-Hispanic,1,Harassment,1,Community Center,Gender Identity Bias,Juvenile Victim,False,False
+2014,Police,RI,Rhode Island,2014-11-07,2,1,3,2,1,White,Non-Hispanic,3,Assault,3,Hotel,Racial Bias,"Adult Victim, Juvenile Victim",False,True
+1991,Police,DE,Delaware,1991-02-26,3,0,4,3,1,Hispanic,Hispanic,3,Assault,3,Store,Religious Bias,Adult Victim,False,False
+1992,Police,ME,Maine,1992-06-09,1,1,2,1,1,White,Non-Hispanic,2,Harassment,2,School,Hate Bias,"Adult Victim, Juvenile Victim",False,False
+1993,Police,ME,Maine,1993-11-14,0,1,1,0,1,Asian,Hispanic,1,Assault,1,University,Bias Against Sexual Orientation,Juvenile Victim,False,False
+1994,Police,RI,Rhode Island,1994-04-30,2,0,3,2,1,White,Non-Hispanic,2,Assault,2,Restaurant,Gender Identity Bias,Adult Victim,False,True
+1995,Police,NM,New Mexico,1995-09-11,1,1,2,1,1,Hispanic,Hispanic,2,Harassment,2,Bar,Racial Bias,"Adult Victim, Juvenile Victim",False,False
+1996,Police,AR,Arkansas,1996-01-05,0,1,1,0,1,Black,Non-Hispanic,1,Assault,1,School,Hate Bias,Juvenile Victim,False,False
+1997,Police,OK,Oklahoma,1997-08-28,2,0,3,2,1,White,Non-Hispanic,2,Harassment,2,Apartment Complex,Religious Bias,Adult Victim,False,True
+1998,Police,KS,Kansas,1998-12-17,1,1,2,1,1,Native American,Non-Hispanic,2,Assault,2,Church,Bias Against Sexual Orientation,"Adult Victim, Juvenile Victim",False,False
+1999,Police,ND,North Dakota,1999-03-03,3,0,4,3,1,Black,Non-Hispanic,3,Assault,3,Community Center,Gender Identity Bias,Adult Victim,False,False
+2000,Police,SD,South Dakota,2000-07-19,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Highway,Racial Bias,Adult Victim,False,False
+2001,Police,WY,Wyoming,2001-10-22,0,1,1,0,1,Hispanic,Hispanic,1,Harassment,1,University,Hate Bias,Juvenile Victim,False,True
+2002,Police,IA,Iowa,2002-02-16,2,1,3,2,1,White,Non-Hispanic,3,Assault,3,Bus Stop,Religious Bias,"Adult Victim, Juvenile Victim",False,False
+1995,Federal Agency,FL,Florida,1995-03-15,2,0,3,2,1,White,Not Hispanic,2,Assault,2,Residence,Religious Bias,Adult Victim,False,True
+2001,Local Police,CA,California,2001-07-22,1,0,2,1,1,Black,Hispanic,1,Intimidation,1,School,Political Bias,Adult Victim,True,False
+1998,State Police,GA,Georgia,1998-11-08,0,1,1,0,1,White,Not Hispanic,1,Vandalism,1,Street,Gender Identity Bias,Juvenile Victim,False,True
+2003,Local Police,NY,New York,2003-02-14,3,0,4,3,1,Asian,Not Hispanic,3,Assault,3,Place of Worship,Racial Bias,Adult Victim,True,True
+1992,Federal Agency,TX,Texas,1992-09-30,0,2,2,0,2,White,Not Hispanic,2,Murder,2,Kitchen,Hate,Adult and Juvenile Victims,False,False
+2006,County Sheriff,FL,Florida,2006-05-18,1,0,2,1,1,White,Not Hispanic,1,Burglary,1,Park,Racial Bias,Adult Victim,False,True
+1999,Local Police,IL,Illinois,1999-12-05,2,1,3,2,1,Black,Hispanic,3,Assault,3,Residence,Religious Bias,Adult and Juvenile Victim,True,False
+2002,State Police,NC,North Carolina,2002-04-11,0,1,2,0,2,Mixed,Not Hispanic,1,Vandalism,1,School,Sexual Orientation Bias,Juvenile Victim,False,True
+2000,Local Police,WA,Washington,2000-10-27,1,0,1,1,0,White,Hispanic,1,Criminal Mischief,1,Store,Gender Identity Bias,Adult Victim,True,False
+2005,Federal Agency,OH,Ohio,2005-08-03,0,1,1,0,1,White,Hispanic,1,Murder,1,Park,Racial Bias,Juvenile Victim,False,True
+1997,County Sheriff,TX,Texas,1997-06-19,2,0,3,2,1,Black,Not Hispanic,2,Assault,2,Residence,Political Bias,Adult Victim,True,True
+1994,Local Police,PA,Pennsylvania,1994-01-28,1,0,2,1,1,Hispanic,Hispanic,1,Burglary,1,Street,Hate,Adult Victim,False,False
+2007,State Police,MI,Michigan,2007-03-09,0,2,2,0,2,White,Not Hispanic,2,Intimidation,2,School,Gender Identity Bias,Juvenile Victims,True,False
+1993,Local Police,GA,Georgia,1993-11-13,1,0,1,1,0,White,Not Hispanic,1,Assault,1,Hospital,Racial Bias,Adult Victim,False,True
+2009,Federal Agency,VA,Virginia,2009-07-16,3,0,4,3,1,White,Hispanic,3,Murder,3,Residence,Religious Bias,Adult Victim,True,True
+2004,County Sheriff,MD,Maryland,2004-09-22,2,1,3,2,1,Mixed,Not Hispanic,3,Intimidation,3,School,Hate,Adult and Juvenile Victims,False,True
+1996,Local Police,FL,Florida,1996-02-11,0,1,1,0,1,White,Hispanic,1,Assault,1,Street,Sexual Orientation Bias,Juvenile Victim,False,False
+2008,State Police,NJ,New Jersey,2008-05-03,1,0,2,1,1,Black,Hispanic,1,Vandalism,1,Park,Political Bias,Adult Victim,True,True
+2001,Federal Agency,AL,Alabama,2001-12-30,0,2,2,0,2,White,Not Hispanic,2,Murder,2,Residence,Gender Identity Bias,Juvenile Victims,False,True
+1995,County Sheriff,LA,Louisiana,1995-08-15,1,0,2,1,1,White,Hispanic,1,Assault,1,Store,Racial Bias,Adult Victim,True,False
+2003,Local Police,NV,Nevada,2003-04-25,2,1,3,2,1,White,Not Hispanic,3,Intimidation,3,Place of Worship,Hate,Adult and Juvenile Victims,True,True
+2006,State Police,SC,South Carolina,2006-10-07,0,1,1,0,1,Mixed,Hispanic,1,Assault,1,Park,Sexual Orientation Bias,Juvenile Victim,False,False
+1998,Local Police,VA,Virginia,1998-01-18,1,0,1,1,0,White,Hispanic,1,Burglary,1,Street,Religious Bias,Adult Victim,True,True
+2002,Federal Agency,MN,Minnesota,2002-06-29,0,1,2,0,2,Black,Not Hispanic,1,Intimidation,1,School,Political Bias,Juvenile Victim,False,False
+1999,County Sheriff,TX,Texas,1999-12-03,2,0,3,2,1,White,Hispanic,2,Assault,2,Church,Hate,Adult Victim,True,True
+2000,Local Police,WI,Wisconsin,2000-03-14,1,0,2,1,1,Asian,Not Hispanic,1,Vandalism,1,Library,Gender Identity Bias,Adult Victim,True,True
+2005,State Police,MA,Massachusetts,2005-08-22,0,2,2,0,2,White,Hispanic,2,Murder,2,Educational Institution,Sexual Orientation Bias,Juvenile Victims,False,True
+1994,Local Police,CO,Colorado,1994-07-19,1,0,2,1,1,White,Hispanic,1,Assault,1,Residence,Religious Bias,Adult Victim,True,True
+2007,County Sheriff,OH,Ohio,2007-02-12,2,1,3,2,1,White,Not Hispanic,3,Intimidation,3,Street,Hate,Adult and Juvenile Victims,False,False
+2009,Federal Agency,OR,Oregon,2009-11-05,0,1,1,0,1,Mixed,Hispanic,1,Assault,1,Restaurant,Political Bias,Juvenile Victim,True,False
+1997,Local Police,FL,Florida,1997-05-28,1,0,2,1,1,White,Not Hispanic,1,Burglary,1,Store,Gender Identity Bias,Adult Victim,True,True
+2004,State Police,NJ,New Jersey,2004-09-16,0,1,2,0,2,White,Hispanic,1,Murder,1,Street,Racial Bias,Juvenile Victim,False,True
+2001,County Sheriff,CA,California,2001-01-04,2,1,3,2,1,Black,Not Hispanic,3,Assault,3,Residence,Religious Bias,Adult and Juvenile Victim,True,False
+1996,Local Police,NE,Nebraska,1996-08-08,1,0,1,1,0,White,Hispanic,1,Intimidation,1,Park,Sexual Orientation Bias,Adult Victim,False,True
+2008,State Police,GA,Georgia,2008-06-30,0,2,2,0,2,White,Not Hispanic,2,Vandalism,2,School,Political Bias,Juvenile Victims,True,True
+2003,Federal Agency,NY,New York,2003-10-10,1,0,2,1,1,White,Not Hispanic,1,Murder,1,Residence,Hate,Adult Victim,False,True
+2006,Local Police,FL,Florida,2006-03-24,2,0,3,2,1,Asian,Hispanic,2,Assault,2,Store,Gender Identity Bias,Adult Victim,True,True
+1999,County Sheriff,WA,Washington,1999-07-11,0,1,1,0,1,White,Not Hispanic,1,Intimidation,1,Restaurant,Racial Bias,Juvenile Victim,False,False
+2000,State Police,IN,Indiana,2000-12-09,1,0,2,1,1,Mixed,Hispanic,1,Assault,1,Park,Religious Bias,Adult Victim,True,True
+2002,Local Police,TX,Texas,2002-05-19,0,2,2,0,2,White,Not Hispanic,2,Burglary,2,Educational Institution,Sexual Orientation Bias,Juvenile Victims,False,True
+2005,Federal Agency,PA,Pennsylvania,2005-09-30,2,1,3,2,1,White,Hispanic,3,Intimidation,3,Place of Worship,Political Bias,Adult and Juvenile Victims,True,False
+1993,County Sheriff,FL,Florida,1993-11-21,1,0,2,1,1,Black,Not Hispanic,1,Assault,1,Street,Hate,Adult Victim,False,True
+2007,State Police,WV,West Virginia,2007-04-01,0,1,1,0,1,White,Hispanic,1,Murder,1,School,Gender Identity Bias,Juvenile Victim,True,True
+2009,Local Police,MD,Maryland,2009-08-17,1,0,2,1,1,White,Not Hispanic,1,Vandalism,1,Residence,Racial Bias,Adult Victim,False,True
+1998,County Sheriff,MN,Minnesota,1998-02-17,0,2,2,0,2,White,Hispanic,2,Assault,2,Hospital,Religious Bias,Juvenile Victims,True,False
+2001,State Police,OK,Oklahoma,2001-06-23,2,1,3,2,1,Black,Hispanic,3,Burglary,3,Residence,Sexual Orientation Bias,Adult and Juvenile Victim,False,True
+2003,Federal Agency,OR,Oregon,2003-12-13,1,0,2,1,1,White,Not Hispanic,1,Intimidation,1,Store,Political Bias,Adult Victim,True,True
+1995,Local Police,FL,Florida,1995-08-05,0,1,1,0,1,White,Hispanic,1,Assault,1,Restaurant,Gender Identity Bias,Juvenile Victim,False,True
+2006,County Sheriff,CA,California,2006-01-15,1,0,2,1,1,Asian,Not Hispanic,1,Murder,1,Park,Racial Bias,Adult Victim,True,False
+2004,State Police,IL,Illinois,2004-07-09,2,1,3,2,1,White,Hispanic,3,Assault,3,School,Hate,Adult and Juvenile Victims,True,True
+1997,Local Police,RI,Rhode Island,1997-03-19,0,1,1,0,1,White,Not Hispanic,1,Intimidation,1,Park,Sexual Orientation Bias,Juvenile Victim,False,True
+2008,Federal Agency,DC,District of Columbia,2008-10-24,1,0,2,1,1,Black,Hispanic,1,Vandalism,1,Store,Political Bias,Adult Victim,True,True
+2010,County Sheriff,TX,Texas,2010-02-11,0,2,2,0,2,White,Not Hispanic,2,Murder,2,Educational Institution,Gender Identity Bias,Juvenile Victims,False,True
+1994,State Police,NH,New Hampshire,1994-11-22,2,0,3,2,1,White,Hispanic,2,Assault,2,Place of Worship,Racial Bias,Adult Victim,True,False

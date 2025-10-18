@@ -1,0 +1,42 @@
+"2004,City,NJ,New Jersey,2004-07-22,1,0,2,1,1,Asian,Asian,2,Burglary,2.0,Residential Building,Anti-Asian or Asian American,Adult,V,T
+2004,Township,NY,New York,2004-10-15,0,0,1,0,1,White,Hispanic or Latino,1,Crimes Against Persons - Harassment,1.0,Street,Anti-White,Adult,Other,F
+2004,City,CA,California,2004-02-16,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Park or Playground,Anti-Hispanic or Latino,Juvenile,S,T
+2004,City,IL,Illinois,2004-08-27,1,0,1,1,0,Unknown,Unknown,1,Crimes Against Property - Arson,1.0,Residential Building,Anti-Sexual Orientation,Adult,V,T
+2004,City,CA,California,2004-12-18,0,0,1,0,1,White,White,1,Crimes Against Persons - Simple Assault,1.0,College or University,Anti-White,Adult,Other,F
+2004,City,FL,Florida,2004-03-23,0,0,1,0,1,Unknown,Unknown,1,Crimes Against Property - Vandalism,1.0,Residential Building,Anti-Religious Bias,Adult,V,T
+2004,City,GA,Georgia,2004-11-13,0,0,2,0,2,White,White,2,Crimes Against Property - Motor Vehicle Theft,2.0,Street,Anti-White,Adult,Other,F
+2004,Township,TX,Texas,2004-09-25,0,1,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Crimes Against Property - Vandalism,1.0,Residential Building,Anti-Hispanic or Latino,Juvenile,V,T
+2004,City,PA,Pennsylvania,2004-01-10,0,0,1,0,1,Asian,Asian,1,Crimes Against Persons - Simple Assault,1.0,College or University,Anti-Asian or Asian American,Adult,Other,F
+2004,City,NC,North Carolina,2004-05-16,1,0,1,1,0,White,White,1,Crimes Against Property - Burglary,1.0,Residential Building,Anti-White,Adult,V,T
+2004,Township,MN,Minnnesota,2004-08-01,0,0,1,0,1,Unknown,Unknown,1,Crimes Against Property - Arson,1.0,Residential Building,Anti-Disability Bias,Adult,Other,F
+2004,City,AZ,Arizona,2004-06-22,0,0,1,0,1,Unknown,Unknown,1,Crimes Against Property - Vandalism,1.0,Street,Anti-Racially or Ethnically Motivated,Adult,V,T
+2004,City,MI,Michigan,2004-12-11,0,0,2,0,2,White,White,2,Crimes Against Property - Motor Vehicle Theft,2.0,Street,Anti-White,Adult,Other,F
+2004,City,TX,Texas,2004-04-04,1,0,1,1,0,Unknown,Unknown,1,Crimes Against Property - Burglary,1.0,Residential Building,Anti-Religious Bias,Adult,V,T
+2004,City,MA,Massachusetts,2004-10-29,0,0,1,0,1,Asian,Asian,1,Crimes Against Persons - Simple Assault,1.0,College or University,Anti-Asian or Asian American,Adult,Other,F
+2004,City,OR,Oregon,2004-09-18,0,0,1,0,1,Unknown,Unknown,1,Crimes Against Property - Vandalism,1.0,Residential Building,Anti-Disability Bias,Adult,V,T
+2004,Township,IN,Indiana,2004-07-09,0,0,1,0,1,White,White,1,Crimes Against Property - Arson,1.0,Residential Building,Anti-White,Adult,Other,F
+2004,City,SC,South Carolina,2004-11-24,0,0,2,0,2,Asian,Asian,2,Crimes Against Property - Motor Vehicle Theft,2.0,Street,Anti-Asian or Asian American,Adult,Other,F
+2004,City,UT,Utah,2004-03-20,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Crimes Against Property - Burglary,1.0,Residential Building,Anti-Hispanic or Latino,Adult,V,T
+2004,City,CO,Colorado,2004-06-02,0,0,1,0,1,Unknown,Unknown,1,Crimes Against Property - Vandalism,1.0,Street,Anti-Racially or Ethnically Motivated,Adult,V,T
+2004,City,LA,Louisiana,2004-08-13,0,1,1,0,1,White,White,1,Crimes Against Property - Arson,1.0,Residential Building,Anti-White,Juvenile,V,T
+2004,Township,ND,North Dakota,2004-04-12,0,0,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Crimes Against Property - Burglary,1.0,Residential Building,Anti-Hispanic or Latino,Adult,Other,F
+2004,City,CT,Connecticut,2004-10-25,0,0,1,0,1,Unknown,Unknown,1,Crimes Against Property - Vandalism,1.0,Residential Building,Anti-Disability Bias,Adult,V,T
+2004,City,MS,Mississippi,2004-01-10,0,0,2,0,2,White,White,2,Crimes Against Property - Motor Vehicle Theft,2.0,Street,Anti-White,Adult,Other,F
+2004,City,VT,Vermont,2004-12-05,0,0,1,0,1,Unknown,Unknown,1,Crimes Against Property - Vandalism,1.0,Street,Anti-Racially or Ethnically Motivated,Adult,V,T
+2004,City,KS,Kansas,2004-07-16,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Crimes Against Property - Burglary,1.0,Residential Building,Anti-Hispanic or Latino,Adult,V,T
+2004,City,WI,Wisconsin,2004-03-17,0,0,2,0,2,White,White,2,Crimes Against Property - Motor Vehicle Theft,2.0,Street,Anti-White,Adult,Other,F
+2004,Township,GA,Georgia,2004-02-21,0,0,1,0,1,Unknown,Unknown,1,Crimes Against Property - Arson,1.0,Residential Building,Anti-Disability Bias,Adult,Other,F
+2004,City,AK,Alaska,2004-09-08,0,0,1,0,1,White,White,1,Crimes Against Property - Vandalism,1.0,Residential Building,Anti-White,Adult,V,T
+2004,City,OH,Ohio,2004-05-26,0,0,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Crimes Against Property - Burglary,1.0,Residential Building,Anti-Hispanic or Latino,Adult,Other,F
+2004,City,WV,West Virginia,2004-10-24,0,0,1,0,1,Unknown,Unknown,1,Crimes Against Property - Arson,1.0,Residential Building,Anti-Disability Bias,Adult,V,T
+2004,City,IA,Iowa,2004-06-29,1,0,1,1,0,Asian,Asian,1,Crimes Against Property - Burglary,1.0,Residential Building,Anti-Asian or Asian American,Adult,V,T
+2004,City,KY,Kentucky,2004-03-14,0,0,2,0,2,White,White,2,Crimes Against Property - Motor Vehicle Theft,2.0,Street,Anti-White,Adult,Other,F
+2004,Township,ME,Maine,2004-01-22,0,0,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Crimes Against Property - Burglary,1.0,Residential Building,Anti-Hispanic or Latino,Adult,Other,F
+2004,City,DE,Delaware,2004-09-18,0,0,1,0,1,Unknown,Unknown,1,Crimes Against Property - Vandalism,1.0,Residential Building,Anti-Disability Bias,Adult,V,T
+2004,City,NM,New Mexico,2004-12-02,0,0,2,0,2,White,White,2,Crimes Against Property - Motor Vehicle Theft,2.0,Street,Anti-White,Adult,Other,F
+2004,City,NE,Nebraska,2004-10-23,0,0,1,0,1,Asian,Asian,1,Crimes Against Property - Arson,1.0,Residential Building,Anti-Asian or Asian American,Adult,V,T
+2004,City,OK,Ohio,2004-05-10,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Crimes Against Property - Burglary,1.0,Residential Building,Anti-Hispanic or Latino,Adult,V,T
+2004,City,MT,Montana,2004-07-02,0,0,1,0,1,Unknown,Unknown,1,Crimes Against Property - Vandalism,1.0,Street,Anti-Racially or Ethnically Motivated,Adult,V,T
+2004,City,ID,Idaho,2004-11-19,0,0,2,0,2,White,White,2,Crimes Against Property - Motor Vehicle Theft,2.0,Street,Anti-White,Adult,Other,F
+2004,City,AR,Arkansas,2004-08-17,0,0,1,0,1,Unknown,Unknown,1,Crimes Against Property - Arson,1.0,Residential Building,Anti-Disability Bias,Adult,V,T
+2004,City,MO,Missouri,2004-04-15,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Crimes Against Property - Burglary,1.0,Residential Building,Anti-Hispanic or Latino,Adult,V,T"

@@ -1,0 +1,51 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1994,State/Local,DE,Delaware,1994-08-23,0,1,1,1,0,White,Hispanic,1,Simple Assault,1,Delaware State University,Anti-White,Adult,true,false
+1992,State/Local,AK,Alaska,1992-12-15,1,0,1,1,0,Asian,White,1,Intimidation,1,Anchorage Park,Anti-Asian,Adult,false,false
+1996,State/Local,IL,Illinois,1996-05-22,1,0,2,2,0,White,Black,2,Aggravated Assault,2,Chicago Public Library,Anti-White,"Adult,Minor",false,false
+2000,State/Local,CO,Colorado,2000-09-12,0,1,1,1,0,Black,Hispanic,1,Vandalism,1,Denver High School,Anti-Black,Minor,true,false
+2001,State/Local,TX,Texas,2001-07-20,2,0,2,2,0,White,White,4,Simple Assault,4,Austin Community College,Anti-White,Adult,false,false
+2004,State/Local,CA,California,2004-02-18,1,0,1,1,0,Hispanic,Asian,1,Intimidation,1,Los Angeles Park,Anti-Hispanic,Adult,false,false
+2005,State/Local,OH,Ohio,2005-04-11,0,1,1,1,0,Black,White,1,Vandalism,1,Cincinnati Elementary School,Anti-Black,Minor,true,false
+2007,State/Local,NV,Nevada,2007-10-15,2,0,2,2,0,White,White,4,Simple Assault,4,Las Vegas Public Library,Anti-White,Adult,false,false
+2008,State/Local,NY,New York,2008-11-28,1,0,1,1,0,Hispanic,Black,1,Intimidation,1,New York City Subway,Anti-Hispanic,Adult,false,false
+2011,State/Local,FL,Florida,2011-08-22,0,1,1,1,0,Asian,White,1,Vandalism,1,Miami Beach High School,Anti-Asian,Minor,true,false
+1993,Local,AZ,Arizona,1993-02-10,1,0,1,1,0,Black,Black,1,Aggravated Assault,1,Phoenix Park,Anti-Black,Adult,false,false
+2003,Local,PA,Pennsylvania,2003-05-06,0,1,1,1,0,White,Asian,1,Intimidation,1,Pittsburgh Elementary School,Anti-White,Minor,true,false
+1995,Local,NC,North Carolina,1995-09-25,2,0,2,2,0,White,White,4,Simple Assault,4,Raleigh Public Library,Anti-White,Adult,false,false
+1997,Local,OR,Oregon,1997-07-29,1,0,1,1,0,Hispanic,Black,1,Intimidation,1,Portland Community College,Anti-Hispanic,Adult,false,false
+2009,Local,WA,Washington,2009-04-01,0,1,1,1,0,Asian,White,1,Vandalism,1,Seattle High School,Anti-Asian,Minor,true,false
+1998,State/Local,MI,Michigan,1998-01-14,1,0,1,1,0,White,White,1,Aggravated Assault,1,Detroit Public Library,Anti-White,Adult,false,false
+2006,State/Local,GA,Georgia,2006-10-27,2,0,2,2,0,Black,Asian,4,Simple Assault,4,Atlanta Community College,Anti-Black,Adult,false,false
+2010,State/Local,VT,Vermont,2010-05-16,0,1,1,1,0,Hispanic,White,1,Intimidation,1,Burlington Park,Anti-Hispanic,Minor,true,false
+1999,State/Local,WV,West Virginia,1999-08-31,1,0,1,1,0,White,White,1,Vandalism,1,Charleston Public Library,Anti-White,Adult,false,false
+2002,State/Local,SC,South Carolina,2002-02-20,0,1,1,1,0,Black,Asian,1,Simple Assault,1,Columbia University,Anti-Black,Minor,true,false
+1996,State/Local,UT,Utah,1996-04-11,1,0,1,1,0,White,White,1,Intimidation,1,Salt Lake City Park,Anti-White,Adult,false,false
+2012,State/Local,RI,Rhode Island,2012-01-08,2,0,2,2,0,Hispanic,Black,4,Aggravated Assault,4,Providence Public Library,Anti-Hispanic,Adult,false,false
+2000,Local,MO,Missouri,2000-06-19,0,1,1,1,0,White,Asian,1,Vandalism,1,Kansas City Elementary School,Anti-White,Minor,true,false
+2013,Local,ME,Maine,2013-09-10,1,0,1,1,0,Black,White,1,Intimidation,1,Portland Public Library,Anti-Black,Adult,false,false
+1992,Local,LA,Louisiana,1992-03-10,2,0,2,2,0,White,White,4,Simple Assault,4,New Orleans Public Library,Anti-White,Adult,false,false
+1991,Local,KY,Kentucky,1991-11-14,0,1,1,1,0,Asian,Black,1,Vandalism,1,Lexington High School,Anti-Asian,Minor,true,false
+1993,Local,IN,Indiana,1993-09-18,1,0,1,1,0,Hispanic,White,1,Intimidation,1,Indianapolis Public Library,Anti-Hispanic,Adult,false,false
+1994,Local,IA,Iowa,1994-04-09,2,0,2,2,0,White,Asian,4,Aggravated Assault,4,Des Moines Public Library,Anti-White,Adult,false,false
+2008,Local,HI,Hawaii,2008-01-15,0,1,1,1,0,Black,White,1,Simple Assault,1,Honolulu Elementary School,Anti-Black,Minor,true,false
+2004,Local,GU,Guam,2004-08-22,1,0,1,1,0,Asian,White,1,Intimidation,1,Guam Community College,Anti-Asian,Adult,false,false
+2005,Local,PR,Puerto Rico,2005-05-14,2,0,2,2,0,White,White,4,Vandalism,4,San Juan Public Library,Anti-White,Adult,false,false
+1995,Local,VI,Virgin Islands,1995-02-18,0,1,1,1,0,Hispanic,Black,1,Simple Assault,1,St. Thomas Elementary School,Anti-Hispanic,Minor,true,false
+1997,Local,MP,Northern Mariana Islands,1997-09-15,1,0,1,1,0,Asian,White,1,Intimidation,1,Saipan Community College,Anti-Asian,Adult,false,false
+1999,Local,AS,American Samoa,1999-04-12,2,0,2,2,0,White,White,4,Aggravated Assault,4,Pago Pago Public Library,Anti-White,Adult,false,false
+2001,Local,UM,United States Minor Outlying Islands,2001-07-28,0,1,1,1,0,Black,Asian,1,Vandalism,1,Baker Island Elementary School,Anti-Black,Minor,true,false
+2002,State/Local,MA,Massachusetts,2002-11-22,1,0,1,1,0,Hispanic,White,1,Intimidation,1,Boston Public Library,Anti-Hispanic,Adult,false,false
+2011,State/Local,CT,Connecticut,2011-09-11,2,0,2,2,0,White,Asian,4,Simple Assault,4,Hartford Public Library,Anti-White,Adult,false,false
+1991,State/Local,NJ,New Jersey,1991-03-10,0,1,1,1,0,Black,White,1,Vandalism,1,Newark Public Library,Anti-Black,Minor,true,false
+2003,State/Local,TN,Tennessee,2003-01-25,1,0,1,1,0,White,White,1,Intimidation,1,Nashville Public Library,Anti-White,Adult,false,false
+2009,State/Local,AK,Alaska,2009-12-18,2,0,2,2,0,Asian,Asian,4,Aggravated Assault,4,Anchorage Public Library,Anti-Asian,Adult,false,false
+2004,Local,ND,North Dakota,2004-10-14,0,1,1,1,0,Hispanic,Black,1,Vandalism,1,Fargo Elementary School,Anti-Hispanic,Minor,true,false
+2014,Local,WY,Wyoming,2014-05-22,1,0,1,1,0,White,White,1,Intimidation,1,Cheyenne Public Library,Anti-White,Adult,false,false
+1998,State/Local,ID,Idaho,1998-08-25,2,0,2,2,0,Black,Asian,4,Simple Assault,4,Boise Public Library,Anti-Black,Adult,false,false
+2007,State/Local,NE,Nebraska,2007-01-12,0,1,1,1,0,Asian,White,1,Vandalism,1,Omaha Elementary School,Anti-Asian,Minor,true,false
+2006,State/Local,KS,Kansas,2006-09-10,1,0,1,1,0,Hispanic,Black,1,Intimidation,1,Wichita Public Library,Anti-Hispanic,Adult,false,false
+2005,State/Local,OK,Oklahoma,2005-05-01,2,0,2,2,0,White,Asian,4,Aggravated Assault,4,Oklahoma City Public Library,Anti-White,Adult,false,false
+2013,State/Local,SD,South Dakota,2013-02-19,0,1,1,1,0,Black,White,1,Simple Assault,1,Sioux Falls Public Library,Anti-Black,Minor,true,false
+2002,State/Local,AR,Arkansas,2002-08-15,1,0,1,1,0,Hispanic,White,1,Intimidation,1,Little Rock Public Library,Anti-Hispanic,Adult,false,false
+1996,State/Local,MS,Mississippi,1996-04-10,2,0,2,2,0,White,Asian,4,Vandalism,4,Jackson Public Library,Anti-White,Adult,false,false
+2001,State/Local,NC,North Carolina,2001-11-28,0,1,1,1,0,Asian,Black,1,Aggravated Assault,1,Raleigh Elementary School,Anti-Asian,Minor,true,false

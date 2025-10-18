@@ -1,0 +1,85 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+"2004""",Law Enforcement Agency,NY,New York,2004-01-12,1,0,1,0,1,White,Hispanic or Latino,1,Intimidation,1.0,Residential Area,Anti-White,Male,Adult,S
+2004,City,FL,Florida,2004-02-15,0,1,1,0,1,Unknown,Not Specified,1,Vandalism,0.0,School/College,Anti-Jewish or Hebrew,Female,Juvenile,S
+2004,City,CA,California,2004-03-18,1,0,1,0,1,Asian,Asian,1,Simple Assault,1.0,Street/Parking Lot,Anti-Hispanic or Latino,Male,Adult,S
+2004,College/University,OH,Ohio,2004-04-20,0,1,1,0,1,White,White,1,Aggravated Assault,1.0,Residential Area,Anti-Other Bias,Female,Adult,S
+2004,City,TX,Texas,2004-05-13,1,0,1,0,1,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Black or African American,Male,Adult,S
+2004,City,GA,Georgia,2004-06-15,0,1,1,0,1,Unknown,Not Specified,1,Vandalism,0.0,Residential Area,Anti-Jewish or Hebrew,Female,Adult,S
+2004,City,IL,Illinois,2004-07-18,1,0,1,1,0,White,White,1,Intimidation,1.0,Street/Parking Lot,Anti-Homosexual,Male,Adult,S
+2004,City,NC,North Carolina,2004-08-20,0,1,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,School/College,Anti-Other Bias,Female,Adult,S
+2004,Law Enforcement Agency,MA,Massachusetts,2004-09-22,1,0,1,0,1,Asian,Asian,1,Destruction/Damage/Vandalism of Property,0.0,Residential Area,Anti-White,Male,Adult,S
+2004,City,SC,South Carolina,2004-10-25,0,1,1,0,1,Unknown,Not Specified,1,Vandalism,0.0,Street/Parking Lot,Anti-Homosexual,Female,Adult,S
+2004,City,MI,Michigan,2004-11-27,1,0,1,1,0,Black or African American,Black or African American,1,Intimidation,1.0,School/College,Anti-Asian,Male,Adult,S
+2004,City,OK,Oklahoma,2004-12-30,0,1,1,0,1,White,White,1,Simple Assault,1.0,Residential Area,Anti-Hispanic or Latino,Female,Adult,S
+2005,City,AZ,Arizona,2005-01-10,1,0,1,0,1,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Jewish or Hebrew,Male,Adult,S
+2005,City,NV,Nevada,2005-02-13,0,1,1,0,1,Unknown,Not Specified,1,Vandalism,0.0,Street/Parking Lot,Anti-Homosexual,Female,Adult,S
+2005,City,IN,Indiana,2005-03-16,1,0,1,1,0,Black or African American,Black or African American,1,Intimidation,1.0,Residential Area,Anti-Asian,Male,Adult,S
+2005,City,KY,Kentucky,2005-04-19,0,1,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,School/College,Anti-Other Bias,Female,Adult,S
+2005,City,CT,Connecticut,2005-05-21,1,0,1,0,1,White,White,1,Destruction/Damage/Vandalism of Property,0.0,Street/Parking Lot,Anti-Hispanic or Latino,Male,Adult,S
+2005,Law Enforcement Agency,UT,Utah,2005-06-23,0,1,1,0,1,Unknown,Not Specified,1,Vandalism,0.0,Residential Area,Anti-Jewish or Hebrew,Female,Adult,S
+2005,City,AL,Alabama,2005-07-25,1,0,1,1,0,White,White,1,Intimidation,1.0,School/College,Anti-Asian,Male,Adult,S
+2005,City,LA,Louisiana,2005-08-27,0,1,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,Street/Parking Lot,Anti-Homosexual,Female,Adult,S
+2005,City,WV,West Virginia,2005-09-29,1,0,1,0,1,Black or African American,Black or African American,1,Destruction/Damage/Vandalism of Property,0.0,Residential Area,Anti-Other Bias,Male,Adult,S
+2005,City,CO,Colorado,2005-10-31,0,1,1,0,1,White,White,1,Vandalism,0.0,School/College,Anti-Jewish or Hebrew,Female,Adult,S
+2005,City,MS,Mississippi,2005-11-02,1,0,1,1,0,White,White,1,Intimidation,1.0,Street/Parking Lot,Anti-Asian,Male,Adult,S
+2005,City,OR,Oregon,2005-12-04,0,1,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,Residential Area,Anti-Homosexual,Female,Adult,S
+2006,City,TN,Tennessee,2006-01-09,1,0,1,0,1,Black or African American,Black or African American,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Other Bias,Male,Adult,S
+2006,City,VT,Vermont,2006-02-12,0,1,1,0,1,White,White,1,Vandalism,0.0,Street/Parking Lot,Anti-Jewish or Hebrew,Female,Adult,S
+2006,City,MT,Montana,2006-03-15,1,0,1,1,0,White,White,1,Intimidation,1.0,Residential Area,Anti-Asian,Male,Adult,S
+2006,City,NH,New Hampshire,2006-04-17,0,1,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,School/College,Anti-Homosexual,Female,Adult,S
+2006,Law Enforcement Agency,RI,Rhode Island,2006-05-19,1,0,1,0,1,Asian,Asian,1,Destruction/Damage/Vandalism of Property,0.0,Street/Parking Lot,Anti-White,Male,Adult,S
+2006,City,AK,Alaska,2006-06-21,0,1,1,0,1,Unknown,Not Specified,1,Vandalism,0.0,Residential Area,Anti-Jewish or Hebrew,Female,Adult,S
+2006,City,DE,Delaware,2006-07-23,1,0,1,1,0,Black or African American,Black or African American,1,Intimidation,1.0,School/College,Anti-Other Bias,Male,Adult,S
+2006,City,MN,Minnesota,2006-08-25,0,1,1,0,1,White,White,1,Simple Assault,1.0,Street/Parking Lot,Anti-Hispanic or Latino,Female,Adult,S
+2006,City,AR,Arkansas,2006-09-27,1,0,1,0,1,White,White,1,Destruction/Damage/Vandalism of Property,0.0,Residential Area,Anti-Asian,Male,Adult,S
+2006,City,IA,Iowa,2006-10-29,0,1,1,0,1,Unknown,Not Specified,1,Vandalism,0.0,School/College,Anti-Homosexual,Female,Adult,S
+2006,City,WY,Wyoming,2006-11-30,1,0,1,1,0,Black or African American,Black or African American,1,Intimidation,1.0,Street/Parking Lot,Anti-Other Bias,Male,Adult,S
+2006,City,ND,North Dakota,2006-12-02,0,1,1,0,1,White,White,1,Simple Assault,1.0,Residential Area,Anti-Jewish or Hebrew,Female,Adult,S
+2007,City,SD,South Dakota,2007-01-08,1,0,1,0,1,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Asian,Male,Adult,S
+2007,City,KS,Kansas,2007-02-11,0,1,1,0,1,White,White,1,Vandalism,0.0,Street/Parking Lot,Anti-Homosexual,Female,Adult,S
+2007,City,MO,Missouri,2007-03-14,1,0,1,1,0,Black or African American,Black or African American,1,Intimidation,1.0,Residential Area,Anti-Other Bias,Male,Adult,S
+2007,City,ID,Idaho,2007-04-16,0,1,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,School/College,Anti-Jewish or Hebrew,Female,Adult,S
+2007,City,HI,Hawaii,2007-05-18,1,0,1,0,1,White,White,1,Destruction/Damage/Vandalism of Property,0.0,Street/Parking Lot,Anti-Hispanic or Latino,Male,Adult,S
+2007,City,ME,Maine,2007-06-20,0,1,1,0,1,Black or African American,Black or African American,1,Vandalism,0.0,Residential Area,Anti-Asian,Female,Adult,S
+2007,City,NE,Nebraska,2007-07-22,1,0,1,1,0,White,White,1,Intimidation,1.0,School/College,Anti-Other Bias,Male,Adult,S
+2007,City,PA,Pennsylvania,2007-08-24,0,1,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,Street/Parking Lot,Anti-Homosexual,Female,Adult,S
+2007,City,GA,Georgia,2007-09-26,1,0,1,0,1,Black or African American,Black or African American,1,Destruction/Damage/Vandalism of Property,0.0,Residential Area,Anti-Asian,Male,Adult,S
+2007,City,CA,California,2007-10-28,0,1,1,0,1,White,White,1,Vandalism,0.0,School/College,Anti-Jewish or Hebrew,Female,Adult,S
+2007,City,TX,Texas,2007-11-30,1,0,1,1,0,White,White,1,Intimidation,1.0,Street/Parking Lot,Anti-Other Bias,Male,Adult,S
+2007,City,OH,Ohio,2007-12-02,0,1,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,Residential Area,Anti-Homosexual,Female,Adult,S
+2008,City,NV,Nevada,2008-01-07,1,0,1,0,1,Black or African American,Black or African American,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Asian,Male,Adult,S
+2008,City,ND,North Dakota,2008-02-10,0,1,1,0,1,White,White,1,Vandalism,0.0,Street/Parking Lot,Anti-Jewish or Hebrew,Female,Adult,S
+2008,City,AK,Alaska,2008-03-13,1,0,1,1,0,White,White,1,Intimidation,1.0,Residential Area,Anti-Other Bias,Male,Adult,S
+2008,City,MD,Maryland,2008-04-15,0,1,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,School/College,Anti-Homosexual,Female,Adult,S
+2008,City,VA,Virginia,2008-05-17,1,0,1,0,1,Black or African American,Black or African American,1,Destruction/Damage/Vandalism of Property,0.0,Street/Parking Lot,Anti-Asian,Male,Adult,S
+2008,City,UT,Utah,2008-06-19,0,1,1,0,1,White,White,1,Vandalism,0.0,Residential Area,Anti-Jewish or Hebrew,Female,Adult,S
+2008,City,LA,Louisiana,2008-07-21,1,0,1,1,0,White,White,1,Intimidation,1.0,School/College,Anti-Other Bias,Male,Adult,S
+2008,City,DC,District of Columbia,2008-08-23,0,1,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,Street/Parking Lot,Anti-Homosexual,Female,Adult,S
+2008,City,SC,South Carolina,2008-09-25,1,0,1,0,1,Black or African American,Black or African American,1,Destruction/Damage/Vandalism of Property,0.0,Residential Area,Anti-Asian,Male,Adult,S
+2008,City,WY,Wyoming,2008-10-27,0,1,1,0,1,White,White,1,Vandalism,0.0,School/College,Anti-Jewish or Hebrew,Female,Adult,S
+2008,City,MS,Mississippi,2008-11-29,1,0,1,1,0,White,White,1,Intimidation,1.0,Street/Parking Lot,Anti-Other Bias,Male,Adult,S
+2008,City,KY,Kentucky,2008-12-01,0,1,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,Residential Area,Anti-Homosexual,Female,Adult,S
+2009,City,IA,Iowa,2009-01-05,1,0,1,0,1,Black or African American,Black or African American,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Asian,Male,Adult,S
+2009,City,WV,West Virginia,2009-02-08,0,1,1,0,1,White,White,1,Vandalism,0.0,Street/Parking Lot,Anti-Jewish or Hebrew,Female,Adult,S
+2009,City,NH,New Hampshire,2009-03-11,1,0,1,1,0,White,White,1,Intimidation,1.0,Residential Area,Anti-Other Bias,Male,Adult,S
+2009,City,ME,Maine,2009-04-13,0,1,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,School/College,Anti-Homosexual,Female,Adult,S
+2009,City,MN,Minnesota,2009-05-15,1,0,1,0,1,Black or African American,Black or African American,1,Destruction/Damage/Vandalism of Property,0.0,Street/Parking Lot,Anti-Asian,Male,Adult,S
+2009,City,IN,Indiana,2009-06-17,0,1,1,0,1,White,White,1,Vandalism,0.0,Residential Area,Anti-Jewish or Hebrew,Female,Adult,S
+2009,City,IL,Illinois,2009-07-19,1,0,1,1,0,White,White,1,Intimidation,1.0,School/College,Anti-Other Bias,Male,Adult,S
+2009,City,NY,New York,2009-08-21,0,1,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,Street/Parking Lot,Anti-Homosexual,Female,Adult,S
+2009,City,MA,Massachusetts,2009-09-23,1,0,1,0,1,Black or African American,Black or African American,1,Destruction/Damage/Vandalism of Property,0.0,Residential Area,Anti-Asian,Male,Adult,S
+2009,City,RI,Rhode Island,2009-10-25,0,1,1,0,1,White,White,1,Vandalism,0.0,School/College,Anti-Jewish or Hebrew,Female,Adult,S
+2009,City,VT,Vermont,2009-11-27,1,0,1,1,0,White,White,1,Intimidation,1.0,Street/Parking Lot,Anti-Other Bias,Male,Adult,S
+2009,City,MT,Montana,2009-12-29,0,1,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,Residential Area,Anti-Homosexual,Female,Adult,S
+2010,City,DE,Delaware,2010-01-04,1,0,1,0,1,Black or African American,Black or African American,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Asian,Male,Adult,S
+2010,City,CO,Colorado,2010-02-07,0,1,1,0,1,White,White,1,Vandalism,0.0,Street/Parking Lot,Anti-Jewish or Hebrew,Female,Adult,S
+2010,City,NM,New Mexico,2010-03-10,1,0,1,1,0,White,White,1,Intimidation,1.0,Residential Area,Anti-Other Bias,Male,Adult,S
+2010,City,NC,North Carolina,2010-04-12,0,1,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,School/College,Anti-Homosexual,Female,Adult,S
+2010,City,SC,South Carolina,2010-05-14,1,0,1,0,1,Black or African American,Black or African American,1,Destruction/Damage/Vandalism of Property,0.0,Street/Parking Lot,Anti-Asian,Male,Adult,S
+2010,City,WY,Wyoming,2010-06-16,0,1,1,0,1,White,White,1,Vandalism,0.0,Residential Area,Anti-Jewish or Hebrew,Female,Adult,S
+2010,City,OH,Ohio,2010-07-18,1,0,1,1,0,White,White,1,Intimidation,1.0,School/College,Anti-Other Bias,Male,Adult,S
+2010,City,GA,Georgia,2010-08-20,0,1,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,Street/Parking Lot,Anti-Homosexual,Female,Adult,S
+2010,City,FL,Florida,2010-09-22,1,0,1,0,1,Black or African American,Black or African American,1,Destruction/Damage/Vandalism of Property,0.0,Residential Area,Anti-Asian,Male,Adult,S
+2010,City,TX,Texas,2010-10-24,0,1,1,0,1,White,White,1,Vandalism,0.0,School/College,Anti-Jewish or Hebrew,Female,Adult,S
+2010,City,PA,Pennsylvania,2010-11-26,1,0,1,1,0,White,White,1,Intimidation,1.0,Street/Parking Lot,Anti-Other Bias,Male,Adult,S
+2010,City,CA,California,2010-12-28,0,1,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,Residential Area,Anti-Homosexual,Female,Adult,S

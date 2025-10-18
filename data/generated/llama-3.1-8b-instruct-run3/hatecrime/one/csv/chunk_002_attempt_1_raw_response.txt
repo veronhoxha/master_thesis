@@ -1,0 +1,46 @@
+2004,City,NJ,New Jersey,2004-05-17,1,0,1,1,0,White,Hispanic,2,Hate Crime Against People/Society,2.0,Hotel/Motel,Anti-Hispanic or Latino,Other,A,N
+2004,City,FL,Florida,2004-08-29,2,0,2,2,0,Asian,Asian,4,Vandalism,4.0,Business,Anti-Asian,Other,S,S
+2004,City,CA,California,2004-06-12,1,0,1,1,0,Native American,Native American,1,Intimidation,1.0,School/College,Anti-Native American,Other,S,S
+2004,Town,NY,New York,2004-09-15,1,0,1,1,0,White,White,1,Simple Assault,1.0,Residential/Apartment,Anti-White,Other,S,S
+2004,City,IL,Illinois,2004-07-01,1,0,1,1,0,Unknown,Unknown,1,Robbery,1.0,Commercial/Apartment,Anti-Gay,Lesbian/Gay,B,S
+2004,City,GA,Georgia,2004-11-05,2,0,2,2,0,Black or African American,Black or African American,3,Hate Crime Against People/Society,3.0,Hotel/Motel,Anti-Black or African American,Other,A,A
+2004,Town,NC,North Carolina,2004-10-17,2,0,2,2,0,Hispanic or Latino,Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2.0,School/College,Anti-Hispanic or Latino,Other,S,S
+2004,City,OH,Ohio,2004-08-28,1,0,1,1,0,White,White,1,Intimidation,1.0,Commercial/Apartment,Anti-White,Other,S,S
+2004,City,MA,Massachusetts,2004-12-12,1,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Business,Anti-Transgender,Lesbian/Gay,B,S
+2004,City,PA,Pennsylvania,2004-11-14,2,0,2,2,0,Asian,Asian,3,Hate Crime Against People/Society,3.0,School/College,Anti-Asian,Other,A,S
+2004,City,CO,Colorado,2004-07-25,2,0,2,2,0,Native American,Native American,2,Intimidation,2.0,Residential/Apartment,Anti-Native American,Other,S,S
+2004,City,WA,Washington,2004-08-02,1,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,1.0,Business,Anti-Black or African American,Other,S,S
+2004,City,IN,Indiana,2004-09-20,2,0,2,2,0,White,White,2,Hate Crime Against People/Society,2.0,Business,Anti-White,Other,A,S
+2004,Town,MI,Michigan,2004-11-18,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,Hotel/Motel,Anti-Hispanic or Latino,Other,S,S
+2004,Town,MO,Missouri,2004-01-21,1,0,1,1,0,Unknown,Unknown,1,Robbery,1.0,School/College,Anti-Gay,Lesbian/Gay,B,S
+2004,City,VT,Vermont,2004-03-25,2,0,2,2,0,White,White,2,Hate Crime Against Property,2.0,Business,Anti-White,Other,S,S
+2004,City,SC,South Carolina,2004-02-02,1,0,1,1,0,Asian,Asian,1,Intimidation,1.0,Hotel/Motel,Anti-Asian,Other,A,S
+2004,City,IA,Iowa,2004-04-01,1,0,1,1,0,Native American,Native American,1,Simple Assault,1.0,Commercial/Apartment,Anti-Native American,Other,S,S
+2004,Town,NM,New Mexico,2004-05-15,2,0,2,2,0,Hispanic or Latino,Hispanic or Latino,3,Vandalism,3.0,Residential/Apartment,Anti-Hispanic or Latino,Other,S,S
+2004,City,AR,Arkansas,2004-06-20,2,0,2,2,0,Black or African American,Black or African American,2,Hate Crime Against People/Society,2.0,Hotel/Motel,Anti-Black or African American,Other,S,S
+2004,City,DE,Delaware,2004-07-12,1,0,1,1,0,White,White,1,Destruction/Damage/Vandalism of Property,1.0,School/College,Anti-White,Other,S,S
+2004,City,RI,Rhode Island,2004-08-16,2,0,2,2,0,Asian,Asian,2,Robbery,2.0,Hotel/Motel,Anti-Asian,Other,S,S
+2004,City,WI,Wisconsin,2004-09-10,1,0,1,1,0,Native American,Native American,1,Simple Assault,1.0,Commercial/Apartment,Anti-Native American,Other,S,S
+2004,City,TX,Texas,2004-10-22,2,0,2,2,0,Hispanic or Latino,Hispanic or Latino,2,Intimidation,2.0,School/College,Anti-Hispanic or Latino,Other,S,S
+2004,City,OR,Oregon,2004-11-25,1,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,1.0,Residential/Apartment,Anti-Black or African American,Other,S,S
+2004,City,KY,Kentucky,2004-12-15,2,0,2,2,0,White,White,2,Hate Crime Against Property,2.0,Business,Anti-White,Other,S,S
+2004,Town,OK,Oklaoma,2004-01-28,1,0,1,1,0,Asian,Asian,1,Vandalism,1.0,Hotel/Motel,Anti-Asian,Other,S,S
+2004,City,GA,Georgia,2004-02-14,2,0,2,2,0,Native American,Native American,2,Intimidation,2.0,School/College,Anti-Native American,Other,S,S
+2004,City,AL,Alabama,2004-03-19,1,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Commercial/Apartment,Anti-Gay,Lesbian/Gay,B,S
+2004,Town,MD,Maryland,2004-04-22,2,0,2,2,0,Hispanic or Latino,Hispanic or Latino,3,Hate Crime Against People/Society,3.0,Business,Anti-Hispanic or Latino,Other,S,S
+2004,City,ID,Idaho,2004-05-29,2,0,2,2,0,White,White,2,Robbery,2.0,Hotel/Motel,Anti-White,Other,S,S
+2004,City,KS,Kansas,2004-06-26,1,0,1,1,0,Native American,Native American,1,Intimidation,1.0,School/College,Anti-Native American,Other,S,S
+2004,Town,ME,Maine,2004-07-31,2,0,2,2,0,Black or African American,Black or African American,2,Hate Crime Against Property,2.0,Residential/Apartment,Anti-Black or African American,Other,S,S
+2004,City,CT,Connecticut,2004-08-24,1,0,1,1,0,Asian,Asian,1,Vandalism,1.0,Commercial/Apartment,Anti-Asian,Other,S,S
+2004,City,NE,Nebaska,2004-09-25,2,0,2,2,0,White,White,2,Destruction/Damage/Vandalism of Property,2.0,Hotel/Motel,Anti-White,Other,S,S
+2004,Town,MS,Mississippi,2004-10-29,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,School/College,Anti-Hispanic or Latino,Other,S,S
+2004,City,WV,West Virginia,2004-11-25,2,0,2,2,0,Native American,Native American,2,Intimidation,2.0,Commercial/Apartment,Anti-Native American,Other,S,S
+2004,City,MT,Montana,2004-12-30,1,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,1.0,Hotel/Motel,Anti-Black or African American,Other,A,S
+2005,City,NJ,New Jersey,2005-01-05,2,0,2,2,0,White,White,2,Hate Crime Against Property,2.0,Business,Anti-White,Other,A,S
+2005,City,FL,Florida,2005-02-10,1,0,1,1,0,Asian,Asian,1,Vandalism,1.0,Commercial/Apartment,Anti-Asian,Other,S,S
+2005,Town,NY,New York,2005-03-17,2,0,2,2,0,Native American,Native American,2,Intimidation,2.0,Residential/Apartment,Anti-Native American,Other,S,S
+2005,City,IL,Illinois,2005-04-22,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,School/College,Anti-Hispanic or Latino,Other,S,S
+2005,City,GA,Georgia,2005-05-27,2,0,2,2,0,Black or African American,Black or African American,3,Hate Crime Against People/Society,3.0,School/College,Anti-Black or African American,Other,A,A
+2005,Town,NC,North Carolina,2005-06-30,1,0,1,1,0,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Hotel/Motel,Anti-White,Other,S,S
+2005,City,OH,Ohio,2005-07-21,2,0,2,2,0,Unknown,Unknown,2,Hate Crime Against People/Society,2.0,Business,Anti-Transgender,Lesbian/Gay,A,S
+2005,City,MA,Massachusetts,2005-08-26,1,0,1,1,0,Asian,Asian,1,Vandalism,1.0,Residential/Apartment,Anti-Asian,Other,S,S

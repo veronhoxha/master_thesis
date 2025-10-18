@@ -1,0 +1,69 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+,State/Local,CA,California,1991-01-01 00:00:00,1,0,2,1,1,Asian American,Hispanic,2,Simple Assault,2,Residence,Sexual Orientation,Adult,FALSE,FALSE
+,Local,NY,New York,1991-02-01 00:00:00,0,1,1,1,0,Black,Non-Hispanic,1,Vandalism,1,Commercial Building,Disability,Juvenile,FALSE,FALSE
+,Federal,TX,Texas,1991-03-01 00:00:00,1,0,1,1,0,Hispanic,Non-Hispanic,1,Intimidation,1,School,Religion,Adult,FALSE,FALSE
+,State/Local,IL,Illinois,1991-04-01 00:00:00,0,1,2,0,2,White,Non-Hispanic,2,Destruction/Damage/Vandalism of Property,2,Residence,Disability,Juvenile,FALSE,FALSE
+,Federal,GA,Georgia,1991-05-01 00:00:00,1,0,1,1,0,American Indian/Alaska Native,Non-Hispanic,1,Simple Assault,1,Residence,National Origin,Adult,FALSE,FALSE
+,State/Local,AZ,Arizona,1991-06-01 00:00:00,0,1,1,1,0,Hispanic,Non-Hispanic,1,Intimidation,1,Commercial Building,Sexual Orientation,Juvenile,FALSE,FALSE
+,Local,NC,North Carolina,1991-07-01 00:00:00,1,0,2,1,1,Black,Non-Hispanic,2,Vandalism,2,Residence,Disability,Adult,FALSE,FALSE
+,Federal,OH,Ohio,1991-08-01 00:00:00,0,1,1,1,0,White,Non-Hispanic,1,Simple Assault,1,School,Religion,Juvenile,FALSE,FALSE
+,State/Local,MI,Michigan,1991-09-01 00:00:00,1,0,2,1,1,Asian American,Non-Hispanic,2,Destruction/Damage/Vandalism of Property,2,Commercial Building,National Origin,Adult,FALSE,FALSE
+,Local,CO,Colorado,1991-10-01 00:00:00,0,1,1,1,0,Hispanic,Non-Hispanic,1,Intimidation,1,Residence,Sexual Orientation,Juvenile,FALSE,FALSE
+,Federal,VA,Virginia,1991-11-01 00:00:00,1,0,1,1,0,White,Non-Hispanic,1,Simple Assault,1,School,Disability,Adult,FALSE,FALSE
+,State/Local,TN,Tennessee,1991-12-01 00:00:00,0,1,2,0,2,Black,Non-Hispanic,2,Destruction/Damage/Vandalism of Property,2,Commercial Building,National Origin,Juvenile,FALSE,FALSE
+,State/Local,CA,California,1992-01-01 00:00:00,1,0,1,1,0,Asian American,Non-Hispanic,1,Intimidation,1,Residence,Sexual Orientation,Adult,FALSE,FALSE
+,Local,NY,New York,1992-02-01 00:00:00,0,1,2,1,1,Black,Non-Hispanic,2,Vandalism,2,Commercial Building,Disability,Juvenile,FALSE,FALSE
+,Federal,TX,Texas,1992-03-01 00:00:00,1,0,1,1,0,Hispanic,Non-Hispanic,1,Simple Assault,1,School,Religion,Adult,FALSE,FALSE
+,State/Local,IL,Illinois,1992-04-01 00:00:00,0,1,1,1,0,White,Non-Hispanic,1,Destruction/Damage/Vandalism of Property,1,Residence,Disability,Juvenile,FALSE,FALSE
+,Federal,GA,Georgia,1992-05-01 00:00:00,1,0,2,1,1,American Indian/Alaska Native,Non-Hispanic,2,Vandalism,2,Commercial Building,National Origin,Adult,FALSE,FALSE
+,State/Local,AZ,Arizona,1992-06-01 00:00:00,0,1,1,1,0,Hispanic,Non-Hispanic,1,Intimidation,1,Residence,Sexual Orientation,Juvenile,FALSE,FALSE
+,Local,NC,North Carolina,1992-07-01 00:00:00,1,0,1,1,0,Black,Non-Hispanic,1,Simple Assault,1,School,Disability,Adult,FALSE,FALSE
+,Federal,OH,Ohio,1992-08-01 00:00:00,0,1,2,0,2,White,Non-Hispanic,2,Destruction/Damage/Vandalism of Property,2,Residence,National Origin,Juvenile,FALSE,FALSE
+,State/Local,MI,Michigan,1992-09-01 00:00:00,1,0,1,1,0,Asian American,Non-Hispanic,1,Intimidation,1,Commercial Building,Religion,Adult,FALSE,FALSE
+,Local,CO,Colorado,1992-10-01 00:00:00,0,1,1,1,0,Hispanic,Non-Hispanic,1,Destruction/Damage/Vandalism of Property,1,Residence,Sexual Orientation,Juvenile,FALSE,FALSE
+,Federal,VA,Virginia,1992-11-01 00:00:00,1,0,2,1,1,White,Non-Hispanic,2,Vandalism,2,Commercial Building,Disability,Adult,FALSE,FALSE
+,State/Local,TN,Tennessee,1992-12-01 00:00:00,0,1,1,1,0,Black,Non-Hispanic,1,Simple Assault,1,Residence,National Origin,Juvenile,FALSE,FALSE
+,State/Local,CA,California,1993-01-01 00:00:00,1,0,1,1,0,Asian American,Non-Hispanic,1,Intimidation,1,School,Sexual Orientation,Adult,FALSE,FALSE
+,Local,NY,New York,1993-02-01 00:00:00,0,1,2,0,2,Black,Non-Hispanic,2,Destruction/Damage/Vandalism of Property,2,Commercial Building,Disability,Juvenile,FALSE,FALSE
+,Federal,TX,Texas,1993-03-01 00:00:00,1,0,2,1,1,Hispanic,Non-Hispanic,2,Vandalism,2,Residence,Religion,Adult,FALSE,FALSE
+,State/Local,IL,Illinois,1993-04-01 00:00:00,0,1,1,1,0,White,Non-Hispanic,1,Simple Assault,1,Residence,National Origin,Juvenile,FALSE,FALSE
+,Federal,GA,Georgia,1993-05-01 00:00:00,1,0,1,1,0,American Indian/Alaska Native,Non-Hispanic,1,Intimidation,1,Commercial Building,Disability,Adult,FALSE,FALSE
+,State/Local,AZ,Arizona,1993-06-01 00:00:00,0,1,2,0,2,Hispanic,Non-Hispanic,2,Destruction/Damage/Vandalism of Property,2,Residence,Sexual Orientation,Juvenile,FALSE,FALSE
+,Local,NC,North Carolina,1993-07-01 00:00:00,1,0,1,1,0,Black,Non-Hispanic,1,Destruction/Damage/Vandalism of Property,1,School,National Origin,Adult,FALSE,FALSE
+,Federal,OH,Ohio,1993-08-01 00:00:00,0,1,1,1,0,White,Non-Hispanic,1,Vandalism,1,Commercial Building,Disability,Juvenile,FALSE,FALSE
+,State/Local,MI,Michigan,1993-09-01 00:00:00,1,0,2,1,1,Asian American,Non-Hispanic,2,Vandalism,2,Residence,Religion,Adult,FALSE,FALSE
+,Local,CO,Colorado,1993-10-01 00:00:00,0,1,1,1,0,Hispanic,Non-Hispanic,1,Intimidation,1,Residence,Sexual Orientation,Juvenile,FALSE,FALSE
+,Federal,VA,Virginia,1993-11-01 00:00:00,1,0,1,1,0,White,Non-Hispanic,1,Simple Assault,1,School,Disability,Adult,FALSE,FALSE
+,State/Local,TN,Tennessee,1993-12-01 00:00:00,0,1,2,0,2,Black,Non-Hispanic,2,Destruction/Damage/Vandalism of Property,2,Commercial Building,National Origin,Juvenile,FALSE,FALSE
+,State/Local,CA,California,1994-01-01 00:00:00,1,0,2,1,1,Asian American,Non-Hispanic,2,Vandalism,2,Residence,Sexual Orientation,Adult,FALSE,FALSE
+,Local,NY,New York,1994-02-01 00:00:00,0,1,1,1,0,Black,Non-Hispanic,1,Intimidation,1,Commercial Building,Disability,Juvenile,FALSE,FALSE
+,Federal,TX,Texas,1994-03-01 00:00:00,1,0,1,1,0,Hispanic,Non-Hispanic,1,Destruction/Damage/Vandalism of Property,1,School,Religion,Adult,FALSE,FALSE
+,State/Local,IL,Illinois,1994-04-01 00:00:00,0,1,2,0,2,White,Non-Hispanic,2,Vandalism,2,Residence,National Origin,Juvenile,FALSE,FALSE
+,Federal,GA,Georgia,1994-05-01 00:00:00,1,0,1,1,0,American Indian/Alaska Native,Non-Hispanic,1,Simple Assault,1,Commercial Building,Disability,Adult,FALSE,FALSE
+,State/Local,AZ,Arizona,1994-06-01 00:00:00,0,1,1,1,0,Hispanic,Non-Hispanic,1,Intimidation,1,Residence,Sexual Orientation,Juvenile,FALSE,FALSE
+,Local,NC,North Carolina,1994-07-01 00:00:00,1,0,2,0,2,Black,Non-Hispanic,2,Destruction/Damage/Vandalism of Property,2,Commercial Building,National Origin,Adult,FALSE,FALSE
+,Federal,OH,Ohio,1994-08-01 00:00:00,0,1,1,1,0,White,Non-Hispanic,1,Vandalism,1,Residence,Disability,Juvenile,FALSE,FALSE
+,State/Local,MI,Michigan,1994-09-01 00:00:00,1,0,1,1,0,Asian American,Non-Hispanic,1,Intimidation,1,School,Religion,Adult,FALSE,FALSE
+,Local,CO,Colorado,1994-10-01 00:00:00,0,1,2,0,2,Hispanic,Non-Hispanic,2,Vandalism,2,Residence,Sexual Orientation,Juvenile,FALSE,FALSE
+,Federal,VA,Virginia,1994-11-01 00:00:00,1,0,1,1,0,White,Non-Hispanic,1,Simple Assault,1,Commercial Building,Disability,Adult,FALSE,FALSE
+,State/Local,TN,Tennessee,1994-12-01 00:00:00,0,1,1,1,0,Black,Non-Hispanic,1,Destruction/Damage/Vandalism of Property,1,Residence,National Origin,Juvenile,FALSE,FALSE
+,State/Local,CA,California,1995-01-01 00:00:00,1,0,1,1,0,Asian American,Non-Hispanic,1,Intimidation,1,School,Sexual Orientation,Adult,FALSE,FALSE
+,Local,NY,New York,1995-02-01 00:00:00,0,1,2,0,2,Black,Non-Hispanic,2,Destruction/Damage/Vandalism of Property,2,Commercial Building,Disability,Juvenile,FALSE,FALSE
+,Federal,TX,Texas,1995-03-01 00:00:00,1,0,2,1,1,Hispanic,Non-Hispanic,2,Vandalism,2,Residence,Religion,Adult,FALSE,FALSE
+,State/Local,IL,Illinois,1995-04-01 00:00:00,0,1,1,1,0,White,Non-Hispanic,1,Simple Assault,1,Commercial Building,National Origin,Juvenile,FALSE,FALSE
+,Federal,GA,Georgia,1995-05-01 00:00:00,1,0,1,1,0,American Indian/Alaska Native,Non-Hispanic,1,Intimidation,1,Residence,Disability,Adult,FALSE,FALSE
+,State/Local,AZ,Arizona,1995-06-01 00:00:00,0,1,2,0,2,Hispanic,Non-Hispanic,2,Destruction/Damage/Vandalism of Property,2,School,Sexual Orientation,Juvenile,FALSE,FALSE
+,Local,NC,North Carolina,1995-07-01 00:00:00,1,0,1,1,0,Black,Non-Hispanic,1,Vandalism,1,Residence,National Origin,Adult,FALSE,FALSE
+,Federal,OH,Ohio,1995-08-01 00:00:00,0,1,1,1,0,White,Non-Hispanic,1,Intimidation,1,Commercial Building,Disability,Juvenile,FALSE,FALSE
+,State/Local,MI,Michigan,1995-09-01 00:00:00,1,0,2,1,1,Asian American,Non-Hispanic,2,Vandalism,2,Residence,Religion,Adult,FALSE,FALSE
+,Local,CO,Colorado,1995-10-01 00:00:00,0,1,1,1,0,Hispanic,Non-Hispanic,1,Simple Assault,1,School,Sexual Orientation,Juvenile,FALSE,FALSE
+,Federal,VA,Virginia,1995-11-01 00:00:00,1,0,1,1,0,White,Non-Hispanic,1,Destruction/Damage/Vandalism of Property,1,Residence,Disability,Adult,FALSE,FALSE
+,State/Local,TN,Tennessee,1995-12-01 00:00:00,0,1,2,0,2,Black,Non-Hispanic,2,Vandalism,2,Commercial Building,National Origin,Juvenile,FALSE,FALSE
+,State/Local,CA,California,1996-01-01 00:00:00,1,0,1,1,0,Asian American,Non-Hispanic,1,Intimidation,1,Residence,Sexual Orientation,Adult,FALSE,FALSE
+,Local,NY,New York,1996-02-01 00:00:00,0,1,2,0,2,Black,Non-Hispanic,2,Destruction/Damage/Vandalism of Property,2,Commercial Building,Disability,Juvenile,FALSE,FALSE
+,Federal,TX,Texas,1996-03-01 00:00:00,1,0,2,1,1,Hispanic,Non-Hispanic,2,Vandalism,2,Residence,Religion,Adult,FALSE,FALSE
+,State/Local,IL,Illinois,1996-04-01 00:00:00,0,1,1,1,0,White,Non-Hispanic,1,Simple Assault,1,School,National Origin,Juvenile,FALSE,FALSE
+,Federal,GA,Georgia,1996-05-01 00:00:00,1,0,1,1,0,American Indian/Alaska Native,Non-Hispanic,1,Intimidation,1,Commercial Building,Disability,Adult,FALSE,FALSE
+,State/Local,AZ,Arizona,1996-06-01 00:00:00,0,1,2,0,2,Hispanic,Non-Hispanic,2,Destruction/Damage/Vandalism of Property,2,Residence,Sexual Orientation,Juvenile,FALSE,FALSE
+,Local,NC,North Carolina,1996-07-01 00:00:00,1,0,1,1,0,Black,Non-Hispanic,1,Vandalism,1,Residence,National Origin,Adult,FALSE,FALSE
+,Federal,OH,Ohio,1996-08-01 00:00:00,0,1,1,1,0,White,Non-Hispanic,1,Intimidation,1,Commercial Building,Disability,Juvenile,FALSE,FALSE

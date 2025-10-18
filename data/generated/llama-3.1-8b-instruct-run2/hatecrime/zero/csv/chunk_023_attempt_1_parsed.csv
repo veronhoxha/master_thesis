@@ -1,0 +1,61 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,Local Police Department,,California,1/1/1991,1,0,1,1,0,Asian,Hispanic,1,Vandalism,1,San Francisco,Antisemitic,Adult,Yes,Yes
+1991,Sherriff's Department,,Texas,2/2/1991,0,1,1,0,1,White,Non-Hispanic,1,Intimidation,1,Houston,Racist,Juvenile,Yes,Yes
+1991,State Police Department,,New York,3/3/1991,2,0,2,1,1,Black,Hispanic,2,Simple Assault,2,Albany,Antigay,Adult/Juvenile,No,No
+1991,County Police Department,,Florida,4/4/1991,1,0,1,1,0,Asian,Non-Hispanic,1,Aggravated Assault,1,Miami,Racist,Adult,No,No
+1991,Local Police Department,,Illinois,5/5/1991,0,1,1,0,1,White,Hispanic,1,Vandalism,1,Chicago,Antisemitic,Juvenile,Yes,Yes
+1991,Sherriff's Department,,Michigan,6/6/1991,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Detroit,Racist,Adult/Juvenile,Yes,Yes
+1991,State Police Department,,North Carolina,7/7/1991,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Raleigh,Antigay,Adult,Yes,No
+1991,County Police Department,,Ohio,8/8/1991,0,1,1,0,1,White,Non-Hispanic,1,Vandalism,1,Columbus,Racist,Juvenile,No,No
+1991,Local Police Department,,Pennsylvania,9/9/1991,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Pittsburgh,Antisemitic,Adult/Juvenile,Yes,Yes
+1991,Sherriff's Department,,Tennessee,10/10/1991,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Nashville,Racist,Adult,Yes,No
+1992,Local Police Department,,California,1/1/1992,0,1,1,0,1,White,Hispanic,1,Vandalism,1,San Francisco,Antisemitic,Juvenile,Yes,Yes
+1992,Sherriff's Department,,Texas,2/2/1992,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Houston,Racist,Adult/Juvenile,Yes,Yes
+1992,State Police Department,,New York,3/3/1992,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Albany,Antigay,Adult,Yes,No
+1992,County Police Department,,Florida,4/4/1992,0,1,1,0,1,White,Non-Hispanic,1,Aggravated Assault,1,Miami,Racist,Juvenile,No,No
+1992,Local Police Department,,Illinois,5/5/1992,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Chicago,Antisemitic,Adult/Juvenile,Yes,Yes
+1992,Sherriff's Department,,Michigan,6/6/1992,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Detroit,Racist,Adult,Yes,No
+1992,State Police Department,,North Carolina,7/7/1992,0,1,1,0,1,White,Hispanic,1,Vandalism,1,Raleigh,Antigay,Juvenile,Yes,Yes
+1992,County Police Department,,Ohio,8/8/1992,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Columbus,Racist,Adult/Juvenile,Yes,Yes
+1992,Local Police Department,,Pennsylvania,9/9/1992,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Pittsburgh,Antisemitic,Adult,Yes,No
+1992,Sherriff's Department,,Tennessee,10/10/1992,0,2,2,0,2,White,Non-Hispanic,2,Vandalism,2,Nashville,Racist,Juvenile/Adult,No,No
+1993,Local Police Department,,California,1/1/1993,1,0,1,1,0,Asian,Hispanic,1,Aggravated Assault,1,San Francisco,Antigay,Adult,Yes,No
+1993,Sherriff's Department,,Texas,2/2/1993,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Houston,Racist,Adult/Juvenile,Yes,Yes
+1993,State Police Department,,New York,3/3/1993,0,1,1,0,1,White,Hispanic,1,Vandalism,1,Albany,Antisemitic,Juvenile,Yes,Yes
+1993,County Police Department,,Florida,4/4/1993,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Miami,Racist,Adult,Yes,No
+1993,Local Police Department,,Illinois,5/5/1993,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Chicago,Antisemitic,Adult/Juvenile,Yes,Yes
+1993,Sherriff's Department,,Michigan,6/6/1993,0,1,1,0,1,White,Hispanic,1,Aggravated Assault,1,Detroit,Racist,Juvenile,Yes,No
+1993,State Police Department,,North Carolina,7/7/1993,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Raleigh,Antigay,Adult,Yes,No
+1993,County Police Department,,Ohio,8/8/1993,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Columbus,Racist,Adult/Juvenile,Yes,Yes
+1993,Local Police Department,,Pennsylvania,9/9/1993,0,2,2,0,2,White,Non-Hispanic,2,Vandalism,2,Pittsburgh,Racist,Juvenile/Adult,No,No
+1993,Sherriff's Department,,Tennessee,10/10/1993,1,0,1,1,0,Asian,Hispanic,1,Aggravated Assault,1,Nashville,Antigay,Adult,Yes,No
+1994,Local Police Department,,California,1/1/1994,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,San Francisco,Racist,Adult/Juvenile,Yes,Yes
+1994,Sherriff's Department,,Texas,2/2/1994,0,1,1,0,1,White,Hispanic,1,Vandalism,1,Houston,Racist,Juvenile,Yes,Yes
+1994,State Police Department,,New York,3/3/1994,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Albany,Antigay,Adult,Yes,No
+1994,County Police Department,,Florida,4/4/1994,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Miami,Antisemitic,Adult/Juvenile,Yes,Yes
+1994,Local Police Department,,Illinois,5/5/1994,0,1,1,0,1,White,Hispanic,1,Aggravated Assault,1,Chicago,Racist,Juvenile,Yes,No
+1994,Sherriff's Department,,Michigan,6/6/1994,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Detroit,Racist,Adult,Yes,No
+1994,State Police Department,,North Carolina,7/7/1994,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Raleigh,Antisemitic,Adult/Juvenile,Yes,Yes
+1994,County Police Department,,Ohio,8/8/1994,0,2,2,0,2,White,Non-Hispanic,2,Vandalism,2,Columbus,Racist,Juvenile/Adult,No,No
+1994,Local Police Department,,Pennsylvania,9/9/1994,1,0,1,1,0,Asian,Hispanic,1,Aggravated Assault,1,Pittsburgh,Antigay,Adult,Yes,No
+1994,Sherriff's Department,,Tennessee,10/10/1994,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Nashville,Racist,Adult/Juvenile,Yes,Yes
+1995,Local Police Department,,California,1/1/1995,0,1,1,0,1,White,Hispanic,1,Vandalism,1,San Francisco,Racist,Juvenile,Yes,Yes
+1995,Sherriff's Department,,Texas,2/2/1995,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Houston,Antigay,Adult,Yes,No
+1995,State Police Department,,New York,3/3/1995,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Albany,Racist,Adult/Juvenile,Yes,Yes
+1995,County Police Department,,Florida,4/4/1995,0,2,2,0,2,White,Non-Hispanic,2,Vandalism,2,Miami,Antisemitic,Juvenile/Adult,No,No
+1995,Local Police Department,,Illinois,5/5/1995,1,0,1,1,0,Asian,Hispanic,1,Aggravated Assault,1,Chicago,Racist,Adult,Yes,No
+1995,Sherriff's Department,,Michigan,6/6/1995,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Detroit,Antisemitic,Adult/Juvenile,Yes,Yes
+1995,State Police Department,,North Carolina,7/7/1995,0,1,1,0,1,White,Hispanic,1,Vandalism,1,Raleigh,Racist,Juvenile,Yes,Yes
+1995,County Police Department,,Ohio,8/8/1995,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Columbus,Antigay,Adult,Yes,No
+1995,Local Police Department,,Pennsylvania,9/9/1995,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Pittsburgh,Racist,Adult/Juvenile,Yes,Yes
+1995,Sherriff's Department,,Tennessee,10/10/1995,0,2,2,0,2,White,Non-Hispanic,2,Vandalism,2,Nashville,Racist,Juvenile/Adult,No,No
+1996,Local Police Department,,California,1/1/1996,1,0,1,1,0,Asian,Hispanic,1,Aggravated Assault,1,San Francisco,Antigay,Adult,Yes,No
+1996,Sherriff's Department,,Texas,2/2/1996,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Houston,Racist,Adult/Juvenile,Yes,Yes
+1996,State Police Department,,New York,3/3/1996,0,1,1,0,1,White,Hispanic,1,Vandalism,1,Albany,Racist,Juvenile,Yes,Yes
+1996,County Police Department,,Florida,4/4/1996,1,0,1,1,0,Asian,Hispanic,1,Intimidation,1,Miami,Antisemitic,Adult,Yes,No
+1996,Local Police Department,,Illinois,5/5/1996,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Chicago,Racist,Adult/Juvenile,Yes,Yes
+1996,Sherriff's Department,,Michigan,6/6/1996,0,2,2,0,2,White,Non-Hispanic,2,Vandalism,2,Detroit,Antisemitic,Juvenile/Adult,No,No
+1996,State Police Department,,North Carolina,7/7/1996,1,0,1,1,0,Asian,Hispanic,1,Aggravated Assault,1,Raleigh,Racist,Adult,Yes,No
+1996,County Police Department,,Ohio,8/8/1996,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Columbus,Antigay,Adult/Juvenile,Yes,Yes
+1996,Local Police Department,,Pennsylvania,9/9/1996,0,1,1,0,1,White,Hispanic,1,Vandalism,1,Pittsburgh,Racist,Juvenile,Yes,Yes
+1996,Sherriff's Department,,Tennessee,10/10/1996,2,0,2,1,1,Black,Non-Hispanic,2,Simple Assault,2,Nashville,Antisemitic,Adult/Juvenile,Yes,Yes

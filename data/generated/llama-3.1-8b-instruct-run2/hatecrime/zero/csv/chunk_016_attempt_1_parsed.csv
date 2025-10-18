@@ -1,0 +1,50 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+"2003""",Local,,OH,Ohio,2003-01-01,0,0,1,1,0,Asian or Asian American,Other ethnicity,1,Simple Assault,1,Residence/Housing,Hate crime motivated by anti-Asian bias,Adult,2003-01-01
+2003,State,,,US,2003-03-12,2,0,1,1,0,Hispanic or Latino,Hispanic,2,Intimidation,2,Street,Hate crime motivated by anti-Hispanic bias,Adult,2003-03-12
+2003,Local,,MI,Michigan,2003-05-10,0,0,2,2,0,White,Non-Hispanic,0,Vandalism,0,Public Transportation,No bias motivation,Adult,2003-05-10
+2003,Federal,,,US,2003-07-04,0,0,1,1,0,Black or African American,Non-Hispanic,0,Simple Assault,0,Public Park or Playground,Hate crime motivated by anti-Black bias,Adult,2003-07-04
+2003,Local,,TX,Texas,2003-09-01,1,0,1,1,0,Asian or Asian American,Other ethnicity,1,Intimidation,1,Residence/Housing,Hate crime motivated by anti-Asian bias,Adult,2003-09-01
+2003,State,,,US,2003-11-15,1,0,1,1,0,Native Hawaiian or Other Pacific Islander,Other ethnicity,1,Simple Assault,1,Public Street,Hate crime motivated by anti-Native American bias,Adult,2003-11-15
+2003,Local,,CA,California,2003-01-02,0,0,2,2,0,White,Non-Hispanic,0,Vandalism,0,Public School,No bias motivation,Adult,2003-01-02
+2004,Federal,,,US,2004-01-03,2,0,1,1,0,Hispanic or Latino,Hispanic,2,Intimidation,2,Public Park or Playground,Hate crime motivated by anti-Hispanic bias,Adult,2004-01-03
+2004,Local,,NY,New York,2004-03-14,1,0,1,1,0,Asian or Asian American,Other ethnicity,1,Simple Assault,1,Residence/Housing,Hate crime motivated by anti-Asian bias,Adult,2004-03-14
+2004,State,,,US,2004-05-16,0,0,2,2,0,White,Non-Hispanic,0,Vandalism,0,Public Transportation,No bias motivation,Adult,2004-05-16
+2004,Federal,,,US,2004-07-05,0,0,1,1,0,Black or African American,Non-Hispanic,0,Simple Assault,0,Public Park or Playground,Hate crime motivated by anti-Black bias,Adult,2004-07-05
+2004,Local,,FL,Florida,2004-09-02,2,0,1,1,0,Native Hawaiian or Other Pacific Islander,Other ethnicity,2,Intimidation,2,Public Street,Hate crime motivated by anti-Native American bias,Adult,2004-09-02
+2004,State,,,US,2004-11-18,1,0,1,1,0,Asian or Asian American,Other ethnicity,1,Simple Assault,1,Residence/Housing,Hate crime motivated by anti-Asian bias,Adult,2004-11-18
+2005,Federal,,,US,2005-01-04,0,0,2,2,0,White,Non-Hispanic,0,Vandalism,0,Public School,No bias motivation,Adult,2005-01-04
+2005,Local,,PA,Pennsylvania,2005-03-15,1,0,1,1,0,Hispanic or Latino,Hispanic,1,Intimidation,1,Public Park or Playground,Hate crime motivated by anti-Hispanic bias,Adult,2005-03-15
+2005,State,,,US,2005-05-17,2,0,1,1,0,Black or African American,Non-Hispanic,2,Simple Assault,2,Public Street,Hate crime motivated by anti-Black bias,Adult,2005-05-17
+2005,Federal,,,US,2005-07-06,0,0,1,1,0,Asian or Asian American,Other ethnicity,0,Intimidation,0,Public Park or Playground,Hate crime motivated by anti-Asian bias,Adult,2005-07-06
+2005,Local,,IL,Illinois,2005-09-03,0,0,2,2,0,White,Non-Hispanic,0,Vandalism,0,Public Transportation,No bias motivation,Adult,2005-09-03
+2005,State,,,US,2005-11-19,1,0,1,1,0,Native Hawaiian or Other Pacific Islander,Other ethnicity,1,Simple Assault,1,Residence/Housing,Hate crime motivated by anti-Native American bias,Adult,2005-11-19
+2006,Federal,,,US,2006-01-05,2,0,1,1,0,Hispanic or Latino,Hispanic,2,Intimidation,2,Public Park or Playground,Hate crime motivated by anti-Hispanic bias,Adult,2006-01-05
+2006,Local,,TX,Texas,2006-03-16,0,0,2,2,0,White,Non-Hispanic,0,Vandalism,0,Public School,No bias motivation,Adult,2006-03-16
+2006,State,,,US,2006-05-18,1,0,1,1,0,Asian or Asian American,Other ethnicity,1,Simple Assault,1,Public Street,Hate crime motivated by anti-Asian bias,Adult,2006-05-18
+2006,Federal,,,US,2006-07-07,0,0,1,1,0,Black or African American,Non-Hispanic,0,Intimidation,0,Public Park or Playground,Hate crime motivated by anti-Black bias,Adult,2006-07-07
+2006,Local,,CA,California,2006-09-04,2,0,1,1,0,Native Hawaiian or Other Pacific Islander,Other ethnicity,2,Simple Assault,2,Public Transportation,Hate crime motivated by anti-Native American bias,Adult,2006-09-04
+2006,State,,,US,2006-11-21,1,0,1,1,0,Asian or Asian American,Other ethnicity,1,Intimidation,1,Residence/Housing,Hate crime motivated by anti-Asian bias,Adult,2006-11-21
+2007,Federal,,,US,2007-01-08,0,0,2,2,0,White,Non-Hispanic,0,Vandalism,0,Public School,No bias motivation,Adult,2007-01-08
+2007,Local,,FL,Florida,2007-03-19,1,0,1,1,0,Hispanic or Latino,Hispanic,1,Simple Assault,1,Public Park or Playground,Hate crime motivated by anti-Hispanic bias,Adult,2007-03-19
+2007,State,,,US,2007-05-22,2,0,1,1,0,Black or African American,Non-Hispanic,2,Intimidation,2,Public Street,Hate crime motivated by anti-Black bias,Adult,2007-05-22
+2007,Federal,,,US,2007-07-09,0,0,1,1,0,Asian or Asian American,Other ethnicity,0,Simple Assault,0,Public Park or Playground,Hate crime motivated by anti-Asian bias,Adult,2007-07-09
+2007,Local,,NY,New York,2007-09-05,0,0,2,2,0,White,Non-Hispanic,0,Vandalism,0,Public Transportation,No bias motivation,Adult,2007-09-05
+2007,State,,,US,2007-11-23,1,0,1,1,0,Native Hawaiian or Other Pacific Islander,Other ethnicity,1,Intimidation,1,Residence/Housing,Hate crime motivated by anti-Native American bias,Adult,2007-11-23
+2008,Federal,,,US,2008-01-09,2,0,1,1,0,Hispanic or Latino,Hispanic,2,Simple Assault,2,Public Park or Playground,Hate crime motivated by anti-Hispanic bias,Adult,2008-01-09
+2008,Local,,IL,Illinois,2008-03-20,0,0,2,2,0,White,Non-Hispanic,0,Vandalism,0,Public School,No bias motivation,Adult,2008-03-20
+2008,State,,,US,2008-05-24,1,0,1,1,0,Asian or Asian American,Other ethnicity,1,Intimidation,1,Public Street,Hate crime motivated by anti-Asian bias,Adult,2008-05-24
+2008,Federal,,,US,2008-07-10,0,0,1,1,0,Black or African American,Non-Hispanic,0,Simple Assault,0,Public Park or Playground,Hate crime motivated by anti-Black bias,Adult,2008-07-10
+2008,Local,,TX,Texas,2008-09-06,1,0,1,1,0,Native Hawaiian or Other Pacific Islander,Other ethnicity,1,Intimidation,1,Public Transportation,Hate crime motivated by anti-Native American bias,Adult,2008-09-06
+2008,State,,,US,2008-11-25,0,0,2,2,0,White,Non-Hispanic,0,Vandalism,0,Public School,No bias motivation,Adult,2008-11-25
+2009,Federal,,,US,2009-01-11,1,0,1,1,0,Hispanic or Latino,Hispanic,1,Simple Assault,1,Public Park or Playground,Hate crime motivated by anti-Hispanic bias,Adult,2009-01-11
+2009,Local,,PA,Pennsylvania,2009-03-21,2,0,1,1,0,Asian or Asian American,Other ethnicity,2,Intimidation,2,Public Street,Hate crime motivated by anti-Asian bias,Adult,2009-03-21
+2009,State,,,US,2009-05-25,0,0,2,2,0,White,Non-Hispanic,0,Vandalism,0,Public Transportation,No bias motivation,Adult,2009-05-25
+2009,Federal,,,US,2009-07-12,0,0,1,1,0,Black or African American,Non-Hispanic,0,Simple Assault,0,Public Park or Playground,Hate crime motivated by anti-Black bias,Adult,2009-07-12
+2009,Local,,FL,Florida,2009-09-07,1,0,1,1,0,Native Hawaiian or Other Pacific Islander,Other ethnicity,1,Intimidation,1,Public Transportation,Hate crime motivated by anti-Native American bias,Adult,2009-09-07
+2009,State,,,US,2009-11-27,2,0,1,1,0,Asian or Asian American,Other ethnicity,2,Simple Assault,2,Public Street,Hate crime motivated by anti-Asian bias,Adult,2009-11-27
+2010,Federal,,,US,2010-01-13,0,0,2,2,0,White,Non-Hispanic,0,Vandalism,0,Public School,No bias motivation,Adult,2010-01-13
+2010,Local,,NY,New York,2010-03-22,1,0,1,1,0,Hispanic or Latino,Hispanic,1,Intimidation,1,Public Park or Playground,Hate crime motivated by anti-Hispanic bias,Adult,2010-03-22
+2010,State,,,US,2010-05-26,1,0,1,1,0,Asian or Asian American,Other ethnicity,1,Simple Assault,1,Public Street,Hate crime motivated by anti-Asian bias,Adult,2010-05-26
+2010,Federal,,,US,2010-07-14,0,0,1,1,0,Black or African American,Non-Hispanic,0,Intimidation,0,Public Park or Playground,Hate crime motivated by anti-Black bias,Adult,2010-07-14
+2010,Local,,CA,California,2010-09-08,2,0,1,1,0,Native Hawaiian or Other Pacific Islander,Other ethnicity,2,Simple Assault,2,Public Transportation,Hate crime motivated by anti-Native American bias,Adult,2010-09-08
+2010,State,,,US,2010-11-29,1,0,1,1,0,Asian or Asian American,Other ethnicity,1,Intimidation,1,Residence/Housing,Hate crime motivated by anti-Asian bias,Adult,2010-11-29

@@ -1,0 +1,42 @@
+"date","data_year","agency_type_name","state_abbr","state_name","incident_date","adult_victim_count","juvenile_victim_count","total_offender_count","adult_offender_count","juvenile_offender_count","offender_race","offender_ethnicity","victim_count","offense_name","total_individual_victims","location_name","bias_desc","victim_types","multiple_offense","multiple_bias"
+"2021-02-22","2012","City","TX","Texas","2012-02-22",1.0,0.0,1,1.0,0.0,"Black or African American","Not Hispanic or Latino",1,"Simple Assault",1.0,"Hotel/Motel","Anti-Hispanic or Latino",Individual,S,S
+"2022-08-15","1993","Township","MI","Michigan","1993-08-15",0.0,0.0,1,0.0,1.0,"White","Hispanic or Latino",1,"Vandalism",1.0,"Highway/Road/Alley/Street/Sidewalk","Anti-Jewish",Individual,S,S
+"2019-09-18","2000","City","FL","Florida","2000-09-18",0.0,0.0,1,0.0,1.0,"American Indian or Alaska Native","Not Specified",1,"Larceny/Theft",1.0,"Other Public Space","Anti-Gay (Female)",Individual,S,S
+"2008-01-10","1995","County","NC","North Carolina","1995-01-10",0.0,0.0,1,0.0,1.0,"White","Not Hispanic or Latino",1,"Intimidation",1.0,"School/College","Anti-Asian",Individual,S,S
+"2005-03-28","1996","Other","GA","Georgia","1996-03-28",0.0,0.0,1,0.0,1.0,"Hispanic or Latino","Not Hispanic or Latino",1,"Arson",1.0,"Hotel/Motel","Anti-Gay (Male)",Individual,S,S
+"2015-05-25","2008","City","NY","New York","2008-05-25",0.0,0.0,1,0.0,1.0,"Black or African American","Not Hispanic or Latino",1,"Vandalism",1.0,"Other Public Space","Anti-Jewish",Individual,S,S
+"2020-10-31","2017","Township","IL","Illinois","2017-10-31",0.0,0.0,1,0.0,1.0,"White","Not Hispanic or Latino",1,"Simple Assault",1.0,"Highway/Road/Alley/Street/Sidewalk","Anti-Asian",Individual,S,S
+"1986-09-16","1998","County","LA","Louisiana","1998-09-16",0.0,0.0,1,0.0,1.0,"American Indian or Alaska Native","Not Specified",1,"Larceny/Theft",1.0,"Other Public Space","Anti-Gay (Female)",Individual,S,S
+"2014-07-23","2004","City","OH","Ohio","2004-07-23",0.0,0.0,1,0.0,1.0,"Hispanic or Latino","Not Hispanic or Latino",1,"Vandalism",1.0,"Hotel/Motel","Anti-Jewish",Individual,S,S
+"2016-04-22","2010","Township","ME","Maine","2010-04-22",0.0,0.0,1,0.0,1.0,"White","Not Hispanic or Latino",1,"Simple Assault",1.0,"Highway/Road/Alley/Street/Sidewalk","Anti-Asian",Individual,S,S
+"1978-06-21","1994","Other","TN","Tennessee","1994-06-21",0.0,0.0,1,0.0,1.0,"Black or African American","Not Hispanic or Latino",1,"Arson",1.0,"Other Public Space","Anti-Gay (Male)",Individual,S,S
+"2006-12-06","1999","County","OR","Oregon","1999-12-06",0.0,0.0,1,0.0,1.0,"White","Not Hispanic or Latino",1,"Simple Assault",1.0,"Highway/Road/Alley/Street/Sidewalk","Anti-Hispanic or Latino",Individual,S,S
+"1984-03-12","2002","City","AZ","Arizona","2002-03-12",0.0,0.0,1,0.0,1.0,"Hispanic or Latino","Not Hispanic or Latino",1,"Larceny/Theft",1.0,"Other Public Space","Anti-Gay (Female)",Individual,S,S
+"1992-05-09","1992","City","VT","Vermont","1992-05-09",0.0,0.0,1,0.0,1.0,"American Indian or Alaska Native","Not Specified",1,"Intimidation",1.0,"School/College","Anti-Asian",Individual,S,S
+"2013-08-29","2009","Township","SC","South Carolina","2009-08-29",0.0,0.0,1,0.0,1.0,"Black or African American","Not Hispanic or Latino",1,"Vandalism",1.0,"Hotel/Motel","Anti-Jewish",Individual,S,S
+"2018-11-23","2005","County","AK","Alaska","2005-11-23",0.0,0.0,1,0.0,1.0,"White","Not Hispanic or Latino",1,"Arson",1.0,"Highway/Road/Alley/Street/Sidewalk","Anti-Hispanic or Latino",Individual,S,S
+"1985-06-23","2001","City","MS","Mississippi","2001-06-23",0.0,0.0,1,0.0,1.0,"American Indian or Alaska Native","Not Specified",1,"Larceny/Theft",1.0,"Other Public Space","Anti-Gay (Female)",Individual,S,S
+"1981-05-16","1997","Other","ND","North Dakota","1997-05-16",0.0,0.0,1,0.0,1.0,"Black or African American","Not Hispanic or Latino",1,"Intimidation",1.0,"School/College","Anti-Asian",Individual,S,S
+"2009-02-19","2015","Township","IN","Indiana","2015-02-19",0.0,0.0,1,0.0,1.0,"White","Not Hispanic or Latino",1,"Simple Assault",1.0,"Highway/Road/Alley/Street/Sidewalk","Anti-Hispanic or Latino",Individual,S,S
+"1973-09-26","1996","City","IA","Iowa","1996-09-26",0.0,0.0,1,0.0,1.0,"Hispanic or Latino","Not Hispanic or Latino",1,"Larceny/Theft",1.0,"Other Public Space","Anti-Gay (Male)",Individual,S,S
+"2011-06-03","2003","County","DE","Delaware","2003-06-03",0.0,0.0,1,0.0,1.0,"White","Not Hispanic or Latino",1,"Intimidation",1.0,"School/College","Anti-Asian",Individual,S,S
+"1988-03-11","1999","Other","OH","Ohio","1999-03-11",0.0,0.0,1,0.0,1.0,"Black or African American","Not Hispanic or Latino",1,"Arson",1.0,"Other Public Space","Anti-Jewish",Individual,S,S
+"1977-02-26","2006","Township","WY","Wyoming","2006-02-26",0.0,0.0,1,0.0,1.0,"Hispanic or Latino","Not Hispanic or Latino",1,"Simple Assault",1.0,"Highway/Road/Alley/Street/Sidewalk","Anti-Hispanic or Latino",Individual,S,S
+"1980-08-25","2007","City","CO","Colorado","2007-08-25",0.0,0.0,1,0.0,1.0,"White","Not Hispanic or Latino",1,"Vandalism",1.0,"Hotel/Motel","Anti-Jewish",Individual,S,S
+"1970-11-11","1998","County","NE","Nebraska","1998-11-11",0.0,0.0,1,0.0,1.0,"American Indian or Alaska Native","Not Specified",1,"Larceny/Theft",1.0,"Other Public Space","Anti-Gay (Female)",Individual,S,S
+"1987-11-25","2003","Other","UT","Utah","2003-11-25",0.0,0.0,1,0.0,1.0,"Black or African American","Not Hispanic or Latino",1,"Arson",1.0,"Highway/Road/Alley/Street/Sidewalk","Anti-Asian",Individual,S,S
+"1964-02-05","2009","City","GA","Georgia","2009-02-05",0.0,0.0,1,0.0,1.0,"Hispanic or Latino","Not Hispanic or Latino",1,"Intimidation",1.0,"School/College","Anti-Hispanic or Latino",Individual,S,S
+"1972-12-18","2005","Township","KS","Kansas","2005-12-18",0.0,0.0,1,0.0,1.0,"White","Not Hispanic or Latino",1,"Simple Assault",1.0,"Highway/Road/Alley/Street/Sidewalk","Anti-Jewish",Individual,S,S
+"1982-06-01","2004","County","ID","Idaho","2004-06-01",0.0,0.0,1,0.0,1.0,"American Indian or Alaska Native","Not Specified",1,"Vandalism",1.0,"Hotel/Motel","Anti-Gay (Male)",Individual,S,S
+"1975-02-20","2002","Other","MO","Missouri","2002-02-20",0.0,0.0,1,0.0,1.0,"Black or African American","Not Hispanic or Latino",1,"Larceny/Theft",1.0,"Other Public Space","Anti-Hispanic or Latino",Individual,S,S
+"1979-08-17","2001","City","MT","Montana","2001-08-17",0.0,0.0,1,0.0,1.0,"Hispanic or Latino","Not Hispanic or Latino",1,"Intimidation",1.0,"School/College","Anti-Asian",Individual,S,S
+"1976-04-09","1999","Township","NV","Nevada","1999-04-09",0.0,0.0,1,0.0,1.0,"White","Not Hispanic or Latino",1,"Arson",1.0,"Highway/Road/Alley/Street/Sidewalk","Anti-Jewish",Individual,S,S
+"1969-01-15","2008","County","KY","Kentucky","2008-01-15",0.0,0.0,1,0.0,1.0,"American Indian or Alaska Native","Not Specified",1,"Simple Assault",1.0,"Other Public Space","Anti-Gay (Female)",Individual,S,S
+"1983-11-28","2011","Other","PA","Pennsylvania","2011-11-28",0.0,0.0,1,0.0,1.0,"Black or African American","Not Hispanic or Latino",1,"Vandalism",1.0,"Hotel/Motel","Anti-Hispanic or Latino",Individual,S,S
+"1971-08-22","2006","City","NV","Nevada","2006-08-22",0.0,0.0,1,0.0,1.0,"Hispanic or Latino","Not Hispanic or Latino",1,"Intimidation",1.0,"School/College","Anti-Asian",Individual,S,S
+"1968-09-26","2004","Township","AR","Arkansas","2004-09-26",0.0,0.0,1,0.0,1.0,"White","Not Hispanic or Latino",1,"Simple Assault",1.0,"Highway/Road/Alley/Street/Sidewalk","Anti-Jewish",Individual,S,S
+"1974-02-14","2003","County","VT","Vermont","2003-02-14",0.0,0.0,1,0.0,1.0,"American Indian or Alaska Native","Not Specified",1,"Larceny/Theft",1.0,"Other Public Space","Anti-Gay (Female)",Individual,S,S
+"1989-09-04","2014","Other","CT","Connecticut","2014-09-04",0.0,0.0,1,0.0,1.0,"Black or African American","Not Hispanic or Latino",1,"Arson",1.0,"Highway/Road/Alley/Street/Sidewalk","Anti-Asian",Individual,S,S
+"1967-05-29","2009","City","OK","Oklahoma","2009-05-29",0.0,0.0,1,0.0,1.0,"Hispanic or Latino","Not Hispanic or Latino",1,"Intimidation",1.0,"School/College","Anti-Hispanic or Latino",Individual,S,S
+"1966-02-13","2007","Township","SD","South Dakota","2007-02-13",0.0,0.0,1,0.0,1.0,"White","Not Hispanic or Latino",1,"Vandalism",1.0,"Hotel/Motel","Anti-Jewish",Individual,S,S
+"1965-10-10","2010","County","RI","Rhode Island","2010-10-10",0.0,0.0,1,0.0,1.0,"American Indian or Alaska Native","Not Specified",1,"Larceny/Theft",1.0,"Other Public Space","Anti-Gay (Female)",Individual,S,S

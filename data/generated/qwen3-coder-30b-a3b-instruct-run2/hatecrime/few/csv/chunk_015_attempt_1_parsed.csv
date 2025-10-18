@@ -1,0 +1,59 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,City,FL,Florida,1991-03-15,1.0,0.0,2,1.0,1.0,White,Not Hispanic or Latino,1,Assault with Serious Bodily Injury,1.0,Hospital,Anti-Jewish,Other,N,N
+1992,Federal,MD,Maryland,1992-11-22,,1.0,1,0.0,1.0,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Office Building,Anti-Hispanic,Individual,N,N
+1993,State,VA,Virginia,1993-08-09,0.0,1.0,3,2.0,1.0,Black or African American,Not Specified,1,Aggravated Assault,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Individual,N,N
+1994,County,NC,North Carolina,1994-01-17,2.0,3.0,4,2.0,2.0,Hispanic or Latino,Hispanic,5,Simple Assault,10.0,Grocery Store,Anti-Gay (Male),Other,Y,Y
+1995,Local,IL,Illinois,1995-06-30,1.0,0.0,2,1.0,1.0,White,Not Hispanic or Latino,1,Physical Attack,1.0,Public Park,Anti-African American,Individual,N,N
+1996,City,TX,Texas,1996-09-12,0.0,2.0,1,0.0,1.0,Unknown,Not Specified,2,Destruction/Damage/Vandalism of Property,2.0,Elementary School,Anti-Asian,Individual,N,N
+1997,Other,GA,Georgia,1997-02-28,3.0,1.0,1,1.0,0.0,White,Not Hispanic or Latino,4,Criminal Mischief,4.0,Shopping Mall,Anti-Jewish,Individual,N,N
+1998,Federal,WI,Wisconsin,1998-04-14,0.0,0.0,1,0.0,1.0,Black or African American,Not Specified,1,Assault with Serious Bodily Injury,1.0,Religious Institution,Anti-Hispanic,Other,N,N
+1999,State,CO,Colorado,1999-07-19,2.0,0.0,3,2.0,1.0,Hispanic or Latino,Hispanic,2,Simple Assault,2.0,College/University,Anti-Gay (Female),Individual,N,N
+2000,County,TN,Tennessee,2000-12-03,1.0,2.0,2,1.0,1.0,White,Not Hispanic or Latino,3,Destruction/Damage/Vandalism of Property,3.0,Residence,Anti-Asian,Individual,N,N
+2001,Local,AZ,Arizona,2001-05-21,0.0,1.0,1,0.0,1.0,Unknown,Not Specified,1,Aggravated Assault,1.0,Restaurant,Anti-African American,Other,N,N
+2002,City,NY,New York,2002-03-07,1.0,3.0,2,1.0,1.0,White,Not Hispanic or Latino,4,Physical Attack,4.0,K-12 School,Anti-Jewish,Individual,N,N
+2003,Other,OH,Ohio,2003-10-18,3.0,2.0,4,2.0,2.0,Hispanic or Latino,Hispanic,5,Simple Assault,5.0,Public Transportation Facility,Anti-Hispanic,Other,N,N
+2004,State,PA,Pennsylvania,2004-01-30,0.0,1.0,1,0.0,1.0,Black or African American,Not Specified,1,Assault with Serious Bodily Injury,1.0,Bar/Brewery,Anti-Gay (Male),Individual,N,N
+2005,County,WA,Washington,2005-06-22,1.0,0.0,3,2.0,1.0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Public Library,Anti-Asian,Individual,N,N
+2006,Local,OR,Oregon,2006-09-11,2.0,1.0,2,1.0,1.0,Unknown,Not Specified,3,Physical Attack,3.0,Store/Apt/Other Commercial Site,Anti-African American,Other,N,N
+2007,City,MI,Michigan,2007-08-05,0.0,2.0,1,0.0,1.0,Hispanic or Latino,Hispanic,2,Aggravated Assault,2.0,Church,Anti-Jewish,Individual,N,N
+2008,Other,NV,Nevada,2008-02-14,1.0,0.0,2,1.0,1.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Rest Area/Airport Parking,Anti-Gay (Female),Individual,N,N
+2009,State,MA,Massachusetts,2009-11-02,0.0,0.0,1,0.0,1.0,Black or African American,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Hospital,Anti-Asian,Individual,N,N
+2010,County,AL,Alabama,2010-04-17,1.0,1.0,1,1.0,0.0,White,Not Hispanic or Latino,2,Aggravated Assault,2.0,K-12 School,Anti-African American,Other,N,N
+2011,Local,FL,Florida,2011-07-29,0.0,2.0,1,0.0,1.0,Hispanic or Latino,Hispanic,2,Physical Attack,2.0,Public Transit Vehicle,Anti-Jewish,Individual,N,N
+2012,City,GA,Georgia,2012-09-13,3.0,0.0,2,2.0,0.0,Unknown,Not Specified,3,Simple Assault,3.0,Funeral Home,Anti-Hispanic,Individual,N,N
+2013,Other,SC,South Carolina,2013-02-24,0.0,1.0,3,2.0,1.0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Church,Anti-Gay (Male),Individual,N,N
+2014,State,VT,Vermont,2014-05-16,1.0,3.0,4,3.0,1.0,Hispanic or Latino,Hispanic,4,Aggravated Assault,4.0,College/University,Anti-Asian,Other,N,N
+1991,County,WA,Washington,1991-12-08,2.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,2,Simple Assault,2.0,School/College,Anti-Jewish,Individual,N,N
+1992,Federal,WV,West Virginia,1992-07-22,,0.0,1,0.0,1.0,Hispanic or Latino,Hispanic,1,Assault with Serious Bodily Injury,1.0,Air/Bus/Train Terminal,Anti-African American,Other,S,S
+1993,Other,NE,Nebraska,1993-10-14,0.0,1.0,2,1.0,1.0,Black or African American,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Community Center,Anti-Gay (Male),Individual,N,N
+1994,Local,KS,Kansas,1994-06-03,3.0,2.0,2,1.0,1.0,White,Not Hispanic or Latino,5,Physical Attack,5.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Individual,N,N
+1995,City,AR,Arkansas,1995-01-09,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,1,Aggravated Assault,1.0,Residence,Anti-Jewish,Other,N,N
+1996,State,TX,Texas,1996-05-17,1.0,2.0,3,2.0,1.0,Hispanic or Latino,Hispanic,3,Simple Assault,3.0,Church,Anti-African American,Individual,N,N
+1997,Country,MT,Montana,1997-08-20,2.0,1.0,2,1.0,1.0,White,Not Hispanic or Latino,3,Destruction/Damage/Vandalism of Property,3.0,School/College,Anti-Gay (Female),Other,N,N
+1998,County,ID,Idaho,1998-11-28,0.0,1.0,1,0.0,1.0,Black or African American,Not Specified,1,Physical Attack,1.0,Store/Apt/Other Commercial Site,Anti-Asian,Individual,N,N
+1999,Local,UT,Utah,1999-03-19,1.0,3.0,2,1.0,1.0,White,Not Hispanic or Latino,4,Aggravated Assault,4.0,Grocery Store,Anti-Jewish,Individual,N,N
+2000,Other,MN,Minnesota,2000-04-11,3.0,0.0,3,2.0,1.0,Unknown,Not Specified,3,Destruction/Damage/Vandalism of Property,3.0,Library,Anti-African American,Individual,N,N
+2001,State,RI,Rhode Island,2001-12-02,1.0,2.0,1,1.0,0.0,Hispanic or Latino,Hispanic,3,Simple Assault,3.0,K-12 School,Anti-Gay (Male),Other,N,N
+2002,County,DE,Delaware,2002-02-16,,1.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Assault with Serious Bodily Injury,1.0,Public Park,Anti-Asian,Individual,N,N
+2003,Local,WY,Wyoming,2003-07-09,2.0,2.0,2,2.0,0.0,Unknown,Not Specified,4,Aggravated Assault,4.0,Restaurant,Anti-Jewish,Individual,N,N
+2004,City,AZ,Arizona,2004-09-22,3.0,1.0,2,1.0,1.0,White,Not Hispanic or Latino,4,Physical Attack,4.0,Public Library,Anti-African American,Other,N,N
+2005,Other,CA,California,2005-05-11,0.0,0.0,1,0.0,1.0,Black or African American,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Hospital,Anti-Gay (Female),Individual,N,N
+2006,State,IL,Illinois,2006-10-01,0.0,3.0,3,2.0,1.0,Hispanic or Latino,Hispanic,3,Simple Assault,3.0,Office Building,Anti-Asian,Individual,N,N
+2007,County,IN,Indiana,2007-03-20,1.0,2.0,1,1.0,0.0,White,Not Hispanic or Latino,3,Destruction/Damage/Vandalism of Property,3.0,Air/Bus/Train Terminal,Anti-African American,Other,N,N
+2008,Local,GA,Georgia,2008-06-05,2.0,0.0,2,1.0,1.0,Unknown,Not Specified,2,Aggravated Assault,2.0,School/College,Anti-Jewish,Individual,N,N
+2009,City,NH,New Hampshire,2009-08-17,0.0,1.0,1,0.0,1.0,Black or African American,Not Specified,1,Physical Attack,1.0,Church,Anti-African American,Individual,N,N
+2010,Other,CT,Connecticut,2010-11-19,3.0,2.0,3,3.0,0.0,White,Not Hispanic or Latino,5,Simple Assault,5.0,Shopping Mall,Anti-Gay (Male),Other,N,N
+2011,State,MD,Maryland,2011-04-07,0.0,0.0,1,0.0,1.0,Hispanic or Latino,Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,College/University,Anti-Asian,Individual,N,N
+2012,County,RI,Rhode Island,2012-01-31,1.0,1.0,2,1.0,1.0,White,Not Hispanic or Latino,2,Aggravated Assault,2.0,Hospital,Anti-Jewish,Individual,N,N
+2013,Local,ME,Maine,2013-07-23,2.0,0.0,1,1.0,0.0,Unknown,Not Specified,2,Physical Attack,2.0,Public Park,Anti-Asian,Individual,N,N
+2014,Other,OK,Oklahoma,2014-02-10,0.0,0.0,1,0.0,1.0,Black or African American,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Retail Store,Anti-Gay (Male),Other,N,N
+1991,State,OR,Oregon,1991-07-13,1.0,2.0,3,2.0,1.0,White,Not Hispanic or Latino,3,Simple Assault,3.0,K-12 School,Anti-Jewish,Individual,N,N
+1992,County,PA,Pennsylvania,1992-09-28,2.0,1.0,3,2.0,1.0,Hispanic or Latino,Hispanic,3,Destruction/Damage/Vandalism of Property,3.0,Public Transit Vehicle,Anti-African American,Other,N,N
+1993,Local,NM,New Mexico,1993-02-15,1.0,3.0,1,1.0,0.0,White,Not Hispanic or Latino,4,Aggravated Assault,4.0,Residence,Anti-Gay (Female),Individual,N,N
+1994,Other,WI,Wisconsin,1994-05-30,0.0,0.0,2,1.0,1.0,Black or African American,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Restaurant,Anti-Asian,Individual,N,N
+1995,City,SC,South Carolina,1995-12-08,1.0,1.0,1,1.0,0.0,Unknown,Not Specified,2,Physical Attack,2.0,Store/Apt/Other Commercial Site,Anti-Jewish,Other,N,N
+1996,State,NV,Nevada,1996-03-17,2.0,0.0,3,2.0,1.0,White,Not Hispanic or Latino,2,Simple Assault,2.0,School/College,Anti-African American,Individual,N,N
+1997,County,AZ,Arizona,1997-08-23,0.0,1.0,1,0.0,1.0,Hispanic or Latino,Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,Office Building,Anti-Gay (Male),Individual,N,N
+1998,Local,LA,Louisiana,1998-11-10,2.0,2.0,2,1.0,1.0,White,Not Hispanic or Latino,4,Aggravated Assault,4.0,Community Center,Anti-Asian,Other,N,N
+1999,City,MD,Maryland,1999-06-03,0.0,3.0,3,2.0,1.0,Black or African American,Not Specified,3,Physical Attack,3.0,Public Library,Anti-Jewish,Individual,N,N
+2000,Other,NC,North Carolina,2000-10-22,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,College/University,Anti-African American,Individual,N,N

@@ -1,0 +1,49 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2004,City,NJ,New Jersey,2004-05-13,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Black or African American,Other,S,S
+1991,Township,CT,Connecticut,1991-07-22,1,0,2,1,1,White,Unknown,1,Simple Assault,1.0,Residential Area,Anti-White,Male,1,N
+1991,County,SC,South Carolina,1991-09-01,0,0,1,1,0,Black,Hispanic,1,Intimidation,1.0,Public Transport,Anti-White,Female,1,N
+1991,Municipality,IL,Illinois,1991-10-25,1,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residential Area,Anti-Black or African American,Male,1,Y
+1991,County,CA,California,1991-11-15,0,1,1,0,1,Asian,Unknown,1,Simple Assault,1.0,Public Park,Anti-White,Male,1,N
+1991,City,GA,Georgia,1991-12-01,0,0,1,1,0,Black,Hindu,1,Simple Assault,1.0,Residential Area,Anti-Hispanic or Latino,Male,1,Y
+1992,Municipality,FL,Florida,1992-01-15,1,0,2,1,1,White,Unknown,1,Simple Assault,1.0,Public Highway,Anti-White,Male,1,N
+1992,Township,MI,Michigan,1992-02-22,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residential Area,Anti-Black or African American,Male,1,Y
+1992,County,NC,North Carolina,1992-03-01,0,1,1,0,1,White,Unknown,1,Simple Assault,1.0,Public Park,Anti-Black or African American,Male,1,N
+1992,City,OH,Ohio,1992-04-15,1,0,1,1,0,Black,Unknown,1,Simple Assault,1.0,Commercial Area,Anti-White,Female,1,Y
+1992,County,WA,Washington,1992-05-01,0,0,1,1,0,Asian,Unknown,1,Simple Assault,1.0,Public Highway,Anti-Hispanic or Latino,Male,1,N
+1992,Municipality,TX,Texas,1992-06-10,1,0,2,1,1,White,Unknown,1,Simple Assault,1.0,Public Park,Anti-Black or African American,Male,1,Y
+1992,Township,NY,NY,1992-07-20,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residential Area,Anti-Hispanic or Latino,Male,1,N
+1992,City,PA,Pennsylvania,1992-08-15,1,0,1,1,0,Black,Unknown,1,Simple Assault,1.0,Public Highway,Anti-White,Male,1,Y
+1992,Municipality,IL,Illinois,1992-09-25,0,1,1,0,1,Asian,Unknown,1,Simple Assault,1.0,Commercial Area,Anti-Black or African American,Male,1,N
+1992,County,CA,California,1992-10-01,0,0,2,1,1,White,Unknown,1,Simple Assault,1.0,Residential Area,Anti-Hispanic or Latino,Male,1,Y
+1992,Township,GA,Georgia,1992-11-15,1,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Public Highway,Anti-White,Female,1,N
+1992,City,FL,Florida,1992-12-01,0,0,1,1,0,Black,Unknown,1,Simple Assault,1.0,Commercial Area,Anti-Hispanic or Latino,Male,1,Y
+1993,Municipality,MI,Michigan,1993-01-15,1,0,1,1,0,White,Unknown,1,Simple Assault,1.0,Public Highway,Anti-Black or African American,Male,1,N
+1993,Township,NC,North Carolina,1993-02-22,0,1,1,0,1,Asian,Unknown,1,Simple Assault,1.0,Public Park,Anti-White,Male,1,Y
+1993,County,OH,Ohio,1993-03-01,1,0,2,1,1,Black,Unknown,1,Simple Assault,1.0,Residential Area,Anti-Hispanic or Latino,Male,1,N
+1993,City,WI,Wisconsin,1993-04-15,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Commercial Area,Anti-White,Female,1,Y
+1993,County,WA,Washington,1993-05-01,1,0,1,1,0,White,Unknown,1,Simple Assault,1.0,Public Highway,Anti-Black or African American,Male,1,N
+1993,Municipality,TX,Texas,1993-06-10,0,1,1,0,1,Asian,Unknown,1,Simple Assault,1.0,Public Park,Anti-Hispanic or Latino,Male,1,Y
+1993,Township,NY,NY,1993-07-20,1,0,2,1,1,Black,Unknown,1,Simple Assault,1.0,Residential Area,Anti-White,Male,1,N
+1993,City,PA,Pennsylvania,1993-08-15,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Public Highway,Anti-Black or African American,Male,1,Y
+1993,Municipality,IL,Illinois,1993-09-25,1,0,1,1,0,White,Unknown,1,Simple Assault,1.0,Commercial Area,Anti-Hispanic or Latino,Female,1,N
+1993,County,CA,California,1993-10-01,0,1,1,0,1,Asian,Unknown,1,Simple Assault,1.0,Public Park,Anti-White,Male,1,Y
+1993,Township,GA,Georgia,1993-11-15,1,0,2,1,1,Black,Unknown,1,Simple Assault,1.0,Residential Area,Anti-Hispanic or Latino,Male,1,N
+1993,City,FL,Florida,1993-12-01,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Commercial Area,Anti-White,Female,1,Y
+1994,Municipality,MI,Michigan,1994-01-15,1,0,1,1,0,White,Unknown,1,Simple Assault,1.0,Public Highway,Anti-Black or African American,Male,1,N
+1994,Township,NC,North Carolina,1994-02-22,0,1,1,0,1,Asian,Unknown,1,Simple Assault,1.0,Public Park,Anti-White,Male,1,Y
+1994,County,OH,Ohio,1994-03-01,1,0,2,1,1,Black,Unknown,1,Simple Assault,1.0,Residential Area,Anti-Hispanic or Latino,Male,1,N
+1994,City,WI,Wisconsin,1994-04-15,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Commercial Area,Anti-White,Female,1,Y
+1994,County,WA,Washington,1994-05-01,1,0,1,1,0,White,Unknown,1,Simple Assault,1.0,Public Highway,Anti-Black or African American,Male,1,N
+1994,Municipality,TX,Texas,1994-06-10,0,1,1,0,1,Asian,Unknown,1,Simple Assault,1.0,Public Park,Anti-Hispanic or Latino,Male,1,Y
+1994,Township,NY,NY,1994-07-20,1,0,2,1,1,Black,Unknown,1,Simple Assault,1.0,Residential Area,Anti-White,Male,1,N
+1994,City,PA,Pennsylvania,1994-08-15,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Public Highway,Anti-Black or African American,Male,1,Y
+1994,Municipality,IL,Illinois,1994-09-25,1,0,1,1,0,White,Unknown,1,Simple Assault,1.0,Commercial Area,Anti-Hispanic or Latino,Female,1,N
+1994,County,CA,California,1994-10-01,0,1,1,0,1,Asian,Unknown,1,Simple Assault,1.0,Public Park,Anti-White,Male,1,Y
+1994,Township,GA,Georgia,1994-11-15,1,0,2,1,1,Black,Unknown,1,Simple Assault,1.0,Residential Area,Anti-Hispanic or Latino,Male,1,N
+1994,City,FL,Florida,1994-12-01,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Commercial Area,Anti-White,Female,1,Y
+1995,Municipality,MI,Michigan,1995-01-15,1,0,1,1,0,White,Unknown,1,Simple Assault,1.0,Public Highway,Anti-Black or African American,Male,1,N
+1995,Township,NC,North Carolina,1995-02-22,0,1,1,0,1,Asian,Unknown,1,Simple Assault,1.0,Public Park,Anti-White,Male,1,Y
+1995,County,OH,Ohio,1995-03-01,1,0,2,1,1,Black,Unknown,1,Simple Assault,1.0,Residential Area,Anti-Hispanic or Latino,Male,1,N
+1995,City,WI,Wisconsin,1995-04-15,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Commercial Area,Anti-White,Female,1,Y
+1995,County,WA,Washington,1995-05-01,1,0,1,1,0,White,Unknown,1,Simple Assault,1.0,Public Highway,Anti-Black or African American,Male,1,N
+1995,Municipality,TX,Texas,1995-06-10,0,1,1,0,1,Asian,Unknown,1,Simple Assault,1.0,Public Park,Anti-Hispanic or Latino,Male,1,Y

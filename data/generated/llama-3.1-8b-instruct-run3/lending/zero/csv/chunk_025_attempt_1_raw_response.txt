@@ -1,0 +1,107 @@
+"activity_year","derived_msa-md","state_code","county_code","census_tract","derived_loan_product_type","derived_dwelling_category","derived_ethnicity","derived_race","derived_sex","action_taken","loan_purpose","loan_amount","loan_to_value_ratio","interest_rate","rate_spread","hoepa_status","total_loan_costs","total_points_and_fees","origination_charges","discount_points","lender_credits","loan_term","prepayment_penalty_term","intro_rate_period","negative_amortization","interest_only_payment","balloon_payment","other_nonamortizing_features","property_value","construction_method","occupancy_type","manufactured_home_secured_property_type","manufactured_home_land_property_interest","total_units","multifamily_affordable_units","income","debt_to_income_ratio","applicant_credit_score_type","co-applicant_credit_score_type","applicant_ethnicity-1","co-applicant_ethnicity-1","applicant_ethnicity_observed","co-applicant_ethnicity_observed","applicant_race-1","co-applicant_race-1","applicant_race_observed","co-applicant_race_observed","applicant_sex","co-applicant_sex","applicant_sex_observed","co-applicant_sex_observed","applicant_age","co-applicant_age","applicant_age_above_62","co-applicant_age_above_62","submission_of_application","initially_payable_to_institution"
+
+"2024","San Francisco-Oakland-Hayward, CA","CA","06001","06110400600","Conventional","Single-family home",,"Hispanic or Latino","Male","Approved","Home Purchase",150000.0,0.8,5.5,0.0,0.0,"Not a high-cost mortgage",150000,0,0,0,0,15,15,0,0,1,0,1,0,"White",,"White","Male","Male",30,35,0,0,"By mail","Legacy Mortgage Bankers"
+
+"2024","Los Angeles-Long Beach-Anaheim, CA","CA","06007","06110400500","FHA","Condominium",,"Hispanic or Latino","Female","Approved","Home Purchase",200000.0,0.7,4.2,0.0,0.0,"Not a high-cost mortgage",200000,0,0,0,0,15,15,0,0,1,0,1,0,"White",,"White","Female","Female",40,45,0,0,"By mail","Alliance Mortgage Capital Corp"
+
+"2024","New York-Newark-Jersey City, NY-NJ-PA","NY","36061","06110001100","VA","Manufactured home",,"Asian","Female","Approved","Home Purchase",120000.0,0.9,6.1,0.0,0.0,"Not a high-cost mortgage",120000,0,0,0,0,10,10,0,0,1,0,1,0,"White",,"White","Female","Female",25,30,0,0,"By mail","Mr. Cooper"
+
+"2024","Chicago-Naperville-Elgin, IL-IN-WI","IL","17039","06110005900","Conventional","Townhouse",,"Black or African American","Male","Approved","Home Purchase",180000.0,0.85,5.9,0.0,0.0,"Not a high-cost mortgage",180000,0,0,0,0,12,12,0,0,1,0,1,0,"White",,"White","Male","Male",35,40,0,0,"By mail","Fairway Independent Mortgage Corp"
+
+"2024","Dallas-Fort Worth-Arlington, TX","TX","48001","06120000700","FHA","Condominium",,"Hispanic or Latino","Female","Approved","Home Purchase",220000.0,0.75,4.5,0.0,0.0,"Not a high-cost mortgage",220000,0,0,0,0,15,15,0,0,1,0,1,0,"White",,"White","Female","Female",38,43,0,0,"By mail","Quicken Loans"
+
+"2024","Houston-The Woodlands-Sugar Land, TX","TX","48003","06120001600","Conventional","Manufactured home",,"Asian","Male","Approved","Home Purchase",140000.0,0.8,5.2,0.0,0.0,"Not a high-cost mortgage",140000,0,0,0,0,10,10,0,0,1,0,1,0,"White",,"White","Male","Male",28,33,0,0,"By mail","Nationwide Mortgage Bankers"
+
+"2024","Washington-Baltimore-Arlington, DC-MD-VA","MD","24001","06110006100","VA","Single-family home",,"Black or African American","Female","Approved","Home Purchase",160000.0,0.85,5.7,0.0,0.0,"Not a high-cost mortgage",160000,0,0,0,0,12,12,0,0,1,0,1,0,"White",,"White","Female","Female",32,37,0,0,"By mail","Caliber Home Loans"
+
+"2024","Atlanta-Sandy Springs-Roswell, GA","GA","14001","06150000400","Conventional","Townhouse",,"White","Male","Approved","Home Purchase",170000.0,0.9,6.3,0.0,0.0,"Not a high-cost mortgage",170000,0,0,0,0,13,13,0,0,1,0,1,0,"White",,"White","Male","Male",36,41,0,0,"By mail","Movement Mortgage LLC"
+
+"2024","Phoenix-Mesa-Scottsdale, AZ","AZ","04001","06070000600","FHA","Condominium",,"Hispanic or Latino","Female","Approved","Home Purchase",210000.0,0.7,4.1,0.0,0.0,"Not a high-cost mortgage",210000,0,0,0,0,15,15,0,0,1,0,1,0,"White",,"White","Female","Female",42,47,0,0,"By mail","United Wholesale Mortgage"
+
+"2024","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","PA","42001","06080002200","Conventional","Manufactured home",,"Asian","Male","Approved","Home Purchase",130000.0,0.8,5.1,0.0,0.0,"Not a high-cost mortgage",130000,0,0,0,0,10,10,0,0,1,0,1,0,"White",,"White","Male","Male",29,34,0,0,"By mail","Mr. Cooper"
+
+"2024","Boston-Cambridge-Nashua, MA-NH","MA","25001","06090001000","VA","Single-family home",,"White","Female","Approved","Home Purchase",190000.0,0.85,5.6,0.0,0.0,"Not a high-cost mortgage",190000,0,0,0,0,12,12,0,0,1,0,1,0,"White",,"White","Female","Female",31,36,0,0,"By mail","Guaranteed Rate"
+
+"2024","Detroit-Warren-Dearborn, MI","MI","26001","06100001000","Conventional","Townhouse",,"Black or African American","Male","Approved","Home Purchase",160000.0,0.9,6.2,0.0,0.0,"Not a high-cost mortgage",160000,0,0,0,0,13,13,0,0,1,0,1,0,"White",,"White","Male","Male",37,42,0,0,"By mail","United Wholesale Mortgage"
+
+"2024","Seattle-Tacoma-Bellevue, WA","WA","53001","06120001700","FHA","Condominium",,"Hispanic or Latino","Female","Approved","Home Purchase",230000.0,0.75,4.4,0.0,0.0,"Not a high-cost mortgage",230000,0,0,0,0,15,15,0,0,1,0,1,0,"White",,"White","Female","Female",39,44,0,0,"By mail","Mr. Cooper"
+
+"2024","Minneapolis-St. Paul-Bloomington, MN-WI","MN","27001","06110001300","Conventional","Manufactured home",,"Asian","Male","Approved","Home Purchase",140000.0,0.8,5.0,0.0,0.0,"Not a high-cost mortgage",140000,0,0,0,0,10,10,0,0,1,0,1,0,"White",,"White","Male","Male",26,31,0,0,"By mail","Quicken Loans"
+
+"2024","Denver-Aurora-Lakewood, CO","CO","08001","06070001500","FHA","Condominium",,"Hispanic or Latino","Female","Approved","Home Purchase",240000.0,0.7,4.0,0.0,0.0,"Not a high-cost mortgage",240000,0,0,0,0,15,15,0,0,1,0,1,0,"White",,"White","Female","Female",41,46,0,0,"By mail","United Wholesale Mortgage"
+
+"2024","Portland-Vancouver-Hillsboro, OR-WA","OR","41001","06120001200","Conventional","Single-family home",,"Black or African American","Male","Approved","Home Purchase",180000.0,0.85,5.8,0.0,0.0,"Not a high-cost mortgage",180000,0,0,0,0,12,12,0,0,1,0,1,0,"White",,"White","Male","Male",33,38,0,0,"By mail","Movement Mortgage LLC"
+
+"2024","San Jose-Sunnyvale-Santa Clara, CA","CA","06001","06110400500","VA","Manufactured home",,"Asian","Female","Approved","Home Purchase",110000.0,0.9,6.0,0.0,0.0,"Not a high-cost mortgage",110000,0,0,0,0,10,10,0,0,1,0,1,0,"White",,"White","Female","Female",24,29,0,0,"By mail","Guaranteed Rate"
+
+"2024","Columbus, OH","OH","39001","06110000800","FHA","Condominium",,"Hispanic or Latino","Male","Approved","Home Purchase",200000.0,0.75,4.3,0.0,0.0,"Not a high-cost mortgage",200000,0,0,0,0,15,15,0,0,1,0,1,0,"White",,"White","Male","Male",40,45,0,0,"By mail","United Wholesale Mortgage"
+
+"2024","Charlotte-Concord-Gastonia, NC-SC","NC","37001","06160000500","Conventional","Townhouse",,"Black or African American","Female","Approved","Home Purchase",170000.0,0.9,6.4,0.0,0.0,"Not a high-cost mortgage",170000,0,0,0,0,13,13,0,0,1,0,1,0,"White",,"White","Female","Female",37,42,0,0,"By mail","Mr. Cooper"
+
+"2024","St. Louis, MO-IL","MO","29001","06110000300","VA","Manufactured home",,"Asian","Male","Approved","Home Purchase",120000.0,0.8,5.3,0.0,0.0,"Not a high-cost mortgage",120000,0,0,0,0,10,10,0,0,1,0,1,0,"White",,"White","Male","Male",27,32,0,0,"By mail","Guaranteed Rate"
+
+"2024","Raleigh-Durham-Chapel Hill, NC","NC","37005","06160001100","Conventional","Single-family home",,"Hispanic or Latino","Female","Approved","Home Purchase",220000.0,0.85,5.5,0.0,0.0,"Not a high-cost mortgage",220000,0,0,0,0,12,12,0,0,1,0,1,0,"White",,"White","Female","Female",35,40,0,0,"By mail","Movement Mortgage LLC"
+
+"2024","Kansas City, MO-KS","MO","29003","06110001700","FHA","Condominium",,"White","Male","Approved","Home Purchase",190000.0,0.75,4.2,0.0,0.0,"Not a high-cost mortgage",190000,0,0,0,0,15,15,0,0,1,0,1,0,"White",,"White","Male","Male",41,46,0,0,"By mail","United Wholesale Mortgage"
+
+"2024","Miami-Fort Lauderdale-West Palm Beach, FL","FL","12001","06170000900","Conventional","Manufactured home",,"Black or African American","Female","Approved","Home Purchase",150000.0,0.9,6.5,0.0,0.0,"Not a high-cost mortgage",150000,0,0,0,0,13,13,0,0,1,0,1,0,"White",,"White","Female","Female",38,43,0,0,"By mail","Mr. Cooper"
+
+"2024","Orlando-Kissimmee-Sanford, FL","FL","12009","06170001500","VA","Single-family home",,"Asian","Male","Approved","Home Purchase",140000.0,0.8,5.1,0.0,0.0,"Not a high-cost mortgage",140000,0,0,0,0,10,10,0,0,1,0,1,0,"White",,"White","Male","Male",26,31,0,0,"By mail","Guaranteed Rate"
+
+"2024","Oakland-Hayward-Berkeley, CA","CA","06001","06110400800","Conventional","Condominium",,"Hispanic or Latino","Female","Approved","Home Purchase",250000.0,0.7,4.0,0.0,0.0,"Not a high-cost mortgage",250000,0,0,0,0,15,15,0,0,1,0,1,0,"White",,"White","Female","Female",43,48,0,0,"By mail","United Wholesale Mortgage"
+
+"2024","Oklahoma City, OK","OK","40001","06180001300","FHA","Manufactured home",,"Asian","Male","Approved","Home Purchase",110000.0,0.9,6.1,0.0,0.0,"Not a high-cost mortgage",110000,0,0,0,0,10,10,0,0,1,0,1,0,"White",,"White","Male","Male",25,30,0,0,"By mail","Movement Mortgage LLC"
+
+"2024","Nashville-Davidson--Murfreesboro--Franklin, TN","TN","47001","06190000500","Conventional","Single-family home",,"White","Female","Approved","Home Purchase",210000.0,0.85,5.4,0.0,0.0,"Not a high-cost mortgage",210000,0,0,0,0,12,12,0,0,1,0,1,0,"White",,"White","Female","Female",34,39,0,0,"By mail","Mr. Cooper"
+
+"2024","Cleveland-Elyria, OH","OH","39003","06110000500","VA","Manufactured home",,"Asian","Male","Approved","Home Purchase",130000.0,0.8,5.2,0.0,0.0,"Not a high-cost mortgage",130000,0,0,0,0,10,10,0,0,1,0,1,0,"White",,"White","Male","Male",28,33,0,0,"By mail","United Wholesale Mortgage"
+
+"2024","St. Paul-Minneapolis, MN-WI","MN","27003","06110001800","FHA","Condominium",,"Hispanic or Latino","Female","Approved","Home Purchase",220000.0,0.75,4.3,0.0,0.0,"Not a high-cost mortgage",220000,0,0,0,0,15,15,0,0,1,0,1,0,"White",,"White","Female","Female",42,47,0,0,"By mail","Guaranteed Rate"
+
+"2024","Austin-Round Rock-Georgetown, TX","TX","48005","06120001400","Conventional","Single-family home",,"Black or African American","Male","Approved","Home Purchase",180000.0,0.9,6.3,0.0,0.0,"Not a high-cost mortgage",180000,0,0,0,0,13,13,0,0,1,0,1,0,"White",,"White","Male","Male",36,41,0,0,"By mail","Movement Mortgage LLC"
+
+"2024","Memphis, TN-MS-AR","TN","47005","06190001900","FHA","Manufactured home",,"Asian","Female","Approved","Home Purchase",150000.0,0.8,5.1,0.0,0.0,"Not a high-cost mortgage",150000,0,0,0,0,10,10,0,0,1,0,1,0,"White",,"White","Female","Female",27,32,0,0,"By mail","United Wholesale Mortgage"
+
+"2024","Milwaukee-Waukesha-West Allis, WI","WI","55001","06110001900","Conventional","Single-family home",,"Hispanic or Latino","Male","Approved","Home Purchase",160000.0,0.85,5.6,0.0,0.0,"Not a high-cost mortgage",160000,0,0,0,0,12,12,0,0,1,0,1,0,"White",,"White","Male","Male",32,37,0,0,"By mail","Mr. Cooper"
+
+"2024","Baltimore-Columbia-Towson, MD","MD","24005","06110002000","VA","Manufactured home",,"Asian","Female","Approved","Home Purchase",140000.0,0.8,5.0,0.0,0.0,"Not a high-cost mortgage",140000,0,0,0,0,10,10,0,0,1,0,1,0,"White",,"White","Female","Female",25,30,0,0,"By mail","Guaranteed Rate"
+
+"2024","Virginia Beach-Norfolk-Newport News, VA-NC","VA","51001","06130000300","FHA","Single-family home",,"Black or African American","Male","Approved","Home Purchase",220000.0,0.85,5.7,0.0,0.0,"Not a high-cost mortgage",220000,0,0,0,0,12,12,0,0,1,0,1,0,"White",,"White","Male","Male",33,38,0,0,"By mail","United Wholesale Mortgage"
+
+"2024","Portland-Vancouver-Hillsboro, OR-WA","OR","41003","06120001100","Conventional","Manufactured home",,"White","Female","Approved","Home Purchase",190000.0,0.9,6.5,0.0,0.0,"Not a high-cost mortgage",190000,0,0,0,0,13,13,0,0,1,0,1,0,"White",,"White","Female","Female",39,44,0,0,"By mail","Movement Mortgage LLC"
+
+"2024","Cincinnati, OH-KY-IN","OH","39005","06110000600","FHA","Condominium",,"Hispanic or Latino","Male","Approved","Home Purchase",200000.0,0.75,4.4,0.0,0.0,"Not a high-cost mortgage",200000,0,0,0,0,15,15,0,0,1,0,1,0,"White",,"White","Male","Male",41,46,0,0,"By mail","Mr. Cooper"
+
+"2024","Pittsburgh, PA","PA","42003","06080001900","Conventional","Single-family home",,"Black or African American","Female","Approved","Home Purchase",180000.0,0.85,5.9,0.0,0.0,"Not a high-cost mortgage",180000,0,0,0,0,12,12,0,0,1,0,1,0,"White",,"White","Female","Female",34,39,0,0,"By mail","United Wholesale Mortgage"
+
+"2024","Indianapolis-Carmel-Anderson, IN","IN","18001","06100000700","VA","Manufactured home",,"Asian","Male","Approved","Home Purchase",130000.0,0.8,5.0,0.0,0.0,"Not a high-cost mortgage",130000,0,0,0,0,10,10,0,0,1,0,1,0,"White",,"White","Male","Male",26,31,0,0,"By mail","Guaranteed Rate"
+
+"2024","Louisville/Jefferson County, KY-IN","KY","21001","06140000200","FHA","Single-family home",,"Hispanic or Latino","Female","Approved","Home Purchase",220000.0,0.75,4.2,0.0,0.0,"Not a high-cost mortgage",220000,0,0,0,0,15,15,0,0,1,0,1,0,"White",,"White","Female","Female",42,47,0,0,"By mail","United Wholesale Mortgage"
+
+"2024","Oklahoma City, OK","OK","40003","06180001400","Conventional","Condominium",,"Black or African American","Male","Approved","Home Purchase",200000.0,0.9,6.3,0.0,0.0,"Not a high-cost mortgage",200000,0,0,0,0,13,13,0,0,1,0,1,0,"White",,"White","Male","Male",37,42,0,0,"By mail","Movement Mortgage LLC"
+
+"2024","Knoxville, TN","TN","47003","06190001800","FHA","Manufactured home",,"Asian","Female","Approved","Home Purchase",160000.0,0.8,5.2,0.0,0.0,"Not a high-cost mortgage",160000,0,0,0,0,10,10,0,0,1,0,1,0,"White",,"White","Female","Female",28,33,0,0,"By mail","United Wholesale Mortgage"
+
+"2024","Providence-Warwick, RI-MA","RI","44001","06100001000","VA","Single-family home",,"Hispanic or Latino","Male","Approved","Home Purchase",220000.0,0.85,5.7,0.0,0.0,"Not a high-cost mortgage",220000,0,0,0,0,12,12,0,0,1,0,1,0,"White",,"White","Male","Male",33,38,0,0,"By mail","Guaranteed Rate"
+
+"2024","Hartford-East Hartford-Middletown, CT","CT","09001","06070001200","Conventional","Manufactured home",,"Asian","Female","Approved","Home Purchase",190000.0,0.8,5.1,0.0,0.0,"Not a high-cost mortgage",190000,0,0,0,0,10,10,0,0,1,0,1,0,"White",,"White","Female","Female",29,34,0,0,"By mail","United Wholesale Mortgage"
+
+"2024","Raleigh-Durham-Chapel Hill, NC","NC","37007","06160001200","VA","Single-family home",,"Black or African American","Male","Approved","Home Purchase",240000.0,0.85,5.8,0.0,0.0,"Not a high-cost mortgage",240000,0,0,0,0,12,12,0,0,1,0,1,0,"White",,"White","Male","Male",34,39,0,0,"By mail","Movement Mortgage LLC"
+
+"2024","Columbus, OH","OH","39007","06110000900","FHA","Condominium",,"Hispanic or Latino","Female","Approved","Home Purchase",200000.0,0.75,4.3,0.0,0.0,"Not a high-cost mortgage",200000,0,0,0,0,15,15,0,0,1,0,1,0,"White",,"White","Female","Female",41,46,0,0,"By mail","Mr. Cooper"
+
+"2024","Kansas City, MO-KS","MO","29007","06110001800","Conventional","Manufactured home",,"Asian","Male","Approved","Home Purchase",150000.0,0.8,5.1,0.0,0.0,"Not a high-cost mortgage",150000,0,0,0,0,10,10,0,0,1,0,1,0,"White",,"White","Male","Male",27,32,0,0,"By mail","Guaranteed Rate"
+
+"2024","Miami-Fort Lauderdale-West Palm Beach, FL","FL","12007","06170001000","FHA","Single-family home",,"Hispanic or Latino","Female","Approved","Home Purchase",240000.0,0.85,5.9,0.0,0.0,"Not a high-cost mortgage",240000,0,0,0,0,12,12,0,0,1,0,1,0,"White",,"White","Female","Female",35,40,0,0,"By mail","United Wholesale Mortgage"
+
+"2024","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","PA","42007","06080002600","Conventional","Manufactured home",,"Asian","Male","Approved","Home Purchase",160000.0,0.8,5.2,0.0,0.0,"Not a high-cost mortgage",160000,0,0,0,0,10,10,0,0,1,0,1,0,"White",,"White","Male","Male",29,34,0,0,"By mail","Movement Mortgage LLC"
+
+"2024","Detroit-Warren-Dearborn, MI","MI","26007","06100001100","FHA","Condominium",,"Black or African American","Female","Approved","Home Purchase",220000.0,0.75,4.4,0.0,0.0,"Not a high-cost mortgage",220000,0,0,0,0,15,15,0,0,1,0,1,0,"White",,"White","Female","Female",42,47,0,0,"By mail","United Wholesale Mortgage"
+
+"2024","Tampa-St. Petersburg-Clearwater, FL","FL","12009","06170001200","VA","Manufactured home",,"Asian","Male","Approved","Home Purchase",180000.0,0.8,5.0,0.0,0.0,"Not a high-cost mortgage",180000,0,0,0,0,10,10,0,0,1,0,1,0,"White",,"White","Male","Male",27,32,0,0,"By mail","Guaranteed Rate"
+
+"2024","Cleveland-Elyria, OH","OH","39009","06110000700","FHA","Single-family home",,"Hispanic or Latino","Female","Approved","Home Purchase",240000.0,0.85,5.8,0.0,0.0,"Not a high-cost mortgage",240000,0,0,0,0,12,12,0,0,1,0,1,0,"White",,"White","Female","Female",34,39,0,0,"By mail","United Wholesale Mortgage"
+
+"2024","St. Louis, MO-IL","MO","29009","06110000200","Conventional","Manufactured home",,"Black or African American","Male","Approved","Home Purchase",220000.0,0.9,6.4,0.0,0.0,"Not a high-cost mortgage",220000,0,0,0,0,13,13,0,0,1,0,1,0,"White",,"White","Male","Male",37,42,0,0,"By mail","Movement Mortgage LLC"
+
+"2024","Seattle-Tacoma-Bellevue, WA","WA","53009","06120001800","FHA","Condominium",,"Hispanic or Latino","Female","Approved","Home Purchase",230000.0,0.75,4.5,0.0,0.0,"Not a high-cost mortgage",230000,0,0,0,0,15,15,0,0,1,0,1,0,"White",,"White","Female","Female",43,48,0,0,"By mail","Mr. Cooper"

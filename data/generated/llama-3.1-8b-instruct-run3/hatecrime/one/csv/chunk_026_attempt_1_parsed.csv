@@ -1,0 +1,41 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2004,City,CA,California,2004-08-27,1,0,1,1,0,Hispanic or Latino,White,1,Simple Assault,1.0,Residence/Housing Unit,Anti-White,Other,O,O
+2003,Town,FL,Florida,2004-03-03,0,0,1,0,1,White,Unknown,1,Intimidation,0.0,Business/Commercial,Anti-Hispanic or Latino,Other,S,S
+1997,City,NY,New York,1997-09-15,1,0,1,1,0,Black or African American,Asian,1,Larceny-Theft,1.0,Residence/Housing Unit,Anti-Asian,Other,O,O
+1991,Town,IL,Illinois,1991-02-18,0,1,1,0,1,Unknown,Hispanic or Latino,1,Simple Assault,1.0,Residence/Housing Unit,Anti-Hispanic or Latino,Other,S,O
+2008,Town,MI,Michigan,2008-11-10,0,0,1,0,1,White,Black or African American,1,Intimidation,0.0,Residence/Housing Unit,Anti-White,Other,O,O
+2009,City,MA,Massachusetts,2009-06-25,0,0,1,0,1,Asian,Asian,1,Simple Assault,1.0,Residence/Housing Unit,Anti-Asian,Other,O,O
+1999,Town,NC,North Carolina,1999-05-02,1,0,1,1,0,White,White,1,Vandalism,0.0,Residence/Housing Unit,Anti-White,Other,S,S
+2005,City,TX,Texas,2005-01-15,0,0,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,Residence/Housing Unit,Anti-Hispanic or Latino,Other,O,O
+2006,City,OH,Ohio,2006-08-12,1,0,1,1,0,Black or African American,Black or African American,1,Burglary,0.0,Residence/Housing Unit,Anti-Black or African American,Other,S,S
+2000,Town,GA,Georgia,2000-12-14,0,0,1,0,1,Asian,Asian,1,Intimidation,0.0,Residence/Housing Unit,Anti-Asian,Other,O,O
+2001,City,MD,Maryland,2001-03-11,0,0,1,0,1,White,White,1,Simple Assault,1.0,Residence/Housing Unit,Anti-White,Other,O,O
+2007,City,WA,Washington,2007-04-05,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,Residence/Housing Unit,Anti-Hispanic or Latino,Other,O,O
+2002,City,SC,South Carolina,2002-09-26,0,0,1,0,1,Black or African American,Black or African American,1,Intimidation,0.0,Residence/Housing Unit,Anti-Black or African American,Other,O,O
+1992,Town,IN,Indiana,1992-11-21,0,1,1,0,1,Unknown,Unknown,1,Larceny-Theft,1.0,Residence/Housing Unit,Anti-Other,Other,S,O
+1996,City,CT,Connecticut,1996-02-08,0,0,1,0,1,Black or African American,Black or African American,1,Simple Assault,1.0,Residence/Housing Unit,Anti-Black or African American,Other,O,O
+2003,City,AL,Alabama,2003-11-18,0,0,1,0,1,White,White,1,Intimidation,0.0,Residence/Housing Unit,Anti-White,Other,O,O
+2006,City,WI,Wisconsin,2006-01-04,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,Residence/Housing Unit,Anti-Hispanic or Latino,Other,O,O
+1998,Town,MO,Missouri,1998-06-07,0,0,1,0,1,White,White,1,Vandalism,0.0,Business/Commercial,Anti-White,Other,S,S
+2009,Town,PA,Pennsylvania,2009-09-01,1,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,1.0,Residence/Housing Unit,Anti-Black or African American,Other,O,O
+2007,City,RI,Rhode Island,2007-10-06,0,0,1,0,1,White,White,1,Simple Assault,1.0,Residence/Housing Unit,Anti-White,Other,O,O
+1994,Town,ME,Maine,1994-04-24,0,0,1,0,1,Unknown,Unknown,1,Vandalism,0.0,Residence/Housing Unit,Anti-Other,Other,S,S
+2005,City,KS,Kansas,2005-05-23,0,0,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Intimidation,0.0,Residence/Housing Unit,Anti-Hispanic or Latino,Other,O,O
+2004,City,UT,Utah,2004-02-07,1,0,1,1,0,Asian,Asian,1,Simple Assault,1.0,Residence/Housing Unit,Anti-Asian,Other,O,O
+2008,City,NE,Nebraska,2008-03-17,0,0,1,0,1,White,White,1,Intimidation,0.0,Residence/Housing Unit,Anti-White,Other,O,O
+2002,City,VT,Vermont,2002-07-03,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,Residence/Housing Unit,Anti-Hispanic or Latino,Other,O,O
+2000,City,OK,Oklaoma,2000-08-09,0,0,1,0,1,Unknown,Unknown,1,Simple Assault,1.0,Residence/Housing Unit,Anti-Other,Other,O,O
+2001,City,MT,Montana,2001-01-16,1,0,1,1,0,White,White,1,Vandalism,0.0,Residence/Housing Unit,Anti-White,Other,S,S
+1993,Town,AZ,Arizona,1993-07-07,0,0,1,0,1,Black or African American,Black or African American,1,Larceny-Theft,1.0,Residence/Housing Unit,Anti-Black or African American,Other,O,O
+2002,City,Louisiana,2002-12-09,0,0,1,0,1,White,White,1,Simple Assault,1.0,Residence/Housing Unit,Anti-White,Other,O,O,
+1995,Town,MN,Minnestota,1995-09-24,0,1,1,0,1,Unknown,Unknown,1,Vandalism,0.0,Residence/Housing Unit,Anti-Other,Other,S,S
+1997,City,ID,Idaho,1997-03-13,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,Residence/Housing Unit,Anti-Hispanic or Latino,Other,O,O
+2003,City,NM,New Mexico,2003-10-06,0,0,1,0,1,Black or African American,Black or African American,1,Intimidation,0.0,Residence/Housing Unit,Anti-Black or African American,Other,O,O
+2006,City,ND,North Dakota,2006-09-11,1,0,1,1,0,White,White,1,Simple Assault,1.0,Residence/Housing Unit,Anti-White,Other,O,O
+1992,City,WY,Wyoming,1992-06-12,0,0,1,0,1,Unknown,Unknown,1,Vandalism,0.0,Residence/Housing Unit,Anti-Other,Other,S,S
+2005,City,CO,Colorado,2005-12-17,1,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,1.0,Residence/Housing Unit,Anti-Black or African American,Other,O,O
+1999,Town,DE,Delaware,1999-08-08,0,0,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Intimidation,0.0,Residence/Housing Unit,Anti-Hispanic or Latino,Other,O,O
+2008,Town,AR,Kansas,2008-05-25,0,0,1,0,1,Asian,Asian,1,Simple Assault,1.0,Residence/Housing Unit,Anti-Asian,Other,O,O
+2004,City,HI,Hawaii,2004-06-24,1,0,1,1,0,White,White,1,Simple Assault,1.0,Residence/Housing Unit,Anti-White,Other,O,O
+2000,City,IA,Iowa,2000-04-29,0,0,1,0,1,Black or African American,Black or African American,1,Intimidation,0.0,Residence/Housing Unit,Anti-Black or African American,Other,O,O
+2007,City,VT,Vermont,2007-02-04,0,0,1,0,1,White,White,1,Intimidation,0.0,Residence/Housing Unit,Anti-White,Other,O,O

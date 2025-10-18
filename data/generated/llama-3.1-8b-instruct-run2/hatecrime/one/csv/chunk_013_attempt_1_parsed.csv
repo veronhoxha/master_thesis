@@ -1,0 +1,38 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2004,City,NJ,New Jersey,2004-03-21,1,0,2,1,1,Asian,Asian,2,Murder,2.0,Hospital,Anti-Asian,Adult,Other,S
+2004,City,NJ,New Jersey,2004-04-15,0,1,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-Hispanic,Other,S,
+2004,Suburban,NY,New York,2004-02-05,1,0,1,1,0,Unknown,Unknown,1,Vandalism,1.0,Commercial,Anti-Jewish,Adult,Other,S
+2004,Township,PA,Pennsylvania,2004-08-22,0,0,2,2,0,Unknown,Unknown,2,Intimidation,2.0,Residence,Anti-LGBTQ+,Other,S,
+2004,City,CA,California,2004-10-12,1,0,1,1,0,White,White,1,Simple Assault,1.0,Residence,Anti-Government,Adult,Other,S
+2004,City,CA,California,2004-11-20,0,0,1,1,0,Unknown,Unknown,1,Hate Crime Against Children,1.0,Residence,Anti-Hispanic,Other,S,
+2004,Suburban,TX,Texas,2004-03-18,1,0,2,1,1,Unknown,Unknown,3,Destruction/Damage/Vandalism of Property,3.0,School/College,Anti-LGBTQ+,Other,S,
+2004,Suburban,TX,Texas,2004-04-28,0,1,1,1,0,Asian,Asian,1,Simple Assault,1.0,Residence,Anti-Asian,Other,S,
+2004,Township,TX,Texas,2004-09-15,1,0,1,1,0,Unknown,Unknown,1,Intimidation,1.0,Commercial,Anti-Muslim,Adult,Other,S
+2004,City,WI,Wisconsin,2004-05-12,1,0,2,1,1,Unknown,Unknown,3,Aggravated Assault,3.0,Residence,Anti-White,Other,S,
+2004,Suburban,WI,Wisconsin,2004-06-25,0,1,1,1,0,Black,Black,1,Simple Assault,1.0,School/College,Anti-Black or African American,Other,S,
+2004,Township,WI,Wisconsin,2004-07-20,0,0,2,2,0,Unknown,Unknown,2,Destruction/Damage/Vandalism of Property,2.0,Residence,Anti-LGBTQ+,Other,S,
+2004,City,WA,Washington,2004-08-18,1,0,1,1,0,Asian,Asian,1,Murder,1.0,Residence,Anti-Asian,Adult,Other,S
+2004,Suburban,WA,Washington,2004-09-25,0,0,1,1,0,White,White,1,Hate Crime Against Children,1.0,Commercial,Anti-Government,Other,S,
+2004,Township,WA,Washington,2004-10-29,1,0,2,1,1,Unknown,Unknown,3,Destruction/Damage/Vandalism of Property,3.0,School/College,Anti-LGBTQ+,Other,S,
+2004,City,IL,Illinois,2004-01-10,0,1,1,1,0,Black,Black,1,Simple Assault,1.0,Residence,Anti-Black or African American,Other,S,
+2004,City,IL,Illinois,2004-02-14,1,0,2,1,1,Unknown,Unknown,3,Destruction/Damage/Vandalism of Property,3.0,School/College,Anti-Hispanic,Other,S,
+2004,Suburban,IL,Illinois,2004-03-10,0,0,1,1,0,Asian,Asian,1,Simple Assault,1.0,Commercial,Anti-Asian,Other,S,
+2004,Township,IL,Illinois,2004-04-05,1,0,1,1,0,Unknown,Unknown,1,Intimidation,1.0,Residence,Anti-Muslim,Adult,Other,S
+2004,City,IL,Illinois,2004-05-02,1,0,2,1,1,Unknown,Unknown,3,Aggravated Assault,3.0,Residence,Anti-White,Other,S,
+2004,Suburban,IL,Illinois,2004-05-18,0,1,1,1,0,Black,Black,1,Simple Assault,1.0,Residence,Anti-Black or African American,Other,S,
+2004,Township,IL,Illinois,2004-06-04,1,0,1,1,0,Unknown,Unknown,1,Murder,1.0,Commercial,Anti-Government,Adult,Other,S
+2004,City,IL,Illinois,2004-06-19,0,1,2,2,0,Unknown,Unknown,3,Simple Assault,3.0,School/College,Anti-Hispanic,Other,S,
+2004,Suburban,IL,Illinois,2004-07-01,1,0,1,1,0,White,White,1,Hate Crime Against Children,1.0,Residence,Anti-White,Other,S,
+2004,Township,IL,Illinois,2004-07-22,0,0,2,2,0,Unknown,Unknown,2,Destruction/Damage/Vandalism of Property,2.0,Residence,Anti-LGBTQ+,Other,S,
+2004,City,IL,Illinois,2004-08-03,1,0,1,1,0,Unknown,Unknown,1,Intimidation,1.0,Commercial,Anti-Muslim,Adult,Other,S
+2004,Suburban,IL,Illinois,2004-08-19,0,1,1,1,0,Black,Black,1,Simple Assault,1.0,Residence,Anti-Black or African American,Other,S,
+2004,Township,IL,Illinois,2004-09-02,1,0,2,1,1,Unknown,Unknown,3,Destruction/Damage/Vandalism of Property,3.0,School/College,Anti-Hispanic,Other,S,
+2004,City,IL,Illinois,2004-09-16,0,1,2,2,0,Unknown,Unknown,3,Simple Assault,3.0,Residence,Anti-LGBTQ+,Other,S,
+2004,Suburban,IL,Illinois,2004-09-27,1,0,1,1,0,White,White,1,Hate Crime Against Children,1.0,Commercial,Anti-Government,Other,S,
+2004,Township,IL,Illinois,2004-10-06,0,0,2,2,0,Unknown,Unknown,2,Destruction/Damage/Vandalism of Property,2.0,Residence,Anti-LGBTQ+,Other,S,
+2004,City,IL,Illinois,2004-10-21,1,0,1,1,0,Unknown,Unknown,1,Intimidation,1.0,Commercial,Anti-Muslim,Adult,Other,S
+2004,Suburban,IL,Illinois,2004-10-29,0,1,1,1,0,Black,Black,1,Simple Assault,1.0,Residence,Anti-Black or African American,Other,S,
+2004,Township,IL,Illinois,2004-11-03,1,0,2,1,1,Unknown,Unknown,3,Destruction/Damage/Vandalism of Property,3.0,School/College,Anti-Hispanic,Other,S,
+2004,City,IL,Illinois,2004-11-17,0,1,2,2,0,Unknown,Unknown,3,Simple Assault,3.0,Residence,Anti-LGBTQ+,Other,S,
+2004,Suburban,IL,Illinois,2004-11-25,1,0,1,1,0,White,White,1,Hate Crime Against Children,1.0,Commercial,Anti-Government,Other,S,
+2004,Township,IL,Illinois,2004-12-01,0,0,2,2,0,Unknown,Unknown,2,Destruction/Damage/Vandalism of Property,2.0,Residence,Anti-LGBTQ+,Other,S,

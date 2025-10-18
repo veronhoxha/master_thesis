@@ -1,0 +1,57 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1992,County,ZA,South Carolina,1992-03-15,2,0,3,2,1,White,Not Specified,2,Assault,2.0,Bank,Anti-Black or African American,Other,S,S
+2001,Tribal,OK,Oklahoma,2001-11-28,1,0,1,1,0,Native American,Hispanic,1,Aggravated Assault,1.0,Residence,Anti-American Indian or Alaska Native,Male,S,S
+1995,State,IL,Illinois,1995-07-04,3,1,4,3,1,White,Not Specified,4,Intimidation,4.0,Highway,Anti-Jewish,All,S,S
+2003,Municipal,MD,Maryland,2003-09-12,0,2,2,1,1,Black,Black,2,Simple Assault,2.0,Park,Anti-Hispanic/Latino,Female,S,S
+1998,County,WA,Washington,1998-02-20,1,0,1,1,0,Asian,Asian,1,Deception,1.0,Office Building,Anti-Asian/Pacific Islander,Other,S,S
+2006,Municipal,TX,Texas,2006-04-17,0,1,1,0,1,White,Not Specified,1,Robbery,1.0,Restaurant,Anti-Homosexual,Other,S,S
+1993,State,NY,New York,1993-10-29,2,0,2,2,0,White,White,2,Destruction/Damage/Vandalism of Property,2.0,School/College,Anti-Gay or Lesbian,Other,S,S
+2010,Tribal,MN,Minnesota,2010-06-08,1,0,1,1,0,Hispanic,Hispanic,1,Aggravated Assault,1.0,Residence,Anti-Black or African American,Male,S,S
+2004,County,CA,California,2004-12-01,0,1,1,0,1,Native American,Not Specified,1,Assault,1.0,College Campus,Anti-American Indian or Alaska Native,Female,S,S
+2009,Municipal,WI,Wisconsin,2009-08-14,2,0,2,2,0,White,Not Specified,2,Intimidation,2.0,Store,Anti-Jewish,Other,S,S
+1996,State,FL,Florida,1996-01-30,0,2,2,1,1,Black,Not Specified,2,Simple Assault,2.0,Hospital,Anti-Hispanic/Latino,Other,S,S
+2002,County,VA,Virginia,2002-05-22,1,0,1,1,0,Asian,Asian,1,Destruction/Damage/Vandalism of Property,1.0,Library,Anti-Asian/Pacific Islander,Other,S,S
+2005,Municipal,MI,Michigan,2005-03-18,0,1,1,0,1,White,Not Specified,1,Robbery,1.0,Residence,Anti-Homosexual,Male,S,S
+1997,State,MO,Missouri,1997-11-07,2,0,3,2,1,White,Not Specified,2,Aggravated Assault,2.0,Public Transportation,Anti-Black or African American,Other,S,S
+2011,Tribal,CO,Colorado,2011-09-25,1,0,1,1,0,Hispanic,Hispanic,1,Assault,1.0,Church,Anti-American Indian or Alaska Native,Female,S,S
+1999,County,GA,Georgia,1999-04-11,3,0,3,3,0,Black,Black,3,Intimidation,3.0,Office Building,Anti-Jewish,Other,S,S
+2007,Municipal,OR,Oregon,2007-02-16,0,1,1,0,1,White,Not Specified,1,Simple Assault,1.0,University Campus,Anti-Hispanic/Latino,Male,S,S
+2000,State,AL,Alabama,2000-12-21,1,0,2,1,1,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Housing Complex,Anti-Asian/Pacific Islander,Female,S,S
+2008,County,SC,South Carolina,2008-07-03,2,0,2,2,0,White,White,2,Aggravated Assault,2.0,Restaurant,Anti-Gay or Lesbian,Other,S,S
+2003,Municipal,KS,Kansas,2003-08-19,0,1,1,0,1,Ethnicity Unknown,Not Specified,1,Rape,1.0,Housing Complex,Anti-Homosexual,Male,S,S
+1994,State,TN,Tennessee,1994-06-10,1,0,2,1,1,White,Not Specified,1,Intimidation,1.0,Shopping Mall,Anti-Black or African American,Female,S,S
+2013,County,NC,Carolina,2013-03-04,0,2,2,1,1,Native American,Not Specified,2,Assault,2.0,Home/Apartment,Anti-American Indian or Alaska Native,Other,S,S
+2001,State,OH,Ohio,2001-10-22,2,0,2,2,0,White,White,2,Simple Assault,2.0,Government Building,Anti-Jewish,Other,S,S
+2012,Municipal,MA,Massachusetts,2012-11-15,1,0,1,1,0,Hispanic,Hispanic,1,Deception,1.0,Residence,Anti-Asian/Pacific Islander,Other,S,S
+2004,County,PA,Pennsylvania,2004-04-28,0,1,1,0,1,White,Not Specified,1,Robbery,1.0,Office Building,Anti-Homosexual,Male,S,S
+1995,State,IA,Iowa,1995-08-31,1,0,1,1,0,Black,Black,1,Aggravated Assault,1.0,College Campus,Anti-Black or African American,Other,S,S
+2006,Municipal,VT,Vermont,2006-12-13,0,1,1,0,1,Hispanic,Hispanic,1,Assault,1.0,Residence,Anti-American Indian or Alaska Native,Female,S,S
+2009,State,DE,Delaware,2009-05-07,2,0,2,2,0,White,Not Specified,2,Intimidation,2.0,Residence,Anti-Jewish,Other,S,S
+2002,County,MT,Montana,2002-01-21,1,0,3,2,1,Ethnicity Unknown,Not Specified,1,Simple Assault,1.0,Store,Anti-Hispanic/Latino,Male,S,S
+2007,State,ME,Maine,2007-09-14,0,2,2,1,1,White,White,2,Destruction/Damage/Vandalism of Property,2.0,Library,Anti-Asian/Pacific Islander,Other,S,S
+2005,Municipal,ID,Idaho,2005-07-09,2,0,2,2,0,White,Not Specified,2,Aggravated Assault,2.0,Government Building,Anti-Gay or Lesbian,Other,S,S
+1998,County,NE,Nebraska,1998-10-03,0,1,1,0,1,Native American,Native American,1,Rape,1.0,Church,Anti-American Indian or Alaska Native,Female,S,S
+2014,Municipal,KY,Kentucky,2014-02-18,1,0,1,1,0,White,White,1,Assault,1.0,Public Transportation,Anti-Jewish,Male,S,S
+2000,State,AR,Arkansas,2000-05-11,0,1,1,0,1,Black,Not Specified,1,Robbery,1.0,Park,Anti-Homosexual,Other,S,S
+2003,County,NH,New Hampshire,2003-08-05,2,0,2,2,0,Hispanic,Hispanic,2,Intimidation,2.0,University Campus,Anti-Asian/Pacific Islander,Other,S,S
+2009,Municipal,IN,Indiana,2009-11-23,0,1,1,0,1,White,Not Specified,1,Simple Assault,1.0,Residence,Anti-Homosexual,Male,S,S
+1996,State,LA,Louisiana,1996-03-09,1,0,3,2,1,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Housing Complex,Anti-Black or African American,Female,S,S
+2010,County,RI,Rhode Island,2010-06-16,0,1,1,0,1,Native American,Not Specified,1,Aggravated Assault,1.0,Residence,Anti-American Indian or Alaska Native,Other,S,S
+2001,Municipal,NV,Nevada,2001-09-27,2,0,2,2,0,White,White,2,Assault,2.0,Bank,Anti-Jewish,Other,S,S
+2008,State,OK,Oklahoma,2008-12-14,0,1,1,0,1,Black,Black,1,Deception,1.0,Hospital,Anti-Hispanic/Latino,Male,S,S
+1992,County,CT,Connecticut,1992-04-08,1,0,1,1,0,White,Not Specified,1,Intimidation,1.0,School/College,Anti-Gay or Lesbian,Female,S,S
+2011,Municipal,WA,Washington,2011-07-30,0,1,1,0,1,Hispanic,Hispanic,1,Rape,1.0,Office Building,Anti-American Indian or Alaska Native,Other,S,S
+2007,State,VT,Vermont,2007-01-17,2,0,2,2,0,White,Not Specified,2,Aggravated Assault,2.0,Residence,Anti-Black or African American,Male,S,S
+2002,County,WV,West Virginia,2002-08-24,0,1,1,0,1,Asian,Asian,1,Simple Assault,1.0,Store,Anti-Asian/Pacific Islander,Female,S,S
+1999,Municipal,MS,Mississippi,1999-05-20,1,0,1,1,0,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Restaurant,Anti-Jewish,Other,S,S
+2004,State,SD,South Dakota,2004-10-15,0,1,1,0,1,White,Not Specified,1,Robbery,1.0,Housing Complex,Anti-Homosexual,Male,S,S
+2010,Municipal,GA,Georgia,2010-03-08,2,0,3,2,1,Black,Black,2,Assault,2.0,Colleges and Universities,Anti-Black or African American,Female,S,S
+2005,County,OR,Oregon,2005-06-13,0,1,1,0,1,Hispanic,Hispanic,1,Intimidation,1.0,Church,Anti-Asian/Pacific Islander,Other,S,S
+1997,Municipal,DC,Dist. Columbia,1997-11-26,1,0,1,1,0,White,Not Specified,1,Simple Assault,1.0,Public Transportation,Anti-Homosexual,Male,S,S
+2000,State,FL,Florida,2000-02-10,0,1,1,0,1,White,White,1,Destruction/Damage/Vandalism of Property,1.0,University Campus,Anti-Jewish,Female,S,S
+2006,County,MN,Minnesota,2006-09-30,2,0,2,2,0,Ethnicity Unknown,Not Specified,2,Aggravated Assault,2.0,Home/Apartment,Anti-Amish/Mennonite,Other,S,S
+2009,Municipal,SC,Carolina,2009-07-18,0,1,1,0,1,White,Not Specified,1,Assault,1.0,Residence,Anti-Homosexual,Male,S,S
+2003,State,WY,Wyoming,2003-10-05,1,0,1,1,0,Hispanic,Hispanic,1,Deception,1.0,Parking Area,Anti-American Indian or Alaska Native,Other,S,S
+1994,Municipal,CA,California,1994-01-22,0,1,1,0,1,White,Not Specified,1,Rape,1.0,Apartment Complex,Anti-Hispanic/Latino,Female,S,S
+2013,County,FL,Florida,2013-04-14,2,0,2,2,0,Black,Black,2,Intimidation,2.0,School/College,Anti-Black or African American,Other,S,S
+2007,Municipal,TX,Texas,2007-11-09,0,1,1,0,1,White,White,1,Assault,1.0,Residence,Anti-Jewish,Male,S,S

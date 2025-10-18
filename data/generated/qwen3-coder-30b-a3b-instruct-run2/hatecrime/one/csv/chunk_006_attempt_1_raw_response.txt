@@ -1,0 +1,59 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,County,CA,California,1991-03-15,1,0,2,1,1,White,Not Specified,1,Assault,1.0,Residence,Anti-Jewish,Person, ,Y
+1992,Tribal,FL,Florida,1992-07-22,0,1,1,0,1,Native American,Hispanic,1,Assault,1.0,Street,Anti-American Indian or Alaska Native,Person, ,N
+1993,City,IL,Illinois,1993-11-08,2,0,3,2,1,Black,Not Specified,2,Intimidation,2.0,Office Building,Anti-Black or African American,Person, ,Y
+1994,County,MD,Maryland,1994-02-14,1,0,1,1,0,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,School/College,Anti-Black or African American,Other, ,N
+1995,City,NY,New York,1995-09-30,1,1,2,1,1,White,Not Specified,2,Assault,2.0,Bar/Social Club,Anti-Hispanic or Latino,Person, ,Y
+1996,Police Department,TX,Texas,1996-04-19,0,2,4,3,1,White,Not Specified,2,Intimidation,2.0,Park,Anti-American Indian or Alaska Native,Person, ,N
+1997,City,WA,Washington,1997-12-05,0,0,0,0,0,Unknown,Not Specified,0,Assault,0.0,Hospital,Anti-Asian Pacific Islander,Other, ,Y
+1998,County,GA,Georgia,1998-06-27,3,1,2,2,0,White,Not Specified,4,Assault,4.0,Residence,Anti-Mexican,Person, ,N
+1999,County,PA,Pennsylvania,1999-01-11,1,0,1,1,0,White,Not Specified,1,Intimidation,1.0,Restaurant,Anti-Jewish,Person, ,Y
+2000,City,NC,Carolina,2000-10-23,2,0,2,1,1,Black,Not Specified,2,Destruction/Damage/Vandalism of Property,2.0,Church,Anti-Islamic,Other, ,N
+2001,County,OR,Oregon,2001-05-03,0,1,1,0,1,White,Not Specified,1,Assault,1.0,Highway,Anti-Gay/Lesbian,Person, ,Y
+2002,Police Department,OH,Ohio,2002-08-17,1,1,2,1,1,White,Not Specified,2,Intimidation,2.0,School/College,Anti-Black or African American,Person, ,N
+2003,City,VA,Virginia,2003-12-09,0,0,0,0,0,Unknown,Not Specified,0,Destruction/Damage/Vandalism of Property,0.0,Museum,Anti-American Indian or Alaska Native,Other, ,Y
+2004,County,MI,Michigan,2004-03-28,2,0,3,2,1,Hispanic,Hispanic,2,Assault,2.0,Street,Anti-Mexican,Person, ,N
+2005,Police Department,CO,Colorado,2005-07-14,1,1,2,1,1,White,Not Specified,2,Intimidation,2.0,Hospital,Anti-White,Person, ,Y
+2006,City,CT,Connecticut,2006-11-30,0,0,0,0,0,Unknown,Not Specified,0,Assault,0.0,Hotel/Apartment,Anti-Gay/Lesbian,Person, ,N
+2007,County,SC,Carolina,2007-02-22,1,1,2,1,1,White,Not Specified,2,Destruction/Damage/Vandalism of Property,2.0,Residence,Anti-Black or African American,Other, ,Y
+2008,Police Department,WI,Wisconsin,2008-06-18,0,0,1,0,1,White,Not Specified,0,Intimidation,0.0,Mall,Anti-White,Person, ,N
+2009,City,MO,Missouri,2009-09-05,3,0,1,1,0,White,Not Specified,3,Assault,3.0,Office Building,Anti-African American,Person, ,Y
+2010,County,ID,Idaho,2010-01-13,1,0,1,1,0,White,Not Specified,1,Intimidation,1.0,Grocery Store,Anti-Muslim,Person, ,N
+2011,City,KS,Kansas,2011-04-20,0,1,2,1,1,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Library,Anti-Asian Pacific Islander,Person, ,Y
+2012,Police Department,UT,Utah,2012-08-27,2,0,3,2,1,Black,Not Specified,2,Assault,2.0,Highway,Anti-American Indian or Alaska Native,Person, ,N
+2013,City,NH,New Hampshire,2013-12-01,0,0,1,0,1,White,Not Specified,0,Intimidation,0.0,Public Park,Anti-Gay/Lesbian,Person, ,Y
+2014,County,NJ,New Jersey,2014-03-16,1,1,2,1,1,White,Not Specified,2,Assault,2.0,School/College,Anti-Hispanic or Latino,Other, ,N
+1991,City,WA,Washington,1991-05-12,0,2,3,2,1,White,Not Specified,2,Intimidation,2.0,Restaurant,Other,Person, ,Y
+1992,County,TX,Texas,1992-07-19,2,0,2,1,1,White,Not Specified,2,Assault,2.0,Park,Anti-Black or African American,Person, ,N
+1993,Police Department,FL,Florida,1993-10-08,1,1,1,1,0,White,Not Specified,2,Intimidation,2.0,Stadium,Anti-American Indian or Alaska Native,Other, ,Y
+1994,City,GA,Georgia,1994-01-23,0,1,1,0,1,Black,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Community Center,Anti-Gay/Lesbian,Person, ,N
+1995,County,VA,Virginia,1995-06-30,1,1,2,1,1,White,Not Specified,2,Assault,2.0,School/College,Anti-Hispanic or Latino,Person, ,Y
+1996,Police Department,IN,Indiana,1996-11-15,2,0,1,1,0,White,Not Specified,2,Intimidation,2.0,Hotel/Apartment,Anti-White,Person, ,N
+1997,City,NV,Nevada,1997-02-27,0,0,0,0,0,White,Not Specified,0,Assault,0.0,Hospital,Anti-Jewish,Other, ,Y
+1998,County,NY,New York,1998-08-13,1,1,2,1,1,White,Not Specified,2,Intimidation,2.0,Grocery Store,Anti-American Indian or Alaska Native,Person, ,N
+1999,City,MA,Massachusetts,1999-03-19,0,1,2,1,1,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Public Park,Anti-Asian Pacific Islander,Person, ,Y
+2000,Police Department,OR,Oregon,2000-05-04,2,0,3,2,1,White,Not Specified,2,Assault,2.0,Restaurants,Anti-Black or African American,Person, ,N
+2001,County,AL,Alabama,2001-09-22,1,0,1,1,0,White,Not Specified,1,Intimidation,1.0,Office Building,Anti-Gay/Lesbian,Person, ,Y
+2002,City,OK, Oklahoma,2002-11-11,0,1,2,1,1,White,Not Specified,1,Assault,1.0,Residence,Anti-Mexican,Other, ,N
+2003,Police Department,MN,Minnesota,2003-04-03,1,1,2,1,1,White,Not Specified,2,Intimidation,2.0,Church,Anti-Islamic,Person, ,Y
+2004,City,WY,Wyoming,2004-07-28,2,0,1,1,0,White,Not Specified,2,Assault,2.0,Street,Anti-Black or African American,Person, ,N
+2005,County,VT,Vermont,2005-12-15,0,0,0,0,0,White,Not Specified,0,Destruction/Damage/Vandalism of Property,0.0,Grocery Store,Anti-American Indian or Alaska Native,Other, ,Y
+2006,City,RI,Rhode Island,2006-03-21,1,1,2,1,1,White,Not Specified,2,Assault,2.0,Stadium,Anti-Hispanic or Latino,Person, ,N
+2007,Police Department,DE,Delaware,2007-06-14,0,2,3,2,1,White,Not Specified,2,Intimidation,2.0,Restaurant,Anti-Gay/Lesbian,Person, ,Y
+2008,City,MD,Maryland,2008-01-02,1,0,1,1,0,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,School/College,Anti-Jewish,Other, ,N
+2009,County,PA,Pennsylvania,2009-09-17,2,0,2,1,1,White,Not Specified,2,Assault,2.0,Bar/Social Club,Anti-White,Person, ,Y
+2010,City,MI,Michigan,2010-02-26,0,1,1,0,1,White,Not Specified,1,Burglary,1.0,Hospital,Anti-American Indian or Alaska Native,Person, ,N
+2011,Police Department,CA,California,2011-05-08,1,1,2,1,1,White,Not Specified,2,Intimidation,2.0,Cinema,Anti-Asian Pacific Islander,Person, ,Y
+2012,City,NE,Nebraska,2012-08-30,1,0,3,2,1,White,Not Specified,1,Assault,1.0,Highway,Anti-Black or African American,Other, ,N
+2013,County,WV,West Virginia,2013-10-01,0,1,1,0,1,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Community Center,Anti-Gay/Lesbian,Person, ,Y
+2014,City,MN,Minnesota,2014-01-22,1,1,2,1,1,White,Not Specified,2,Intimidation,2.0,School/College,Anti-Hispanic or Latino,Person, ,N
+1991,Police Department,AZ,Arizona,1991-04-11,0,0,1,0,1,White,Not Specified,0,Assault,0.0,Mall,Anti-Jewish,Other, ,Y
+1992,City,LA,Louisiana,1992-08-19,2,0,1,1,0,White,Not Specified,2,Intimidation,2.0,Grocery Store,Anti-American Indian or Alaska Native,Person, ,N
+1993,County,AR,Arkansas,1993-10-03,1,1,2,1,1,White,Not Specified,2,Destruction/Damage/Vandalism of Property,2.0,Hospital,Anti-Asian Pacific Islander,Person, ,Y
+1994,City,ME,Maine,1994-03-16,0,2,3,2,1,White,Not Specified,2,Assault,2.0,Hotel/Apartment,Anti-Black or African American,Person, ,N
+1995,Police Department,HI,Hawaii,1995-07-08,1,0,2,1,1,White,Not Specified,1,Intimidation,1.0,Residence,Anti-Gay/Lesbian,Person, ,Y
+1996,City,WV,West Virginia,1996-11-23,0,0,1,0,1,White,Not Specified,0,Assault,0.0,Store,Anti-Islamic,Other, ,N
+1997,County,KS,Kansas,1997-02-14,1,1,1,1,0,White,Not Specified,2,Intimidation,2.0,Street,Anti-White,Person, ,Y
+1998,City,VT,Vermont,1998-05-31,0,0,0,0,0,White,Not Specified,0,Destruction/Damage/Vandalism of Property,0.0,Public Park,Anti-American Indian or Alaska Native,Other, ,N
+1999,Police Department,MT,Montana,1999-08-22,2,0,2,1,1,White,Not Specified,2,Assault,2.0,Restaurant,Anti-Hispanic or Latino,Person, ,Y
+2000,City,OR,Oregon,2000-12-15,0,1,1,0,1,White,Not Specified,1,Intimidation,1.0,Office Building,Anti-White,Person, ,N

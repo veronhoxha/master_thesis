@@ -1,0 +1,38 @@
+"2003,City,NY,New York,2003-06-02,,,0,,,Unknown,Not Specified,2,Destruction/Damage/Vandalism of Property,0.0,Residence/Apartment,Anti-White,Other,M,M
+2009,Other,FL,Florida,2009-11-18,1.0,0.0,2,0.0,2.0,White,Not Hispanic or Latino,1,Intimidation,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic,Individual,S,S
+2007,City,TX,Texas,2007-02-22,1.0,0.0,1,1.0,0.0,Asian or Asian American,Not Hispanic or Latino,1,Aggravated Assault,1.0,Residence/Apartment,Anti-White,Individual,S,S
+1996,Other,IL,Illinois,1996-08-12,,,1,,,Unknown,Not Specified,1,Simple Assault,1.0,School/College,Anti-Jewish,Individual,S,S
+2010,Suburban,PA,Pennsylvania,2010-09-02,,,0,,,Unknown,Not Hispanic or Latino,1,Vandalism,1.0,Other,Anti-Hispanic,Other,S,S
+2001,City,OH,Ohio,2001-05-25,,,0,,,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Individual,S,S
+2004,Other,GA,Georgia,2004-03-01,1.0,0.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Asian,Individual,S,S
+2013,City,MI,Michigan,2013-06-13,0.0,1.0,2,0.0,2.0,Unknown,Not Specified,2,Simple Assault,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Other,M,M
+2009,Suburban,NC,North Carolina,2009-03-25,0.0,0.0,2,1.0,1.0,White,Not Hispanic or Latino,1,Aggravated Assault,1.0,Residence/Apartment,Anti-Jewish,Individual,S,S
+2011,Other,MO,Missouri,2011-12-10,0.0,0.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Individual,S,S
+1992,City,CO,Colorado,1992-04-01,,,1,,,Unknown,Not Specified,1,Vandalism,1.0,Residence/Apartment,Anti-Asian,Individual,S,S
+2008,Suburban,KY,Kentucky,2008-05-31,0.0,0.0,2,0.0,2.0,Black or African American,Not Hispanic or Latino,2,Simple Assault,2.0,School/College,Anti-Hispanic,Other,S,M
+1994,Other,NJ,New Jersey,1994-07-14,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Aggravated Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,S,S
+2006,Suburban,CA,California,2006-03-15,1.0,0.0,2,0.0,2.0,Hispanic or Latino,Not Hispanic or Latino,2,Simple Assault,2.0,Residence/Apartment,Anti-Asian,Other,M,M
+2009,Suburban,IN,Indiana,2009-09-17,0.0,0.0,1,0.0,1.0,Asian or Asian American,Not Hispanic or Latino,1,Simple Assault,1.0,Other,Anti-White,Individual,S,S
+1998,City,WI,Wisconsin,1998-06-20,1.0,0.0,2,0.0,2.0,Unknown,Not Specified,2,Intimidation,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic,Other,S,S
+2007,Other,SC,South Carolina,2007-12-30,0.0,0.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Gay (Female),Individual,S,S
+1999,Suburban,DC,District of Columbia,1999-05-26,0.0,0.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,S,S
+2012,City,MA,Massachusetts,2012-03-15,0.0,0.0,2,0.0,2.0,Asian or Asian American,Not Hispanic or Latino,2,Simple Assault,2.0,School/College,Anti-White,Other,S,S
+2003,Other,WA,Washington,2003-11-15,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Aggravated Assault,1.0,Residence/Apartment,Anti-Hispanic,Individual,S,S
+2004,Suburban,AL,Alabama,2004-05-11,0.0,0.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Individual,S,S
+2005,Suburban,IA,Iowa,2005-09-01,0.0,0.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Gay (Female),Individual,S,S
+2002,City,KS,Kansas,2002-08-05,1.0,0.0,2,0.0,2.0,Asian or Asian American,Not Hispanic or Latino,2,Simple Assault,2.0,Residence/Apartment,Anti-Hispanic,Other,M,M
+2014,Other,VT,Vermont,2014-02-09,0.0,0.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Individual,S,S
+2005,Suburban,AR,Arkansas,2005-02-16,0.0,0.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Gay (Female),Individual,S,S
+1993,Other,OK,Ohio,1993-08-21,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Aggravated Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,S,S
+2008,Suburban,OR,Oregon,2008-01-24,0.0,0.0,2,0.0,2.0,Asian or Asian American,Not Hispanic or Latino,2,Simple Assault,2.0,Residence/Apartment,Anti-Hispanic,Other,M,M
+2007,City,GA,Georgia,2007-07-04,0.0,0.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Individual,S,S
+1994,City,MN,Minnestota,1994-05-12,1.0,0.0,2,0.0,2.0,Unknown,Not Specified,2,Simple Assault,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic,Other,S,S
+1995,Other,DE,Delaware,1995-10-25,0.0,0.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Gay (Male),Individual,S,S
+2005,Suburban,ME,Maine,2005-08-22,1.0,0.0,1,1.0,0.0,Asian or Asian American,Not Hispanic or Latino,1,Aggravated Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,S,S
+2006,Suburban,MS,Mississippi,2006-04-20,0.0,0.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Individual,S,S
+1992,Other,RI,Rhode Island,1992-09-29,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Aggravated Assault,1.0,Residence/Apartment,Anti-Jewish,Individual,S,S
+2009,Suburban,HI,Hawaii,2009-05-15,0.0,0.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic,Individual,S,S
+2003,Other,CT,Connecticut,2003-01-10,0.0,0.0,2,0.0,2.0,Asian or Asian American,Not Hispanic or Latino,2,Simple Assault,2.0,School/College,Anti-Jewish,Other,S,M
+2010,Suburban,NE,Nebaska,2010-09-27,0.0,0.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Female),Individual,S,S
+2008,City,ID,Idaho,2008-04-29,0.0,0.0,2,0.0,2.0,White,Not Hispanic or Latino,2,Simple Assault,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Other,S,M
+2004,Suburban,ND,North Dakota,2004-02-19,0.0,0.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Asian,Individual,S,S"

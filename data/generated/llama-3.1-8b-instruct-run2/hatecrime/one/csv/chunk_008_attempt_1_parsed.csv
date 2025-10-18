@@ -1,0 +1,37 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2004,City,NJ,New Jersey,2004-05-13,,,0,,,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Black or African American,Other,S,S
+2004,City,CA,California,2004-06-20,1,0,1,1,0,White,White,2,Hate Crime Against Children,0.0,Home/Apartment,Anti-White,Other,M,M
+2004,Township,NY,New York,2004-07-04,0,1,1,0,1,Unknown,Unknown,2,Simple Assault,0.0,Home/Apartment,Anti-Jewish,Other,S,M
+2004,Suburban,MA,Massachusetts,2004-08-09,2,0,1,2,0,Asian,Asian,2,Intimidation,0.0,Home/Apartment,Anti-Asian,Other,M,S
+2004,City,IL,Illinois,2004-09-15,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,2,Vandalism,0.0,Home/Apartment,Anti-Hispanic,Other,M,S
+2004,Suburban,IA,Iowa,2004-10-22,0,1,1,0,1,Unknown,Unknown,2,Simple Assault,0.0,School/College,Anti-Gay,Lesbian,Gay,Bisexual
+2004,Township,FL,Florida,2004-11-26,1,0,1,1,0,White,White,2,Hate Crime Against Children,0.0,Home/Apartment,Anti-Black or African American,Other,S,S
+2004,Suburban,VT,Vermont,2004-12-31,2,0,1,2,0,Unknown,Unknown,2,Intimidation,0.0,School/College,Anti-White,Other,M,M
+2005,City,CA,California,2005-01-03,1,0,1,1,0,Asian,Asian,2,Vandalism,0.0,Home/Apartment,Anti-Asian,Other,M,S
+2005,City,TX,Texas,2005-02-05,0,1,1,0,1,Unknown,Unknown,2,Simple Assault,0.0,Home/Apartment,Anti-Hispanic,Other,M,M
+2005,Suburban,OH,Ohio,2005-03-13,2,0,1,2,0,White,White,2,Hate Crime Against Children,0.0,Home/Apartment,Anti-White,Other,S,S
+2005,Township,GA,Georgia,2005-04-17,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,0.0,Home/Apartment,Anti-Hispanic,Other,M,M
+2005,City,MI,Michigan,2005-05-22,0,1,1,0,1,Unknown,Unknown,2,Simple Assault,0.0,School/College,Anti-White,Other,M,M
+2005,Suburban,WI,Wisconsin,2005-06-26,2,0,1,2,0,Asian,Asian,2,Intimidation,0.0,Home/Apartment,Anti-Asian,Other,M,S
+2005,Township,NC,North Carolina,2005-07-31,1,0,1,1,0,White,White,2,Hate Crime Against Children,0.0,Home/Apartment,Anti-Black or African American,Other,S,S
+2005,City,PA,Pennsylvania,2005-09-04,0,1,1,0,1,Unknown,Unknown,2,Simple Assault,0.0,School/College,Anti-White,Other,M,M
+2005,Suburban,NE,Nebraska,2005-10-09,2,0,1,2,0,Hispanic or Latino,Hispanic or Latino,2,Vandalism,0.0,Home/Apartment,Anti-Hispanic,Other,M,S
+2005,Township,SC,South Carolina,2005-11-13,1,0,1,1,0,White,White,2,Destruction/Damage/Vandalism of Property,0.0,Home/Apartment,Anti-White,Other,M,M
+2005,City,KS,Kansas,2005-12-18,0,1,1,0,1,Unknown,Unknown,2,Simple Assault,0.0,School/College,Anti-Black or African American,Other,M,M
+2006,City,IL,Illinois,2006-01-22,1,0,1,1,0,Asian,Asian,2,Vandalism,0.0,Home/Apartment,Anti-Asian,Other,M,S
+2006,Township,MI,Michigan,2006-02-26,0,1,1,0,1,Unknown,Unknown,2,Simple Assault,0.0,School/College,Anti-White,Other,M,M
+2006,Suburban,MA,Massachusetts,2006-04-02,2,0,1,2,0,Hispanic or Latino,Hispanic or Latino,2,Intimidation,0.0,Home/Apartment,Anti-Hispanic,Other,M,S
+2006,City,FL,Florida,2006-05-07,1,0,1,1,0,White,White,2,Hate Crime Against Children,0.0,Home/Apartment,Anti-Black or African American,Other,S,S
+2006,Township,OH,Ohio,2006-06-11,0,1,1,0,1,Unknown,Unknown,2,Simple Assault,0.0,School/College,Anti-White,Other,M,M
+2006,Suburban,IA,Iowa,2006-07-16,2,0,1,2,0,Asian,Asian,2,Vandalism,0.0,Home/Apartment,Anti-Asian,Other,M,S
+2006,City,NY,New York,2006-08-20,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,0.0,Home/Apartment,Anti-Hispanic,Other,M,M
+2006,Township,GA,Georgia,2006-09-24,0,1,1,0,1,Unknown,Unknown,2,Simple Assault,0.0,School/College,Anti-Black or African American,Other,M,M
+2006,Suburban,WI,Wisconsin,2006-10-29,2,0,1,2,0,White,White,2,Intimidation,0.0,Home/Apartment,Anti-White,Other,M,S
+2006,City,PA,Pennsylvania,2006-11-26,1,0,1,1,0,Asian,Asian,2,Hate Crime Against Children,0.0,Home/Apartment,Anti-Asian,Other,S,S
+2006,Township,SC,South Carolina,2006-12-31,0,1,1,0,1,Unknown,Unknown,2,Simple Assault,0.0,School/College,Anti-White,Other,M,M
+2007,City,CA,California,2007-01-03,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,2,Vandalism,0.0,Home/Apartment,Anti-Hispanic,Other,M,S
+2007,Township,TX,Texas,2007-02-11,0,1,1,0,1,Unknown,Unknown,2,Simple Assault,0.0,School/College,Anti-Black or African American,Other,M,M
+2007,Suburban,OH,Ohio,2007-03-17,2,0,1,2,0,White,White,2,Intimidation,0.0,Home/Apartment,Anti-White,Other,M,S
+2007,City,IL,Illinois,2007-04-21,1,0,1,1,0,Asian,Asian,2,Destruction/Damage/Vandalism of Property,0.0,Home/Apartment,Anti-Asian,Other,M,M
+2007,Township,MI,Michigan,2007-05-27,0,1,1,0,1,Unknown,Unknown,2,Simple Assault,0.0,School/College,Anti-White,Other,M,M
+2007,Suburban,MA,Massachusetts,2007-06-30,2,0,1,2,0,Hispanic or Latino,Hispanic or Latino,2,Vandalism,0.0,Home/Apartment,Anti-Hispanic,Other,M,S

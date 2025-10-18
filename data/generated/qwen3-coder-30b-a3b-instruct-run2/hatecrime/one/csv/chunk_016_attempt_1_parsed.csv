@@ -1,0 +1,57 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1995,Federal,CA,California,1995-03-22,0,0,1,1,0,White,Hispanic,1,Assault,1.0,Office,Anti-Jewish,Juvenile,S,N
+2001,State,FL,Florida,2001-11-15,0,1,2,1,1,Black,Not Specified,1,Intimidation,2.0,Park,Anti-African American,Adult,S,S
+1998,Municipal,TX,Texas,1998-07-08,1,0,3,2,1,Asian,Hispanic,1,Assault,1.0,Residence,Anti-Hispanic,Business,S,N
+2003,County,GA,Georgia,2003-01-30,0,0,1,1,0,White,Not Specified,1,Bias Intimidation,1.0,Hospital,Anti-LGBTQ+,Adult,S,S
+1992,City,VA,Virginia,1992-09-12,0,0,2,1,1,White,Hispanic,1,Fighting,1.0,Restaurant,Anti-Catholic,Family,S,N
+2007,State,IL,Illinois,2007-05-27,1,0,1,1,0,Black,Not Specified,1,Murder,1.0,Church,Anti-Christian,Individual,S,S
+1999,Municipal,MI,Michigan,1999-12-04,0,1,1,0,1,White,Not Specified,1,Harassment,2.0,School/Academy,Anti-Black or African American,Individual,S,N
+2005,Federal,NY,New York,2005-04-18,0,0,3,2,1,Hispanic,Hispanic,1,Intimidation,1.0,Airport,Anti-Asian,Group,S,S
+2002,County,OH,Ohio,2002-08-21,1,0,1,1,0,White,Not Specified,1,Assault,1.0,Store,Anti-Immigrant,Adult,S,N
+1994,City,WA,Washington,1994-02-14,0,0,2,1,1,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Library,Anti-Jewish,Individual,S,S
+2008,State,MA,Massachusetts,2008-10-03,0,0,1,0,1,Black,Hispanic,1,Assault,1.0,Bar,Anti-Hispanic,Family,N,N
+1997,Municipal,SC,South Carolina,1997-06-19,0,1,1,1,0,White,Not Specified,1,Destruction/Damage/Vandalism of Property,2.0,Storefront,Anti-Asian,Family,S,N
+2000,County,NC,North Carolina,2000-11-11,1,0,2,1,1,White,Hispanic,1,Assault,1.0,School/Academy,Anti-Gay,Individual,S,S
+2006,Federal,CO,Colorado,2006-03-25,0,0,1,1,0,Native American,Not Specified,1,Harassment,1.0,Office,Anti-American Indian or Alaska Native,Group,S,N
+2004,City,OR,Oregon,2004-07-07,0,0,1,1,0,White,Not Specified,1,Intimidation,1.0,Government Building,Anti-Muslim,Individual,S,S
+1993,State,MD,Maryland,1993-01-02,0,1,1,1,0,Asian,Hispanic,1,Intimidation,2.0,Community Center,Anti-Gay,Group,S,N
+2009,Municipal,VT,Vermont,2009-09-28,1,0,1,1,0,White,Native American,1,Murder,1.0,Residence,Anti-American Indian or Alaska Native,Adult,N,N
+1996,County,PA,Pennsylvania,1996-04-30,0,0,2,1,1,White,Not Specified,1,Assault,1.0,College Campus,Anti-Jewish,Student,S,S
+2003,Federal,NJ,New Jersey,2003-12-17,0,0,1,0,1,Hispanic,Not Specified,1,Intimidation,1.0,Transportation Facility,Anti-Black or African American,Individual,S,N
+1991,City,NH,New Hampshire,1991-08-15,0,0,1,1,0,Black,Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,Office,Anti-African American,Group,S,S
+2010,State,KS,Kansas,2010-02-22,1,0,1,1,0,White,Not Specified,1,Assault,1.0,School/College,Anti-White,Family,S,N
+1992,Municipal,WV,West Virginia,1992-05-09,0,0,2,2,0,White,Not Specified,1,Harassment,1.0,Residence,Anti-White,Individual,S,S
+2007,County,MT,Montana,2007-10-12,0,0,1,0,1,Asian,Not Specified,1,Assault,1.0,Restaurant,Anti-Asian,Group,S,N
+2001,Federal,NE,Nebraska,2001-03-18,1,0,1,1,0,Native American,Hispanic,1,Intimidation,1.0,Community Center,Anti-Amish,Individual,S,S
+1995,City,ME,Maine,1995-11-20,0,1,1,0,1,Black,Not Specified,1,Murder,2.0,Housing Complex,Anti-Black or African American,Individual,S,N
+2008,State,AL,Alabama,2008-06-27,0,0,1,1,0,White,Hispanic,1,Assault,1.0,House of Worship,Anti-Catholic,Family,S,S
+1999,Municipal,SJ,South Carolina,1999-08-14,0,0,1,1,0,Hispanic,Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,Hospital,Anti-Mexican,Individual,S,N
+2004,County,RI,Rhode Island,2004-01-26,1,0,2,1,1,White,Not Specified,1,Harassment,1.0,School/College,Anti-Female,Adult,N,S
+2002,Federal,OK,Oklahoma,2002-12-05,0,0,1,0,1,White,Hispanic,1,Intimidation,1.0,Airport,Anti-Imigrant,Group,S,N
+1997,City,ID,Idaho,1997-07-29,0,1,1,1,0,White,Hispanic,1,Assault,2.0,Store,Anti-Black or African American,Friend/Social Contact,S,N
+2011,State,UT,Utah,2011-04-19,0,0,2,1,1,Asian,Hispanic,1,Intimidation,1.0,Storefront,Anti-Gay,Individual,S,S
+1994,Municipal,WI,Wisconsin,1994-09-10,1,0,2,2,0,White,Hispanic,1,Murder,1.0,Residence,Anti-Gay,Adult,S,N
+2006,Federal,DE,Delaware,2006-03-23,0,0,1,1,0,White,Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,Bar,Anti-African American,Group,S,S
+2005,City,NM,New Mexico,2005-08-08,0,1,2,1,1,Hispanic,Hispanic,1,Assault,2.0,University Campus,Anti-White,Student,S,N
+1998,County,AR,Arkansas,1998-11-17,0,0,1,1,0,White,Hispanic,1,Intimidation,1.0,Community Center,Anti-Gay,Group,S,S
+2003,Federal,AZ,Arizona,2003-07-01,1,0,1,1,0,Native American,Hispanic,1,Assault,1.0,Public Park,Anti-American Indian or Alaska Native,Individual,S,N
+2000,Municipal,MS,Mississippi,2000-02-22,0,0,1,1,0,White,Not Specified,1,Harassment,1.0,Government Building,Anti-Muslim,Adult,N,S
+2012,State,IN,Indiana,2012-05-30,0,1,1,1,0,Black,Hispanic,1,Assault,2.0,House of Worship,Anti-Jewish,Family,S,N
+1992,City,FL,Florida,1992-04-14,0,0,2,1,1,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,School/Academy,Anti-Islamic,Individual,S,S
+2007,County,CT,Connecticut,2007-09-25,1,0,1,1,0,White,Hispanic,1,Intimidation,1.0,Store,Anti-Asian,Individual,S,N
+2009,Federal,NV,Nevada,2009-01-17,0,0,1,0,1,White,Hispanic,1,Assault,1.0,Transportation Facility,Anti-Black or African American,Friend/Social Contact,S,S
+1996,Municipal,GA,Georgia,1996-07-31,0,0,1,0,1,Hispanic,Hispanic,1,Harassment,1.0,Restaurant,Anti-Gay,Family,S,N
+2004,State,LA,Louisiana,2004-12-10,1,0,1,1,0,White,Not Specified,1,Murder,1.0,Housing Complex,Anti-White,Individual,S,S
+2001,Municipal,MO,Missouri,2001-03-05,0,1,1,1,0,White,Not Specified,1,Assault,2.0,School/Academy,Anti-Jewish,Student,S,N
+1993,Federal,MD,Maryland,1993-09-18,0,0,1,1,0,Native American,Not Specified,1,Intimidation,1.0,Church,Anti-American Indian or Alaska Native,Friend/Social Contact,S,S
+2008,City,NJ,New Jersey,2008-06-02,0,0,2,1,1,White,Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,Office,Anti-Hispanic,Group,S,N
+2002,County,IL,Illinois,2002-11-28,1,0,1,1,0,Asian,Hispanic,1,Harassment,1.0,Hotel,Anti-Gay,Individual,S,S
+1999,Federal,VA,Virginia,1999-02-15,0,0,1,0,1,Black,Hispanic,1,Assault,1.0,Government Building,Anti-Black or African American,Family,N,N
+2006,Municipal,WY,Wyoming,2006-05-08,0,0,1,1,0,White,Hispanic,1,Intimidation,1.0,School/Academy,Anti-White,Individual,S,S
+2003,State,OH,Ohio,2003-10-24,1,0,1,1,0,White,Hispanic,1,Murder,1.0,Residence,Anti-Female,Family,S,N
+1995,City,PA,Pennsylvania,1995-12-03,0,1,1,0,1,White,Hispanic,1,Destruction/Damage/Vandalism of Property,2.0,Community Center,Anti-Gay,Family,S,S
+2010,Federal,MI,Michigan,2010-02-11,0,0,2,2,0,Hispanic,Hispanic,1,Assault,1.0,Restaurant,Anti-Immigrant,Group,S,N
+1991,Municipal,TX,Texas,1991-06-21,1,0,1,1,0,White,Hispanic,1,Intimidation,1.0,Housing Complex,Anti-Hispanic,Family,S,S
+2005,County,CT,Connecticut,2005-07-30,0,0,1,1,0,White,Not Specified,1,Assault,1.0,School/College,Anti-White,Student,N,N
+2002,Federal,WI,Wisconsin,2002-08-12,0,1,1,0,1,Asian,Hispanic,1,Harassment,2.0,Residence,Anti-Asian,Individual,S,N
+1997,City,AK,Alaska,1997-01-23,1,0,1,1,0,White,Hispanic,1,Murder,1.0,Office,Anti-White,Adult,S,S

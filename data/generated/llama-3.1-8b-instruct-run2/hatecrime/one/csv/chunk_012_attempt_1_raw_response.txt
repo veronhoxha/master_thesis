@@ -1,0 +1,44 @@
+2004,City,NJ,New Jersey,2004-02-10,1,0,3,2,1,White,White,2,Hate Crime Against People,2.0,School/College,Anti-Jewish,Both,Alley,Anti-Jewish and Swastika
+2004,City,NJ,New Jersey,2004-04-25,0,0,1,1,0,Unknown,White,1,Simple Assault,1.0,Residence or Home,Anti-Hispanic,Other,S
+2004,City,NJ,New Jersey,2004-07-14,1,0,2,1,1,Hispanic or Latino,Hispanic or Latino,2,Hate Crime Against Property,2.0,Residence or Home,Anti-Caucasian or White,Both,S
+2004,City,NJ,New Jersey,2004-05-15,0,0,1,0,1,Black or African American,Black or African American,1,Simple Assault,1.0,Residence or Home,Anti-Asian or Asian/Pacific Islander,Other,S
+2004,City,NJ,New Jersey,2004-09-01,0,0,1,0,1,White,White,1,Simple Assault,1.0,Residence or Home,Anti-Gay/Lesbian/Bisexual/Transgender,Other,S
+2004,City,NJ,New Jersey,2004-04-20,1,0,2,1,1,Unknown,Unknown,2,Hate Crime Against People,2.0,Residence or Home,Anti-Caucasian or White,Both,S
+2004,City,NJ,New Jersey,2004-11-24,0,0,1,1,0,Other,White,1,Simple Assault,1.0,Residence or Home,Anti-Hispanic,Other,S
+2004,City,NJ,New Jersey,2004-09-20,0,0,2,2,0,Asian or Asian/Pacific Islander,Asian or Asian/Pacific Islander,2,Simple Assault,2.0,School/College,Anti-Asian or Asian/Pacific Islander,Other,S
+2004,City,NJ,New Jersey,2004-02-21,1,0,1,0,1,White,White,1,Hate Crime Against Property,1.0,Residence or Home,Anti-Gay/Lesbian/Bisexual/Transgender,Other,S
+2004,City,NJ,New Jersey,2004-10-25,0,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,1.0,Residence or Home,Anti-Caucasian or White,Other,S
+2004,City,NJ,New Jersey,2004-07-02,0,0,2,1,1,Unknown,Unknown,2,Hate Crime Against Property,2.0,Residence or Home,Anti-Jewish,Both,S
+2004,City,NJ,New Jersey,2004-09-05,0,0,1,1,0,Asian or Asian/Pacific Islander,Asian or Asian/Pacific Islander,1,Simple Assault,1.0,Residence or Home,Anti-Asian or Asian/Pacific Islander,Other,S
+2004,City,NJ,New Jersey,2004-08-18,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residence or Home,Anti-Caucasian or White,Other,S
+2004,City,NJ,New Jersey,2004-06-20,1,0,1,1,0,Other,Other,1,Hate Crime Against Property,1.0,Residence or Home,Anti-Caucasian or White,Other,S
+2004,City,NJ,New Jersey,2004-04-03,0,0,1,1,0,White,White,1,Simple Assault,1.0,Residence or Home,Anti-Hispanic,Other,S
+2004,City,NJ,New Jersey,2004-03-10,0,0,1,0,1,Black or African American,Black or African American,1,Simple Assault,1.0,Residence or Home,Anti-Gay/Lesbian/Bisexual/Transgender,Other,S
+2004,City,NJ,New Jersey,2004-06-27,1,0,1,1,0,Unknown,Unknown,1,Hate Crime Against People,1.0,Residence or Home,Anti-Caucasian or White,Other,S
+2004,City,NJ,New Jersey,2004-05-28,0,0,1,1,0,Asian or Asian/Pacific Islander,Asian or Asian/Pacific Islander,1,Simple Assault,1.0,Residence or Home,Anti-Asian or Asian/Pacific Islander,Other,S
+2004,City,NJ,New Jersey,2004-01-22,1,0,2,2,0,Black or African American,Black or African American,2,Hate Crime Against Property,2.0,Residence or Home,Anti-Jewish,Both,S
+2004,City,NJ,New Jersey,2004-11-19,0,0,1,1,0,White,White,1,Simple Assault,1.0,Residence or Home,Anti-Caucasian or White,Other,S
+2004,City,NJ,New Jersey,2004-08-22,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residence or Home,Anti-Hispanic,Other,S
+2004,City,NJ,New Jersey,2004-09-19,1,0,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Hate Crime Against Property,1.0,Residence or Home,Anti-Asian or Asian/Pacific Islander,Other,S
+2004,City,NJ,New Jersey,2004-07-10,0,0,1,1,0,Asian or Asian/Pacific Islander,Asian or Asian/Pacific Islander,1,Simple Assault,1.0,Residence or Home,Anti-Gay/Lesbian/Bisexual/Transgender,Other,S
+2004,City,NJ,New Jersey,2004-03-17,0,0,2,2,0,Black or African American,Black or African American,2,Hate Crime Against Property,2.0,Residence or Home,Anti-Hispanic,Both,S
+2004,City,NJ,New Jersey,2004-05-06,1,0,1,0,1,White,White,1,Hate Crime Against Property,1.0,Residence or Home,Anti-Jewish,Other,S
+2004,City,NJ,New Jersey,2004-06-05,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residence or Home,Anti-Caucasian or White,Other,S
+2004,City,NJ,New Jersey,2004-11-03,0,0,2,2,0,Black or African American,Black or African American,2,Hate Crime Against Property,2.0,Residence or Home,Anti-Jewish,Both,S
+2004,City,NJ,New Jersey,2004-09-22,0,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,Residence or Home,Anti-Caucasian or White,Other,S
+2004,City,NJ,New Jersey,2004-08-12,0,0,1,1,0,Other,Other,1,Simple Assault,1.0,Residence or Home,Anti-Hispanic,Other,S
+2004,City,NJ,New Jersey,2004-04-09,0,0,1,1,0,White,White,1,Simple Assault,1.0,Residence or Home,Anti-Caucasian or White,Other,S
+2004,City,NJ,New Jersey,2004-03-15,1,0,1,1,0,Unknown,Unknown,1,Hate Crime Against Property,1.0,Residence or Home,Anti-Jewish,Other,S
+2004,City,NJ,New Jersey,2004-11-15,1,0,2,2,0,Black or African American,Black or African American,2,Hate Crime Against Property,2.0,Residence or Home,Anti-Hispanic,Both,S
+2004,City,NJ,New Jersey,2004-01-24,0,0,1,1,0,Asian or Asian/Pacific Islander,Asian or Asian/Pacific Islander,1,Simple Assault,1.0,Residence or Home,Anti-Asian or Asian/Pacific Islander,Other,S
+2004,City,NJ,New Jersey,2004-05-22,0,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,Residence or Home,Anti-Caucasian or White,Other,S
+2004,City,NJ,New Jersey,2004-06-08,0,0,1,1,0,White,White,1,Simple Assault,1.0,Residence or Home,Anti-Hispanic,Other,S
+2004,City,NJ,New Jersey,2004-12-28,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Residence or Home,Anti-Caucasian or White,Other,S
+2004,City,NJ,New Jersey,2004-09-16,0,0,2,2,0,Black or African American,Black or African American,2,Hate Crime Against Property,2.0,Residence or Home,Anti-Jewish,Both,S
+2004,City,NJ,New Jersey,2004-03-08,0,0,1,1,0,Asian or Asian/Pacific Islander,Asian or Asian/Pacific Islander,1,Simple Assault,1.0,Residence or Home,Anti-Gay/Lesbian/Bisexual/Transgender,Other,S
+2004,City,NJ,New Jersey,2004-10-01,1,0,1,0,1,Unknown,Unknown,1,Hate Crime Against Property,1.0,Residence or Home,Anti-Asian or Asian/Pacific Islander,Other,S
+2004,City,NJ,New Jersey,2004-08-26,0,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,Residence or Home,Anti-Caucasian or White,Other,S
+2004,City,NJ,New Jersey,2004-06-17,0,0,1,1,0,White,White,1,Simple Assault,1.0,Residence or Home,Anti-Hispanic,Other,S
+2004,City,NJ,New Jersey,2004-01-07,0,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,1.0,Residence or Home,Anti-Jewish,Other,S
+2004,City,NJ,New Jersey,2004-09-30,0,0,1,1,0,Other,Other,1,Simple Assault,1.0,Residence or Home,Anti-Caucasian or White,Other,S
+2004,City,NJ,New Jersey,2004-02-27,1,0,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Hate Crime Against Property,1.0,Residence or Home,Anti-Gay/Lesbian/Bisexual/Transgender,Other,S

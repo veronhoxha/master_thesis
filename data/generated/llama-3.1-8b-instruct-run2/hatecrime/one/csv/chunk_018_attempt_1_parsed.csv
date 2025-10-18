@@ -1,0 +1,44 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2005,City,CA,California,2005-06-21,,,1,,,White,Not Specified,2,Simple Assault,0.0,Park/Athletic Field,Anti-White or Caucasian,Other,S,S
+2009,Township,NJ,New Jersey,2009-08-17,1,,,0,1,,Unknown,Not Specified,1,Larceny-Theft,0.0,Residential Area,Anti-Jewish,Other,S
+2003,City,FL,Florida,2003-04-01,2,1,2,1,1,Asian,Not Specified,3,Aggravated Assault,0.0,Alley/Walkway,Anti-Asian,Other,M,M
+2000,Township,NJ,New Jersey,2000-03-22,1,1,1,1,1,,Unknown,Not Specified,1,Vandalism,0.0,Residential Area,Anti-Hispanic or Latino,Other,S
+2009,City,MA,Massachusetts,2009-05-09,1,1,1,1,1,White,Not Specified,2,Intimidation,0.0,School/College,Anti-LGBTQ or Transgender,Other,M,M
+2004,Municipality,PA,Pennsylvania,2004-06-14,1,1,1,1,1,,Unknown,Not Specified,1,Simple Assault,0.0,Residential Area,Anti-Police Department,Other,S
+2007,City,NY,New York,2007-04-03,1,1,1,1,1,Unknown,Not Specified,1,Robbery,0.0,Commercial Area,Anti-Other Bias Type,Other,M,M
+2002,Municipality,IL,Illinois,2002-09-12,1,1,1,1,1,White,Not Specified,1,Simple Assault,0.0,Alley/Walkway,Anti-White or Caucasian,Other,S,S
+2008,City,CA,California,2008-07-14,1,1,1,1,1,,Unknown,Not Specified,1,Simple Assault,0.0,Residential Area,Anti-Other Bias Type,Other,M
+2006,Township,NJ,New Jersey,2006-10-31,1,1,1,1,1,White,Not Specified,1,Vandalism,0.0,Residential Area,Anti-White or Caucasian,Other,S,S
+2011,City,CA,California,2011-01-20,1,1,1,1,1,,Unknown,Not Specified,1,Simple Assault,0.0,Commercial Area,Anti-Hispanic or Latino,Other,S
+2003,City,CA,California,2003-07-15,1,1,1,1,1,White,Not Specified,1,Larceny-Theft,0.0,Residential Area,Anti-White or Caucasian,Other,M,M
+2006,City,NY,New York,2006-03-14,1,1,1,1,1,Unknown,Not Specified,1,Vandalism,0.0,Park/Athletic Field,Anti-Other Bias Type,Other,S,S
+2008,Municipality,PA,Pennsylvania,2008-09-18,1,1,1,1,1,Asian,Not Specified,1,Simple Assault,0.0,Residential Area,Anti-Asian,Other,M,M
+2000,City,FL,Florida,2000-08-12,1,1,1,1,1,,Unknown,Not Specified,1,Vandalism,0.0,Residential Area,Anti-Jewish,Other,S
+2004,Township,NJ,New Jersey,2004-02-02,1,1,1,1,1,White,Not Specified,1,Simple Assault,0.0,Park/Athletic Field,Anti-White or Caucasian,Other,S,S
+2009,Municipality,IL,Illinois,2009-05-11,1,1,1,1,1,White,Not Specified,1,Intimidation,0.0,Alley/Walkway,Anti-White or Caucasian,Other,M,M
+2002,City,MA,Massachusetts,2002-06-10,1,1,1,1,1,Unknown,Not Specified,1,Simple Assault,0.0,Commercial Area,Anti-Police Department,Other,S,S
+2006,City,NY,New York,2006-09-18,1,1,1,1,1,White,Not Specified,2,Aggravated Assault,0.0,School/College,Anti-White or Caucasian,Other,M,M
+2007,Municipality,PA,Pennsylvania,2007-02-15,1,1,1,1,1,Asian,Not Specified,1,Simple Assault,0.0,Residential Area,Anti-Asian,Other,S,S
+2010,Municipality,IL,Illinois,2010-03-06,1,1,1,1,1,White,Not Specified,1,Larceny-Theft,0.0,Residential Area,Anti-White or Caucasian,Other,S,S
+2008,City,CA,California,2008-01-21,1,1,1,1,1,,Unknown,Not Specified,1,Simple Assault,0.0,Park/Athletic Field,Anti-Other Bias Type,Other,S
+2009,City,NY,New York,2009-09-18,1,1,1,1,1,White,Not Specified,1,Vandalism,0.0,Alley/Walkway,Anti-White or Caucasian,Other,S,S
+2003,Township,NJ,New Jersey,2003-09-14,1,1,1,1,1,Asian,Not Specified,1,Simple Assault,0.0,Commercial Area,Anti-Asian,Other,M,M
+2000,City,CA,California,2000-06-08,1,1,1,1,1,,Unknown,Not Specified,1,Larceny-Theft,0.0,School/College,Anti-Other Bias Type,Other,S
+2002,Municipality,PA,Pennsylvania,2002-08-27,1,1,1,1,1,White,Not Specified,1,Vandalism,0.0,Residential Area,Anti-White or Caucasian,Other,M,M
+2001,City,FL,Florida,2001-10-25,1,1,1,1,1,White,Not Specified,1,Simple Assault,0.0,Park/Athletic Field,Anti-White or Caucasian,Other,S,S
+2004,Township,NJ,New Jersey,2004-06-22,1,1,1,1,1,White,Not Specified,1,Simple Assault,0.0,Alley/Walkway,Anti-White or Caucasian,Other,S,S
+2008,City,MA,Massachusetts,2008-03-12,1,1,1,1,1,,Unknown,Not Specified,1,Simple Assault,0.0,Commercial Area,Anti-Police Department,Other,M
+2009,Municipality,IL,Illinois,2009-10-25,1,1,1,1,1,White,Not Specified,1,Vandalism,0.0,Residential Area,Anti-White or Caucasian,Other,S,S
+2006,City,NY,New York,2006-02-19,1,1,1,1,1,Asian,Not Specified,1,Simple Assault,0.0,Park/Athletic Field,Anti-Asian,Other,S,S
+2007,City,CA,California,2007-09-17,1,1,1,1,1,White,Not Specified,1,Vandalism,0.0,Commercial Area,Anti-White or Caucasian,Other,M,M
+2006,City,NY,New York,2006-07-29,1,1,1,1,1,Unknown,Not Specified,2,Aggravated Assault,0.0,School/College,Anti-Other Bias Type,Other,M,M
+2003,Municipality,PA,Pennsylvania,2003-05-13,1,1,1,1,1,White,Not Specified,1,Larceny-Theft,0.0,Residential Area,Anti-White or Caucasian,Other,S,S
+2005,City,CA,California,2005-10-02,1,1,1,1,1,White,Not Specified,1,Simple Assault,0.0,Alley/Walkway,Anti-White or Caucasian,Other,S,S
+2001,Township,NJ,New Jersey,2001-09-18,1,1,1,1,1,Asian,Not Specified,1,Simple Assault,0.0,Park/Athletic Field,Anti-Asian,Other,M,M
+2004,Municipality,IL,Illinois,2004-11-14,1,1,1,1,1,White,Not Specified,1,Vandalism,0.0,Residential Area,Anti-White or Caucasian,Other,S,S
+2002,Municipality,PA,Pennsylvania,2002-10-21,1,1,1,1,1,,Unknown,Not Specified,1,Simple Assault,0.0,Residential Area,Anti-Police Department,Other,S
+2001,City,MA,Massachusetts,2001-06-25,1,1,1,1,1,White,Not Specified,1,Larceny-Theft,0.0,Commercial Area,Anti-White or Caucasian,Other,M,M
+2004,Township,NJ,New Jersey,2004-08-05,1,1,1,1,1,White,Not Specified,1,Simple Assault,0.0,Alley/Walkway,Anti-White or Caucasian,Other,S,S
+2003,City,CA,California,2003-03-26,1,1,1,1,1,,Unknown,Not Specified,1,Vandalism,0.0,School/College,Anti-Other Bias Type,Other,S
+2000,City,FL,Florida,2000-05-27,1,1,1,1,1,White,Not Specified,1,Simple Assault,0.0,Commercial Area,Anti-White or Caucasian,Other,M,M
+2007,City,CA,California,2007-03-09,1,1,1,1,1,Unknown,Not Specified,1,Larceny-Theft,0.0,Residential Area,Anti-Other Bias Type,Other,S,S

@@ -1,0 +1,13 @@
+Generate 50 rows of lending data in CSV format.
+
+DOMAIN: HMDA Mortgage Lending Data
+TIME PERIOD: 2024
+REQUIRED COLUMNS: activity_year,derived_msa-md,state_code,county_code,census_tract,derived_loan_product_type,derived_dwelling_category,derived_ethnicity,derived_race,derived_sex,action_taken,loan_purpose,loan_amount,loan_to_value_ratio,interest_rate,rate_spread,hoepa_status,total_loan_costs,total_points_and_fees,origination_charges,discount_points,lender_credits,loan_term,prepayment_penalty_term,intro_rate_period,negative_amortization,interest_only_payment,balloon_payment,other_nonamortizing_features,property_value,construction_method,occupancy_type,manufactured_home_secured_property_type,manufactured_home_land_property_interest,total_units,multifamily_affordable_units,income,debt_to_income_ratio,applicant_credit_score_type,co-applicant_credit_score_type,applicant_ethnicity-1,co-applicant_ethnicity-1,applicant_ethnicity_observed,co-applicant_ethnicity_observed,applicant_race-1,co-applicant_race-1,applicant_race_observed,co-applicant_race_observed,applicant_sex,co-applicant_sex,applicant_sex_observed,co-applicant_sex_observed,applicant_age,co-applicant_age,applicant_age_above_62,co-applicant_age_above_62,submission_of_application,initially_payable_to_institution
+
+CRITICAL: Output ONLY the CSV data with NO explanations, NO code blocks, NO commentary.
+Start with the header row, then exactly 50 data rows.
+
+EXAMPLE ROW:
+2024,99999,CT,9150.0,9150708100.0,Conventional:Subordinate Lien,Single Family (1-4 Units):Site-Built,Not Hispanic or Latino,White,Male,File closed for incompleteness,32,25000.0,,,,3,,,,,,240,,,2,2,2,2,,1,1,3,5,1,,96.0,,1111,1111,2.0,5.0,2,4,5.0,8.0,2,4,1,5,2,4,65-74,9999,Yes,,1,1
+
+Generate diverse, realistic data for the specified time period. (This is chunk 25 - generate new distinct data.)

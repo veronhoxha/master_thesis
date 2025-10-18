@@ -1,0 +1,60 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,Local,,Alabama,1991-02-15,1,0,2,2,0,White,White,1,Vandalism,1,Residence,,Intimidation,,0
+1991,State,,Alaska,1991-08-25,1,0,1,1,0,Asian,Asian,1,Simple Assault,1,Commercial Area,,Racial Bias,,0
+1991,Federal,,Arizona,1991-05-01,0,0,1,1,0,Hispanic,Hispanic,1,Intimidation,1,Highway/Street,,Ethnicity,,0
+1991,Local,,Arkansas,1991-11-15,1,0,1,1,0,Black,Black,1,Vandalism,1,Residence,,Racial Bias,,0
+1992,State,,California,1992-03-20,0,0,2,2,0,White,White,2,Simple Assault,2,Commercial Area,,Intimidation,,0
+1992,Federal,,Colorado,1992-09-10,1,0,1,1,0,Asian,Asian,1,Vandalism,1,Highway/Street,,Racial Bias,,0
+1992,Local,,Connecticut,1992-01-10,1,0,1,1,0,Hispanic,Hispanic,1,Simple Assault,1,Residence,,Ethnicity,,0
+1992,State,,Delaware,1992-07-25,0,0,2,2,0,White,White,2,Vandalism,2,Commercial Area,,Intimidation,,0
+1992,Federal,,Florida,1992-04-01,0,0,1,1,0,Black,Black,1,Intimidation,1,Highway/Street,,Racial Bias,,0
+1993,Local,,Georgia,1993-06-15,1,0,1,1,0,White,White,1,Simple Assault,1,Residence,,Intimidation,,0
+1993,State,,Hawaii,1993-03-20,0,0,2,2,0,Asian,Asian,2,Vandalism,2,Commercial Area,,Racial Bias,,0
+1993,Federal,,Idaho,1993-08-10,1,0,1,1,0,Hispanic,Hispanic,1,Vandalism,1,Highway/Street,,Ethnicity,,0
+1993,Local,,Illinois,1993-11-25,1,0,1,1,0,Black,Black,1,Simple Assault,1,Residence,,Racial Bias,,0
+1993,State,,Indiana,1993-02-15,0,0,2,2,0,White,White,2,Vandalism,2,Commercial Area,,Intimidation,,0
+1994,Federal,,Iowa,1994-04-01,0,0,1,1,0,Asian,Asian,1,Intimidation,1,Highway/Street,,Racial Bias,,0
+1994,Local,,Kansas,1994-07-15,1,0,1,1,0,Hispanic,Hispanic,1,Vandalism,1,Residence,,Ethnicity,,0
+1994,State,,Kentucky,1994-03-20,0,0,2,2,0,White,White,2,Simple Assault,2,Commercial Area,,Intimidation,,0
+1994,Federal,,Louisiana,1994-08-10,1,0,1,1,0,Black,Black,1,Vandalism,1,Highway/Street,,Racial Bias,,0
+1994,Local,,Maine,1994-11-25,1,0,1,1,0,Asian,Asian,1,Simple Assault,1,Residence,,Racial Bias,,0
+1995,State,,Maryland,1995-06-15,0,0,2,2,0,White,White,2,Vandalism,2,Commercial Area,,Intimidation,,0
+1995,Federal,,Massachusetts,1995-03-20,1,0,1,1,0,Hispanic,Hispanic,1,Intimidation,1,Highway/Street,,Ethnicity,,0
+1995,Local,,Michigan,1995-08-10,1,0,1,1,0,Black,Black,1,Simple Assault,1,Residence,,Racial Bias,,0
+1995,State,,Minnesota,1995-02-15,0,0,2,2,0,White,White,2,Vandalism,2,Commercial Area,,Intimidation,,0
+1996,Federal,,Mississippi,1996-04-01,0,0,1,1,0,Asian,Asian,1,Vandalism,1,Highway/Street,,Racial Bias,,0
+1996,Local,,Missouri,1996-07-15,1,0,1,1,0,Hispanic,Hispanic,1,Simple Assault,1,Residence,,Ethnicity,,0
+1996,State,,Montana,1996-03-20,0,0,2,2,0,White,White,2,Vandalism,2,Commercial Area,,Intimidation,,0
+1996,Federal,,Nebraska,1996-08-10,1,0,1,1,0,Black,Black,1,Vandalism,1,Highway/Street,,Racial Bias,,0
+1997,Local,,Nevada,1997-06-15,1,0,1,1,0,Asian,Asian,1,Simple Assault,1,Residence,,Racial Bias,,0
+1997,State,,New Hampshire,1997-03-20,0,0,2,2,0,White,White,2,Vandalism,2,Commercial Area,,Intimidation,,0
+1997,Federal,,New Jersey,1997-04-01,1,0,1,1,0,Hispanic,Hispanic,1,Vandalism,1,Highway/Street,,Ethnicity,,0
+1997,Local,,New Mexico,1997-07-15,1,0,1,1,0,Black,Black,1,Simple Assault,1,Residence,,Racial Bias,,0
+1997,State,,New York,1997-02-15,0,0,2,2,0,White,White,2,Vandalism,2,Commercial Area,,Intimidation,,0
+1998,Federal,,North Carolina,1998-04-01,0,0,1,1,0,Asian,Asian,1,Intimidation,1,Highway/Street,,Racial Bias,,0
+1998,Local,,North Dakota,1998-07-15,1,0,1,1,0,Hispanic,Hispanic,1,Vandalism,1,Residence,,Ethnicity,,0
+1998,State,,Ohio,1998-03-20,0,0,2,2,0,White,White,2,Simple Assault,2,Commercial Area,,Intimidation,,0
+1998,Federal,,Oklahoma,1998-08-10,1,0,1,1,0,Black,Black,1,Vandalism,1,Highway/Street,,Racial Bias,,0
+1998,Local,,Oregon,1998-11-25,1,0,1,1,0,Asian,Asian,1,Simple Assault,1,Residence,,Racial Bias,,0
+1999,State,,Pennsylvania,1999-06-15,0,0,2,2,0,White,White,2,Vandalism,2,Commercial Area,,Intimidation,,0
+1999,Federal,,Rhode Island,1999-03-20,1,0,1,1,0,Hispanic,Hispanic,1,Intimidation,1,Highway/Street,,Ethnicity,,0
+1999,Local,,South Carolina,1999-08-10,1,0,1,1,0,Black,Black,1,Simple Assault,1,Residence,,Racial Bias,,0
+1999,State,,South Dakota,1999-02-15,0,0,2,2,0,White,White,2,Vandalism,2,Commercial Area,,Intimidation,,0
+2000,Federal,,Tennessee,2000-04-01,0,0,1,1,0,Asian,Asian,1,Vandalism,1,Highway/Street,,Racial Bias,,0
+2000,Local,,Texas,2000-07-15,1,0,1,1,0,Hispanic,Hispanic,1,Simple Assault,1,Residence,,Ethnicity,,0
+2000,State,,Utah,2000-03-20,0,0,2,2,0,White,White,2,Vandalism,2,Commercial Area,,Intimidation,,0
+2001,Federal,,Vermont,2001-04-01,1,0,1,1,0,Black,Black,1,Intimidation,1,Highway/Street,,Racial Bias,,0
+2001,Local,,Virginia,2001-07-15,1,0,1,1,0,Asian,Asian,1,Simple Assault,1,Residence,,Racial Bias,,0
+2001,State,,Washington,2001-02-15,0,0,2,2,0,White,White,2,Vandalism,2,Commercial Area,,Intimidation,,0
+2002,Federal,,West Virginia,2002-04-01,0,0,1,1,0,Hispanic,Hispanic,1,Vandalism,1,Highway/Street,,Ethnicity,,0
+2002,Local,,Wisconsin,2002-07-15,1,0,1,1,0,Black,Black,1,Simple Assault,1,Residence,,Racial Bias,,0
+2002,State,,Wyoming,2002-03-20,0,0,2,2,0,White,White,2,Vandalism,2,Commercial Area,,Intimidation,,0
+2011,Local,,Alabama,2011-02-15,1,0,1,1,0,White,White,1,Vandalism,1,Residence,,Intimidation,,0
+2011,State,,Alaska,2011-08-25,0,0,1,1,0,Asian,Asian,1,Simple Assault,1,Commercial Area,,Racial Bias,,0
+2011,Federal,,Arizona,2011-05-01,1,0,1,1,0,Hispanic,Hispanic,1,Intimidation,1,Highway/Street,,Ethnicity,,0
+2011,Local,,Arkansas,2011-11-15,0,0,1,1,0,Black,Black,1,Vandalism,1,Residence,,Racial Bias,,0
+2012,State,,California,2012-03-20,1,0,2,2,0,White,White,2,Simple Assault,2,Commercial Area,,Intimidation,,0
+2012,Federal,,Colorado,2012-09-10,0,0,1,1,0,Asian,Asian,1,Vandalism,1,Highway/Street,,Racial Bias,,0
+2012,Local,,Connecticut,2012-01-10,1,0,1,1,0,Hispanic,Hispanic,1,Simple Assault,1,Residence,,Ethnicity,,0
+2012,State,,Delaware,2012-07-25,0,0,2,2,0,White,White,2,Vandalism,2,Commercial Area,,Intimidation,,0
+2013,Federal,,Florida,2013-04-01,1,0,1,1,0,Black,Black,1,Intimidation,1,Highway/Street,,Racial Bias,,0

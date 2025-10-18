@@ -1,0 +1,42 @@
+"2003,City,NY,New York,2003-09-01,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,2,Hate Crime Against Sexual Orientation,3.0,Hotel/Motel,Anti-Gay (Male),Two or More,Sexual Orientation,M,M
+2005,College or University,IL,Illinois,2005-03-25,2.0,0.0,0,0.0,0.0,Hispanic or Latino,Not Specified,1,Simple Assault,1.0,Public Park,Undetermined,Individual,Sexual Orientation,M,M
+1999,Other,FL,Florida,1999-08-03,0.0,1.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Forcible Rape,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Female),Other,Unknown,N,N
+2006,State,GA,Georgia,2006-10-14,2.0,0.0,2,2.0,0.0,White,Not Hispanic or Latino,3,Murder,5.0,School/College,Anti-Hispanic or Latino,Individual,Unknown,M,M
+2013,Other,MA,Massachusetts,2013-02-07,0.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Intimidation,1.0,Business,Undetermined,Individual,Unknown,M,M
+1996,City,NM,New Mexico,1996-11-18,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Hate Crime Against Sexual Orientation,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,Unknown,S,S
+2009,Other,CO,Colorado,2009-04-05,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Civil Rights,1.0,Hotel/Motel,Anti-White,Individual,Unknown,M,M
+2001,City,NC,North Carolina,2001-12-27,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Other,Unknown,M,M
+1994,Other,CT,Connecticut,1994-06-21,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Intimidation,1.0,School/College,Undetermined,Individual,Unknown,S,S
+2002,State,IN,Indiana,2002-03-04,2.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,2,Hate Crime Against Sexual Orientation,2.0,School/College,Anti-Homosexual,Individual,Unknown,M,M
+2007,College or University,OH,Ohio,2007-01-11,1.0,0.0,0,0.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Civil Rights,1.0,Hotel/Motel,Undetermined,Individual,Unknown,M,M
+2008,State,WI,Wisconsin,2008-09-14,2.0,0.0,2,2.0,0.0,Black or African American,Not Hispanic or Latino,4,Simple Assault,4.0,Public Park,Anti-Gay (Female),Two or More,Unknown,M,M
+2004,Other,PA,Pennsylvania,2004-02-05,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Intimidation,1.0,Hotel/Motel,Undetermined,Individual,Unknown,M,M
+1995,State,VT,Vermont,1995-09-07,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Forcible Rape,1.0,School/College,Undetermined,Individual,Unknown,S,S
+2000,College or University,TX,Texas,2000-06-16,1.0,0.0,0,0.0,0.0,White,Not Hispanic or Latino,2,Hate Crime Against Religion,2.0,Hotel/Motel,Undetermined,Individual,Unknown,M,M
+2010,Other,ME,Maine,2010-05-01,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Civil Rights,1.0,Hotel/Motel,Undetermined,Individual,Unknown,M,M
+2005,State,SC,South Carolina,2005-07-03,2.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,2,Hate Crime Against Sexual Orientation,2.0,Hotel/Motel,Anti-Gay (Female),Individual,Unknown,M,M
+2006,Other,VT,Vermont,2006-11-20,0.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Civil Rights,1.0,Hotel/Motel,Undetermined,Individual,Unknown,M,M
+2007,College or University,IA,Iowa,2007-04-25,1.0,0.0,0,0.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Hate Crime Against Sexual Orientation,1.0,Hotel/Motel,Anti-Gay (Male),Individual,Unknown,M,M
+1998,State,ND,North Dakota,1998-02-18,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Intimidation,1.0,Hotel/Motel,Undetermined,Individual,Unknown,S,S
+2009,State,MI,Michigan,2009-06-12,2.0,0.0,2,2.0,0.0,White,Not Hispanic or Latino,4,Hate Crime Against Religion,4.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Two or More,Unknown,M,M
+2012,Other,MT,Montana,2012-08-22,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Forcible Rape,1.0,Hotel/Motel,Undetermined,Individual,Unknown,M,M
+2003,College or University,WY,Wyoming,2003-12-07,1.0,0.0,0,0.0,0.0,Black or African American,Not Hispanic or Latino,1,Hate Crime Against Sexual Orientation,1.0,Hotel/Motel,Anti-Gay (Male),Individual,Unknown,M,M
+1992,State,DE,Delaware,1992-03-20,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Intimidation,1.0,Hotel/Motel,Undetermined,Individual,Unknown,S,S
+2011,Other,KS,Kansas,2011-02-02,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Civil Rights,1.0,Hotel/Motel,Undetermined,Individual,Unknown,M,M
+2004,State,MA,Massachusetts,2004-10-15,2.0,0.0,2,2.0,0.0,Black or African American,Not Hispanic or Latino,4,Hate Crime Against Sexual Orientation,4.0,Public Park,Anti-Gay (Male),Two or More,Unknown,M,M
+2002,Other,RI,Rhode Island,2002-09-11,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Intimidation,1.0,Hotel/Motel,Undetermined,Individual,Unknown,M,M
+2000,State,AR,Arkansas,2000-01-10,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,2,Hate Crime Against Sexual Orientation,2.0,Hotel/Motel,Anti-Gay (Female),Individual,Unknown,M,M
+1996,College or University,OK,Oklahoma,1996-07-27,1.0,0.0,0,0.0,0.0,White,Not Hispanic or Latino,1,Hate Crime Against Religion,1.0,Hotel/Motel,Undetermined,Individual,Unknown,S,S
+2008,Other,AL,Alabama,2008-03-22,0.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Civil Rights,1.0,Hotel/Motel,Undetermined,Individual,Unknown,M,M
+2006,State,LA,Louisiana,2006-04-21,2.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,2,Hate Crime Against Sexual Orientation,2.0,Public Park,Anti-Gay (Male),Individual,Unknown,M,M
+1998,College or University,NE,Nebraska,1998-09-09,1.0,0.0,0,0.0,0.0,Asian,Not Hispanic or Latino,1,Hate Crime Against Religion,1.0,Hotel/Motel,Undetermined,Individual,Unknown,S,S
+2005,State,WV,West Virginia,2005-08-31,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,2,Hate Crime Against Sexual Orientation,2.0,Hotel/Motel,Anti-Gay (Male),Individual,Unknown,M,M
+2000,Other,MS,Mississippi,2000-11-06,0.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Forcible Rape,1.0,Hotel/Motel,Undetermined,Individual,Unknown,M,M
+2014,State,TN,Tennessee,2014-07-01,2.0,0.0,2,2.0,0.0,White,Not Hispanic or Latino,4,Murder,4.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Two or More,Unknown,M,M
+1993,College or University,KS,Kansas,1993-04-13,1.0,0.0,0,0.0,0.0,Black or African American,Not Hispanic or Latino,1,Hate Crime Against Sexual Orientation,1.0,Hotel/Motel,Anti-Gay (Male),Individual,Unknown,M,M
+2009,Other,UT,Utah,2009-05-25,0.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Civil Rights,1.0,Hotel/Motel,Undetermined,Individual,Unknown,M,M
+2001,State,IA,Iowa,2001-11-22,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,2,Hate Crime Against Sexual Orientation,2.0,Public Park,Anti-Gay (Male),Individual,Unknown,M,M
+2007,State,ND,North Dakota,2007-12-11,2.0,0.0,2,2.0,0.0,Asian,Not Hispanic or Latino,4,Hate Crime Against Sexual Orientation,4.0,Public Park,Anti-Gay (Female),Two or More,Unknown,M,M
+2003,Other,OR,Oregon,2003-03-19,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Intimidation,1.0,Hotel/Motel,Undetermined,Individual,Unknown,M,M
+1999,State,NY,New York,1999-02-24,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Civil Rights,1.0,Hotel/Motel,Undetermined,Individual,Unknown,S,S
+2013,College or University,MN,Minnesota,2013-01-26,1.0,0.0,0,0.0,0.0,Black or African American,Not Hispanic or Latino,1,Hate Crime Against Religion,1.0,Hotel/Motel,Undetermined,Individual,Unknown,M,M"

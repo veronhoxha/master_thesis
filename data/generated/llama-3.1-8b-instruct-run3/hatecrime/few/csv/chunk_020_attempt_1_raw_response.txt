@@ -1,0 +1,45 @@
+"2004,City,CA,California,2004-02-20,,1.0,,1.0,0.0,White,Not Specified,1,Simple Assault,1.0,Residence/Home,Unknown,Individual,S,Y
+1995,County,FL,Florida,1995-09-12,0.0,,0.0,0.0,0.0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Highway/Road/Alley/Street/Sidewalk,Unknown,Individual,N,Y
+2001,Other,GA,Georgia,2001-04-16,1.0,0.0,1,1.0,0.0,Asian or Asian American,Not Hispanic or Latino,1,Murder,2.0,College/University,Unknown,Individual,S,S
+1991,City,IL,Illinois,1991-04-01,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Specified,1,Aggravated Assault,1.0,Residence/Home,Unknown,Individual,S,Y
+2009,State,MI,Michigan,2009-06-17,0.0,0.0,0.0,0.0,0.0,White,Not Specified,1,Intimidation,1.0,Highway/Road/Alley/Street/Sidewalk,Unknown,Other,N,Y
+1992,County,NJ,New Jersey,1992-05-28,0.0,1.0,0.0,0.0,1.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Home,Unknown,Individual,N,Y
+2006,City,NY,New York,2006-08-17,,1.0,1.0,0.0,0.0,Asian or Asian American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Unknown,Individual,S,Y
+2008,County,OH,Ohio,2008-11-05,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Robbery,1.0,Highway/Road/Alley/Street/Sidewalk,Unknown,Individual,N,Y
+1999,City,PA,Pennsylvania,1999-04-03,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Specified,1,Simple Assault,1.0,Public Park or Recreational Area,Unknown,Individual,N,Y
+2003,Other,TX,Texas,2003-09-20,0.0,0.0,0.0,0.0,0.0,White,Not Hispanic or Latino,1,Intimidation,1.0,Public Transportation (Bus, Taxi, etc.),Unknown,Other,N,Y
+2012,State,WA,Washington,2012-07-25,1.0,0.0,1,1.0,0.0,Asian or Asian American,Not Hispanic or Latino,1,Aggravated Assault,2.0,Residence/Home,Anti-White,Individual,S,Y
+1998,County,IN,Indiana,1998-03-09,0.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Public Park or Recreational Area,Unknown,Individual,S,Y
+2005,City,MA,Massachusetts,2005-08-25,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Individual,S,S
+1996,City,NC,North Carolina,1996-02-14,0.0,0.0,0.0,0.0,0.0,White,Not Specified,1,Intimidation,1.0,Public Park or Recreational Area,Unknown,Individual,S,S
+2007,County,NE,Nebraska,2007-05-10,0.0,0.0,0.0,0.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Unknown,Individual,N,Y
+2002,State,NM,New Mexico,2002-06-01,,1.0,1.0,0.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Home,Unknown,Individual,N,Y
+1994,County,OR,Oregon,1994-10-22,1.0,0.0,1,1.0,0.0,Asian or Asian American,Not Hispanic or Latino,1,Simple Assault,1.0,Public Park or Recreational Area,Unknown,Individual,S,Y
+2000,City,RI,Rhode Island,2000-09-21,0.0,0.0,0.0,0.0,0.0,White,Not Specified,1,Intimidation,1.0,Public Park or Recreational Area,Unknown,Individual,N,S
+1993,City,SC,South Carolina,1993-09-27,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Unknown,Individual,S,Y
+2004,City,SD,South Dakota,2004-06-03,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Home,Unknown,Individual,N,Y
+1992,County,TN,Tennessee,1992-09-18,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Robbery,1.0,Public Park or Recreational Area,Unknown,Individual,S,Y
+2007,State,AK,Alaska,2007-01-31,1.0,0.0,1,1.0,0.0,Asian or Asian American,Not Hispanic or Latino,1,Aggravated Assault,1.0,Residence/Home,Anti-White,Individual,S,Y
+2005,City,AR,Arkansas,2005-06-17,0.0,0.0,0.0,0.0,0.0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Public Park or Recreational Area,Unknown,Individual,N,S
+1999,County,AZ,Arizona,1999-08-21,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Public Park or Recreational Area,Unknown,Individual,N,Y
+1995,State,VT,Vermont,1995-02-25,0.0,0.0,1,1.0,0.0,White,Not Specified,1,Robbery,1.0,Residence/Home,Unknown,Other,N,Y
+2009,City,WI,Wisconsin,2009-07-21,1.0,0.0,1,1.0,0.0,Asian or Asian American,Not Hispanic or Latino,1,Simple Assault,1.0,Public Park or Recreational Area,Anti-White,Individual,S,S
+2011,County,WV,West Virginia,2011-06-10,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Robbery,1.0,Public Park or Recreational Area,Unknown,Individual,N,S
+1997,City,WY,Wyoming,1997-06-18,0.0,0.0,0.0,0.0,0.0,White,Not Specified,1,Intimidation,1.0,Public Library,Unknown,Individual,S,Y
+2008,County,CT,Connecticut,2008-09-20,1.0,0.0,1,1.0,0.0,Asian or Asian American,Not Hispanic or Latino,1,Aggravated Assault,1.0,Residence/Home,Anti-Asian,Individual,N,Y
+2002,City,DE,Delaware,2002-06-25,0.0,0.0,0.0,0.0,0.0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Public Park or Recreational Area,Unknown,Individual,S,Y
+2006,County,HI,Hawaii,2006-06-01,0.0,0.0,0.0,0.0,0.0,White,Not Specified,1,Simple Assault,1.0,Public Library,Unknown,Other,N,Y
+1991,State,CO,Colorado,1991-05-27,1.0,0.0,1,1.0,0.0,Asian or Asian American,Not Hispanic or Latino,1,Simple Assault,1.0,Public Park or Recreational Area,Unknown,Individual,N,S
+2003,County,IL,Illinois,2003-09-23,0.0,0.0,0.0,0.0,0.0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Highway/Road/Alley/Street/Sidewalk,Unknown,Individual,N,Y
+2000,City,KS,Kansas,2000-11-06,0.0,0.0,0.0,0.0,0.0,White,Not Specified,1,Intimidation,1.0,Public Park or Recreational Area,Unknown,Individual,N,Y
+1994,City,KY,Kentucky,1994-01-30,0.0,0.0,0.0,0.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Public Library,Unknown,Individual,S,Y
+2007,State,LA,Louisiana,2007-08-05,0.0,0.0,0.0,0.0,0.0,White,Not Specified,1,Intimidation,1.0,Public Park or Recreational Area,Unknown,Other,N,Y
+1996,City,ME,Maine,1996-02-22,0.0,0.0,0.0,0.0,0.0,White,Not Specified,1,Simple Assault,1.0,Public Library,Unknown,Individual,S,Y
+1999,County,MD,Maryland,1999-07-05,0.0,0.0,0.0,0.0,0.0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Public Library,Unknown,Individual,S,S
+2002,City,MO,Missouri,2002-09-30,1.0,0.0,1,1.0,0.0,Asian or Asian American,Not Hispanic or Latino,1,Aggravated Assault,1.0,Public Park or Recreational Area,Unknown,Individual,S,Y
+1998,County,MT,Montana,1998-10-22,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Unknown,Individual,N,Y
+2005,State,NC,North Carolina,2005-04-05,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Public Library,Anti-White,Individual,N,Y
+2001,City,ND,North Dakota,2001-08-01,0.0,0.0,0.0,0.0,0.0,Asian or Asian American,Not Hispanic or Latino,1,Simple Assault,1.0,Public Library,Unknown,Individual,N,Y
+1992,County,NV,Nevada,1992-09-25,0.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Public Library,Unknown,Individual,N,Y
+2004,State,NY,New York,2004-02-10,0.0,0.0,0.0,0.0,0.0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Public Library,Unknown,Individual,S,Y
+1995,County,OH,Ohio,1995-09-23,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Unknown,Individual,N,Y"

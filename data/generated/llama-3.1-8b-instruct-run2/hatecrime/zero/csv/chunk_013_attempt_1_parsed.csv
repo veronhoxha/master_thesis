@@ -1,0 +1,44 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1993,Federal Bureau of Investigation,CA,California,1992-12-29,1,0,2,2,0,White,Hispanic or Latino,2,Intimidation,2,"Riverside, California",Anti-White,Adult,Yes,Yes
+1993,Local Police Department,NY,New York,1993-03-16,0,1,1,1,0,Asian,Asian,1,Simple Assault,1,"Brooklyn, New York",Anti-Asian,Juvenile,No,No
+2001,Local Police Department,TX,Texas,2001-08-15,1,0,3,3,0,Black or African American,Hispanic or Latino,3,Aggravated Assault,3,"Dallas, Texas",Anti-Hispanic,Adult,Yes,Yes
+2011,Federal Bureau of Investigation,IL,Illinois,2011-06-21,0,0,2,2,0,American Indian or Alaska Native,Native Hawaiian or Other Pacific Islander,2,Intimidation,2,"Chicago, Illinois",Anti-Native American,Adult,Yes,Yes
+2009,Local Police Department,FL,Florida,2009-10-12,1,0,1,1,0,White,White,1,Vandalism,1,"Miami, Florida",Anti-White,Adult,No,No
+1992,Federal Bureau of Investigation,OH,Ohio,1992-02-14,2,0,1,1,0,Black or African American,Black or African American,2,Simple Assault,2,"Columbus, Ohio",Anti-Black,Adult,Yes,Yes
+2003,Local Police Department,GA,Georgia,2003-09-01,0,1,1,1,0,Asian,Asian,1,Vandalism,1,"Atlanta, Georgia",Anti-Asian,Juvenile,No,No
+2010,Federal Bureau of Investigation,PA,Pennsylvania,2010-11-25,1,0,2,2,0,White,Hispanic or Latino,2,Intimidation,2,"Philadelphia, Pennsylvania",Anti-White,Adult,Yes,Yes
+1992,Local Police Department,NJ,New Jersey,1992-07-18,0,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1,"Newark, New Jersey",Anti-Hispanic,Adult,No,No
+2002,Local Police Department,MI,Michigan,2002-04-20,1,0,1,1,0,White,White,1,Vandalism,1,"Detroit, Michigan",Anti-White,Adult,No,No
+2012,Federal Bureau of Investigation,NC,North Carolina,2012-01-15,0,0,2,2,0,Black or African American,Black or African American,2,Intimidation,2,"Raleigh, North Carolina",Anti-Black,Adult,Yes,Yes
+2008,Local Police Department,CO,Colorado,2008-06-28,0,1,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1,"Denver, Colorado",Anti-Hispanic,Juvenile,No,No
+2013,Federal Bureau of Investigation,MA,Massachusetts,2013-10-10,1,0,2,2,0,White,White,2,Intimidation,2,"Boston, Massachusetts",Anti-White,Adult,Yes,Yes
+1995,Local Police Department,AZ,Arizona,1995-05-22,0,0,1,1,0,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,1,Vandalism,1,"Phoenix, Arizona",Anti-Native American,Adult,No,No
+2007,Local Police Department,NV,Nevada,2007-09-19,1,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,1,"Las Vegas, Nevada",Anti-Black,Adult,No,No
+1992,Federal Bureau of Investigation,WA,Washington,1992-10-01,0,0,1,1,0,White,White,1,Vandalism,1,"Seattle, Washington",Anti-White,Adult,No,No
+2014,Federal Bureau of Investigation,IN,Indiana,2014-02-16,0,0,2,2,0,Asian,Asian,2,Intimidation,2,"Indianapolis, Indiana",Anti-Asian,Adult,Yes,Yes
+2001,Local Police Department,SC,South Carolina,2001-07-17,1,0,1,1,0,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,1,Simple Assault,1,"Columbia, South Carolina",Anti-Native American,Adult,No,No
+2006,Local Police Department,OR,Oregon,2006-08-02,0,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Vandalism,1,"Portland, Oregon",Anti-Hispanic,Adult,No,No
+1992,Federal Bureau of Investigation,KS,Kansas,1992-03-05,1,0,1,1,0,White,White,1,Simple Assault,1,"Topeka, Kansas",Anti-White,Adult,No,No
+2011,Local Police Department,AL,Alabama,2011-05-13,0,1,1,1,0,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,1,Simple Assault,1,"Birmingham, Alabama",Anti-Native American,Juvenile,No,No
+1992,Local Police Department,VT,Vermont,1992-09-16,0,0,1,1,0,White,White,1,Vandalism,1,"Montpelier, Vermont",Anti-White,Adult,No,No
+2009,Federal Bureau of Investigation,IA,Iowa,2009-04-11,1,0,2,2,0,Black or African American,Black or African American,2,Intimidation,2,"Des Moines, Iowa",Anti-Black,Adult,Yes,Yes
+2003,Local Police Department,WI,Wisconsin,2003-11-25,0,0,1,1,0,Asian,Asian,1,Vandalism,1,"Madison, Wisconsin",Anti-Asian,Adult,No,No
+2012,Federal Bureau of Investigation,MS,Mississippi,2012-08-22,0,0,2,2,0,White,White,2,Intimidation,2,"Jackson, Mississippi",Anti-White,Adult,Yes,Yes
+2008,Local Police Department,CT,Connecticut,2008-01-15,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1,"Hartford, Connecticut",Anti-Hispanic,Adult,No,No
+2010,Local Police Department,KY,Kentucky,2010-03-20,0,0,1,1,0,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,1,Vandalism,1,"Frankfort, Kentucky",Anti-Native American,Adult,No,No
+2005,Local Police Department,ID,Idaho,2005-11-15,0,1,1,1,0,Asian,Asian,1,Simple Assault,1,"Boise, Idaho",Anti-Asian,Juvenile,No,No
+2013,Federal Bureau of Investigation,DE,Delaware,2013-06-05,1,0,2,2,0,White,White,2,Intimidation,2,"Dover, Delaware",Anti-White,Adult,Yes,Yes
+2004,Local Police Department,NM,New Mexico,2004-02-28,0,0,1,1,0,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,1,Vandalism,1,"Santa Fe, New Mexico",Anti-Native American,Adult,No,No
+1993,Federal Bureau of Investigation,AK,Alaska,1993-07-04,1,0,1,1,0,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,1,Simple Assault,1,"Juneau, Alaska",Anti-Native American,Adult,No,No
+2002,Local Police Department,MT,Montana,2002-05-29,1,0,1,1,0,White,White,1,Vandalism,1,"Helena, Montana",Anti-White,Adult,No,No
+2014,Federal Bureau of Investigation,WY,Wyoming,2014-09-10,0,0,2,2,0,Black or African American,Black or African American,2,Intimidation,2,"Cheyenne, Wyoming",Anti-Black,Adult,Yes,Yes
+2000,Local Police Department,UT,Utah,2000-01-18,0,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Vandalism,1,"Salt Lake City, Utah",Anti-Hispanic,Adult,No,No
+1994,Federal Bureau of Investigation,MO,Missouri,1994-08-25,1,0,1,1,0,Asian,Asian,1,Simple Assault,1,"Kansas City, Missouri",Anti-Asian,Adult,No,No
+2007,Local Police Department,OK,Oklahoma,2007-02-14,1,0,1,1,0,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,1,Vandalism,1,"Oklahoma City, Oklahoma",Anti-Native American,Adult,No,No
+1995,Local Police Department,NE,Nebraska,1995-11-01,0,0,1,1,0,White,White,1,Simple Assault,1,"Lincoln, Nebraska",Anti-White,Adult,No,No
+2004,Local Police Department,AR,Arkansas,2004-03-22,0,1,1,1,0,Asian,Asian,1,Simple Assault,1,"Little Rock, Arkansas",Anti-Asian,Juvenile,No,No
+2012,Federal Bureau of Investigation,TN,Tennessee,2012-10-11,1,0,1,1,0,White,White,1,Simple Assault,1,"Nashville, Tennessee",Anti-White,Adult,No,No
+2006,Local Police Department,GA,Georgia,2006-07-18,1,0,1,1,0,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,1,Vandalism,1,"Atlanta, Georgia",Anti-Native American,Adult,No,No
+2009,Local Police Department,OH,Ohio,2009-01-15,0,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Vandalism,1,"Columbus, Ohio",Anti-Hispanic,Adult,No,No
+2005,Local Police Department,LA,Louisiana,2005-04-11,0,1,1,1,0,Native Hawaiian or Other Pacific Islander,Native Hawaiian or Other Pacific Islander,1,Simple Assault,1,"Baton Rouge, Louisiana",Anti-Native American,Juvenile,No,No
+2011,Federal Bureau of Investigation,VT,Vermont,2011-11-01,0,0,1,1,0,White,White,1,Vandalism,1,"Montpelier, Vermont",Anti-White,Adult,No,No

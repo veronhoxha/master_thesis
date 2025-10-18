@@ -1,0 +1,49 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+,,,New York,1991-06-15,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,,,Individual,Y,Y
+,,,Florida,1992-09-28,0.0,0.0,1,0.0,1.0,White,Not Specified,1,Vandalism,1.0,,,Individual,Y,Y
+,,,Texas,1993-03-20,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Specified,1,Aggravated Assault,1.0,,,"""Individual""",Y,Y
+,,,California,1994-07-17,0.0,1.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,,,Individual,Y,Y
+,,,Georgia,1995-02-02,0.0,0.0,1,0.0,1.0,White,Not Specified,1,Larceny/Theft,1.0,,,Individual,Y,N
+,,,Illinois,1996-10-27,2.0,0.0,2,2.0,0.0,Black or African American,Not Hispanic or Latino,2,Aggravated Assault,2.0,,,Individual,Y,Y
+,,,California,1997-05-04,0.0,1.0,1,0.0,1.0,White,Not Specified,1,Aggravated Assault,1.0,,,Individual,Y,Y
+,,,Michigan,1998-11-20,0.0,0.0,2,0.0,2.0,Hispanic or Latino,Not Hispanic or Latino,2,Simple Assault,2.0,,,Individual,N,Y
+,,,North Carolina,1999-08-03,0.0,0.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Larceny/Theft,1.0,,,Individual,Y,N
+,,,Ohio,2000-05-23,1.0,0.0,2,1.0,1.0,White,Not Specified,2,Aggravated Assault,2.0,,,Individual,Y,Y
+,,,Pennsylvania,2001-12-01,0.0,0.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Vandalism,1.0,,,Individual,Y,N
+,,,New Jersey,2002-04-09,2.0,0.0,2,2.0,0.0,Hispanic or Latino,Not Hispanic or Latino,2,Simple Assault,2.0,,,Individual,Y,Y
+,,,Arizona,2003-09-14,0.0,1.0,1,0.0,1.0,White,Not Specified,1,Aggravated Assault,1.0,,,Individual,Y,Y
+,,,New Jersey,2004-05-13,0.0,0.0,0,0.0,0.0,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,,,Other,Y,N
+,,,New York,2005-01-12,0.0,0.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Larceny/Theft,1.0,,,Individual,Y,N
+,,,Texas,2006-07-31,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,,,Individual,Y,Y
+,,,Illinois,2007-09-27,1.0,0.0,2,1.0,1.0,Black or African American,Not Hispanic or Latino,2,Aggravated Assault,2.0,,,Individual,Y,Y
+,,,California,2008-02-21,0.0,1.0,1,0.0,1.0,White,Not Specified,1,Vandalism,1.0,,,Individual,Y,N
+,,,Michigan,2009-06-11,0.0,0.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Larceny/Theft,1.0,,,Individual,Y,N
+,,,North Carolina,2010-10-16,1.0,0.0,2,1.0,1.0,Asian,Not Hispanic or Latino,2,Simple Assault,2.0,,,Individual,Y,Y
+,,,Ohio,2011-08-20,2.0,0.0,2,2.0,0.0,White,Not Specified,2,Aggravated Assault,2.0,,,Individual,Y,Y
+,,,Pennsylvania,2012-04-01,0.0,1.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,,,Individual,Y,N
+,,,Georgia,2013-12-03,0.0,0.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Vandalism,1.0,,,Individual,Y,Y
+,,,New Jersey,2014-09-25,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Aggravated Assault,1.0,,,Individual,Y,N
+,,,New York,1991-03-14,0.0,0.0,1,0.0,1.0,White,Not Specified,1,Simple Assault,1.0,,,Individual,Y,N
+,,,Florida,1992-10-15,1.0,0.0,2,1.0,1.0,Black or African American,Not Hispanic or Latino,2,Larceny/Theft,2.0,,,Individual,Y,N
+,,,California,1993-04-29,0.0,1.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,,,Individual,Y,N
+,,,Georgia,1994-11-19,2.0,0.0,3,2.0,1.0,White,Not Hispanic or Latino,3,Aggravated Assault,3.0,,,Individual,Y,Y
+,,,Illinois,1995-08-05,0.0,0.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Larceny/Theft,1.0,,,Individual,Y,N
+,,,Arizona,1996-04-29,0.0,1.0,2,0.0,2.0,Black or African American,Not Hispanic or Latino,2,Simple Assault,2.0,,,Individual,Y,Y
+,,,Michigan,1997-12-12,0.0,0.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,,,Individual,Y,N
+,,,North Carolina,1998-02-22,1.0,0.0,1,1.0,0.0,White,Not Specified,1,Simple Assault,1.0,,,Individual,Y,Y
+,,,Ohio,1999-09-13,0.0,0.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Larceny/Theft,1.0,,,Individual,Y,N
+,,,Pennsylvania,2000-11-17,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,,,Individual,Y,Y
+,,,Georgia,2001-06-28,0.0,0.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,,,Individual,Y,N
+,,,Texas,2002-01-30,0.0,1.0,1,0.0,1.0,White,Not Specified,1,Aggravated Assault,1.0,,,Individual,Y,Y
+,,,Illinois,2003-10-21,1.0,0.0,2,1.0,1.0,Black or African American,Not Hispanic or Latino,2,Simple Assault,2.0,,,Individual,Y,Y
+,,,California,2004-01-01,0.0,0.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Larceny/Theft,1.0,,,Individual,Y,N
+,,,Michigan,2005-04-12,0.0,0.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,,,Individual,Y,N
+,,,North Carolina,2006-08-23,1.0,0.0,1,1.0,0.0,White,Not Specified,1,Simple Assault,1.0,,,Individual,Y,Y
+,,,Ohio,2007-02-10,0.0,0.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Larceny/Theft,1.0,,,Individual,Y,N
+,,,Pennsylvania,2008-06-07,0.0,1.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Aggravated Assault,1.0,,,Individual,Y,Y
+,,,Georgia,2009-09-04,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,,,Individual,Y,N
+,,,Illinois,2010-12-26,0.0,0.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Larceny/Theft,1.0,,,Individual,Y,N
+,,,Arizona,2011-08-09,0.0,1.0,1,0.0,1.0,White,Not Specified,1,Aggravated Assault,1.0,,,Individual,Y,Y
+,,,Michigan,2012-05-02,0.0,0.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,,,Individual,Y,N
+,,,North Carolina,2013-03-28,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,,,Individual,Y,Y
+,,,Ohio,2014-07-25,0.0,0.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Larceny/Theft,1.0,,,Individual,Y,N

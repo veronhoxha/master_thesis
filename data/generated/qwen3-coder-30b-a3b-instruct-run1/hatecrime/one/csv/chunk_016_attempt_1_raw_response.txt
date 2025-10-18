@@ -1,0 +1,56 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1992,Federal,CA,California,1992-03-18,1,0,1,1,0,White,Not Hispanic,1,Assault,1.0,Residence,Anti-Jewish,Person with disability,N,N
+2001,State,FL,Florida,2001-11-22,0,1,2,1,1,Black,Hispanic,1,Threat,1.0,Church,Anti-Hispanic,Child,N,N
+1995,Local,NY,New York,1995-07-05,2,0,1,1,0,Asian,Not Hispanic,2,Intimidation,2.0,School/College,Anti-Asian,Adult,Y,N
+2008,Federal,TX,Texas,2008-09-12,0,0,3,2,1,White,Not Hispanic,1,Harassment,1.0,Store,Anti-Christian,Adult,Y,N
+2003,Local,GA,Georgia,2003-02-27,1,1,2,1,1,Native American,Not Hispanic,2,Murder,2.0,Park,Anti-Indigenous,Child,Y,Y
+1998,State,MI,Michigan,1998-12-03,1,0,2,2,0,White,Not Hispanic,1,Assault,1.0,Road/Avenue,Anti-Gay/Lesbian,Adult,N,N
+2010,Federal,WA,Washington,2010-04-14,0,1,1,0,1,Hispanic,Hispanic,1,Felony,1.0,Hospital,Anti-Latino,Child,N,N
+1994,Local,OR,Oregon,1994-08-19,1,0,1,1,0,White,Not Hispanic,1,Intimidation,1.0,Home,Anti-Romanian,Victim was LGBTQ+,N,N
+2009,State,VA,Virginia,2009-10-30,0,1,1,0,1,Black,Not Hispanic,1,Threat,1.0,University,Anti-African American,Child,Y,N
+1991,Local,NC,Carolina,1991-06-07,2,0,2,1,1,White,Not Hispanic,2,Assault,2.0,Office Building,Anti-Hindu,Person with disability,N,N
+2007,Federal,WI,Wisconsin,2007-01-09,0,0,1,1,0,Native American,Not Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,School/College,Anti-Indigenous,Adult,N,Y
+2012,Local,IL,Illinois,2012-11-15,1,1,2,1,1,Hispanic,Hispanic,2,Assault,2.0,Grocery Store,Anti-Latino,Child,N,N
+2005,State,PA,Pennsylvania,2005-03-21,0,1,1,0,1,White,Not Hispanic,1,Threat,1.0,Place of Worship,Anti-Jewish,Child,N,N
+1999,Local,TN,Tennessee,1999-05-11,1,0,1,1,0,Black,Not Hispanic,1,Intimidation,1.0,Residence,Anti-African American,Adult,Y,N
+2000,State,AL,Alabama,2000-07-04,0,1,1,0,1,White,Not Hispanic,1,Murder,1.0,Public Place,Anti-Gay/Lesbian,Child,N,N
+1997,Federal,MO,Missouri,1997-12-29,1,0,2,1,1,White,Not Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,Restaurant,Anti-Christian,Adult,N,N
+2013,Local,NV,Nevada,2013-02-18,0,1,2,1,1,Hispanic,Hispanic,1,Assault,1.0,Hospital,Anti-Latino,Child,Y,N
+2002,State,SC,Carolina,2002-09-08,1,0,1,1,0,White,Not Hispanic,1,Threat,1.0,Housing Complex,Anti-Gay/Lesbian,Adult,N,N
+1993,Local,AZ,Arizona,1993-10-14,0,1,1,0,1,Asian,Not Hispanic,1,Intimidation,1.0,School/College,Anti-Asian,Child,Y,Y
+2006,Federal,KS,Kansas,2006-04-22,1,0,2,1,1,White,Not Hispanic,1,Assault,1.0,Store,Anti-Black or African American,Adult,N,N
+2011,Local,CT,Connecticut,2011-08-30,0,1,1,0,1,Black,Not Hispanic,1,Felony,1.0,Church,Anti-African American,Child,N,N
+1996,State,OK,Oklahoma,1996-01-17,2,0,1,1,0,White,Not Hispanic,2,Harassment,2.0,Residence,Anti-Jewish,Adult,N,N
+2004,Local,MD,Maryland,2004-06-21,1,0,2,2,0,Hispanic,Hispanic,1,Intimidation,1.0,University,Anti-Latino,Adult,Y,N
+2014,State,FL,Florida,2014-11-11,0,1,1,0,1,Asian,Not Hispanic,1,Assault,1.0,Park,Anti-Asian,Child,N,N
+2008,Local,AR,Arkansas,2008-02-28,1,0,1,1,0,Native American,Not Hispanic,1,Threat,1.0,Street,Anti-Indigenous,Adult,N,N
+1992,Federal,WV,West Virginia,1992-03-16,0,0,2,1,1,White,Not Hispanic,1,Intimidation,1.0,Public Place,Anti-Christian,Adult,N,Y
+2009,State,OH,Ohio,2009-07-13,1,1,1,1,0,White,Not Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,Grocery Store,Anti-Gay/Lesbian,Child,N,N
+2001,Local,IN,Indiana,2001-09-05,0,1,1,0,1,Hispanic,Hispanic,1,Assault,1.0,Place of Worship,Anti-Latino,Child,Y,N
+2005,Federal,NH,New Hampshire,2005-12-01,1,0,1,1,0,Black,Not Hispanic,1,Harassment,1.0,Hospital,Anti-African American,Adult,N,N
+2010,Local,MN,Minnesota,2010-01-12,0,1,2,1,1,White,Not Hispanic,1,Threat,1.0,School/College,Anti-Jewish,Child,N,N
+1997,State,ME,Maine,1997-08-24,2,0,1,1,0,White,Not Hispanic,2,Assault,2.0,Office Building,Anti-Gay/Lesbian,Adult,Yes,N
+2003,Local,ID,Idaho,2003-11-18,0,1,1,0,1,Native American,Not Hispanic,1,Felony,1.0,Residence,Anti-Indigenous,Child,N,N
+2007,Federal,NE,Nebraska,2007-05-19,1,0,2,1,1,Asian,Not Hispanic,1,Intimidation,1.0,Store,Anti-Asian,Adult,Y,N
+2012,State,VT,Verмонт,2012-03-03,0,1,1,0,1,White,Not Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,Public Place,Anti-Christian,Child,N,N
+1994,Local,LA,Louisiana,1994-10-09,1,1,2,1,1,Hispanic,Hispanic,2,Murder,2.0,School/College,Anti-Latino,Child,N,N
+2006,Federal,DN,Delaware,2006-07-20,0,1,1,0,1,White,Not Hispanic,1,Threat,1.0,University,Anti-Jewish,Child,N,N
+2000,Local,HI,Hawaii,2000-02-15,1,0,1,1,0,Asian,Not Hispanic,1,Assault,1.0,Restaurant,Anti-Asian,Adult,Y,Y
+2013,State,RI,Rhode Island,2013-04-17,0,1,2,1,1,White,Not Hispanic,1,Intimidation,1.0,Church,Anti-Christan,Child,N,N
+1999,Local,KS,Kansas,1999-08-28,2,0,1,1,0,White,Not Hispanic,2,Harassment,2.0,Home,Anti-Gay/Lesbian,Adult,N,Y
+2002,Federal,UT,Utah,2002-06-02,1,0,2,2,0,Black,Not Hispanic,1,Assault,1.0,Park,Anti-African American,Adult,N,N
+2004,Local,MT,Montana,2004-01-22,0,1,1,0,1,Hispanic,Hispanic,1,Felony,1.0,Store,Anti-Latino,Child,N,N
+2008,State,DE,Delaware,2008-12-14,1,0,2,1,1,White,Not Hispanic,1,Threat,1.0,Hospital,Anti-Jewish,Adult,N,N
+1993,Federal,WY,Wyoming,1993-05-16,0,1,1,0,1,Native American,Not Hispanic,1,Intimidation,1.0,Residence,Anti-Indigenous,Child,N,N
+2011,Local,AZ,Arizona,2011-09-11,1,0,3,2,1,White,Not Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,Office Building,Anti-Gay/Lesbian,Adult,Y,N
+2014,State,TX,Texas,2014-03-30,0,1,1,0,1,Asian,Not Hispanic,1,Threat,1.0,University,Anti-Asian,Child,N,N
+1995,Local,NJ,New Jersey,1995-07-08,1,0,2,1,1,White,Not Hispanic,1,Assault,1.0,Road/Avenue,Anti-Christian,Adult,N,N
+2001,Federal,MN,Minnesota,2001-10-14,0,0,1,0,1,White,Not Hispanic,1,Intimidation,1.0,Church,Anti-Jewish,Adult,N,Y
+1996,Local,CA,California,1996-01-21,2,1,1,1,0,Black,Not Hispanic,2,Harassment,2.0,Public Place,Anti-African American,Child,N,N
+2010,State,NV,Nevada,2010-04-27,0,1,2,1,1,Native American,Not Hispanic,1,Murder,1.0,School/College,Anti-Indigenous,Child,Y,N
+1998,Local,WI,Wisconsin,1998-11-11,1,0,1,1,0,Asian,Not Hispanic,1,Threat,1.0,Housing Complex,Anti-Asian,Adult,N,N
+2003,Federal,WV,West Virginia,2003-03-18,0,0,1,0,1,White,Not Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,Restaurant,Anti-Christian,Adult,N,Y
+2009,Local,PA,Pennsylvania,2009-02-12,1,1,1,1,0,White,Not Hispanic,1,Assault,1.0,Home,Anti-Gay/Lesbian,Child,N,N
+2006,State,MI,Michigan,2006-08-24,0,1,1,0,1,Hispanic,Hispanic,1,Felony,1.0,Store,Anti-Latino,Child,Y,N
+1991,Local,OH,Ohio,1991-06-05,1,0,1,1,0,Black,Not Hispanic,1,Intimidation,1.0,University,Anti-African American,Adult,N,N
+2012,Federal,AR,Arkansas,2012-10-19,0,1,1,0,1,White,Not Hispanic,1,Threat,1.0,Park,Anti-Jewish,Child,N,N

@@ -1,0 +1,38 @@
+"Data Year","Agency Type Name","State Abbr","State Name","Incident Date","Adult Victim Count","Juvenile Victim Count","Total Offender Count","Adult Offender Count","Juvenile Offender Count","Offender Race","Offender Ethnicity","Victim Count","Offense Name","Total Individual Victims","Location Name","Bias Desc","Victim Types","Multiple Offense","Multiple Bias"
+1991,"Local",TX,"Texas","1991-04-05",1,0,2,2,0,"White","Not Specified",2,"Simple Assault",2.0,"Parks/Recreation Area","Anti-Hispanic or Latino",Other,N
+1992,"State",NY,"New York","1992-02-22",0,1,1,1,0,"Unknown","Not Specified",1,"Intimidation",1.0,"Residential Area","Anti-Black or African American",Other,N
+1991,"Federal",IL,"Illinois","1991-10-30",0,0,1,1,0,"White","Not Hispanic or Latino",1,"Aggravated Assault",1.0,"Business/Commercial Area","Anti-Jewish",Other,N
+1993,"Local",CA,"California","1993-06-25",1,0,3,3,0,"Asian","Not Specified",3,"Vandalism",3.0,"School/College","Anti-Asian or Asian Pacific Islander",Other,N
+1994,"State",FL,"Florida","1994-01-17",0,0,1,1,0,"Unknown","Not Specified",1,"Destruction/Damage/Vandalism of Property",0.0,"Housing Area","Anti-White",Other,N
+1995,"Local",OH,"Ohio","1995-09-02",0,1,2,2,0,"Black or African American","Not Specified",3,"Simple Assault",3.0,"Parks/Recreation Area","Anti-Jewish",Other,N
+1996,"Federal",AZ,"Arizona","1996-06-11",0,0,1,1,0,"White","Not Hispanic or Latino",1,"Intimidation",1.0,"Residential Area","Anti-Hispanic or Latino",Other,N
+1991,"Local",MI,"Michigan","1991-08-11",0,0,1,1,0,"Unknown","Not Specified",1,"Vandalism",1.0,"Business/Commercial Area","Anti-Asian or Asian Pacific Islander",Other,N
+1992,"State",NC,"North Carolina","1992-05-14",0,0,1,1,0,"White","Not Specified",1,"Destruction/Damage/Vandalism of Property",0.0,"School/College","Anti-White",Other,N
+1993,"Local",GA,"Georgia","1993-03-25",1,0,2,2,0,"Black or African American","Not Specified",3,"Intimidation",3.0,"Housing Area","Anti-Jewish",Other,N
+1994,"Federal",NJ,"New Jersey","1994-07-15",0,0,1,1,0,"Unknown","Not Hispanic or Latino",1,"Vandalism",1.0,"Residential Area","Anti-Hispanic or Latino",Other,N
+1995,"Local",NV,"Nevada","1995-11-22",0,1,1,1,0,"White","Not Specified",2,"Simple Assault",2.0,"Parks/Recreation Area","Anti-Asian or Asian Pacific Islander",Other,N
+1996,"State",VT,"Vermont","1996-01-17",0,0,1,1,0,"Black or African American","Not Specified",1,"Destruction/Damage/Vandalism of Property",0.0,"School/College","Anti-White",Other,N
+1991,"Local",WI,"Wisconsin","1991-01-14",1,0,2,2,0,"Asian","Not Specified",3,"Intimidation",3.0,"Housing Area","Anti-Jewish",Other,N
+1992,"Federal",SC,"South Carolina","1992-09-07",0,0,1,1,0,"Unknown","Not Hispanic or Latino",1,"Vandalism",1.0,"Residential Area","Anti-Hispanic or Latino",Other,N
+1993,"Local",OR,"Oregon","1993-12-11",0,1,1,1,0,"White","Not Specified",2,"Simple Assault",2.0,"Parks/Recreation Area","Anti-Asian or Asian Pacific Islander",Other,N
+1994,"State",WY,"Wyoming","1994-06-15",0,0,1,1,0,"Black or African American","Not Specified",1,"Destruction/Damage/Vandalism of Property",0.0,"School/College","Anti-White",Other,N
+1995,"Local",IN,"Indiana","1995-03-25",1,0,2,2,0,"Asian","Not Specified",3,"Intimidation",3.0,"Housing Area","Anti-Jewish",Other,N
+1996,"Federal",CO,"Colorado","1996-09-02",0,0,1,1,0,"Unknown","Not Hispanic or Latino",1,"Vandalism",1.0,"Residential Area","Anti-Hispanic or Latino",Other,N
+1991,"Local",PA,"Pennsylvania","1991-07-22",0,0,1,1,0,"White","Not Specified",1,"Destruction/Damage/Vandalism of Property",0.0,"School/College","Anti-Asian or Asian Pacific Islander",Other,N
+1992,"State",AK,"Alaska","1992-04-11",0,1,1,1,0,"Black or African American","Not Specified",2,"Simple Assault",2.0,"Parks/Recreation Area","Anti-Jewish",Other,N
+1993,"Local",KY,"Kentucky","1993-01-28",1,0,2,2,0,"Asian","Not Specified",3,"Intimidation",3.0,"Housing Area","Anti-White",Other,N
+1994,"Federal",UT,"Utah","1994-10-21",0,0,1,1,0,"Unknown","Not Hispanic or Latino",1,"Vandalism",1.0,"Residential Area","Anti-Hispanic or Latino",Other,N
+1995,"Local",MO,"Missouri","1995-05-14",0,1,1,1,0,"White","Not Specified",2,"Simple Assault",2.0,"Parks/Recreation Area","Anti-Asian or Asian Pacific Islander",Other,N
+1996,"State",DE,"Delaware","1996-02-11",0,0,1,1,0,"Black or African American","Not Specified",1,"Destruction/Damage/Vandalism of Property",0.0,"School/College","Anti-White",Other,N
+1991,"Local",AL,"Alabama","1991-09-18",1,0,2,2,0,"Asian","Not Specified",3,"Intimidation",3.0,"Housing Area","Anti-Jewish",Other,N
+1992,"Federal",HI,"Hawaii","1992-06-28",0,0,1,1,0,"Unknown","Not Hispanic or Latino",1,"Vandalism",1.0,"Residential Area","Anti-Hispanic or Latino",Other,N
+1993,"Local",CT,"Connecticut","1993-11-25",0,1,1,1,0,"White","Not Specified",2,"Simple Assault",2.0,"Parks/Recreation Area","Anti-Asian or Asian Pacific Islander",Other,N
+1994,"State",TN,"Tennessee","1994-04-11",0,0,1,1,0,"Black or African American","Not Specified",1,"Destruction/Damage/Vandalism of Property",0.0,"School/College","Anti-White",Other,N
+1995,"Local",IA,"Iowa","1995-01-18",1,0,2,2,0,"Asian","Not Specified",3,"Intimidation",3.0,"Housing Area","Anti-Jewish",Other,N
+1996,"Federal",AR,"Arkansas","1996-08-11",0,0,1,1,0,"Unknown","Not Hispanic or Latino",1,"Vandalism",1.0,"Residential Area","Anti-Hispanic or Latino",Other,N
+1991,"Local",OK,"Oklahoma","1991-03-28",0,1,1,1,0,"White","Not Specified",2,"Simple Assault",2.0,"Parks/Recreation Area","Anti-Asian or Asian Pacific Islander",Other,N
+1992,"State",LA,"Louisiana","1992-10-18",0,0,1,1,0,"Black or African American","Not Specified",1,"Destruction/Damage/Vandalism of Property",0.0,"School/College","Anti-White",Other,N
+1993,"Local",MS,"Mississippi","1993-06-11",1,0,2,2,0,"Asian","Not Specified",3,"Intimidation",3.0,"Housing Area","Anti-Jewish",Other,N
+1994,"Federal",ID,"Idaho","1994-01-14",0,0,1,1,0,"Unknown","Not Hispanic or Latino",1,"Vandalism",1.0,"Residential Area","Anti-Hispanic or Latino",Other,N
+1995,"Local",MT,"Montana","1995-09-18",0,1,1,1,0,"White","Not Specified",2,"Simple Assault",2.0,"Parks/Recreation Area","Anti-Asian or Asian Pacific Islander",Other,N
+1996,"State",ME,"Maine","1996-04-11",0,0,1,1,0,"Black or African American","Not Specified",1,"Destruction/Damage/Vandalism of Property",0.0,"School/College","Anti-White",Other,N

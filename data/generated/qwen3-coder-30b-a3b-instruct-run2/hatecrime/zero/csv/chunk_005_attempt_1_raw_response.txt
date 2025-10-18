@@ -1,0 +1,76 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,Local Police,CA,California,1991-03-15,1,0,2,1,1,White,Not Hispanic,1,Assault,1,Residence,Religious Bias,"Male Victim",False,False
+1992,State Police,FL,Florida,1992-07-22,0,1,3,2,1,Black,Hispanic,1,Property Damage,1,Street,Racial Bias,"Female Victim",True,False
+1993,Local Police,NY,New York,1993-11-08,2,0,4,3,1,Asian,Not Hispanic,2,Assault,2,School,Sexual Orientation Bias,"Male Victim",False,True
+1994,Federal Agency,TX,Texas,1994-02-19,1,1,2,1,1,White,Not Hispanic,2,Burglary,2,Residence,Religious Bias,"Female Victim",False,False
+1995,Local Police,GA,Georgia,1995-09-30,0,2,3,2,1,Hispanic,Hispanic,2,Harassment,2,Restaurant,Racial Bias,"Male Victim",True,True
+1996,State Police,IL,Illinois,1996-04-12,1,0,1,1,0,White,Not Hispanic,1,Threats,1,Street,Gender Bias,"Male Victim",False,False
+1997,Local Police,OH,Ohio,1997-10-05,1,0,2,1,1,Black,Not Hispanic,1,Assault,1,Bar,Hate Crime,,"Female Victim",False,True
+1998,County Sheriff,VA,Virginia,1998-01-28,0,1,2,1,1,Hispanic,Hispanic,1,Molesting,1,House,Religious Bias,"Male Victim",True,False
+1999,Local Police,NC,North Carolina,1999-06-14,2,0,3,2,1,White,Not Hispanic,2,Burglary,2,School,Sexual Orientation Bias,"Female Victim",False,False
+2000,Federal Agency,WA,Washington,2000-08-20,1,1,2,1,1,Asian,Not Hispanic,2,Assault,2,Store,Racial Bias,"Male Victim",True,True
+2001,State Police,MI,Michigan,2001-12-03,0,1,3,2,1,White,Hispanic,1,Bomb Threat,1,Park,Religious Bias,"Female Victim",False,False
+2002,Local Police,PA,Pennsylvania,2002-03-11,1,0,2,1,1,Black,Not Hispanic,1,Robbery,1,School,Hate Crime,,"Male Victim",True,False
+2003,County Sheriff,MD,Maryland,2003-05-27,0,2,2,1,1,White,Not Hispanic,2,Harassment,2,Workplace,Gender Bias,"Female Victim",False,True
+2004,Local Police,IN,Indiana,2004-09-16,2,0,4,3,1,Hispanic,Not Hispanic,2,Assault,2,House,Racial Bias,"Male Victim",False,False
+2005,Federal Agency,SC,South Carolina,2005-02-24,0,1,2,1,1,Asian,Hispanic,1,Molesting,1,Street,Religious Bias,"Female Victim",True,True
+2006,State Police,TN,Tennessee,2006-11-10,1,0,3,2,1,White,Not Hispanic,1,Burglary,1,Cemetery,Sexual Orientation Bias,"Male Victim",False,False
+2007,Local Police,AR,Arkansas,2007-07-07,1,1,4,3,1,Black,Not Hispanic,2,Assault,2,Residence,Hate Crime,,"Female Victim",True,False
+2008,County Sheriff,MN,Minnesota,2008-10-18,0,1,2,1,1,Hispanic,Hispanic,1,Threats,1,Restaurant,Racial Bias,"Female Victim",False,True
+2009,Local Police,WV,West Virginia,2009-01-22,2,0,2,1,1,White,Not Hispanic,2,Robbery,2,Store,Religious Bias,"Male Victim",False,False
+2010,Federal Agency,KY,Kentucky,2010-04-30,1,1,3,2,1,Asian,Not Hispanic,2,Property Damage,2,School,Gender Bias,"Male Victim",True,True
+2011,State Police,LA,Louisiana,2011-08-15,0,1,2,1,1,White,Hispanic,1,Assault,1,House,Sexual Orientation Bias,"Female Victim",False,False
+2012,Local Police,NJ,New Jersey,2012-02-13,1,0,3,2,1,Black,Not Hispanic,1,Burglary,1,Street,Hate Crime,,"Male Victim",False,True
+2013,County Sheriff,VT,Vermont,2013-06-20,0,2,2,1,1,Hispanic,Hispanic,2,Harassment,2,Residence,Racial Bias,"Female Victim",True,False
+2014,Local Police,NH,New Hampshire,2014-12-06,2,0,4,3,1,White,Not Hispanic,2,Assault,2,School,Religious Bias,"Male Victim",False,False
+2001,State Police,MN,Minnesota,2001-05-19,1,0,3,2,1,Hispanic,Not Hispanic,1,Robbery,1,Workplace,Gender Bias,"Female Victim",False,True
+2002,Local Police,OH,Ohio,2002-09-11,0,2,2,1,1,Black,Hispanic,2,Burglary,2,Residence,Hate Crime,,"Male Victim",True,False
+2003,County Sheriff,CO,Colorado,2003-11-08,2,0,2,1,1,White,Not Hispanic,2,Assault,2,Store,Racial Bias,"Female Victim",False,False
+2004,Local Police,AL,Alabama,2004-03-22,1,1,4,3,1,Asian,Not Hispanic,2,Property Damage,2,Park,Religious Bias,"Male Victim",False,True
+2005,Federal Agency,WI,Wisconsin,2005-07-14,0,1,3,2,1,White,Hispanic,1,Threats,1,Street,Sexual Orientation Bias,"Female Victim",True,False
+2006,State Police,KS,Kansas,2006-10-02,1,0,2,1,1,Black,Not Hispanic,1,Robbery,1,School,Hate Crime,,"Male Victim",False,True
+2007,Local Police,VA,Virginia,2007-01-25,0,1,3,2,1,Hispanic,Hispanic,1,Assault,1,Residence,Racial Bias,"Female Victim",False,False
+2008,County Sheriff,GA,Georgia,2008-04-18,2,0,2,1,1,White,Not Hispanic,2,Burglary,2,Shopping Mall,Gender Bias,"Male Victim",True,True
+2009,Local Police,MN,Minnesota,2009-06-30,0,1,3,2,1,Asian,Hispanic,1,Harassment,1,Apartment Complex,Hate Crime,,"Female Victim",False,False
+2010,Federal Agency,MD,Maryland,2010-08-12,1,1,2,1,1,White,Not Hispanic,2,Assault,2,Office,Religious Bias,"Male Victim",True,True
+2011,State Police,FL,Florida,2011-10-05,1,0,4,3,1,Black,Not Hispanic,1,Molesting,1,Church,Sexual Orientation Bias,"Female Victim",False,False
+2012,Local Police,TN,Tennessee,2012-12-16,0,1,2,1,1,Hispanic,Hispanic,1,Bomb Threat,1,Restaurant,Racial Bias,"Male Victim",True,True
+2013,County Sheriff,UT,Utah,2013-02-28,2,0,3,2,1,White,Not Hispanic,2,Robbery,2,School,Hate Crime,,"Female Victim",False,False
+2014,Local Police,NE,Nebraska,2014-05-19,1,0,2,1,1,Asian,Not Hispanic,1,Burglary,1,Hotel,Gender Bias,"Male Victim",True,True
+2001,State Police,SC,South Carolina,2001-07-28,0,1,2,1,1,White,Hispanic,1,Assault,1,Street,Racial Bias,"Female Victim",False,False
+2002,Local Police,NY,New York,2002-09-11,2,0,3,2,1,Black,Not Hispanic,2,Property Damage,2,School,Religious Bias,"Male Victim",True,True
+2003,County Sheriff,MA,Massachusetts,2003-11-08,1,1,2,1,1,Hispanic,Hispanic,2,Burglary,2,House,Sexual Orientation Bias,"Female Victim",False,False
+2004,Local Police,AZ,Arizona,2004-01-20,0,1,3,2,1,White,Not Hispanic,1,Assault,1,Shopping Mall,Hate Crime,,"Male Victim",True,True
+2005,Federal Agency,NJ,New Jersey,2005-03-15,1,0,2,1,1,Asian,Not Hispanic,1,Threats,1,Residence,Gender Bias,"Female Victim",False,False
+2006,State Police,MN,Minnesota,2006-06-05,1,1,4,3,1,White,Hispanic,2,Robbery,2,Street,Racial Bias,"Male Victim",True,True
+2007,Local Police,MO,Missouri,2007-08-27,0,1,2,1,1,Black,Not Hispanic,1,Molesting,1,Restaurant,Religious Bias,"Female Victim",False,False
+2008,County Sheriff,AL,Alabama,2008-10-30,2,0,3,2,1,Hispanic,Hispanic,2,Burglary,2,Church,Hate Crime,,"Male Victim",True,True
+2009,Local Police,DE,Delaware,2009-12-12,1,1,2,1,1,White,Not Hispanic,2,Assault,2,Park,Sexual Orientation Bias,"Female Victim",False,False
+2010,Federal Agency,NH,New Hampshire,2010-02-24,0,1,3,2,1,Asian,Hispanic,1,Threats,1,Home,Racial Bias,"Male Victim",True,True
+2011,State Police,VT,Verмонт,2011-04-19,1,0,2,1,1,White,Not Hispanic,1,Burglary,1,Store,Gender Bias,"Female Victim",False,False
+2012,Local Police,RI,Rhode Island,2012-06-03,0,2,2,1,1,Black,Not Hispanic,2,Harassment,2,Apartment Complex,Hate Crime,,"Male Victim",True,True
+2013,County Sheriff,ND,North Dakota,2013-08-18,2,0,3,2,1,Hispanic,Hispanic,2,Assault,2,School,Religious Bias,"Female Victim",False,False
+2014,Local Police,ID,Idaho,2014-10-01,1,1,4,3,1,White,Not Hispanic,2,Molesting,2,House,Sexual Orientation Bias,"Male Victim",True,True
+2001,State Police,MT,Montana,2001-11-15,0,1,2,1,1,Asian,Not Hispanic,1,Bomb Threat,1,Restaurant,Racial Bias,"Female Victim",False,False
+2002,Local Police,SD,South Dakota,2002-01-27,2,0,3,2,1,White,Hispanic,2,Robbery,2,Office,Hate Crime,,"Male Victim",True,True
+2003,County Sheriff,OK,Oklahoma,2003-03-16,1,1,2,1,1,Black,Not Hispanic,2,Burglary,2,Hotel,Gender Bias,"Female Victim",False,False
+2004,Local Police,KY,Kentucky,2004-05-08,0,1,4,3,1,Hispanic,Hispanic,1,Assault,1,Park,Racial Bias,"Male Victim",True,True
+2005,Federal Agency,NV,Nevada,2005-07-22,1,0,2,1,1,White,Not Hispanic,1,Threats,1,Residence,Religious Bias,"Female Victim",False,False
+2006,State Police,CA,California,2006-09-12,1,1,3,2,1,Asian,Not Hispanic,2,Molesting,2,School,Hate Crime,,"Male Victim",True,True
+2007,Local Police,OR,Oregon,2007-11-29,0,1,2,1,1,White,Hispanic,1,Burglary,1,Bar,Sexual Orientation Bias,"Female Victim",False,False
+2008,County Sheriff,WY,Wyoming,2008-01-10,2,0,3,2,1,Black,Not Hispanic,2,Assault,2,Street,Racial Bias,"Male Victim",True,True
+2009,Local Police,ID,Idaho,2009-03-05,1,1,2,1,1,Hispanic,Hispanic,2,Threats,2,Workplace,Hate Crime,,"Female Victim",False,False
+2010,Federal Agency,UT,Utah,2010-05-17,0,1,3,2,1,White,Not Hispanic,1,Robbery,1,Church,Gender Bias,"Male Victim",True,True
+2011,State Police,AK,Alaska,2011-07-19,1,0,2,1,1,Asian,Hispanic,1,Burglary,1,Restaurant,Hate Crime,,"Female Victim",False,False
+2012,Local Police,HI,Hawaii,2012-09-23,0,2,2,1,1,White,Not Hispanic,2,Property Damage,2,Home,Racial Bias,"Male Victim",True,True
+2013,County Sheriff,PR,Puerto Rico,2013-11-03,2,0,3,2,1,Black,Hispanic,2,Assault,2,School,Religious Bias,"Female Victim",False,False
+2014,Local Police,DC,Washington DC,2014-01-08,1,1,4,3,1,Hispanic,Hispanic,2,Molesting,2,Store,Hate Crime,,"Male Victim",True,True
+2001,State Police,FL,Florida,2001-02-10,0,1,2,1,1,White,Not Hispanic,1,Harassment,1,Park,Sexual Orientation Bias,"Female Victim",False,False
+2002,Local Police,GA,Georgia,2002-04-20,2,0,3,2,1,Asian,Hispanic,2,Robbery,2,Apartment Complex,Racial Bias,"Male Victim",True,True
+2003,County Sheriff,IN,Indiana,2003-06-28,1,1,2,1,1,White,Not Hispanic,2,Threats,2,School,Hate Crime,,"Female Victim",False,False
+2004,Local Police,MS,Mississippi,2004-08-19,0,1,3,2,1,Black,Not Hispanic,1,Burglary,1,Street,Gender Bias,"Male Victim",True,True
+2005,Federal Agency,TX,Texas,2005-10-15,1,0,2,1,1,Hispanic,Hispanic,1,Assault,1,Residence,Hate Crime,,"Female Victim",False,False
+2006,State Police,NC,North Carolina,2006-12-03,0,2,2,1,1,White,Not Hispanic,2,Molesting,2,Restaurant,Racial Bias,"Male Victim",True,True
+2007,Local Police,SJ,New Mexico,2007-01-20,2,0,3,2,1,Asian,Hispanic,2,Property Damage,2,Store,Religious Bias,"Female Victim",False,False
+2008,County Sheriff,PA,Pennsylvania,2008-03-12,1,1,2,1,1,White,Not Hispanic,2,Threats,2,Church,Hate Crime,,"Male Victim",True,True
+2009,Local Police,WV,West Virginia,2009-05-27,0,1,4,3,1,Black,Hispanic,1,Robbery,1,Workplace,Gender Bias,"Female Victim",False,False

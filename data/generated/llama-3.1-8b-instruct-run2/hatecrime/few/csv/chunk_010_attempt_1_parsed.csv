@@ -1,0 +1,52 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2008,City,NY,New York,2008-09-02,1.0,0.0,1,1.0,0.0,American Indian/Alaska Native,Not Hispanic or Latino,1,Simple Assault,1.0,Store/Mall/Apartment Complex,Anti-White,Individual,R,Y
+1991,State,FL,Florida,1991-06-15,0.0,1.0,1,0.0,1.0,Asian,Not Specified,1,Intimidation,1.0,College/University Campus,Anti-Hispanic,Group,R,Y
+1995,City,IL,Illinois,1995-10-22,0.0,0.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Vandalism,1.0,Residential Area/Apartment Complex,Anti-Black or African American,Individual,S,N
+2004,Other,MI,Michigan,2004-02-17,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Bar/Tavern/A nightclub,Anti-Gay (Female),Individual,S,S
+1994,City,GA,Georgia,1994-11-04,1.0,0.0,1,1.0,0.0,Not Specified,Not Hispanic or Latino,1,Simple Assault,1.0,Hotel/Motel,Anti-White,Individual,S,Y
+2003,State,WI,Wisconsin,2003-08-23,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Vandalism,1.0,Other,Anti-Motivated by Sexual Orientation,Individual,S,Y
+2005,City,CO,Colorado,2005-01-27,0.0,0.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Neighborhood,Anti-Anti-Arab,Individual,R,N
+1999,Other,NC,North Carolina,1999-03-28,1.0,0.0,1,1.0,0.0,Not Specified,Not Hispanic or Latino,1,Simple Assault,1.0,Warehouse/Factory,Unknown,Other,Individual,S
+2005,City,OH,Ohio,2005-12-11,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Residential Area/Apartment Complex,Anti-Gay (Male),Individual,R,Y
+2001,State,MA,Massachusetts,2001-06-22,0.0,1.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Other,Anti-Motivated by Ethnicity,Group,S,Y
+2009,Other,TX,Texas,2009-05-18,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Store/Mall/Apartment Complex,Anti-Gay (Female),Individual,S,Y
+1993,City,CT,Connecticut,1993-04-20,0.0,0.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,College/University Campus,Anti-Anti-Arab,Individual,S,N
+1997,City,LA,Louisiana,1997-04-25,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Other,Anti-White,Individual,S,S
+2009,City,OR,Oregon,2009-03-14,0.0,0.0,1,0.0,1.0,Not Specified,Not Hispanic or Latino,1,Simple Assault,1.0,Other,Anti-Gay (Male),Individual,S,Y
+2002,State,TN,Tennessee,2002-06-25,0.0,1.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,College/University Campus,Anti-Motivated by Ethnicity,Group,R,Y
+2003,Other,SC,South Carolina,2003-11-09,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Store/Mall/Apartment Complex,Anti-White,Individual,R,Y
+1996,State,IA,Iowa,1996-09-25,0.0,1.0,1,0.0,1.0,Not Specified,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Warehouse/Factory,Anti-Motivated by Ethnicity,Group,R,Y
+2004,State,WV,West Virginia,2004-07-28,0.0,1.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Vandalism,1.0,Other,Anti-Anti-Arab,Group,S,Y
+1995,City,IL,Illinois,1995-06-24,0.0,0.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Other,Anti-Anti-Arab,Individual,S,Y
+2008,State,GA,Georgia,2008-02-17,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Aggravated Assault,1.0,Residential Area/Apartment Complex,Anti-Gay (Female),Individual,R,Y
+2005,Other,CT,Connecticut,2005-08-14,0.0,0.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Vandalism,1.0,Store/Mall/Apartment Complex,Anti-Black or African American,Individual,R,N
+2003,City,FL,Florida,2003-05-22,1.0,0.0,1,1.0,0.0,Not Specified,Not Hispanic or Latino,1,Simple Assault,1.0,College/University Campus,Anti-Gay (Male),Individual,R,S
+2002,Other,OH,Ohio,2002-01-14,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Residential Area/Apartment Complex,Anti-Asian,Individual,S,Y
+2009,State,MI,Michigan,2009-03-29,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Warehouse/Factory,Anti-Black or African American,Individual,R,S
+1994,City,CA,California,1994-07-16,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Other,Anti-White,Individual,S,N
+2005,State,NC,North Carolina,2005-02-20,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,College/University Campus,Anti-Anti-Arab,Individual,R,Y
+2005,City,IN,Indiana,2005-09-18,0.0,0.0,1,0.0,1.0,Not Specified,Not Hispanic or Latino,1,Vandalism,1.0,Residential Area/Apartment Complex,Anti-Gay (Female),Individual,S,S
+1997,State,VT,Vermont,1997-10-13,0.0,1.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Vandalism,1.0,College/University Campus,Anti-Anti-Arab,Group,R,Y
+2006,Other,NV,Nevada,2006-06-12,0.0,0.0,1,0.0,1.0,Not Specified,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Anti-Arab,Individual,R,N
+2004,State,RI,Rhode Island,2004-03-21,0.0,1.0,1,0.0,1.0,Hispanic or Latino,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Warehouse/Factory,Anti-Motivated by Ethnicity,Group,R,Y
+1996,City,MI,Michigan,1996-09-02,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Other,Anti-Black or African American,Individual,S,N
+2007,State,UT,Utah,2007-04-22,0.0,1.0,1,0.0,1.0,Not Specified,Not Hispanic or Latino,1,Simple Assault,1.0,Neighborhood,Anti-Anti-Arab,Group,R,Y
+2006,Other,WI,Wisconsin,2006-01-29,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Residential Area/Apartment Complex,Anti-Gay (Male),Individual,R,Y
+2008,City,OK,Oklahoma,2008-03-18,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,College/University Campus,Anti-Asian,Individual,S,Y
+2000,State,ME,Maine,2000-07-10,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Aggravated Assault,1.0,Residential Area/Apartment Complex,Anti-Gay (Female),Individual,R,Y
+2009,State,ME,Maine,2009-09-25,0.0,1.0,1,0.0,1.0,Not Specified,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Other,Anti-Gay (Female),Group,R,N
+2003,Other,MN,Minnnesota,2003-09-21,0.0,0.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Other,Anti-Motivated by Ethnicity,Individual,S,N
+2005,City,LA,Louisiana,2005-10-11,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Store/Mall/Apartment Complex,Anti-Black or African American,Individual,R,Y
+2002,State,PA,Pennsylvania,2002-07-21,1.0,0.0,1,1.0,0.0,Not Specified,Not Hispanic or Latino,1,Aggravated Assault,1.0,Other,Anti-Anti-Arab,Individual,R,S
+1998,Other,WA,Washington,1998-02-07,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Female),Individual,R,Y
+2008,State,IN,Indiana,2008-05-01,0.0,1.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,College/University Campus,Anti-Motivated by Ethnicity,Group,R,Y
+1995,City,AL,Alabama,1995-09-09,0.0,0.0,1,0.0,1.0,Not Specified,Not Hispanic or Latino,1,Vandalism,1.0,Other,Anti-Anti-Arab,Individual,S,N
+2003,State,MO,Missouri,2003-01-15,0.0,1.0,1,0.0,1.0,Asian,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Warehouse/Factory,Anti-Motivated by Ethnicity,Group,R,Y
+2006,City,NY,New York,2006-09-28,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Residential Area/Apartment Complex,Anti-Anti-Arab,Individual,S,Y
+2007,Other,AZ,Arizona,2007-08-05,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Other,Anti-Motivated by Ethnicity,Individual,R,Y
+1996,City,NC,North Carolina,1996-02-18,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Not Hispanic or Latino,1,Simple Assault,1.0,Warehouse/Factory,Anti-Anti-Arab,Individual,R,N
+2008,City,FL,Florida,2008-11-24,0.0,0.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Neighborhood,Anti-Asian,Individual,S,Y
+2009,State,AR,Arkansas,2009-06-06,1.0,0.0,1,1.0,0.0,Not Specified,Not Hispanic or Latino,1,Simple Assault,1.0,College/University Campus,Anti-Anti-Arab,Individual,R,S
+2008,City,TX,Texas,2008-08-26,1.0,0.0,1,1.0,0.0,Asian,Not Hispanic or Latino,1,Simple Assault,1.0,Residential Area/Apartment Complex,Anti-Gay (Male),Individual,S,Y
+2000,State,HI,Hawaii,2000-08-05,0.0,1.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Vandalism,1.0,Neighborhood,Anti-Anti-Arab,Group,R,Y
+2003,City,VA,Virginia,2003-07-14,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Residential Area/Apartment Complex,Anti-White,Individual,S,Y

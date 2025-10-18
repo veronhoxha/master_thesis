@@ -1,0 +1,48 @@
+"data_year","agency_type_name","state_abbr","state_name","incident_date","adult_victim_count","juvenile_victim_count","total_offender_count","adult_offender_count","juvenile_offender_count","offender_race","offender_ethnicity","victim_count","offense_name","total_individual_victims","location_name","bias_desc","victim_types","multiple_offense","multiple_bias"
+"1994","County",,"California","1994-04-01",1,0,2,1,1,"White","Hispanic",2,"Simple Assault",2,"Residence",,"Intimidation",,"Race, Ethnicity",0,0
+"1994","County",,"California","1994-03-15",0,1,1,1,0,"Black","White",1,"Vandalism",1,"Place of Worship",,"Anti-Religious",,"Race, Ethnicity",0,0
+"2007","City",,"New York",,"2007-02-20",1,0,1,1,0,"White","Hispanic",1,"Aggravated Assault",1,"Residence",,"Racial Bias",,"Race",1,0
+"2001","City",,"Texas",,"2001-05-25",1,0,2,1,1,"Hispanic","White",2,"Simple Assault",2,"Commercial Business",,"Anti-Religious",,"Ethnicity",0,1
+"1997","State",,"Florida",,"1997-01-20",0,1,1,1,0,"Black","White",1,"Vandalism",1,"Park",,"Anti-Religious",,"Race, Ethnicity",0,0
+"2009","State",,"Illinois",,"2009-03-15",1,0,2,1,1,"Asian","White",2,"Simple Assault",2,"Residence",,"Bias Motivated",,"Race",0,0
+"2012","County",,"North Carolina",,"2012-02-28",1,0,1,1,0,"Hispanic","Hispanic",1,"Aggravated Assault",1,"Public Transportation",,"Ethnic Bias",,"Ethnicity",0,0
+"2003","City",,"Ohio",,"2003-05-10",0,1,1,1,0,"White","White",1,"Vandalism",1,"School",,"Racial Bias",,"Race",0,0
+"2005","County",,"Georgia",,"2005-03-01",1,0,2,1,1,"White","Black",2,"Simple Assault",2,"Commercial Business",,"Anti-Religious",,"Race, Ethnicity",0,1
+"1996","City",,"Massachusetts",,"1996-06-15",0,1,1,1,0,"Black","White",1,"Vandalism",1,"Residence",,"Anti-Religious",,"Race, Ethnicity",0,0
+"2008","State",,"Pennsylvania",,"2008-09-01",1,0,1,1,0,"Hispanic","Hispanic",1,"Aggravated Assault",1,"Public Transportation",,"Bias Motivated",,"Ethnicity",0,0
+"2014","City",,"Michigan",,"2014-01-20",0,1,1,1,0,"Asian","White",1,"Vandalism",1,"Commercial Business",,"Racial Bias",,"Race",0,0
+"1998","County",,"Wisconsin",,"1998-03-15",1,0,2,1,1,"White","Black",2,"Simple Assault",2,"School",,"Anti-Religious",,"Race, Ethnicity",0,0
+"2004","City",,"Colorado",,"2004-02-20",0,1,1,1,0,"White","White",1,"Vandalism",1,"Residence",,"Racial Bias",,"Race",0,0
+"2006","City",,"New Jersey",,"2006-05-01",1,0,1,1,0,"Black","Hispanic",1,"Aggravated Assault",1,"Public Transportation",,"Ethnic Bias",,"Ethnicity",0,0
+"2002","State",,"Alabama",,"2002-08-01",1,0,2,1,1,"White","Black",2,"Simple Assault",2,"Commercial Business",,"Bias Motivated",,"Race",0,1
+"2010","County",,"South Carolina",,"2010-04-01",0,1,1,1,0,"Asian","White",1,"Vandalism",1,"School",,"Anti-Religious",,"Ethnicity",0,0
+"1995","City",,"Iowa",,"1995-06-15",0,1,1,1,0,"Black","White",1,"Vandalism",1,"Residence",,"Racial Bias",,"Race",0,0
+"1993","County",,"Oregon",,"1993-02-20",1,0,2,1,1,"White","Hispanic",2,"Simple Assault",2,"Place of Worship",,"Anti-Religious",,"Ethnicity",0,1
+"1999","State",,"Nevada",,"1999-03-01",1,0,1,1,0,"Hispanic","Hispanic",1,"Aggravated Assault",1,"Public Transportation",,"Bias Motivated",,"Ethnicity",0,0
+"1992","City",,"Indiana",,"1992-05-25",0,1,1,1,0,"White","White",1,"Vandalism",1,"Residence",,"Racial Bias",,"Race",0,0
+"2000","City",,"Louisiana",,"2000-02-01",1,0,2,1,1,"Asian","Black",2,"Simple Assault",2,"Commercial Business",,"Anti-Religious",,"Ethnicity",0,1
+"2013","County",,"Kentucky",,"2013-01-15",0,1,1,1,0,"Black","White",1,"Vandalism",1,"School",,"Racial Bias",,"Ethnicity",0,0
+"2001","City",,"Virginia",,"2001-03-01",0,1,1,1,0,"White","White",1,"Vandalism",1,"Residence",,"Anti-Religious",,"Race",0,0
+"1991","State",,"Tennessee",,"1991-04-01",1,0,1,1,0,"Hispanic","Hispanic",1,"Aggravated Assault",1,"Public Transportation",,"Bias Motivated",,"Ethnicity",0,0
+"1997","City",,"Maryland",,"1997-05-25",0,1,1,1,0,"Asian","White",1,"Vandalism",1,"School",,"Racial Bias",,"Ethnicity",0,0
+"2005","City",,"Delaware",,"2005-06-15",1,0,1,1,0,"Black","White",1,"Aggravated Assault",1,"Public Transportation",,"Bias Motivated",,"Ethnicity",0,0
+"2011","State",,"Montana",,"2011-02-20",1,0,2,1,1,"White","Black",2,"Simple Assault",2,"Commercial Business",,"Anti-Religious",,"Ethnicity",0,1
+"2009","County",,"Rhode Island",,"2009-04-01",0,1,1,1,0,"Asian","White",1,"Vandalism",1,"Residence",,"Racial Bias",,"Ethnicity",0,0
+"2004","City",,"Kansas",,"2004-03-15",0,1,1,1,0,"White","White",1,"Vandalism",1,"School",,"Anti-Religious",,"Ethnicity",0,0
+"1996","State",,"Arkansas",,"1996-01-01",1,0,1,1,0,"Hispanic","Hispanic",1,"Aggravated Assault",1,"Public Transportation",,"Bias Motivated",,"Ethnicity",0,0
+"1998","County",,"Minnesota",,"1998-05-01",1,0,2,1,1,"White","Black",2,"Simple Assault",2,"Commercial Business",,"Anti-Religious",,"Ethnicity",0,1
+"2008","City",,"Mississippi",,"2008-02-20",0,1,1,1,0,"Asian","White",1,"Vandalism",1,"Residence",,"Racial Bias",,"Ethnicity",0,0
+"2002","State",,"Missouri",,"2002-03-01",1,0,1,1,0,"Black","White",1,"Aggravated Assault",1,"Public Transportation",,"Bias Motivated",,"Ethnicity",0,0
+"2007","County",,"Oklahoma",,"2007-05-01",0,1,1,1,0,"White","White",1,"Vandalism",1,"School",,"Anti-Religious",,"Ethnicity",0,0
+"1993","City",,"Utah",,"1993-04-15",1,0,2,1,1,"White","Black",2,"Simple Assault",2,"Commercial Business",,"Anti-Religious",,"Ethnicity",0,1
+"1999","State",,"Nebraska",,"1999-02-20",0,1,1,1,0,"Asian","White",1,"Vandalism",1,"Residence",,"Racial Bias",,"Ethnicity",0,0
+"2003","City",,"Nevada",,"2003-06-01",1,0,1,1,0,"Hispanic","Hispanic",1,"Aggravated Assault",1,"Public Transportation",,"Bias Motivated",,"Ethnicity",0,0
+"2012","County",,"Idaho",,"2012-03-01",0,1,1,1,0,"White","White",1,"Vandalism",1,"School",,"Racial Bias",,"Ethnicity",0,0
+"2006","City",,"Arizona",,"2006-01-15",1,0,2,1,1,"Black","Black",2,"Simple Assault",2,"Commercial Business",,"Anti-Religious",,"Ethnicity",0,1
+"1992","State",,"Alaska",,"1992-06-01",1,0,1,1,0,"Hispanic","Hispanic",1,"Aggravated Assault",1,"Public Transportation",,"Bias Motivated",,"Ethnicity",0,0
+"2001","City",,"Connecticut",,"2001-09-01",0,1,1,1,0,"Asian","White",1,"Vandalism",1,"Residence",,"Racial Bias",,"Ethnicity",0,0
+"1991","City",,"Washington",,"1991-03-25",0,1,1,1,0,"White","White",1,"Vandalism",1,"School",,"Anti-Religious",,"Ethnicity",0,0
+"1995","County",,"Kentucky",,"1995-02-20",1,0,2,1,1,"White","Black",2,"Simple Assault",2,"Commercial Business",,"Anti-Religious",,"Ethnicity",0,1
+"1996","City",,"Oregon",,"1996-01-01",1,0,1,1,0,"Asian","Asian",1,"Aggravated Assault",1,"Public Transportation",,"Bias Motivated",,"Ethnicity",0,0
+"2000","County",,"California",,"2000-05-01",1,0,2,1,1,"White","Black",2,"Simple Assault",2,"Residence",,"Racial Bias",,"Ethnicity",0,1
+"2005","State",,"New Hampshire",,"2005-02-20",0,1,1,1,0,"White","White",1,"Vandalism",1,"School",,"Anti-Religious",,"Ethnicity",0,0

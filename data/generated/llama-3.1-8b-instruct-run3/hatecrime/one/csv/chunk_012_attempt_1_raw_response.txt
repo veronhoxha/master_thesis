@@ -1,0 +1,38 @@
+"2009,City,FL,Florida,2009-06-22,,1,1,0,White,Hispanic,1,Hate Crime Against People,1.0,Residential/Home,Anti-Hispanic or Latino,1,M,S
+2009,City,NY,New York,2009-08-01,,,0,1,0,Unknown,Not Specified,1,Hate Crime Against People,1.0,Residential/Home,Anti-Jewish,1,M,S
+2009,City,CA,California,2009-09-15,1,,0,1,0,White,Not Specified,2,Hate Crime Against Property,1.5,Commercial/Apartment,Anti-Oriental,1,M,S
+2009,Township,IL,Illinois,2009-10-15,,1,1,1,0,Unknown,Not Specified,3,Disorderly Intoxication,2.0,Public Road/Avenue,Anti-White,1,M,S
+2009,County,MD,Maryland,2009-11-05,,1,1,1,0,White,Not Specified,3,Disorderly Intoxication,2.0,Commercial/Apartment,Anti-Hispanic or Latino,1,M,S
+2009,Municipality,MI,Michigan,2009-11-18,,1,1,1,0,White,Not Specified,3,Disorderly Intoxication,2.0,Residential/Home,Anti-Arab,1,M,S
+2009,City,NC,North Carolina,2010-01-01,,1,1,0,White,Not Specified,1,Hate Crime Against People,1.0,Public Road/Avenue,Anti-White,1,M,S
+2009,Township,OH,Ohio,2010-01-10,1,,0,1,0,Unknown,Not Specified,1,Hate Crime Against People,1.0,Residential/Home,Anti-Jewish,1,M,S
+2010,City,AL,Alabama,2010-02-02,,1,1,0,White,Not Specified,1,Hate Crime Against Property,1.0,School/College,Anti-Black or African American,1,M,S
+2010,County,AR,Arkansas,2010-02-14,,1,1,0,White,Not Specified,1,Hate Crime Against People,1.0,Commercial/Apartment,Anti-White,1,M,S
+2010,City,FL,Florida,2010-03-01,,1,1,0,Unknown,Not Specified,1,Hate Crime Against Property,1.0,Public Road/Avenue,Anti-Hispanic or Latino,1,M,S
+2010,Municipality,GA,Georgia,2010-03-10,,1,1,0,White,Not Specified,1,Hate Crime Against Property,1.0,Residential/Home,Anti-Arab,1,M,S
+2010,City,IL,Illinois,2010-03-15,1,,1,0,Unknown,Not Specified,2,Hate Crime Against People,2.0,Commercial/Apartment,Anti-Jewish,1,M,S
+2010,City,KS,Kansas,2010-03-20,,1,1,0,White,Not Specified,1,Hate Crime Against People,1.0,Public Road/Avenue,Anti-White,1,M,S
+2010,City,MA,Massachusetts,2010-04-01,,1,1,0,Unknown,Not Specified,1,Hate Crime Against Property,1.0,School/College,Anti-Hispanic or Latino,1,M,S
+2010,County,MI,Michigan,2010-04-10,,1,1,0,White,Not Specified,1,Hate Crime Against Property,1.0,Residential/Home,Anti-Arab,1,M,S
+2010,Municipality,NJ,New Jersey,2010-04-15,,1,1,0,Unknown,Not Specified,1,Hate Crime Against People,1.0,Commercial/Apartment,Anti-Black or African American,1,M,S
+2010,City,NY,New York,2010-05-01,,1,1,0,White,Not Specified,1,Hate Crime Against People,1.0,Public Road/Avenue,Anti-Jewish,1,M,S
+2010,City,NC,North Carolina,2010-05-10,,1,1,0,White,Not Specified,1,Hate Crime Against Property,1.0,Residential/Home,Anti-White,1,M,S
+2010,City,OH,Ohio,2010-05-15,,1,1,0,Unknown,Not Specified,1,Hate Crime Against Property,1.0,Commercial/Apartment,Anti-Hispanic or Latino,1,M,S
+2010,Municipality,OR,Oregon,2010-06-01,,1,1,0,White,Not Specified,1,Hate Crime Against Property,1.0,Public Road/Avenue,Anti-Arab,1,M,S
+2010,County,SC,South Carolina,2010-06-10,,1,1,0,Unknown,Not Specified,1,Hate Crime Against People,1.0,Residential/Home,Anti-Black or African American,1,M,S
+2010,City,TX,Texas,2010-06-15,,1,1,0,White,Not Specified,1,Hate Crime Against Property,1.0,School/College,Anti-White,1,M,S
+2010,Municipality,UT,Utah,2010-07-01,,1,1,0,Unknown,Not Specified,1,Hate Crime Against People,1.0,Commercial/Apartment,Anti-Jewish,1,M,S
+2010,County,WI,Wisconsin,2010-07-10,,1,1,0,White,Not Specified,1,Hate Crime Against Property,1.0,Public Road/Avenue,Anti-Hispanic or Latino,1,M,S
+2010,Municipality,WY,Wyoming,2010-07-15,,1,1,0,White,Not Specified,1,Hate Crime Against People,1.0,Residential/Home,Anti-Arab,1,M,S
+2011,City,CA,California,2011-01-01,,1,1,0,Unknown,Not Specified,1,Hate Crime Against Property,1.0,Commercial/Apartment,Anti-Black or African American,1,M,S
+2011,City,FL,Florida,2011-01-10,,1,1,0,White,Not Specified,1,Hate Crime Against Property,1.0,School/College,Anti-White,1,M,S
+2011,City,GA,Georgia,2011-02-01,,1,1,0,Unknown,Not Specified,1,Hate Crime Against Property,1.0,Public Road/Avenue,Anti-Hispanic or Latino,1,M,S
+2011,Municipality,IL,Illinois,2011-02-10,,1,1,0,White,Not Specified,1,Hate Crime Against People,1.0,Residential/Home,Anti-Arab,1,M,S
+2011,City,KS,Kansas,2011-03-01,,1,1,0,White,Not Specified,1,Hate Crime Against Property,1.0,Commercial/Apartment,Anti-Black or African American,1,M,S
+2011,City,MA,Massachusetts,2011-03-10,,1,1,0,Unknown,Not Specified,1,Hate Crime Against Property,1.0,School/College,Anti-Jewish,1,M,S
+2011,County,MI,Michigan,2011-04-01,,1,1,0,White,Not Specified,1,Hate Crime Against Property,1.0,Public Road/Avenue,Anti-Hispanic or Latino,1,M,S
+2011,Municipality,NJ,New Jersey,2011-04-10,,1,1,0,Unknown,Not Specified,1,Hate Crime Against People,1.0,Residential/Home,Anti-White,1,M,S
+2011,City,NY,New York,2011-05-01,,1,1,0,White,Not Specified,1,Hate Crime Against Property,1.0,Commercial/Apartment,Anti-Jewish,1,M,S
+2011,City,NC,North Carolina,2011-05-10,,1,1,0,White,Not Specified,1,Hate Crime Against People,1.0,Public Road/Avenue,Anti-Hispanic or Latino,1,M,S
+2011,City,OH,Ohio,2011-06-01,,1,1,0,Unknown,Not Specified,1,Hate Crime Against Property,1.0,Residential/Home,Anti-Black or African American,1,M,S
+2011,Municipality,OR,Oregon,2011-06-10,,1,1,0,White,Not Specified,1,Hate Crime Against People,1.0,Commercial/Apartment,Anti-Arab,1,M,S"

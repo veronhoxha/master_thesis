@@ -1,0 +1,52 @@
+{
+  "chunk_id": 23,
+  "attempt": 1,
+  "model": "meta-llama/Llama-3.1-8B-Instruct",
+  "domain": "employment",
+  "timestamp": "2025-10-17T22:25:13.505625",
+  "had_schema_mismatch": true,
+  "original_columns": [
+    "Difference in Mean Hourly Earnings %\"",
+    "Difference in Median Hourly Earnings %",
+    "Difference in Mean Bonus %",
+    "Difference in Median Bonus %",
+    "Male Bonus %",
+    "Female Bonus %",
+    "Male Lower Quartile",
+    "Female Lower Quartile",
+    "Male Lower Middle Quartile",
+    "Female Lower Middle Quartile",
+    "Male Upper Middle Quartile",
+    "Female Upper Middle Quartile",
+    "Male Top Quartile",
+    "Female Top Quartile",
+    "Employer Size",
+    "Date Submitted"
+  ],
+  "expected_columns": [
+    "EmployerName",
+    "SicCodes",
+    "DiffMeanHourlyPercent",
+    "DiffMedianHourlyPercent",
+    "DiffMeanBonusPercent",
+    "DiffMedianBonusPercent",
+    "MaleBonusPercent",
+    "FemaleBonusPercent",
+    "MaleLowerQuartile",
+    "FemaleLowerQuartile",
+    "MaleLowerMiddleQuartile",
+    "FemaleLowerMiddleQuartile",
+    "MaleUpperMiddleQuartile",
+    "FemaleUpperMiddleQuartile",
+    "MaleTopQuartile",
+    "FemaleTopQuartile",
+    "EmployerSize",
+    "DateSubmitted"
+  ],
+  "correction_type": "column_rename",
+  "corrections_made": [
+    "Renamed columns to match expected schema"
+  ],
+  "header_present": true,
+  "used_expected_schema": true
+}

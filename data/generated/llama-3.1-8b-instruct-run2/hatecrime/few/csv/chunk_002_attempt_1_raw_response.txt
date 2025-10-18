@@ -1,0 +1,42 @@
+"2004,City,CA,California,2004-04-10,,,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-White,Individual,Other,Unknown
+1993,State,FL,Florida,1993-09-01,1.0,0.0,1,0.0,1.0,Black or African American,Hispanic or Latino,2,Arson,5.0,Convenience Store/Apartment,Multi-Bias,Group,Other,Unknown
+2001,City,IL,Illinois,2001-03-14,1.0,0.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Aggravated Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,S,S
+2008,Other,MI,Michigan,2008-02-15,2.0,0.0,2,2.0,0.0,Unknown,Not Specified,2,Destruction/Damage/Vandalism of Property,4.0,Hotel/Motel,Anti-Hispanic or Latino,Individual,S,S
+1999,City,GA,Georgia,1999-01-25,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Intimidation,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Individual,Other,Unknown
+2009,City,NY,New York,2009-06-01,1.0,0.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Burglary,1.0,Government Building,Multi-Bias,Individual,S,S
+1998,Other,NC,North Carolina,1998-11-05,0.0,1.0,1,0.0,1.0,Unknown,Not Specified,2,Civil Rights,3.0,Residence/Apartment,Anti-Gay (Male),Individual,Other,Unknown
+2005,State,TX,Texas,2005-08-20,2.0,0.0,2,2.0,0.0,White,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Group,Other,Unknown
+2003,City,OH,Ohio,2003-09-15,0.0,1.0,2,0.0,2.0,Unknown,Not Specified,3,Simple Assault,3.0,Residence/Apartment,Anti-White,Group,Other,Unknown
+1992,City,MA,Massachusetts,1992-07-04,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Robbery,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Individual,Other,Unknown
+2010,State,PA,Pennsylvania,2010-02-01,2.0,0.0,2,2.0,0.0,Unknown,Not Specified,2,Larceny-Theft,2.0,Government Building,Multi-Bias,Individual,Other,Unknown
+1996,Other,WI,Wisconsin,1996-02-03,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,2,Civil Rights,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,Other,Unknown
+2006,City,FL,Florida,2006-10-20,1.0,0.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-White,Individual,Other,Unknown
+2002,State,IL,Illinois,2002-04-09,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Arson,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Individual,Other,Unknown
+2011,City,CA,California,2011-03-30,1.0,0.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Government Building,Anti-Hispanic or Latino,Individual,Other,Unknown
+1994,Other,NJ,New Jersey,1994-08-01,1.0,0.0,1,0.0,1.0,Unknown,Not Specified,2,Vandalism,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,Other,Unknown
+2000,City,MI,Michigan,2000-12-25,0.0,1.0,1,0.0,1.0,Unknown,Not Specified,2,Simple Assault,2.0,Residence/Apartment,Anti-White,Individual,Other,Unknown
+2007,State,GA,Georgia,2007-10-15,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,2,Civil Rights,2.0,Government Building,Anti-Hispanic or Latino,Individual,Other,Unknown
+1995,Other,OH,Ohio,1995-03-01,2.0,0.0,2,2.0,0.0,White,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Group,Other,Unknown
+2004,City,FL,Florida,2004-01-10,0.0,1.0,1,0.0,1.0,Unknown,Not Specified,2,Simple Assault,2.0,Residence/Apartment,Anti-Gay (Male),Individual,Other,Unknown
+1991,City,NY,New York,1991-06-01,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Aggravated Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Individual,Other,Unknown
+2009,State,NC,North Carolina,2009-05-01,2.0,0.0,2,2.0,0.0,White,Not Hispanic or Latino,2,Larceny-Theft,2.0,Government Building,Anti-Jewish,Group,Other,Unknown
+1997,Other,TX,Texas,1997-01-01,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Civil Rights,1.0,Residence/Apartment,Anti-Hispanic or Latino,Individual,S,S
+2005,City,IL,Illinois,2005-02-14,0.0,1.0,1,0.0,1.0,Unknown,Not Specified,2,Simple Assault,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Female),Individual,Other,Unknown
+1993,State,MA,Massachusetts,1993-04-01,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Robbery,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,Other,Unknown
+2002,Other,GA,Georgia,2002-10-01,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,2,Aggravated Assault,2.0,Residence/Apartment,Anti-White,Individual,Other,Unknown
+2012,City,FL,Florida,2012-05-01,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Larceny-Theft,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Individual,Other,Unknown
+1999,State,IL,Illinois,1999-03-01,2.0,0.0,2,2.0,0.0,White,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2.0,Government Building,Anti-Jewish,Group,Other,Unknown
+2008,Other,MI,Michigan,2008-09-01,1.0,0.0,1,0.0,1.0,Unknown,Not Specified,2,Civil Rights,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,Other,Unknown
+1996,State,CA,California,1996-01-01,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Vandalism,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Individual,Other,Unknown
+2003,City,NY,New York,2003-01-15,0.0,1.0,1,0.0,1.0,Unknown,Not Specified,2,Larceny-Theft,2.0,Residence/Apartment,Anti-White,Individual,Other,Unknown
+2013,City,GA,Georgia,2013-06-01,1.0,0.0,1,0.0,1.0,Black or African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,Other,Unknown
+2000,State,PA,Pennsylvania,2000-05-01,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,2,Civil Rights,2.0,Government Building,Anti-Hispanic or Latino,Individual,Other,Unknown
+1992,Other,OH,Ohio,1992-06-01,2.0,0.0,2,2.0,0.0,White,Not Hispanic or Latino,2,Aggravated Assault,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Group,Other,Unknown
+2004,State,NC,North Carolina,2004-03-01,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Larceny-Theft,1.0,Government Building,Anti-Jewish,Individual,Other,Unknown
+2014,Other,FL,Florida,2014-01-01,2.0,0.0,2,2.0,0.0,Unknown,Not Specified,2,Simple Assault,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Group,Unknown
+1997,City,MI,Michigan,1997-05-01,0.0,1.0,1,0.0,1.0,Unknown,Not Specified,2,Simple Assault,2.0,Residence/Apartment,Anti-White,Individual,Other,Unknown
+2006,City,NY,New York,2006-01-20,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,2,Vandalism,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),Individual,Other,Unknown
+1994,State,GA,Georgia,1994-09-01,0.0,0.0,1,0.0,1.0,Unknown,Not Specified,2,Intimidation,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Individual,Other,Unknown
+2009,Other,IL,Illinois,2009-01-15,1.0,0.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Larceny-Theft,1.0,Residence/Apartment,Anti-Hispanic or Latino,Individual,Other,Unknown
+1998,State,MI,Michigan,1998-07-01,1.0,0.0,1,1.0,0.0,Unknown,Not Specified,1,Aggravated Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Individual,Other,Unknown
+2007,State,CA,California,2007-03-01,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Asian,Individual,Other,Unknown"

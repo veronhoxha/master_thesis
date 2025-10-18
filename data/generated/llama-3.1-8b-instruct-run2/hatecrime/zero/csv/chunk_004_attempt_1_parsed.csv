@@ -1,0 +1,65 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,State,NY,New York,6/10/1991,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Intimidation,1,Street/Highway,Anti-White,1,0,TRUE
+1991,Local,CA,California,5/20/1991,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,Store/Merchant,Anti-White,1,0,TRUE
+1991,Local,PA,Pennsylvania,10/15/1991,0,1,1,0,1,Black,Not Hispanic or Other Ethnicity,1,Vandalism,1,School/College,Anti-Racial,1,0,TRUE
+1991,Federal,TX,Texas,9/1/1991,1,0,2,1,1,White,Hispanic or Latino,2,Intimidation,2,Store/Merchant,Anti-White,2,0,TRUE
+1992,State,AZ,Arizona,8/10/1992,0,1,1,0,1,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1992,Federal,FL,Florida,7/20/1992,1,0,1,1,0,Black,Not Hispanic or Other Ethnicity,1,Vandalism,1,Street/Highway,Anti-White,1,0,TRUE
+1992,Local,IL,Illinois,6/1/1992,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Intimidation,1,Store/Merchant,Anti-White,1,0,TRUE
+1992,Federal,OH,Ohio,5/10/1992,0,1,1,0,1,Black,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1992,State,GA,Georgia,4/15/1992,1,0,2,1,1,White,Not Hispanic or Other Ethnicity,2,Intimidation,2,Street/Highway,Anti-White,2,0,TRUE
+1993,Local,NC,North Carolina,10/20/1993,0,1,1,0,1,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1993,Federal,MI,Michigan,9/1/1993,1,0,1,1,0,Black,Not Hispanic or Other Ethnicity,1,Vandalism,1,Store/Merchant,Anti-White,1,0,TRUE
+1993,State,TN,Tennessee,8/10/1993,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Intimidation,1,Street/Highway,Anti-White,1,0,TRUE
+1993,Federal,NJ,New Jersey,7/20/1993,0,1,1,0,1,Black,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1993,Local,RI,Rhode Island,6/15/1993,1,0,2,1,1,White,Not Hispanic or Other Ethnicity,2,Intimidation,2,Store/Merchant,Anti-White,2,0,TRUE
+1994,State,IN,Indiana,10/1/1994,0,1,1,0,1,Black,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1994,Federal,SC,South Carolina,9/10/1994,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Vandalism,1,Store/Merchant,Anti-White,1,0,TRUE
+1994,Local,NV,Nevada,8/20/1994,1,0,1,1,0,Black,Not Hispanic or Other Ethnicity,1,Intimidation,1,Street/Highway,Anti-White,1,0,TRUE
+1994,State,WY,Wyoming,7/15/1994,0,1,1,0,1,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1994,Federal,CT,Connecticut,6/10/1994,1,0,2,1,1,White,Not Hispanic or Other Ethnicity,2,Intimidation,2,Store/Merchant,Anti-White,2,0,TRUE
+1995,Local,DE,Delaware,10/10/1995,1,0,1,1,0,Black,Not Hispanic or Other Ethnicity,1,Vandalism,1,Street/Highway,Anti-White,1,0,TRUE
+1995,Federal,VT,Vermont,9/1/1995,0,1,1,0,1,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1995,State,ND,North Dakota,8/20/1995,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Intimidation,1,Store/Merchant,Anti-White,1,0,TRUE
+1995,Local,NE,Nebraska,7/15/1995,0,1,1,0,1,Black,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1995,Federal,IA,Iowa,6/10/1995,1,0,2,1,1,White,Not Hispanic or Other Ethnicity,2,Intimidation,2,Street/Highway,Anti-White,2,0,TRUE
+1996,Local,KS,Kansas,10/10/1996,1,0,1,1,0,Black,Not Hispanic or Other Ethnicity,1,Vandalism,1,Store/Merchant,Anti-White,1,0,TRUE
+1996,Federal,ME,Maine,9/1/1996,0,1,1,0,1,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1996,State,MT,Montana,8/20/1996,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Intimidation,1,Street/Highway,Anti-White,1,0,TRUE
+1996,Local,AR,Arkansas,7/15/1996,0,1,1,0,1,Black,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1996,Federal,WV,West Virginia,6/10/1996,1,0,2,1,1,White,Not Hispanic or Other Ethnicity,2,Intimidation,2,Store/Merchant,Anti-White,2,0,TRUE
+1997,Local,LA,Louisiana,10/10/1997,1,0,1,1,0,Black,Not Hispanic or Other Ethnicity,1,Vandalism,1,Store/Merchant,Anti-White,1,0,TRUE
+1997,Federal,KY,Kentucky,9/1/1997,0,1,1,0,1,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1997,State,OK,Oklahoma,8/20/1997,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Intimidation,1,Street/Highway,Anti-White,1,0,TRUE
+1997,Local,CO,Colorado,7/15/1997,0,1,1,0,1,Black,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1997,Federal,UT,Utah,6/10/1997,1,0,2,1,1,White,Not Hispanic or Other Ethnicity,2,Intimidation,2,Store/Merchant,Anti-White,2,0,TRUE
+1998,Local,GA,Georgia,10/10/1998,1,0,1,1,0,Black,Not Hispanic or Other Ethnicity,1,Vandalism,1,Store/Merchant,Anti-White,1,0,TRUE
+1998,Federal,ID,Idaho,9/1/1998,0,1,1,0,1,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1998,State,NM,New Mexico,8/20/1998,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Intimidation,1,Street/Highway,Anti-White,1,0,TRUE
+1998,Local,HI,Hawaii,7/15/1998,0,1,1,0,1,Black,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1998,Federal,AK,Alaska,6/10/1998,1,0,2,1,1,White,Not Hispanic or Other Ethnicity,2,Intimidation,2,Store/Merchant,Anti-White,2,0,TRUE
+1999,Local,VT,Vermont,10/10/1999,1,0,1,1,0,Black,Not Hispanic or Other Ethnicity,1,Vandalism,1,Store/Merchant,Anti-White,1,0,TRUE
+1999,Federal,WV,West Virginia,9/1/1999,0,1,1,0,1,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1999,State,OR,Oregon,8/20/1999,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Intimidation,1,Street/Highway,Anti-White,1,0,TRUE
+1999,Local,NH,New Hampshire,7/15/1999,0,1,1,0,1,Black,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+1999,Federal,MN,Minnesota,6/10/1999,1,0,2,1,1,White,Not Hispanic or Other Ethnicity,2,Intimidation,2,Store/Merchant,Anti-White,2,0,TRUE
+2001,Local,MA,Massachusetts,10/10/2001,1,0,1,1,0,Black,Not Hispanic or Other Ethnicity,1,Vandalism,1,Store/Merchant,Anti-White,1,0,TRUE
+2001,Federal,MS,Mississippi,9/1/2001,0,1,1,0,1,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+2001,State,DE,Delaware,8/20/2001,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Intimidation,1,Street/Highway,Anti-White,1,0,TRUE
+2001,Local,UT,Utah,7/15/2001,0,1,1,0,1,Black,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+2001,Federal,NV,Nevada,6/10/2001,1,0,2,1,1,White,Not Hispanic or Other Ethnicity,2,Intimidation,2,Store/Merchant,Anti-White,2,0,TRUE
+2002,Local,WY,Wyoming,10/10/2002,1,0,1,1,0,Black,Not Hispanic or Other Ethnicity,1,Vandalism,1,Store/Merchant,Anti-White,1,0,TRUE
+2002,Federal,RI,Rhode Island,9/1/2002,0,1,1,0,1,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+2002,State,AK,Alaska,8/20/2002,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Intimidation,1,Street/Highway,Anti-White,1,0,TRUE
+2002,Local,SC,South Carolina,7/15/2002,0,1,1,0,1,Black,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+2002,Federal,ND,North Dakota,6/10/2002,1,0,2,1,1,White,Not Hispanic or Other Ethnicity,2,Intimidation,2,Store/Merchant,Anti-White,2,0,TRUE
+2003,Local,IL,Illinois,10/10/2003,1,0,1,1,0,Black,Not Hispanic or Other Ethnicity,1,Vandalism,1,Store/Merchant,Anti-White,1,0,TRUE
+2003,Federal,ME,Maine,9/1/2003,0,1,1,0,1,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+2003,State,VT,Vermont,8/20/2003,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Intimidation,1,Street/Highway,Anti-White,1,0,TRUE
+2003,Local,CT,Connecticut,7/15/2003,0,1,1,0,1,Black,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+2003,Federal,MT,Montana,6/10/2003,1,0,2,1,1,White,Not Hispanic or Other Ethnicity,2,Intimidation,2,Store/Merchant,Anti-White,2,0,TRUE
+2004,Local,HI,Hawaii,10/10/2004,1,0,1,1,0,Black,Not Hispanic or Other Ethnicity,1,Vandalism,1,Store/Merchant,Anti-White,1,0,TRUE
+2004,Federal,NH,New Hampshire,9/1/2004,0,1,1,0,1,White,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+2004,State,KY,Kentucky,8/20/2004,1,0,1,1,0,White,Not Hispanic or Other Ethnicity,1,Intimidation,1,Street/Highway,Anti-White,1,0,TRUE
+2004,Local,MD,Maryland,7/15/2004,0,1,1,0,1,Black,Not Hispanic or Other Ethnicity,1,Simple Assault,1,School/College,Anti-Racial,1,0,TRUE
+2004,Federal,OR,Oregon,6/10/2004,1,0,2,1,1,White,Not Hispanic or Other Ethnicity,2,Intimidation,2,Store/Merchant,Anti-White,2,0,TRUE

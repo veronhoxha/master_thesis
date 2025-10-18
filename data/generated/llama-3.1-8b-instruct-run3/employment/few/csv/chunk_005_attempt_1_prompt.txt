@@ -1,0 +1,15 @@
+Generate 50 rows of employment data in CSV format.
+
+DOMAIN: UK Gender Pay Gap Data
+TIME PERIOD: 2024-2025
+REQUIRED COLUMNS: EmployerName,SicCodes,DiffMeanHourlyPercent,DiffMedianHourlyPercent,DiffMeanBonusPercent,DiffMedianBonusPercent,MaleBonusPercent,FemaleBonusPercent,MaleLowerQuartile,FemaleLowerQuartile,MaleLowerMiddleQuartile,FemaleLowerMiddleQuartile,MaleUpperMiddleQuartile,FemaleUpperMiddleQuartile,MaleTopQuartile,FemaleTopQuartile,EmployerSize,DateSubmitted
+
+CRITICAL: Output ONLY the CSV data with NO explanations, NO code blocks, NO commentary.
+Start with the header row, then exactly 50 data rows.
+
+EXAMPLE ROWS:
+MISHCON DE REYA GROUP (OPERATIONS) LIMITED,64209,30.4,23.6,73.9,30.0,55.4,64.0,25.4,74.6,15.1,84.9,27.0,73.0,55.6,44.4,500-999,2025-04-03 15:10:41
+DE VERE WOKEFIELD ESTATE LIMITED,55100,16.7,3.6,40.5,-119.2,42.3,49.7,29.9,70.1,45.6,54.4,44.8,55.2,63.2,36.8,250-499,2025-03-31 14:44:02
+ODEON CINEMAS LIMITED,"59131,59140",9.4,0.0,37.3,9.6,18.8,17.0,54.0,46.0,54.0,46.0,52.0,48.0,57.0,43.0,1000-4999,2025-04-04 11:41:38
+
+Generate diverse, realistic data for the specified time period. (This is chunk 5 - generate new distinct data.)

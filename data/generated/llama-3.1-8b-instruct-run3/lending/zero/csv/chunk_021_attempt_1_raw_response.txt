@@ -1,0 +1,71 @@
+"activity_year","derived_msa-md","state_code","county_code","census_tract","derived_loan_product_type","derived_dwelling_category","derived_ethnicity","derived_race","derived_sex","action_taken","loan_purpose","loan_amount","loan_to_value_ratio","interest_rate","rate_spread","hoepa_status","total_loan_costs","total_points_and_fees","origination_charges","discount_points","lender_credits","loan_term","prepayment_penalty_term","intro_rate_period","negative_amortization","interest_only_payment","balloon_payment","other_nonamortizing_features","property_value","construction_method","occupancy_type","manufactured_home_secured_property_type","manufactured_home_land_property_interest","total_units","multifamily_affordable_units","income","debt_to_income_ratio","applicant_credit_score_type","co-applicant_credit_score_type","applicant_ethnicity-1","co-applicant_ethnicity-1","applicant_ethnicity_observed","co-applicant_ethnicity_observed","applicant_race-1","co-applicant_race-1","applicant_race_observed","co-applicant_race_observed","applicant_sex","co-applicant_sex","applicant_sex_observed","co-applicant_sex_observed","applicant_age","co-applicant_age","applicant_age_above_62","co-applicant_age_above_62","submission_of_application","initially_payable_to_institution"
+
+"2024","New York-Newark-Jersey City, NY-NJ-PA","NY","05001","6101","Conventional Mortgage","Single Family","Hispanic or Latino","American Indian or Alaska Native","Female","Approved","Home Purchase","597,100","83.41","5.25","1.49","Yes","65,640","4,100","0","0","0",24,"0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-02-22"
+
+"2024","Los Angeles-Long Beach-Anaheim, CA","CA","06037","6116","FHA Mortgage","Single Family","White","Asian","Male","Approved","Home Purchase","280,000","73.56","4.50","1.85","No","42,600","3,000","0","0","0",20,"1","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-03-14"
+
+"2024","Chicago-Naperville-Elgin, IL-IN-WI","IL","17051","6201","VA Mortgage","Single Family","Black or African American","Native Hawaiian or Other Pacific Islander","Female","Approved","Home Purchase","412,000","88.23","3.75","1.39","No","53,200","4,000","0","0","0",30,"0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-04-12"
+
+"2024","Dallas-Fort Worth-Arlington, TX","TX","48045","6214","Conventional Mortgage","Single Family","Other","White","Male","Approved","Home Improvement","120,000","64.29","5.50","2.19","Yes","15,600","2,000","0","0","0",24,"1","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-05-05"
+
+"2024","Houston-The Woodlands-Sugar Land, TX","TX","48063","6226","FHA Mortgage","Single Family","Hispanic or Latino","Asian","Female","Approved","Home Purchase","220,000","78.15","4.75","2.11","No","31,000","3,000","0","0","0",20,"1","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-06-01"
+
+"2024","Washington-Arlington-Alexandria, DC-VA-MD","VA","51001","6311","VA Mortgage","Single Family","White","Black or African American","Male","Approved","Home Purchase","380,000","86.67","3.25","1.19","No","48,000","4,200","0","0","0",30,"0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-07-03"
+
+"2024","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","PA","42001","6411","Conventional Mortgage","Single Family","Black or African American","American Indian or Alaska Native","Female","Approved","Home Purchase","350,000","81.11","4.75","1.85","Yes","44,400","3,600","0","0","0",24,"1","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-08-07"
+
+"2024","Miami-Fort Lauderdale-West Palm Beach, FL","FL","12009","6516","Conventional Mortgage","Single Family","White","Asian","Male","Approved","Home Purchase","500,000","85.71","4.50","1.69","No","64,000","4,800","0","0","0",30,"0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-09-09"
+
+"2024","Atlanta-Sandy Springs-Alpharetta, GA","GA","13021","6611","FHA Mortgage","Single Family","Hispanic or Latino","White","Female","Approved","Home Purchase","200,000","72.22","5.00","2.29","Yes","28,000","3,000","0","0","0",20,"1","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-10-12"
+
+"2024","San Jose-Sunnyvale-Santa Clara, CA","CA","06067","6716","VA Mortgage","Single Family","Asian","Native Hawaiian or Other Pacific Islander","Male","Approved","Home Purchase","420,000","88.24","3.25","1.19","No","52,800","4,400","0","0","0",30,"0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-11-14"
+
+"2024","Phoenix-Mesa-Scottsdale, AZ","AZ","04001","6811","Conventional Mortgage","Single Family","White","Black or African American","Female","Approved","Home Purchase","300,000","80.00","4.75","2.11","Yes","42,000","3,600","0","0","0",24,"1","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-12-16"
+
+"2024","Riverside-San Bernardino-Ontario, CA","CA","06079","6916","FHA Mortgage","Single Family","Hispanic or Latino","White","Male","Approved","Home Improvement","100,000","65.00","5.00","2.29","No","14,000","1,800","0","0","0",20,"1","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-01-18"
+
+"2024","Boston-Cambridge-Nashua, MA-NH","MA","25007","7111","VA Mortgage","Single Family","White","Asian","Female","Approved","Home Purchase","450,000","89.09","3.25","1.19","No","55,500","4,500","0","0","0",30,"0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-02-20"
+
+"2024","Detroit-Warren-Dearborn, MI","MI","26021","7211","Conventional Mortgage","Single Family","Black or African American","American Indian or Alaska Native","Male","Approved","Home Purchase","320,000","82.50","4.50","1.85","Yes","46,400","3,600","0","0","0",24,"1","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-03-22"
+
+"2024","San Francisco-Oakland-Berkeley, CA","CA","06087","7316","FHA Mortgage","Single Family","Asian","White","Female","Approved","Home Purchase","380,000","77.08","4.75","2.11","No","48,000","4,000","0","0","0",20,"1","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-04-24"
+
+"2024","St. Louis, MO-IL","MO","29037","7411","Conventional Mortgage","Single Family","White","Black or African American","Male","Approved","Home Purchase","400,000","84.00","4.00","1.49","Yes","51,200","4,000","0","0","0",30,"0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-05-26"
+
+"2024","Seattle-Tacoma-Bellevue, WA","WA","53001","7511","VA Mortgage","Single Family","White","Asian","Female","Approved","Home Purchase","500,000","88.57","3.25","1.19","No","62,500","5,000","0","0","0",30,"0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-06-28"
+
+"2024","Minneapolis-St. Paul-Bloomington, MN-WI","MN","27027","7611","Conventional Mortgage","Single Family","Black or African American","American Indian or Alaska Native","Male","Approved","Home Purchase","420,000","81.19","4.50","1.85","Yes","52,200","4,200","0","0","0",24,"1","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-07-30"
+
+"2024","Sacramento-Roseville-Arden-Arcade, CA","CA","06097","7716","FHA Mortgage","Single Family","Hispanic or Latino","White","Female","Approved","Home Purchase","250,000","75.00","4.75","2.11","No","33,000","3,000","0","0","0",20,"1","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-08-01"
+
+"2024","Denver-Aurora-Lakewood, CO","CO","08001","7811","Conventional Mortgage","Single Family","White","Asian","Male","Approved","Home Purchase","450,000","85.00","4.50","1.69","No","58,500","4,500","0","0","0",30,"0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-09-03"
+
+"2024","Kansas City, MO-KS","MO","29043","7911","VA Mortgage","Single Family","Black or African American","American Indian or Alaska Native","Female","Approved","Home Purchase","380,000","80.53","3.75","1.39","No","48,800","4,000","0","0","0",24,"1","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-10-05"
+
+"2024","Portland-Vancouver-Hillsboro, OR-WA","OR","41001","8011","FHA Mortgage","Single Family","Asian","White","Male","Approved","Home Purchase","340,000","76.47","4.75","2.11","Yes","43,600","3,600","0","0","0",20,"1","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-11-07"
+
+"2024","Cleveland-Elyria, OH","OH","39001","8111","Conventional Mortgage","Single Family","White","Black or African American","Female","Approved","Home Purchase","320,000","82.50","4.50","1.85","No","46,400","3,600","0","0","0",24,"1","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-12-09"
+
+"2024","Columbus, OH","OH","39005","8211","VA Mortgage","Single Family","Black or African American","American Indian or Alaska Native","Male","Approved","Home Purchase","450,000","84.00","3.75","1.39","No","56,500","4,500","0","0","0",30,"0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-01-11"
+
+"2024","Charlotte-Concord-Gastonia, NC-SC","NC","37001","8311","FHA Mortgage","Single Family","Hispanic or Latino","White","Female","Approved","Home Purchase","250,000","75.00","4.75","2.11","No","33,000","3,000","0","0","0",20,"1","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-02-13"
+
+"2024","Austin-Round Rock-Georgetown, TX","TX","48029","8414","Conventional Mortgage","Single Family","White","Asian","Male","Approved","Home Purchase","400,000","84.00","4.50","1.69","Yes","51,200","4,000","0","0","0",30,"0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-03-15"
+
+"2024","Indianapolis-Carmel-Anderson, IN","IN","18025","8511","VA Mortgage","Single Family","Black or African American","American Indian or Alaska Native","Female","Approved","Home Purchase","420,000","81.19","3.75","1.39","No","52,200","4,200","0","0","0",24,"1","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-04-17"
+
+"2024","Nashville-Davidson--Murfreesboro--Franklin, TN","TN","47001","8611","Conventional Mortgage","Single Family","White","Asian","Male","Approved","Home Purchase","380,000","80.53","4.75","2.11","Yes","48,800","4,000","0","0","0",30,"0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-05-19"
+
+"2024","Memphis, TN-MS-AR","TN","47011","8711","FHA Mortgage","Single Family","Hispanic or Latino","White","Female","Approved","Home Purchase","220,000","75.00","4.75","2.11","No","31,000","3,000","0","0","0",20,"1","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-06-21"
+
+"2024","Oklahoma City, OK","OK","74001","8811","Conventional Mortgage","Single Family","White","Black or African American","Male","Approved","Home Purchase","300,000","80.00","4.50","1.85","Yes","42,000","3,600","0","0","0",24,"1","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-07-23"
+
+"2024","Louisville/Jefferson County, KY-IN","KY","41001","8911","VA Mortgage","Single Family","White","Asian","Female","Approved","Home Purchase","420,000","81.19","3.75","1.39","No","52,200","4,200","0","0","0",30,"0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-08-25"
+
+"2024","Portland-Vancouver-Hillsboro, OR-WA","OR","41001","9016","FHA Mortgage","Single Family","Black or African American","American Indian or Alaska Native","Male","Approved","Home Purchase","400,000","84.00","4.50","1.85","Yes","51,200","4,000","0","0","0",30,"1","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-09-27"
+
+"2024","Providence-Warwick, RI-MA","RI","44001","9111","Conventional Mortgage","Single Family","Hispanic or Latino","Asian","Female","Approved","Home Purchase","380,000","80.53","4.75","2.11","No","48,800","4,000","0","0","0",20,"1","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-10-29"
+
+"2024","Hartford-East Hartford-Middletown, CT","CT","09001","9211","VA Mortgage","Single Family","White","Black or African American","Male","Approved","Home Purchase","500,000","88.57","3.25","1.19","No","62,500","5,000","0","0","0",30,"0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-11-30"
+
+"2024","Raleigh-Durham-Chapel Hill, NC","NC","37001","9311","Conventional Mortgage","Single Family","Asian","White","Female","Approved","Home Purchase","420,000","81.19","4.50","1.85","Yes","52,200","4,200","0","0","0",24,"1","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","Single","Yes","2024-12-02"
