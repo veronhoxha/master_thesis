@@ -1,0 +1,49 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,Local Police,LH,Louisiana,1991-03-15,1,0,2,1,1,White,Not Hispanic,2,Hate Crime,2,Residence,Anti-White,Adult,Yes,Yes
+1992,State Police,FL,Florida,1992-07-22,0,1,1,0,1,Black,Not Hispanic,1,Assault,1,School,Anti-Black,Juvenile,No,No
+1993,Local Police,NY,New York,1993-11-08,2,0,3,2,1,White,Not Hispanic,2,Hate Crime,2,Restaurant,Anti-Jewish,Adult,Yes,Yes
+1994,County Sheriff,CA,California,1994-02-17,1,1,2,1,1,Hispanic,Hispanic,2,Simple Assault,2,Parking Lot,Anti-Hispanic,"Adult,Juvenile",Yes,No
+1995,Federal Agency,IL,Illinois,1995-09-30,0,1,1,0,1,Asian,Pacific Islander,1,Harassment,1,Public Transit,Anti-Asian,Juvenile,No,Yes
+1996,Local Police,OH,Ohio,1996-05-12,1,0,1,1,0,White,Not Hispanic,1,Assault,1,Store,Anti-White,Adult,No,No
+1997,State Police,TX,Texas,1997-08-29,0,2,2,0,2,Black,Not Hispanic,2,Simple Assault,2,Park,Anti-Black,Juvenile,Yes,Yes
+1998,Local Police,VA,Virginia,1998-01-04,2,1,2,1,1,Other,Not Hispanic,3,Hate Crime,3,Residence,Anti-White,"Adult,Juvenile",Yes,Yes
+1999,County Sheriff,MN,Minnesota,1999-12-18,0,1,1,0,1,White,Not Hispanic,1,Simple Assault,1,Library,Anti-White,Juvenile,No,Yes
+2000,State Police,GA,Georgia,2000-04-23,1,0,1,1,0,Hispanic,Hispanic,1,Assault with Weapon,1,University,Anti-Hispanic,Adult,No,No
+2001,Local Police,WI,Wisconsin,2001-10-11,1,1,2,1,1,White,Not Hispanic,2,Assault,2,School,Anti-White,"Adult,Juvenile",Yes,No
+2002,Federal Agency,NC,Carolina,2002-06-07,0,1,1,0,1,White,Not Hispanic,1,Hate Crime,1,Religious Site,Anti-Jewish,Juvenile,No,Yes
+2003,Local Police,MI,Michigan,2003-03-28,2,0,3,2,1,Other,Not Hispanic,2,Assault,2,Shopping Mall,Anti-Black,Adult,Yes,Yes
+2004,Federal Agency,MD,Maryland,2004-08-19,0,1,1,0,1,White,Not Hispanic,1,Simple Assault,1,Community Center,Anti-White,Juvenile,No,No
+2005,State Police,PA,Pennsylvania,2005-11-05,1,1,2,1,1,Hispanic,Hispanic,2,Assault with Weapon,2,Restaurant,Anti-Hispanic,"Adult,Juvenile",Yes,No
+2006,County Sheriff,SC,South Carolina,2006-07-30,0,1,1,0,1,Black,Not Hispanic,1,Hate Crime,1,Gym,Anti-Black,Juvenile,No,Yes
+2007,Local Police,WA,Washington,2007-02-14,2,0,3,2,1,White,Not Hispanic,2,Simple Assault,2,Park,Anti-White,Adult,Yes,Yes
+2008,State Police,CO,Colorado,2008-09-21,1,1,2,1,1,Asian,Pacific Islander,2,Assault with Weapon,2,School,Anti-Asian,"Adult,Juvenile",Yes,No
+2009,Local Police,KY,Kentucky,2009-05-16,0,2,2,0,2,White,Not Hispanic,2,Hate Crime,2,Residence,Anti-White,Juvenile,Yes,Yes
+2010,County Sheriff,NJ,New Jersey,2010-12-08,1,0,1,1,0,Hispanic,Hispanic,1,Simple Assault,1,Store,Anti-Hispanic,Adult,No,No
+2011,State Police,MN,Minnesota,2011-08-25,0,1,1,0,1,Black,Not Hispanic,1,Assault,1,Public Transit,Anti-Black,Juvenile,No,Yes
+2012,Local Police,FL,Florida,2012-01-31,1,1,2,1,1,White,Not Hispanic,2,Assault with Weapon,2,Restaurant,Anti-White,"Adult,Juvenile",Yes,Yes
+2013,Federal Agency,TX,Texas,2013-04-14,0,1,1,0,1,White,Not Hispanic,1,Hate Crime,1,Religious Site,Anti-White,Juvenile,No,No
+2014,Local Police,IN,Indiana,2014-07-09,2,0,3,2,1,Hispanic,Hispanic,2,Simple Assault,2,Park,Anti-Hispanic,Adult,Yes,Yes
+1991,Local Police,VA,Virginia,1991-06-13,1,0,1,1,0,White,Not Hispanic,1,Assault,1,School,Anti-White,Adult,No,No
+1992,State Police,NY,New York,1992-10-27,0,1,1,0,1,Black,Not Hispanic,1,Simple Assault,1,Public Transit,Anti-Black,Juvenile,No,Yes
+1993,County Sheriff,CA,California,1993-12-02,1,1,2,1,1,White,Not Hispanic,2,Hate Crime,2,Shopping Mall,Anti-White,"Adult,Juvenile",Yes,Yes
+1994,Local Police,MI,Michigan,1994-03-11,0,1,1,0,1,Hispanic,Hispanic,1,Assault with Weapon,1,Parking Lot,Anti-Hispanic,Juvenile,No,No
+1995,Federal Agency,GA,Georgia,1995-09-18,2,0,3,2,1,White,Not Hispanic,2,Simple Assault,2,Residence,Anti-White,Adult,Yes,Yes
+1996,State Police,AL,Alabama,1996-05-31,1,1,2,1,1,Black,Not Hispanic,2,Assault,2,University,Anti-Black,"Adult,Juvenile",Yes,No
+1997,Local Police,FL,Florida,1997-08-05,0,1,1,0,1,Other,Not Hispanic,1,Hate Crime,1,Community Center,Anti-White,Juvenile,No,Yes
+1998,County Sheriff,LA,Louisiana,1998-11-16,1,0,1,1,0,White,Not Hispanic,1,Simple Assault,1,Store,Anti-White,Adult,No,No
+1999,State Police,IL,Illinois,1999-02-22,0,2,2,0,2,Hispanic,Hispanic,2,Assault,2,Restaurant,Anti-Hispanic,Juvenile,Yes,Yes
+2000,Local Police,NC,Carolina,2000-07-14,2,1,2,1,1,White,Not Hispanic,3,Hate Crime,3,Park,Anti-White,"Adult,Juvenile",Yes,Yes
+2001,Federal Agency,MI,Michigan,2001-10-03,0,1,2,0,1,Hispanic,Hispanic,1,Simple Assault,1,Religious Site,Anti-Hispanic,Juvenile,No,No
+2002,State Police,TX,Texas,2002-01-28,1,1,2,1,1,White,Not Hispanic,2,Assault,2,School,Anti-White,"Adult,Juvenile",Yes,No
+2003,County Sheriff,GA,Georgia,2003-05-19,0,1,1,0,1,White,Not Hispanic,1,Assault with Weapon,1,Gym,Anti-White,Juvenile,No,Yes
+2004,Local Police,WA,Washington,2004-08-30,2,0,3,2,1,Black,Not Hispanic,2,Hate Crime,2,Store,Anti-Black,Adult,Yes,Yes
+2005,Federal Agency,NY,New York,2005-11-12,1,1,2,1,1,White,Not Hispanic,2,Simple Assault,2,Shopping Mall,Anti-White,"Adult,Juvenile",Yes,No
+2006,State Police,OK,Oklahoma,2006-02-24,0,1,1,0,1,Hispanic,Hispanic,1,Assault,1,Public Transit,Anti-Hispanic,Juvenile,No,Yes
+2007,Local Police,OR,Oregon,2007-06-30,1,0,2,1,1,Other,Not Hispanic,1,Hate Crime,1,Restaurant,Anti-White,Adult,No,No
+2008,County Sheriff,NV,Nevada,2008-09-19,0,2,2,0,2,White,Not Hispanic,2,Simple Assault,2,Park,Anti-White,Juvenile,Yes,Yes
+2009,State Police,SC,South Carolina,2009-12-14,2,1,2,1,1,Hispanic,Hispanic,3,Assault,3,University,Anti-Hispanic,"Adult,Juvenile",Yes,No
+2010,Local Police,MS,Mississippi,2010-03-07,1,1,2,1,1,White,Not Hispanic,2,Hate Crime,2,Residence,Anti-White,"Adult,Juvenile",Yes,Yes
+2011,Federal Agency,ID,Idaho,2011-07-22,0,1,1,0,1,Black,Not Hispanic,1,Simple Assault,1,Religious Site,Anti-Black,Juvenile,No,No
+2012,State Police,CO,Colorado,2012-10-05,1,0,1,1,0,White,Not Hispanic,1,Assault,1,Store,Anti-White,Adult,No,Yes
+2013,Local Police,VA,Virginia,2013-01-18,0,1,1,0,1,Hispanic,Hispanic,1,Hate Crime,1,Shopping Mall,Anti-Hispanic,Juvenile,No,No
+2014,County Sheriff,FL,Florida,2014-04-27,2,1,2,1,1,Other,Not Hispanic,3,Simple Assault,3,School,Anti-White,"Adult,Juvenile",Yes,Yes

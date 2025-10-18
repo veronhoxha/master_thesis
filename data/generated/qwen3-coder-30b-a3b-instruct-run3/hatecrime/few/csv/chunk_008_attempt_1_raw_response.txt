@@ -1,0 +1,60 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,State Police,CA,California,1991-03-15,0.0,1.0,2,1.0,1.0,White,Not Hispanic or Latino,2,Assault,3.0,Residence,Anti-Jewish,Individual,S,S
+1992,Local Police,NY,New York,1992-06-22,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Simple Assault,1.0,Store/Apartment Complex,Anti-Black or African American,Individual,S,S
+1993,Local Police,TX,Texas,1993-11-08,0.0,0.0,3,2.0,1.0,Hispanic or Latino,Hispanic or Latino,1,Vandalism,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Individual,S,S
+1994,County Sheriff,FL,Florida,1994-02-17,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Aggravated Assault,1.0,Hospital,Anti-White,Individual,S,S
+1995,Local Police,OH,Ohio,1995-09-30,0.0,1.0,1,1.0,0.0,Indian or Alaska Native,Not Specified,2,Intimidation,3.0,School/College,Anti-American Indian or Alaska Native,Individual,S,S
+1996,State Police,GA,Georgia,1996-04-11,3.0,0.0,4,3.0,1.0,Black or African American,Not Hispanic or Latino,3,Assault,3.0,Other Private Property,Anti-Black or African American,Individual,S,S
+1997,Local Police,IL, Illinois,1997-07-24,0.0,0.0,0,0.0,0.0,Unknown,Not Specified,0,Harassment,0.0,Church,Anti-Christian,Other,S,S
+1998,County Sheriff,PA,Pennsylvania,1998-12-05,1.0,0.0,2,1.0,1.0,White,Not Hispanic or Latino,1,Assault,1.0,Park/Playground,Anti-White,Individual,S,S
+1999,Local Police,MI,Michigan,1999-01-18,0.0,0.0,1,1.0,0.0,Asian,Not Specified,1,Damage/Vandalism,1.0,Residence,Anti-Asian,Other,S,S
+2000,State Police,VA,Virginia,2000-05-22,2.0,0.0,2,2.0,0.0,Hispanic or Latino,Hispanic or Latino,2,Assault,2.0,Bar/Billiard Hall,Anti-Hispanic or Latino,Individual,S,S
+2001,Local Police,WI,Wisconsin,2001-08-30,1.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Aggravated Assault,1.0,School/College,Anti-Black or African American,Individual,S,S
+2002,County Sheriff,TN,Tennessee,2002-10-12,0.0,1.0,1,1.0,0.0,Hispanic or Latino,Hispanic or Latino,2,Intimidation,2.0,Restaurant/Academy,Anti-Hispanic or Latino,Individual,S,S
+2003,Local Police,NC, North Carolina,2003-03-03,0.0,0.0,0,0.0,0.0,Unknown,Not Specified,0,Vandalism,0.0,Hospital,Anti-Jewish,Other,S,S
+2004,State Police,AL,Alabama,2004-07-16,1.0,0.0,3,3.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Store/Apartment Complex,Anti-White,Individual,S,S
+2005,Local Police,SC,South Carolina,2005-11-28,2.0,0.0,1,1.0,0.0,Hispanic or Latino,Hispanic or Latino,2,Assault,2.0,Office Building,Anti-Hispanic or Latino,Individual,S,S
+2006,County Sheriff,MD,Maryland,2006-02-09,0.0,1.0,2,1.0,1.0,Black or African American,Not Hispanic or Latino,2,Aggravated Assault,2.0,Residence,Anti-Black or African American,Individual,S,S
+2007,Local Police,NH,New Hampshire,2007-04-14,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Intimidation,1.0,Church,Anti-White,Individual,S,S
+2008,State Police,OR,Oregon,2008-06-26,0.0,0.0,1,1.0,0.0,Indian or Alaska Native,Not Specified,1,Damage/Vandalism,1.0,School/College,Anti-American Indian or Alaska Native,Individual,S,S
+2009,Local Police,MA,Massachusetts,2009-09-11,1.0,0.0,2,2.0,0.0,Asian,Not Specified,1,Simple Assault,1.0,Park/Playground,Anti-Asian,Individual,S,S
+2010,County Sheriff,CO,Colorado,2010-12-19,0.0,1.0,1,1.0,0.0,White,Not Hispanic or Latino,2,Assault,2.0,Office Building,Anti-White,Individual,S,S
+2011,Local Police,IN,Indiana,2011-03-01,2.0,0.0,2,2.0,0.0,Hispanic or Latino,Hispanic or Latino,2,Aggravated Assault,2.0,Hospital,Anti-Hispanic or Latino,Individual,S,S
+2012,State Police,KS,Kansas,2012-07-21,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Restaurant/Academy,Anti-Black or African American,Individual,S,S
+2013,Local Police,RI,Rhode Island,2013-10-05,1.0,0.0,3,3.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,School/College,Anti-White,Individual,S,S
+2014,County Sheriff,VT,Vermont,2014-01-22,0.0,1.0,1,1.0,0.0,Hispanic or Latino,Hispanic or Latino,2,Assault,2.0,Store/Apartment Complex,Anti-Hispanic or Latino,Individual,S,S
+1991,Local Police,NJ,New Jersey,1991-03-15,0.0,1.0,2,1.0,1.0,White,Not Hispanic or Latino,2,Assault,3.0,Park/Playground,Anti-White,Individual,S,S
+1992,State Police,WA,Washington,1992-08-23,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,School/College,Anti-Hispanic or Latino,Individual,S,S
+1993,Local Police,NM,New Mexico,1993-02-14,0.0,0.0,1,1.0,0.0,Indian or Alaska Native,Not Specified,1,Aggravated Assault,1.0,Hospital,Anti-American Indian or Alaska Native,Individual,S,S
+1994,County Sheriff,MS,Mississippi,1994-05-10,2.0,0.0,2,2.0,0.0,Black or African American,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2.0,Office Building,Anti-Black or African American,Individual,S,S
+1995,Local Police,ME,Maine,1995-12-01,0.0,1.0,3,2.0,1.0,White,Not Hispanic or Latino,2,Intimidation,2.0,Residence,Anti-White,Individual,S,S
+1996,State Police,MN,Minnesota,1996-06-17,1.0,0.0,1,1.0,0.0,Asian,Not Specified,1,Assault,1.0,Store/Apartment Complex,Anti-Asian,Individual,S,S
+1997,Local Police,MO,Missouri,1997-11-09,0.0,0.0,1,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1,Aggravated Assault,1.0,Church,Anti-Hispanic or Latino,Individual,S,S
+1998,County Sheriff,OK,Oklahoma,1998-01-21,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Simple Assault,1.0,Highway/Road/Alley/Street/Sidewalk,Anti-White,Individual,S,S
+1999,Local Police,NE,Nebraska,1999-09-27,2.0,0.0,2,2.0,0.0,Black or African American,Not Hispanic or Latino,2,Intimidation,2.0,Hotel/Motel,Anti-Black or African American,Individual,S,S
+2000,State Police,UT,Utah,2000-04-12,0.0,0.0,0,0.0,0.0,Unknown,Not Specified,0,Destruction/Damage/Vandalism of Property,0.0,Park/Playground,Anti-Gay (Male),Other,S,S
+2001,Local Police,ID,Idaho,2001-08-18,0.0,1.0,1,1.0,0.0,White,Not Hispanic or Latino,2,Assault,2.0,Restaurant/Academy,Anti-White,Individual,S,S
+2002,County Sheriff,WV,West Virginia,2002-12-03,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1,Aggravated Assault,1.0,Church,Anti-Hispanic or Latino,Individual,S,S
+2003,Local Police,MT,Montana,2003-03-09,0.0,0.0,2,1.0,1.0,Black or African American,Not Hispanic or Latino,2,Simple Assault,2.0,Store/Apartment Complex,Anti-Black or African American,Individual,S,S
+2004,State Police,AK,Alaska,2004-07-22,0.0,1.0,1,1.0,0.0,White,Not Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2.0,Hospital,Anti-White,Individual,S,S
+2005,Local Police,DE,Delaware,2005-10-12,2.0,0.0,2,2.0,0.0,Hispanic or Latino,Hispanic or Latino,2,Intimidation,2.0,Residence,Anti-Hispanic or Latino,Individual,S,S
+2006,County Sheriff,RI,Rhode Island,2006-02-13,0.0,0.0,1,1.0,0.0,Indian or Alaska Native,Not Specified,1,Assault,1.0,School/College,Anti-American Indian or Alaska Native,Individual,S,S
+2007,Local Police,SD,South Dakota,2007-06-26,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Aggravated Assault,1.0,Park/Playground,Anti-White,Individual,S,S
+2008,State Police,DC,District of Columbia,2008-09-30,0.0,1.0,1,1.0,0.0,Asian,Not Specified,2,Destruction/Damage/Vandalism of Property,2.0,Store/Apartment Complex,Anti-Asian,Individual,S,S
+2009,Local Police,NV,Nevada,2009-12-15,1.0,0.0,3,3.0,0.0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,Church,Anti-Hispanic or Latino,Individual,S,S
+2010,County Sheriff,AR,Arkansas,2010-03-28,0.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,1,Intimidation,1.0,Restaurant/Academy,Anti-Black or African American,Individual,S,S
+2011,Local Police,AZ,Arizona,2011-07-09,2.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,2,Aggravated Assault,2.0,Hotel/Motel,Anti-White,Individual,S,S
+2012,State Police,LA,Louisiana,2012-11-04,0.0,1.0,1,1.0,0.0,Hispanic or Latino,Hispanic or Latino,2,Destruction/Damage/Vandalism of Property,2.0,Park/Playground,Anti-Hispanic or Latino,Individual,S,S
+2013,Local Police,VT,Vermont,2013-01-11,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Assault,1.0,Office Building,Anti-White,Individual,S,S
+2014,County Sheriff,PA,Pennsylvania,2014-05-16,0.0,0.0,0,0.0,0.0,Unknown,Not Specified,0,Simple Assault,0.0,Church,Anti-Jewish,Other,S,S
+1991,Local Police,VT,Vermont,1991-07-24,0.0,1.0,1,1.0,0.0,White,Not Hispanic or Latino,2,Intimidation,2.0,Store/Apartment Complex,Anti-White,Individual,S,S
+1992,State Police,MT,Montana,1992-11-15,1.0,0.0,2,2.0,0.0,Hispanic or Latino,Hispanic or Latino,1,Aggravated Assault,1.0,Office Building,Anti-Hispanic or Latino,Individual,S,S
+1993,Local Police,WY,Wyoming,1993-02-06,0.0,0.0,1,1.0,0.0,Asian,Not Specified,1,Simple Assault,1.0,School/College,Anti-Asian,Individual,S,S
+1994,County Sheriff,KY,Kentucky,1994-06-22,2.0,0.0,1,1.0,0.0,Black or African American,Not Hispanic or Latino,2,Intimidation,2.0,Hospital,Anti-Black or African American,Individual,S,S
+1995,Local Police,FL,Florida,1995-09-08,0.0,1.0,3,2.0,1.0,White,Not Hispanic or Latino,2,Assault,2.0,Residence,Anti-White,Individual,S,S
+1996,State Police,AL,Alabama,1996-10-18,1.0,0.0,1,1.0,0.0,Indian or Alaska Native,Not Specified,1,Aggravated Assault,1.0,Store/Apartment Complex,Anti-American Indian or Alaska Native,Individual,S,S
+1997,Local Police,MS,Mississippi,1997-03-12,0.0,0.0,1,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,Restaurant/Academy,Anti-Hispanic or Latino,Individual,S,S
+1998,County Sheriff,TN,Tennessee,1998-05-09,2.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,2,Simple Assault,2.0,Hotel/Motel,Anti-White,Individual,S,S
+1999,Local Police,NC,North Carolina,1999-08-17,0.0,1.0,2,2.0,0.0,Black or African American,Not Hispanic or Latino,2,Intimidation,2.0,Church,Anti-Black or African American,Individual,S,S
+2000,State Police,WI,Wisconsin,2000-11-30,1.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,1,Aggravated Assault,1.0,Store/Apartment Complex,Anti-White,Individual,S,S
+2001,Local Police,OH,Ohio,2001-01-04,0.0,0.0,0,0.0,0.0,Unknown,Not Specified,0,Destruction/Damage/Vandalism of Property,0.0,House of Worship,Anti-Jewish,Other,S,S

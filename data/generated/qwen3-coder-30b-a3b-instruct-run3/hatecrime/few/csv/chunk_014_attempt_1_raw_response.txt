@@ -1,0 +1,62 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1998,City,OH,Ohio,1998-03-15,1.0,0.0,2,1.0,1.0,White,Not Hispanic or Latino,1,Assault with Dangerous Weapon,2.0,Residence,Anti-Black or African American,Individual,S,S
+2001,Township,FL,Florida,2001-09-22,0.0,1.0,1,0.0,1.0,Hispanic or Latino,Hispanic or Latino,1,Intimidation,3.0,Store/Apartment Complex,Anti-Hispanic or Latino,Group,S,N
+2003,County,GA,Georgia,2003-11-07,2.0,0.0,3,2.0,1.0,Black or African American,Not Specified,2,Assault with Dangerous Weapon,4.0,Hotel/Motel,Anti-Black or African American,Individual,S,S
+2010,City,NC,North Carolina,2010-01-30,0.0,2.0,1,0.0,1.0,Unknown,Not Specified,1,Simple Assault,4.0,Public Park,Anti-Jewish,Group,S,S
+2005,Police Department,TX,Texas,2005-04-18,1.0,0.0,1,1.0,0.0,White,Hispanic or Latino,1,Aggravated Assault,1.0,Park/Avenue,Anti-Hispanic or Latino,Individual,N,S
+2012,City,PA,Pennsylvania,2012-06-11,0.0,1.0,2,0.0,2.0,Black or African American,Not Specified,1,Assault with Dangerous Weapon,3.0,Residence,Anti-Black or African American,Group,N,N
+2002,Township,WI,Wisconsin,2002-08-21,3.0,0.0,1,1.0,0.0,White,Not Hispanic or Latino,3,Property Damage,3.0,School/College,Anti-White,Group,S,S
+2009,City,AL,Alabama,2009-12-05,0.0,1.0,1,0.0,1.0,Asian,Not Specified,1,Simple Assault,2.0,Library,Anti-Asian,Individual,S,S
+2007,City,IL,Illinois,2007-02-14,1.0,1.0,2,1.0,1.0,Hispanic or Latino,Hispanic or Latino,2,Assault with Dangerous Weapon,3.0,Public Place,Anti-Hispanic or Latino,Individual,S,N
+1999,County,MI,Michigan,1999-07-19,0.0,0.0,3,2.0,1.0,Unknown,Not Specified,0,Intimidation,0.0,Residence,Anti-LGBTQ+,Group,N,S
+2008,City,MA,Massachusetts,2008-03-27,1.0,0.0,1,0.0,1.0,White,Not Hispanic or Latino,1,Aggravated Assault,2.0,Office Building,Anti-Jewish,Individual,N,S
+2014,Police Department,SC,South Carolina,2014-10-02,0.0,1.0,1,0.0,1.0,Black or African American,Not Specified,1,Destruction/Damage/Vandalism of Property,2.0,Residence,Anti-Black or African American,Group,N,S
+2006,City,MO,Missouri,2006-05-14,2.0,0.0,2,2.0,0.0,White,Not Specified,2,Assault with Dangerous Weapon,4.0,Motel/Apartment,Anti-White,Individual,S,S
+2011,City,TX,Texas,2011-09-17,0.0,3.0,1,0.0,1.0,Hispanic or Latino,Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,4.0,Retail Store,Anti-Hispanic or Latino,Group,S,N
+2000,County,AK,Alaska,2000-11-30,1.0,0.0,1,1.0,0.0,White,Not Specified,1,Simple Assault,2.0,School/College,Anti-American Indian or Alaska Native,Individual,N,S
+2003,City,KY,Kentucky,2003-02-16,0.0,2.0,2,0.0,2.0,Black or African American,Not Specified,2,Aggravated Assault,4.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Individual,S,N
+1997,Township,NY,New York,1997-10-08,1.0,1.0,3,2.0,1.0,White,Hispanic or Latino,2,Intimidation,3.0,Residence,Anti-Hispanic or Latino,Group,N,S
+2013,City,OR,Oregon,2013-12-29,0.0,2.0,1,0.0,1.0,Asian,Not Specified,1,Simple Assault,3.0,Hospital/Airport,Anti-Asian,Group,S,S
+2004,Police Department,VA,Virginia,2004-07-26,0.0,1.0,1,0.0,1.0,White,Not Specified,1,Aggravated Assault,2.0,Public Transportation,Anti-White,Individual,N,S
+2012,City,CT,Connecticut,2012-04-20,2.0,0.0,2,2.0,0.0,Black or African American,Not Specified,2,Dissemination of Information or Material,4.0,Residence,Anti-Black or African American,Individual,S,S
+2005,City,MN,Minnesota,2005-06-03,1.0,0.0,3,1.0,2.0,Unknown,Not Specified,1,Assault with Dangerous Weapon,2.0,Store/Apartment Complex,Anti-Unknown,Individual,S,N
+1995,City,WV,West Virginia,1995-08-11,0.0,1.0,1,0.0,1.0,Hispanic or Latino,Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,2.0,Bar/Club,Anti-Hispanic or Latino,Individual,S,N
+2010,County,MD,Maryland,2010-01-23,1.0,0.0,1,1.0,0.0,White,Hispanic or Latino,1,Intimidation,2.0,Shopping Center,Anti-Hispanic or Latino,Group,N,N
+2009,City,IN,Indiana,2009-05-19,2.0,1.0,1,1.0,0.0,Asian,Not Specified,2,Simple Assault,4.0,School/College,Anti-Asian,Individual,S,S
+2007,Police Department,TX,Texas,2007-11-25,0.0,0.0,2,0.0,2.0,Black or African American,Not Specified,0,Assault with Dangerous Weapon,2.0,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,Group,N,S
+2014,City,NJ,New Jersey,2014-03-14,1.0,0.0,1,1.0,0.0,White,Hispanic or Latino,1,Simple Assault,2.0,Public Park,Anti-Hispanic or Latino,Individual,N,N
+2011,City,CA,California,2011-09-08,0.0,2.0,1,0.0,1.0,Hispanic or Latino,Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,3.0,Residence,Anti-Hispanic or Latino,Group,S,N
+2002,City,LA,Louisiana,2002-07-15,1.0,1.0,2,1.0,1.0,Unknown,Not Specified,2,Intimidation,3.0,Public Place,Anti-Unknown,Individual,S,N
+1998,City,CO,Colorado,1998-02-21,2.0,1.0,1,1.0,0.0,White,Not Specified,2,Aggravated Assault,3.0,Bar/Club,Anti-White,Individual,S,S
+2013,City,VT,Vermont,2013-06-10,0.0,1.0,1,0.0,1.0,Asian,Not Specified,1,Simple Assault,2.0,Residence,Anti-Asian,Individual,N,S
+2006,County,NE,Nebraska,2006-09-28,0.0,1.0,2,0.0,2.0,Black or African American,Not Specified,1,Dissemination of Information or Material,3.0,School/College,Anti-Black or African American,Group,S,S
+2012,City,NH,New Hampshire,2012-02-15,1.0,0.0,1,1.0,0.0,White,Not Specified,1,Assault with Dangerous Weapon,2.0,Park/Avenue,Anti-White,Individual,N,N
+2003,Police Department,PW,Palau,2003-10-17,0.0,1.0,1,0.0,1.0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,2.0,Public Transportation,Anti-Hispanic or Latino,Individual,N,N
+2008,City,GA,Georgia,2008-03-05,1.0,0.0,1,1.0,0.0,Black or African American,Not Specified,1,Destruction/Damage/Vandalism of Property,2.0,Public Place,Anti-Black or African American,Individual,S,S
+2005,City,IA,Iowa,2005-07-22,0.0,3.0,2,0.0,2.0,Unknown,Not Specified,0,Assault with Dangerous Weapon,3.0,Residence,Anti-Unknown,Group,S,S
+2010,County,AR,Arkansas,2010-11-09,2.0,1.0,1,1.0,0.0,White,Not Hispanic or Latino,2,Simple Assault,3.0,School/College,Anti-White,Individual,N,S
+2014,City,ID,Idaho,2014-04-20,0.0,1.0,1,0.0,1.0,Black or African American,Not Specified,1,Intimidation,2.0,Residence,Anti-Black or African American,Individual,N,S
+2001,Police Department,HI,Hawaii,2001-09-03,1.0,0.0,2,1.0,1.0,Hispanic or Latino,Hispanic or Latino,1,Aggravated Assault,2.0,Public Park,Anti-Hispanic or Latino,Individual,N,S
+2000,City,NM,New Mexico,2000-02-18,1.0,0.0,3,2.0,1.0,White,Not Specified,1,Simple Assault,3.0,Store/Apartment Complex,Anti-White,Individual,N,S
+2007,Educational Institution,DE,Delaware,2007-05-17,0.0,1.0,2,0.0,2.0,Black or African American,Not Specified,0,Aggravated Assault,3.0,School/College,Anti-Black or African American,Group,S,N
+2009,City,NC,New Jersey,2009-03-24,1.0,1.0,1,1.0,0.0,Asian,Not Specified,1,Destruction/Damage/Vandalism of Property,2.0,Restaurant/Academy,Anti-Asian,Individual,N,S
+2013,City,RI,Rhode Island,2013-08-16,0.0,2.0,2,0.0,2.0,Unknown,Not Specified,0,Assault with Dangerous Weapon,3.0,Public Place,Anti-Unknown,Individual,S,S
+1999,City,WY,Wyoming,1999-06-04,1.0,0.0,1,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1,Intimidation,2.0,Public Park,Anti-Hispanic or Latino,Individual,S,N
+2004,County,OH,Ohio,2004-01-27,0.0,0.0,3,2.0,1.0,White,Not Specified,0,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-White,Group,S,S
+2011,City,MT,Montana,2011-10-02,1.0,1.0,1,1.0,0.0,White,Not Specified,1,Aggravated Assault,3.0,Park/Avenue,Anti-White,Individual,S,N
+2006,City,ND,North Dakota,2006-05-03,0.0,2.0,1,0.0,1.0,Asian,Not Specified,0,Simple Assault,3.0,Residence,Anti-Asian,Group,N,S
+2003,Police Department,FL,Florida,2003-09-19,1.0,0.0,2,1.0,1.0,Black or African American,Not Specified,1,Assault with Dangerous Weapon,2.0,School/College,Anti-Black or African American,Individual,N,S
+2008,City,SD,South Dakota,2008-07-11,0.0,3.0,1,0.0,1.0,Unknown,Not Specified,0,Destruction/Damage/Vandalism of Property,4.0,Store/Apartment Complex,Anti-Unknown,Group,N,N
+2012,Police Department,MS,Mississippi,2012-04-16,1.0,0.0,3,2.0,1.0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,3.0,Public Place,Anti-Hispanic or Latino,Individual,S,S
+2014,City,RI,Rhode Island,2014-11-23,0.0,2.0,1,0.0,1.0,White,Not Specified,0,Aggravated Assault,3.0,Public Transportation,Anti-White,Group,N,S
+2002,City,NV,Nevada,2002-06-13,2.0,1.0,1,1.0,0.0,Hispanic or Latino,Hispanic or Latino,2,Intimidation,4.0,Highway/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,Individual,S,S
+2009,City,WV,West Virginia,2009-01-07,1.0,0.0,3,1.0,2.0,White,Hispanic or Latino,1,Simple Assault,2.0,Bar/Club,Anti-Hispanic or Latino,Individual,N,N
+2010,County,NM,New Mexico,2010-08-30,0.0,0.0,1,0.0,1.0,Black or African American,Not Specified,0,Destruction/Damage/Vandalism of Property,0.0,Public Place,Anti-Black or African American,Group,S,S
+2005,City,KS,Kansas,2005-12-12,1.0,1.0,2,1.0,1.0,Unknown,Not Specified,2,Aggravated Assault,2.0,School/College,Anti-Unknown,Individual,N,N
+2007,Police Department,CO,Colorado,2007-04-04,0.0,2.0,1,0.0,1.0,Asian,Not Specified,0,Intimidation,3.0,Residence,Anti-Asian,Group,N,S
+2013,City,TX,Texas,2013-10-19,1.0,0.0,2,1.0,1.0,White,Not Specified,1,Destruction/Damage/Vandalism of Property,2.0,Restaurant/Academy,Anti-White,Individual,N,N
+2014,City,WA,Washington,2014-09-05,0.0,1.0,1,0.0,1.0,Hispanic or Latino,Hispanic or Latino,0,Simple Assault,2.0,Public Park,Anti-Hispanic or Latino,Individual,N,N
+2001,Police Department,VA,Virginia,2001-03-29,2.0,0.0,2,2.0,0.0,White,Not Specified,2,Aggravated Assault,4.0,School/College,Anti-White,Individual,S,S
+2006,City,IL,Illinois,2006-11-17,0.0,1.0,3,1.0,2.0,Black or African American,Not Specified,0,Assault with Dangerous Weapon,4.0,Residence,Anti-Black or African American,Group,N,S
+2011,City,NY,New York,2011-08-10,1.0,0.0,1,1.0,0.0,White,Hispanic or Latino,1,Simple Assault,2.0,Store/Apartment Complex,Anti-Hispanic or Latino,Individual,N,N
+2003,County,GU,Guam,2003-04-01,1.0,1.0,1,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,2.0,Public Place,Anti-Hispanic or Latino,Group,N,N

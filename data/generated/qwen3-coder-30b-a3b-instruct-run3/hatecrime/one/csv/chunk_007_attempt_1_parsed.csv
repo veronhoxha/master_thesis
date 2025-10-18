@@ -1,0 +1,57 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1998,Federal,CO,Colorado,1998-03-22,1,0,1,1,0,White,Not Specified,1,Assault,1.0,Bank,Anti-Jewish,Adult,S,N
+2001,County,FL,Florida,2001-07-15,0,1,2,1,1,Black,Hispanic,1,Hate Crime,1.0,Residence,Anti-Hispanic,Minority,N,Y
+1995,Municipal,TX,Texas,1995-11-08,1,0,1,1,0,Asian,Not Specified,1,Intimidation,1.0,Public Place,Anti-Asian,Adult,N,S
+2006,State,MD,Maryland,2006-02-19,0,1,1,0,1,White,Not Specified,1,Harassment,1.0,Religious Facility,Anti-Christian,Minority,N,S
+2003,Federal,CA,California,2003-09-30,1,0,1,1,0,Native American,Not Specified,1,Assault,1.0,School/College,Anti-American Indian or Alaska Native,Adult,N,S
+2009,Municipal,NY,New York,2009-04-12,0,1,2,1,1,Hispanic,Hispanic,1,Intimidation,1.0,Restaurant,Anti-Hispanic,Minority,N,Y
+2002,County,GA,Georgia,2002-06-25,1,0,1,1,0,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,House/Apartment,Anti-White,Adult,N,S
+2005,State,VA,Virginia,2005-01-03,0,1,2,1,1,Asian,Asian,1,Harassment,1.0,Park,Anti-Asian,Minority,N,Y
+1999,Federal,IL,Illinois,1999-12-18,1,0,1,1,0,Black,Not Specified,1,Assault,1.0,Store/Apt,Multi-Affiliation,Adult,S,Y
+2007,Municipal,OH,Ohio,2007-08-27,0,1,1,0,1,White,Not Specified,1,Intimidation,1.0,Library,Anti-White,Minority,N,S
+2994,County,PA,Pennsylvania,2004-10-11,1,0,2,1,1,Hispanic,Hispanic,1,Hate Crime,1.0,School/College,Anti-Hispanic,Adult,N,Y
+2000,Federal,DC,Washington DC,2000-05-05,0,1,1,0,1,Black,Not Specified,1,Assault,1.0,Bar/Nightclub,Anti-Black or African American,Minority,N,S
+2010,Municipal,MI,Michigan,2010-03-17,1,0,1,1,0,White,Not Specified,1,Harassment,1.0,Public Place,Anti-White,Adult,N,S
+2008,State,WA,Washington,2008-11-29,0,1,1,0,1,Asian,Not Specified,1,Intimidation,1.0,Bank,Anti-Asian,Minority,N,S
+2002,Federal,NC,Carolina,2002-07-31,1,0,1,1,0,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Retail Store,Anti-White,Adult,N,S
+2005,Municipal,SC,South Carolina,2005-02-20,0,1,2,1,1,Black,Hispanic,1,Assault,1.0,Church,Anti-Black or African American,Minority,N,Y
+2003,County,IN,Indiana,2003-09-14,1,0,1,1,0,Hispanic,Hispanic,1,Intimidation,1.0,Residence,Anti-Hispanic,Adult,N,S
+1997,Federal,RI,Rhode Island,1997-12-09,0,1,2,1,1,White,Not Specified,1,Harassment,1.0,College Campus,Anti-White,Minority,N,Y
+2009,State,NJ,New Jersey,2009-04-16,1,0,1,1,0,Black,Not Specified,1,Assault,1.0,Public Place,Anti-Black or African American,Adult,N,S
+2006,Municipal,VT,Vermonter,2006-08-02,0,1,1,0,1,Asian,Hispanic,1,Hate Crime,1.0,School/College,Anti-Asian,Minority,N,S
+2001,Federal,WI,Wisconsin,2001-01-29,1,0,2,1,1,White,Not Specified,1,Intimidation,1.0,Home/Apartment,Anti-White,Adult,N,Y
+2008,County,CT,Connecticut,2008-06-21,0,1,1,0,1,Native American,Not Specified,1,Assault,1.0,Store/Apt,Anti-American Indian or Alaska Native,Minority,N,S
+2004,Municipal,MA,Massachusetts,2004-10-11,1,0,1,1,0,Black,Not Specified,1,Harassment,1.0,Railroad Station,Anti-Black or African American,Adult,N,S
+2007,State,AL,Alabama,2007-03-04,0,1,2,1,1,White,Hispanic,1,Intimidation,1.0,Police Station,Anti-Hispanic,Minority,N,Y
+2000,Federal,OR,Oregon,2000-11-05,1,0,1,1,0,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Bank,Anti-White,Adult,N,S
+2011,Municipal,KS,Kansas,2011-07-13,0,1,1,0,1,Hispanic,Hispanic,1,Assault,1.0,Restaurant,Anti-Hispanic,Minority,N,S
+2003,County,LA,Louisiana,2003-05-28,1,0,1,1,0,Black,Not Specified,1,Intimidation,1.0,Public Place,Anti-Black or African American,Adult,N,S
+2006,Federal,NH,New Hampshire,2006-08-19,0,1,2,1,1,White,Not Specified,1,Harassment,1.0,School/College,Anti-White,Minority,N,Y
+1999,Municipal,NE,Nebraska,1999-02-03,1,0,1,1,0,Asian,Not Specified,1,Assault,1.0,Store/Apt,Anti-Asian,Adult,N,S
+2005,State,NV,Nevada,2005-12-09,0,1,1,0,1,White,Hispanic,1,Hate Crime,1.0,Residence,Anti-Hispanic,Minority,N,S
+2002,Federal,WV,West Virginia,2002-03-18,1,0,1,1,0,Black,Not Specified,1,Intimidation,1.0,Religious Facility,Anti-Black or African American,Adult,N,S
+2009,Municipal,MT,Montana,2009-06-12,0,1,2,1,1,White,Not Specified,1,Assault,1.0,Public Place,Anti-White,Minority,N,Y
+2007,County,WY,Wyoming,2007-09-24,1,0,1,1,0,Hispanic,Hispanic,1,Harassment,1.0,Store/Apt,Anti-Hispanic,Adult,N,S
+2004,Federal,ID,Idaho,2004-01-16,0,1,1,0,1,White,Not Specified,1,Intimidation,1.0,School/College,Anti-White,Minority,N,S
+2008,Municipal,AK,Alaska,2008-04-22,1,0,2,1,1,Native American,Not Specified,1,Assault,1.0,Restaurant,Anti-American Indian or Alaska Native,Adult,N,Y
+2001,State,HI,Hawaii,2001-08-30,0,1,1,0,1,Hispanic,Hispanic,1,Assault,1.0,Public Place,Anti-Hispanic,Minority,N,S
+2010,Federal,AR,Arkansas,2010-05-07,1,0,1,1,0,White,Not Specified,1,Intimidation,1.0,Store/Apt,Anti-White,Adult,N,S
+2003,Municipal,NM,New Mexico,2003-11-12,0,1,2,1,1,Asian,Hispanic,1,Hate Crime,1.0,College Campus,Anti-Asian,Minority,N,Y
+2006,County,DE,Delaware,2006-02-28,1,0,1,1,0,Black,Not Specified,1,Intimidation,1.0,House/Apartment,Anti-Black or African American,Adult,N,S
+2005,Federal,ME,Maine,2005-07-18,0,1,1,0,1,White,Not Specified,1,Assault,1.0,Retail Store,Anti-White,Minority,N,S
+2000,Municipal,VT,Vermonter,2000-10-04,1,0,1,1,0,White,Not Specified,1,Harassment,1.0,Library,Anti-White,Adult,N,S
+2007,State,SD,South Dakota,2007-01-23,0,1,2,1,1,Hispanic,Hispanic,1,Intimidation,1.0,Residence,Anti-Hispanic,Minority,N,Y
+2009,Federal,ND,North Dakota,2009-03-31,1,0,1,1,0,Black,Not Specified,1,Assault,1.0,Public Place,Anti-Black or African American,Adult,N,S
+2002,Municipal,GA,Georgia,2002-06-15,0,1,1,0,1,Native American,Not Specified,1,Harassment,1.0,Rest Area,Anti-American Indian or Alaska Native,Minority,N,S
+2008,County,AL,Alabama,2008-09-08,1,0,2,1,1,White,Not Specified,1,Intimidation,1.0,Store/Apt,Anti-White,Adult,N,Y
+2004,Federal,OK,Oklahoma,2004-12-20,0,1,1,0,1,White,Hispanic,1,Hate Crime,1.0,School/College,Anti-Hispanic,Minority,N,S
+2001,Municipal,NJ,New Jersey,2001-04-27,1,0,1,1,0,Hispanic,Hispanic,1,Assault,1.0,Public Place,Anti-Hispanic,Adult,N,S
+2006,State,IN,Indiana,2006-07-11,0,1,2,1,1,White,Not Specified,1,Intimidation,1.0,Religious Facility,Anti-White,Minority,N,Y
+2003,Federal,MN,Minnesota,2003-02-14,1,0,1,1,0,Black,Not Specified,1,Harassment,1.0,School/College,Anti-Black or African American,Adult,N,S
+2011,Municipal,TX,Texas,2011-08-25,0,1,1,0,1,Asian,Hispanic,1,Assault,1.0,Church,Anti-Asian,Minority,N,S
+2005,County,MS,Mississippi,2005-10-03,1,0,2,1,1,White,Not Specified,1,Intimidation,1.0,Home/Apartment,Anti-White,Adult,N,Y
+2002,Federal,LA,Louisiana,2002-05-17,0,1,1,0,1,White,Not Specified,1,Assault,1.0,Store/Apt,Anti-White,Minority,N,S
+2000,Municipal,SC,South Carolina,2000-09-12,1,0,1,1,0,Hispanic,Hispanic,1,Intimidation,1.0,Restaurant,Anti-Hispanic,Adult,N,S
+2007,State,MD,Maryland,2007-03-26,0,1,2,1,1,White,Not Specified,1,Harassment,1.0,College Campus,Anti-White,Minority,N,Y
+2010,Federal,NC,Carolina,2010-11-07,1,0,1,1,0,Black,Not Specified,1,Assault,1.0,Public Place,Anti-Black or African American,Adult,N,S
+2008,Municipal,FL,Florida,2008-06-30,0,1,1,0,1,White,Not Specified,1,Intimidation,1.0,Bar/Nightclub,Anti-White,Minority,N,S

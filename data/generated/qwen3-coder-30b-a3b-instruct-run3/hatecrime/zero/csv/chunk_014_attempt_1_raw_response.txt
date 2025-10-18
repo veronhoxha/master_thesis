@@ -1,0 +1,73 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,Local Police,CA,California,1991-03-15,2,0,3,2,1,White,Not Hispanic,2,Assault,2,Friends' House,Gay/Lesbian,Adult,TRUE,FALSE
+1992,State Police,NV,Nevada,1992-07-22,1,0,2,1,1,Black,Not Hispanic,1,Simple Assault,1,Apartment Complex,Racial,Adult,FALSE,FALSE
+1993,Local Police,MN,Minnesota,1993-11-08,0,1,2,1,1,White,Hispanic,1,Intimidation,1,Shopping Mall,Religious,Minor,FALSE,FALSE
+1994,County Sheriff,FL,Florida,1994-02-14,3,0,4,3,1,Asian,Not Hispanic,3,Assault,3,Street,Anti-African-American,Adult,TRUE,TRUE
+1995,Local Police,GA,Georgia,1995-09-30,1,0,2,1,1,White,Not Hispanic,1,Burglary,1,School Building,Hate Crime,Adult,FALSE,FALSE
+1996,State Police,NC,North Carolina,1996-05-17,2,0,3,2,1,White,Not Hispanic,2,Assault,2,Shopping Center,Sexual Orientation,Adult,TRUE,FALSE
+1997,Local Police,TX,Texas,1997-12-04,1,0,2,1,1,Hispanic,Hispanic,1,Harassment,1,Park,Racial,Adult,FALSE,FALSE
+1998,County Sheriff,IL,Illinois,1998-08-19,0,1,1,0,1,White,Not Hispanic,1,Assault,1,Public Bus Stop,Religious,Minor,FALSE,FALSE
+1999,Local Police,PA,Pennsylvania,1999-01-28,2,0,3,2,1,White,Not Hispanic,2,Intimidation,2,Community Center,Psychological,Adult,TRUE,FALSE
+2000,State Police,WI,Wisconsin,2000-06-11,3,0,4,3,1,Hispanic,Hispanic,3,Assault,3,Office Building,Anti-Immigrant,Adult,TRUE,TRUE
+2001,Local Police,OH,Ohio,2001-10-05,1,0,2,1,1,White,Not Hispanic,1,Simple Assault,1,Restaurant,Gender Identity,Adult,FALSE,FALSE
+2002,County Sheriff,VA,Virginia,2002-03-13,4,0,5,4,1,White,Not Hispanic,4,Assault,4,Residence,Gay/Lesbian,Adult,TRUE,FALSE
+2003,Local Police,IN,Indiana,2003-09-18,0,1,2,1,1,Black,Not Hispanic,1,Harassment,1,College Campus,Religious,Minor,FALSE,FALSE
+2004,State Police,TX,Texas,2004-12-24,2,0,3,2,1,Hispanic,Hispanic,2,Simple Assault,2,Mall,Hate Crime,Adult,TRUE,FALSE
+2005,Local Police,CO,Colorado,2005-04-21,1,0,2,1,1,White,Not Hispanic,1,Burglary,1,Bar,Sexual Orientation,Adult,FALSE,FALSE
+2006,County Sheriff,MI,Michigan,2006-07-09,0,1,2,1,1,White,Hispanic,1,Assault,1,Library,Racial,Minor,FALSE,FALSE
+2007,Local Police,MD, Maryland,2007-11-01,3,0,4,3,1,White,Not Hispanic,3,Intimidation,3,Street,Religious,Adult,TRUE,FALSE
+2008,State Police,SC,South Carolina,2008-02-16,1,0,2,1,1,Black,Not Hispanic,1,Harassment,1,Hotel,Muslims,Adult,FALSE,FALSE
+2009,Local Police,NY,New York,2009-08-30,2,0,3,2,1,White,Not Hispanic,2,Assault,2,Clothing Store,Anti-Spanish,Adult,TRUE,FALSE
+2010,County Sheriff,OR,Oregon,2010-05-11,0,1,2,1,1,White,Hispanic,1,Simple Assault,1,University Campus,Psychological,Minor,FALSE,FALSE
+2011,Local Police,MT,Montana,2011-09-23,3,0,4,3,1,White,Not Hispanic,3,Sexual Assault,3,Home,Anti-African-American,Adult,TRUE,FALSE
+2012,State Police,MO,Missouri,2012-01-19,1,0,2,1,1,Hispanic,Hispanic,1,Assault,1,YMCA,Religious,Adult,FALSE,FALSE
+2013,Local Police,LA,Louisiana,2013-06-07,2,0,3,2,1,White,Not Hispanic,2,Intimidation,2,Street,Gay/Lesbian,Adult,TRUE,FALSE
+2014,County Sheriff,AR,Arkansas,2014-10-30,0,1,2,1,1,Black,Not Hispanic,1,Harassment,1,Community Center,Hate Crime,Minor,FALSE,FALSE
+1991,Local Police,WA,Washington,1991-11-12,1,0,2,1,1,Asian,Hispanic,1,Assault,1,Museum,Sexual Orientation,Adult,FALSE,FALSE
+1992,State Police,UT,Utah,1992-04-08,2,0,3,2,1,White,Not Hispanic,2,Simple Assault,2,Shopping Mall,Racial,Adult,TRUE,FALSE
+1993,Local Police,WV,West Virginia,1993-07-27,0,1,2,1,1,White,Not Hispanic,1,Burglary,1,Friends' House,Religious,Minor,FALSE,FALSE
+1994,County Sheriff,NE,Nebraska,1994-03-14,3,0,4,3,1,White,Not Hispanic,3,Assault,3,Residence,Gay/Lesbian,Adult,TRUE,FALSE
+1995,Local Police,KY,Kentucky,1995-08-19,1,0,2,1,1,Black,Not Hispanic,1,Intimidation,1,School Building,Anti-Immigrant,Adult,FALSE,FALSE
+1996,State Police,MS,Mississippi,1996-01-25,1,0,2,1,1,White,Hispanic,1,Assault,1,Office Building,Sexual Orientation,Adult,FALSE,FALSE
+1997,Local Police,AL,Alabama,1997-05-31,0,1,1,0,1,White,Not Hispanic,1,Harassment,1,Mall,Racial,Minor,FALSE,FALSE
+1998,County Sheriff,TN,Tennessee,1998-12-08,2,0,3,2,1,Hispanic,Hispanic,2,Assault,2,Public Transportation,Religious,Adult,TRUE,FALSE
+1999,Local Police,ID,Idaho,1999-02-17,1,0,2,1,1,White,Not Hispanic,1,Simple Assault,1,Bar,Hate Crime,Adult,FALSE,FALSE
+2000,State Police,AZ,Arizona,2000-07-22,1,0,2,1,1,White,Not Hispanic,1,Burglary,1,Restaurant,Gay/Lesbian,Adult,FALSE,FALSE
+2001,Local Police,HI,Hawaii,2001-10-09,3,0,4,3,1,White,Not Hispanic,3,Assault,3,Park,Racial,Adult,TRUE,FALSE
+2002,County Sheriff,SD,South Dakota,2002-03-11,0,1,2,1,1,Hispanic,Hispanic,1,Intimidation,1,College Campus,Religious,Minor,FALSE,FALSE
+2003,Local Police,NH,New Hampshire,2003-08-13,2,0,3,2,1,White,Not Hispanic,2,Harassment,2,Hotel,Anti-Immigrant,Adult,TRUE,FALSE
+2004,State Police,WY,Wyoming,2004-12-01,2,0,3,2,1,White,Not Hispanic,2,Assault,2,Street,Sexual Orientation,Adult,TRUE,FALSE
+2005,Local Police,VT,Vermont,2005-04-15,1,0,2,1,1,White,Not Hispanic,1,Burglary,1,Hospital,Religious,Adult,FALSE,FALSE
+2006,County Sheriff,ME,Maine,2006-09-28,1,0,2,1,1,Black,Not Hispanic,1,Simple Assault,1,Shopping Mall,Racial,Adult,FALSE,FALSE
+2007,Local Police,NJ,New Jersey,2007-06-20,0,1,2,1,1,White,Hispanic,1,Assault,1,Apartment Complex,Hate Crime,Minor,FALSE,FALSE
+2008,State Police,RI,Rhode Island,2008-11-03,3,0,4,3,1,White,Not Hispanic,3,Intimidation,3,School Building,Gay/Lesbian,Adult,TRUE,FALSE
+2009,Local Police,DE,Delaware,2009-01-21,1,0,2,1,1,White,Not Hispanic,1,Harassment,1,Courthouse,Religious,Adult,FALSE,FALSE
+2010,County Sheriff,CT,Connecticut,2010-07-29,0,1,1,0,1,White,Hispanic,1,Assault,1,Public Library,Anti-Spanish,Minor,FALSE,FALSE
+2011,Local Police,MA,Massachusetts,2011-02-10,2,0,3,2,1,White,Not Hispanic,2,Burglary,2,Home,Psychological,Adult,TRUE,FALSE
+2012,State Police,NM,New Mexico,2012-10-23,1,0,2,1,1,Hispanic,Hispanic,1,Assault,1,Store,Religious,Adult,FALSE,FALSE
+2013,Local Police,AK,Alaska,2013-05-06,3,0,4,3,1,White,Not Hispanic,3,Intimidation,3,Church,Racial,Adult,TRUE,FALSE
+2014,County Sheriff,KS,Kansas,2014-03-18,1,0,2,1,1,White,Not Hispanic,1,Harassment,1,Friends' House,Sexual Orientation,Adult,FALSE,FALSE
+1991,Local Police,TX,Texas,1991-12-07,0,1,2,1,1,Hispanic,Hispanic,1,Burglary,1,University Campus,Religious,Minor,FALSE,FALSE
+1992,State Police,NJ,New Jersey,1992-08-25,2,0,3,2,1,White,Hispanic,2,Simple Assault,2,Shopping Center,Anti-Immigrant,Adult,TRUE,FALSE
+1993,Local Police,FL,Florida,1993-01-03,1,0,2,1,1,White,Not Hispanic,1,Assault,1,Public Transportation,Psychological,Adult,FALSE,FALSE
+1994,County Sheriff,WI,Wisconsin,1994-04-12,2,0,3,2,1,Black,Not Hispanic,2,Intimidation,2,Residence,Religious,Adult,TRUE,FALSE
+1995,Local Police,OH,Ohio,1995-11-30,0,1,2,1,1,White,Hispanic,1,Harassment,1,Community Center,Racial,Minor,FALSE,FALSE
+1996,State Police,GA,Georgia,1996-09-08,3,0,4,3,1,White,Not Hispanic,3,Assault,3,Street,Hate Crime,Adult,TRUE,FALSE
+1997,Local Police,MD, Maryland,1997-06-14,2,0,3,2,1,Asian,Not Hispanic,2,Burglary,2,Hospital,Gay/Lesbian,Adult,TRUE,FALSE
+1998,County Sheriff,VA,Virginia,1998-02-23,1,0,2,1,1,White,Not Hispanic,1,Assault,1,Restaurant,Religious,Adult,FALSE,FALSE
+1999,Local Police,NC,North Carolina,1999-07-18,1,0,2,1,1,Hispanic,Hispanic,1,Intimidation,1,Office Building,Anti-Spanish,Adult,FALSE,FALSE
+2000,State Police,TN,Tennessee,2000-03-25,0,1,2,1,1,White,Not Hispanic,1,Harassment,1,Dormitory,Racial,Minor,FALSE,FALSE
+2001,Local Police,OK,Oklahoma,2001-08-05,2,0,3,2,1,White,Hispanic,2,Assault,2,School Building,Sexual Orientation,Adult,TRUE,FALSE
+2002,County Sheriff,SC,South Carolina,2002-10-15,3,0,4,3,1,White,Not Hispanic,3,Simple Assault,3,Home,Racial,Adult,TRUE,FALSE
+2003,Local Police,AR,Arkansas,2003-04-28,1,0,2,1,1,White,Not Hispanic,1,Burglary,1,Street,Religious,Adult,FALSE,FALSE
+2004,State Police,NY,New York,2004-12-11,0,1,2,1,1,Black,Not Hispanic,1,Assault,1,Church,Hate Crime,Minor,FALSE,FALSE
+2005,Local Police,LA,Louisiana,2005-01-02,2,0,3,2,1,White,Hispanic,2,Intimidation,2,Restaurant,Anti-African-American,Adult,TRUE,FALSE
+2006,County Sheriff,MS,Mississippi,2006-09-19,1,0,2,1,1,White,Not Hispanic,1,Harassment,1,School Building,Gay/Lesbian,Adult,FALSE,FALSE
+2007,Local Police,AL,Alabama,2007-05-30,3,0,4,3,1,White,Hispanic,3,Assault,3,University Campus,Religious,Adult,TRUE,FALSE
+2008,State Police,IA,Iowa,2008-11-07,1,0,2,1,1,White,Not Hispanic,1,Burglary,1,Community Center,Psychological,Adult,FALSE,FALSE
+2009,Local Police,MO,Missouri,2009-03-12,0,1,2,1,1,Black,Not Hispanic,1,Assault,1,Shopping Mall,Racial,Minor,FALSE,FALSE
+2010,County Sheriff,WV,West Virginia,2010-07-29,2,0,3,2,1,White,Not Hispanic,2,Intimidation,2,Store,Sexual Orientation,Adult,TRUE,FALSE
+2011,Local Police,MN,Minnesota,2011-01-18,1,0,2,1,1,White,Not Hispanic,1,Harassment,1,Hotel,Hate Crime,Adult,FALSE,FALSE
+2012,State Police,OR,Oregon,2012-06-23,3,0,4,3,1,Hispanic,Hispanic,3,Assault,3,Apartment Complex,Religious,Adult,TRUE,FALSE
+2013,Local Police,AZ,Arizona,2013-09-05,2,0,3,2,1,White,Not Hispanic,2,Burglary,2,Restaurant,Racial,Adult,TRUE,FALSE
+2014,County Sheriff,CO,Colorado,2014-12-20,1,0,2,1,1,White,Hispanic,1,Assault,1,Bar,Psychological,Adult,FALSE,FALSE

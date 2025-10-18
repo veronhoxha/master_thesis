@@ -1,0 +1,73 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,Police Department,AL,Alabama,1991-03-15,1,0,2,1,1,White,Not Hispanic,1,Aggravated Assault,1,School,Female,Person,TRUE,FALSE
+1992,Police Department,AZ,Arizona,1992-07-22,0,1,3,2,1,Black,Hispanic,1,Simple Assault,1,Housing Complex,Racial,Individual,TRUE,FALSE
+1993,Police Department,AR,Arkansas,1993-11-10,2,0,1,1,0,White,Not Hispanic,2,Burglary,2,Residence,Religious,Family,TRUE,FALSE
+1994,Police Department,CA,California,1994-05-03,0,2,4,3,1,Asian,Not Hispanic,2,Robbery,2,Store,Sexual,Person,TRUE,FALSE
+1995,Police Department,CO,Colorado,1995-09-18,1,0,2,1,1,Hispanic,Hispanic,1,Vandalism,1,Park,Disability,Individual,TRUE,FALSE
+1996,Police Department,CT,Connecticut,1996-01-30,3,1,3,2,1,White,Not Hispanic,4,Assault,4,Hospital,Racial,Family,TRUE,FALSE
+1997,Police Department,DE,Delaware,1997-12-05,0,1,2,1,1,Black,Not Hispanic,1,Kidnapping,1,Mall,Criminal,Individual,TRUE,FALSE
+1998,Police Department,FL,Florida,1998-08-14,1,0,1,1,0,Native American,Not Hispanic,1,Murder,1,Street,Gender Identity,Person,TRUE,FALSE
+1999,Police Department,GA,Georgia,1999-04-22,2,0,4,3,1,White,Not Hispanic,2,Theft,2,Apartment Complex,Political,Family,TRUE,FALSE
+2000,Police Department,HI,Hawaii,2000-10-30,0,1,2,1,1,Asian,Asian,1,Assault,1,Restaurant,Age,Person,TRUE,FALSE
+2001,Police Department,ID,Idaho,2001-06-17,1,0,2,1,1,White,Not Hispanic,1,Aggravated Assault,1,Dormitory,Racial,Individual,TRUE,FALSE
+2002,Police Department,IL,Illinois,2002-02-12,3,1,5,4,1,Hispanic,Hispanic,4,Robbery,4,Car,Sexual,Family,TRUE,FALSE
+2003,Police Department,IN,Indiana,2003-07-25,0,1,2,1,1,Black,Not Hispanic,1,Vandalism,1,College Campus,Religious,Person,TRUE,FALSE
+2004,Police Department,IA,Iowa,2004-11-19,2,0,3,2,1,White,Not Hispanic,2,Simple Assault,2,Store,Disability,Family,TRUE,FALSE
+2005,Police Department,KS,Kansas,2005-03-08,1,0,2,1,1,Hispanic,Hispanic,1,Burglary,1,Apartment Complex,Cultural,Individual,TRUE,FALSE
+2006,Police Department,KY,Kentucky,2006-09-28,4,1,3,2,1,White,Not Hispanic,5,Aggravated Assault,5,Park,Gender Identity,Family,TRUE,FALSE
+2007,Police Department,LA,Louisiana,2007-05-16,0,2,4,3,1,Black,Hispanic,2,Kidnapping,2,Bar,Political,Person,TRUE,FALSE
+2008,Police Department,ME,Maine,2008-12-01,1,0,1,1,0,White,Not Hispanic,1,Murder,1,Home,Religious,Individual,TRUE,FALSE
+2009,Police Department,MD,Maryland,2009-08-20,3,0,4,3,1,Hispanic,Hispanic,3,Theft,3,Store,Racial,Family,TRUE,FALSE
+2010,Police Department,MA,Massachusetts,2010-04-11,0,1,2,1,1,White,Not Hispanic,1,Assault,1,Library,Age,Person,TRUE,FALSE
+2011,Police Department,MI,Michigan,2011-10-04,2,1,3,2,1,Hispanic,Hispanic,3,Burglary,3,School,Sexual,Family,TRUE,FALSE
+2012,Police Department,MN,Minnesota,2012-02-27,1,0,2,1,1,White,Not Hispanic,1,Aggravated Assault,1,Housing Complex,Disability,Individual,TRUE,FALSE
+2013,Police Department,MS,Mississippi,2013-06-15,4,0,3,2,1,Black,Not Hispanic,4,Simple Assault,4,Street,Racial,Family,TRUE,FALSE
+2014,Police Department,MO,Missouri,2014-11-30,0,2,4,3,1,Hispanic,Hispanic,2,Robbery,2,Restaurant,Gender Identity,Person,TRUE,FALSE
+1991,Police Department,MT,Montana,1991-01-25,2,0,2,1,1,White,Not Hispanic,2,Murder,2,Residence,Cultural,Family,TRUE,FALSE
+1992,Police Department,NE,Nebraska,1992-07-12,1,1,3,2,1,Black,Not Hispanic,2,Vandalism,2,Apartment Complex,Political,Individual,TRUE,FALSE
+1993,Police Department,NV,Nevada,1993-03-29,0,1,2,1,1,Hispanic,Hispanic,1,Assault,1,Hotel,Religious,Person,TRUE,FALSE
+1994,Police Department,NH,New Hampshire,1994-09-10,3,1,1,1,0,White,Not Hispanic,4,Aggravated Assault,4,Store,Gender Identity,Family,TRUE,FALSE
+1995,Police Department,NJ,New Jersey,1995-05-23,0,2,5,4,1,Hispanic,Hispanic,2,Burglary,2,Hospital,Disability,Person,TRUE,FALSE
+1996,Police Department,NM,New Mexico,1996-12-08,1,0,2,1,1,White,Not Hispanic,1,Simple Assault,1,Office Building,Racial,Individual,TRUE,FALSE
+1997,Police Department,NY,New York,1997-08-16,2,1,4,3,1,Black,Hispanic,3,Robbery,3,Transit Station,Cultural,Family,TRUE,FALSE
+1998,Police Department,NC,North Carolina,1998-04-02,0,1,3,2,1,White,Not Hispanic,1,Murder,1,Educational Facility,Gender Identity,Person,TRUE,FALSE
+1999,Police Department,ND,North Dakota,1999-10-20,4,1,2,1,1,Hispanic,Hispanic,5,Aggravated Assault,5,Street,Religious,Family,TRUE,FALSE
+2000,Police Department,OH,Ohio,2000-06-14,0,3,4,3,1,White,Not Hispanic,3,Theft,3,Public Park,Age,Person,TRUE,FALSE
+2001,Police Department,OK,Oklahoma,2001-01-23,2,0,3,2,1,Black,Not Hispanic,2,Kidnapping,2,Residence,Political,Family,TRUE,FALSE
+2002,Police Department,OR,Oregon,2002-09-08,1,0,2,1,1,White,Not Hispanic,1,Vandalism,1,Store,Racial,Individual,TRUE,FALSE
+2003,Police Department,PA,Pennsylvania,2003-02-17,0,2,5,4,1,Hispanic,Hispanic,2,Assault,2,Housing Complex,Disability,Person,TRUE,FALSE
+2004,Police Department,RI,Rhode Island,2004-11-13,3,1,3,2,1,White,Not Hispanic,4,Burglary,4,School,Sexual,Family,TRUE,FALSE
+2005,Police Department,SC,South Carolina,2005-07-29,0,1,2,1,1,Black,Not Hispanic,1,Simple Assault,1,Restaurant,Gender Identity,Person,TRUE,FALSE
+2006,Police Department,SD,South Dakota,2006-04-20,4,0,3,2,1,White,Not Hispanic,4,Aggravated Assault,4,Car,Cultural,Family,TRUE,FALSE
+2007,Police Department,TN,Tennessee,2007-10-01,0,2,4,3,1,Hispanic,Hispanic,2,Robbery,2,Apartment Complex,Religious,Person,TRUE,FALSE
+2008,Police Department,TX,Texas,2008-03-11,2,1,3,2,1,White,Not Hispanic,3,Murder,3,Public Building,Political,Family,TRUE,FALSE
+2009,Police Department,UT,Utah,2009-12-15,1,0,2,1,1,Hispanic,Hispanic,1,Vandalism,1,Store,Age,Individual,TRUE,FALSE
+2010,Police Department,VT,Vermont,2010-08-24,0,1,2,1,1,White,Not Hispanic,1,Assault,1,Library,Racial,Person,TRUE,FALSE
+2011,Police Department,VA,Virginia,2011-05-30,2,1,4,3,1,Black,Hispanic,3,Burglary,3,Hospital,Disability,Family,TRUE,FALSE
+2012,Police Department,WV,West Virginia,2012-01-09,1,0,2,1,1,White,Not Hispanic,1,Simple Assault,1,Residence,Sexual,Individual,TRUE,FALSE
+2013,Police Department,WI,Wisconsin,2013-06-13,0,2,3,2,1,Hispanic,Hispanic,2,Aggravated Assault,2,Street,Cultural,Person,TRUE,FALSE
+2014,Police Department,WY,Wyoming,2014-10-07,3,0,4,3,1,White,Not Hispanic,3,Kidnapping,3,College Campus,Religious,Family,TRUE,FALSE
+1991,Police Department,AK,Alaska,1991-11-08,0,1,2,1,1,Native American,Not Hispanic,1,Robbery,1,Store,Gender Identity,Person,TRUE,FALSE
+1992,Police Department,AR,Arkansas,1992-04-19,2,1,4,3,1,White,Not Hispanic,3,Murder,3,Car,Racial,Family,TRUE,FALSE
+1993,Police Department,CA,California,1993-10-23,0,1,3,2,1,Hispanic,Hispanic,1,Vandalism,1,Restaurant,Disability,Person,TRUE,FALSE
+1994,Police Department,CO,Colorado,1994-03-05,1,0,2,1,1,White,Not Hispanic,1,Assault,1,Apartment Complex,Cultural,Individual,TRUE,FALSE
+1995,Police Department,CT,Connecticut,1995-07-18,0,2,4,3,1,Black,Not Hispanic,2,Burglary,2,Street,Political,Person,TRUE,FALSE
+1996,Police Department,DE,Delaware,1996-12-21,3,1,2,1,1,White,Not Hispanic,4,Simple Assault,4,Home,Racial,Family,TRUE,FALSE
+1997,Police Department,FL,Florida,1997-05-14,0,1,5,4,1,Hispanic,Hispanic,1,Aggravated Assault,1,Hospital,Religious,Person,TRUE,FALSE
+1998,Police Department,GA,Georgia,1998-08-30,2,0,3,2,1,White,Not Hispanic,2,Kidnapping,2,School,Disability,Family,TRUE,FALSE
+1999,Police Department,HI,Hawaii,1999-01-10,1,0,2,1,1,Native American,Not Hispanic,1,Murder,1,Public Place,Sexual,Individual,TRUE,FALSE
+2000,Police Department,ID,Idaho,2000-09-25,0,2,4,3,1,White,Not Hispanic,2,Theft,2,Residence,Gender Identity,Person,TRUE,FALSE
+2001,Police Department,IL,Illinois,2001-06-12,3,1,3,2,1,Hispanic,Hispanic,4,Robbery,4,Dormitory,Cultural,Family,TRUE,FALSE
+2002,Police Department,IN,Indiana,2002-11-04,0,1,2,1,1,Black,Not Hispanic,1,Vandalism,1,Car,Religious,Person,TRUE,FALSE
+2003,Police Department,IA,Iowa,2003-03-28,2,0,4,3,1,White,Not Hispanic,2,Assault,2,Store,Political,Family,TRUE,FALSE
+2004,Police Department,KS,Kansas,2004-07-17,1,0,2,1,1,Hispanic,Hispanic,1,Burglary,1,Housing Complex,Age,Individual,TRUE,FALSE
+2005,Police Department,KY,Kentucky,2005-02-15,0,2,2,1,1,White,Not Hispanic,2,Simple Assault,2,Restaurant,Racial,Person,TRUE,FALSE
+2006,Police Department,LA,Louisiana,2006-08-29,3,1,3,2,1,Black,Not Hispanic,4,Aggravated Assault,4,Public Park,Disability,Family,TRUE,FALSE
+2007,Police Department,ME,Maine,2007-12-13,0,1,4,3,1,White,Not Hispanic,1,Kidnapping,1,Bar,Sexual,Person,TRUE,FALSE
+2008,Police Department,MD,Maryland,2008-04-22,2,0,2,1,1,Hispanic,Hispanic,2,Murder,2,Apartment Complex,Cultural,Family,TRUE,FALSE
+2009,Police Department,MA,Massachusetts,2009-09-07,1,1,3,2,1,White,Not Hispanic,2,Vandalism,2,Transit Station,Religious,Person,TRUE,FALSE
+2010,Police Department,MI,Michigan,2010-01-19,0,2,3,2,1,Hispanic,Hispanic,2,Assault,2,Store,Gender Identity,Person,TRUE,FALSE
+2011,Police Department,MN,Minnesota,2011-07-24,3,0,2,1,1,White,Not Hispanic,3,Burglary,3,School,Political,Family,TRUE,FALSE
+2012,Police Department,MS,Mississippi,2012-12-02,0,1,4,3,1,Black,Not Hispanic,1,Simple Assault,1,Office Building,Racial,Person,TRUE,FALSE
+2013,Police Department,MO,Missouri,2013-05-16,2,1,3,2,1,White,Not Hispanic,3,Aggravated Assault,3,Public Park,Disability,Family,TRUE,FALSE
+2014,Police Department,MT,Montana,2014-10-19,1,0,2,1,1,Hispanic,Hispanic,1,Kidnapping,1,Residence,Cultural,Individual,TRUE,FALSE

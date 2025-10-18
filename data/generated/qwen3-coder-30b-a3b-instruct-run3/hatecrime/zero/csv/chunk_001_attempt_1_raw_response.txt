@@ -1,0 +1,77 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+1991,Local Law Enforcement,AL,Alabama,1991-03-15,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Residence,Religious Bias,Individual,false,false
+1992,Federal Law Enforcement,AK,Alaska,1992-07-22,0,1,1,0,1,Black,Hispanic,1,Simple Assault,1,Public Place,Racial Bias,Individual,false,false
+1993,State Law Enforcement,AZ,Arizona,1993-11-08,2,0,3,2,1,Asian,Non-Hispanic,2,Burglary,2,Store,Sexual Orientation Bias,Individual,false,false
+1994,Local Law Enforcement,AR,Arkansas,1994-01-30,1,0,2,1,1,White,Non-Hispanic,1,Vandalism,1,Government Building,Religious Bias,Individual,true,true
+1995,Federal Law Enforcement,CA,California,1995-05-12,0,2,2,0,2,Native American,Non-Hispanic,2,Assault,2,School,Disability Bias,Individual,false,false
+1996,State Law Enforcement,CO,Colorado,1996-09-27,1,1,4,2,2,Hispanic,Hispanic,2,Aggravated Assault,2,Restaurant,Sexual Orientation Bias,Individual,true,false
+1997,Local Law Enforcement,CT,Connecticut,1997-02-18,3,0,5,3,2,White,Non-Hispanic,3,Robbery,3,Residence,Racial Bias,Individual,false,true
+1998,Federal Law Enforcement,DE,Delaware,1998-06-04,0,1,1,0,1,Black,Non-Hispanic,1,Simple Assault,1,Public Place,Religious Bias,Individual,true,false
+1999,State Law Enforcement,FL,Florida,1999-10-11,2,0,3,2,1,White,Hispanic,2,Assault,2,Park,Sexual Orientation Bias,Individual,false,false
+2000,Local Law Enforcement,GA,Georgia,2000-04-25,1,0,2,1,1,Hispanic,Hispanic,1,Aggravated Assault,1,Store,Disability Bias,Individual,false,true
+2001,Federal Law Enforcement,HI,Hawaii,2001-08-30,0,1,1,0,1,Native American,Non-Hispanic,1,Assault,1,Residence,Racial Bias,Individual,false,false
+2002,State Law Enforcement,ID,Idaho,2002-12-14,2,0,3,2,1,White,Non-Hispanic,2,Burglary,2,Government Building,Religious Bias,Individual,true,true
+2003,Local Law Enforcement,IL,Illinois,2003-03-07,1,1,4,2,2,Black,Hispanic,2,Robbery,2,Street,Sexual Orientation Bias,Individual,false,false
+2004,Federal Law Enforcement,IN,Indiana,2004-07-19,0,2,2,0,2,White,Non-Hispanic,2,Assault,2,Public Place,Disability Bias,Individual,true,false
+2005,State Law Enforcement,IA,Iowa,2005-11-23,1,0,2,1,1,Asian,Hispanic,1,Aggravated Assault,1,Restaurant,Religious Bias,Individual,false,true
+2006,Local Law Enforcement,KS,Kansas,2006-02-05,0,1,1,0,1,White,Non-Hispanic,1,Simple Assault,1,School,Racial Bias,Individual,false,false
+2007,Federal Law Enforcement,KY,Kentucky,2007-06-17,3,0,4,3,1,Black,Non-Hispanic,3,Assault,3,Store,Sexual Orientation Bias,Individual,true,true
+2008,State Law Enforcement,LA,Louisiana,2008-10-30,1,0,2,1,1,Hispanic,Hispanic,1,Burglary,1,Residence,Disability Bias,Individual,false,false
+2009,Local Law Enforcement,ME,Maine,2009-01-22,0,2,2,0,2,Native American,Non-Hispanic,2,Aggravated Assault,2,Public Place,Racial Bias,Individual,true,false
+2010,Federal Law Enforcement,MD,Maryland,2010-05-16,2,0,3,2,1,White,Hispanic,2,Robbery,2,Park,Religious Bias,Individual,false,true
+2011,State Law Enforcement,MA,Massachusetts,2011-09-04,1,1,4,2,2,Black,Non-Hispanic,2,Assault,2,School,Sexual Orientation Bias,Individual,false,false
+2012,Local Law Enforcement,MI,Michigan,2012-12-12,0,1,1,0,1,White,Non-Hispanic,1,Simple Assault,1,Store,Disability Bias,Individual,true,false
+2013,Federal Law Enforcement,MN,Minnesota,2013-03-28,1,0,2,1,1,Asian,Hispanic,1,Aggravated Assault,1,Residence,Racial Bias,Individual,false,true
+2014,State Law Enforcement,MS,Mississippi,2014-07-15,0,1,1,0,1,White,Non-Hispanic,1,Assault,1,Public Place,Religious Bias,Individual,false,false
+2014,Local Law Enforcement,MO,Missouri,2014-11-09,2,0,3,2,1,Hispanic,Hispanic,2,Burglary,2,Government Building,Sexual Orientation Bias,Individual,true,false
+2013,Federal Law Enforcement,MT,Montana,2013-02-14,1,0,2,1,1,White,Non-Hispanic,1,Robbery,1,Restaurant,Disability Bias,Individual,false,true
+2012,State Law Enforcement,NE,Nebraska,2012-06-28,0,1,1,0,1,Native American,Non-Hispanic,1,Assault,1,School,Racial Bias,Individual,true,false
+2011,Local Law Enforcement,NV,Nevada,2011-10-21,3,0,5,3,2,White,Hispanic,3,Aggravated Assault,3,Street,Religious Bias,Individual,false,false
+2010,Federal Law Enforcement,NH,New Hampshire,2010-01-05,0,2,2,0,2,Black,Non-Hispanic,2,Simple Assault,2,Residence,Sexual Orientation Bias,Individual,true,true
+2009,State Law Enforcement,NJ,New Jersey,2009-05-12,2,0,3,2,1,Hispanic,Hispanic,2,Burglary,2,Public Place,Disability Bias,Individual,false,false
+2008,Local Law Enforcement,NM,New Mexico,2008-09-30,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Store,Racial Bias,Individual,null,true
+2007,Federal Law Enforcement,NY,New York,2007-12-18,0,1,1,0,1,Asian,Hispanic,1,Robbery,1,School,Religious Bias,Individual,false,false
+2006,State Law Enforcement,NC,North Carolina,2006-03-25,2,0,3,2,1,White,Non-Hispanic,2,Aggravated Assault,2,Restaurant,Sexual Orientation Bias,Individual,true,false
+2005,Local Law Enforcement,ND,North Dakota,2005-07-09,0,1,1,0,1,Native American,Non-Hispanic,1,Assault,1,Government Building,Disability Bias,Individual,false,true
+2004,Federal Law Enforcement,OH,Ohio,2004-11-14,1,1,4,2,2,White,Non-Hispanic,2,Burglary,2,Residence,Racial Bias,Individual,true,false
+2003,State Law Enforcement,OK,Oklahoma,2003-02-23,0,1,1,0,1,Black,Hispanic,1,Robbery,1,Public Place,Religious Bias,Individual,false,true
+2002,Local Law Enforcement,OR,Oregon,2002-06-11,3,0,5,3,2,Hispanic,Hispanic,3,Assault,3,School,Sexual Orientation Bias,Individual,false,false
+2001,Federal Law Enforcement,PA,Pennsylvania,2001-10-30,1,0,2,1,1,White,Non-Hispanic,1,Burglary,1,Store,Disability Bias,Individual,true,true
+2000,State Law Enforcement,RI,Rhode Island,2000-01-18,0,1,1,0,1,Native American,Non-Hispanic,1,Assault,1,Residence,Racial Bias,Individual,false,false
+1999,Local Law Enforcement,SC,South Carolina,1999-05-15,2,0,3,2,1,White,Hispanic,2,Aggravated Assault,2,Public Place,Religious Bias,Individual,null,true
+1998,Federal Law Enforcement,SD,South Dakota,1998-09-24,1,1,4,2,2,Black,Non-Hispanic,2,Burglary,2,School,Sexual Orientation Bias,Individual,false,false
+1997,State Law Enforcement,TN,Tennessee,1997-12-07,0,1,1,0,1,Asian,Hispanic,1,Assault,1,Restaurant,Disability Bias,Individual,true,true
+1996,Local Law Enforcement,TX,Texas,1996-03-12,3,0,5,3,2,White,Non-Hispanic,3,Robbery,3,Street,Racial Bias,Individual,false,false
+1995,Federal Law Enforcement,UT,Utah,1995-07-26,0,2,2,0,2,White,Hispanic,2,Aggravated Assault,2,Government Building,Religious Bias,Individual,true,false
+1994,State Law Enforcement,VT,Vermont,1994-10-14,1,0,2,1,1,Native American,Non-Hispanic,1,Burglary,1,Store,Sexual Orientation Bias,Individual,false,true
+1993,Local Law Enforcement,VA,Virginia,1993-01-31,0,1,1,0,1,Hispanic,Hispanic,1,Simple Assault,1,Residence,Disability Bias,Individual,false,false
+1992,Federal Law Enforcement,WA,Washington,1992-05-20,2,0,3,2,1,Asian,Non-Hispanic,2,Assault,2,Public Place,Racial Bias,Individual,true,true
+1991,State Law Enforcement,WV,West Virginia,1991-09-08,1,0,2,1,1,White,Hispanic,1,Burglary,1,School,Religious Bias,Individual,false,false
+1992,Local Law Enforcement,WI,Wisconsin,1992-12-16,0,1,1,0,1,Black,Non-Hispanic,1,Assault,1,Restaurant,Sexual Orientation Bias,Individual,true,false
+1993,Federal Law Enforcement,WY,Wyoming,1993-03-03,2,0,3,2,1,White,Non-Hispanic,2,Aggravated Assault,2,Street,Disability Bias,Individual,false,true
+1994,State Law Enforcement,PR,Puerto Rico,1994-07-12,1,0,2,1,1,Hispanic,Hispanic,1,Burglary,1,School,Racial Bias,Individual,null,false
+1995,Local Law Enforcement,VI,US Virgin Islands,1995-11-27,0,1,1,0,1,White,Non-Hispanic,1,Assault,1,Public Place,Religious Bias,Individual,false,true
+1996,Federal Law Enforcement,MP,Northern Mariana Islands,1996-02-15,3,0,4,3,1,Native American,Non-Hispanic,3,Robbery,3,Government Building,Sexual Orientation Bias,Individual,true,false
+1997,State Law Enforcement,AS,American Samoa,1997-06-09,1,0,2,1,1,Asian,Hispanic,1,Assault,1,Store,Disability Bias,Individual,false,true
+1998,Local Law Enforcement,GU,Guam,1998-10-23,0,1,1,0,1,White,Non-Hispanic,1,Burglary,1,Residence,Racial Bias,Individual,true,false
+1999,Federal Law Enforcement,FM,Federated States of Micronesia,1999-01-07,2,0,3,2,1,Hispanic,Hispanic,2,Aggravated Assault,2,Public Place,Religious Bias,Individual,false,false
+2000,State Law Enforcement,MP,Marshall Islands,2000-05-18,1,0,2,1,1,Black,Non-Hispanic,1,Assault,1,School,Sexual Orientation Bias,Individual,true,true
+2001,Local Law Enforcement,PW,Palau,2001-09-30,0,1,1,0,1,White,Hispanic,1,Burglary,1,Restaurant,Disability Bias,Individual,false,false
+2002,Federal Law Enforcement,KS,Kansas,2002-12-05,1,1,4,2,2,Asian,Non-Hispanic,2,Robbery,2,Government Building,Racial Bias,Individual,true,true
+2003,State Law Enforcement,TX,Texas,2003-03-22,1,0,2,1,1,Hispanic,Hispanic,1,Assault,1,Store,Religious Bias,Individual,false,true
+2004,Local Law Enforcement,FL,Florida,2004-07-12,2,0,3,2,1,White,Non-Hispanic,2,Burglary,2,Residence,Sexual Orientation Bias,Individual,true,false
+2005,Federal Law Enforcement,GA,Georgia,2005-11-28,1,0,2,1,1,Native American,Hispanic,1,Aggravated Assault,1,Public Place,Disability Bias,Individual,false,true
+2006,State Law Enforcement,NY,New York,2006-02-15,1,1,4,2,2,Black,Non-Hispanic,2,Assault,2,School,Racial Bias,Individual,true,false
+2007,Local Law Enforcement,CA,California,2007-06-04,0,1,1,0,1,White,Hispanic,1,Burglary,1,Restaurant,Religious Bias,Individual,false,true
+2008,Federal Law Enforcement,OH,Ohio,2008-10-19,3,0,5,3,2,Hispanic,Hispanic,3,Robbery,3,Store,Sexual Orientation Bias,Individual,true,true
+2009,State Law Enforcement,MN,Minnesota,2009-01-30,2,0,3,2,1,White,Non-Hispanic,2,Assault,2,Residence,Disability Bias,Individual,false,false
+2010,Local Law Enforcement,NJ,New Jersey,2010-05-12,1,0,2,1,1,Black,Non-Hispanic,1,Burglary,1,Government Building,Racial Bias,Individual,true,false
+2011,Federal Law Enforcement,VT,Vermont,2011-09-23,0,1,1,0,1,White,Hispanic,1,Aggravated Assault,1,Public Place,Religious Bias,Individual,false,true
+2012,State Law Enforcement,IL,Illinois,2012-01-08,2,0,3,2,1,Asian,Hispanic,2,Assault,2,School,Sexual Orientation Bias,Individual,true,true
+2013,Local Law Enforcement,MD,Maryland,2013-07-17,1,1,4,2,2,White,Non-Hispanic,2,Burglary,2,Store,Disability Bias,Individual,false,false
+2014,Federal Law Enforcement,VA,Virginia,2014-12-05,0,1,1,0,1,Black,Non-Hispanic,1,Aggravated Assault,1,Residence,Racial Bias,Individual,true,false
+2014,State Law Enforcement,SC,South Carolina,2014-03-14,2,0,3,2,1,Hispanic,Hispanic,2,Robbery,2,Street,Religious Bias,Individual,false,true
+2013,Local Law Enforcement,AR,Arkansas,2013-07-31,1,0,2,1,1,White,Non-Hispanic,1,Assault,1,Restaurant,Sexual Orientation Bias,Individual,true,false
+2012,Federal Law Enforcement,PA,Pennsylvania,2012-11-20,3,0,5,3,2,Native American,Non-Hispanic,3,Burglary,3,Government Building,Disability Bias,Individual,false,true
+2011,State Law Enforcement,NH,New Hampshire,2011-03-16,1,0,2,1,1,Black,Hispanic,1,Aggravated Assault,1,Public Place,Racial Bias,Individual,true,false
+2010,Local Law Enforcement,WV,West Virginia,2010-08-05,0,1,1,0,1,White,Non-Hispanic,1,Assault,1,School,Religious Bias,Individual,false,true
