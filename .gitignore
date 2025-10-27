@@ -10,3 +10,5 @@
 !data/preprocessed/sample_*.parquet
 .env
 .venv/
+/notebooks/data_generation/__pycache__/
+/notebooks/experiments/__pycache__/
