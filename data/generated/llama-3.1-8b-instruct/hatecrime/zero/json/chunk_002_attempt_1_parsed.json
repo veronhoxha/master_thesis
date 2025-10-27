@@ -1,0 +1,24 @@
+[
+  {
+    "data_year":1991,
+    "agency_type_name":"Local police department",
+    "state_abbr":"GA",
+    "state_name":"Georgia",
+    "incident_date":"1991-03-22T00:00:00",
+    "adult_victim_count":2,
+    "juvenile_victim_count":0,
+    "total_offender_count":2,
+    "adult_offender_count":2,
+    "juvenile_offender_count":0,
+    "offender_race":"B",
+    "offender_ethnicity":"B",
+    "victim_count":2,
+    "offense_name":"Bias intimidation",
+    "total_individual_victims":2,
+    "location_name":"Atlanta",
+    "bias_desc":"Sex",
+    "victim_types":"Adult, Adult",
+    "multiple_offense":false,
+    "multiple_bias":false
+  }
+]

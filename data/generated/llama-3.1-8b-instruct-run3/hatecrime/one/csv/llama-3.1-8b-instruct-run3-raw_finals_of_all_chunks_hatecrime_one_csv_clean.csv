@@ -1,0 +1,883 @@
+data_year,agency_type_name,state_abbr,state_name,incident_date,adult_victim_count,juvenile_victim_count,total_offender_count,adult_offender_count,juvenile_offender_count,offender_race,offender_ethnicity,victim_count,offense_name,total_individual_victims,location_name,bias_desc,victim_types,multiple_offense,multiple_bias
+2004,City,NJ,New Jersey,2004-05-13,,,0.0,,,Unknown,Not Specified,1.0,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Black or African American,Other,S,S
+2004,City,NJ,New Jersey,2004-05-17,1.0,0.0,1.0,1.0,0.0,White,Hispanic,2.0,Hate Crime Against People/Society,2.0,Hotel/Motel,Anti-Hispanic or Latino,Other,A,N
+2004,City,FL,Florida,2004-08-29,2.0,0.0,2.0,2.0,0.0,Asian,Asian,4.0,Vandalism,4.0,Business,Anti-Asian,Other,S,S
+2004,City,CA,California,2004-06-12,1.0,0.0,1.0,1.0,0.0,Native American,Native American,1.0,Intimidation,1.0,School/College,Anti-Native American,Other,S,S
+2004,Town,NY,New York,2004-09-15,1.0,0.0,1.0,1.0,0.0,White,White,1.0,Simple Assault,1.0,Residential/Apartment,Anti-White,Other,S,S
+2004,City,IL,Illinois,2004-07-01,1.0,0.0,1.0,1.0,0.0,Unknown,Unknown,1.0,Robbery,1.0,Commercial/Apartment,Anti-Gay,Lesbian/Gay,B,S
+2004,City,GA,Georgia,2004-11-05,2.0,0.0,2.0,2.0,0.0,Black or African American,Black or African American,3.0,Hate Crime Against People/Society,3.0,Hotel/Motel,Anti-Black or African American,Other,A,A
+2004,Town,NC,North Carolina,2004-10-17,2.0,0.0,2.0,2.0,0.0,Hispanic or Latino,Hispanic or Latino,2.0,Destruction/Damage/Vandalism of Property,2.0,School/College,Anti-Hispanic or Latino,Other,S,S
+2004,City,OH,Ohio,2004-08-28,1.0,0.0,1.0,1.0,0.0,White,White,1.0,Intimidation,1.0,Commercial/Apartment,Anti-White,Other,S,S
+2004,City,MA,Massachusetts,2004-12-12,1.0,0.0,1.0,1.0,0.0,Unknown,Unknown,1.0,Simple Assault,1.0,Business,Anti-Transgender,Lesbian/Gay,B,S
+2004,City,PA,Pennsylvania,2004-11-14,2.0,0.0,2.0,2.0,0.0,Asian,Asian,3.0,Hate Crime Against People/Society,3.0,School/College,Anti-Asian,Other,A,S
+2004,City,CO,Colorado,2004-07-25,2.0,0.0,2.0,2.0,0.0,Native American,Native American,2.0,Intimidation,2.0,Residential/Apartment,Anti-Native American,Other,S,S
+2004,City,WA,Washington,2004-08-02,1.0,0.0,1.0,1.0,0.0,Black or African American,Black or African American,1.0,Simple Assault,1.0,Business,Anti-Black or African American,Other,S,S
+2004,City,IN,Indiana,2004-09-20,2.0,0.0,2.0,2.0,0.0,White,White,2.0,Hate Crime Against People/Society,2.0,Business,Anti-White,Other,A,S
+2004,Town,MI,Michigan,2004-11-18,1.0,0.0,1.0,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Simple Assault,1.0,Hotel/Motel,Anti-Hispanic or Latino,Other,S,S
+2004,Town,MO,Missouri,2004-01-21,1.0,0.0,1.0,1.0,0.0,Unknown,Unknown,1.0,Robbery,1.0,School/College,Anti-Gay,Lesbian/Gay,B,S
+2004,City,VT,Vermont,2004-03-25,2.0,0.0,2.0,2.0,0.0,White,White,2.0,Hate Crime Against Property,2.0,Business,Anti-White,Other,S,S
+2004,City,SC,South Carolina,2004-02-02,1.0,0.0,1.0,1.0,0.0,Asian,Asian,1.0,Intimidation,1.0,Hotel/Motel,Anti-Asian,Other,A,S
+2004,City,IA,Iowa,2004-04-01,1.0,0.0,1.0,1.0,0.0,Native American,Native American,1.0,Simple Assault,1.0,Commercial/Apartment,Anti-Native American,Other,S,S
+2004,Town,NM,New Mexico,2004-05-15,2.0,0.0,2.0,2.0,0.0,Hispanic or Latino,Hispanic or Latino,3.0,Vandalism,3.0,Residential/Apartment,Anti-Hispanic or Latino,Other,S,S
+2004,City,AR,Arkansas,2004-06-20,2.0,0.0,2.0,2.0,0.0,Black or African American,Black or African American,2.0,Hate Crime Against People/Society,2.0,Hotel/Motel,Anti-Black or African American,Other,S,S
+2004,City,DE,Delaware,2004-07-12,1.0,0.0,1.0,1.0,0.0,White,White,1.0,Destruction/Damage/Vandalism of Property,1.0,School/College,Anti-White,Other,S,S
+2004,City,RI,Rhode Island,2004-08-16,2.0,0.0,2.0,2.0,0.0,Asian,Asian,2.0,Robbery,2.0,Hotel/Motel,Anti-Asian,Other,S,S
+2004,City,WI,Wisconsin,2004-09-10,1.0,0.0,1.0,1.0,0.0,Native American,Native American,1.0,Simple Assault,1.0,Commercial/Apartment,Anti-Native American,Other,S,S
+2004,City,TX,Texas,2004-10-22,2.0,0.0,2.0,2.0,0.0,Hispanic or Latino,Hispanic or Latino,2.0,Intimidation,2.0,School/College,Anti-Hispanic or Latino,Other,S,S
+2004,City,OR,Oregon,2004-11-25,1.0,0.0,1.0,1.0,0.0,Black or African American,Black or African American,1.0,Simple Assault,1.0,Residential/Apartment,Anti-Black or African American,Other,S,S
+2004,City,KY,Kentucky,2004-12-15,2.0,0.0,2.0,2.0,0.0,White,White,2.0,Hate Crime Against Property,2.0,Business,Anti-White,Other,S,S
+2004,Town,OK,Oklaoma,2004-01-28,1.0,0.0,1.0,1.0,0.0,Asian,Asian,1.0,Vandalism,1.0,Hotel/Motel,Anti-Asian,Other,S,S
+2004,City,GA,Georgia,2004-02-14,2.0,0.0,2.0,2.0,0.0,Native American,Native American,2.0,Intimidation,2.0,School/College,Anti-Native American,Other,S,S
+2004,City,AL,Alabama,2004-03-19,1.0,0.0,1.0,1.0,0.0,Unknown,Unknown,1.0,Simple Assault,1.0,Commercial/Apartment,Anti-Gay,Lesbian/Gay,B,S
+2004,Town,MD,Maryland,2004-04-22,2.0,0.0,2.0,2.0,0.0,Hispanic or Latino,Hispanic or Latino,3.0,Hate Crime Against People/Society,3.0,Business,Anti-Hispanic or Latino,Other,S,S
+2004,City,ID,Idaho,2004-05-29,2.0,0.0,2.0,2.0,0.0,White,White,2.0,Robbery,2.0,Hotel/Motel,Anti-White,Other,S,S
+2004,City,KS,Kansas,2004-06-26,1.0,0.0,1.0,1.0,0.0,Native American,Native American,1.0,Intimidation,1.0,School/College,Anti-Native American,Other,S,S
+2004,Town,ME,Maine,2004-07-31,2.0,0.0,2.0,2.0,0.0,Black or African American,Black or African American,2.0,Hate Crime Against Property,2.0,Residential/Apartment,Anti-Black or African American,Other,S,S
+2004,City,CT,Connecticut,2004-08-24,1.0,0.0,1.0,1.0,0.0,Asian,Asian,1.0,Vandalism,1.0,Commercial/Apartment,Anti-Asian,Other,S,S
+2004,City,NE,Nebaska,2004-09-25,2.0,0.0,2.0,2.0,0.0,White,White,2.0,Destruction/Damage/Vandalism of Property,2.0,Hotel/Motel,Anti-White,Other,S,S
+2004,Town,MS,Mississippi,2004-10-29,1.0,0.0,1.0,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Simple Assault,1.0,School/College,Anti-Hispanic or Latino,Other,S,S
+2004,City,WV,West Virginia,2004-11-25,2.0,0.0,2.0,2.0,0.0,Native American,Native American,2.0,Intimidation,2.0,Commercial/Apartment,Anti-Native American,Other,S,S
+2004,City,MT,Montana,2004-12-30,1.0,0.0,1.0,1.0,0.0,Black or African American,Black or African American,1.0,Simple Assault,1.0,Hotel/Motel,Anti-Black or African American,Other,A,S
+2005,City,NJ,New Jersey,2005-01-05,2.0,0.0,2.0,2.0,0.0,White,White,2.0,Hate Crime Against Property,2.0,Business,Anti-White,Other,A,S
+2005,City,FL,Florida,2005-02-10,1.0,0.0,1.0,1.0,0.0,Asian,Asian,1.0,Vandalism,1.0,Commercial/Apartment,Anti-Asian,Other,S,S
+2005,Town,NY,New York,2005-03-17,2.0,0.0,2.0,2.0,0.0,Native American,Native American,2.0,Intimidation,2.0,Residential/Apartment,Anti-Native American,Other,S,S
+2005,City,IL,Illinois,2005-04-22,1.0,0.0,1.0,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Simple Assault,1.0,School/College,Anti-Hispanic or Latino,Other,S,S
+2005,City,GA,Georgia,2005-05-27,2.0,0.0,2.0,2.0,0.0,Black or African American,Black or African American,3.0,Hate Crime Against People/Society,3.0,School/College,Anti-Black or African American,Other,A,A
+2005,Town,NC,North Carolina,2005-06-30,1.0,0.0,1.0,1.0,0.0,White,White,1.0,Destruction/Damage/Vandalism of Property,1.0,Hotel/Motel,Anti-White,Other,S,S
+2005,City,OH,Ohio,2005-07-21,2.0,0.0,2.0,2.0,0.0,Unknown,Unknown,2.0,Hate Crime Against People/Society,2.0,Business,Anti-Transgender,Lesbian/Gay,A,S
+2005,City,MA,Massachusetts,2005-08-26,1.0,0.0,1.0,1.0,0.0,Asian,Asian,1.0,Vandalism,1.0,Residential/Apartment,Anti-Asian,Other,S,S
+"2008,Bureau of Indian Affairs,AK,Alaska,2008-06-01,0,0,0,0,0,White,White,1,Anti-Jewish vandalism,1.0,Residence,,Anti-Semitic,Other,Y
+2008,Bureau of Indian Affairs,MA,Massachusetts,2008-07-15,0,0,0,0,0,White,White,1,Simple Assault,1.0,Residence,,Ethnicity-White,Other,N
+2008,State,VT,Vermont,2008-02-02,0,0,0,0,0,White,White,1,Intimidation,1.0,Street,,Anti-Hispanic,Other,N
+2008,County,MN,Minnesota,2008-03-23,0,0,0,0,0,White,White,1,Simple Assault,1.0,Street,,Anti-White,Other,Y
+2008,State,ME,Maine,2008-09-01,0,0,0,0,0,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Residence,,Anti-LGBTQ+,Other,N
+2009,State,ND,North Dakota,2009-04-08,0,0,0,0,0,Unknown,Unknown,1,Vandalism,1.0,Residence,,Anti-White,Other,Y
+2009,County,CO,Colorado,2009-07-19,0,0,0,0,0,White,White,1,Intimidation,1.0,Residence,,Anti-Hispanic,Other,Y
+2009,State,UT,Utah,2009-06-27,0,0,0,0,0,White,White,1,Simple Assault,1.0,Residence,,Ethnicity-White,Other,N
+2009,State,RI,Rhode Island,2009-08-15,0,0,0,0,0,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Street,,Anti-LGBTQ+,Other,N
+2009,State,SD,South Dakota,2009-11-20,0,0,0,0,0,White,White,1,Vandalism,1.0,Residence,,Anti-Black or African American,Other,Y
+2010,State,OH,Ohio,2010-09-01,0,0,0,0,0,White,White,1,Simple Assault,1.0,Residence,,Anti-Hispanic,Other,Y
+2010,County,IN,Indiana,2010-07-01,0,0,0,0,0,Unknown,Unknown,1,Intimidation,1.0,Residence,,Anti-LGBTQ+,Other,Y
+2010,State,NM,New Mexico,2010-03-20,0,0,0,0,0,White,White,1,Vandalism,1.0,Residence,,Anti-White,Other,N
+2010,County,MT,Montana,2010-10-29,0,0,0,0,0,White,White,1,Simple Assault,1.0,Residence,,Anti-Black or African American,Other,N
+2010,Bureau of Indian Affairs,OK,Oklahoma,2010-02-01,0,0,0,0,0,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Residence,,Anti-LGBTQ+,Other,N
+2010,State,VT,Vermont,2010-12-01,0,0,0,0,0,White,White,1,Vandalism,1.0,Residence,,Anti-Asian,Other,Y
+2011,State,IA,Iowa,2011-09-01,0,0,0,0,0,White,White,1,Simple Assault,1.0,Residence,,Anti-White,Other,N
+2011,County,AL,Alabama,2011-11-01,0,0,0,0,0,White,White,1,Intimidation,1.0,Residence,,Anti-LGBTQ+,Other,Y
+2011,State,MI,Michigan,2011-02-01,0,0,0,0,0,White,White,1,Vandalism,1.0,Residence,,Anti-Black or African American,Other,N
+2011,State,SC,South Carolina,2011-08-01,0,0,0,0,0,White,White,1,Simple Assault,1.0,Residence,,Anti-Hispanic,Other,Y
+2011,County,OR,Oregon,2011-12-01,0,0,0,0,0,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Street,,Anti-LGBTQ+,Other,Y
+2012,State,GA,Georgia,2012-09-01,0,0,0,0,0,White,White,1,Vandalism,1.0,Residence,,Anti-Asian,Other,Y
+2012,State,KS,Kansas,2012-11-01,0,0,0,0,0,White,White,1,Intimidation,1.0,Residence,,Anti-White,Other,N
+2012,County,NE,Nebaska,2012-06-01,0,0,0,0,0,White,White,1,Simple Assault,1.0,Street,,Anti-Black or African American,Other,Y
+2012,State,WI,Wisconsin,2012-10-01,0,0,0,0,0,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Residence,,Anti-LGBTQ+,Other,N
+2012,State,NC,North Carolina,2012-01-01,0,0,0,0,0,White,White,1,Vandalism,1.0,Residence,,Anti-Asian,Other,N
+2012,State,LA,Louisiana,2012-05-01,0,0,0,0,0,White,White,1,Simple Assault,1.0,Residence,,Anti-Hispanic,Other,Y
+2012,County,DE,Delaware,2012-03-01,0,0,0,0,0,White,White,1,Intimidation,1.0,Street,,Anti-LGBTQ+,Other,Y
+2013,State,HI,Hawaii,2013-08-01,0,0,0,0,0,White,White,1,Vandalism,1.0,Residence,,Anti-White,Other,N
+2013,State,CT,Connecticut,2013-10-01,0,0,0,0,0,White,White,1,Simple Assault,1.0,Residence,,Anti-Asian,Other,Y
+2013,County,FL,Florida,2013-09-01,0,0,0,0,0,White,White,1,Intimidation,1.0,Street,,Anti-Black or African American,Other,N
+2013,State,ME,Maine,2013-12-01,0,0,0,0,0,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Residence,,Anti-LGBTQ+,Other,N
+2013,County,MS,Mississippi,2013-06-01,0,0,0,0,0,White,White,1,Vandalism,1.0,Residence,,Anti-Hispanic,Other,Y
+2014,State,VT,Vermont,2014-09-01,0,0,0,0,0,White,White,1,Simple Assault,1.0,Residence,,Anti-White,Other,N
+2014,State,TX,Texas,2014-11-01,0,0,0,0,0,White,White,1,Intimidation,1.0,Street,,Anti-LGBTQ+,Other,Y
+2014,County,WV,West Virginia,2014-07-01,0,0,0,0,0,White,White,1,Vandalism,1.0,Residence,,Anti-Asian,Other,Y
+2014,State,IL,Illinois,2014-03-01,0,0,0,0,0,White,White,1,Simple Assault,1.0,Residence,,Anti-Black or African American,Other,Y
+2014,State,MO,Missouri,2014-02-01,0,0,0,0,0,White,White,1,Intimidation,1.0,Street,,Anti-Hispanic,Other,Y
+2014,State,ND,North Dakota,2014-01-01,0,0,0,0,0,White,White,1,Simple Assault,1.0,Residence,,Anti-Asian,Other,N
+2014,State,IN,Indiana,2014-06-01,0,0,0,0,0,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Residence,,Anti-White,Other,N",,,,,,,,,,,,,,,,,,,
+2004,City,NJ,New Jersey,2004-05-13,,,0.0,,,Unknown,Not Specified,1.0,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Black or African American,Other,S,S
+2001,Town,CA,California,2001-03-24,1.0,0.0,2.0,1.0,1.0,Asian or Alaska Native,Asian or Alaska Native,2.0,Simple Assault,1.0,Residential Area,Anti-Asian,Adult,V,
+2005,City,FL,Florida,2005-06-17,2.0,0.0,1.0,2.0,0.0,White,White,2.0,Intimidation,1.0,Public Transportation,Anti-White,Other,V,
+2009,Town,GA,Georgia,2009-11-15,0.0,1.0,1.0,0.0,1.0,African American or Black,Hispanic or Latino,1.0,Vandalism,0.5,Armed Forces Base,Anti-White,Adult,S,
+2003,County,IL,Illinois,2003-02-18,0.0,0.0,2.0,0.0,2.0,Other or Multiple,Not Specified,2.0,Hate Crime Against Individual,0.0,Public Park,Anti-Gay,Other,V,
+2007,City,MA,Massachusetts,2007-09-02,0.0,0.0,1.0,0.0,1.0,Hispanic or Latino,Hispanic or Latino,1.0,Simple Assault,0.5,Commercial Area,Anti-Hispanic,Other,V,
+1999,County,MI,Michigan,1999-07-26,1.0,0.0,1.0,1.0,0.0,Native American or American Indian,Not Specified,1.0,Intimidation,0.0,Industrial Area,Anti-White,Adult,S,
+2006,Town,NJ,New Jersey,2006-04-29,0.0,0.0,2.0,0.0,2.0,White,White,2.0,Hate Crime Against Individual,1.0,Residential Area,Anti-White,Other,V,
+2013,County,NY,New York,2013-01-25,0.0,0.0,1.0,0.0,1.0,Unknown,Not Specified,1.0,Simple Assault,0.0,Public Transportation,Anti-Gay,Other,V,
+2008,City,OH,Ohio,2008-06-08,1.0,0.0,1.0,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Hate Crime Against Individual,0.0,Commercial Area,Anti-Hispanic,Adult,S,
+1994,County,OK,Oklahoma,1994-03-05,0.0,0.0,1.0,0.0,1.0,White,Not Specified,1.0,Vandalism,0.5,Residential Area,Anti-Gay,Other,V,
+2005,County,PA,Pennsylvania,2005-05-07,0.0,0.0,1.0,0.0,1.0,Hispanic or Latino,Hispanic or Latino,1.0,Destruction/Damage/Vandalism of Property,0.0,Industrial Area,Anti-Hispanic,Other,V,
+2012,Town,RI,Rhode Island,2012-08-20,0.0,0.0,2.0,0.0,2.0,African American or Black,White,2.0,Hate Crime Against Individual,1.0,Commercial Area,Anti-Black or African American,Other,V,
+1997,County,TX,Texas,1997-09-27,0.0,0.0,1.0,0.0,1.0,Unknown,Not Specified,1.0,Intimidation,0.0,Public Park,Anti-Gay,Adult,S,
+2004,County,UT,Utah,2004-02-11,0.0,1.0,1.0,0.0,1.0,White,Not Specified,1.0,Simple Assault,0.5,Armed Forces Base,Anti-Gay,Other,V,
+2003,County,VA,Virginia,2003-03-29,0.0,0.0,1.0,0.0,1.0,Asian or Alaska Native,Not Specified,1.0,Hate Crime Against Individual,0.0,Public Transportation,Anti-Asian,Other,V,
+2009,County,WI,Wisconsin,2009-04-05,0.0,0.0,1.0,0.0,1.0,Hispanic or Latino,Not Specified,1.0,Vandalism,0.0,Commercial Area,Anti-Hispanic,Other,V,
+2002,County,WV,West Virginia,2002-12-31,1.0,0.0,1.0,1.0,0.0,White,Not Specified,1.0,Intimidation,0.0,Public Park,Anti-White,Adult,V,
+2008,Town,AZ,Arizona,2008-09-17,1.0,0.0,1.0,1.0,0.0,Native American or American Indian,Not Specified,1.0,Hate Crime Against Individual,0.0,Industrial Area,Anti-White,Adult,S,
+2006,City,CO,Colorado,2006-10-08,0.0,0.0,2.0,0.0,2.0,African American or Black,White,2.0,Simple Assault,1.0,Armed Forces Base,Anti-Black or African American,Other,V,
+1998,County,CT,Connecticut,1998-06-22,0.0,0.0,1.0,0.0,1.0,White,Not Specified,1.0,Vandalism,0.5,Commercial Area,Anti-Gay,Other,V,
+2013,City,DE,Delaware,2013-07-13,0.0,0.0,1.0,0.0,1.0,Hispanic or Latino,Hispanic or Latino,1.0,Destruction/Damage/Vandalism of Property,0.0,Residential Area,Anti-Hispanic,Other,V,
+2003,City,HI,Hawaii,2003-11-11,0.0,0.0,1.0,0.0,1.0,Asian or Alaska Native,Asian or Alaska Native,1.0,Hate Crime Against Individual,0.0,Public Transportation,Anti-Asian,Adult,S,
+2011,County,ID,Idaho,2011-08-03,0.0,0.0,2.0,0.0,2.0,White,White,2.0,Vandalism,1.0,Industrial Area,Anti-White,Other,V,
+2006,County,IL,Illinois,2006-05-20,0.0,0.0,1.0,0.0,1.0,Hispanic or Latino,Not Specified,1.0,Hate Crime Against Individual,0.0,Commercial Area,Anti-Hispanic,Other,V,
+2009,City,IN,Indiana,2009-02-22,0.0,0.0,1.0,0.0,1.0,Asian or Alaska Native,Asian or Alaska Native,1.0,Simple Assault,0.5,Public Park,Anti-Asian,Other,V,
+1996,County,KS,Kansas,1996-07-26,0.0,0.0,1.0,0.0,1.0,White,Not Specified,1.0,Destruction/Damage/Vandalism of Property,0.0,Armed Forces Base,Anti-Gay,Other,V,
+2001,City,LA,Louisiana,2001-06-30,0.0,0.0,2.0,0.0,2.0,African American or Black,White,2.0,Intimidation,1.0,Residential Area,Anti-Black or African American,Other,V,
+2008,County,ME,Maine,2008-08-21,0.0,0.0,1.0,0.0,1.0,Other or Multiple,Not Specified,1.0,Vandalism,0.5,Industrial Area,Anti-Gay,Other,V,
+2001,County,MD,Maryland,2001-06-07,0.0,0.0,2.0,0.0,2.0,Asian or Alaska Native,White,2.0,Hate Crime Against Individual,1.0,Public Transportation,Anti-Asian,Other,V,
+1997,County,MI,Michigan,1997-12-15,0.0,0.0,1.0,0.0,1.0,White,Not Specified,1.0,Vandalism,0.5,Commercial Area,Anti-Gay,Other,V,
+2006,City,MO,Missouri,2006-03-15,0.0,0.0,2.0,0.0,2.0,Hispanic or Latino,White,2.0,Simple Assault,1.0,Armed Forces Base,Anti-Hispanic,Other,V,
+1999,County,MT,Montana,1999-06-10,0.0,0.0,1.0,0.0,1.0,Native American or American Indian,Not Specified,1.0,Hate Crime Against Individual,0.0,Residential Area,Anti-White,Other,V,
+2005,City,NC,North Carolina,2005-11-01,0.0,0.0,1.0,0.0,1.0,Asian or Alaska Native,Asian or Alaska Native,1.0,Intimidation,0.0,Commercial Area,Anti-Asian,Other,V,
+2001,City,ND,North Dakota,2001-02-28,0.0,0.0,1.0,0.0,1.0,White,Not Specified,1.0,Hate Crime Against Individual,0.0,Industrial Area,Anti-White,Other,V,
+1999,Town,NH,New Hampshire,1999-08-31,0.0,0.0,1.0,0.0,1.0,Unknown,Not Specified,1.0,Vandalism,0.5,Public Transportation,Anti-Gay,Other,V,
+2003,County,NM,New Mexico,2003-01-17,0.0,0.0,2.0,0.0,2.0,Native American or American Indian,White,2.0,Simple Assault,1.0,Residential Area,Anti-Black or African American,Other,V,
+2006,County,NV,Nevada,2006-06-30,1.0,0.0,1.0,1.0,0.0,Asian or Alaska Native,Not Specified,1.0,Intimidation,0.0,Armed Forces Base,Anti-Asian,Adult,S,
+1997,County,NY,New York,1997-12-22,0.0,0.0,2.0,0.0,2.0,Hispanic or Latino,White,2.0,Destruction/Damage/Vandalism of Property,1.0,Public Transportation,Anti-Hispanic,Other,V,
+2004,City,OH,Ohio,2004-04-15,0.0,0.0,1.0,0.0,1.0,White,Not Specified,1.0,Hate Crime Against Individual,0.0,Commercial Area,Anti-Gay,Other,V,
+2001,County,OK,Oklahoma,2001-07-12,0.0,0.0,1.0,0.0,1.0,Other or Multiple,Not Specified,1.0,Vandalism,0.5,Industrial Area,Anti-Gay,Other,V,
+2003,County,OR,Oregon,2003-06-11,0.0,0.0,1.0,0.0,1.0,Asian or Alaska Native,Asian or Alaska Native,1.0,Hate Crime Against Individual,0.0,Public Transportation,Anti-Asian,Adult,V,
+2006,City,PA,Pennsylvania,2006-07-26,0.0,0.0,2.0,0.0,2.0,African American or Black,Other,2.0,Vandalism,1.0,Residential Area,Anti-Black or African American,Other,V,
+2001,County,SC,South Carolina,2001-08-23,0.0,0.0,1.0,0.0,1.0,White,Not Specified,1.0,Intimidation,0.5,Public Transportation,Anti-Gay,Other,V,
+2000,County,SD,South Dakota,2000-06-19,0.0,0.0,1.0,0.0,1.0,Native American or American Indian,Not Specified,1.0,Vandalism,0.5,Commercial Area,Anti-White,Other,V,
+1994,County,TN,Tennessee,1994-08-09,0.0,0.0,1.0,0.0,1.0,White,Not Specified,1.0,Hate Crime Against Individual,0.0,Industrial Area,Anti-Gay,Other,V,
+1998,County,UT,Utah,1998-04-29,0.0,0.0,1.0,0.0,1.0,White,White,1.0,Vandalism,0.5,Public Transportation,Anti-Gay,Other,V,
+2001,City,VA,Virginia,2001-03-03,0.0,0.0,2.0,0.0,2.0,Hispanic or Latino,White,2.0,Hate Crime Against Individual,1.0,Armed Forces Base,Anti-Hispanic,Other,V,
+2007,City,VT,Vermont,2007-11-11,0.0,0.0,1.0,0.0,1.0,Other or Multiple,Not Specified,1.0,Simple Assault,0.0,Public Park,Anti-Gay,Other,V,
+2004,County,WI,Wisconsin,2004-07-29,0.0,0.0,1.0,0.0,1.0,Native American or American Indian,Not Specified,1.0,Intimidation,0.0,Commercial Area,Anti-White,Other,V,
+1996,County,WV,West Virginia,1996-07-01,0.0,0.0,1.0,0.0,1.0,White,Not Specified,1.0,Vandalism,0.0,Industrial Area,Anti-Gay,Other,V,
+"2004,City,NY,New York,2004-03-20,0,0,1,1,0,White,White,1,Simple Assault,1.0,Residence/Apartment,Anti-White,Adult,Unknown,,S
+2003,Town,NJ,New Jersey,2003-09-10,0,0,1,0,1,Asian,Asian,1,Anti-Threat,1.0,Park or Playground,Anti-Hispanic or Latino,Adult,Other,S
+2009,County,CA,California,2009-05-25,0,0,1,0,1,Unknown,Unknown,1,Intimidation,1.0,Highway/Street,Anti-Jewish,Adult,Unknown,S
+1992,Town,FL,Florida,1992-02-01,0,1,1,1,0,Unknown,Unknown,2,Simple Assault,2.0,Residence/Apartment,Anti-Asian,Adult & Juvenile,Unknown,S
+2012,State,IL,Illinois,2012-07-31,0,0,1,0,1,Black or African American,Black or African American,1,Aggravated Assault,1.0,College/University,Anti-White,Adult,Other,S
+2006,City,CA,California,2006-10-17,0,0,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,Business,Anti-Hispanic or Latino,Adult,Unknown,S
+2005,County,NY,New York,2005-08-25,0,1,1,1,0,White,White,2,Simple Assault,2.0,Residence/Apartment,Anti-Asian,Adult & Juvenile,Unknown,S
+1997,Town,NC,North Carolina,1997-11-15,0,0,1,0,1,White,White,1,Intimidation,1.0,Highway/Street,Anti-White,Adult,Unknown,S
+2013,State,GA,Georgia,2013-03-22,0,0,1,0,1,Black or African American,Black or African American,1,Simple Assault,1.0,College/University,Anti-Asian,Adult,Other,S
+2008,City,IL,Illinois,2008-12-10,0,0,1,1,0,Unknown,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,School/College,Anti-Jewish,Adult,Unknown,S
+1994,County,MI,Michigan,1994-06-20,0,0,1,0,1,White,White,1,Simple Assault,1.0,Highway/Street,Anti-Asian,Adult,Unknown,S
+2001,Town,MO,Missouri,2001-02-02,0,0,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Anti-Threat,1.0,Park or Playground,Anti-White,Adult,Other,S
+2015,City,HI,Hawaii,2015-09-02,0,0,1,0,1,Black or African American,Black or African American,1,Simple Assault,1.0,Residence/Apartment,Anti-White,Adult,Unknown,S
+1993,County,MA,Massachusetts,1993-07-25,0,0,1,1,0,Unknown,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,Highway/Street,Anti-Asian,Adult,Unknown,S
+2010,State,MT,Montana,2010-11-15,0,0,1,0,1,White,White,1,Intimidation,1.0,Business,Anti-Jewish,Adult,Other,S
+2002,City,NE,Nebraska,2002-04-21,0,0,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,School/College,Anti-Asian,Adult,Unknown,S
+1995,Town,NV,Nevada,1995-08-25,0,0,1,0,1,Black or African American,Black or African American,1,Intimidation,1.0,Highway/Street,Anti-Hispanic or Latino,Adult,Unknown,S
+2014,City,NM,New Mexico,2014-03-12,0,0,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Asian,Adult,Unknown,S
+2007,County,TX,Texas,2007-11-22,0,0,1,0,1,Unknown,Unknown,1,Anti-Threat,1.0,Business,Anti-White,Adult,Other,S
+1998,County,VA,Virginia,1998-02-10,0,0,1,0,1,White,White,1,Intimidation,1.0,Highway/Street,Anti-Jewish,Adult,Unknown,S
+2003,Town,WI,Wisconsin,2003-06-15,0,0,1,0,1,Black or African American,Black or African American,1,Simple Assault,1.0,School/College,Anti-Hispanic or Latino,Adult,Unknown,S
+2009,City,WV,West Virginia,2009-07-31,0,0,1,0,1,Unknown,Unknown,1,Anti-Threat,1.0,Highway/Street,Anti-Asian,Adult,Unknown,S
+1996,County,VT,Vermont,1996-01-17,0,0,1,0,1,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Residence/Apartment,Anti-Jewish,Adult,Other,S
+2011,City,WA,Washington,2011-09-15,0,0,1,0,1,Black or African American,Black or African American,1,Simple Assault,1.0,School/College,Anti-Asian,Adult,Unknown,S
+2004,County,WI,Wisconsin,2004-04-25,0,0,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,College/University,Anti-White,Adult,Unknown,S
+1992,Town,IA,Iowa,1992-03-10,0,0,1,0,1,Unknown,Unknown,1,Anti-Threat,1.0,Residence/Apartment,Anti-Hispanic or Latino,Adult,Unknown,S
+2013,State,SC,South Carolina,2013-01-22,0,0,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Intimidation,1.0,Highway/Street,Anti-Asian,Adult,Other,S
+2008,County,ME,Maine,2008-03-20,0,0,1,0,1,White,White,1,Anti-Threat,1.0,Residence/Apartment,Anti-Jewish,Adult,Unknown,S
+1999,County,DE,Delaware,1999-09-10,0,0,1,0,1,Black or African American,Black or African American,1,Simple Assault,1.0,Residence/Apartment,Anti-Asian,Adult,Unknown,S
+2000,Town,OH,Ohio,2000-08-25,0,0,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Destruction/Damage/Vandalism of Property,1.0,School/College,Anti-White,Adult,Unknown,S
+2016,City,UT,Utah,2016-04-12,0,0,1,0,1,Black or African American,Black or African American,1,Simple Assault,1.0,Business,Anti-Asian,Adult,Other,S
+2005,County,AL,Alabama,2005-01-15,0,0,1,0,1,Unknown,Unknown,1,Anti-Threat,1.0,College/University,Anti-Hispanic or Latino,Adult,Unknown,S
+1991,Town,AR,Arkansas,1991-06-20,0,0,1,0,1,White,White,1,Intimidation,1.0,Highway/Street,Anti-Jewish,Adult,Unknown,S
+2012,State,OR,Oregon,2012-03-18,0,0,1,0,1,Asian,Asian,1,Simple Assault,1.0,School/College,Anti-Asian,Adult,Unknown,S
+2007,County,OK,Oklahoma,2007-09-17,0,0,1,0,1,Black or African American,Black or African American,1,Simple Assault,1.0,Residence/Apartment,Anti-Hispanic or Latino,Adult,Other,S
+1993,County,CO,Colorado,1993-04-25,0,0,1,0,1,Unknown,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,Highway/Street,Anti-Asian,Adult,Unknown,S
+2017,City,CT,Connecticut,2017-07-25,0,0,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,Residence/Apartment,Anti-Asian,Adult,Unknown,S
+2002,City,KS,Kansas,2002-08-10,0,0,1,0,1,Unknown,Unknown,1,Intimidation,1.0,College/University,Anti-Asian,Adult,Other,S
+1996,Town,LA,Louisiana,1996-01-10,0,0,1,0,1,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Business,Anti-Jewish,Adult,Unknown,S
+2010,County,NC,North Carolina,2010-09-10,0,0,1,0,1,Black or African American,Black or African American,1,Simple Assault,1.0,Highway/Street,Anti-Asian,Adult,Unknown,S
+2004,County,ND,North Dakota,2004-03-12,0,0,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Anti-Threat,1.0,Residence/Apartment,Anti-Asian,Adult,Other,S
+1998,County,KS,Kansas,1998-05-25,0,0,1,0,1,White,White,1,Destruction/Damage/Vandalism of Property,1.0,College/University,Anti-Hispanic or Latino,Adult,Unknown,S
+2006,County,GA,Georgia,2006-11-17,0,0,1,0,1,Black or African American,Black or African American,1,Anti-Threat,1.0,Residence/Apartment,Anti-Asian,Adult,Unknown,S
+1999,County,NE,Nebraska,1999-07-31,0,0,1,0,1,White,White,1,Intimidation,1.0,Highway/Street,Anti-Jewish,Adult,Unknown,S",,,,,,,,,,,,,,,,,,,
+"2004,City,NJ,New Jersey,2004-01-25,0,0,1,1,0,White,Hispanic or Latino,1,Hate Crime Against People with Disabilities,1.0,Residence,Anti-White,Disability,0.0,Landmark,0.0
+2004,City,CA,California,2004-03-17,1,0,1,1,0,Asian,Asian,2,Hate Crime Against People with Disabilities,1.0,Business,Anti-Asian,Disability,0.0,Landmark,0.0
+2004,Tribal,AK,Alaska,2004-05-30,0,0,1,1,0,Native American or Alaska Native,Native American or Alaska Native,1,Hate Crime Against People with Disabilities,1.0,Residence,Anti-Native American or Alaska Native,Disability,0.0,Landmark,0.0
+2004,City,GA,Georgia,2004-08-01,1,0,1,1,0,White,Not Specified,1,Hate Crime Against People with Disabilities,1.0,School/College,Anti-White,Disability,0.0,Landmark,0.0
+2004,City,IL,Illinois,2004-09-15,0,0,1,1,0,Black or African American,Black or African American,1,Hate Crime Against People with Disabilities,1.0,Business,Anti-Black or African American,Disability,0.0,Landmark,0.0
+2004,City,FL,Florida,2004-10-10,0,0,1,1,0,White,Hispanic or Latino,1,Hate Crime Against People with Disabilities,1.0,Residence,Anti-White,Disability,0.0,Landmark,0.0
+2004,City,MI,Michigan,2004-10-22,1,0,1,1,0,Native American or Alaska Native,Native American or Alaska Native,1,Hate Crime Against People with Disabilities,1.0,Landmark,Anti-Native American or Alaska Native,Disability,0.0,Landmark,0.0
+2004,City,AR,Arkansas,2004-11-05,0,0,1,1,0,Native American or Alaska Native,Native American or Alaska Native,1,Hate Crime Against People with Disabilities,1.0,Business,Anti-Native American or Alaska Native,Disability,0.0,Landmark,0.0
+2004,City,NY,New York,2004-11-20,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Hate Crime Against People with Disabilities,1.0,School/College,Anti-Hispanic or Latino,Disability,0.0,Landmark,0.0
+2004,City,NC,North Carolina,2004-12-03,0,0,1,1,0,White,Not Specified,1,Hate Crime Against People with Disabilities,1.0,Residence,Anti-White,Disability,0.0,Landmark,0.0
+2005,Tribal,OK,Oklahoma,2005-01-05,1,0,1,1,0,White,Native American or Alaska Native,1,Hate Crime Against People with Disabilities,1.0,Business,Anti-White,Anti-Native American or Alaska Native,Disability,0.0,Landmark,0.0
+2005,City,CO,Colorado,2005-01-08,0,0,1,1,0,White,Not Specified,1,Hate Crime Against People with Disabilities,1.0,Landmark,Anti-White,Disability,0.0,Landmark,0.0
+2005,City,TX,Texas,2005-01-22,0,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Hate Crime Against People with Disabilities,1.0,School/College,Anti-Hispanic or Latino,Disability,0.0,Landmark,0.0
+2005,City,IL,Illinois,2005-02-03,0,0,1,1,0,Black or African American,Black or African American,1,Hate Crime Against People with Disabilities,1.0,Residence,Anti-Black or African American,Disability,0.0,Landmark,0.0
+2005,City,GA,Georgia,2005-02-14,0,0,1,1,0,White,Not Specified,1,Hate Crime Against People with Disabilities,1.0,Business,Anti-White,Disability,0.0,Landmark,0.0
+2005,Tribal,MT,Montana,2005-02-24,1,0,1,1,0,Native American or Alaska Native,Native American or Alaska Native,1,Hate Crime Against People with Disabilities,1.0,Residence,Anti-Native American or Alaska Native,Disability,0.0,Landmark,0.0
+2005,City,OH,Ohio,2005-03-11,1,0,1,1,0,Asian,Asian,1,Hate Crime Against People with Disabilities,1.0,Residence,Anti-Asian,Disability,0.0,Landmark,0.0
+2005,City,MA,Massachusetts,2005-03-16,0,0,1,1,0,Black or African American,Black or African American,1,Hate Crime Against People with Disabilities,1.0,Business,Anti-Black or African American,Disability,0.0,Landmark,0.0
+2005,City,FL,Florida,2005-03-26,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Hate Crime Against People with Disabilities,1.0,Residence,Anti-Hispanic or Latino,Disability,0.0,Landmark,0.0
+2005,City,CA,California,2005-04-07,1,0,1,1,0,Native American or Alaska Native,Native American or Alaska Native,1,Hate Crime Against People with Disabilities,1.0,School/College,Anti-Native American or Alaska Native,Disability,0.0,Landmark,0.0
+2005,City,TX,Texas,2005-04-14,1,0,1,1,0,White,Not Specified,1,Hate Crime Against People with Disabilities,1.0,Landmark,Anti-White,Disability,0.0,Landmark,0.0
+2005,Agency,SD,South Dakota,2005-04-27,1,0,1,1,0,White,Not Specified,1,Hate Crime Against People with Disabilities,1.0,Residence,Anti-White,Disability,0.0,Landmark,0.0
+2005,City,NC,North Carolina,2005-05-06,1,0,1,1,0,Native American or Alaska Native,Native American or Alaska Native,1,Hate Crime Against People with Disabilities,1.0,Residence,Anti-Native American or Alaska Native,Disability,0.0,Landmark,0.0
+2005,City,SC,South Carolina,2005-05-19,0,0,1,1,0,Black or African American,Black or African American,1,Hate Crime Against People with Disabilities,1.0,Landmark,Anti-Black or African American,Disability,0.0,Landmark,0.0
+2005,City,PA,Pennsylvania,2005-05-26,1,0,1,1,0,White,Not Specified,1,Hate Crime Against People with Disabilities,1.0,Residence,Anti-White,Disability,0.0,Landmark,0.0
+2005,City,IN,Indiana,2005-06-02,0,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Hate Crime Against People with Disabilities,1.0,Residence,Anti-Hispanic or Latino,Disability,0.0,Landmark,0.0
+2005,City,OH,Ohio,2005-06-03,0,0,1,1,0,Asian,Asian,1,Hate Crime Against People with Disabilities,1.0,Business,Anti-Asian,Disability,0.0,Landmark,0.0
+2005,City,TN,Tennessee,2005-06-10,1,0,1,1,0,Native American or Alaska Native,Native American or Alaska Native,1,Hate Crime Against People with Disabilities,1.0,Residence,Anti-Native American or Alaska Native,Disability,0.0,Landmark,0.0
+2005,City,MI,Michigan,2005-06-22,0,0,1,1,0,White,Not Specified,1,Hate Crime Against People with Disabilities,1.0,Landmark,Anti-White,Disability,0.0,Landmark,0.0
+2005,City,GA,Georgia,2005-06-29,1,0,1,1,0,Black or African American,Black or African American,1,Hate Crime Against People with Disabilities,1.0,Residence,Anti-Black or African American,Disability,0.0,Landmark,0.0
+2005,City,IL,Illinois,2005-07-02,0,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Hate Crime Against People with Disabilities,1.0,Business,Anti-Hispanic or Latino,Disability,0.0,Landmark,0.0
+2005,City,SC,South Carolina,2005-07-08,1,0,1,1,0,Native American or Alaska Native,Native American or Alaska Native,1,Hate Crime Against People with Disabilities,1.0,Landmark,Anti-Native American or Alaska Native,Disability,0.0,Landmark,0.0
+2005,City,FL,Florida,2005-07-15,0,0,1,1,0,Asian,Asian,1,Hate Crime Against People with Disabilities,1.0,Residence,Anti-Asian,Disability,0.0,Landmark,0.0
+2005,City,CA,California,2005-07-21,0,0,1,1,0,Black or African American,Black or African American,1,Hate Crime Against People with Disabilities,1.0,Residence,Anti-Black or African American,Disability,0.0,Landmark,0.0
+2005,City,NC,North Carolina,2005-07-27,1,0,1,1,0,White,Not Specified,1,Hate Crime Against People with Disabilities,1.0,Business,Anti-White,Disability,0.0,Landmark,0.0
+2005,City,TX,Texas,2005-07-28,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Hate Crime Against People with Disabilities,1.0,Residence,Anti-Hispanic or Latino,Disability,0.0,Landmark,0.0
+2005,City,MI,Michigan,2005-08-04,1,0,1,1,0,Native American or Alaska Native,Native American or Alaska Native,1,Hate Crime Against People with Disabilities,1.0,Residence,Anti-Native American or Alaska Native,Disability,0.0,Landmark,0.0
+2005,City,IN,Indiana,2005-08-10,0,0,1,1,0,Black or African American,Black or African American,1,Hate Crime Against People with Disabilities,1.0,Landmark,Anti-Black or African American,Disability,0.0,Landmark,0.0
+2005,Agency,IA,Iowa,2005-08-17,1,0,1,1,0,White,Not Specified,1,Hate Crime Against People with Disabilities,1.0,Business,Anti-White,Disability,0.0,Landmark,0.0
+2005,City,TN,Tennessee,2005-08-25,0,0,1,1,0,Asian,Asian,1,Hate Crime Against People with Disabilities,1.0,Residence,Anti-Asian,Disability,0.0,Landmark,0.0
+2005,City,GA,Georgia,2005-09-01,1,0,1,1,0,Native American or Alaska Native,Native American or Alaska Native,1,Hate Crime Against People with Disabilities,1.0,Landmark,Anti-Native American or Alaska Native,Disability,0.0,Landmark,0.0
+2005,City,IL,Illinois,2005-09-15,0,0,1,1,0,Black or African American,Black or African American,1,Hate Crime Against People with Disabilities,1.0,Residence,Anti-Black or African American,Disability,0.0,Landmark,0.0
+2005,City,FL,Florida,2005-09-22,0,0,1,1,0,Asian,Asian,1,Hate Crime Against People with Disabilities,1.0,Residence,Anti-Asian,Disability,0.0,Landmark,0.0
+2005,City,NC,North Carolina,2005-09-29,1,0,1,1,0,Native American or Alaska Native,Native American or Alaska Native,1,Hate Crime Against People with Disabilities,1.0,Landmark,Anti-Native American or Alaska Native,Disability,0.0,Landmark,0.0
+2005,City,TX,Texas,2005-10-06,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Hate Crime Against People with Disabilities,1.0,Business,Anti-Hispanic or Latino,Disability,0.0,Landmark,0.0
+2005,City,MI,Michigan,2005-10-12,1,0,1,1,0,White,Not Specified,1,Hate Crime Against People with Disabilities,1.0,Residence,Anti-White,Disability,0.0,Landmark,0.0",,,,,,,,,,,,,,,,,,,
+"2005,City,CA,California,2005-02-17,0,0,4,0,4,White,Non-Hispanic,1,Hate Crime Motivation Against Another Religion,1.0,School/College,Anti-White,Adults,Sexual Orientation,Single Offense,Single Bias
+2005,City,FL,Florida,2005-07-22,1,0,1,1,0,Asian,Non-Hispanic,2,Hate Crime Against a Business/Place of Worship,0.0,Residence,Anti-White,Adults,Veteran Status,Single Offense,Single Bias
+2005,City,IL,Illinois,2005-03-18,0,0,1,0,1,Unknown,Not Specified,1,Intimidation,1.0,Street/Sidewalk,Anti-Hispanic or Latino,Other,Disability,Single Offense,Single Bias
+2005,Suburban,LA,California,2005-11-15,1,0,1,1,0,White,Non-Hispanic,1,Aggravated Assault,1.0,Residence,Anti-White,Adults,Race/Ethnicity,Single Offense,Single Bias
+2005,Agency,CT,Connecticut,2005-04-19,0,0,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,Street/Sidewalk,Anti-Gay Lesbian Bisexual or Transgender,Other,Sexual Orientation,Single Offense,Single Bias
+2005,Suburban,FL,Florida,2005-10-01,1,0,2,1,1,White,Non-Hispanic,2,Hate Crime Against a Business/Place of Worship,1.0,Residence,Anti-White,Adults,Disability,Single Offense,Single Bias
+2005,City,GA,Georgia,2005-06-28,0,0,1,0,1,Asian,Non-Hispanic,1,Hate Crime Motivation Against Another Religion,1.0,School/College,Anti-White,Adults,Judicial System,Single Offense,Single Bias
+2005,Suburban,IL,Illinois,2005-09-06,1,0,2,1,1,Unknown,Not Specified,2,Simple Assault,1.0,Street/Sidewalk,Anti-Gay Lesbian Bisexual or Transgender,Other,Veteran Status,Single Offense,Single Bias
+2005,Suburban,MA,Massachusetts,2005-08-16,1,0,2,1,1,White,Non-Hispanic,2,Intimidation,1.0,Residence,Anti-White,Adults,Disability,Single Offense,Single Bias
+2005,City,NJ,New Jersey,2005-09-23,0,0,1,0,1,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Street/Sidewalk,Anti-Gay Lesbian Bisexual or Transgender,Other,Judicial System,Single Offense,Single Bias
+2005,City,NY,New York,2005-03-20,0,0,1,0,1,White,Non-Hispanic,1,Hate Crime Against a Business/Place of Worship,1.0,School/College,Anti-White,Adults,Gender,Single Offense,Single Bias
+2005,Suburban,OH,Ohio,2005-01-25,0,0,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,Street/Sidewalk,Anti-Gay Lesbian Bisexual or Transgender,Other,Race/Ethnicity,Single Offense,Single Bias
+2005,City,PA,Pennsylvania,2005-07-01,1,0,1,1,0,Asian,Non-Hispanic,1,Hate Crime Motivation Against Another Religion,1.0,School/College,Anti-White,Adults,Disability,Single Offense,Single Bias
+2005,City,VA,Virginia,2005-10-29,0,0,1,0,1,White,Non-Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-White,Adults,Disability,Single Offense,Single Bias
+2005,Suburban,WI,Wisconsin,2005-12-04,1,0,2,1,1,Unknown,Not Specified,2,Hate Crime Against a Business/Place of Worship,1.0,Street/Sidewalk,Anti-Gay Lesbian Bisexual or Transgender,Other,Sexual Orientation,Single Offense,Single Bias
+2005,City,CA,California,2005-09-18,0,0,1,0,1,White,Non-Hispanic,1,Hate Crime Against a Business/Place of Worship,1.0,School/College,Anti-White,Adults,Race/Ethnicity,Single Offense,Single Bias
+2005,City,FL,Florida,2005-06-11,0,0,1,0,1,Unknown,Not Specified,1,Intimidation,1.0,Street/Sidewalk,Anti-Gay Lesbian Bisexual or Transgender,Other,Disability,Single Offense,Single Bias
+2005,City,GA,Georgia,2005-05-27,0,0,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,Street/Sidewalk,Anti-Black or African American,Other,Judicial System,Single Offense,Single Bias
+2005,Suburban,IL,Illinois,2005-04-11,1,0,2,1,1,White,Non-Hispanic,2,Hate Crime Against a Business/Place of Worship,1.0,Residence,Anti-White,Adults,Disability,Single Offense,Single Bias
+2005,City,MA,Massachusetts,2005-02-16,0,0,1,0,1,Asian,Non-Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,School/College,Anti-White,Adults,Race/Ethnicity,Single Offense,Single Bias
+2005,City,NJ,New Jersey,2005-08-10,0,0,1,0,1,White,Non-Hispanic,1,Hate Crime Motivation Against Another Religion,1.0,Street/Sidewalk,Anti-White,Adults,Disability,Single Offense,Single Bias
+2005,City,NY,New York,2005-01-23,0,0,1,0,1,Unknown,Not Specified,1,Hate Crime Against a Business/Place of Worship,1.0,School/College,Anti-Gay Lesbian Bisexual or Transgender,Other,Disability,Single Offense,Single Bias
+2005,Suburban,OH,Ohio,2005-12-04,1,0,2,1,1,White,Non-Hispanic,2,Hate Crime Motivation Against Another Religion,1.0,Street/Sidewalk,Anti-White,Adults,Sexual Orientation,Single Offense,Single Bias
+2005,City,PA,Pennsylvania,2005-04-18,0,0,1,0,1,Asian,Non-Hispanic,1,Intimidation,1.0,Street/Sidewalk,Anti-White,Adults,Veteran Status,Single Offense,Single Bias
+2005,City,VA,Virginia,2005-05-20,1,0,1,1,0,White,Non-Hispanic,1,Aggravated Assault,1.0,Residence,Anti-White,Adults,Disability,Single Offense,Single Bias
+2005,City,WA,Washington,2005-06-24,1,0,1,1,0,Unknown,Not Specified,1,Hate Crime Against a Business/Place of Worship,1.0,School/College,Anti-Gay Lesbian Bisexual or Transgender,Other,Sexual Orientation,Single Offense,Single Bias
+2005,Suburban,WI,Wisconsin,2005-09-01,0,0,2,0,2,White,Non-Hispanic,2,Hate Crime Motivation Against Another Religion,1.0,Street/Sidewalk,Anti-White,Adults,Veteran Status,Single Offense,Single Bias
+2006,City,AL,Alabama,2006-08-03,0,0,1,0,1,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Street/Sidewalk,Anti-Gay Lesbian Bisexual or Transgender,Other,Disability,Single Offense,Single Bias
+2006,Suburban,CA,California,2006-01-23,1,0,2,1,1,White,Non-Hispanic,2,Intimidation,1.0,Residence,Anti-White,Adults,Disability,Single Offense,Single Bias
+2006,City,FL,Florida,2006-05-22,1,0,1,1,0,Unknown,Not Specified,1,Hate Crime Against a Business/Place of Worship,1.0,Street/Sidewalk,Anti-Gay Lesbian Bisexual or Transgender,Other,Veteran Status,Single Offense,Single Bias
+2006,City,GA,Georgia,2006-03-07,0,0,1,0,1,White,Non-Hispanic,1,Hate Crime Motivation Against Another Religion,1.0,School/College,Anti-White,Adults,Gender,Single Offense,Single Bias
+2006,Suburban,IL,Illinois,2006-07-25,1,0,1,1,0,Asian,Non-Hispanic,1,Aggravated Assault,1.0,Residence,Anti-White,Adults,Disability,Single Offense,Single Bias
+2006,City,MA,Massachusetts,2006-02-09,0,0,1,0,1,Unknown,Not Specified,1,Hate Crime Against a Business/Place of Worship,1.0,School/College,Anti-Black or African American,Other,Disability,Single Offense,Single Bias
+2006,City,NJ,New Jersey,2006-10-28,0,0,1,0,1,White,Non-Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adults,Veteran Status,Single Offense,Single Bias
+2006,City,NY,New York,2006-11-01,0,0,1,0,1,White,Non-Hispanic,1,Hate Crime Motivation Against Another Religion,1.0,Street/Sidewalk,Anti-White,Adults,Race/Ethnicity,Single Offense,Single Bias
+2006,Suburban,OH,Ohio,2006-03-20,1,0,2,1,1,Unknown,Not Specified,2,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-Gay Lesbian Bisexual or Transgender,Other,Disability,Single Offense,Single Bias
+2006,City,PA,Pennsylvania,2006-06-21,1,0,1,1,0,Asian,Non-Hispanic,1,Simple Assault,1.0,School/College,Anti-White,Adults,Disability,Single Offense,Single Bias
+2006,City,VA,Virginia,2006-08-15,0,0,1,0,1,White,Non-Hispanic,1,Hate Crime Against a Business/Place of Worship,1.0,School/College,Anti-White,Adults,Judicial System,Single Offense,Single Bias
+2006,City,WA,Washington,2006-05-25,1,0,1,1,0,White,Non-Hispanic,1,Destruction/Damage/Vandalism of Property,1.0,Street/Sidewalk,Anti-White,Adults,Race/Ethnicity,Single Offense,Single Bias",,,,,,,,,,,,,,,,,,,
+"2004,City,NJ,New Jersey,2004-11-15,1,0,1,1,0,White,Hispanic,2,Hate Crime Against Individuals or Property,2.0,Mall,Anti-Hispanic or Latino,Other,M,M
+1995,City,CA,California,1995-02-02,0,1,1,0,1,Black,Asian,1,Destruction/Damage/Vandalism of Property,1.0,Park,Anti-Asian or Asian American,S,M
+2011,City,FL,Florida,2011-06-18,0,0,1,1,0,Unknown,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Street,Anti-Gay or Lesbian,Other,M,M
+1992,City,IL,Illinois,1992-08-28,1,0,1,1,0,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Office Building,Anti-White,Other,M,S
+1999,City,NY,New York,1999-09-14,1,0,1,1,0,Black,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Residence,Anti-Black or African American,Other,S,S
+2008,City,TX,Texas,2008-03-30,0,0,1,0,1,Unknown,Not Specified,1,Simple Assault,1.0,University,Anti-Male,Other,M,M
+2014,City,GA,Georgia,2014-10-20,1,0,1,1,0,Hispanic,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Transit Station,Anti-Hispanic or Latino,Other,M,M
+1998,City,MI,Michigan,1998-01-25,0,0,1,1,0,Black,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Store,Anti-Black or African American,Other,M,M
+2001,City,PA,Pennsylvania,2001-12-08,1,0,1,1,0,Asian,Not Specified,1,Hate Crime Against Individuals or Property,1.0,School/College,Anti-Asian or Asian American,Other,M,S
+1993,City,OH,Ohio,1993-04-17,1,0,1,1,0,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Restaurant,Anti-White,Other,M,M
+2009,City,NC,North Carolina,2009-07-14,1,0,1,1,0,Hispanic,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Street,Anti-Hispanic or Latino,Other,M,M
+2003,City,MA,Massachusetts,2003-09-03,0,0,1,1,0,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Office Building,Anti-White,Other,M,S
+1996,City,WI,Wisconsin,1996-05-15,1,0,1,1,0,Black,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Store,Anti-Black or African American,Other,M,M
+2012,City,SC,South Carolina,2012-02-10,1,0,1,1,0,Unknown,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Residence,Anti-Male,Other,M,S
+1997,City,CO,Colorado,1997-03-06,0,0,1,1,0,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,University,Anti-White,Other,M,M
+2002,City,CT,Connecticut,2002-01-14,1,0,1,1,0,Hispanic,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Street,Anti-Hispanic or Latino,Other,M,M
+1994,City,MD,Maryland,1994-08-31,1,0,1,1,0,Black,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Office Building,Anti-Black or African American,Other,M,S
+2005,City,IN,Indiana,2005-04-22,0,0,1,1,0,Asian,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Store,Anti-Asian or Asian American,Other,M,M
+2013,City,AL,Alabama,2013-08-15,1,0,1,1,0,White,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Transit Station,Anti-White,Other,M,M
+1991,City,OR,Oregon,1991-11-17,0,0,1,1,0,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-Male,Other,M,S
+2006,City,VT,Vermont,2006-05-15,1,0,1,1,0,Hispanic,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Store,Anti-Hispanic or Latino,Other,M,M
+2000,City,KY,Kentucky,2000-09-21,1,0,1,1,0,Black,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Street,Anti-Black or African American,Other,M,M
+2007,City,RI,Rhode Island,2007-11-21,1,0,1,1,0,Unknown,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Office Building,Anti-Male,Other,M,M
+1999,City,AZ,Arizona,1999-05-27,0,0,1,1,0,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,University,Anti-White,Other,M,M
+1996,City,IA,Iowa,1996-08-07,1,0,1,1,0,Asian,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Residence,Anti-Asian or Asian American,Other,M,S
+2001,City,ME,Maine,2001-07-15,1,0,1,1,0,Black,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Store,Anti-Black or African American,Other,M,M
+2002,City,WY,Wyoming,2002-09-01,1,0,1,1,0,White,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Street,Anti-White,Other,M,M
+2010,City,MT,Montana,2010-01-23,1,0,1,1,0,Hispanic,Not Specified,1,Simple Assault,1.0,Office Building,Anti-Hispanic or Latino,Other,M,S
+2005,City,HI,Hawaii,2005-06-14,0,0,1,1,0,Asian,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Residence,Anti-Asian or Asian American,Other,M,M
+1992,City,KS,Kansas,1992-09-09,1,0,1,1,0,Black,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Store,Anti-Black or African American,Other,M,M
+1998,City,AK,Alaska,1998-07-19,1,0,1,1,0,Unknown,Not Specified,1,Hate Crime Against Individuals or Property,1.0,University,Anti-Male,Other,M,S
+1995,City,DE,Delaware,1995-10-05,0,0,1,1,0,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Office Building,Anti-White,Other,M,M
+2003,City,UT,Utah,2003-04-17,1,0,1,1,0,Hispanic,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Street,Anti-Hispanic or Latino,Other,M,M
+2014,City,ND,North Dakota,2014-03-25,1,0,1,1,0,Black,Not Specified,1,Hate Crime Against Individuals or Property,1.0,Store,Anti-Black or African American,Other,M,M",,,,,,,,,,,,,,,,,,,
+2004,City,NJ,New Jersey,2004-09-15,3.0,0.0,2.0,1.0,1.0,Asian,Asian,4.0,Simple Assault,2.0,Residential Area,Anti-Asian,Male,2,S
+2004,Township,NY,New York,2004-11-23,1.0,0.0,1.0,1.0,0.0,White,White,1.0,Intimidation,1.0,Highway/Road,Anti-White,Other,M,S
+1995,City,CA,California,1995-02-01,0.0,1.0,1.0,0.0,1.0,Hispanic or Latino,Hispanic or Latino,2.0,Larceny-Theft,1.0,Residential Area,Anti-Jewish,Other,F,S
+2008,City,MI,Michigan,2008-03-26,2.0,0.0,2.0,1.0,1.0,Unknown,Unknown,3.0,Intimidation,1.0,Highway/Road,Anti-Homosexual,Other,M,S
+2002,City,FL,Florida,2002-01-17,0.0,0.0,1.0,0.0,1.0,White,White,1.0,Simple Assault,1.0,Residential Area,Anti-Other Orientation,Other,M,S
+2006,City,IL,Illinois,2006-05-20,1.0,0.0,1.0,1.0,0.0,Asian,Asian,1.0,Simple Assault,1.0,Highway/Road,Anti-Asian,Other,M,S
+1993,Township,OH,Ohio,1993-03-15,1.0,0.0,1.0,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Simple Assault,1.0,Residential Area,Anti-Hispanic or Latino,Other,M,S
+2003,City,GA,Georgia,2003-07-12,2.0,0.0,2.0,1.0,1.0,White,White,3.0,Destruction/Damage/Vandalism of Property,2.0,Residential Area,Anti-White,Other,M,S
+1999,City,NC,North Carolina,1999-10-28,1.0,0.0,1.0,1.0,0.0,Black or African American,Black or African American,1.0,Simple Assault,1.0,Residential Area,Anti-Black or African American,Other,M,S
+2009,City,PA,Pennsylvania,2009-08-21,1.0,0.0,1.0,1.0,0.0,Unknown,Unknown,1.0,Simple Assault,1.0,Highway/Road,Anti-Heterosexual,Other,F,S
+2005,Township,OR,Oregon,2005-12-19,0.0,0.0,1.0,0.0,1.0,Hispanic or Latino,Hispanic or Latino,1.0,Intimidation,1.0,Residential Area,Anti-Hispanic or Latino,Other,F,S
+2001,City,IN,Indiana,2001-09-01,2.0,0.0,2.0,1.0,1.0,White,White,3.0,Vandalism,2.0,Residential Area,Anti-White,Other,M,S
+2007,City,MO,Missouri,2007-02-10,1.0,0.0,1.0,1.0,0.0,Asian,Asian,1.0,Simple Assault,1.0,Highway/Road,Anti-Asian,Other,M,S
+2000,Township,TX,Texas,2000-11-03,1.0,0.0,1.0,1.0,0.0,Black or African American,Black or African American,1.0,Simple Assault,1.0,Residential Area,Anti-Black or African American,Other,M,S
+1997,City,MD,Maryland,1997-06-20,1.0,0.0,1.0,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Simple Assault,1.0,Residential Area,Anti-Hispanic or Latino,Other,M,S
+2003,City,CO,Colorado,2003-04-01,0.0,1.0,1.0,0.0,1.0,White,White,2.0,Larceny-Theft,1.0,Residential Area,Anti-Jewish,Other,F,S
+2003,City,DE,Delaware,2003-08-27,1.0,0.0,1.0,1.0,0.0,Asian,Asian,1.0,Simple Assault,1.0,Residential Area,Anti-Asian,Other,M,S
+2002,City,WI,Wisconsin,2002-10-25,2.0,0.0,2.0,1.0,1.0,White,White,3.0,Simple Assault,2.0,Residential Area,Anti-White,Other,M,S
+2006,Township,VT,Vermont,2006-05-06,1.0,0.0,1.0,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Simple Assault,1.0,Highway/Road,Anti-Hispanic or Latino,Other,M,S
+1992,City,ME,Maine,1992-02-14,1.0,0.0,1.0,1.0,0.0,Black or African American,Black or African American,1.0,Simple Assault,1.0,Residential Area,Anti-Black or African American,Other,M,S
+2008,City,AK,Alaska,2008-07-18,1.0,0.0,1.0,1.0,0.0,Asian,Asian,1.0,Simple Assault,1.0,Highway/Road,Anti-Asian,Other,M,S
+2005,City,HI,Hawaii,2005-04-19,0.0,0.0,1.0,0.0,1.0,Hispanic or Latino,Hispanic or Latino,1.0,Intimidation,1.0,Residential Area,Anti-Hispanic or Latino,Other,F,S
+1996,City,ID,Idaho,1996-09-15,1.0,0.0,1.0,1.0,0.0,White,White,1.0,Simple Assault,1.0,Residential Area,Anti-White,Other,M,S
+2009,Township,NH,New Hampshire,2009-09-25,1.0,0.0,1.0,1.0,0.0,Unknown,Unknown,1.0,Simple Assault,1.0,Highway/Road,Anti-Heterosexual,Other,F,S
+2004,City,ND,North Dakota,2004-05-01,1.0,0.0,1.0,1.0,0.0,Black or African American,Black or African American,1.0,Simple Assault,1.0,Residential Area,Anti-Black or African American,Other,M,S
+2002,City,KS,Kansas,2002-11-12,1.0,0.0,1.0,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Simple Assault,1.0,Residential Area,Anti-Hispanic or Latino,Other,M,S
+2007,Township,NE,Nebraska,2007-03-22,1.0,0.0,1.0,1.0,0.0,Asian,Asian,1.0,Simple Assault,1.0,Residential Area,Anti-Asian,Other,M,S
+2001,City,MT,Montana,2001-07-26,0.0,0.0,1.0,0.0,1.0,Hispanic or Latino,Hispanic or Latino,1.0,Intimidation,1.0,Residential Area,Anti-Hispanic or Latino,Other,F,S
+2003,City,CT,Connecticut,2003-01-15,1.0,0.0,1.0,1.0,0.0,Asian,Asian,1.0,Simple Assault,1.0,Residential Area,Anti-Asian,Other,M,S
+2006,City,IA,Iowa,2006-02-10,1.0,0.0,1.0,1.0,0.0,Black or African American,Black or African American,1.0,Simple Assault,1.0,Residential Area,Anti-Black or African American,Other,M,S
+2005,City,SC,South Carolina,2005-03-29,1.0,0.0,1.0,1.0,0.0,White,White,1.0,Simple Assault,1.0,Residential Area,Anti-White,Other,M,S
+1998,City,WY,Wyoming,1998-01-15,1.0,0.0,1.0,1.0,0.0,Black or African American,Black or African American,1.0,Simple Assault,1.0,Residential Area,Anti-Black or African American,Other,M,S
+2002,City,VT,Vermont,2002-03-25,1.0,0.0,1.0,1.0,0.0,Asian,Asian,1.0,Simple Assault,1.0,Residential Area,Anti-Asian,Other,M,S
+2008,City,RI,Rhode Island,2008-08-15,1.0,0.0,1.0,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Simple Assault,1.0,Residential Area,Anti-Hispanic or Latino,Other,M,S
+2006,City,SD,South Dakota,2006-01-20,1.0,0.0,1.0,1.0,0.0,Asian,Asian,1.0,Simple Assault,1.0,Residential Area,Anti-Asian,Other,M,S
+1994,City,LA,Louisiana,1994-09-01,1.0,0.0,1.0,1.0,0.0,Black or African American,Black or African American,1.0,Simple Assault,1.0,Residential Area,Anti-Black or African American,Other,M,S
+2009,Township,ME,Maine,2009-04-15,1.0,0.0,1.0,1.0,0.0,Unknown,Unknown,1.0,Simple Assault,1.0,Highway/Road,Anti-Heterosexual,Other,F,S
+"2004,City,NJ,New Jersey,2004-05-22,0,0,1,1,0,Hispanic/White,Hispanic,1,Vandalism,0.0,Residence,Anti-Gay or Lesbian,Female,White,White
+2004,City,IN,Indiana,2004-06-01,0,0,2,1,1,White/Unknown,White,1,Vandalism,0.0,Residence,Anti-Jewish,Other,Male
+2004,City,GA,Georgia,2004-06-15,1,0,2,1,1,Black/Black,Black,2,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-Black or African American,Male
+2004,City,FL,Florida,2004-07-05,0,0,1,0,1,Hispanic/Hispanic,Hispanic,1,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-Hispanic,Other
+2004,City,NJ,New Jersey,2004-07-12,0,0,1,0,1,White/White,White,1,Vandalism,0.0,Residence,Anti-LGBTQ+,Other
+2004,City,GA,Georgia,2004-07-18,1,0,1,1,0,Black/Black,Black,1,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-Black or African American,Male
+2004,City,IL,Illinois,2004-08-02,0,0,1,0,1,Hispanic/Hispanic,Hispanic,1,Vandalism,0.0,Residence,Anti-Hispanic,Other
+2004,City,CA,California,2004-08-10,1,0,2,1,1,White/White,White,2,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-LGBTQ+,Female
+2004,City,NC,North Carolina,2004-08-15,1,0,1,1,0,Black/Black,Black,1,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-Black or African American,Male
+2004,City,FL,Florida,2004-09-05,0,0,1,0,1,Hispanic/Hispanic,Hispanic,1,Vandalism,0.0,Residence,Anti-Hispanic,Other
+2004,City,TX,Texas,2004-09-10,1,0,2,1,1,White/White,White,2,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-LGBTQ+,Male
+2004,City,MA,Massachusetts,2004-09-15,0,0,1,0,1,White/White,White,1,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-LGBTQ+,Other
+2004,City,OH,Ohio,2004-09-20,1,0,1,1,0,Black/Black,Black,1,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-Black or African American,Male
+2004,City,GA,Georgia,2004-09-25,0,0,1,0,1,Hispanic/Hispanic,Hispanic,1,Vandalism,0.0,Residence,Anti-Hispanic,Other
+2004,City,NC,North Carolina,2004-10-01,1,0,2,1,1,White/White,White,2,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-LGBTQ+,Female
+2004,City,FL,Florida,2004-10-06,0,0,1,0,1,White/White,White,1,Vandalism,0.0,Residence,Anti-LGBTQ+,Other
+2004,City,CA,California,2004-10-10,1,0,1,1,0,Black/Black,Black,1,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-Black or African American,Male
+2004,City,IL,Illinois,2004-10-15,0,0,1,0,1,Hispanic/Hispanic,Hispanic,1,Vandalism,0.0,Residence,Anti-Hispanic,Other
+2004,City,SC,South Carolina,2004-10-20,1,0,2,1,1,White/White,White,2,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-LGBTQ+,Male
+2004,City,GA,Georgia,2004-10-25,0,0,1,0,1,Hispanic/Hispanic,Hispanic,1,Vandalism,0.0,Residence,Anti-Hispanic,Other
+2004,City,NC,North Carolina,2004-11-01,1,0,1,1,0,Black/Black,Black,1,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-Black or African American,Male
+2004,City,FL,Florida,2004-11-06,0,0,1,0,1,White/White,White,1,Vandalism,0.0,Residence,Anti-LGBTQ+,Other
+2004,City,TX,Texas,2004-11-10,1,0,2,1,1,White/White,White,2,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-LGBTQ+,Female
+2004,City,MA,Massachusetts,2004-11-15,0,0,1,0,1,Hispanic/Hispanic,Hispanic,1,Vandalism,0.0,Residence,Anti-Hispanic,Other
+2004,City,OH,Ohio,2004-11-20,1,0,1,1,0,Black/Black,Black,1,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-Black or African American,Male
+2004,City,GA,Georgia,2004-11-25,0,0,1,0,1,White/White,White,1,Vandalism,0.0,Residence,Anti-LGBTQ+,Other
+2004,City,NC,North Carolina,2004-12-01,1,0,2,1,1,White/White,White,2,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-LGBTQ+,Male
+2004,City,FL,Florida,2004-12-06,0,0,1,0,1,Hispanic/Hispanic,Hispanic,1,Vandalism,0.0,Residence,Anti-Hispanic,Other
+2004,City,CA,California,2004-12-10,1,0,1,1,0,Black/Black,Black,1,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-Black or African American,Male
+2004,City,IL,Illinois,2004-12-15,0,0,1,0,1,White/White,White,1,Vandalism,0.0,Residence,Anti-LGBTQ+,Other
+2004,City,SC,South Carolina,2004-12-20,1,0,2,1,1,Hispanic/Hispanic,Hispanic,2,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-Hispanic,Male
+2004,City,GA,Georgia,2004-12-25,0,0,1,0,1,Black/Black,Black,1,Vandalism,0.0,Residence,Anti-Black or African American,Other
+2003,City,NC,North Carolina,2003-01-01,1,0,2,1,1,White/White,White,2,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-LGBTQ+,Male
+2003,City,GA,Georgia,2003-01-06,0,0,1,0,1,Hispanic/Hispanic,Hispanic,1,Vandalism,0.0,Residence,Anti-Hispanic,Other
+2003,City,FL,Florida,2003-01-10,1,0,1,1,0,Black/Black,Black,1,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-Black or African American,Male
+2003,City,NC,North Carolina,2003-01-15,0,0,1,0,1,White/White,White,1,Vandalism,0.0,Residence,Anti-LGBTQ+,Other
+2003,City,GA,Georgia,2003-01-20,1,0,2,1,1,Hispanic/Hispanic,Hispanic,2,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-Hispanic,Male
+2003,City,FL,Florida,2003-01-25,0,0,1,0,1,Black/Black,Black,1,Vandalism,0.0,Residence,Anti-Black or African American,Other
+2003,City,TX,Texas,2003-02-01,1,0,1,1,0,White/White,White,1,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-LGBTQ+,Male
+2003,City,NC,North Carolina,2003-02-06,0,0,1,0,1,Hispanic/Hispanic,Hispanic,1,Vandalism,0.0,Residence,Anti-Hispanic,Other
+2003,City,GA,Georgia,2003-02-10,1,0,2,1,1,White/White,White,2,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-LGBTQ+,Male
+2003,City,FL,Florida,2003-02-15,0,0,1,0,1,Black/Black,Black,1,Vandalism,0.0,Residence,Anti-Black or African American,Other
+2003,City,CA,California,2003-02-20,1,0,1,1,0,Hispanic/Hispanic,Hispanic,1,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-Hispanic,Male
+2003,City,IL,Illinois,2003-02-25,0,0,1,0,1,White/White,White,1,Vandalism,0.0,Residence,Anti-LGBTQ+,Other
+2003,City,SC,South Carolina,2003-03-01,1,0,2,1,1,Black/Black,Black,2,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-Black or African American,Male
+2003,City,GA,Georgia,2003-03-06,0,0,1,0,1,Hispanic/Hispanic,Hispanic,1,Vandalism,0.0,Residence,Anti-Hispanic,Other
+2003,City,FL,Florida,2003-03-10,1,0,1,1,0,White/White,White,1,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-LGBTQ+,Male
+2003,City,TX,Texas,2003-03-15,0,0,1,0,1,Black/Black,Black,1,Vandalism,0.0,Residence,Anti-Black or African American,Other
+2003,City,MA,Massachusetts,2003-03-20,1,0,2,1,1,Hispanic/Hispanic,Hispanic,2,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-Hispanic,Male
+2003,City,OH,Ohio,2003-03-25,0,0,1,0,1,White/White,White,1,Vandalism,0.0,Residence,Anti-LGBTQ+,Other",,,,,,,,,,,,,,,,,,,
+"2009,City,FL,Florida,2009-06-22,,1,1,0,White,Hispanic,1,Hate Crime Against People,1.0,Residential/Home,Anti-Hispanic or Latino,1,M,S
+2009,City,NY,New York,2009-08-01,,,0,1,0,Unknown,Not Specified,1,Hate Crime Against People,1.0,Residential/Home,Anti-Jewish,1,M,S
+2009,City,CA,California,2009-09-15,1,,0,1,0,White,Not Specified,2,Hate Crime Against Property,1.5,Commercial/Apartment,Anti-Oriental,1,M,S
+2009,Township,IL,Illinois,2009-10-15,,1,1,1,0,Unknown,Not Specified,3,Disorderly Intoxication,2.0,Public Road/Avenue,Anti-White,1,M,S
+2009,County,MD,Maryland,2009-11-05,,1,1,1,0,White,Not Specified,3,Disorderly Intoxication,2.0,Commercial/Apartment,Anti-Hispanic or Latino,1,M,S
+2009,Municipality,MI,Michigan,2009-11-18,,1,1,1,0,White,Not Specified,3,Disorderly Intoxication,2.0,Residential/Home,Anti-Arab,1,M,S
+2009,City,NC,North Carolina,2010-01-01,,1,1,0,White,Not Specified,1,Hate Crime Against People,1.0,Public Road/Avenue,Anti-White,1,M,S
+2009,Township,OH,Ohio,2010-01-10,1,,0,1,0,Unknown,Not Specified,1,Hate Crime Against People,1.0,Residential/Home,Anti-Jewish,1,M,S
+2010,City,AL,Alabama,2010-02-02,,1,1,0,White,Not Specified,1,Hate Crime Against Property,1.0,School/College,Anti-Black or African American,1,M,S
+2010,County,AR,Arkansas,2010-02-14,,1,1,0,White,Not Specified,1,Hate Crime Against People,1.0,Commercial/Apartment,Anti-White,1,M,S
+2010,City,FL,Florida,2010-03-01,,1,1,0,Unknown,Not Specified,1,Hate Crime Against Property,1.0,Public Road/Avenue,Anti-Hispanic or Latino,1,M,S
+2010,Municipality,GA,Georgia,2010-03-10,,1,1,0,White,Not Specified,1,Hate Crime Against Property,1.0,Residential/Home,Anti-Arab,1,M,S
+2010,City,IL,Illinois,2010-03-15,1,,1,0,Unknown,Not Specified,2,Hate Crime Against People,2.0,Commercial/Apartment,Anti-Jewish,1,M,S
+2010,City,KS,Kansas,2010-03-20,,1,1,0,White,Not Specified,1,Hate Crime Against People,1.0,Public Road/Avenue,Anti-White,1,M,S
+2010,City,MA,Massachusetts,2010-04-01,,1,1,0,Unknown,Not Specified,1,Hate Crime Against Property,1.0,School/College,Anti-Hispanic or Latino,1,M,S
+2010,County,MI,Michigan,2010-04-10,,1,1,0,White,Not Specified,1,Hate Crime Against Property,1.0,Residential/Home,Anti-Arab,1,M,S
+2010,Municipality,NJ,New Jersey,2010-04-15,,1,1,0,Unknown,Not Specified,1,Hate Crime Against People,1.0,Commercial/Apartment,Anti-Black or African American,1,M,S
+2010,City,NY,New York,2010-05-01,,1,1,0,White,Not Specified,1,Hate Crime Against People,1.0,Public Road/Avenue,Anti-Jewish,1,M,S
+2010,City,NC,North Carolina,2010-05-10,,1,1,0,White,Not Specified,1,Hate Crime Against Property,1.0,Residential/Home,Anti-White,1,M,S
+2010,City,OH,Ohio,2010-05-15,,1,1,0,Unknown,Not Specified,1,Hate Crime Against Property,1.0,Commercial/Apartment,Anti-Hispanic or Latino,1,M,S
+2010,Municipality,OR,Oregon,2010-06-01,,1,1,0,White,Not Specified,1,Hate Crime Against Property,1.0,Public Road/Avenue,Anti-Arab,1,M,S
+2010,County,SC,South Carolina,2010-06-10,,1,1,0,Unknown,Not Specified,1,Hate Crime Against People,1.0,Residential/Home,Anti-Black or African American,1,M,S
+2010,City,TX,Texas,2010-06-15,,1,1,0,White,Not Specified,1,Hate Crime Against Property,1.0,School/College,Anti-White,1,M,S
+2010,Municipality,UT,Utah,2010-07-01,,1,1,0,Unknown,Not Specified,1,Hate Crime Against People,1.0,Commercial/Apartment,Anti-Jewish,1,M,S
+2010,County,WI,Wisconsin,2010-07-10,,1,1,0,White,Not Specified,1,Hate Crime Against Property,1.0,Public Road/Avenue,Anti-Hispanic or Latino,1,M,S
+2010,Municipality,WY,Wyoming,2010-07-15,,1,1,0,White,Not Specified,1,Hate Crime Against People,1.0,Residential/Home,Anti-Arab,1,M,S
+2011,City,CA,California,2011-01-01,,1,1,0,Unknown,Not Specified,1,Hate Crime Against Property,1.0,Commercial/Apartment,Anti-Black or African American,1,M,S
+2011,City,FL,Florida,2011-01-10,,1,1,0,White,Not Specified,1,Hate Crime Against Property,1.0,School/College,Anti-White,1,M,S
+2011,City,GA,Georgia,2011-02-01,,1,1,0,Unknown,Not Specified,1,Hate Crime Against Property,1.0,Public Road/Avenue,Anti-Hispanic or Latino,1,M,S
+2011,Municipality,IL,Illinois,2011-02-10,,1,1,0,White,Not Specified,1,Hate Crime Against People,1.0,Residential/Home,Anti-Arab,1,M,S
+2011,City,KS,Kansas,2011-03-01,,1,1,0,White,Not Specified,1,Hate Crime Against Property,1.0,Commercial/Apartment,Anti-Black or African American,1,M,S
+2011,City,MA,Massachusetts,2011-03-10,,1,1,0,Unknown,Not Specified,1,Hate Crime Against Property,1.0,School/College,Anti-Jewish,1,M,S
+2011,County,MI,Michigan,2011-04-01,,1,1,0,White,Not Specified,1,Hate Crime Against Property,1.0,Public Road/Avenue,Anti-Hispanic or Latino,1,M,S
+2011,Municipality,NJ,New Jersey,2011-04-10,,1,1,0,Unknown,Not Specified,1,Hate Crime Against People,1.0,Residential/Home,Anti-White,1,M,S
+2011,City,NY,New York,2011-05-01,,1,1,0,White,Not Specified,1,Hate Crime Against Property,1.0,Commercial/Apartment,Anti-Jewish,1,M,S
+2011,City,NC,North Carolina,2011-05-10,,1,1,0,White,Not Specified,1,Hate Crime Against People,1.0,Public Road/Avenue,Anti-Hispanic or Latino,1,M,S
+2011,City,OH,Ohio,2011-06-01,,1,1,0,Unknown,Not Specified,1,Hate Crime Against Property,1.0,Residential/Home,Anti-Black or African American,1,M,S
+2011,Municipality,OR,Oregon,2011-06-10,,1,1,0,White,Not Specified,1,Hate Crime Against People,1.0,Commercial/Apartment,Anti-Arab,1,M,S",,,,,,,,,,,,,,,,,,,
+1991,Local,FL,Florida,1991-01-15,2.0,0.0,1.0,1.0,0.0,White,White,4.0,0.0,Residential Neighborhood,Anti-Semitic,White,Other,Unknown,
+1992,Federal,CA,California,1992-06-20,1.0,0.0,1.0,1.0,0.0,White,White,1.0,0.0,Residential Neighborhood,Anti-Gay,White,Other,Unknown,
+1993,State,IL,Illinois,1993-02-14,0.0,1.0,1.0,0.0,1.0,Hispanic or Latino,Hispanic or Latino,2.0,0.0,School/College,Anti-White,Hispanic or Latino,Other,Unknown,
+1994,Local,GA,Georgia,1994-09-28,1.0,0.0,2.0,1.0,1.0,Black or African American,Black or African American,3.0,0.0,Residential Neighborhood,Anti-Asian,Black or African American,Other,Unknown,
+1995,State,OH,Ohio,1995-04-15,0.0,0.0,1.0,0.0,1.0,Unknown,Unknown,1.0,0.0,School/College,Anti-Gay,Other,Other,Unknown,
+1996,Federal,MA,Massachusetts,1996-11-22,0.0,0.0,1.0,0.0,1.0,White,White,1.0,0.0,Residential Neighborhood,Anti-Jewish,White,Other,Unknown,
+1997,Local,MI,Michigan,1997-03-18,1.0,0.0,2.0,1.0,1.0,White,White,2.0,0.0,Residential Neighborhood,Anti-Asian,White,Other,S,
+1998,State,NY,NY,1998-07-25,0.0,1.0,1.0,0.0,1.0,Hispanic or Latino,Hispanic or Latino,2.0,0.0,School/College,Anti-White,Hispanic or Latino,Other,Unknown,
+1999,Local,TX,Texas,1999-01-10,2.0,0.0,2.0,2.0,0.0,Black or African American,Black or African American,4.0,0.0,Residential Neighborhood,Anti-Jewish,Black or African American,Other,Unknown,
+2000,Federal,PA,Pennsylvania,2000-05-02,1.0,0.0,1.0,1.0,0.0,White,White,2.0,0.0,Residential Neighborhood,Anti-Gay,White,Other,Unknown,
+2001,State,CA,California,2001-09-15,0.0,0.0,1.0,0.0,1.0,Hispanic or Latino,Hispanic or Latino,1.0,0.0,School/College,Anti-White,Hispanic or Latino,Other,Unknown,
+2002,Local,FL,Florida,2002-02-12,1.0,0.0,2.0,1.0,1.0,Black or African American,Black or African American,3.0,0.0,Residential Neighborhood,Anti-Asian,Black or African American,Other,S,
+2003,State,IL,Illinois,2003-08-22,0.0,1.0,1.0,0.0,1.0,Unknown,Unknown,2.0,0.0,School/College,Anti-Gay,Other,Other,Unknown,
+2004,City,NJ,New Jersey,2004-05-13,0.0,0.0,0.0,0.0,0.0,Unknown,Unknown,0.0,0.0,School/College,Anti-Black or African American,Other,Other,Unknown,
+2005,Federal,GA,Georgia,2005-03-01,1.0,0.0,1.0,1.0,0.0,White,White,2.0,0.0,Residential Neighborhood,Anti-Jewish,White,Other,Unknown,
+2006,State,OH,Ohio,2006-11-20,0.0,0.0,1.0,0.0,1.0,Hispanic or Latino,Hispanic or Latino,1.0,0.0,School/College,Anti-White,Hispanic or Latino,Other,Unknown,
+2007,Local,MI,Michigan,2007-04-27,1.0,0.0,2.0,1.0,1.0,White,White,3.0,0.0,Residential Neighborhood,Anti-Asian,White,Other,S,
+2008,State,NY,NY,2008-09-15,0.0,1.0,1.0,0.0,1.0,Black or African American,Black or African American,2.0,0.0,School/College,Anti-White,Black or African American,Other,Unknown,
+2009,Local,TX,Texas,2009-01-10,2.0,0.0,2.0,2.0,0.0,Unknown,Unknown,4.0,0.0,Residential Neighborhood,Anti-Gay,Other,Other,Unknown,
+2010,Federal,PA,Pennsylvania,2010-06-05,1.0,0.0,1.0,1.0,0.0,Hispanic or Latino,Hispanic or Latino,2.0,0.0,Residential Neighborhood,Anti-Jewish,Hispanic or Latino,Other,Unknown,
+2011,State,CA,California,2011-10-01,0.0,0.0,1.0,0.0,1.0,White,White,1.0,0.0,School/College,Anti-Asian,White,Other,Unknown,
+2012,Local,FL,Florida,2012-01-25,1.0,0.0,2.0,1.0,1.0,Black or African American,Black or African American,3.0,0.0,Residential Neighborhood,Anti-Gay,Black or African American,Other,S,
+2013,State,IL,Illinois,2013-07-12,0.0,1.0,1.0,0.0,1.0,Hispanic or Latino,Hispanic or Latino,2.0,0.0,School/College,Anti-White,Hispanic or Latino,Other,Unknown,
+2013,State,IL,Illinois,2013-07-12,0.0,1.0,1.0,0.0,1.0,Hispanic or Latino,Hispanic or Latino,2.0,0.0,School/College,Anti-White,Hispanic or Latino,Other,Unknown,
+2013,State,IL,Illinois,2013-07-12,0.0,1.0,1.0,0.0,1.0,Hispanic or Latino,Hispanic or Latino,2.0,0.0,School/College,Anti-White,Hispanic or Latino,Other,Unknown,
+2013,State,IL,Illinois,2013-07-12,0.0,1.0,1.0,0.0,1.0,Hispanic or Latino,Hispanic or Latino,2.0,0.0,School/College,Anti-White,Hispanic or Latino,Other,Unknown,
+2013,State,IL,Illinois,2013-07-12,0.0,1.0,1.0,0.0,1.0,Hispanic or Latino,Hispanic or Latino,2.0,0.0,School/College,Anti-White,Hispanic or Latino,Other,Unknown,
+2013,State,IL,Illinois,2013-07-12,0.0,1.0,1.0,0.0,1.0,Hispanic or Latino,Hispanic or Latino,2.0,0.0,School/College,Anti-White,Hispanic or Latino,Other,Unknown,
+2013,State,IL,Illinois,2013-07-12,0.0,1.0,1.0,0.0,1.0,Hispanic or Latino,Hispanic or Latino,2.0,0.0,School/College,Anti-White,Hispanic or Latino,Other,Unknown,
+2013,State,IL,Illinois,2013-07-12,0.0,1.0,1.0,0.0,1.0,Hispanic or Latino,Hispanic or Latino,2.0,0.0,School/College,Anti-White,Hispanic or Latino,Other,Unknown,
+2013,State,IL,Illinois,2013-07-12,0.0,1.0,1.0,0.0,1.0,Hispanic or Latino,Hispanic or Latino,2.0,0.0,School/College,Anti-White,Hispanic or Latino,Other,Unknown,
+2013,State,IL,Illinois,2013-07-12,0.0,1.0,1.0,0.0,1.0,Hispanic or Latino,Hispanic or Latino,2.0,0.0,School/College,Anti-White,Hispanic or Latino,Other,Unknown,
+2013,State,IL,Illinois,2013-07-12,0.0,1.0,1.0,0.0,1.0,Hispanic or Latino,Hispanic or Latino,2.0,0.0,School/College,Anti-White,Hispanic or Latino,Other,Unknown,
+2013,State,IL,Illinois,2013-07-12,0.0,1.0,1.0,0.0,1.0,Hispanic or Latino,Hispanic or Latino,2.0,0.0,School/College,Anti-White,Hispanic or Latino,Other,Unknown,
+2014,City,NJ,New Jersey,2014-04-01,1.0,0.0,1.0,1.0,0.0,Unknown,Unknown,2.0,0.0,Residential Neighborhood,Anti-Asian,Other,Other,Unknown,
+2004,City,NY,New York,2004-08-02,1.0,0.0,1.0,1.0,0.0,Asian,Asian,2.0,Simple Assault,2.0,Residential/Apartment,Anti-Hispanic or Latino,Other,M,L
+2004,City,FL,Florida,2004-09-01,2.0,0.0,2.0,1.0,0.0,White,White,4.0,Vandalism,4.0,Commercial/Business,Anti-Jewish,Other,S,L
+2004,City,IL,Illinois,2004-10-15,1.0,0.0,1.0,1.0,0.0,Unknown,Unknown,1.0,Intimidation,1.0,Residential/Apartment,Anti-White,Other,S,S
+2004,City,CA,California,2004-11-12,1.0,0.0,1.0,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Crime Bias Other,1.0,School/College,Anti-Sexual Orientation,Other,S,M
+2004,City,NV,Nevada,2004-12-10,2.0,0.0,2.0,1.0,0.0,White,White,3.0,Destruction/Damage/Vandalism of Property,3.0,Commercial/Business,Anti-Arab,Other,M,L
+2004,Town or City Hall,MI,Michigan,2004-01-05,1.0,0.0,1.0,1.0,0.0,Asian,Asian,1.0,Vandalism,1.0,Residential/Apartment,Anti-Other Bias,Other,S,L
+2004,College or University,GA,Georgia,2004-02-01,2.0,0.0,2.0,1.0,0.0,White,White,2.0,Crime Bias Other,2.0,School/College,Anti-Hispanic or Latino,Other,M,S
+2004,College or University,NC,North Carolina,2004-03-20,1.0,0.0,1.0,1.0,0.0,Unknown,Unknown,1.0,Simple Assault,1.0,Residential/Apartment,Anti-Jewish,Other,M,L
+2004,City,CT,Connecticut,2004-04-15,2.0,0.0,2.0,1.0,0.0,Hispanic or Latino,Hispanic or Latino,3.0,Destruction/Damage/Vandalism of Property,3.0,Commercial/Business,Anti-White,Other,M,L
+2004,Town or City Hall,OH,Ohio,2004-05-10,1.0,0.0,1.0,1.0,0.0,White,White,1.0,Intimidation,1.0,Residential/Apartment,Anti-Other Bias,Other,L,M
+2004,College or University,TX,Texas,2004-06-01,2.0,0.0,2.0,1.0,0.0,Asian,Asian,2.0,Vandalism,2.0,School/College,Anti-Hispanic or Latino,Other,S,S
+2004,City,CA,California,2004-05-23,1.0,0.0,1.0,1.0,0.0,Asian,Hispanic or Latino,1.0,Simple Assault,1.0,Park or Playground,Anti-Asian,Other,S,S
+2004,Suburban,TX,Texas,2004-05-24,0.0,0.0,1.0,0.0,1.0,White,Not Hispanic or Latino,1.0,Vandalism,1.0,Residence,Anti-Jewish,Other,S,S
+2004,City,NY,New York,2004-05-25,0.0,0.0,1.0,0.0,1.0,White,Not Hispanic or Latino,1.0,Intimidation,1.0,Business,Anti-Hispanic or Latino,Other,S,S
+2004,City,IL,Illinois,2004-05-26,1.0,0.0,1.0,0.0,1.0,White,Not Hispanic or Latino,1.0,Simple Assault,1.0,Residence,"Anti-Gay, Lesbian, Bisexual or Transgender",Other,S,S
+2004,Suburban,FL,Florida,2004-05-27,0.0,0.0,1.0,0.0,1.0,Black or African American,Not Hispanic or Latino,1.0,Vandalism,1.0,School/College,Anti-White,Other,S,S
+2004,City,OH,Ohio,2004-05-28,1.0,0.0,1.0,1.0,0.0,White,Not Hispanic or Latino,1.0,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-Arab,Other,S,S
+2004,City,GA,Georgia,2004-05-29,0.0,0.0,1.0,0.0,1.0,White,Not Hispanic or Latino,1.0,Simple Assault,1.0,Park or Playground,Anti-Indian/Alaskan Native,Other,S,S
+2004,City,MI,Michigan,2004-05-30,1.0,0.0,1.0,0.0,1.0,Black or African American,Not Hispanic or Latino,1.0,Intimidation,1.0,Residence,"Anti-Gay, Lesbian, Bisexual or Transgender",Other,S,S
+2004,Suburban,NC,North Carolina,2004-05-31,0.0,0.0,1.0,0.0,1.0,White,Not Hispanic or Latino,1.0,Vandalism,1.0,Business,Anti-Asian,Other,S,S
+2004,City,WV,West Virginia,2004-06-01,1.0,0.0,1.0,1.0,0.0,White,Not Hispanic or Latino,1.0,Destruction/Damage/Vandalism of Property,1.0,School/College,Anti-Hispanic or Latino,Other,S,S
+2004,City,KY,Kentucky,2004-06-02,0.0,0.0,1.0,0.0,1.0,Black or African American,Not Hispanic or Latino,1.0,Simple Assault,1.0,Residence,Anti-White,Other,S,S
+2004,Suburban,SC,South Carolina,2004-06-03,1.0,0.0,1.0,0.0,1.0,White,Not Hispanic or Latino,1.0,Intimidation,1.0,Park or Playground,Anti-Arab,Other,S,S
+2004,City,TN,Tennessee,2004-06-04,0.0,0.0,1.0,0.0,1.0,White,Not Hispanic or Latino,1.0,Vandalism,1.0,Business,Anti-Indian/Alaskan Native,Other,S,S
+2004,City,IN,Indiana,2004-06-05,1.0,0.0,1.0,1.0,0.0,White,Not Hispanic or Latino,1.0,Destruction/Damage/Vandalism of Property,1.0,Residence,"Anti-Gay, Lesbian, Bisexual or Transgender",Other,S,S
+2004,Suburban,UT,Utah,2004-06-06,0.0,0.0,1.0,0.0,1.0,White,Not Hispanic or Latino,1.0,Simple Assault,1.0,School/College,Anti-Asian,Other,S,S
+2004,City,AR,Arkansas,2004-06-07,1.0,0.0,1.0,0.0,1.0,Black or African American,Not Hispanic or Latino,1.0,Intimidation,1.0,Park or Playground,Anti-White,Other,S,S
+2004,City,LA,Louisiana,2004-06-08,0.0,0.0,1.0,0.0,1.0,White,Not Hispanic or Latino,1.0,Vandalism,1.0,Business,Anti-Hispanic or Latino,Other,S,S
+2004,Suburban,OK,Oklahoma,2004-06-09,1.0,0.0,1.0,1.0,0.0,White,Not Hispanic or Latino,1.0,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-Arab,Other,S,S
+2004,City,MS,Mississippi,2004-06-10,0.0,0.0,1.0,0.0,1.0,Black or African American,Not Hispanic or Latino,1.0,Simple Assault,1.0,School/College,Anti-Indian/Alaskan Native,Other,S,S
+2004,City,AL,Alabama,2004-06-11,1.0,0.0,1.0,0.0,1.0,White,Not Hispanic or Latino,1.0,Intimidation,1.0,Park or Playground,"Anti-Gay, Lesbian, Bisexual or Transgender",Other,S,S
+2004,Suburban,WY,Wyoming,2004-06-12,0.0,0.0,1.0,0.0,1.0,White,Not Hispanic or Latino,1.0,Vandalism,1.0,Business,Anti-Asian,Other,S,S
+2004,City,ID,Idaho,2004-06-13,1.0,0.0,1.0,1.0,0.0,White,Not Hispanic or Latino,1.0,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-Hispanic or Latino,Other,S,S
+2004,City,MT,Montana,2004-06-14,0.0,0.0,1.0,0.0,1.0,Black or African American,Not Hispanic or Latino,1.0,Simple Assault,1.0,School/College,Anti-White,Other,S,S
+2004,Suburban,NV,Nevada,2004-06-15,1.0,0.0,1.0,0.0,1.0,White,Not Hispanic or Latino,1.0,Intimidation,1.0,Park or Playground,Anti-Arab,Other,S,S
+2004,City,AZ,Arizona,2004-06-16,0.0,0.0,1.0,0.0,1.0,White,Not Hispanic or Latino,1.0,Vandalism,1.0,Business,Anti-Indian/Alaskan Native,Other,S,S
+2004,City,NM,New Mexico,2004-06-17,1.0,0.0,1.0,1.0,0.0,White,Not Hispanic or Latino,1.0,Destruction/Damage/Vandalism of Property,1.0,Residence,"Anti-Gay, Lesbian, Bisexual or Transgender",Other,S,S
+2004,Suburban,HI,Hawaii,2004-06-18,0.0,0.0,1.0,0.0,1.0,White,Not Hispanic or Latino,1.0,Simple Assault,1.0,School/College,Anti-Asian,Other,S,S
+2004,City,OR,Oregon,2004-06-19,1.0,0.0,1.0,0.0,1.0,Black or African American,Not Hispanic or Latino,1.0,Intimidation,1.0,Park or Playground,Anti-White,Other,S,S
+2004,City,AK,Alaska,2004-06-20,0.0,0.0,1.0,0.0,1.0,White,Not Hispanic or Latino,1.0,Vandalism,1.0,Business,Anti-Hispanic or Latino,Other,S,S
+2004,Suburban,VT,Vermont,2004-06-21,1.0,0.0,1.0,1.0,0.0,White,Not Hispanic or Latino,1.0,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-Arab,Other,S,S
+2004,City,NH,New Hampshire,2004-06-22,0.0,0.0,1.0,0.0,1.0,Black or African American,Not Hispanic or Latino,1.0,Simple Assault,1.0,School/College,Anti-Indian/Alaskan Native,Other,S,S
+2004,City,ME,Maine,2004-06-23,1.0,0.0,1.0,0.0,1.0,White,Not Hispanic or Latino,1.0,Intimidation,1.0,Park or Playground,"Anti-Gay, Lesbian, Bisexual or Transgender",Other,S,S
+2004,Suburban,RI,Rhode Island,2004-06-24,0.0,0.0,1.0,0.0,1.0,White,Not Hispanic or Latino,1.0,Vandalism,1.0,Business,Anti-Asian,Other,S,S
+2004,City,CT,Connecticut,2004-06-25,1.0,0.0,1.0,1.0,0.0,White,Not Hispanic or Latino,1.0,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-Hispanic or Latino,Other,S,S
+2004,City,MA,Massachusetts,2004-06-26,0.0,0.0,1.0,0.0,1.0,Black or African American,Not Hispanic or Latino,1.0,Simple Assault,1.0,School/College,Anti-White,Other,S,S
+2004,Suburban,VT,Vermont,2004-06-27,1.0,0.0,1.0,0.0,1.0,White,Not Hispanic or Latino,1.0,Intimidation,1.0,Park or Playground,Anti-Arab,Other,S,S
+2004,City,NH,New Hampshire,2004-06-28,0.0,0.0,1.0,0.0,1.0,White,Not Hispanic or Latino,1.0,Vandalism,1.0,Business,Anti-Indian/Alaskan Native,Other,S,S
+2004,City,ME,Maine,2004-06-29,1.0,0.0,1.0,1.0,0.0,White,Not Hispanic or Latino,1.0,Destruction/Damage/Vandalism of Property,1.0,Residence,"Anti-Gay, Lesbian, Bisexual or Transgender",Other,S,S
+2004,Suburban,RI,Rhode Island,2004-06-30,0.0,0.0,1.0,0.0,1.0,White,Not Hispanic or Latino,1.0,Simple Assault,1.0,School/College,Anti-Asian,Other,S,S
+"2002,City,CA,California,2002-01-11,1,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residential Area,Hate Crime Against A Person or Property,Anti-Hispanic,Hispanic Male,Unknown,,Y
+2002,County,FL,Florida,2002-02-15,0,0,1,1,0,Unknown,Not Specified,1,Intimidation,1.0,Residential Area,Hate Crime Against A Person or Property,Anti-White,White Female,Unknown,Unknown,Y
+2002,Town,IL,Illinois,2002-03-18,1,0,1,1,0,Black,Not Specified,1,Larceny-Theft,1.0,Commercial Area,Hate Crime Against A Person or Property,Anti-Black or African American,Black Male,Unknown,Y
+2002,City,ME,Maine,2002-04-01,0,0,1,1,0,Unknown,Not Specified,1,Simple Assault,1.0,Residential Area,Anti-Gay,Other Male,Unknown,,Y
+2002,County,NY,New York,2002-04-15,0,0,1,1,0,Unknown,Not Specified,1,Intimidation,1.0,Residential Area,Hate Crime Against A Person or Property,Anti-Hispanic,Hispanic Male,Unknown,Unknown,Y
+2002,Town,NC,North Carolina,2002-05-04,1,0,1,1,0,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Commercial Area,Hate Crime Against A Person or Property,Anti-White,White Female,Unknown,,Y
+2002,City,ND,North Dakota,2002-05-16,0,0,1,1,0,Unknown,Not Specified,1,Simple Assault,1.0,Residential Area,Anti-Gay,Other Male,Unknown,,Y
+2002,County,OH,Ohio,2002-05-19,1,0,1,1,0,Black,Not Specified,1,Aggravated Assault,1.0,Residential Area,Hate Crime Against A Person or Property,Anti-Black or African American,Black Male,Unknown,Unknown,Y
+2002,Town,OK,Oklahoma,2002-05-23,0,0,1,1,0,Unknown,Not Specified,1,Intimidation,1.0,Residential Area,Anti-Hispanic,Hispanic Male,Unknown,Unknown,Y
+2002,City,OR,Oregon,2002-06-03,0,0,1,1,0,Unknown,Not Specified,1,Simple Assault,1.0,Residential Area,Hate Crime Against A Person or Property,Anti-Jewish,Other Male,Unknown,,Y
+2002,County,PA,Pennsylvania,2002-06-05,0,0,1,1,0,Unknown,White,1,Larceny-Theft,1.0,Residential Area,Anti-Homosexual,White Male,Unknown,Unknown,Y
+2002,Town,SC,South Carolina,2002-06-10,0,0,1,1,0,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Commercial Area,Hate Crime Against A Person or Property,Anti-Jewish,White Female,Unknown,,Y
+2002,City,SD,South Dakota,2002-06-13,1,0,1,1,0,Black,Not Specified,1,Aggravated Assault,1.0,Residential Area,Hate Crime Against A Person or Property,Anti-Black or African American,Black Male,Unknown,Unknown,Y
+2002,County,TN,Tennessee,2002-06-16,0,0,1,1,0,Unknown,Not Specified,1,Intimidation,1.0,Residential Area,Anti-Gay,Other Male,Unknown,Unknown,Y
+2002,Town,TX,Texas,2002-06-18,0,0,1,1,0,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Commercial Area,Anti-White,White Female,Unknown,,Y
+2002,City,UT,Utah,2002-06-20,1,0,1,1,0,Unknown,Not Specified,1,Simple Assault,1.0,Residential Area,Hate Crime Against A Person or Property,Anti-Jewish,Other Male,Unknown,,Y
+2002,County,VT,Vermont,2002-06-22,0,0,1,1,0,Unknown,Not Specified,1,Intimidation,1.0,Residential Area,Anti-Homosexual,White Male,Unknown,Unknown,Y
+2002,Town,WI,Wisconsin,2002-06-24,1,0,1,1,0,Black,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Commercial Area,Hate Crime Against A Person or Property,Anti-White,Black Male,Unknown,,Y
+2002,City,WV,West Virginia,2002-06-26,0,0,1,1,0,White,Not Specified,1,Aggravated Assault,1.0,Residential Area,Anti-Jewish,White Female,Unknown,Unknown,Y
+2002,County,WY,Wyoming,2002-06-28,0,0,1,1,0,Unknown,Not Specified,1,Simple Assault,1.0,Residential Area,Anti-Gay,Other Male,Unknown,,Y
+2003,City,MA,Massachusetts,2003-01-09,0,0,1,1,0,Unknown,Not Specified,1,Intimidation,1.0,Residential Area,Anti-Homosexual,White Male,Unknown,Unknown,Y
+2003,County,MI,Michigan,2003-01-15,0,0,1,1,0,Unknown,Not Specified,1,Larceny-Theft,1.0,Residential Area,Anti-Jewish,Other Male,Unknown,,Y
+2003,Town,MN,Minnnesota,2003-01-18,1,0,1,1,0,Black,Not Specified,1,Aggravated Assault,1.0,Residential Area,Hate Crime Against A Person or Property,Anti-Black or African American,Black Male,Unknown,Unknown,Y
+2003,City,MO,Missouri,2003-01-21,1,0,1,1,0,White,Not Specified,1,Simple Assault,1.0,Residential Area,Anti-Jewish,White Female,Unknown,,Y
+2003,County,MT,Montana,2003-01-23,0,0,1,1,0,Unknown,Not Specified,1,Intimidation,1.0,Residential Area,Anti-Gay,Other Male,Unknown,Unknown,Y
+2003,Town,NV,Nevada,2003-01-25,0,0,1,1,0,White,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Commercial Area,Anti-Homosexual,White Male,Unknown,,Y
+2003,City,NM,New Mexico,2003-01-28,1,0,1,1,0,Unknown,Not Specified,1,Aggravated Assault,1.0,Residential Area,Hate Crime Against A Person or Property,Anti-Jewish,Other Male,Unknown,Unknown,Y
+2003,County,NY,New York,2003-02-02,0,0,1,1,0,Unknown,Not Specified,1,Simple Assault,1.0,Residential Area,Anti-Hispanic,Hispanic Male,Unknown,Unknown,Y
+2003,Town,OH,Ohio,2003-02-04,1,0,1,1,0,Black,Not Specified,1,Larceny-Theft,1.0,Commercial Area,Hate Crime Against A Person or Property,Anti-Black or African American,Black Male,Unknown,Unknown,Y
+2003,City,OR,Oregon,2003-02-06,0,0,1,1,0,Unknown,Not Specified,1,Intimidation,1.0,Residential Area,Anti-Jewish,White Male,Unknown,Unknown,Y
+2003,County,PA,Pennsylvania,2003-02-08,1,0,1,1,0,White,Not Specified,1,Aggravated Assault,1.0,Residential Area,Hate Crime Against A Person or Property,Anti-Homosexual,White Female,Unknown,Unknown,Y
+2003,Town,RI,Rhode Island,2003-02-10,0,0,1,1,0,Unknown,Not Specified,1,Simple Assault,1.0,Residential Area,Anti-Gay,Other Male,Unknown,,Y
+2003,City,SD,South Dakota,2003-02-12,0,0,1,1,0,Black,Not Specified,1,Destruction/Damage/Vandalism of Property,1.0,Commercial Area,Hate Crime Against A Person or Property,Anti-Black or African American,Black Male,Unknown,,Y
+2003,County,TN,Tennessee,2003-02-14,1,0,1,1,0,White,Not Specified,1,Intimidation,1.0,Residential Area,Anti-Homosexual,White Male,Unknown,Unknown,Y",,,,,,,,,,,,,,,,,,,
+"2009,State,VT,Vermont,2009-06-17,0,0,1,1,0,White,White,2,Law Enforcement Officer/Victim,2.0,Street,,Anti-Government,Other,M,F
+2009,City,CA,California,2009-09-15,1,0,1,1,0,White,White,2,Vandalism,2.0,Convenience Store,,Anti-White,Other,M,M
+2008,Suburban,GA,Georgia,2008-01-14,0,0,1,1,0,Asian,Asian,1,Intimidation,1.0,School/College,,Anti-Asian,Other,M,M
+2009,Suburban,IL,Illinois,2009-11-08,0,0,2,2,0,Unknown,Unknown,1,Simple Assault,1.0,Street,,Anti-Hispanic,Other,M,M
+2008,State,OH,Ohio,2008-08-09,0,0,1,0,1,Black or African American,Black or African American,1,Robbery,1.0,Street,,Anti-White,Other,M,M
+2009,Suburban,CO,Colorado,2009-04-10,0,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,Street,,Anti-White,Other,M,M
+2008,City,MI,Michigan,2008-06-21,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Street,,Anti-Asian,Other,M,M
+2009,Suburban,FL,Florida,2009-07-16,0,0,1,1,0,White,White,2,Aggravated Assault,2.0,Street,,Anti-White,Other,M,M
+2008,State,WI,Wisconsin,2008-05-18,0,0,1,0,1,Asian,Asian,1,Intimidation,1.0,School/College,,Anti-Hispanic,Other,M,M
+2009,Suburban,NC,North Carolina,2009-03-07,0,0,1,0,1,Black or African American,Black or African American,1,Simple Assault,1.0,Street,,Anti-Asian,Other,M,M
+2008,City,RI,Rhode Island,2008-04-09,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,Street,,Anti-White,Other,M,M
+2009,State,NM,New Mexico,2009-10-14,1,0,1,1,0,White,White,2,Intimidation,2.0,Street,,Anti-White,Other,M,M
+2008,Suburban,TX,Texas,2008-12-16,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Street,,Anti-Asian,Other,M,M
+2009,City,NY,New York,2009-01-10,0,0,1,1,0,Asian,Asian,1,Simple Assault,1.0,Street,,Anti-White,Other,M,M
+2008,Suburban,CT,Connecticut,2008-07-11,0,0,1,0,1,White,White,1,Intimidation,1.0,Street,,Anti-Hispanic,Other,M,M
+2009,Suburban,MA,Massachusetts,2009-05-19,0,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Vandalism,1.0,Street,,Anti-Asian,Other,M,M
+2008,State,ND,North Dakota,2008-09-02,1,0,1,0,1,White,White,1,Simple Assault,1.0,Street,,Anti-White,Other,M,M
+2009,City,CA,California,2009-06-04,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Street,,Anti-Asian,Other,M,M
+2008,Suburban,IN,Indiana,2008-11-09,0,0,1,1,0,Asian,Asian,1,Simple Assault,1.0,Street,,Anti-White,Other,M,M
+2009,State,ME,Maine,2009-03-28,0,0,1,0,1,White,White,1,Simple Assault,1.0,Street,,Anti-Asian,Other,M,M
+2008,City,LA,California,2008-08-16,0,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,Street,,Anti-White,Other,M,M
+2009,Suburban,VA,Virginia,2009-08-10,0,0,1,0,1,Asian,Asian,1,Intimidation,1.0,Street,,Anti-Hispanic,Other,M,M
+2008,State,MN,Montana,2008-05-07,0,0,1,0,1,White,White,1,Simple Assault,1.0,Street,,Anti-Asian,Other,M,M
+2009,City,MA,Massachusetts,2009-10-25,1,0,1,1,0,Asian,Asian,2,Aggravated Assault,2.0,Street,,Anti-White,Other,M,M
+2008,Suburban,SD,South Dakota,2008-02-20,0,0,1,0,1,Asian,Asian,1,Robbery,1.0,Street,,Anti-White,Other,M,M
+2009,State,AZ,Arizona,2009-01-15,0,0,1,0,1,White,White,1,Simple Assault,1.0,Street,,Anti-Asian,Other,M,M
+2008,City,OH,Ohio,2008-09-05,0,0,1,1,0,Unknown,Unknown,1,Simple Assault,1.0,Street,,Anti-Hispanic,Other,M,M
+2009,Suburban,GA,Georgia,2009-02-14,1,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,1.0,Street,,Anti-Asian,Other,M,M
+2008,State,MI,Michigan,2008-07-27,0,0,1,1,0,White,White,1,Intimidation,1.0,Street,,Anti-Asian,Other,M,M
+2009,State,IA,Iowa,2009-11-20,0,0,1,1,0,Asian,Asian,1,Simple Assault,1.0,Street,,Anti-Asian,Other,M,M
+2008,City,WA,Washington,2008-10-25,0,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,Street,,Anti-White,Other,M,M
+2009,Suburban,OK,Okahoma,2009-09-21,0,0,1,0,1,Black or African American,Black or African American,1,Simple Assault,1.0,Street,,Anti-Asian,Other,M,M
+2008,State,MA,Massachusetts,2008-12-23,0,0,1,0,1,White,White,1,Simple Assault,1.0,Street,,Anti-Hispanic,Other,M,M
+2009,City,CA,California,2009-05-31,0,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,Street,,Anti-Asian,Other,M,M",,,,,,,,,,,,,,,,,,,
+2004,City,IL,Illinois,2004-07-02,0.0,0.0,1.0,1.0,0.0,Unknown,Not Specified,1.0,Murder,1.0,Residence,Anti-White,Adult,V,
+2008,Township,CT,Connecticut,2008-12-19,0.0,0.0,1.0,0.0,1.0,White,Not Specified,1.0,Vandalism,1.0,Residence,Anti-Asian,Adult,V,
+2012,City,MA,Massachusetts,2012-06-05,1.0,0.0,1.0,1.0,0.0,Hispanic or Latino,Not Specified,1.0,Intimidation,1.0,Residence,Anti-Hispanic or Latino,Adult,A,
+2001,City,CA,California,2001-09-28,0.0,0.0,1.0,0.0,1.0,Unknown,Not Specified,1.0,Simple Assault,1.0,Residence,Anti-Jewish,Other,V,
+2009,City,NY,New York,2009-02-14,1.0,0.0,1.0,1.0,0.0,White,Not Specified,1.0,Robbery,1.0,Residence,Anti-White,Adult,A,
+2003,Township,GA,Georgia,2003-09-03,0.0,0.0,1.0,0.0,1.0,Asian,Not Specified,1.0,Aggravated Assault,1.0,Residence,Anti-Asian,Adult,V,
+2010,County,OH,Ohio,2010-08-11,1.0,0.0,1.0,0.0,1.0,Hispanic or Latino,Not Specified,1.0,Vandalism,1.0,Residence,Anti-Hispanic or Latino,Adult,A,
+2007,City,FL,Florida,2007-03-01,1.0,0.0,1.0,1.0,0.0,Black or African American,Not Specified,1.0,Simple Assault,1.0,Residence,Anti-Black or African American,Adult,V,
+2002,City,NC,North Carolina,2002-09-24,0.0,0.0,1.0,0.0,1.0,Unknown,Not Specified,1.0,Intimidation,1.0,Residence,Anti-Jewish,Other,V,
+2005,City,MI,Michigan,2005-11-17,0.0,0.0,1.0,0.0,1.0,White,Not Specified,1.0,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-White,Adult,A,
+2011,City,WI,Wisconsin,2011-04-06,0.0,0.0,1.0,0.0,1.0,Hispanic or Latino,Not Specified,1.0,Simple Assault,1.0,Residence,Anti-Hispanic or Latino,Adult,V,
+2006,Township,TX,Texas,2006-11-23,1.0,0.0,1.0,1.0,0.0,Asian,Not Specified,1.0,Robbery,1.0,Residence,Anti-Asian,Adult,A,
+1997,City,PA,Pennsylvania,1997-10-27,0.0,0.0,1.0,0.0,1.0,Unknown,Not Specified,1.0,Murder,1.0,Residence,Anti-White,Adult,V,
+2008,City,OR,Oregon,2008-07-19,0.0,0.0,1.0,0.0,1.0,Hispanic or Latino,Not Specified,1.0,Intimidation,1.0,Residence,Anti-Hispanic or Latino,Adult,A,
+2004,County,SC,South Carolina,2004-01-15,1.0,0.0,1.0,0.0,1.0,Black or African American,Not Specified,1.0,Simple Assault,1.0,Residence,Anti-Black or African American,Adult,V,
+2013,City,IN,Indiana,2013-02-22,0.0,0.0,1.0,0.0,1.0,White,Not Specified,1.0,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-White,Adult,A,
+2009,Township,LA,Louisiana,2009-01-10,0.0,0.0,1.0,0.0,1.0,Asian,Not Specified,1.0,Robbery,1.0,Residence,Anti-Asian,Adult,V,
+2014,City,DE,Delaware,2014-08-21,1.0,0.0,1.0,0.0,1.0,Hispanic or Latino,Not Specified,1.0,Intimidation,1.0,Residence,Anti-Hispanic or Latino,Adult,V,
+2003,City,MO,Missouri,2003-02-05,0.0,0.0,1.0,0.0,1.0,Unknown,Not Specified,1.0,Simple Assault,1.0,Residence,Anti-Jewish,Other,A,
+2006,City,AL,Alabama,2006-11-29,0.0,0.0,1.0,1.0,0.0,Black or African American,Not Specified,1.0,Murder,1.0,Residence,Anti-Black or African American,Adult,V,
+2005,Township,KY,Kentucky,2005-08-13,1.0,0.0,1.0,0.0,1.0,Hispanic or Latino,Not Specified,1.0,Vandalism,1.0,Residence,Anti-Hispanic or Latino,Adult,A,
+2002,City,MS,Mississippi,2002-05-21,0.0,0.0,1.0,1.0,0.0,White,Not Specified,1.0,Simple Assault,1.0,Residence,Anti-White,Adult,V,
+2009,County,VT,Vermont,2009-11-16,0.0,0.0,1.0,0.0,1.0,Asian,Not Specified,1.0,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Asian,Adult,A,
+2012,County,IA,Iowa,2012-02-25,0.0,0.0,1.0,0.0,1.0,Black or African American,Not Specified,1.0,Vandalism,1.0,Residence,Anti-Black or African American,Adult,V,
+2008,City,GA,Georgia,2008-05-01,1.0,0.0,1.0,0.0,1.0,Unknown,Not Specified,1.0,Robbery,1.0,Residence,Anti-Jewish,Other,V,
+2004,County,WI,Wisconsin,2004-05-24,0.0,0.0,1.0,0.0,1.0,Hispanic or Latino,Not Specified,1.0,Intimidation,1.0,Residence,Anti-Hispanic or Latino,Adult,A,
+2005,County,NJ,New Jersey,2005-09-23,1.0,0.0,1.0,0.0,1.0,White,Not Specified,1.0,Murder,1.0,Residence,Anti-White,Adult,V,
+2001,City,CO,Colorado,2001-01-29,0.0,0.0,1.0,0.0,1.0,Asian,Not Specified,1.0,Vandalism,1.0,Residence,Anti-Asian,Adult,A,
+2010,City,MA,Massachusetts,2010-02-03,0.0,0.0,1.0,0.0,1.0,Black or African American,Not Specified,1.0,Simple Assault,1.0,Residence,Anti-Black or African American,Adult,V,
+2007,City,CT,Connecticut,2007-09-04,0.0,0.0,1.0,0.0,1.0,Unknown,Not Specified,1.0,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Jewish,Other,A,
+2004,City,OH,Ohio,2004-10-26,0.0,0.0,1.0,0.0,1.0,Hispanic or Latino,Not Specified,1.0,Robbery,1.0,Residence,Anti-Hispanic or Latino,Adult,V,
+2009,City,IA,Iowa,2009-09-18,1.0,0.0,1.0,0.0,1.0,White,Not Specified,1.0,Murder,1.0,Residence,Anti-White,Adult,V,
+2006,County,AK,Alaska,2006-04-22,0.0,0.0,1.0,0.0,1.0,Black or African American,Not Specified,1.0,Vandalism,1.0,Residence,Anti-Black or African American,Adult,A,
+2005,County,ND,North Dakota,2005-01-11,0.0,0.0,1.0,0.0,1.0,Asian,Not Specified,1.0,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Asian,Adult,A,
+2001,City,ME,Maine,2001-03-06,1.0,0.0,1.0,0.0,1.0,Hispanic or Latino,Not Specified,1.0,Simple Assault,1.0,Residence,Anti-Hispanic or Latino,Adult,V,
+2008,City,IN,Indiana,2008-03-28,0.0,0.0,1.0,1.0,0.0,White,Not Specified,1.0,Robbery,1.0,Residence,Anti-White,Adult,V,
+2011,City,MT,Montana,2011-07-27,0.0,0.0,1.0,0.0,1.0,Asian,Not Specified,1.0,Intimidation,1.0,Residence,Anti-Asian,Adult,V,
+2009,City,NY,New York,2009-09-25,1.0,0.0,1.0,0.0,1.0,Hispanic or Latino,Not Specified,1.0,Vandalism,1.0,Residence,Anti-Hispanic or Latino,Adult,A,
+2013,City,VT,Vermont,2013-09-04,0.0,0.0,1.0,0.0,1.0,Black or African American,Not Specified,1.0,Murder,1.0,Residence,Anti-Black or African American,Adult,V,
+2009,City,FL,Florida,2009-10-31,0.0,0.0,1.0,1.0,0.0,Asian,Asian,1.0,Simple Assault,1.0,Residence/Apartment/Apartment Complex,Anti-Asian,Male Only,S,S
+2009,City,CA,California,2009-11-14,0.0,0.0,2.0,2.0,0.0,White,White,2.0,Intimidation,2.0,Shopping/Commercial Area,Anti-White,Male Only,S,S
+2009,County,TX,Texas,2009-12-05,0.0,0.0,1.0,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Larceny/Theft,1.0,Residence/Apartment/Apartment Complex,Anti-Hispanic or Latino,Male Only,S,S
+2009,City,IL,Illinois,2009-12-08,1.0,0.0,1.0,1.0,0.0,Unknown,Unknown,1.0,Vandalism,1.0,Business/Commercial Area,Anti-Jewish,Male Only,S,S
+2009,County,NY,New York,2009-12-09,0.0,0.0,1.0,1.0,0.0,White,White,1.0,Simple Assault,1.0,Residence/Apartment/Apartment Complex,Anti-White,Male Only,S,S
+2010,City,OH,Ohio,2010-01-07,0.0,0.0,1.0,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Intimidation,1.0,Residence/Apartment/Apartment Complex,Anti-Hispanic or Latino,Other,S,S
+2010,City,TX,Texas,2010-01-17,0.0,0.0,2.0,2.0,0.0,Asian,Asian,2.0,Simple Assault,2.0,Residence/Apartment/Apartment Complex,Anti-Asian,Female Only,S,S
+2010,City,FL,Florida,2010-01-20,0.0,0.0,1.0,1.0,0.0,White,White,1.0,Vandalism,1.0,Residence/Apartment/Apartment Complex,Anti-White,Other,S,S
+2010,City,CA,California,2010-01-25,0.0,0.0,1.0,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Larceny/Theft,1.0,Residence/Apartment/Apartment Complex,Anti-Hispanic or Latino,Male Only,S,S
+2010,County,NY,New York,2010-02-01,0.0,0.0,1.0,1.0,0.0,Asian,Asian,1.0,Intimidation,1.0,Residence/Apartment/Apartment Complex,Anti-Asian,Male Only,S,S
+2010,City,NJ,New Jersey,2010-02-05,0.0,0.0,1.0,1.0,0.0,White,White,1.0,Simple Assault,1.0,Residence/Apartment/Apartment Complex,Anti-White,Other,S,S
+2010,City,IL,Illinois,2010-02-10,0.0,0.0,2.0,2.0,0.0,Hispanic or Latino,Hispanic or Latino,2.0,Vandalism,2.0,Shopping/Commercial Area,Anti-Hispanic or Latino,Male Only,S,S
+2010,City,TX,Texas,2010-02-14,0.0,0.0,1.0,1.0,0.0,White,White,1.0,Larceny/Theft,1.0,Business/Commercial Area,Anti-White,Other,S,S
+2010,County,FL,Florida,2010-02-18,0.0,0.0,1.0,1.0,0.0,Unknown,Unknown,1.0,Intimidation,1.0,Residence/Apartment/Apartment Complex,Anti-Jewish,Male Only,S,S
+2010,City,CA,California,2010-02-20,0.0,0.0,2.0,2.0,0.0,Asian,Asian,2.0,Vandalism,2.0,Shopping/Commercial Area,Anti-Asian,Female Only,S,S
+2010,County,TX,Texas,2010-02-25,0.0,0.0,1.0,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Larceny/Theft,1.0,Residence/Apartment/Apartment Complex,Anti-Hispanic or Latino,Other,S,S
+2010,City,NJ,New Jersey,2010-03-01,0.0,0.0,1.0,1.0,0.0,White,White,1.0,Simple Assault,1.0,Residence/Apartment/Apartment Complex,Anti-White,Female Only,S,S
+2010,City,IL,Illinois,2010-03-03,0.0,0.0,1.0,1.0,0.0,Asian,Asian,1.0,Intimidation,1.0,Residence/Apartment/Apartment Complex,Anti-Asian,Male Only,S,S
+2010,City,OH,Ohio,2010-03-04,0.0,0.0,2.0,2.0,0.0,Hispanic or Latino,Hispanic or Latino,2.0,Vandalism,2.0,Shopping/Commercial Area,Anti-Hispanic or Latino,Female Only,S,S
+2010,County,NY,New York,2010-03-05,0.0,0.0,1.0,1.0,0.0,Unknown,Unknown,1.0,Larceny/Theft,1.0,Residence/Apartment/Apartment Complex,Anti-Jewish,Other,S,S
+2010,City,FL,Florida,2010-03-09,0.0,0.0,1.0,1.0,0.0,White,White,1.0,Simple Assault,1.0,Residence/Apartment/Apartment Complex,Anti-White,Male Only,S,S
+2010,City,TX,Texas,2010-03-11,0.0,0.0,2.0,2.0,0.0,Asian,Asian,2.0,Vandalism,2.0,Shopping/Commercial Area,Anti-Asian,Female Only,S,S
+2010,City,CA,California,2010-03-12,0.0,0.0,1.0,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Intimidation,1.0,Residence/Apartment/Apartment Complex,Anti-Hispanic or Latino,Other,S,S
+2010,County,NJ,New Jersey,2010-03-13,0.0,0.0,1.0,1.0,0.0,White,White,1.0,Larceny/Theft,1.0,Residence/Apartment/Apartment Complex,Anti-White,Male Only,S,S
+2010,City,IL,Illinois,2010-03-16,0.0,0.0,1.0,1.0,0.0,Unknown,Unknown,1.0,Vandalism,1.0,Residence/Apartment/Apartment Complex,Anti-Jewish,Female Only,S,S
+2010,City,OH,Ohio,2010-03-17,0.0,0.0,2.0,2.0,0.0,Asian,Asian,2.0,Simple Assault,2.0,Shopping/Commercial Area,Anti-Asian,Male Only,S,S
+2010,County,TX,Texas,2010-03-18,0.0,0.0,1.0,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Intimidation,1.0,Residence/Apartment/Apartment Complex,Anti-Hispanic or Latino,Other,S,S
+2010,City,CA,California,2010-03-22,0.0,0.0,1.0,1.0,0.0,White,White,1.0,Larceny/Theft,1.0,Residence/Apartment/Apartment Complex,Anti-White,Female Only,S,S
+2010,City,FL,Florida,2010-03-24,0.0,0.0,1.0,1.0,0.0,Unknown,Unknown,1.0,Simple Assault,1.0,Residence/Apartment/Apartment Complex,Anti-Jewish,Male Only,S,S
+2010,County,NY,New York,2010-03-25,0.0,0.0,2.0,2.0,0.0,Asian,Asian,2.0,Vandalism,2.0,Shopping/Commercial Area,Anti-Asian,Female Only,S,S
+2010,City,TX,Texas,2010-03-28,0.0,0.0,1.0,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Intimidation,1.0,Residence/Apartment/Apartment Complex,Anti-Hispanic or Latino,Male Only,S,S
+2010,City,IL,Illinois,2010-03-31,0.0,0.0,1.0,1.0,0.0,White,White,1.0,Larceny/Theft,1.0,Residence/Apartment/Apartment Complex,Anti-White,Other,S,S
+2011,City,FL,Florida,2011-01-01,0.0,0.0,2.0,2.0,0.0,Asian,Asian,2.0,Simple Assault,2.0,Shopping/Commercial Area,Anti-Asian,Female Only,S,S
+2011,City,CA,California,2011-01-02,0.0,0.0,1.0,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Vandalism,1.0,Residence/Apartment/Apartment Complex,Anti-Hispanic or Latino,Male Only,S,S
+2011,County,TX,Texas,2011-01-03,0.0,0.0,1.0,1.0,0.0,White,White,1.0,Intimidation,1.0,Residence/Apartment/Apartment Complex,Anti-White,Other,S,S
+2011,City,NJ,New Jersey,2011-01-04,0.0,0.0,2.0,2.0,0.0,Asian,Asian,2.0,Larceny/Theft,2.0,Shopping/Commercial Area,Anti-Asian,Male Only,S,S
+2011,City,IL,Illinois,2011-01-05,0.0,0.0,1.0,1.0,0.0,Unknown,Unknown,1.0,Simple Assault,1.0,Residence/Apartment/Apartment Complex,Anti-Jewish,Female Only,S,S
+2011,County,NY,New York,2011-01-07,0.0,0.0,1.0,1.0,0.0,White,White,1.0,Vandalism,1.0,Residence/Apartment/Apartment Complex,Anti-White,Male Only,S,S
+2011,City,OH,Ohio,2011-01-10,0.0,0.0,2.0,2.0,0.0,Hispanic or Latino,Hispanic or Latino,2.0,Intimidation,2.0,Shopping/Commercial Area,Anti-Hispanic or Latino,Male Only,S,S
+2011,County,FL,Florida,2011-01-12,0.0,0.0,1.0,1.0,0.0,Asian,Asian,1.0,Larceny/Theft,1.0,Residence/Apartment/Apartment Complex,Anti-Asian,Other,S,S
+2011,City,CA,California,2011-01-13,0.0,0.0,1.0,1.0,0.0,White,White,1.0,Vandalism,1.0,Residence/Apartment/Apartment Complex,Anti-White,Female Only,S,S
+2011,City,TX,Texas,2011-01-14,0.0,0.0,2.0,2.0,0.0,Unknown,Unknown,2.0,Simple Assault,2.0,Shopping/Commercial Area,Anti-Jewish,Male Only,S,S
+2011,County,NJ,New Jersey,2011-01-15,0.0,0.0,1.0,1.0,0.0,Hispanic or Latino,Hispanic or Latino,1.0,Intimidation,1.0,Residence/Apartment/Apartment Complex,Anti-Hispanic or Latino,Other,S,S
+2011,City,IL,Illinois,2011-01-17,0.0,0.0,1.0,1.0,0.0,Asian,Asian,1.0,Larceny/Theft,1.0,Residence/Apartment/Apartment Complex,Anti-Asian,Male Only,S,S
+"2004,City,MI,Michigan,2004-09-01,1,0,1,1,0,White,White,1,Hate Crime,0.0,Library,Anti-Hispanic or Latino,Adult,Multiple
+2004,Metropolitan,OH,Ohio,2004-07-15,1,0,1,1,0,Unknown,Not Specified,1,Larceny-theft,0.0,Residence,Anti-Jewish,Adult,S
+2004,State,ME,Maine,2004-08-19,0,0,1,1,0,White,Unknown,1,Simple Assault,0.0,Residence,Anti-American Indian or Alaska Native,Other,S
+2004,State,CA,California,2004-03-11,1,0,1,1,0,Asian or Pacific Islander,Asian or Pacific Islander,1,Intimidation,0.0,School/College,Anti-White,Adult,Multiple
+2004,Metropolitan,FL,Florida,2004-02-05,1,0,1,1,0,Unknown,Not Specified,1,Vandalism,0.0,Residence,Anti-LGBTQ+,Other,S
+2004,City,IL,Illinois,2004-05-18,0,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,0.0,Residence,Anti-Hispanic or Latino,Adult,S
+2004,State,MA,Massachusetts,2004-09-08,1,0,1,1,0,White,Unknown,1,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-White,Adult,S
+2004,Metropolitan,GA,Georgia,2004-06-04,0,0,1,1,0,Unknown,Not Specified,1,Simple Assault,0.0,Residence,Anti-Jewish,Adult,Multiple
+2004,City,NC,North Carolina,2004-11-01,1,0,1,1,0,White,White,1,Intimidation,0.0,Residence,Anti-Hispanic or Latino,Adult,S
+2004,State,CT,Connecticut,2004-12-02,0,0,1,1,0,White,Unknown,1,Simple Assault,0.0,Residence,Anti-Jewish,Adult,S
+2004,Metropolitan,IN,Indiana,2004-04-20,1,0,1,1,0,Asian or Pacific Islander,Asian or Pacific Islander,1,Simple Assault,0.0,Residence,Anti-White,Adult,S
+2004,City,TX,Texas,2004-08-08,0,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,0.0,Residence,Anti-LGBTQ+,Adult,Multiple
+2004,State,VT,Vermont,2004-03-13,1,0,1,1,0,White,Unknown,1,Vandalism,0.0,School/College,Anti-Hispanic or Latino,Other,S
+2004,Metropolitan,SC,South Carolina,2004-01-09,0,0,1,1,0,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-American Indian or Alaska Native,Adult,S
+2004,City,OR,Oregon,2004-07-25,1,0,1,1,0,White,White,1,Intimidation,0.0,Residence,Anti-Jewish,Other,S
+2004,State,NY,NY,2004-10-09,0,0,1,1,0,White,Unknown,1,Simple Assault,0.0,Residence,Anti-Hispanic or Latino,Adult,S
+2004,Metropolitan,WI,Wisconsin,2004-12-12,1,0,1,1,0,Asian or Pacific Islander,Asian or Pacific Islander,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-LGBTQ+,Adult,Multiple
+2004,City,PA,Pennsylvania,2004-11-03,1,0,1,1,0,Black or African American,Black or African American,1,Intimidation,0.0,Residence,Anti-White,Adult,Multiple
+2004,State,RI,Rhode Island,2004-02-26,0,0,1,1,0,White,Unknown,1,Simple Assault,0.0,Residence,Anti-Hispanic or Latino,Adult,S
+2004,Metropolitan,AK,Alaska,2004-05-29,1,0,1,1,0,Unknown,Not Specified,1,Vandalism,0.0,Residence,Anti-Asian or Pacific Islander,Adult,S
+2004,City,DE,Delaware,2004-09-14,0,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,0.0,Residence,Anti-Jewish,Adult,Multiple
+2004,State,WV,West Virginia,2004-07-31,1,0,1,1,0,White,Unknown,1,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-Hispanic or Latino,Adult,S
+2004,Metropolitan,NE,Nebraska,2004-03-21,0,0,1,1,0,Unknown,Not Specified,1,Simple Assault,0.0,Residence,Anti-American Indian or Alaska Native,Adult,Multiple
+2004,City,MO,Missouri,2004-01-15,1,0,1,1,0,Asian or Pacific Islander,Asian or Pacific Islander,1,Intimidation,0.0,Residence,Anti-LGBTQ+,Other,S
+2004,State,HI,Hawaii,2004-11-04,0,0,1,1,0,White,Unknown,1,Simple Assault,0.0,Residence,Anti-Asian or Pacific Islander,Adult,Multiple
+2004,Metropolitan,MT,Montana,2004-08-02,1,0,1,1,0,Black or African American,Black or African American,1,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-Jewish,Other,S
+2004,City,CO,Colorado,2004-06-22,0,0,1,1,0,Unknown,Not Specified,1,Vandalism,0.0,Residence,Anti-Hispanic or Latino,Adult,S
+2004,State,ND,North Dakota,2004-05-06,1,0,1,1,0,White,Unknown,1,Simple Assault,0.0,Residence,Anti-LGBTQ+,Adult,S
+2004,Metropolitan,SD,South Dakota,2004-03-28,0,0,1,1,0,Asian or Pacific Islander,Asian or Pacific Islander,1,Intimidation,0.0,Residence,Anti-Asian or Pacific Islander,Adult,S
+2004,City,KS,Kansas,2004-09-16,1,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,0.0,Residence,Anti-Hispanic or Latino,Other,S
+2004,State,IA,Iowa,2004-10-08,0,0,1,1,0,White,Unknown,1,Simple Assault,0.0,Residence,Anti-Asian or Pacific Islander,Adult,S
+2004,Metropolitan,UT,Utah,2004-02-11,1,0,1,1,0,Unknown,Not Specified,1,Vandalism,0.0,Residence,Anti-LGBTQ+,Adult,Multiple
+2004,City,WY,Wyoming,2004-06-20,0,0,1,1,0,Asian or Pacific Islander,Asian or Pacific Islander,1,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-Hispanic or Latino,Adult,S
+2004,State,OK,Oklaoma,2004-04-15,1,0,1,1,0,White,Unknown,1,Simple Assault,0.0,Residence,Anti-American Indian or Alaska Native,Adult,S
+2004,Metropolitan,NC,North Carolina,2004-01-13,1,0,1,1,0,Black or African American,Black or African American,1,Vandalism,0.0,School/College,Anti-Jewish,Adult,Multiple
+2004,City,ID,Idaho,2004-10-14,0,0,1,1,0,Unknown,Not Specified,1,Simple Assault,0.0,Residence,Anti-LGBTQ+,Other,S
+2004,State,AR,Arkansas,2004-07-18,1,0,1,1,0,White,Unknown,1,Destruction/Damage/Vandalism of Property,0.0,Residence,Anti-Asian or Pacific Islander,Adult,Multiple
+2004,Metropolitan,LA,Louisiana,2004-03-09,0,0,1,1,0,Asian or Pacific Islander,Asian or Pacific Islander,1,Intimidation,0.0,Residence,Anti-Hispanic or Latino,Adult,S
+2004,City,MS,Mississippi,2004-11-19,1,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,0.0,Residence,Anti-LGBTQ+,Other,S
+2004,State,KY,Kentucky,2004-09-22,0,0,1,1,0,White,Unknown,1,Simple Assault,0.0,Residence,Anti-Jewish,Adult,S
+2004,Metropolitan,AL,Alabama,2004-05-07,1,0,1,1,0,Unknown,Not Specified,1,Vandalism,0.0,Residence,Anti-Hispanic or Latino,Adult,Multiple",,,,,,,,,,,,,,,,,,,
+"2004,City,NJ,New Jersey,2004-01-05,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-Hispanic,Adult,M,M
+2004,City,NJ,New Jersey,2004-02-17,0,0,1,0,1,Unknown,Black,1,Intimidation,1.0,Residence,Anti-White,Other,M,M
+2004,City,NJ,New Jersey,2004-03-25,1,0,2,2,0,Asian,Asian,2,Larceny-Theft,2.0,Residence,Anti-Asian,Adult,S,M
+2004,City,NJ,New Jersey,2004-04-11,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2004,City,NJ,New Jersey,2004-05-13,0,0,0,0,0,Unknown,Not Specified,1,Destruction/Damage/Vandalism of Property,0.0,School/College,Anti-Black or African American,Other,S,S
+2004,City,NJ,New Jersey,2004-06-20,1,0,2,2,0,Black,Black,2,Aggravated Assault,2.0,Residence,Anti-Black or African American,Adult,M,M
+2004,City,NJ,New Jersey,2004-07-01,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2004,City,NJ,New Jersey,2004-08-15,1,0,2,1,1,Asian,Asian,2,Robbery,2.0,Residence,Anti-Asian,Adult,M,M
+2004,City,NJ,New Jersey,2004-09-22,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2004,City,NJ,New Jersey,2004-10-05,1,0,2,2,0,Black,Black,2,Larceny-Theft,2.0,Residence,Anti-Black or African American,Adult,M,M
+2004,City,NJ,New Jersey,2004-11-17,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2004,City,NJ,New Jersey,2004-12-20,1,0,2,2,0,Asian,Asian,2,Aggravated Assault,2.0,Residence,Anti-Asian,Adult,M,M
+2005,City,NJ,New Jersey,2005-01-03,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2005,City,NJ,New Jersey,2005-02-14,1,0,2,2,0,Black,Black,2,Robbery,2.0,Residence,Anti-Black or African American,Adult,M,M
+2005,City,NJ,New Jersey,2005-03-24,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2005,City,NJ,New Jersey,2005-04-08,1,0,2,2,0,Asian,Asian,2,Larceny-Theft,2.0,Residence,Anti-Asian,Adult,S,M
+2005,City,NJ,New Jersey,2005-05-12,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2005,City,NJ,New Jersey,2005-06-19,1,0,2,2,0,Black,Black,2,Aggravated Assault,2.0,Residence,Anti-Black or African American,Adult,M,M
+2005,City,NJ,New Jersey,2005-07-02,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2005,City,NJ,New Jersey,2005-08-14,1,0,2,2,0,Asian,Asian,2,Robbery,2.0,Residence,Anti-Asian,Adult,M,M
+2005,City,NJ,New Jersey,2005-09-21,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2005,City,NJ,New Jersey,2005-10-05,1,0,2,2,0,Black,Black,2,Larceny-Theft,2.0,Residence,Anti-Black or African American,Adult,M,M
+2005,City,NJ,New Jersey,2005-11-16,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2005,City,NJ,New Jersey,2005-12-19,1,0,2,2,0,Asian,Asian,2,Aggravated Assault,2.0,Residence,Anti-Asian,Adult,M,M
+2006,City,NJ,New Jersey,2006-01-04,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2006,City,NJ,New Jersey,2006-02-13,1,0,2,2,0,Black,Black,2,Robbery,2.0,Residence,Anti-Black or African American,Adult,M,M
+2006,City,NJ,New Jersey,2006-03-23,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2006,City,NJ,New Jersey,2006-04-07,1,0,2,2,0,Asian,Asian,2,Larceny-Theft,2.0,Residence,Anti-Asian,Adult,S,M
+2006,City,NJ,New Jersey,2006-05-11,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2006,City,NJ,New Jersey,2006-06-18,1,0,2,2,0,Black,Black,2,Aggravated Assault,2.0,Residence,Anti-Black or African American,Adult,M,M
+2006,City,NJ,New Jersey,2006-07-01,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2006,City,NJ,New Jersey,2006-08-13,1,0,2,2,0,Asian,Asian,2,Robbery,2.0,Residence,Anti-Asian,Adult,M,M
+2006,City,NJ,New Jersey,2006-09-20,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2006,City,NJ,New Jersey,2006-10-04,1,0,2,2,0,Black,Black,2,Larceny-Theft,2.0,Residence,Anti-Black or African American,Adult,M,M
+2006,City,NJ,New Jersey,2006-11-15,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2006,City,NJ,New Jersey,2006-12-18,1,0,2,2,0,Asian,Asian,2,Aggravated Assault,2.0,Residence,Anti-Asian,Adult,M,M
+2007,City,NJ,New Jersey,2007-01-03,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2007,City,NJ,New Jersey,2007-02-12,1,0,2,2,0,Black,Black,2,Robbery,2.0,Residence,Anti-Black or African American,Adult,M,M
+2007,City,NJ,New Jersey,2007-03-22,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2007,City,NJ,New Jersey,2007-04-06,1,0,2,2,0,Asian,Asian,2,Larceny-Theft,2.0,Residence,Anti-Asian,Adult,S,M
+2007,City,NJ,New Jersey,2007-05-10,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2007,City,NJ,New Jersey,2007-06-17,1,0,2,2,0,Black,Black,2,Aggravated Assault,2.0,Residence,Anti-Black or African American,Adult,M,M
+2007,City,NJ,New Jersey,2007-07-01,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2007,City,NJ,New Jersey,2007-08-12,1,0,2,2,0,Asian,Asian,2,Robbery,2.0,Residence,Anti-Asian,Adult,M,M
+2007,City,NJ,New Jersey,2007-09-19,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2007,City,NJ,New Jersey,2007-10-03,1,0,2,2,0,Black,Black,2,Larceny-Theft,2.0,Residence,Anti-Black or African American,Adult,M,M
+2007,City,NJ,New Jersey,2007-11-14,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2007,City,NJ,New Jersey,2007-12-17,1,0,2,2,0,Asian,Asian,2,Aggravated Assault,2.0,Residence,Anti-Asian,Adult,M,M
+2008,City,NJ,New Jersey,2008-01-02,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2008,City,NJ,New Jersey,2008-02-11,1,0,2,2,0,Black,Black,2,Robbery,2.0,Residence,Anti-Black or African American,Adult,M,M
+2008,City,NJ,New Jersey,2008-03-21,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2008,City,NJ,New Jersey,2008-04-05,1,0,2,2,0,Asian,Asian,2,Larceny-Theft,2.0,Residence,Anti-Asian,Adult,S,M
+2008,City,NJ,New Jersey,2008-05-09,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2008,City,NJ,New Jersey,2008-06-16,1,0,2,2,0,Black,Black,2,Aggravated Assault,2.0,Residence,Anti-Black or African American,Adult,M,M
+2008,City,NJ,New Jersey,2008-07-01,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2008,City,NJ,New Jersey,2008-08-11,1,0,2,2,0,Asian,Asian,2,Robbery,2.0,Residence,Anti-Asian,Adult,M,M
+2008,City,NJ,New Jersey,2008-09-18,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2008,City,NJ,New Jersey,2008-10-02,1,0,2,2,0,Black,Black,2,Larceny-Theft,2.0,Residence,Anti-Black or African American,Adult,M,M
+2008,City,NJ,New Jersey,2008-11-13,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2008,City,NJ,New Jersey,2008-12-15,1,0,2,2,0,Asian,Asian,2,Aggravated Assault,2.0,Residence,Anti-Asian,Adult,M,M
+2009,City,NJ,New Jersey,2009-01-01,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2009,City,NJ,New Jersey,2009-02-10,1,0,2,2,0,Black,Black,2,Robbery,2.0,Residence,Anti-Black or African American,Adult,M,M
+2009,City,NJ,New Jersey,2009-03-20,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2009,City,NJ,New Jersey,2009-04-04,1,0,2,2,0,Asian,Asian,2,Larceny-Theft,2.0,Residence,Anti-Asian,Adult,S,M
+2009,City,NJ,New Jersey,2009-05-08,0,0,1,1,0,White,Hispanic,1,Simple Assault,1.0,Residence,Anti-White,Adult,M,M
+2009,City,NJ,New Jersey,2009-06-15,1,0,2,2,0,Black,Black,2,Aggravated Assault,2.0,Residence,Anti-Black or African American,Adult,M,M",,,,,,,,,,,,,,,,,,,
+"2004,Suburban,NY,New York,2003-11-21,1,0,2,1,1,White,White,1,Simple Assault,1.0,Residential Home,Anti-Sexual Orientation,Male,Other,Y
+2004,State,NV,Nevada,2004-12-25,1,0,3,1,2,White,Hispanic,2,Intimidation,2.0,Commercial Building,Anti-Hispanic or Latino,Other,Y
+2004,Suburban,NC,North Carolina,2003-09-16,1,0,1,1,0,Black or African American,Black or African American,1,Vandalism,1.0,Stadium or Arena,Anti-White,Other,Y
+2004,State,ND,North Dakota,2004-08-03,0,1,1,0,1,Unknown,Unknown,1,Simple Assault,1.0,Residential Home,Anti-Homosexual or Gay-Lesbian,Other,Y
+2004,Suburban,MD,Maryland,2003-02-25,2,0,1,2,0,White,White,1,Aggravated Assault,2.0,Highway or Road,Unknown,Unknown,Y
+2004,State,MI,Michigan,2004-09-04,1,0,1,1,0,Asian or Pacific Islander,Asian or Pacific Islander,1,Simple Assault,1.0,Residential Home,Anti-Hate Crime Motive Unknown,Other,Y
+2004,Suburban,CA,California,2003-10-14,0,1,2,0,2,Unknown,Unknown,1,Simple Assault,1.0,Commercial Building,Anti-White,Other,Y
+2004,State,CO,Colorado,2004-06-10,0,1,1,0,1,Black or African American,Black or African American,1,Simple Assault,1.0,School/College,Anti-Asian or Pacific Islander,Other,Y
+2004,Suburban,NJ,New Jersey,2003-03-29,1,0,1,1,0,White,White,1,Vandalism,1.0,Residential Home,Anti-Sexual Orientation,Other,Y
+2004,State,IN,Indiana,2004-03-10,1,0,1,1,0,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Commercial Building,Anti-Homosexual or Gay-Lesbian,Other,Y
+2004,Suburban,FL,Florida,2004-10-27,0,1,1,0,1,Unknown,Unknown,1,Simple Assault,1.0,Highway or Road,Anti-White,Other,Y
+2004,State,IL,Illinois,2004-08-20,1,0,1,1,0,Asian or Pacific Islander,Asian or Pacific Islander,1,Vandalism,1.0,Residential Home,Anti-Black or African American,Other,Y
+2004,Suburban,OH,Ohio,2003-12-29,0,1,1,0,1,Unknown,Unknown,1,Simple Assault,1.0,Commercial Building,Anti-Homosexual or Gay-Lesbian,Other,Y
+2004,State,ME,Maine,2004-02-14,1,0,1,1,0,White,White,1,Simple Assault,1.0,Residential Home,Anti-Homosexual or Gay-Lesbian,Other,Y
+2004,Suburban,GA,Georgia,2003-04-24,1,0,1,1,0,Asian or Pacific Islander,Asian or Pacific Islander,1,Simple Assault,1.0,Commercial Building,Anti-Black or African American,Other,Y
+2004,State,NE,Nebraska,2004-05-25,1,0,1,1,0,White,White,1,Vandalism,1.0,Residential Home,Anti-Asian or Pacific Islander,Other,Y
+2004,Suburban,UT,Utah,2003-01-12,1,0,1,1,0,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Highway or Road,Anti-Hispanic or Latino,Other,Y
+2004,State,OK,Oklaoma,2004-07-12,0,1,1,0,1,Unknown,Unknown,1,Simple Assault,1.0,School/College,Anti-Black or African American,Other,Y
+2004,Suburban,WI,Wisconsin,2003-08-23,0,1,1,0,1,Black or African American,Black or African American,1,Simple Assault,1.0,Commercial Building,Anti-White,Other,Y
+2004,State,KS,Kansas,2004-01-21,1,0,1,1,0,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Residential Home,Anti-Hispanic or Latino,Other,Y
+2004,Suburban,SC,South Carolina,2003-11-04,1,0,1,1,0,Asian or Pacific Islander,Asian or Pacific Islander,1,Vandalism,1.0,Highway or Road,Anti-White,Other,Y
+2004,State,IA,Iowa,2004-09-16,0,1,1,0,1,Unknown,Unknown,1,Simple Assault,1.0,Commercial Building,Anti-Black or African American,Other,Y
+2004,Suburban,AR,Arkansas,2003-05-30,1,0,1,1,0,White,White,1,Aggravated Assault,1.0,Residential Home,Anti-Hispanic or Latino,Other,Y
+2004,State,LA,Louisiana,2004-03-21,0,1,1,0,1,Black or African American,Black or African American,1,Simple Assault,1.0,School/College,Anti-Asian or Pacific Islander,Other,Y
+2004,Suburban,MO,Missouri,2003-02-09,0,1,1,0,1,Unknown,Unknown,1,Simple Assault,1.0,Commercial Building,Anti-Black or African American,Other,Y
+2004,State,WY,Wyoming,2004-11-01,0,1,1,0,1,Unknown,Unknown,1,Simple Assault,1.0,School/College,Anti-White,Other,Y
+2004,Suburban,TX,Texas,2003-09-14,1,0,1,1,0,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Commercial Building,Anti-Homosexual or Gay-Lesbian,Other,Y
+2004,State,CT,Connecticut,2004-10-15,1,0,1,1,0,White,White,1,Vandalism,1.0,Residential Home,Anti-Black or African American,Other,Y
+2004,Suburban,OR,Oregon,2003-03-31,1,0,1,1,0,Asian or Pacific Islander,Asian or Pacific Islander,1,Simple Assault,1.0,Commercial Building,Anti-Hispanic or Latino,Other,Y
+2004,State,GA,Georgia,2004-07-14,0,1,1,0,1,Unknown,Unknown,1,Simple Assault,1.0,Highway or Road,Anti-White,Other,Y
+2004,Suburban,HI,Hawaii,2003-06-05,1,0,1,1,0,Asian or Pacific Islander,Asian or Pacific Islander,1,Destruction/Damage/Vandalism of Property,1.0,Commercial Building,Anti-Homosexual or Gay-Lesbian,Other,Y
+2004,State,MT,Montana,2004-01-27,1,0,1,1,0,White,White,1,Vandalism,1.0,School/College,Anti-Hispanic or Latino,Other,Y
+2004,Suburban,PA,Pennsylvania,2003-08-26,1,0,1,1,0,Asian or Pacific Islander,Asian or Pacific Islander,1,Simple Assault,1.0,Highway or Road,Anti-Black or African American,Other,Y
+2004,State,VT,Vermont,2004-09-20,0,1,1,0,1,Unknown,Unknown,1,Simple Assault,1.0,Commercial Building,Anti-Hispanic or Latino,Other,Y
+2004,Suburban,WA,Washington,2003-03-16,1,0,1,1,0,White,White,1,Destruction/Damage/Vandalism of Property,1.0,Commercial Building,Anti-Asian or Pacific Islander,Other,Y
+2004,State,ID,Idaho,2004-06-17,1,0,1,1,0,White,White,1,Vandalism,1.0,Residential Home,Anti-Homosexual or Gay-Lesbian,Other,Y
+2004,Suburban,AZ,Arizona,2003-05-25,1,0,1,1,0,Asian or Pacific Islander,Asian or Pacific Islander,1,Simple Assault,1.0,Highway or Road,Anti-Black or African American,Other,Y
+2004,State,NH,New Hampshire,2004-12-22,0,1,1,0,1,Unknown,Unknown,1,Simple Assault,1.0,Commercial Building,Anti-White,Other,Y",,,,,,,,,,,,,,,,,,,
+2004,Local,CA,California,2004-03-02,1.0,0.0,1.0,1.0,0.0,White,Hispanic,1.0,Hate Crime Against Children,1.0,Residence,Anti-Gay or Lesbian,Child,White,White
+2004,Local,FL,Florida,2004-07-21,1.0,0.0,1.0,1.0,0.0,Asian,Other,1.0,Vandalism,1.0,Residence,Anti-Asian,Adult,Asian,Asian
+2004,Local,GA,Georgia,2004-09-15,0.0,1.0,1.0,1.0,0.0,Black or African American,Hispanic,2.0,Simple Assault,2.0,Residence,Anti-Hispanic,Minor,Black or African American,Hispanic
+2004,Local,IA,Iowa,2004-06-28,1.0,0.0,1.0,1.0,0.0,Unknown,Unknown,1.0,Intimidation,1.0,Residence,Anti-White,Adult,Unknown,Unknown
+2004,University,NC,North Carolina,2004-02-03,1.0,0.0,1.0,1.0,0.0,White,Hispanic,1.0,Hate Crime Against Individuals with Disabilities,1.0,Residence,Anti-Hispanic,Adult,White,Hispanic
+2004,State,NY,New York,2004-04-20,0.0,1.0,1.0,1.0,0.0,Black or African American,Black or African American,2.0,Aggravated Assault,2.0,Residence,Anti-Black or African American,Minor,Black or African American,Black or African American
+2004,Local,OH,Ohio,2004-05-26,1.0,0.0,1.0,1.0,0.0,Asian,Asian,1.0,Arson,1.0,Residence,Anti-Asian,Adult,Asian,Asian
+2004,Local,OK, Oklahoma, 2004-11-04,1.0,0.0,1.0,1.0,0.0,White,White,1.0,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-White,Adult,White,White
+2004,University,SC,South Carolina,2004-10-27,1.0,0.0,1.0,1.0,0.0,Black or African American,Black or African American,1.0,Hate Crime Against Children,1.0,Residence,Anti-Black or African American,Minor,Black or African American,Black or African American
+2004,Local,TX,Texas,2004-01-31,1.0,0.0,1.0,1.0,0.0,Hispanic,Hispanic,1.0,Stalking,1.0,Residence,Anti-Hispanic,Adult,Hispanic,Hispanic
+2004,Local,WI,Wisconsin,2004-08-18,0.0,1.0,1.0,1.0,0.0,Unknown,Unknown,2.0,Simple Assault,2.0,Residence,Anti-Unknown,Minor,Unknown,Unknown
+2003,University,MI,Michigan,2003-06-19,1.0,0.0,1.0,1.0,0.0,White,White,1.0,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-White,Adult,White,White
+2003,Local,NC,North Carolina,2003-03-21,1.0,0.0,1.0,1.0,0.0,Hispanic,Hispanic,1.0,Hate Crime Against Individuals with Disabilities,1.0,Residence,Anti-Hispanic,Adult,Hispanic,Hispanic
+2003,Local,OH,Ohio,2003-05-01,1.0,0.0,1.0,1.0,0.0,Unknown,Unknown,1.0,Intimidation,1.0,Residence,Anti-Unknown,Adult,Unknown,Unknown
+2003,State,NY,New York,2003-09-14,0.0,1.0,1.0,1.0,0.0,Black or African American,Black or African American,2.0,Aggravated Assault,2.0,Residence,Anti-Black or African American,Minor,Black or African American,Black or African American
+2003,Local,PA,Pennsylvania,2003-07-22,1.0,0.0,1.0,1.0,0.0,White,White,1.0,Stalking,1.0,Residence,Anti-White,Adult,White,White
+2003,Local,TX,Texas,2003-11-17,1.0,0.0,1.0,1.0,0.0,Black or African American,Black or African American,1.0,Hate Crime Against Children,1.0,Residence,Anti-Black or African American,Minor,Black or African American,Black or African American
+2003,Local,WI,Wisconsin,2003-04-25,0.0,1.0,1.0,1.0,0.0,Asian,Asian,2.0,Simple Assault,2.0,Residence,Anti-Asian,Minor,Asian,Asian
+2002,Local,CA,California,2002-09-23,1.0,0.0,1.0,1.0,0.0,White,White,1.0,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-White,Adult,White,White
+2002,University,FL,Florida,2002-02-02,1.0,0.0,1.0,1.0,0.0,Hispanic,Hispanic,1.0,Hate Crime Against Individuals with Disabilities,1.0,Residence,Anti-Hispanic,Adult,Hispanic,Hispanic
+2002,Local,GA,Georgia,2002-06-15,0.0,1.0,1.0,1.0,0.0,Black or African American,Black or African American,2.0,Aggravated Assault,2.0,Residence,Anti-Black or African American,Minor,Black or African American,Black or African American
+2002,Local,IA,Iowa,2002-03-18,1.0,0.0,1.0,1.0,0.0,Asian,Asian,1.0,Intimidation,1.0,Residence,Anti-Asian,Adult,Asian,Asian
+2002,State,NY,New York,2002-05-06,0.0,1.0,1.0,1.0,0.0,Unknown,Unknown,2.0,Simple Assault,2.0,Residence,Anti-Unknown,Minor,Unknown,Unknown
+2002,Local,OH,Ohio,2002-11-24,1.0,0.0,1.0,1.0,0.0,White,White,1.0,Hate Crime Against Children,1.0,Residence,Anti-White,Adult,White,White
+2002,Local,OK, Oklahoma, 2002-01-23,1.0,0.0,1.0,1.0,0.0,Black or African American,Black or African American,1.0,Stalking,1.0,Residence,Anti-Black or African American,Minor,Black or African American,Black or African American
+2002,University,SC,South Carolina,2002-08-19,1.0,0.0,1.0,1.0,0.0,Hispanic,Hispanic,1.0,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-Hispanic,Adult,Hispanic,Hispanic
+2002,Local,TX,Texas,2002-10-27,1.0,0.0,1.0,1.0,0.0,Asian,Asian,1.0,Intimidation,1.0,Residence,Anti-Asian,Adult,Asian,Asian
+2002,Local,WI,Wisconsin,2002-12-01,0.0,1.0,1.0,1.0,0.0,Unknown,Unknown,2.0,Simple Assault,2.0,Residence,Anti-Unknown,Minor,Unknown,Unknown
+2001,University,MI,Michigan,2001-10-21,1.0,0.0,1.0,1.0,0.0,White,White,1.0,Hate Crime Against Individuals with Disabilities,1.0,Residence,Anti-White,Adult,White,White
+2001,Local,NC,North Carolina,2001-08-12,1.0,0.0,1.0,1.0,0.0,Black or African American,Black or African American,1.0,Stalking,1.0,Residence,Anti-Black or African American,Minor,Black or African American,Black or African American
+2001,Local,OH,Ohio,2001-06-09,1.0,0.0,1.0,1.0,0.0,Asian,Asian,1.0,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-Asian,Adult,Asian,Asian
+2001,Local,OK, Oklahoma, 2001-03-25,1.0,0.0,1.0,1.0,0.0,White,White,1.0,Hate Crime Against Children,1.0,Residence,Anti-White,Adult,White,White
+2001,University,SC,South Carolina,2001-01-14,1.0,0.0,1.0,1.0,0.0,Unknown,Unknown,1.0,Intimidation,1.0,Residence,Anti-Unknown,Adult,Unknown,Unknown
+2001,Local,TX,Texas,2001-12-16,1.0,0.0,1.0,1.0,0.0,Black or African American,Black or African American,1.0,Destruction/Damage/Vandalism of Property,1.0,Residence,Anti-Black or African American,Minor,Black or African American,Black or African American
+2001,Local,WI,Wisconsin,2001-09-02,0.0,1.0,1.0,1.0,0.0,Hispanic,Hispanic,2.0,Aggravated Assault,2.0,Residence,Anti-Hispanic,Minor,Hispanic,Hispanic
+"2004,City,CA,California,2004-08-27,1,0,1,1,0,Hispanic or Latino,White,1,Simple Assault,1.0,Residence/Housing Unit,Anti-White,Other,O,O
+2003,Town,FL,Florida,2004-03-03,0,0,1,0,1,White,Unknown,1,Intimidation,0.0,Business/Commercial,Anti-Hispanic or Latino,Other,S,S
+1997,City,NY,New York,1997-09-15,1,0,1,1,0,Black or African American,Asian,1,Larceny-Theft,1.0,Residence/Housing Unit,Anti-Asian,Other,O,O
+1991,Town,IL,Illinois,1991-02-18,0,1,1,0,1,Unknown,Hispanic or Latino,1,Simple Assault,1.0,Residence/Housing Unit,Anti-Hispanic or Latino,Other,S,O
+2008,Town,MI,Michigan,2008-11-10,0,0,1,0,1,White,Black or African American,1,Intimidation,0.0,Residence/Housing Unit,Anti-White,Other,O,O
+2009,City,MA,Massachusetts,2009-06-25,0,0,1,0,1,Asian,Asian,1,Simple Assault,1.0,Residence/Housing Unit,Anti-Asian,Other,O,O
+1999,Town,NC,North Carolina,1999-05-02,1,0,1,1,0,White,White,1,Vandalism,0.0,Residence/Housing Unit,Anti-White,Other,S,S
+2005,City,TX,Texas,2005-01-15,0,0,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,Residence/Housing Unit,Anti-Hispanic or Latino,Other,O,O
+2006,City,OH,Ohio,2006-08-12,1,0,1,1,0,Black or African American,Black or African American,1,Burglary,0.0,Residence/Housing Unit,Anti-Black or African American,Other,S,S
+2000,Town,GA,Georgia,2000-12-14,0,0,1,0,1,Asian,Asian,1,Intimidation,0.0,Residence/Housing Unit,Anti-Asian,Other,O,O
+2001,City,MD,Maryland,2001-03-11,0,0,1,0,1,White,White,1,Simple Assault,1.0,Residence/Housing Unit,Anti-White,Other,O,O
+2007,City,WA,Washington,2007-04-05,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,Residence/Housing Unit,Anti-Hispanic or Latino,Other,O,O
+2002,City,SC,South Carolina,2002-09-26,0,0,1,0,1,Black or African American,Black or African American,1,Intimidation,0.0,Residence/Housing Unit,Anti-Black or African American,Other,O,O
+1992,Town,IN,Indiana,1992-11-21,0,1,1,0,1,Unknown,Unknown,1,Larceny-Theft,1.0,Residence/Housing Unit,Anti-Other,Other,S,O
+1996,City,CT,Connecticut,1996-02-08,0,0,1,0,1,Black or African American,Black or African American,1,Simple Assault,1.0,Residence/Housing Unit,Anti-Black or African American,Other,O,O
+2003,City,AL,Alabama,2003-11-18,0,0,1,0,1,White,White,1,Intimidation,0.0,Residence/Housing Unit,Anti-White,Other,O,O
+2006,City,WI,Wisconsin,2006-01-04,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,Residence/Housing Unit,Anti-Hispanic or Latino,Other,O,O
+1998,Town,MO,Missouri,1998-06-07,0,0,1,0,1,White,White,1,Vandalism,0.0,Business/Commercial,Anti-White,Other,S,S
+2009,Town,PA,Pennsylvania,2009-09-01,1,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,1.0,Residence/Housing Unit,Anti-Black or African American,Other,O,O
+2007,City,RI,Rhode Island,2007-10-06,0,0,1,0,1,White,White,1,Simple Assault,1.0,Residence/Housing Unit,Anti-White,Other,O,O
+1994,Town,ME,Maine,1994-04-24,0,0,1,0,1,Unknown,Unknown,1,Vandalism,0.0,Residence/Housing Unit,Anti-Other,Other,S,S
+2005,City,KS,Kansas,2005-05-23,0,0,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Intimidation,0.0,Residence/Housing Unit,Anti-Hispanic or Latino,Other,O,O
+2004,City,UT,Utah,2004-02-07,1,0,1,1,0,Asian,Asian,1,Simple Assault,1.0,Residence/Housing Unit,Anti-Asian,Other,O,O
+2008,City,NE,Nebraska,2008-03-17,0,0,1,0,1,White,White,1,Intimidation,0.0,Residence/Housing Unit,Anti-White,Other,O,O
+2002,City,VT,Vermont,2002-07-03,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,Residence/Housing Unit,Anti-Hispanic or Latino,Other,O,O
+2000,City,OK,Oklaoma,2000-08-09,0,0,1,0,1,Unknown,Unknown,1,Simple Assault,1.0,Residence/Housing Unit,Anti-Other,Other,O,O
+2001,City,MT,Montana,2001-01-16,1,0,1,1,0,White,White,1,Vandalism,0.0,Residence/Housing Unit,Anti-White,Other,S,S
+1993,Town,AZ,Arizona,1993-07-07,0,0,1,0,1,Black or African American,Black or African American,1,Larceny-Theft,1.0,Residence/Housing Unit,Anti-Black or African American,Other,O,O
+2002,City,Louisiana,2002-12-09,0,0,1,0,1,White,White,1,Simple Assault,1.0,Residence/Housing Unit,Anti-White,Other,O,O
+1995,Town,MN,Minnestota,1995-09-24,0,1,1,0,1,Unknown,Unknown,1,Vandalism,0.0,Residence/Housing Unit,Anti-Other,Other,S,S
+1997,City,ID,Idaho,1997-03-13,1,0,1,1,0,Hispanic or Latino,Hispanic or Latino,1,Simple Assault,1.0,Residence/Housing Unit,Anti-Hispanic or Latino,Other,O,O
+2003,City,NM,New Mexico,2003-10-06,0,0,1,0,1,Black or African American,Black or African American,1,Intimidation,0.0,Residence/Housing Unit,Anti-Black or African American,Other,O,O
+2006,City,ND,North Dakota,2006-09-11,1,0,1,1,0,White,White,1,Simple Assault,1.0,Residence/Housing Unit,Anti-White,Other,O,O
+1992,City,WY,Wyoming,1992-06-12,0,0,1,0,1,Unknown,Unknown,1,Vandalism,0.0,Residence/Housing Unit,Anti-Other,Other,S,S
+2005,City,CO,Colorado,2005-12-17,1,0,1,1,0,Black or African American,Black or African American,1,Simple Assault,1.0,Residence/Housing Unit,Anti-Black or African American,Other,O,O
+1999,Town,DE,Delaware,1999-08-08,0,0,1,0,1,Hispanic or Latino,Hispanic or Latino,1,Intimidation,0.0,Residence/Housing Unit,Anti-Hispanic or Latino,Other,O,O
+2008,Town,AR,Kansas,2008-05-25,0,0,1,0,1,Asian,Asian,1,Simple Assault,1.0,Residence/Housing Unit,Anti-Asian,Other,O,O
+2004,City,HI,Hawaii,2004-06-24,1,0,1,1,0,White,White,1,Simple Assault,1.0,Residence/Housing Unit,Anti-White,Other,O,O
+2000,City,IA,Iowa,2000-04-29,0,0,1,0,1,Black or African American,Black or African American,1,Intimidation,0.0,Residence/Housing Unit,Anti-Black or African American,Other,O,O
+2007,City,VT,Vermont,2007-02-04,0,0,1,0,1,White,White,1,Intimidation,0.0,Residence/Housing Unit,Anti-White,Other,O,O",,,,,,,,,,,,,,,,,,,
