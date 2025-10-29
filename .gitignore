@@ -8,6 +8,7 @@
 !data/preprocessed/sample_*.csv
 !data/preprocessed/sample_*.json
 !data/preprocessed/sample_*.parquet
+!data/preprocessed/column_type_ground_truth.json
 .env
 .venv/
 /notebooks/data_generation/__pycache__/
