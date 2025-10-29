@@ -216,7 +216,9 @@ def analyze_raw_finals_comprehensive():
                 csv_dir = shot_dir / 'csv'
                 if not csv_dir.exists():
                     continue
-                raw_finals_files = list(csv_dir.glob('*raw_finals_of_all_chunks*.csv'))
+                # find raw_finals files but exclude _clean versions
+                all_raw_finals = list(csv_dir.glob('*raw_finals_of_all_chunks*.csv'))
+                raw_finals_files = [f for f in all_raw_finals if '_clean' not in f.name]
                 if not raw_finals_files:
                     continue
                 for csv_file in raw_finals_files:
