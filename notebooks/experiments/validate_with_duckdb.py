@@ -290,7 +290,7 @@ def main():
     print(f"Valid files: {valid_files} ({100*valid_files/total_files:.1f}%)")
     print(f"Invalid files: {total_files - valid_files}")
     
-    output_file = PROJECT_ROOT / "analysis" / "duckdb_validation_results.json"
+    output_file = PROJECT_ROOT / "analysis" / "duckdb_validation" / "duckdb_validation_results.json"
     output_file.parent.mkdir(exist_ok=True)
     
     with open(output_file, 'w') as f:

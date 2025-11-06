@@ -30,7 +30,7 @@ def find_project_root():
 
 PROJECT_ROOT = find_project_root()
 GENERATED_DIR = PROJECT_ROOT / "data" / "generated"
-ANALYSIS_OUT_DIR = PROJECT_ROOT / "analysis"
+ANALYSIS_OUT_DIR = PROJECT_ROOT / "analysis" / "basic_details"
 ANALYSIS_OUT_DIR.mkdir(exist_ok=True)
 
 
