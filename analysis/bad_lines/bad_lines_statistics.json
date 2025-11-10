@@ -1,0 +1,999 @@
+{
+  "by_domain": {
+    "employment": {
+      "total_bad_rows": 811,
+      "total_rows": 27752,
+      "bad_rows_pct": 2.922311905448256,
+      "by_error_type": {
+        "too_many_fields": {
+          "count": 660,
+          "pct_of_total_rows": 2.3782069760737965,
+          "pct_of_bad_rows": 81.3810110974106
+        },
+        "odd_number_of_symbols": {
+          "count": 63,
+          "pct_of_total_rows": 0.2270106658979533,
+          "pct_of_bad_rows": 7.768187422934648
+        },
+        "row_structure_error": {
+          "count": 88,
+          "pct_of_total_rows": 0.3170942634765062,
+          "pct_of_bad_rows": 10.850801479654747
+        }
+      }
+    },
+    "lending": {
+      "total_bad_rows": 6485,
+      "total_rows": 28484,
+      "bad_rows_pct": 22.76716753264991,
+      "by_error_type": {
+        "too_many_fields": {
+          "count": 5628,
+          "pct_of_total_rows": 19.758460890324393,
+          "pct_of_bad_rows": 86.78488820354666
+        },
+        "empty_line": {
+          "count": 857,
+          "pct_of_total_rows": 3.008706642325516,
+          "pct_of_bad_rows": 13.215111796453355
+        }
+      }
+    },
+    "hatecrime": {
+      "total_bad_rows": 4692,
+      "total_rows": 27999,
+      "bad_rows_pct": 16.757741347905284,
+      "by_error_type": {
+        "too_many_fields": {
+          "count": 1780,
+          "pct_of_total_rows": 6.357369906068073,
+          "pct_of_bad_rows": 37.93691389599318
+        },
+        "odd_number_of_symbols": {
+          "count": 246,
+          "pct_of_total_rows": 0.8786028072431158,
+          "pct_of_bad_rows": 5.242966751918159
+        },
+        "row_structure_error": {
+          "count": 2386,
+          "pct_of_total_rows": 8.521732919032821,
+          "pct_of_bad_rows": 50.852514919011085
+        },
+        "too_few_fields": {
+          "count": 230,
+          "pct_of_total_rows": 0.8214579092110432,
+          "pct_of_bad_rows": 4.901960784313726
+        },
+        "empty_line": {
+          "count": 50,
+          "pct_of_total_rows": 0.1785778063502268,
+          "pct_of_bad_rows": 1.0656436487638534
+        }
+      }
+    }
+  },
+  "by_shot": {
+    "few": {
+      "total_bad_rows": 4779,
+      "total_rows": 27855,
+      "bad_rows_pct": 17.156704361873988,
+      "by_error_type": {
+        "too_many_fields": {
+          "count": 2888,
+          "pct_of_total_rows": 10.367977023873632,
+          "pct_of_bad_rows": 60.431052521448
+        },
+        "odd_number_of_symbols": {
+          "count": 89,
+          "pct_of_total_rows": 0.31951175731466525,
+          "pct_of_bad_rows": 1.8623142916928226
+        },
+        "row_structure_error": {
+          "count": 1727,
+          "pct_of_total_rows": 6.199964099802549,
+          "pct_of_bad_rows": 36.13726721071354
+        },
+        "empty_line": {
+          "count": 65,
+          "pct_of_total_rows": 0.23335128343205885,
+          "pct_of_bad_rows": 1.360117179326219
+        },
+        "too_few_fields": {
+          "count": 10,
+          "pct_of_total_rows": 0.03590019745108598,
+          "pct_of_bad_rows": 0.2092487968194183
+        }
+      }
+    },
+    "one": {
+      "total_bad_rows": 3917,
+      "total_rows": 28109,
+      "bad_rows_pct": 13.93503859973674,
+      "by_error_type": {
+        "too_many_fields": {
+          "count": 2473,
+          "pct_of_total_rows": 8.797893912981607,
+          "pct_of_bad_rows": 63.13505233597141
+        },
+        "odd_number_of_symbols": {
+          "count": 108,
+          "pct_of_total_rows": 0.3842185776797467,
+          "pct_of_bad_rows": 2.7572121521572632
+        },
+        "row_structure_error": {
+          "count": 661,
+          "pct_of_total_rows": 2.351559998576968,
+          "pct_of_bad_rows": 16.875159560888438
+        },
+        "too_few_fields": {
+          "count": 209,
+          "pct_of_total_rows": 0.7435340993987691,
+          "pct_of_bad_rows": 5.335716109267297
+        },
+        "empty_line": {
+          "count": 466,
+          "pct_of_total_rows": 1.6578320110996476,
+          "pct_of_bad_rows": 11.896859841715598
+        }
+      }
+    },
+    "zero": {
+      "total_bad_rows": 3292,
+      "total_rows": 28271,
+      "bad_rows_pct": 11.644441300272364,
+      "by_error_type": {
+        "too_many_fields": {
+          "count": 2707,
+          "pct_of_total_rows": 9.575183049768315,
+          "pct_of_bad_rows": 82.22964763061968
+        },
+        "odd_number_of_symbols": {
+          "count": 112,
+          "pct_of_total_rows": 0.39616568214778397,
+          "pct_of_bad_rows": 3.402187120291616
+        },
+        "empty_line": {
+          "count": 376,
+          "pct_of_total_rows": 1.3299847900675603,
+          "pct_of_bad_rows": 11.421628189550425
+        },
+        "row_structure_error": {
+          "count": 86,
+          "pct_of_total_rows": 0.3041986487920484,
+          "pct_of_bad_rows": 2.612393681652491
+        },
+        "too_few_fields": {
+          "count": 11,
+          "pct_of_total_rows": 0.03890912949665735,
+          "pct_of_bad_rows": 0.33414337788578374
+        }
+      }
+    }
+  },
+  "by_llm": {
+    "kimi-k2-instruct-0905": {
+      "total_bad_rows": 1519,
+      "total_rows": 27773,
+      "bad_rows_pct": 5.469340726604976,
+      "by_error_type": {
+        "too_many_fields": {
+          "count": 1515,
+          "pct_of_total_rows": 5.454938249378893,
+          "pct_of_bad_rows": 99.73666886109282
+        },
+        "odd_number_of_symbols": {
+          "count": 2,
+          "pct_of_total_rows": 0.007201238613041443,
+          "pct_of_bad_rows": 0.13166556945358787
+        },
+        "row_structure_error": {
+          "count": 2,
+          "pct_of_total_rows": 0.007201238613041443,
+          "pct_of_bad_rows": 0.13166556945358787
+        }
+      }
+    },
+    "llama-3.1-8b-instruct": {
+      "total_bad_rows": 6180,
+      "total_rows": 28681,
+      "bad_rows_pct": 21.547365851957743,
+      "by_error_type": {
+        "odd_number_of_symbols": {
+          "count": 248,
+          "pct_of_total_rows": 0.8646839371012169,
+          "pct_of_bad_rows": 4.0129449838187705
+        },
+        "too_many_fields": {
+          "count": 2336,
+          "pct_of_total_rows": 8.144764826888881,
+          "pct_of_bad_rows": 37.799352750809064
+        },
+        "row_structure_error": {
+          "count": 2472,
+          "pct_of_total_rows": 8.618946340783097,
+          "pct_of_bad_rows": 40.0
+        },
+        "too_few_fields": {
+          "count": 219,
+          "pct_of_total_rows": 0.7635717025208326,
+          "pct_of_bad_rows": 3.5436893203883497
+        },
+        "empty_line": {
+          "count": 905,
+          "pct_of_total_rows": 3.1553990446637146,
+          "pct_of_bad_rows": 14.64401294498382
+        }
+      }
+    },
+    "qwen3-coder-30b-a3b-instruct": {
+      "total_bad_rows": 4289,
+      "total_rows": 27781,
+      "bad_rows_pct": 15.438609121341923,
+      "by_error_type": {
+        "too_many_fields": {
+          "count": 4217,
+          "pct_of_total_rows": 15.179439185054534,
+          "pct_of_bad_rows": 98.32128701328982
+        },
+        "empty_line": {
+          "count": 2,
+          "pct_of_total_rows": 0.007199164896871963,
+          "pct_of_bad_rows": 0.046630916297505244
+        },
+        "odd_number_of_symbols": {
+          "count": 59,
+          "pct_of_total_rows": 0.21237536445772293,
+          "pct_of_bad_rows": 1.3756120307764048
+        },
+        "too_few_fields": {
+          "count": 11,
+          "pct_of_total_rows": 0.03959540693279579,
+          "pct_of_bad_rows": 0.25647003963627885
+        }
+      }
+    }
+  },
+  "by_run": {
+    "run1": {
+      "total_bad_rows": 3762,
+      "total_rows": 27902,
+      "bad_rows_pct": 13.482904451293814,
+      "by_error_type": {
+        "too_many_fields": {
+          "count": 2830,
+          "pct_of_total_rows": 10.142642104508637,
+          "pct_of_bad_rows": 75.22594364699627
+        },
+        "odd_number_of_symbols": {
+          "count": 45,
+          "pct_of_total_rows": 0.1612787613791126,
+          "pct_of_bad_rows": 1.1961722488038278
+        },
+        "row_structure_error": {
+          "count": 690,
+          "pct_of_total_rows": 2.47294100781306,
+          "pct_of_bad_rows": 18.341307814992025
+        },
+        "too_few_fields": {
+          "count": 54,
+          "pct_of_total_rows": 0.19353451365493513,
+          "pct_of_bad_rows": 1.4354066985645932
+        },
+        "empty_line": {
+          "count": 143,
+          "pct_of_total_rows": 0.5125080639380689,
+          "pct_of_bad_rows": 3.8011695906432745
+        }
+      }
+    },
+    "run2": {
+      "total_bad_rows": 3991,
+      "total_rows": 28172,
+      "bad_rows_pct": 14.166548345875338,
+      "by_error_type": {
+        "too_many_fields": {
+          "count": 2513,
+          "pct_of_total_rows": 8.920204458327417,
+          "pct_of_bad_rows": 62.96667501879229
+        },
+        "odd_number_of_symbols": {
+          "count": 53,
+          "pct_of_total_rows": 0.18813005821382933,
+          "pct_of_bad_rows": 1.327987972939113
+        },
+        "row_structure_error": {
+          "count": 933,
+          "pct_of_total_rows": 3.311798949311373,
+          "pct_of_bad_rows": 23.37759959909797
+        },
+        "too_few_fields": {
+          "count": 6,
+          "pct_of_total_rows": 0.021297742439301433,
+          "pct_of_bad_rows": 0.15033826108744675
+        },
+        "empty_line": {
+          "count": 486,
+          "pct_of_total_rows": 1.7251171375834162,
+          "pct_of_bad_rows": 12.177399148083188
+        }
+      }
+    },
+    "run3": {
+      "total_bad_rows": 4235,
+      "total_rows": 28161,
+      "bad_rows_pct": 15.038528461347253,
+      "by_error_type": {
+        "odd_number_of_symbols": {
+          "count": 211,
+          "pct_of_total_rows": 0.7492631653705479,
+          "pct_of_bad_rows": 4.982290436835892
+        },
+        "row_structure_error": {
+          "count": 851,
+          "pct_of_total_rows": 3.0219097333191294,
+          "pct_of_bad_rows": 20.094451003541913
+        },
+        "too_many_fields": {
+          "count": 2725,
+          "pct_of_total_rows": 9.676502965093569,
+          "pct_of_bad_rows": 64.34474616292798
+        },
+        "too_few_fields": {
+          "count": 170,
+          "pct_of_total_rows": 0.6036717446113419,
+          "pct_of_bad_rows": 4.014167650531287
+        },
+        "empty_line": {
+          "count": 278,
+          "pct_of_total_rows": 0.9871808529526651,
+          "pct_of_bad_rows": 6.564344746162928
+        }
+      }
+    }
+  },
+  "averages_across_runs": {
+    "kimi-k2-instruct-0905_employment_few": {
+      "llm": "kimi-k2-instruct-0905",
+      "domain": "employment",
+      "shot": "few",
+      "num_runs": 3,
+      "total_bad_rows": 5,
+      "total_rows": 3083,
+      "bad_rows_pct": 0.1621796951021732,
+      "avg_bad_rows_per_run": 1.6666666666666667,
+      "avg_bad_rows_pct_per_run": 0.054059898367391064,
+      "by_error_type": {
+        "too_many_fields": {
+          "count": 1,
+          "pct_of_total_rows": 0.03243593902043464,
+          "pct_of_bad_rows": 20.0,
+          "avg_count_per_run": 0.3333333333333333
+        },
+        "odd_number_of_symbols": {
+          "count": 2,
+          "pct_of_total_rows": 0.06487187804086927,
+          "pct_of_bad_rows": 40.0,
+          "avg_count_per_run": 0.6666666666666666
+        },
+        "row_structure_error": {
+          "count": 2,
+          "pct_of_total_rows": 0.06487187804086927,
+          "pct_of_bad_rows": 40.0,
+          "avg_count_per_run": 0.6666666666666666
+        }
+      }
+    },
+    "kimi-k2-instruct-0905_employment_one": {
+      "llm": "kimi-k2-instruct-0905",
+      "domain": "employment",
+      "shot": "one",
+      "num_runs": 3,
+      "total_bad_rows": 35,
+      "total_rows": 3112,
+      "bad_rows_pct": 1.1246786632390746,
+      "avg_bad_rows_per_run": 11.666666666666666,
+      "avg_bad_rows_pct_per_run": 0.3748928877463582,
+      "by_error_type": {
+        "too_many_fields": {
+          "count": 35,
+          "pct_of_total_rows": 1.1246786632390746,
+          "pct_of_bad_rows": 100.0,
+          "avg_count_per_run": 11.666666666666666
+        }
+      }
+    },
+    "kimi-k2-instruct-0905_employment_zero": {
+      "llm": "kimi-k2-instruct-0905",
+      "domain": "employment",
+      "shot": "zero",
+      "num_runs": 3,
+      "total_bad_rows": 73,
+      "total_rows": 3090,
+      "bad_rows_pct": 2.3624595469255665,
+      "avg_bad_rows_per_run": 24.333333333333332,
+      "avg_bad_rows_pct_per_run": 0.7874865156418555,
+      "by_error_type": {
+        "too_many_fields": {
+          "count": 73,
+          "pct_of_total_rows": 2.3624595469255665,
+          "pct_of_bad_rows": 100.0,
+          "avg_count_per_run": 24.333333333333332
+        }
+      }
+    },
+    "kimi-k2-instruct-0905_hatecrime_few": {
+      "llm": "kimi-k2-instruct-0905",
+      "domain": "hatecrime",
+      "shot": "few",
+      "num_runs": 3,
+      "total_bad_rows": 0,
+      "total_rows": 3023,
+      "bad_rows_pct": 0.0,
+      "avg_bad_rows_per_run": 0.0,
+      "avg_bad_rows_pct_per_run": 0.0,
+      "by_error_type": {}
+    },
+    "kimi-k2-instruct-0905_hatecrime_one": {
+      "llm": "kimi-k2-instruct-0905",
+      "domain": "hatecrime",
+      "shot": "one",
+      "num_runs": 3,
+      "total_bad_rows": 5,
+      "total_rows": 3050,
+      "bad_rows_pct": 0.16393442622950818,
+      "avg_bad_rows_per_run": 1.6666666666666667,
+      "avg_bad_rows_pct_per_run": 0.0546448087431694,
+      "by_error_type": {
+        "too_many_fields": {
+          "count": 5,
+          "pct_of_total_rows": 0.16393442622950818,
+          "pct_of_bad_rows": 100.0,
+          "avg_count_per_run": 1.6666666666666667
+        }
+      }
+    },
+    "kimi-k2-instruct-0905_hatecrime_zero": {
+      "llm": "kimi-k2-instruct-0905",
+      "domain": "hatecrime",
+      "shot": "zero",
+      "num_runs": 3,
+      "total_bad_rows": 0,
+      "total_rows": 3107,
+      "bad_rows_pct": 0.0,
+      "avg_bad_rows_per_run": 0.0,
+      "avg_bad_rows_pct_per_run": 0.0,
+      "by_error_type": {}
+    },
+    "kimi-k2-instruct-0905_lending_few": {
+      "llm": "kimi-k2-instruct-0905",
+      "domain": "lending",
+      "shot": "few",
+      "num_runs": 3,
+      "total_bad_rows": 980,
+      "total_rows": 3099,
+      "bad_rows_pct": 31.623104227170057,
+      "avg_bad_rows_per_run": 326.6666666666667,
+      "avg_bad_rows_pct_per_run": 10.54103474239002,
+      "by_error_type": {
+        "too_many_fields": {
+          "count": 980,
+          "pct_of_total_rows": 31.623104227170057,
+          "pct_of_bad_rows": 100.0,
+          "avg_count_per_run": 326.6666666666667
+        }
+      }
+    },
+    "kimi-k2-instruct-0905_lending_one": {
+      "llm": "kimi-k2-instruct-0905",
+      "domain": "lending",
+      "shot": "one",
+      "num_runs": 3,
+      "total_bad_rows": 23,
+      "total_rows": 3078,
+      "bad_rows_pct": 0.7472384665367121,
+      "avg_bad_rows_per_run": 7.666666666666667,
+      "avg_bad_rows_pct_per_run": 0.2490794888455707,
+      "by_error_type": {
+        "too_many_fields": {
+          "count": 23,
+          "pct_of_total_rows": 0.7472384665367121,
+          "pct_of_bad_rows": 100.0,
+          "avg_count_per_run": 7.666666666666667
+        }
+      }
+    },
+    "kimi-k2-instruct-0905_lending_zero": {
+      "llm": "kimi-k2-instruct-0905",
+      "domain": "lending",
+      "shot": "zero",
+      "num_runs": 3,
+      "total_bad_rows": 398,
+      "total_rows": 3131,
+      "bad_rows_pct": 12.711593740019165,
+      "avg_bad_rows_per_run": 132.66666666666666,
+      "avg_bad_rows_pct_per_run": 4.237197913339721,
+      "by_error_type": {
+        "too_many_fields": {
+          "count": 398,
+          "pct_of_total_rows": 12.711593740019165,
+          "pct_of_bad_rows": 100.0,
+          "avg_count_per_run": 132.66666666666666
+        }
+      }
+    },
+    "llama-3.1-8b-instruct_employment_few": {
+      "llm": "llama-3.1-8b-instruct",
+      "domain": "employment",
+      "shot": "few",
+      "num_runs": 3,
+      "total_bad_rows": 158,
+      "total_rows": 3020,
+      "bad_rows_pct": 5.231788079470199,
+      "avg_bad_rows_per_run": 52.666666666666664,
+      "avg_bad_rows_pct_per_run": 1.7439293598233998,
+      "by_error_type": {
+        "odd_number_of_symbols": {
+          "count": 1,
+          "pct_of_total_rows": 0.033112582781456956,
+          "pct_of_bad_rows": 0.6329113924050633,
+          "avg_count_per_run": 0.3333333333333333
+        },
+        "too_many_fields": {
+          "count": 156,
+          "pct_of_total_rows": 5.1655629139072845,
+          "pct_of_bad_rows": 98.73417721518987,
+          "avg_count_per_run": 52.0
+        },
+        "row_structure_error": {
+          "count": 1,
+          "pct_of_total_rows": 0.033112582781456956,
+          "pct_of_bad_rows": 0.6329113924050633,
+          "avg_count_per_run": 0.3333333333333333
+        }
+      }
+    },
+    "llama-3.1-8b-instruct_employment_one": {
+      "llm": "llama-3.1-8b-instruct",
+      "domain": "employment",
+      "shot": "one",
+      "num_runs": 3,
+      "total_bad_rows": 175,
+      "total_rows": 3058,
+      "bad_rows_pct": 5.722694571615436,
+      "avg_bad_rows_per_run": 58.333333333333336,
+      "avg_bad_rows_pct_per_run": 1.9075648572051451,
+      "by_error_type": {
+        "too_many_fields": {
+          "count": 127,
+          "pct_of_total_rows": 4.153041203400916,
+          "pct_of_bad_rows": 72.57142857142857,
+          "avg_count_per_run": 42.333333333333336
+        },
+        "odd_number_of_symbols": {
+          "count": 48,
+          "pct_of_total_rows": 1.5696533682145193,
+          "pct_of_bad_rows": 27.42857142857143,
+          "avg_count_per_run": 16.0
+        }
+      }
+    },
+    "llama-3.1-8b-instruct_employment_zero": {
+      "llm": "llama-3.1-8b-instruct",
+      "domain": "employment",
+      "shot": "zero",
+      "num_runs": 3,
+      "total_bad_rows": 365,
+      "total_rows": 3094,
+      "bad_rows_pct": 11.797026502908855,
+      "avg_bad_rows_per_run": 121.66666666666667,
+      "avg_bad_rows_pct_per_run": 3.932342167636285,
+      "by_error_type": {
+        "odd_number_of_symbols": {
+          "count": 12,
+          "pct_of_total_rows": 0.3878474466709761,
+          "pct_of_bad_rows": 3.287671232876712,
+          "avg_count_per_run": 4.0
+        },
+        "too_many_fields": {
+          "count": 268,
+          "pct_of_total_rows": 8.661926308985132,
+          "pct_of_bad_rows": 73.42465753424658,
+          "avg_count_per_run": 89.33333333333333
+        },
+        "row_structure_error": {
+          "count": 85,
+          "pct_of_total_rows": 2.7472527472527473,
+          "pct_of_bad_rows": 23.28767123287671,
+          "avg_count_per_run": 28.333333333333332
+        }
+      }
+    },
+    "llama-3.1-8b-instruct_hatecrime_few": {
+      "llm": "llama-3.1-8b-instruct",
+      "domain": "hatecrime",
+      "shot": "few",
+      "num_runs": 3,
+      "total_bad_rows": 2173,
+      "total_rows": 3185,
+      "bad_rows_pct": 68.22605965463109,
+      "avg_bad_rows_per_run": 724.3333333333334,
+      "avg_bad_rows_pct_per_run": 22.742019884877028,
+      "by_error_type": {
+        "odd_number_of_symbols": {
+          "count": 86,
+          "pct_of_total_rows": 2.7001569858712715,
+          "pct_of_bad_rows": 3.9576622181316155,
+          "avg_count_per_run": 28.666666666666668
+        },
+        "row_structure_error": {
+          "count": 1724,
+          "pct_of_total_rows": 54.1287284144427,
+          "pct_of_bad_rows": 79.33732167510354,
+          "avg_count_per_run": 574.6666666666666
+        },
+        "too_many_fields": {
+          "count": 353,
+          "pct_of_total_rows": 11.08320251177394,
+          "pct_of_bad_rows": 16.244822825586745,
+          "avg_count_per_run": 117.66666666666667
+        },
+        "too_few_fields": {
+          "count": 10,
+          "pct_of_total_rows": 0.3139717425431711,
+          "pct_of_bad_rows": 0.46019328117809477,
+          "avg_count_per_run": 3.3333333333333335
+        }
+      }
+    },
+    "llama-3.1-8b-instruct_hatecrime_one": {
+      "llm": "llama-3.1-8b-instruct",
+      "domain": "hatecrime",
+      "shot": "one",
+      "num_runs": 3,
+      "total_bad_rows": 1401,
+      "total_rows": 3054,
+      "bad_rows_pct": 45.87426326129666,
+      "avg_bad_rows_per_run": 467.0,
+      "avg_bad_rows_pct_per_run": 15.291421087098888,
+      "by_error_type": {
+        "odd_number_of_symbols": {
+          "count": 60,
+          "pct_of_total_rows": 1.9646365422396856,
+          "pct_of_bad_rows": 4.282655246252676,
+          "avg_count_per_run": 20.0
+        },
+        "row_structure_error": {
+          "count": 661,
+          "pct_of_total_rows": 21.643745907007204,
+          "pct_of_bad_rows": 47.18058529621699,
+          "avg_count_per_run": 220.33333333333334
+        },
+        "too_many_fields": {
+          "count": 471,
+          "pct_of_total_rows": 15.422396856581532,
+          "pct_of_bad_rows": 33.61884368308351,
+          "avg_count_per_run": 157.0
+        },
+        "too_few_fields": {
+          "count": 209,
+          "pct_of_total_rows": 6.843483955468238,
+          "pct_of_bad_rows": 14.917915774446824,
+          "avg_count_per_run": 69.66666666666667
+        }
+      }
+    },
+    "llama-3.1-8b-instruct_hatecrime_zero": {
+      "llm": "llama-3.1-8b-instruct",
+      "domain": "hatecrime",
+      "shot": "zero",
+      "num_runs": 3,
+      "total_bad_rows": 879,
+      "total_rows": 3235,
+      "bad_rows_pct": 27.171561051004637,
+      "avg_bad_rows_per_run": 293.0,
+      "avg_bad_rows_pct_per_run": 9.057187017001546,
+      "by_error_type": {
+        "too_many_fields": {
+          "count": 788,
+          "pct_of_total_rows": 24.358578052550232,
+          "pct_of_bad_rows": 89.64732650739477,
+          "avg_count_per_run": 262.6666666666667
+        },
+        "odd_number_of_symbols": {
+          "count": 41,
+          "pct_of_total_rows": 1.267387944358578,
+          "pct_of_bad_rows": 4.6643913538111486,
+          "avg_count_per_run": 13.666666666666666
+        },
+        "empty_line": {
+          "count": 49,
+          "pct_of_total_rows": 1.5146831530139104,
+          "pct_of_bad_rows": 5.5745164960182025,
+          "avg_count_per_run": 16.333333333333332
+        },
+        "row_structure_error": {
+          "count": 1,
+          "pct_of_total_rows": 0.030911901081916538,
+          "pct_of_bad_rows": 0.11376564277588168,
+          "avg_count_per_run": 0.3333333333333333
+        }
+      }
+    },
+    "llama-3.1-8b-instruct_lending_few": {
+      "llm": "llama-3.1-8b-instruct",
+      "domain": "lending",
+      "shot": "few",
+      "num_runs": 3,
+      "total_bad_rows": 108,
+      "total_rows": 3144,
+      "bad_rows_pct": 3.435114503816794,
+      "avg_bad_rows_per_run": 36.0,
+      "avg_bad_rows_pct_per_run": 1.1450381679389314,
+      "by_error_type": {
+        "empty_line": {
+          "count": 65,
+          "pct_of_total_rows": 2.067430025445293,
+          "pct_of_bad_rows": 60.18518518518518,
+          "avg_count_per_run": 21.666666666666668
+        },
+        "too_many_fields": {
+          "count": 43,
+          "pct_of_total_rows": 1.3676844783715014,
+          "pct_of_bad_rows": 39.81481481481482,
+          "avg_count_per_run": 14.333333333333334
+        }
+      }
+    },
+    "llama-3.1-8b-instruct_lending_one": {
+      "llm": "llama-3.1-8b-instruct",
+      "domain": "lending",
+      "shot": "one",
+      "num_runs": 3,
+      "total_bad_rows": 556,
+      "total_rows": 3511,
+      "bad_rows_pct": 15.83594417544859,
+      "avg_bad_rows_per_run": 185.33333333333334,
+      "avg_bad_rows_pct_per_run": 5.2786480584828634,
+      "by_error_type": {
+        "empty_line": {
+          "count": 465,
+          "pct_of_total_rows": 13.244090002848191,
+          "pct_of_bad_rows": 83.63309352517986,
+          "avg_count_per_run": 155.0
+        },
+        "too_many_fields": {
+          "count": 91,
+          "pct_of_total_rows": 2.5918541726003985,
+          "pct_of_bad_rows": 16.366906474820144,
+          "avg_count_per_run": 30.333333333333332
+        }
+      }
+    },
+    "llama-3.1-8b-instruct_lending_zero": {
+      "llm": "llama-3.1-8b-instruct",
+      "domain": "lending",
+      "shot": "zero",
+      "num_runs": 3,
+      "total_bad_rows": 365,
+      "total_rows": 3380,
+      "bad_rows_pct": 10.798816568047338,
+      "avg_bad_rows_per_run": 121.66666666666667,
+      "avg_bad_rows_pct_per_run": 3.5996055226824457,
+      "by_error_type": {
+        "empty_line": {
+          "count": 326,
+          "pct_of_total_rows": 9.644970414201183,
+          "pct_of_bad_rows": 89.31506849315069,
+          "avg_count_per_run": 108.66666666666667
+        },
+        "too_many_fields": {
+          "count": 39,
+          "pct_of_total_rows": 1.153846153846154,
+          "pct_of_bad_rows": 10.684931506849315,
+          "avg_count_per_run": 13.0
+        }
+      }
+    },
+    "qwen3-coder-30b-a3b-instruct_employment_few": {
+      "llm": "qwen3-coder-30b-a3b-instruct",
+      "domain": "employment",
+      "shot": "few",
+      "num_runs": 3,
+      "total_bad_rows": 0,
+      "total_rows": 3150,
+      "bad_rows_pct": 0.0,
+      "avg_bad_rows_per_run": 0.0,
+      "avg_bad_rows_pct_per_run": 0.0,
+      "by_error_type": {}
+    },
+    "qwen3-coder-30b-a3b-instruct_employment_one": {
+      "llm": "qwen3-coder-30b-a3b-instruct",
+      "domain": "employment",
+      "shot": "one",
+      "num_runs": 3,
+      "total_bad_rows": 0,
+      "total_rows": 3090,
+      "bad_rows_pct": 0.0,
+      "avg_bad_rows_per_run": 0.0,
+      "avg_bad_rows_pct_per_run": 0.0,
+      "by_error_type": {}
+    },
+    "qwen3-coder-30b-a3b-instruct_employment_zero": {
+      "llm": "qwen3-coder-30b-a3b-instruct",
+      "domain": "employment",
+      "shot": "zero",
+      "num_runs": 3,
+      "total_bad_rows": 0,
+      "total_rows": 3055,
+      "bad_rows_pct": 0.0,
+      "avg_bad_rows_per_run": 0.0,
+      "avg_bad_rows_pct_per_run": 0.0,
+      "by_error_type": {}
+    },
+    "qwen3-coder-30b-a3b-instruct_hatecrime_few": {
+      "llm": "qwen3-coder-30b-a3b-instruct",
+      "domain": "hatecrime",
+      "shot": "few",
+      "num_runs": 3,
+      "total_bad_rows": 26,
+      "total_rows": 3107,
+      "bad_rows_pct": 0.8368200836820083,
+      "avg_bad_rows_per_run": 8.666666666666666,
+      "avg_bad_rows_pct_per_run": 0.2789400278940028,
+      "by_error_type": {
+        "too_many_fields": {
+          "count": 26,
+          "pct_of_total_rows": 0.8368200836820083,
+          "pct_of_bad_rows": 100.0,
+          "avg_count_per_run": 8.666666666666666
+        }
+      }
+    },
+    "qwen3-coder-30b-a3b-instruct_hatecrime_one": {
+      "llm": "qwen3-coder-30b-a3b-instruct",
+      "domain": "hatecrime",
+      "shot": "one",
+      "num_runs": 3,
+      "total_bad_rows": 79,
+      "total_rows": 3122,
+      "bad_rows_pct": 2.530429212043562,
+      "avg_bad_rows_per_run": 26.333333333333332,
+      "avg_bad_rows_pct_per_run": 0.8434764040145207,
+      "by_error_type": {
+        "empty_line": {
+          "count": 1,
+          "pct_of_total_rows": 0.032030749519538756,
+          "pct_of_bad_rows": 1.2658227848101267,
+          "avg_count_per_run": 0.3333333333333333
+        },
+        "too_many_fields": {
+          "count": 78,
+          "pct_of_total_rows": 2.498398462524023,
+          "pct_of_bad_rows": 98.73417721518987,
+          "avg_count_per_run": 26.0
+        }
+      }
+    },
+    "qwen3-coder-30b-a3b-instruct_hatecrime_zero": {
+      "llm": "qwen3-coder-30b-a3b-instruct",
+      "domain": "hatecrime",
+      "shot": "zero",
+      "num_runs": 3,
+      "total_bad_rows": 129,
+      "total_rows": 3116,
+      "bad_rows_pct": 4.13992297817715,
+      "avg_bad_rows_per_run": 43.0,
+      "avg_bad_rows_pct_per_run": 1.37997432605905,
+      "by_error_type": {
+        "too_many_fields": {
+          "count": 59,
+          "pct_of_total_rows": 1.8934531450577663,
+          "pct_of_bad_rows": 45.73643410852713,
+          "avg_count_per_run": 19.666666666666668
+        },
+        "odd_number_of_symbols": {
+          "count": 59,
+          "pct_of_total_rows": 1.8934531450577663,
+          "pct_of_bad_rows": 45.73643410852713,
+          "avg_count_per_run": 19.666666666666668
+        },
+        "too_few_fields": {
+          "count": 11,
+          "pct_of_total_rows": 0.35301668806161746,
+          "pct_of_bad_rows": 8.527131782945736,
+          "avg_count_per_run": 3.6666666666666665
+        }
+      }
+    },
+    "qwen3-coder-30b-a3b-instruct_lending_few": {
+      "llm": "qwen3-coder-30b-a3b-instruct",
+      "domain": "lending",
+      "shot": "few",
+      "num_runs": 3,
+      "total_bad_rows": 1329,
+      "total_rows": 3044,
+      "bad_rows_pct": 43.659658344283834,
+      "avg_bad_rows_per_run": 443.0,
+      "avg_bad_rows_pct_per_run": 14.55321944809461,
+      "by_error_type": {
+        "too_many_fields": {
+          "count": 1329,
+          "pct_of_total_rows": 43.659658344283834,
+          "pct_of_bad_rows": 100.0,
+          "avg_count_per_run": 443.0
+        }
+      }
+    },
+    "qwen3-coder-30b-a3b-instruct_lending_one": {
+      "llm": "qwen3-coder-30b-a3b-instruct",
+      "domain": "lending",
+      "shot": "one",
+      "num_runs": 3,
+      "total_bad_rows": 1643,
+      "total_rows": 3034,
+      "bad_rows_pct": 54.1529334212261,
+      "avg_bad_rows_per_run": 547.6666666666666,
+      "avg_bad_rows_pct_per_run": 18.050977807075366,
+      "by_error_type": {
+        "too_many_fields": {
+          "count": 1643,
+          "pct_of_total_rows": 54.1529334212261,
+          "pct_of_bad_rows": 100.0,
+          "avg_count_per_run": 547.6666666666666
+        }
+      }
+    },
+    "qwen3-coder-30b-a3b-instruct_lending_zero": {
+      "llm": "qwen3-coder-30b-a3b-instruct",
+      "domain": "lending",
+      "shot": "zero",
+      "num_runs": 3,
+      "total_bad_rows": 1083,
+      "total_rows": 3063,
+      "bad_rows_pct": 35.35749265426053,
+      "avg_bad_rows_per_run": 361.0,
+      "avg_bad_rows_pct_per_run": 11.78583088475351,
+      "by_error_type": {
+        "too_many_fields": {
+          "count": 1082,
+          "pct_of_total_rows": 35.32484492327783,
+          "pct_of_bad_rows": 99.90766389658357,
+          "avg_count_per_run": 360.6666666666667
+        },
+        "empty_line": {
+          "count": 1,
+          "pct_of_total_rows": 0.0326477309826967,
+          "pct_of_bad_rows": 0.09233610341643582,
+          "avg_count_per_run": 0.3333333333333333
+        }
+      }
+    }
+  },
+  "by_error_type": {
+    "too_many_fields": {
+      "count": 8068,
+      "pct_of_total_rows": 9.57796640351398,
+      "pct_of_bad_rows": 67.30063396730064
+    },
+    "odd_number_of_symbols": {
+      "count": 309,
+      "pct_of_total_rows": 0.3668308897726598,
+      "pct_of_bad_rows": 2.5775775775775776
+    },
+    "row_structure_error": {
+      "count": 2474,
+      "pct_of_total_rows": 2.9370214281474447,
+      "pct_of_bad_rows": 20.637303970637305
+    },
+    "too_few_fields": {
+      "count": 230,
+      "pct_of_total_rows": 0.27304564610909954,
+      "pct_of_bad_rows": 1.9185852519185853
+    },
+    "empty_line": {
+      "count": 907,
+      "pct_of_total_rows": 1.0767495696563185,
+      "pct_of_bad_rows": 7.5658992325659
+    }
+  }
+}

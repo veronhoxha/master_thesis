@@ -1,0 +1,128 @@
+{
+  "total_bad_lines": 11988,
+  "error_types": {
+    "too_many_fields": 8068,
+    "odd_number_of_symbols": 309,
+    "row_structure_error": 2474,
+    "too_few_fields": 230,
+    "empty_line": 907
+  },
+  "files_affected": 59,
+  "examples": {
+    "too_many_fields": [
+      {
+        "description": "Row has 35 columns but header expects 18 columns (17 extra)",
+        "cause": "Likely due to LLM hallucination, where the model generates more fields than expected.",
+        "full_line": "Burton Menswear Limited,46420,20.8,15.5,45.2,33.6,52.7,45.3,36.5,63.5,40.8,59.2,53.1,46.9,66.2,33.8,500-999,2025-05-30 15:14:33 missoma Limited,46420,22.3,16.9,47.1,35.4,54.6,47.2,35.2,64.8,39.1,60.9,52.5,47.5,66.9,33.1,250-499,2025-05-31 08:56:47",
+        "file": "kimi-k2-instruct-0905-run1-raw_finals_of_all_chunks_employment_few_csv.csv",
+        "line_number": 475
+      },
+      {
+        "description": "Row has 19 columns but header expects 18 columns (1 extra)",
+        "cause": "Likely due to LLM hallucination, where the model generates more fields than expected.",
+        "full_line": "COSTA LIMITED,56102,9.7,6.4,28.5,15.2,31.8,34.2,44.5,55.5,40.2,59.8,52.1,47.9,65.8,34.2,5000-19,999,2024-12-03 14:45:12",
+        "file": "kimi-k2-instruct-0905-run1-raw_finals_of_all_chunks_employment_one_csv.csv",
+        "line_number": 156
+      },
+      {
+        "description": "Row has 19 columns but header expects 18 columns (1 extra)",
+        "cause": "Likely due to LLM hallucination, where the model generates more fields than expected.",
+        "full_line": "HOLLAND & BARRETT RETAIL LIMITED,47260,12.3,8.9,52.1,31.6,41.7,48.9,38.2,61.8,33.5,66.5,45.9,54.1,59.7,40.3,5000-19,999,2024-11-20 16:18:47",
+        "file": "kimi-k2-instruct-0905-run1-raw_finals_of_all_chunks_employment_one_csv.csv",
+        "line_number": 158
+      }
+    ],
+    "odd_number_of_symbols": [
+      {
+        "description": "Odd number of symbols (1)",
+        "cause": "There is an odd number of symbols in the line, likely due to a quote that is not closed or opened.",
+        "full_line": "JOHN LEWIS PLC,\"47110,47910),13.1,10.6,40.7,34.9,24.8,20.7,40.9,59.1,45.7,54.3,52.4,47.6,67.8,32.2,5000+,2025-04-21 14:15:33",
+        "file": "kimi-k2-instruct-0905-run3-raw_finals_of_all_chunks_employment_few_csv.csv",
+        "line_number": 700
+      },
+      {
+        "description": "Odd number of symbols (1)",
+        "cause": "There is an odd number of symbols in the line, likely due to a quote that is not closed or opened.",
+        "full_line": "KFC UK LIMITED,\"56101,56210),7.2,4.6,27.5,21.1,11.8,9.1,47.6,52.4,50.9,49.1,56.3,43.7,61.8,38.2,5000+,2025-04-26 15:30:44",
+        "file": "kimi-k2-instruct-0905-run3-raw_finals_of_all_chunks_employment_few_csv.csv",
+        "line_number": 705
+      },
+      {
+        "description": "Odd number of symbols (3)",
+        "cause": "There is an odd number of symbols in the line, likely due to a quote that is not closed or opened.",
+        "full_line": "\"London Borough of Camden\",85210,\"27.7,16.9,78.3,46.8,54.3,52.9,21.6,70.6,28.5,68.3,30.4,65.6,33.7,47.1,500-999,2025-04-01 11:37:02",
+        "file": "llama-3.1-8b-instruct-run1-raw_finals_of_all_chunks_employment_few_csv.csv",
+        "line_number": 959
+      }
+    ],
+    "row_structure_error": [
+      {
+        "description": "There is some type of issue with the row structure, possibly malformed quoted fields, special characters etc.)",
+        "cause": "Row structure issue, possibly malformed quoted fields, special characters etc.",
+        "full_line": "NEXT PLC,\"47710,47789\",18.3,15.6,51.2,44.8,38.7,33.9,33.5,66.5,40.2,59.8,48.6,51.4,71.3,28.7,5000+,2025-04-22 11:00:47",
+        "file": "kimi-k2-instruct-0905-run3-raw_finals_of_all_chunks_employment_few_csv.csv",
+        "line_number": 701
+      },
+      {
+        "description": "There is some type of issue with the row structure, possibly malformed quoted fields, special characters etc.)",
+        "cause": "Row structure issue, possibly malformed quoted fields, special characters etc.",
+        "full_line": "SUBWAY UK LIMITED,\"56101,56290\",8.1,5.4,30.2,23.8,14.1,10.6,46.2,53.8,49.5,50.5,55.2,44.8,62.7,37.3,1000-4999,2025-04-27 12:15:19",
+        "file": "kimi-k2-instruct-0905-run3-raw_finals_of_all_chunks_employment_few_csv.csv",
+        "line_number": 706
+      },
+      {
+        "description": "There is some type of issue with the row structure, possibly malformed quoted fields, special characters etc.)",
+        "cause": "Row structure issue, possibly malformed quoted fields, special characters etc.",
+        "full_line": "\"Manchester City Council\",85320,13.9,0.0,41.5,-15.4,25.4,26.0,32.8,50.7,39.4,51.5,39.6,49.5,43.3,41.9,500-999,2025-03-31 14:33:47",
+        "file": "llama-3.1-8b-instruct-run1-raw_finals_of_all_chunks_employment_few_csv.csv",
+        "line_number": 960
+      }
+    ],
+    "too_few_fields": [
+      {
+        "description": "Row has 19 columns but header expects 20 columns (1 missing)",
+        "cause": "Missing 1 column(s) - likely missing commas between fields, line was truncated, or empty fields at the end were omitted",
+        "full_line": "1996,City,NY,New York,1996-07-18,1,0,1,1,0,White,Unknown,1,Vandalism,1.0,Residential/Home,Anti-Asian or Asian/Pacific Islander,Other,N",
+        "file": "llama-3.1-8b-instruct-run1-raw_finals_of_all_chunks_hatecrime_one_csv.csv",
+        "line_number": 96
+      },
+      {
+        "description": "Row has 19 columns but header expects 20 columns (1 missing)",
+        "cause": "Missing 1 column(s) - likely missing commas between fields, line was truncated, or empty fields at the end were omitted",
+        "full_line": "1997,City,IL,Illinois,1997-01-06,0,0,1,0,1,Unknown,Unknown,1,Destruction/Damage/Vandalism of Property,1.0,Street or Highway,Anti-Jewish,Other,Y",
+        "file": "llama-3.1-8b-instruct-run1-raw_finals_of_all_chunks_hatecrime_one_csv.csv",
+        "line_number": 95
+      },
+      {
+        "description": "Row has 19 columns but header expects 20 columns (1 missing)",
+        "cause": "Missing 1 column(s) - likely missing commas between fields, line was truncated, or empty fields at the end were omitted",
+        "full_line": "1993,City,MI,Michigan,1993-09-24,1,0,1,1,0,Unknown,Unknown,1,Anti-LGBT Hate Crime,1.0,Business or Commercial,Anti-White or Caucasian,Other,N",
+        "file": "llama-3.1-8b-instruct-run1-raw_finals_of_all_chunks_hatecrime_one_csv.csv",
+        "line_number": 94
+      }
+    ],
+    "empty_line": [
+      {
+        "description": "Empty line (only whitespace)",
+        "cause": "Line contains only whitespace or newlines",
+        "full_line": "",
+        "file": "llama-3.1-8b-instruct-run1-raw_finals_of_all_chunks_lending_few_csv.csv",
+        "line_number": 388
+      },
+      {
+        "description": "Empty line (only whitespace)",
+        "cause": "Line contains only whitespace or newlines",
+        "full_line": "",
+        "file": "llama-3.1-8b-instruct-run1-raw_finals_of_all_chunks_lending_few_csv.csv",
+        "line_number": 539
+      },
+      {
+        "description": "Empty line (only whitespace)",
+        "cause": "Line contains only whitespace or newlines",
+        "full_line": "",
+        "file": "llama-3.1-8b-instruct-run1-raw_finals_of_all_chunks_lending_few_csv.csv",
+        "line_number": 627
+      }
+    ]
+  }
+}
