@@ -1,5 +1,6 @@
 ### IMPORTS ###
 
+import argparse
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
@@ -232,7 +233,7 @@ def plot_faceted_by_llm(df):
                 else np.nan
             )
         )
-
+            
         if (
             not pd.isna(total_rows_llm)
             and total_rows_llm > 0
@@ -253,4 +254,174 @@ def plot_faceted_by_llm(df):
             print(f"{llm_name}: {int(total_bad):,} bad rows ({pct:.1f}% of all bad lines)")
     
     print(f"\nTotal bad lines across all LLMs: {int(total_all_bad)}")
+
+
+    stats_df = df
+    has_run_info = {'llm', 'run'}.issubset(stats_df.columns)
+    has_domain_info = {'llm', 'domain', 'run'}.issubset(stats_df.columns)
+    has_domain_shot_info = {'llm', 'domain', 'shot', 'run'}.issubset(stats_df.columns)
+
+    if not has_run_info:
+        try:
+            reference_df = load_bad_lines_dataframe()
+        except FileNotFoundError:
+            reference_df = None
+
+        if reference_df is not None and {'llm', 'run'}.issubset(reference_df.columns):
+            if 'llm' in df.columns:
+                reference_df = reference_df[reference_df['llm'].isin(df['llm'].unique())]
+            if 'domain' in df.columns and 'domain' in reference_df.columns:
+                reference_df = reference_df[reference_df['domain'].isin(df['domain'].unique())]
+            if 'shot' in df.columns and 'shot' in reference_df.columns:
+                reference_df = reference_df[reference_df['shot'].isin(df['shot'].unique())]
+
+            stats_df = reference_df
+            has_run_info = True
+            has_domain_info = {'llm', 'domain', 'run'}.issubset(stats_df.columns)
+            has_domain_shot_info = {'llm', 'domain', 'shot', 'run'}.issubset(stats_df.columns)
+
+    def _sorted_runs(run_values: pd.Index) -> list:
+        def sort_key(label):
+            if isinstance(label, str) and label.lower().startswith("run"):
+                suffix = label[3:]
+                return int(suffix) if suffix.isdigit() else label
+            return label
+        return sorted(run_values, key=sort_key)
+
+    if has_run_info:
+        run_levels = _sorted_runs(pd.Index(stats_df['run'].unique()))
+
+        print("\n" + "=" * 80)
+        print("AVERAGE BAD ROWS PER LLM (MEAN PER RUN ACROSS ALL DOMAINS)")
+        print("=" * 80)
+
+        llm_run_totals = (
+            stats_df.groupby(['llm', 'run'])['bad_rows_count']
+            .sum()
+            .unstack('run')
+            .reindex(columns=run_levels, fill_value=0)
+            .fillna(0)
+        )
+
+        llm_run_stats = llm_run_totals.copy()
+        llm_run_stats['avg_bad_rows_per_run'] = llm_run_totals.mean(axis=1)
+        llm_run_stats['std_bad_rows_per_run'] = llm_run_totals.std(axis=1, ddof=1)
+        llm_run_stats['min_bad_rows_per_run'] = llm_run_totals.min(axis=1)
+        llm_run_stats['max_bad_rows_per_run'] = llm_run_totals.max(axis=1)
+        llm_run_stats['num_runs'] = llm_run_totals.shape[1]
+
+        llm_run_stats = (
+            llm_run_stats[['avg_bad_rows_per_run', 'std_bad_rows_per_run',
+                           'min_bad_rows_per_run', 'max_bad_rows_per_run', 'num_runs']]
+            .reset_index()
+            .sort_values('avg_bad_rows_per_run', ascending=False)
+        )
+
+        print(
+            llm_run_stats.to_string(
+                index=False,
+                formatters={
+                    'avg_bad_rows_per_run': '{:,.2f}'.format,
+                    'std_bad_rows_per_run': (lambda x: '{:,.2f}'.format(x) if not pd.isna(x) else 'nan'),
+                    'min_bad_rows_per_run': '{:,.0f}'.format,
+                    'max_bad_rows_per_run': '{:,.0f}'.format,
+                    'num_runs': '{:d}'.format
+                }
+            )
+        )
+
+        if has_domain_info:
+            print("\n" + "=" * 80)
+            print("AVERAGE BAD ROWS PER LLM BY DOMAIN")
+            print("=" * 80)
+
+            domain_run_totals = (
+                stats_df.groupby(['llm', 'domain', 'run'])['bad_rows_count']
+                .sum()
+                .unstack('run')
+                .reindex(columns=run_levels, fill_value=0)
+                .fillna(0)
+            )
+
+            domain_avg = (
+                domain_run_totals.mean(axis=1)
+                .reset_index(name='avg_bad_rows_per_run')
+            )
+
+            for llm in llm_run_stats['llm']:
+                subset = (
+                    domain_avg[domain_avg['llm'] == llm]
+                    .sort_values('domain')
+                )
+                if subset.empty:
+                    continue
+                print(f"\n{llm}:")
+                print(
+                    subset[['domain', 'avg_bad_rows_per_run']].to_string(
+                        index=False,
+                        formatters={'avg_bad_rows_per_run': '{:,.2f}'.format}
+                    )
+                )
+
+        if has_domain_shot_info:
+            print("\n" + "=" * 80)
+            print("AVERAGE BAD ROWS PER LLM BY DOMAIN AND SHOT")
+            print("=" * 80)
+
+            domain_shot_run_totals = (
+                stats_df.groupby(['llm', 'domain', 'shot', 'run'])['bad_rows_count']
+                .sum()
+                .unstack('run')
+                .reindex(columns=run_levels, fill_value=0)
+                .fillna(0)
+            )
+
+            domain_shot_avg = (
+                domain_shot_run_totals.mean(axis=1)
+                .reset_index(name='avg_bad_rows_per_run')
+            )
+
+            if 'shot' in domain_shot_avg.columns:
+                domain_shot_avg['shot'] = pd.Categorical(
+                    domain_shot_avg['shot'],
+                    categories=shot_order,
+                    ordered=True
+                )
+
+            for llm in llm_run_stats['llm']:
+                subset = (
+                    domain_shot_avg[domain_shot_avg['llm'] == llm]
+                    .sort_values(['domain', 'shot'])
+                )
+                if subset.empty:
+                    continue
+                print(f"\n{llm}:")
+                print(
+                    subset[['domain', 'shot', 'avg_bad_rows_per_run']].to_string(
+                        index=False,
+                        formatters={'avg_bad_rows_per_run': '{:,.2f}'.format}
+                    )
+                )
+
     print("=" * 80)
+
+
+def load_bad_lines_dataframe(csv_path: Path | None = None) -> pd.DataFrame:
+    """
+    Load the bad-lines CSV.
+    """
+    default_path = (
+        PROJECT_ROOT
+        / "analysis"
+        / "bad_lines"
+        / "bad_lines_by_llm_domain_run_shot.csv"
+    )
+
+    path = Path(csv_path) if csv_path else default_path
+    if not path.exists():
+        raise FileNotFoundError(
+            f"No bad-lines CSV found at {path}. "
+            "Provide --csv pointing to one of the aggregated files under analysis/bad_lines."
+        )
+
+    return pd.read_csv(path)
