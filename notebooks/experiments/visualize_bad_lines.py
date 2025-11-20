@@ -50,9 +50,13 @@ def plot_faceted_by_llm(df):
 
     llms = agg_data['llm'].unique()
 
+    domain_order = ["hatecrime", "employment", "lending"]
+
     for llm in llms:
         subset = agg_data[agg_data['llm'] == llm]
-        domains = sorted(subset['domain'].unique())
+        domains = [d for d in domain_order if d in subset['domain'].unique()]
+        remaining = [d for d in subset['domain'].unique() if d not in domains]
+        domains.extend(sorted(remaining))
         
         n_domains = len(domains)
         n_cols = 3
