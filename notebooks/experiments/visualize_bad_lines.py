@@ -89,7 +89,7 @@ def plot_faceted_by_llm(df):
             
             ax.set_ylim(bottom=0, top=y_max)
 
-            ax.set_title(domain, fontsize=FONT_CONFIG['title_size'], fontweight=FONT_CONFIG['title_weight'], color=FONT_CONFIG['text_color_dark'], pad=10)
+            ax.set_title(domain.title(), fontsize=FONT_CONFIG['title_size'], fontweight=FONT_CONFIG['title_weight'], color=FONT_CONFIG['text_color_dark'], pad=10)
             
             if i >= (n_rows - 1) * n_cols:
                 ax.set_xlabel('Shot Type', fontsize=FONT_CONFIG['label_size'], color=FONT_CONFIG['text_color_medium'])
