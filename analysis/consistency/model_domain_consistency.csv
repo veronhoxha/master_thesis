@@ -1,0 +1,4 @@
+Model,hatecrime,employment,lending
+kimi-k2-instruct-0905,0.824,0.5569,0.3038
+llama-3.1-8b-instruct,0.5718,0.3938,0.2449
+qwen3-coder-30b-a3b-instruct,0.7571,0.6233,0.3251

@@ -1,0 +1,4 @@
+model_base,Mean Overall,Std Dev,Min,Max,N Groups,Mean Numeric,Mean Categorical,Mean Semantic
+kimi-k2-instruct-0905,0.5616,0.2673,0.1926,0.9572,9,0.3893,0.741,0.5545
+llama-3.1-8b-instruct,0.4035,0.148,0.2315,0.5849,9,0.0,0.6935,0.5166
+qwen3-coder-30b-a3b-instruct,0.5685,0.2077,0.2567,0.795,9,0.4418,0.7459,0.518

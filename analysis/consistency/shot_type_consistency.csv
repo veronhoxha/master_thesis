@@ -1,0 +1,4 @@
+shot,Mean Overall,Std Dev,Min,Max,N Groups,Mean Numeric,Mean Categorical,Mean Semantic
+zero,0.4801,0.2594,0.1926,0.9062,9,0.2998,0.6608,0.4797
+one,0.5221,0.1714,0.2493,0.7655,9,0.2489,0.7628,0.5545
+few,0.5314,0.2403,0.2356,0.9572,9,0.2825,0.7568,0.5549

@@ -1,0 +1,10 @@
+domain,shot,Mean Overall,Std Dev,N Groups,Mean Numeric,Mean Categorical,Mean Semantic
+employment,few,0.5485,0.1579,3,0.2466,0.7334,0.6652
+employment,one,0.5679,0.1729,3,0.2612,0.7778,0.6643
+employment,zero,0.4577,0.1649,3,0.2604,0.6717,0.441
+hatecrime,few,0.7567,0.1878,3,0.427,0.8431,0.9994
+hatecrime,one,0.6404,0.0959,3,0.1467,0.7743,0.9992
+hatecrime,zero,0.7557,0.1736,3,0.4744,0.7936,0.9983
+lending,few,0.2889,0.0771,3,0.1738,0.6939,0.0
+lending,one,0.358,0.1178,3,0.3387,0.7364,0.0
+lending,zero,0.2269,0.0323,3,0.1644,0.5171,0.0
