@@ -1,5 +1,4 @@
 ### IMPORTS ###
-from __future__ import annotations
 import json
 from pathlib import Path
 from typing import Dict, Iterable, Optional
@@ -20,12 +19,22 @@ per model/domain/shot combination.
 
 """
 
-BASE_DIR = Path(__file__).resolve().parents[2]
+def find_project_root() -> Path:
+    """Locate the repository root by walking upwards until README.md is found."""
+    current = Path.cwd()
+    while current != current.parent:
+        if (current / "README.md").exists():
+            return current
+        current = current.parent
+    return Path.cwd()
+
+PROJECT_ROOT = find_project_root()
+
 DUCKDB_JSON_PATH = (
-    BASE_DIR / "analysis" / "duckdb_validation" / "duckdb_validation_results.json"
+    PROJECT_ROOT / "analysis" / "duckdb_validation" / "duckdb_validation_results.json"
 )
 PANDAS_SUMMARY_PATH = (
-    BASE_DIR / "analysis" / "basic_details" / "raw_finals_comprehensive_analysis.csv"
+    PROJECT_ROOT / "analysis" / "basic_details" / "raw_finals_comprehensive_analysis.csv"
 )
 
 
@@ -134,7 +143,7 @@ def main(argv: Optional[Iterable[str]] = None) -> None:
     summary = format_summary_table(merged)
 
     print_report(summary, max_rows=10)
-    write_output(summary, BASE_DIR / "analysis" / "duckdb_validation" / "duckdb_vs_pandas_comparison.csv")
+    write_output(summary, PROJECT_ROOT / "analysis" / "duckdb_validation" / "duckdb_vs_pandas_comparison.csv")
 
 
 if __name__ == "__main__":
