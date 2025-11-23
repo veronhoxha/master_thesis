@@ -13,6 +13,16 @@ warnings.filterwarnings("ignore", category=DeprecationWarning, module="pkg_resou
 
 ###########################
 
+plt.rcParams.update({
+    'axes.titlesize': 23,
+    'axes.labelsize': 20,
+    'legend.fontsize': 17,
+    'xtick.labelsize': 20,
+    'ytick.labelsize': 20,
+    'figure.titlesize': 30,
+    'axes.titlepad': 18,
+})
+
 PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 FIGURES_DIR = PROJECT_ROOT / "figures"
 FIGURES_DIR.mkdir(exist_ok=True)
@@ -20,15 +30,15 @@ BAD_LINES_BY_LLM_PATH = PROJECT_ROOT / "analysis" / "bad_lines" / "bad_lines_by_
 
 
 FONT_CONFIG = {
-    'suptitle_size': 18,
+    'suptitle_size': 30, 
     'suptitle_weight': 'bold',
-    'title_size': 17,
+    'title_size': 23,  
     'title_weight': 'normal',
-    'label_size': 15,
-    'tick_size': 14,
-    'bar_label_size': 12,
-    'legend_size': 13,
-    'legend_title_size': 15,
+    'label_size': 20,  
+    'tick_size': 20,  
+    'bar_label_size': 15,
+    'legend_size': 20, 
+    'legend_title_size': 20,
     'text_color_dark': '#333333',
     'text_color_medium': '#666666',
     'text_color_light': '#CCCCCC',
@@ -84,7 +94,8 @@ def plot_faceted_by_llm(df):
                 linewidth=0.5,
                 ax=ax,
                 saturation=0.85,
-                zorder=2
+                zorder=2,
+                width=1.0
             )
             
             ax.set_ylim(bottom=0, top=y_max)
@@ -161,7 +172,7 @@ def plot_faceted_by_llm(df):
                     all_handles, all_labels,
                     title="Error Type",
                     loc='lower center',
-                    bbox_to_anchor=(center_x, -0.05),
+                    bbox_to_anchor=(center_x, -0.15),
                     ncol=min(len(error_types), 6),
                     fontsize=FONT_CONFIG['legend_size'],
                     title_fontsize=FONT_CONFIG['legend_title_size'],
@@ -173,7 +184,7 @@ def plot_faceted_by_llm(df):
                     all_handles, all_labels,
                     title="Error Type",
                     loc='lower center',
-                    bbox_to_anchor=(0.5, -0.05),
+                    bbox_to_anchor=(0.5, -0.15),
                     ncol=min(len(error_types), 6),
                     fontsize=FONT_CONFIG['legend_size'],
                     title_fontsize=FONT_CONFIG['legend_title_size'],
@@ -190,11 +201,11 @@ def plot_faceted_by_llm(df):
             title_x = 0.5
             
         fig.suptitle(
-            f"Number of Bad Rows by Error Type, Shot, and Domain for {llm}",
+            f"{llm}",
             fontsize=FONT_CONFIG['suptitle_size'], fontweight=FONT_CONFIG['suptitle_weight'], x=title_x, y=0.995, color=FONT_CONFIG['text_color_dark']
         )
 
-        plt.tight_layout(rect=[0, 0.08, 1, 0.97])
+        plt.tight_layout(rect=[0, 0.12, 1, 0.97])
         
         llm_name_clean = llm.replace('/', '_').replace('-', '_').replace('.', '_')
         filename = f"bad_rows_by_error_type_shot_domain_{llm_name_clean}.png"
