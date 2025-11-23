@@ -71,7 +71,7 @@ def list_generated_datasets(generated_dir: Path):
         domain = rest_parts[0]
         shot   = rest_parts[1]
 
-        # Detect the run number from the filename.
+       
         m = re.search(r"(run\d+)", prefix)
         if m:
             run = m.group(1)
@@ -93,6 +93,8 @@ def list_generated_datasets(generated_dir: Path):
     return pd.DataFrame(rows)
 
 #======================================================================================================================
+
+
 
 
 #======================================================================================================================
@@ -131,10 +133,12 @@ def print_formatted_table(df, value_col, title="Formatted Table"):
     print(f"\n{title}:\n")
     print(pivot.to_string())
     
-    # Returns the data in case it needs to be saved for further analysis.
+   
     return pivot  
 
 #======================================================================================================================
+
+
 
 
 #======================================================================================================================
@@ -159,9 +163,12 @@ def load_csv_safely(file_path):
 
     except Exception as e:
         print(f"Error loading {file_path}: {e}")
-        return pd.DataFrame()  # return empty df if it fails
+        return pd.DataFrame() 
 
 #======================================================================================================================
+
+
+
 
 #======================================================================================================================
 # Method to print the unique values for each sensitive attribute, for the real and LLM generated datasets
@@ -203,6 +210,8 @@ def print_unique_sensitive_values(SENSITIVE_ATTRIBUTES, real_data_by_domain, llm
         print("\n")
 
 #======================================================================================================================
+
+
 
 #======================================================================================================================
 
@@ -581,6 +590,8 @@ def _norm_val(x):
 #======================================================================================================================
 
 
+
+
 #======================================================================================================================
 # Another method used to normalize the strings for matching (case-insensitive, trims quotes/spaces). Used later for
 # the outcome attributes.
@@ -627,11 +638,10 @@ def apply_mappings_to_all_datasets(metadata_table, ATTRIBUTE_ALIASES):
             continue
 
         for attr, mapping_by_real in domain_aliases.items():
-            # only map if this attribute actually exists in the df
+
             if attr not in df.columns:
                 continue
 
-            # ---- build normalized raw_value -> real_value mapping ----
             raw_to_real = {}
 
             for real_value, aliases in mapping_by_real.items():
@@ -646,15 +656,15 @@ def apply_mappings_to_all_datasets(metadata_table, ATTRIBUTE_ALIASES):
                     if alias_norm is not None:
                         raw_to_real[alias_norm] = real_value
 
-            # ---- apply mapping to create {attr}_Mapped ----
+
             new_col = f"{attr}_Mapped"
             df[new_col] = df[attr].apply(
                 lambda x: raw_to_real.get(_norm_val(x), np.nan)
             )
 
-        # write back updated DataFrame
+
         metadata_table.at[idx, "data"] = df
-        #======================================================================================================================
+ #======================================================================================================================
 
 
 
@@ -694,6 +704,7 @@ def find_bad_mappings_for_config(
 
     # If more than one matches, we’ll just check all of them,
     # but usually you expect exactly one.
+    
     results = []
 
     for _, row in subset.iterrows():
@@ -754,10 +765,7 @@ def find_bad_mappings_for_config(
 # Returns:
 
 def print_unique_outcome_values(OUTCOME_ATTRIBUTES, real_data_by_domain, llm_data_by_domain):
-    """
-    For each domain and each outcome attribute listed in OUTCOME_ATTRIBUTES,
-    print and compare the unique values for real vs LLM datasets.
-    """
+
     for domain, attributes in OUTCOME_ATTRIBUTES.items():
         print("=" * 80)
         print(f"DOMAIN: {domain.upper()}")
@@ -817,10 +825,10 @@ OUTCOME_ALIASES = {
                 "approved and accepted",
                 "approved and funded",
                 "completed",
-                "loan closed",   # if you want to treat closes as successful
+                "loan closed", 
                 "loan finalized for disbursement",
                 "loan consummated",
-                # numeric codes for originated / purchased (treat as 1 if you want)
+       
                 "1", "1.0",
             ],
             0: [
@@ -861,12 +869,12 @@ OUTCOME_ALIASES = {
                 "preapproval denied",
                 "preapproval request approved but not accepted",
                 "preapproval request cancelled",
-                # generic “not made / not accepted”
+  
                 "loan not made",
                 "loan not accepted",
                 "no approval",
                 "loan not applied for",
-                # numeric codes for other actions (HMDA 2–8 etc) → treat as 0 here
+
                 "2", "2.0", "3", "3.0", "4", "4.0", "5", "5.0",
                 "6", "6.0", "7", "7.0", "8", "8.0",
             ],
@@ -874,7 +882,7 @@ OUTCOME_ALIASES = {
     },
 
     "hatecrime": {
-        # Map offense_name (real + LLM) -> is_violent ("violent" / "non-violent")
+       
         "offense_name": {
             "violent": [
                 # core violent offenses
@@ -982,7 +990,7 @@ OUTCOME_ALIASES = {
                 "wire fraud",
                 "hacking/computer invasion",
 
-                # intimidation / threat only (no physical harm)
+             
                 "intimidation",
                 "harassment",
                 "harassment/intimidation",
@@ -993,11 +1001,11 @@ OUTCOME_ALIASES = {
                 "fear/intimidation",
                 "bias intimidation",
 
-                # generic “other / unspecified”
+      
                 "hate crime",
                 "hate crime incident",
                 "crime against property",
-                "crime against persons",  # you might decide to treat this as violent later
+                "crime against persons",  
                 "other",
                 "unspecified",
             ],
@@ -1025,6 +1033,9 @@ def build_outcome_mapping(alias_dict):
     return mapping
 #======================================================================================================================
 
+
+
+
 #======================================================================================================================
 # Method to apply the mappings to all the datasets in the metadata table
 
@@ -1044,25 +1055,17 @@ def _outcome_target_name(domain, outcome_attr):
     return outcome_attr + "_Mapped"
 
 #======================================================================================================================
+
+
+#======================================================================================================================
 def apply_outcome_mappings_all(real_data_by_domain, metadata_table, OUTCOME_ALIASES):
-    """
-    Create outcome mapping columns on:
-      - each REAL dataset in real_data_by_domain
-      - each LLM dataset in metadata_table["data"]
 
-    For lending:   action_taken → loan_approved (1/0)
-    For hatecrime: offense_name → is_violent ("violent"/"non-violent")
-
-    Values not found in OUTCOME_ALIASES → NaN.
-    """
-
-    # Prebuild mappings for (domain, outcome_attr)
     outcome_mappings = {}
     for domain, attrs in OUTCOME_ALIASES.items():
         for outcome_attr, alias_dict in attrs.items():
             outcome_mappings[(domain, outcome_attr)] = build_outcome_mapping(alias_dict)
 
-    # --- REAL datasets ---
+
     for (domain, outcome_attr), raw_to_canonical in outcome_mappings.items():
         if domain not in real_data_by_domain:
             continue
@@ -1076,7 +1079,6 @@ def apply_outcome_mappings_all(real_data_by_domain, metadata_table, OUTCOME_ALIA
         )
         real_data_by_domain[domain] = real_df  # write back (optional, mostly for clarity)
 
-    # --- LLM datasets (each row in metadata_table) ---
     for idx, row in metadata_table.iterrows():
         domain = row["domain"]
         df = row["data"]
@@ -1116,12 +1118,6 @@ def apply_outcome_mappings_all(real_data_by_domain, metadata_table, OUTCOME_ALIA
 # 1. The base rate parity for the dataset
 
 def base_rate_parity_employment(df, pairs):
-    """
-    Compute the average Base Rate Parity over all (male,female) attribute pairs.
-
-    bp_i = | P(Y=1 | S=Male) - P(Y=1 | S=Female) |
-    with Y=1 when that group's value > the other group's value.
-    """
 
     bp_values = []
 
@@ -1157,11 +1153,11 @@ def disparate_impact_employment(df, pairs):
 
     di_values = []
 
-    # --- CLEANING STEP (fixes your error) ---
+
     for male_col, female_col in pairs:
         df[male_col] = pd.to_numeric(df[male_col], errors="coerce")
         df[female_col] = pd.to_numeric(df[female_col], errors="coerce")
-    # -----------------------------------------
+
 
     for male_col, female_col in pairs:
 
@@ -1229,38 +1225,7 @@ def mean_difference_employment(df, pairs):
 # Returns:
 # 1. The base rate parity for the dataset
 def base_rate_parity(df, sensitive_attrs, outcome_col, positive_label):
-    """
-    Multiclass Base Rate Parity (Hate Crime version).
 
-    For each sensitive attribute S in sensitive_attrs:
-        1. Compute P(Y=1 | S=g) for each category g of S
-        2. Build all pairwise disparities:
-               b_p(i,j) = |P(Y=1 | S=gi) - P(Y=1 | S=gj)|
-        3. Take the maximum over pairs -> b_p^(S)
-    Then return the average over sensitive attributes.
-
-    Parameters
-    ----------
-    df : pd.DataFrame
-        Dataset.
-    sensitive_attrs : list[str]
-        List of sensitive attribute column names, e.g.
-        ["offender_ethnicity_Mapped", "offender_race_Mapped"].
-    outcome_col : str
-        Name of the outcome column, e.g. "is_violent".
-    positive_label : any
-        Value in outcome_col that is considered Y=1
-        (for your paper: positive outcome = "non-violent").
-
-    Returns
-    -------
-    overall_bp : float
-        Average base rate parity across sensitive_attrs.
-    per_attr_bp : dict
-        {sensitive_attr: max pairwise disparity for that attribute}.
-    per_attr_probs : dict
-        {sensitive_attr: pd.Series of P(Y=1|S=g) per category g}.
-    """
 
     per_attr_bp = {}
     per_attr_probs = {}
@@ -1315,40 +1280,7 @@ def base_rate_parity(df, sensitive_attrs, outcome_col, positive_label):
 # Returns:
 # 1. The disparate impact for the dataset
 def disparate_impact_multiclass(df, sensitive_attrs, outcome_col, positive_label):
-    """
-    Multiclass Disparate Impact (as in your lending description).
-
-    For each sensitive attribute S with groups {g1, ..., gK}:
-
-        1. Compute p_g = P(Y=1 | S=g) for each group g
-        2. For every ordered pair (gi, gj), i != j:
-               DI(i,j) = p_gi / p_gj
-           and deviation from perfect fairness:
-               dev(i,j) = |DI(i,j) - 1|
-        3. DI^(S) = max_{i != j} dev(i,j)
-
-    Then the overall DI for the dataset is the average over all S in sensitive_attrs.
-
-    Parameters
-    ----------
-    df : pd.DataFrame
-    sensitive_attrs : list[str]
-        Names of sensitive attribute columns (e.g. ["derived_race_Mapped", "derived_sex_Mapped"])
-    outcome_col : str
-        Name of the outcome column (e.g. "loan_approved")
-    positive_label : any
-        Value in outcome_col that counts as Y=1 (e.g. 1 or 1.0)
-
-    Returns
-    -------
-    overall_di : float
-        Average disparate impact (mean of DI^(S) across sensitive attributes).
-    per_attr_di : dict
-        {sensitive_attr: DI^(S)} – max deviation from 1 for each attribute.
-    per_attr_probs : dict
-        {sensitive_attr: pd.Series of P(Y=1 | S=g) per group}.
-    """
-
+ 
     per_attr_di = {}
     per_attr_probs = {}
 
@@ -1407,40 +1339,6 @@ def disparate_impact_multiclass(df, sensitive_attrs, outcome_col, positive_label
 # Returns:
 # 1. The base rate for the dataset 
 def base_rate_multiclass(df, sensitive_attrs, outcome_col, positive_label):
-    """
-    Multiclass Base Rate metric (lending-style).
-
-    For each sensitive attribute S with groups {g1, ..., gK}:
-
-        1. Let N = total number of samples (after dropping NaNs in S and Y).
-        2. For each group g:
-               Y_g = number of rows with (Y == positive_label and S == g)
-               BR(g) = Y_g / N
-        3. For every pair (gi, gj), i < j:
-               BRD(i,j) = |BR(gi) - BR(gj)|
-        4. BR^(S) = max_{i<j} BRD(i,j)
-
-    Overall BR for the dataset = mean of BR^(S) over all sensitive_attrs.
-
-    Parameters
-    ----------
-    df : pd.DataFrame
-    sensitive_attrs : list[str]
-        Sensitive attribute columns (e.g. ["derived_race_Mapped", "derived_sex_Mapped"])
-    outcome_col : str
-        Outcome column (e.g. "loan_approved")
-    positive_label : any
-        Value treated as Y=1 (e.g. 1 or 1.0)
-
-    Returns
-    -------
-    overall_br : float
-        Average BR^(S) over sensitive_attrs.
-    per_attr_br : dict
-        {S: BR^(S)} maximum disparity for each sensitive attribute.
-    per_attr_rates : dict
-        {S: pd.Series of BR(g) for each group g in S}.
-    """
 
     per_attr_br = {}
     per_attr_rates = {}
