@@ -14,3 +14,5 @@
 /notebooks/data_generation/__pycache__/
 /notebooks/experiments/__pycache__/
 /notebooks/experiments/*md
+__pycache__/
+*.pyc
