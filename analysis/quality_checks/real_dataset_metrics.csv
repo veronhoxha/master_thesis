@@ -1,0 +1,4 @@
+domain,row_count,column_count,overall_missing_pct,duplicate_rows,duplicate_rows_pct,duplicate_rows_primary_key,duplicate_rows_primary_key_pct
+hatecrime,265834,20,13.516141652309335,4084,1.5362970876562065,16901,6.357727002565511
+employment,11239,18,3.137882967049263,0,0.0,0,0.0
+lending,12229298,58,16.23392051809825,32748,0.26778315484666415,5006136,40.935595812613286
