@@ -378,6 +378,39 @@ def plot_faceted_by_llm(df):
                     )
                 )
 
+        if 'shot' in stats_df.columns:
+            print("\n" + "=" * 80)
+            print("AVERAGE BAD ROWS PER LLM BY SHOT")
+            print("=" * 80)
+
+            shot_run_totals = (
+                stats_df.groupby(['llm', 'shot', 'run'])['bad_rows_count']
+                .sum()
+                .unstack('run')
+                .reindex(columns=run_levels, fill_value=0)
+                .fillna(0)
+            )
+
+            shot_avg = (
+                shot_run_totals.mean(axis=1)
+                .reset_index(name='avg_bad_rows_per_run')
+            )
+
+            for llm in llm_run_stats['llm']:
+                subset = (
+                    shot_avg[shot_avg['llm'] == llm]
+                    .sort_values('shot')
+                )
+                if subset.empty:
+                    continue
+                print(f"\n{llm}:")
+                print(
+                    subset[['shot', 'avg_bad_rows_per_run']].to_string(
+                        index=False,
+                        formatters={'avg_bad_rows_per_run': '{:,.2f}'.format}
+                    )
+                )
+
         if has_domain_shot_info:
             print("\n" + "=" * 80)
             print("AVERAGE BAD ROWS PER LLM BY DOMAIN AND SHOT")
