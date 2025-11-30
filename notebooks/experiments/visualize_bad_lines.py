@@ -2,6 +2,7 @@
 
 import argparse
 import matplotlib.pyplot as plt
+import matplotlib.patches as mpatches
 import numpy as np
 import pandas as pd
 import seaborn as sns
@@ -13,14 +14,11 @@ warnings.filterwarnings("ignore", category=DeprecationWarning, module="pkg_resou
 
 ###########################
 
+sns.set_style("whitegrid")
+
 plt.rcParams.update({
-    'axes.titlesize': 23,
-    'axes.labelsize': 20,
-    'legend.fontsize': 17,
-    'xtick.labelsize': 20,
-    'ytick.labelsize': 20,
-    'figure.titlesize': 30,
-    'axes.titlepad': 18,
+    'xtick.labelsize': 28,
+    'ytick.labelsize': 28,
 })
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
@@ -30,18 +28,22 @@ BAD_LINES_BY_LLM_PATH = PROJECT_ROOT / "analysis" / "bad_lines" / "bad_lines_by_
 
 
 FONT_CONFIG = {
-    'suptitle_size': 30, 
+    'suptitle_size': 36, 
     'suptitle_weight': 'bold',
-    'title_size': 23,  
+    'title_size': 33,  
     'title_weight': 'normal',
-    'label_size': 20,  
-    'tick_size': 20,  
+    'label_size': 24,  
+    'xlabel_size': 29,
+    'ylabel_size': 29,
+    'tick_size': 24,
+    'xtick_label_size': 30,
+    'ytick_label_size': 30,
     'bar_label_size': 15,
-    'legend_size': 20, 
-    'legend_title_size': 20,
-    'text_color_dark': '#333333',
-    'text_color_medium': '#666666',
-    'text_color_light': '#CCCCCC',
+    'legend_size': 24, 
+    'legend_title_size': 24,
+    'text_color_dark': '#080808',
+    'text_color_medium': '#080808',
+    'text_color_light': '#808080',
 }
 
 """
@@ -72,11 +74,17 @@ def plot_faceted_by_llm(df):
         n_cols = 3
         n_rows = (n_domains + n_cols - 1) // n_cols
         
-        fig, axes = plt.subplots(n_rows, n_cols, figsize=(18, 6 * n_rows), sharex=True, sharey=False)
+        fig, axes = plt.subplots(
+            n_rows, 
+            n_cols, 
+            figsize=(18, 6 * n_rows), 
+            sharex=True, 
+            sharey=False
+        )
         axes = axes.flatten()
         
-        max_value = subset['bad_rows_count'].max() if len(subset) > 0 else 1
-        y_max = max_value * 1.1
+        y_max = 2000
+        y_ticks = [0, 500, 1000, 1500, 2000]
 
         for i, domain in enumerate(domains):
             ax = axes[i]
@@ -95,38 +103,70 @@ def plot_faceted_by_llm(df):
                 ax=ax,
                 saturation=0.85,
                 zorder=2,
-                width=1.0
+                width=0.7
             )
             
             ax.set_ylim(bottom=0, top=y_max)
+            ax.set_yticks(y_ticks)
 
-            ax.set_title(domain.title(), fontsize=FONT_CONFIG['title_size'], fontweight=FONT_CONFIG['title_weight'], color=FONT_CONFIG['text_color_dark'], pad=10)
-            
-            if i >= (n_rows - 1) * n_cols:
-                ax.set_xlabel('Shot Type', fontsize=FONT_CONFIG['label_size'], color=FONT_CONFIG['text_color_medium'])
-            else:
-                ax.set_xlabel('')
-            
+            ax.set_title(
+                domain.title(), 
+                fontsize=FONT_CONFIG['title_size'], 
+                fontweight=FONT_CONFIG['title_weight'], 
+                color='black', 
+                pad=25
+            )
 
             if i % n_cols == 0:
-                ax.set_ylabel('Number of Bad Rows', fontsize=FONT_CONFIG['label_size'], color=FONT_CONFIG['text_color_medium'])
+                ax.set_ylabel(
+                    'Number of Bad Rows', 
+                    fontsize=FONT_CONFIG['ylabel_size'], 
+                    color='black'
+                )
             else:
                 ax.set_ylabel('')
 
             if i == 0:
-                ax.tick_params(axis='y', colors=FONT_CONFIG['text_color_medium'], labelsize=FONT_CONFIG['tick_size'], left=True, labelleft=True)
+                ax.tick_params(
+                    axis='y', 
+                    colors='black', 
+                    labelsize=FONT_CONFIG['ytick_label_size'], 
+                    left=True, 
+                    labelleft=True
+                )
             else:
-                ax.tick_params(axis='y', colors=FONT_CONFIG['text_color_medium'], labelsize=FONT_CONFIG['tick_size'], left=True, labelleft=False)
+                ax.tick_params(
+                    axis='y', 
+                    colors='black', 
+                    labelsize=FONT_CONFIG['ytick_label_size'], 
+                    left=True, 
+                    labelleft=False
+                )
 
             ax.set_xticks(range(len(shot_order)))
-            if i >= (n_rows - 1) * n_cols:
-                ax.set_xticklabels([s.title() for s in shot_order], fontsize=FONT_CONFIG['tick_size'], color=FONT_CONFIG['text_color_medium'])
-                ax.tick_params(colors=FONT_CONFIG['text_color_medium'], width=0.5, length=3, bottom=True, labelbottom=True)
-            else:
-                ax.set_xticklabels([])
-                ax.tick_params(colors=FONT_CONFIG['text_color_medium'], width=0.5, length=3, bottom=True, labelbottom=False)
+            ax.set_xticklabels(
+                [s.lower() for s in shot_order], 
+                fontsize=FONT_CONFIG['xtick_label_size'], 
+                color='black'
+            )
+            ax.tick_params(
+                colors='black', 
+                width=0.5, 
+                length=3, 
+                bottom=True, 
+                labelbottom=True
+            )
+            ax.set_xlim(-0.5, len(shot_order) - 0.5)
 
-            ax.grid(axis='y', linestyle='-', alpha=0.15, linewidth=0.5, color=FONT_CONFIG['text_color_light'], zorder=1)
+            ax.grid(
+                True, 
+                axis='y', 
+                alpha=1.0, 
+                linestyle='-', 
+                linewidth=0.7, 
+                zorder=0
+            )
+            ax.set_axisbelow(True)
             for spine in ['top', 'right']:
                 ax.spines[spine].set_visible(False)
             for spine in ['bottom', 'left']:
@@ -135,13 +175,32 @@ def plot_faceted_by_llm(df):
 
             for container in ax.containers:
                 labels = [int(v.get_height()) if v.get_height() > 0 else '' for v in container]
-                ax.bar_label(container, labels=labels, padding=2, fontsize=FONT_CONFIG['bar_label_size'], color=FONT_CONFIG['text_color_dark'], zorder=3)
+                ax.bar_label(
+                    container, 
+                    labels=labels, 
+                    padding=2, 
+                    fontsize=FONT_CONFIG['bar_label_size'], 
+                    color='black', 
+                    zorder=3
+                )
 
             if ax.get_legend():
                 ax.get_legend().remove()
 
         for j in range(n_domains, len(axes)):
             axes[j].set_visible(False)
+
+        for ax in axes:
+            ax.set_xlabel('')
+
+        visible_axes_for_x = [ax for ax in axes if ax.get_visible()]
+        if visible_axes_for_x:
+            bboxes_x = [ax.get_position() for ax in visible_axes_for_x]
+            leftmost_x = min(bb.x0 for bb in bboxes_x)
+            rightmost_x = max(bb.x1 for bb in bboxes_x)
+            center_x_label = (leftmost_x + rightmost_x) / 2
+        else:
+            center_x_label = 0.5
 
         all_handles = []
         all_labels = []
@@ -154,11 +213,11 @@ def plot_faceted_by_llm(df):
                 try:
                     handles, labels = ax.get_legend_handles_labels()
                     for h, lbl in zip(handles, labels):
-                        if lbl not in seen_labels:
+                        if lbl not in seen_labels and lbl != '':
                             all_handles.append(h)
                             all_labels.append(lbl)
                             seen_labels.add(lbl)
-                except:
+                except Exception:
                     pass
         
         if all_handles and all_labels:
@@ -172,7 +231,7 @@ def plot_faceted_by_llm(df):
                     all_handles, all_labels,
                     title="Error Type",
                     loc='lower center',
-                    bbox_to_anchor=(center_x, -0.15),
+                    bbox_to_anchor=(center_x, -0.30),
                     ncol=min(len(error_types), 6),
                     fontsize=FONT_CONFIG['legend_size'],
                     title_fontsize=FONT_CONFIG['legend_title_size'],
@@ -184,7 +243,7 @@ def plot_faceted_by_llm(df):
                     all_handles, all_labels,
                     title="Error Type",
                     loc='lower center',
-                    bbox_to_anchor=(0.5, -0.15),
+                    bbox_to_anchor=(0.5, -0.30),
                     ncol=min(len(error_types), 6),
                     fontsize=FONT_CONFIG['legend_size'],
                     title_fontsize=FONT_CONFIG['legend_title_size'],
@@ -202,10 +261,24 @@ def plot_faceted_by_llm(df):
             
         fig.suptitle(
             f"{llm}",
-            fontsize=FONT_CONFIG['suptitle_size'], fontweight=FONT_CONFIG['suptitle_weight'], x=title_x, y=0.995, color=FONT_CONFIG['text_color_dark']
+            fontsize=FONT_CONFIG['suptitle_size'],
+            fontweight=FONT_CONFIG['suptitle_weight'],
+            x=title_x,
+            y=0.995,
+            color='black'
         )
 
         plt.tight_layout(rect=[0, 0.12, 1, 0.97])
+
+        fig.text(
+            center_x_label,
+            0.04, 
+            "Shot Type",
+            ha="center",
+            va="center",
+            fontsize=FONT_CONFIG['xlabel_size'],
+            color="black"
+        )
         
         llm_name_clean = llm.replace('/', '_').replace('-', '_').replace('.', '_')
         filename = f"bad_rows_by_error_type_shot_domain_{llm_name_clean}.png"
