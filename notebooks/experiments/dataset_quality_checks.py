@@ -1248,6 +1248,12 @@ def inspect_type_correctness_runs(
     return summary_df
 
 
+def format_domain_name(domain: str) -> str:
+    if domain.lower() == 'hatecrime':
+        return 'Hate Crime'
+    return domain.title()
+
+
 
 if __name__ == "__main__":
     main()

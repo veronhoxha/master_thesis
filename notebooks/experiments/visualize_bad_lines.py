@@ -50,6 +50,11 @@ FONT_CONFIG = {
 Plot bad lines by error type, shot, and domain for each LLM.
 """
 
+def format_domain_name(domain: str) -> str:
+    if domain.lower() == 'hatecrime':
+        return 'Hate Crime'
+    return domain.title()
+
 def plot_faceted_by_llm(df):
     
     agg_data = df.groupby(['llm', 'domain', 'shot', 'error_type'])['bad_rows_count'].sum().reset_index()
@@ -110,7 +115,7 @@ def plot_faceted_by_llm(df):
             ax.set_yticks(y_ticks)
 
             ax.set_title(
-                domain.title(), 
+                format_domain_name(domain), 
                 fontsize=FONT_CONFIG['title_size'], 
                 fontweight=FONT_CONFIG['title_weight'], 
                 color='black', 

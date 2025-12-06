@@ -249,3 +249,9 @@ def analyze_raw_finals_comprehensive():
                         print(f"    Error processing {csv_file.name}: {e}")
                         continue
     return pd.DataFrame(results)
+
+
+def format_domain_name(domain: str) -> str:
+    if domain.lower() == 'hatecrime':
+        return 'Hate Crime'
+    return domain.title()

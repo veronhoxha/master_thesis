@@ -1379,4 +1379,12 @@ def base_rate_multiclass(df, sensitive_attrs, outcome_col, positive_label):
 
     overall_br = np.nanmean(list(per_attr_br.values()))
     return overall_br, per_attr_br, per_attr_rates
+
+
+def format_domain_name(domain: str) -> str:
+    if domain.lower() == 'hatecrime':
+        return 'Hate Crime'
+    return domain.title()
+
+
 #======================================================================================================================
