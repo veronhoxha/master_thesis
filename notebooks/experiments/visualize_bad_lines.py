@@ -29,7 +29,7 @@ BAD_LINES_BY_LLM_PATH = PROJECT_ROOT / "analysis" / "bad_lines" / "bad_lines_by_
 
 FONT_CONFIG = {
     'suptitle_size': 36, 
-    'suptitle_weight': 'bold',
+    # 'suptitle_weight': 'bold',
     'title_size': 33,  
     'title_weight': 'normal',
     'label_size': 24,  
@@ -54,6 +54,12 @@ def format_domain_name(domain: str) -> str:
     if domain.lower() == 'hatecrime':
         return 'Hate Crime'
     return domain.title()
+
+def format_error_type(error_type: str) -> str:
+    """Format error type labels by removing underscores and applying title case."""
+    if not error_type or error_type == 'Other':
+        return error_type
+    return error_type.replace('_', ' ').title()
 
 def plot_faceted_by_llm(df):
     
@@ -178,16 +184,16 @@ def plot_faceted_by_llm(df):
                 ax.spines[spine].set_color(FONT_CONFIG['text_color_light'])
                 ax.spines[spine].set_linewidth(0.5)
 
-            for container in ax.containers:
-                labels = [int(v.get_height()) if v.get_height() > 0 else '' for v in container]
-                ax.bar_label(
-                    container, 
-                    labels=labels, 
-                    padding=2, 
-                    fontsize=FONT_CONFIG['bar_label_size'], 
-                    color='black', 
-                    zorder=3
-                )
+            # for container in ax.containers:
+            #     labels = [int(v.get_height()) if v.get_height() > 0 else '' for v in container]
+            #     ax.bar_label(
+            #         container, 
+            #         labels=labels, 
+            #         padding=2, 
+            #         fontsize=FONT_CONFIG['bar_label_size'], 
+            #         color='black', 
+            #         zorder=3
+            #     )
 
             if ax.get_legend():
                 ax.get_legend().remove()
@@ -218,10 +224,11 @@ def plot_faceted_by_llm(df):
                 try:
                     handles, labels = ax.get_legend_handles_labels()
                     for h, lbl in zip(handles, labels):
-                        if lbl not in seen_labels and lbl != '':
+                        formatted_lbl = format_error_type(lbl)
+                        if formatted_lbl not in seen_labels and formatted_lbl != '':
                             all_handles.append(h)
-                            all_labels.append(lbl)
-                            seen_labels.add(lbl)
+                            all_labels.append(formatted_lbl)
+                            seen_labels.add(formatted_lbl)
                 except Exception:
                     pass
         
@@ -267,7 +274,7 @@ def plot_faceted_by_llm(df):
         fig.suptitle(
             f"{llm}",
             fontsize=FONT_CONFIG['suptitle_size'],
-            fontweight=FONT_CONFIG['suptitle_weight'],
+            # fontweight=FONT_CONFIG['suptitle_weight'],
             x=title_x,
             y=0.995,
             color='black'
