@@ -48,9 +48,9 @@ All code is avaliable in the `notebooks/` folder and is organized by workflow st
 - `notebooks/experiments/duckdb_vs_pandas_comparison.py` – Compares DuckDB row counts with pandas row counts to verify results.
 - `notebooks/experiments/consistency_analysis.ipynb` – Main notebook for measuring numeric/categorical/semantic consistency across runs.
 - `notebooks/experiments/consistency_metrics.py` – Library of reusable functions of stability metrics.
-- `notebooks/experiments/rq02_bias/functions.py` – Core bias functions (disparate impact, base-rate parity).
-- `notebooks/experiments/rq02_bias/rq02_bias.ipynb` – Main bias notebook where we identify the results.
-- `notebooks/experiments/rq02_bias/plots.ipynb` – Visualization plots for bias metrics results.
+- `notebooks/experiments/bias/functions.py` – Core bias functions (disparate impact, base-rate parity).
+- `notebooks/experiments/bias/bias.ipynb` – Main bias notebook where we identify the results.
+- `notebooks/experiments/bias/plots.ipynb` – Visualization plots for bias metrics results.
 
 ### Data
 
@@ -78,7 +78,7 @@ All datasets are in the `data/` folder.
   - `duckdb_validation/` – DuckDB vs Pandas malformed rows validation logs and comparisons.
   - `quality_checks/` – Real-vs-generated constraint summaries.
   - `consistency/` – Consistency metrics for generated datasets per model/domain/shot.
-  - `bias_rq_02/` – Bias metrics per domain.
+  - `bias/` – Bias metrics per domain.
 - `figures/` – Final figures (flow charts, metric plots) used in the thesis.
 - `.env` – Environment variables (e.g., `MY_ENV_VAR` / `HF_TOKEN`) required for the Hugging Face data generator. This file is git-ignored, create `.env` file in the main directory and add an API key from Hugging Face if needed to generate data.
 

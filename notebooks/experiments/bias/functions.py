@@ -1,4 +1,4 @@
-# Imports 
+### IMPORTS ###
 import pandas as pd
 import numpy as np
 import os
@@ -9,14 +9,17 @@ from collections import defaultdict
 from scipy.spatial.distance import jensenshannon
 from sklearn.metrics import mutual_info_score
 from scipy.stats import chi2_contingency, ks_2samp, wasserstein_distance
-import warnings
 import re
-warnings.filterwarnings('ignore')
 
 
-#======================================================================================================================
+# WARNINGS
+import warnings
+warnings.filterwarnings("ignore", category=DeprecationWarning, module="pkg_resources")
 
-# Method to find the project root and directory
+###########################
+
+
+
 def find_project_root():
     current = Path.cwd()
     while current != current.parent:
@@ -25,11 +28,9 @@ def find_project_root():
         current = current.parent
     return Path.cwd()
 
-#======================================================================================================================
 
 
 
-#======================================================================================================================
 
 # Method to list all the generated datasets
 
@@ -92,12 +93,6 @@ def list_generated_datasets(generated_dir: Path):
     # Return all the data.
     return pd.DataFrame(rows)
 
-#======================================================================================================================
-
-
-
-
-#======================================================================================================================
 
 # Method to print a formatted table for ease of reading.
 
@@ -136,12 +131,8 @@ def print_formatted_table(df, value_col, title="Formatted Table"):
    
     return pivot  
 
-#======================================================================================================================
 
 
-
-
-#======================================================================================================================
 # Method to load a CSV file into a DataFrame while skipping malformed or bad lines.
 
 # Parameters:
@@ -165,12 +156,7 @@ def load_csv_safely(file_path):
         print(f"Error loading {file_path}: {e}")
         return pd.DataFrame() 
 
-#======================================================================================================================
 
-
-
-
-#======================================================================================================================
 # Method to print the unique values for each sensitive attribute, for the real and LLM generated datasets
 
 # Parameters:
@@ -209,11 +195,6 @@ def print_unique_sensitive_values(SENSITIVE_ATTRIBUTES, real_data_by_domain, llm
 
         print("\n")
 
-#======================================================================================================================
-
-
-
-#======================================================================================================================
 
 # Dictionary used for the mapping of the LLM generated datasets to the real datasets.
 ATTRIBUTE_ALIASES = {
@@ -562,14 +543,8 @@ ATTRIBUTE_ALIASES = {
     },
 }
 
-#======================================================================================================================
 
 
-
-
-
-
-#======================================================================================================================
 # Method to normalize the strings for matching (case-insensitive, trims quotes/spaces).
 
 # Parameters:
@@ -587,12 +562,10 @@ def _norm_val(x):
     s = s.lower()                   # lowercase
     s = re.sub(r"\s+", " ", s)      # collapse multiple spaces
     return s
-#======================================================================================================================
 
 
 
 
-#======================================================================================================================
 # Another method used to normalize the strings for matching (case-insensitive, trims quotes/spaces). Used later for
 # the outcome attributes.
 
@@ -609,12 +582,11 @@ def normalize_outcome_value(x):
         x = x.replace('"', "").replace("'", "")
         x = " ".join(x.split())
     return x
-#======================================================================================================================
 
 
 
 
-#======================================================================================================================
+
 # Method to apply the mappings to all the datasets in the metadata table
 
 # Parameters:
@@ -664,11 +636,10 @@ def apply_mappings_to_all_datasets(metadata_table, ATTRIBUTE_ALIASES):
 
 
         metadata_table.at[idx, "data"] = df
- #======================================================================================================================
 
 
 
-#======================================================================================================================
+
 # Method to count the number of NaN values in the mapped datasets
 
 # Parameters:
@@ -751,10 +722,10 @@ def find_bad_mappings_for_config(
     print(f"Mappings with more than {threshold*100:.0f}% NaN for this dataset:\n")
     print(bad_df.to_string(index=False, formatters={"nan_pct": "{:.2f}".format}))
     return bad_df
-#======================================================================================================================
 
 
-#======================================================================================================================
+
+
 # Method to print the unique values for each outcome attribute, for the real and LLM generated datasets
 
 # Parameters:
@@ -796,10 +767,10 @@ def print_unique_outcome_values(OUTCOME_ATTRIBUTES, real_data_by_domain, llm_dat
             print(f"      {llm_vals}")
 
         print("\n")
-#======================================================================================================================
 
 
-#======================================================================================================================
+
+
 # Dictionary for the mapping of outcome values.
 OUTCOME_ALIASES = {
     "lending": {
@@ -1013,11 +984,9 @@ OUTCOME_ALIASES = {
     },
 }
 
-#======================================================================================================================
 
 
 
-#======================================================================================================================
 def build_outcome_mapping(alias_dict):
     """
     Convert {"canonical": [alias1, alias2, ...], ...}
@@ -1031,12 +1000,10 @@ def build_outcome_mapping(alias_dict):
         for a in aliases:
             mapping[normalize_outcome_value(a)] = canonical
     return mapping
-#======================================================================================================================
 
 
 
 
-#======================================================================================================================
 # Method to apply the mappings to all the datasets in the metadata table
 
 # Parameters:
@@ -1054,10 +1021,9 @@ def _outcome_target_name(domain, outcome_attr):
         return "is_violent"
     return outcome_attr + "_Mapped"
 
-#======================================================================================================================
 
 
-#======================================================================================================================
+
 def apply_outcome_mappings_all(real_data_by_domain, metadata_table, OUTCOME_ALIASES):
 
     outcome_mappings = {}
@@ -1103,11 +1069,9 @@ def apply_outcome_mappings_all(real_data_by_domain, metadata_table, OUTCOME_ALIA
         metadata_table.at[idx, "data"] = df
 
     print("Outcome columns created on all REAL and LLM datasets successfully.")
-#======================================================================================================================
 
 
 
-#======================================================================================================================
 # Method to calculate the base rate parity for the Employment dataset
 
 # Parameters:
@@ -1137,9 +1101,9 @@ def base_rate_parity_employment(df, pairs):
     bp_avg = float(np.mean(bp_values)) if bp_values else np.nan
 
     return bp_avg, bp_values
-#======================================================================================================================
 
-#======================================================================================================================
+
+
 # Method to calculate the disparate impact for the Employment dataset
 
 # Parameters:
@@ -1174,9 +1138,9 @@ def disparate_impact_employment(df, pairs):
     di_avg = np.nanmean(di_values)
     return di_avg, di_values
 
-#======================================================================================================================
 
-#======================================================================================================================
+
+
 # Method to calculate the mean difference for the Employment dataset
 
 # Parameters:
@@ -1211,10 +1175,8 @@ def mean_difference_employment(df, pairs):
     md_avg = np.nanmean(md_values)
     return md_avg, md_values
 
-#======================================================================================================================
 
 
-#======================================================================================================================
 # Method to calculate the base rate parity for the multiclass dataset
 # Parameters:
 # 1. df: The dataset to calculate the base rate parity for
@@ -1266,10 +1228,10 @@ def base_rate_parity(df, sensitive_attrs, outcome_col, positive_label):
     overall_bp = np.nanmean(list(per_attr_bp.values()))
 
     return overall_bp, per_attr_bp, per_attr_probs
-#======================================================================================================================
 
 
-#======================================================================================================================
+
+
 # Method to calculate the disparate impact for the multiclass dataset
 # Parameters:
 # 1. df: The dataset to calculate the disparate impact for
@@ -1326,9 +1288,9 @@ def disparate_impact_multiclass(df, sensitive_attrs, outcome_col, positive_label
 
     return overall_di, per_attr_di, per_attr_probs
 
-#======================================================================================================================
 
-#======================================================================================================================
+
+
 # Method to calculate the base rate for the multiclass dataset
 # Parameters:
 # 1. df: The dataset to calculate the base rate for
@@ -1386,5 +1348,3 @@ def format_domain_name(domain: str) -> str:
         return 'Hate Crime'
     return domain.title()
 
-
-#======================================================================================================================
