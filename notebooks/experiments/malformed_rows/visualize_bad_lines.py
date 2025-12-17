@@ -21,7 +21,18 @@ plt.rcParams.update({
     'ytick.labelsize': 28,
 })
 
-PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
+
+def find_project_root():
+    """Find the project root directory."""
+    current = Path.cwd()
+    while current != current.parent:
+        if (current / "README.md").exists():
+            return current
+        current = current.parent
+    return Path.cwd()
+
+
+PROJECT_ROOT = find_project_root()
 FIGURES_DIR = PROJECT_ROOT / "figures"
 FIGURES_DIR.mkdir(exist_ok=True)
 BAD_LINES_BY_LLM_PATH = PROJECT_ROOT / "analysis" / "bad_lines" / "bad_lines_by_llm.csv"

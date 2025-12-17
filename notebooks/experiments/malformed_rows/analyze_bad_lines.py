@@ -32,7 +32,6 @@ warnings.filterwarnings("ignore", category=DeprecationWarning, module="pkg_resou
 ###########################
 
 
-
 def find_project_root():
     """Find the project root directory."""
     current = Path.cwd()
