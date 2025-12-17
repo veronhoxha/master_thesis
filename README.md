@@ -35,8 +35,8 @@ All code is avaliable in the `notebooks/` folder and is organized by workflow st
 - `notebooks/preprocessing/raw_and_preprocessed_data_samples.py` – Getting samples from both the raw and cleaned datasets for documentation purposes in GitHub.
 
 #### Core Experiments & Analyses
-- `notebooks/experiments/analyze_bad_lines.py` – Script that inspects every generated CSV, enumerates through malformed rows, and writes the analysis under `analysis/bad_lines/`.
-- `notebooks/experiments/visualize_bad_lines.ipynb` / `visualize_bad_lines.py` – Plotting helpers for turning the malfomed-lines into figures.
+- `notebooks/experiments/malformed_rows/analyze_bad_lines.py` – Script that inspects every generated CSV, enumerates through malformed rows, and writes the analysis under `analysis/bad_lines/`.
+- `notebooks/experiments/malformed_rows/visualize_bad_lines.ipynb` / `visualize_bad_lines.py` – Plotting helpers for turning the malfomed-lines into figures.
 - `notebooks/experiments/basic_details_analysis.ipynb` / `basic_details_analysis.py` – Produce statistics analysis (row counts, time progression, chunk summaries) for each generation run.
 - `notebooks/experiments/clean_raw_finals.py` – Script that and produces the `_clean.csv` files of generated datasets used for experiments.
 - `notebooks/experiments/color_palette.py` – Color palette to keep thesis figures consistent.
@@ -44,8 +44,8 @@ All code is avaliable in the `notebooks/` folder and is organized by workflow st
 - `notebooks/experiments/data_loading.py` – Shared helper functions for discovering `(model, domain, shot)` groups and reading CSVs.
 - `notebooks/experiments/dataset_quality_checks.py` – Validates generated data against the real datasets (duplicate rates, missing value rates, logical constraints, data types) and exports summaries to `analysis/quality_checks/`.
 - `notebooks/experiments/dataset_quality_visualization.ipynb` – Visuals for data quality checks.
-- `notebooks/experiments/validate_with_duckdb.py` – Executes DuckDB SQL validation for every cleaned CSV to confirm schema conformance compared to Pandas parser.
-- `notebooks/experiments/duckdb_vs_pandas_comparison.py` – Compares DuckDB row counts with pandas row counts to verify results.
+- `notebooks/experiments/malformed_rows/validate_with_duckdb.py` – Executes DuckDB SQL validation for every cleaned CSV to confirm schema conformance compared to Pandas parser.
+- `notebooks/experiments/malformed_rows/duckdb_vs_pandas_comparison.py` – Compares DuckDB row counts with pandas row counts to verify results.
 - `notebooks/experiments/consistency_analysis.ipynb` – Main notebook for measuring numeric/categorical/semantic consistency across runs.
 - `notebooks/experiments/consistency_metrics.py` – Library of reusable functions of stability metrics.
 - `notebooks/experiments/bias/functions.py` – Core bias functions (disparate impact, base-rate parity).
