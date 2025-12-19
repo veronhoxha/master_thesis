@@ -6,6 +6,7 @@ removes malformed rows, and saves cleaned versions that are guaranteed
 to be readable by pandas.
 
 For each file: `*-raw_finals_of_all_chunks_*.csv`
+
 Creates: `*-raw_finals_of_all_chunks_*_clean.csv` in the same directory.
 """
 

@@ -6,11 +6,6 @@ import json
 def convert_csv_to_json(input_folder, output_folder, chunksize=100_000):
     """
     Convert CSV files to JSON format with proper handling of all data types.
-    
-    Args:
-        input_folder: Path to folder containing CSV files
-        output_folder: Path to folder where JSON files will be saved
-        chunksize: Number of rows to process at a time (for large files)
     """
     os.makedirs(output_folder, exist_ok=True)
     
@@ -54,12 +49,6 @@ def convert_csv_to_json(input_folder, output_folder, chunksize=100_000):
 def clean_record(record):
     """
     Clean a single record by handling NaN, infinity, and other special values.
-    
-    Args:
-        record: Dictionary representing a single row
-        
-    Returns:
-        Cleaned dictionary with JSON-compatible values
     """
     cleaned = {}
     

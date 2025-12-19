@@ -1,3 +1,13 @@
+"""
+
+Compare DuckDB validation results with pandas row count summary.
+
+This script helps confirm whether both pipelines retain the same number of rows
+per model/domain/shot combination.
+
+"""
+
+
 ### IMPORTS ###
 import json
 from pathlib import Path
@@ -10,14 +20,6 @@ warnings.filterwarnings("ignore", category=DeprecationWarning, module="pkg_resou
 
 ###########################
 
-"""
-
-Compare DuckDB validation results with pandas row count summary.
-
-This script helps confirm whether both pipelines retain the same number of rows
-per model/domain/shot combination.
-
-"""
 
 def find_project_root() -> Path:
     """Locate the repository root by walking upwards until README.md is found."""

@@ -1,8 +1,10 @@
 """
 Dataset quality checks for comparing LLM-generated data against real reference datasets.
 
-Runn `python notebooks/experiments/dataset_quality_checks.py`
+Run `python notebooks/experiments/dataset_quality_checks.py`
+
 This script processes every cleaned generated dataset detected under `data/generated/<model-run>/<domain>/<shot>/csv/`.
+
 Real datasets are loaded from `data/preprocessed/`.
 """
 

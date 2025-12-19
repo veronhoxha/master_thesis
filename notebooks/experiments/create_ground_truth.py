@@ -1,8 +1,18 @@
 """Create ground truth column type mapping from real datasets."""
 
+
+### IMPORTS ###
 import json
 import pandas as pd
 from pathlib import Path
+
+# WARNINGS
+import warnings
+warnings.filterwarnings("ignore", category=DeprecationWarning, module="pkg_resources")
+
+
+###########################
+
 
 datasets = {
     'hatecrime': '../../data/preprocessed/hate_crime_preprocessed.csv',
