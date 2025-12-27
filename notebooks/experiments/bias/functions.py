@@ -1,3 +1,6 @@
+'''Bias Analysis Functions'''
+
+
 ### IMPORTS ###
 import pandas as pd
 import numpy as np
@@ -19,8 +22,8 @@ warnings.filterwarnings("ignore", category=DeprecationWarning, module="pkg_resou
 ###########################
 
 
-
 def find_project_root():
+    """Find the project root directory."""
     current = Path.cwd()
     while current != current.parent:
         if (current / "README.md").exists():
@@ -30,40 +33,29 @@ def find_project_root():
 
 
 
-
-
-# Method to list all the generated datasets
-
-# Parameters: 
-# 1. Generated directory
-
-# Returns
-# 1. All the information about the datasets in a pandas dataframe. Includes domain, model, shot, run and file path.
-
 def list_generated_datasets(generated_dir: Path):
+    '''List all generated datasets in the given directory and extract metadata from filenames.'''
 
     rows = []
 
-    # The final version of our datasets is the one that has the string "csv_clean.csv" in the filename. 
-    # so we will list all the files that have the string "csv_clean.csv" in the filename.
     csv_files = list(generated_dir.rglob("*csv_clean.csv"))
     print(f"Found {len(csv_files)} CSV files.")
 
     for file in csv_files:
         filename = file.stem  # remove the .csv extension
 
-       # All our datasets in our are formatted like this: model-raw_finals_of_all_chunks_domain_shot_csv.csv
+       # all our datasets in our are formatted like this: model-raw_finals_of_all_chunks_domain_shot_csv.csv
        # so we will split the filename in order to extract the domain and shot and save everything in a dataframe.
         if "_finals_of_all_chunks_" in filename:
             prefix, rest = filename.split("_finals_of_all_chunks_", 1)
         elif "_final_of_all_chunks_" in filename:
             prefix, rest = filename.split("_final_of_all_chunks_", 1)
         else:
-            # We skip the files that do not match the naming pattern.
+            # we skip the files that do not match the naming pattern.
             print(f"Skipping: {filename}")
             continue
 
-        # Extract domain and shot from the filename.
+        # extract domain and shot from the filename.
         rest_parts = rest.split("_")
         if len(rest_parts) < 4:
             print(f"Skipping (unexpected tail): {filename}")
@@ -81,7 +73,6 @@ def list_generated_datasets(generated_dir: Path):
             run = None
             model = prefix
 
-        # Save all the data.
         rows.append({
             "domain": domain,
             "model": model,
@@ -90,23 +81,14 @@ def list_generated_datasets(generated_dir: Path):
             "file_path": str(file)
         })
 
-    # Return all the data.
     return pd.DataFrame(rows)
 
 
-# Method to print a formatted table for ease of reading.
-
-# Parameters:
-# 1. df: pandas Data containing at least ['model', 'run', 'shot', value_col]
-# 2. value_col: the column to summarize 
-# 3. Title: optional header for the title we want to print.
-
-# Returns:
-# 1. The formatted table
 
 def print_formatted_table(df, value_col, title="Formatted Table"):
+    '''Print a formatted table for ease of reading.'''
 
-    # Normalize run labels to "Run X"
+    # normalize run labels to "Run X"
     def normalize_run(r):
         if isinstance(r, str) and r.lower().startswith("run"):
             num = ''.join(filter(str.isdigit, r))
@@ -116,7 +98,6 @@ def print_formatted_table(df, value_col, title="Formatted Table"):
     df = df.copy()
     df["run_label"] = df["run"].apply(normalize_run)
     
-    # Create pivot
     pivot = df.pivot_table(
         index=["model", "run_label"],
         columns="shot",
@@ -124,24 +105,15 @@ def print_formatted_table(df, value_col, title="Formatted Table"):
         aggfunc="first"  
     )
     
-    # Printing the formatted table.
     print(f"\n{title}:\n")
     print(pivot.to_string())
     
-   
     return pivot  
 
 
 
-# Method to load a CSV file into a DataFrame while skipping malformed or bad lines.
-
-# Parameters:
-# 1. file_path: Path to the CSV file.
-
-# Returns: 
-# 1. The loaded data
-
 def load_csv_safely(file_path):
+    '''Load a CSV file into a DataFrame while skipping malformed or bad lines.'''
 
     try:
         df = pd.read_csv(
@@ -157,16 +129,9 @@ def load_csv_safely(file_path):
         return pd.DataFrame() 
 
 
-# Method to print the unique values for each sensitive attribute, for the real and LLM generated datasets
 
-# Parameters:
-# 1. SENSITIVE_ATTRIBUTES: Dictionary containing the sensitive attributes for each domain
-# 2. real_data_by_domain: Dictionary containing the real datasets for each domain
-# 3. llm_data_by_domain: Dictionary containing the LLM generated datasets for each domain
-
-# Returns:
-# 1. The unique values for each sensitive attribute, for the real and LLM generated datasets
 def print_unique_sensitive_values(SENSITIVE_ATTRIBUTES, real_data_by_domain, llm_data_by_domain):
+    '''Print unique values for each sensitive attribute in real and LLM datasets.'''
     
     for domain, attributes in SENSITIVE_ATTRIBUTES.items():
         print("=" * 80)
@@ -545,16 +510,9 @@ ATTRIBUTE_ALIASES = {
 
 
 
-# Method to normalize the strings for matching (case-insensitive, trims quotes/spaces).
-
-# Parameters:
-# 1. x: The string to normalize
-
-# Returns:
-# 1. The normalized string
 
 def _norm_val(x):
-    """Normalize strings for matching (case-insensitive, trims quotes/spaces)."""
+    '''Normalize strings for matching (case-insensitive, trims quotes/spaces).'''
     if pd.isna(x):
         return None
     s = str(x).strip()
@@ -565,18 +523,8 @@ def _norm_val(x):
 
 
 
-
-# Another method used to normalize the strings for matching (case-insensitive, trims quotes/spaces). Used later for
-# the outcome attributes.
-
-# Parameters:
-# 1. x: The string to normalize
-
-# Returns:
-# 1. The normalized string
-
 def normalize_outcome_value(x):
-    """Lowercase + strip + remove quotes + collapse whitespace."""
+    '''Lowercase + strip + remove quotes + collapse whitespace.'''
     if isinstance(x, str):
         x = x.strip().lower()
         x = x.replace('"', "").replace("'", "")
@@ -586,17 +534,8 @@ def normalize_outcome_value(x):
 
 
 
-
-# Method to apply the mappings to all the datasets in the metadata table
-
-# Parameters:
-# 1. metadata_table: The metadata table containing the datasets
-# 2. ATTRIBUTE_ALIASES: The dictionary containing the attribute aliases
-
-# Returns:
-# 1. The metadata table with the mapped datasets
-
 def apply_mappings_to_all_datasets(metadata_table, ATTRIBUTE_ALIASES):
+    '''Apply attribute mappings to all datasets in the metadata table.'''
 
     for idx, row in metadata_table.iterrows():
         domain = row["domain"]
@@ -640,14 +579,7 @@ def apply_mappings_to_all_datasets(metadata_table, ATTRIBUTE_ALIASES):
 
 
 
-# Method to count the number of NaN values in the mapped datasets
 
-# Parameters:
-# 1. metadata_table: The metadata table containing the datasets
-# 2. ATTRIBUTE_ALIASES: The dictionary containing the attribute aliases
-
-# Returns:
-# 1. The number of NaN values in the mapped datasets
 def find_bad_mappings_for_config(
     metadata_table,
     SENSITIVE_ATTRIBUTES,
@@ -657,8 +589,8 @@ def find_bad_mappings_for_config(
     shot=None,
     threshold=None,
 ):
+    '''Find sensitive attribute mappings with high NaN rates for a given config.'''
 
-    # Build mask to select the specific dataset
     mask = metadata_table["domain"] == domain
     if model is not None:
         mask &= metadata_table["model"] == model
@@ -726,16 +658,8 @@ def find_bad_mappings_for_config(
 
 
 
-# Method to print the unique values for each outcome attribute, for the real and LLM generated datasets
-
-# Parameters:
-# 1. OUTCOME_ATTRIBUTES: The dictionary containing the outcome attributes
-# 2. real_data_by_domain: The dictionary containing the real datasets
-# 3. llm_data_by_domain: The dictionary containing the LLM generated datasets
-
-# Returns:
-
 def print_unique_outcome_values(OUTCOME_ATTRIBUTES, real_data_by_domain, llm_data_by_domain):
+    '''Print unique values for each outcome attribute in real and LLM datasets.'''
 
     for domain, attributes in OUTCOME_ATTRIBUTES.items():
         print("=" * 80)
@@ -829,7 +753,6 @@ OUTCOME_ALIASES = {
                 "file closed for incompleteness",
                 "file closed",
                 "loan closed for incompleteness",
-                # approved but not accepted → treat as not approved (no loan)
                 "application approved but not accepted",
                 "loan approved but not accepted",
                 "approved but not accepted",
@@ -988,10 +911,7 @@ OUTCOME_ALIASES = {
 
 
 def build_outcome_mapping(alias_dict):
-    """
-    Convert {"canonical": [alias1, alias2, ...], ...}
-    into a raw_value → canonical lookup dict.
-    """
+    '''Build a mapping from raw outcome values to canonical categories.'''
     mapping = {}
     for canonical, aliases in alias_dict.items():
         # canonical value maps to itself
@@ -1004,17 +924,9 @@ def build_outcome_mapping(alias_dict):
 
 
 
-# Method to apply the mappings to all the datasets in the metadata table
-
-# Parameters:
-# 1. metadata_table: The metadata table containing the datasets
-# 2. OUTCOME_ALIASES: The dictionary containing the outcome attributes
-
-# Returns:
-# 1. The metadata table with the mapped datasets
 
 def _outcome_target_name(domain, outcome_attr):
-    """Decide the name of the new mapped column."""
+    '''Decide the name of the new mapped column.'''
     if domain == "lending" and outcome_attr == "action_taken":
         return "loan_approved"
     if domain == "hatecrime" and outcome_attr == "offense_name":
@@ -1025,6 +937,7 @@ def _outcome_target_name(domain, outcome_attr):
 
 
 def apply_outcome_mappings_all(real_data_by_domain, metadata_table, OUTCOME_ALIASES):
+    '''Apply outcome mappings to all REAL and LLM datasets.'''
 
     outcome_mappings = {}
     for domain, attrs in OUTCOME_ALIASES.items():
@@ -1072,16 +985,9 @@ def apply_outcome_mappings_all(real_data_by_domain, metadata_table, OUTCOME_ALIA
 
 
 
-# Method to calculate the base rate parity for the Employment dataset
-
-# Parameters:
-# 1. df: The dataset to calculate the base rate parity for
-# 2. pairs: The pairs of attributes to calculate the base rate parity for
-
-# Returns:
-# 1. The base rate parity for the dataset
 
 def base_rate_parity_employment(df, pairs):
+    '''Calculate the base rate parity for the Employment dataset.'''
 
     bp_values = []
 
@@ -1104,16 +1010,8 @@ def base_rate_parity_employment(df, pairs):
 
 
 
-# Method to calculate the disparate impact for the Employment dataset
-
-# Parameters:
-# 1. df: The dataset to calculate the disparate impact for
-# 2. pairs: The pairs of attributes to calculate the disparate impact for
-
-# Returns:
-# 1. The disparate impact for the dataset
-
 def disparate_impact_employment(df, pairs):
+    '''Calculate the disparate impact for the Employment dataset.'''
 
     di_values = []
 
@@ -1140,24 +1038,12 @@ def disparate_impact_employment(df, pairs):
 
 
 
-
-# Method to calculate the mean difference for the Employment dataset
-
-# Parameters:
-# 1. df: The dataset to calculate the mean difference for
-# 2. pairs: The pairs of attributes to calculate the mean difference for
-
-# Returns:
-# 1. The mean difference for the dataset
-
 def mean_difference_employment(df, pairs):
+    '''Calculate the mean difference for the Employment dataset.'''
 
-
-    # --- CLEANING STEP (same idea as DI) ---
     for male_col, female_col in pairs:
         df[male_col]   = pd.to_numeric(df[male_col], errors="coerce")
         df[female_col] = pd.to_numeric(df[female_col], errors="coerce")
-    # ---------------------------------------
 
     md_values = []
 
@@ -1177,17 +1063,9 @@ def mean_difference_employment(df, pairs):
 
 
 
-# Method to calculate the base rate parity for the multiclass dataset
-# Parameters:
-# 1. df: The dataset to calculate the base rate parity for
-# 2. sensitive_attrs: The list of sensitive attributes to calculate the base rate parity for
-# 3. outcome_col: The name of the outcome column
-# 4. positive_label: The value of the positive label
-
-# Returns:
-# 1. The base rate parity for the dataset
 def base_rate_parity(df, sensitive_attrs, outcome_col, positive_label):
 
+    '''Calculate the base rate parity for the multiclass dataset.'''
 
     per_attr_bp = {}
     per_attr_probs = {}
@@ -1232,16 +1110,8 @@ def base_rate_parity(df, sensitive_attrs, outcome_col, positive_label):
 
 
 
-# Method to calculate the disparate impact for the multiclass dataset
-# Parameters:
-# 1. df: The dataset to calculate the disparate impact for
-# 2. sensitive_attrs: The list of sensitive attributes to calculate the disparate impact for
-# 3. outcome_col: The name of the outcome column
-# 4. positive_label: The value of the positive label
-
-# Returns:
-# 1. The disparate impact for the dataset
 def disparate_impact_multiclass(df, sensitive_attrs, outcome_col, positive_label):
+    '''Calculate the disparate impact for the multiclass dataset.'''
  
     per_attr_di = {}
     per_attr_probs = {}
@@ -1290,17 +1160,9 @@ def disparate_impact_multiclass(df, sensitive_attrs, outcome_col, positive_label
 
 
 
-
-# Method to calculate the base rate for the multiclass dataset
-# Parameters:
-# 1. df: The dataset to calculate the base rate for
-# 2. sensitive_attrs: The list of sensitive attributes to calculate the base rate for
-# 3. outcome_col: The name of the outcome column
-# 4. positive_label: The value of the positive label
-
-# Returns:
-# 1. The base rate for the dataset 
+ 
 def base_rate_multiclass(df, sensitive_attrs, outcome_col, positive_label):
+    '''Calculate the base rate for the multiclass dataset.'''
 
     per_attr_br = {}
     per_attr_rates = {}
@@ -1347,4 +1209,3 @@ def format_domain_name(domain: str) -> str:
     if domain.lower() == 'hatecrime':
         return 'Hate Crime'
     return domain.title()
-
