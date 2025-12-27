@@ -1,7 +1,6 @@
-"""
-Combine raw LLM chunk CSVs (from chunk raws .txt) into a single CSV per run directory.
-"""
+"""Combine raw LLM chunk CSVs (from chunk raws .txt) into a single CSV per run directory."""
 
+### IMPORTS ###
 from __future__ import annotations
 import argparse
 import json
@@ -10,12 +9,23 @@ from collections import Counter
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
+# WARNINGS
+import warnings
+warnings.filterwarnings("ignore", category=DeprecationWarning, module="pkg_resources")
+
+
+
+###########################
+
+
+
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parents[2]
 DEFAULT_BASE_DIR = PROJECT_ROOT / "master_thesis" / "data" / "generated"
 
 
 def dynamic_output_name(csv_dir: Path) -> str:
+    '''Generate dynamic output CSV filename based on directory structure.'''
     try:
         shot = csv_dir.parent.name
         domain = csv_dir.parent.parent.name
@@ -28,6 +38,7 @@ def dynamic_output_name(csv_dir: Path) -> str:
 
 
 def iter_run_csv_dirs(base_dir: Path) -> List[Path]:
+    '''Iterate over all run CSV directories under the base directory.'''
     csv_dirs: List[Path] = []
     if not base_dir.exists():
         return csv_dirs
@@ -47,6 +58,7 @@ def iter_run_csv_dirs(base_dir: Path) -> List[Path]:
 
 
 def load_generation_log(csv_dir: Path) -> List[dict]:
+    '''Load generation log JSON entries from the CSV directory.'''
     path = csv_dir / "generation_log.json"
     if not path.exists():
         return []
@@ -58,6 +70,7 @@ def load_generation_log(csv_dir: Path) -> List[dict]:
 
 
 def parsed_rows_for_entry(csv_dir: Path, entry: dict) -> Optional[int]:
+    '''Get the number of parsed rows for a given log entry, if available.'''
     parsed_rel = entry.get("parsed_path")
     if not parsed_rel:
         return None
@@ -72,6 +85,7 @@ def parsed_rows_for_entry(csv_dir: Path, entry: dict) -> Optional[int]:
 
 
 def rows_generated_for_entry(entry: dict) -> Optional[int]:
+    '''Get the number of rows generated for a given log entry, if available.'''
     try:
         rg = entry.get("rows_generated")
         return int(rg) if rg is not None else None
@@ -80,6 +94,7 @@ def rows_generated_for_entry(entry: dict) -> Optional[int]:
 
 
 def select_success_raw_paths(csv_dir: Path, log_entries: List[dict]) -> List[Tuple[int, Path, Optional[int]]]:
+    '''Select successful raw response paths from log entries.'''
     selected: List[Tuple[int, Path, Optional[int]]] = []
     for entry in log_entries:
         if not entry.get("success", False):
@@ -100,6 +115,7 @@ def select_success_raw_paths(csv_dir: Path, log_entries: List[dict]) -> List[Tup
     seen_keys = {(cid, p) for cid, p, _ in [(cid, path, tr) for cid, path, tr in selected]}
 
     def parse_chunk_attempt(name: str) -> Tuple[Optional[int], int]:
+        '''Parse chunk ID and attempt number from filename.'''
         m = re.search(r"chunk_(\d+)", name)
         cid = int(m.group(1)) if m else None
         m2 = re.search(r"attempt_(\d+)", name)
@@ -160,16 +176,19 @@ def csv_split_aware(line: str) -> List[str]:
 
 
 def tokenize_header(line: str) -> List[str]:
+    '''Tokenize a header line into individual column names.'''
     return [t.strip().strip('"\'').strip() for t in csv_split_aware(line)]
 
 
 def clean_header_line(line: str) -> str:
+    '''Clean and standardize a header line.'''
     toks = tokenize_header(line)
     toks = [t for t in toks if t != ""]
     return ",".join(toks)
 
 
 def looks_like_header(line: str) -> bool:
+    '''Heuristic to determine if a line looks like a CSV header.'''
     toks = tokenize_header(line)
     if len(toks) < 2:
         return False
@@ -179,6 +198,7 @@ def looks_like_header(line: str) -> bool:
 
 
 def header_similarity(a: str, b: str) -> float:
+    '''Compute Jaccard similarity between two header lines.'''
     a_tokens = [t.lower() for t in tokenize_header(a) if t]
     b_tokens = [t.lower() for t in tokenize_header(b) if t]
     if not a_tokens or not b_tokens:
@@ -190,6 +210,7 @@ def header_similarity(a: str, b: str) -> float:
 
 
 def discover_header_candidates(raw_text: str) -> List[str]:
+    '''Discover header candidates from raw text.'''
     cands: List[str] = []
     for ln in split_lines_keep(raw_text):
         if is_fence(ln):
@@ -200,6 +221,7 @@ def discover_header_candidates(raw_text: str) -> List[str]:
 
 
 def majority_header(texts: List[str]) -> Optional[str]:
+    '''Determine the majority header from a list of raw texts.'''
     counter: Counter[str] = Counter()
     for tx in texts:
         for h in discover_header_candidates(tx):
@@ -210,6 +232,7 @@ def majority_header(texts: List[str]) -> Optional[str]:
 
 
 def canonical_header_from_existing(csv_dir: Path) -> Optional[str]:
+    '''Find an existing canonical header from already combined CSVs in the directory.'''
     dyn_out = dynamic_output_name(csv_dir)
     for p in sorted(csv_dir.glob("*_csv.csv")):
         name = p.name
@@ -225,6 +248,7 @@ def canonical_header_from_existing(csv_dir: Path) -> Optional[str]:
 
 
 def all_raw_lines_after_canonical_header(raw_text: str, canonical_header_clean: str) -> List[str]:
+    '''Extract all data lines after the canonical header in raw text.'''
     lines = split_lines_keep(raw_text)
     start_idx = None
     for i, ln in enumerate(lines):
@@ -255,6 +279,7 @@ def all_raw_lines_after_canonical_header(raw_text: str, canonical_header_clean: 
 
 
 def remove_header_lines(raw_text: str, canonical_header_clean: str) -> List[str]:
+    '''Remove all header lines from raw text based on canonical header.'''
     lines = split_lines_keep(raw_text)
     data: List[str] = []
     for ln in lines:
@@ -265,6 +290,7 @@ def remove_header_lines(raw_text: str, canonical_header_clean: str) -> List[str]
 
 
 def combine_raw_csvs_for_dir(csv_dir: Path) -> Optional[Path]:
+    '''Combine raw CSVs for a given run directory into a single CSV file.'''
     entries = load_generation_log(csv_dir)
     selected = select_success_raw_paths(csv_dir, entries)
     if not selected:
@@ -300,6 +326,8 @@ def combine_raw_csvs_for_dir(csv_dir: Path) -> Optional[Path]:
 
 
 def main():
+    '''Main function to combine raw chunk CSVs based on command-line arguments.'''
+    
     parser = argparse.ArgumentParser(description="Combine raw chunk CSVs per run directory")
     parser.add_argument("--model", help="Model dir (exact or base/substring, e.g., llama-3.1-8b-instruct or -run3)")
     parser.add_argument("--domain", help="Domain subdir (e.g., employment, hatecrime, lending)")

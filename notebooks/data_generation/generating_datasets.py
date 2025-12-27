@@ -1,4 +1,4 @@
-############ LLM DATA GENERATION ############
+'''LLM Dataset Generator using HuggingFace InferenceClient'''
 
 ### IMPORTS ###
 
@@ -20,9 +20,6 @@ warnings.filterwarnings("ignore", category=DeprecationWarning, module="pkg_resou
 
 ###########################
 
-"""
-LLM Dataset Generator (HuggingFace InferenceClient)
-"""
 
 # import the modern HuggingFace client
 try:
@@ -64,7 +61,7 @@ SCHEMAS: Dict[str, Dict[str, str]] = {
 
 
 def clean_llm_csv_output(text: str) -> str:
-    """Extract raw CSV-like content without altering commas inside quotes."""
+    '''Extract raw CSV-like content without altering commas inside quotes.'''
     
     fence = re.search(r"```(?:csv|text)?\s*([\s\S]*?)\s*```", text, flags=re.IGNORECASE)
     if fence:
@@ -86,9 +83,7 @@ def clean_llm_csv_output(text: str) -> str:
 
 
 def parse_llm_csv(text: str, domain: Optional[str] = None) -> tuple[pd.DataFrame, Dict[str, Any]]:
-    """Minimal parsing that preserves all rows and tracks schema corrections.
-    """
-    
+    '''Minimal parsing that preserves all rows and tracks schema corrections.'''
     
     cleaned_text = clean_llm_csv_output(text)
     if not cleaned_text:
@@ -117,7 +112,7 @@ def parse_llm_csv(text: str, domain: Optional[str] = None) -> tuple[pd.DataFrame
             exp_norm = set(normalize_token(c) for c in expected_cols)
             cells_norm = [normalize_token(c) for c in cells]
             matches = sum(1 for c in cells_norm if c in exp_norm)
-            # if many names match, then it's a header
+            # if names match, then it's a header
             if matches >= max(4, int(0.6 * len(expected_cols))):
                 return True
             alpha_like = sum(1 for c in cells if re.search(r"[A-Za-z]", c) and not re.match(r"^\s*[-+]?\d", c))
@@ -141,7 +136,6 @@ def parse_llm_csv(text: str, domain: Optional[str] = None) -> tuple[pd.DataFrame
             mapped_row = [""] * target_len
             
             if header_present and len(r) == len(rows[first_idx]):
-                # Map by column name matching; if too few matches, fallback to positional mapping
                 original_headers = rows[first_idx]
                 name_matches = 0
                 for i, orig_col in enumerate(original_headers):
@@ -211,8 +205,7 @@ def parse_llm_csv(text: str, domain: Optional[str] = None) -> tuple[pd.DataFrame
 
 
 def clean_llm_json_output(text: str) -> str:
-    """Extract a the best effort JSON array from messy LLM output.
-    """
+    '''Extract a the best effort JSON array from messy LLM output.'''
     if not isinstance(text, str):
         return ""
 
@@ -283,7 +276,7 @@ def clean_llm_json_output(text: str) -> str:
 
 
 def parse_llm_json(text: str) -> pd.DataFrame:
-    """Parse json output from the LLM"""
+    '''Parse json output from the LLM'''
     
     cleaned = clean_llm_json_output(text)
     if not cleaned:
@@ -312,7 +305,7 @@ def parse_llm_json(text: str) -> pd.DataFrame:
 
 
 def validate_and_fix_schema(df: pd.DataFrame, domain: str) -> tuple[pd.DataFrame, Dict]:
-    """Fix column schema mismatches"""
+    '''Fix column schema mismatches'''
     
     schema_issues = {
         "had_schema_mismatch": False,
@@ -383,7 +376,7 @@ def validate_and_fix_schema(df: pd.DataFrame, domain: str) -> tuple[pd.DataFrame
 ######### EXAMPLE DATA #########
 
 def get_examples(domain: str) -> List[Dict]:
-    """Get example rows for prompting"""
+    '''Get example rows for prompting.'''
     
     examples = {
         "hatecrime": [
@@ -808,6 +801,7 @@ def hf_generate(client: InferenceClient, prompt: str, model: str) -> str:
 
 def generate_chunk(client: InferenceClient, model: str, domain: str, shot_type: str,
                    format_type: str, chunk_num: int, output_dir: Path) -> tuple[bool, Optional[pd.DataFrame], Dict]:
+    '''Generate a single chunk of data.'''
     prompt = build_prompt(domain, format_type, shot_type, chunk_num)
     chunk_start_time = time.time()
 
@@ -913,6 +907,7 @@ def generate_chunk(client: InferenceClient, model: str, domain: str, shot_type: 
 
 def _compute_output_dir(model: str, domain: str, shot_type: str, format_type: str,
                         run_tag: Optional[str], autoincrement: bool) -> Tuple[str, Path]:
+    '''Compute output directory.'''
     base = Config.BASE_OUTPUT_DIR
     base_slug = Path(model.split('/')[-1].lower())
     slug = f"{base_slug}-{run_tag}" if run_tag else f"{base_slug}"
