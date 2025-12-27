@@ -1,11 +1,10 @@
-"""
-
+'''
 Compare DuckDB validation results with pandas row count summary.
 
 This script helps confirm whether both pipelines retain the same number of rows
 per model/domain/shot combination.
 
-"""
+'''
 
 
 ### IMPORTS ###
@@ -22,7 +21,7 @@ warnings.filterwarnings("ignore", category=DeprecationWarning, module="pkg_resou
 
 
 def find_project_root() -> Path:
-    """Locate the repository root by walking upwards until README.md is found."""
+    '''Locate the repository root by walking upwards until README.md is found.'''
     current = Path.cwd()
     while current != current.parent:
         if (current / "README.md").exists():
@@ -41,6 +40,7 @@ PANDAS_SUMMARY_PATH = (
 
 
 def load_duckdb_results(json_path: Path) -> Dict[str, dict]:
+    '''Load DuckDB validation results from JSON file.'''
     with json_path.open("r", encoding="utf-8") as fh:
         payload = json.load(fh)
 
@@ -70,6 +70,7 @@ def merge_results(
     duckdb_records: Dict[str, dict], pandas_df: pd.DataFrame
 ) -> pd.DataFrame:
     """Align DuckDB and pandas metrics and compute row differences."""
+    
     duckdf = (
         pd.DataFrame.from_dict(duckdb_records, orient="index")
         .rename_axis("key")
@@ -87,6 +88,7 @@ def merge_results(
 
 
 def format_summary_table(df: pd.DataFrame) -> pd.DataFrame:
+    '''Select and order relevant columns for the final summary table.'''
     columns = [
         "model",
         "model_run",
@@ -105,6 +107,8 @@ def format_summary_table(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def print_report(df: pd.DataFrame, max_rows: Optional[int] = None) -> None:
+    '''Print a summary report of the comparison results.'''
+    
     total = len(df)
     mismatches = df[df["row_diff_duck_vs_pandas"].fillna(0) != 0]
     missing_duck = df[df["_merge"] == "left_only"]
@@ -132,6 +136,7 @@ def print_report(df: pd.DataFrame, max_rows: Optional[int] = None) -> None:
 
 
 def write_output(df: pd.DataFrame, output_path: Optional[Path]) -> None:
+    '''Write the summary DataFrame to a CSV file if output_path is provided.'''
     if output_path is None:
         return
     output_path.parent.mkdir(parents=True, exist_ok=True)

@@ -20,12 +20,14 @@ warnings.filterwarnings("ignore", category=DeprecationWarning, module="pkg_resou
 
 
 def pairwise_indices(n: int) -> Iterable[Tuple[int, int]]:
+    '''Generate all unique pairs of indices from 0 to n-1.'''
     for i in range(n):
         for j in range(i + 1, n):
             yield i, j
 
 
 def safe_mean_std(series: pd.Series) -> Tuple[float, float]:
+    '''Compute mean and stddev of a numeric series.'''
     s = pd.to_numeric(series, errors="coerce").dropna()
     if s.empty:
         return float("nan"), float("nan")
@@ -33,6 +35,7 @@ def safe_mean_std(series: pd.Series) -> Tuple[float, float]:
 
 
 def pooled_std(series_list: Sequence[pd.Series]) -> float:
+    '''Compute pooled standard deviation across multiple series.'''
     values = []
     for s in series_list:
         values.append(pd.to_numeric(s, errors="coerce").dropna().values)
@@ -50,6 +53,8 @@ def detect_column_types(
     categorical_unique_threshold: int = 50,
     categorical_fraction_threshold: float = 0.5,
 ) -> Tuple[List[str], List[str], List[str], Dict[str, str]]:
+    
+    '''Detect column types across multiple dataframes.'''
     
     common_columns = set(dataframes[0].columns)
     for df in dataframes[1:]:
@@ -105,6 +110,9 @@ def compute_type_alignment(
     domain: Optional[str],
     ground_truth: Optional[Dict[str, Dict[str, List[str]]]],
 ) -> Dict[str, float]:
+    
+    '''Compute type alignment scores based on ground truth.'''
+    
     default_scores = {"numeric": 1.0, "categorical": 1.0, "semantic": 1.0}
     if not ground_truth or not domain or domain not in ground_truth:
         return default_scores
@@ -133,6 +141,9 @@ def compute_numeric_stability(
     dataframes: Sequence[pd.DataFrame],
     numeric_columns: Sequence[str],
 ) -> pd.DataFrame:
+    
+    '''Compute numeric stability metrics across multiple dataframes.'''
+    
     rows = []
     for col in numeric_columns:
         series_list = [pd.to_numeric(df[col], errors="coerce").dropna() for df in dataframes]
@@ -182,6 +193,9 @@ def compute_numeric_stability(
 
 
 def value_counts_aligned(series: pd.Series) -> Tuple[np.ndarray, List[str]]:
+    
+    '''Get value counts and categories from a series.'''
+    
     counts = series.astype(str).value_counts(dropna=True)
     categories = list(counts.index)
     values = counts.values.astype(float)
@@ -194,6 +208,9 @@ def align_distributions(
     b_values: np.ndarray,
     b_cats: List[str],
 ) -> Tuple[np.ndarray, np.ndarray, List[str]]:
+    
+    '''Align two categorical distributions by their categories.'''
+    
     all_cats = sorted(set(a_cats) | set(b_cats))
     a_map = {c: v for c, v in zip(a_cats, a_values)}
     b_map = {c: v for c, v in zip(b_cats, b_values)}
@@ -203,6 +220,9 @@ def align_distributions(
 
 
 def safe_entropy_from_counts(counts: np.ndarray) -> float:
+
+    '''Compute entropy from counts.'''
+    
     total = counts.sum()
     if total <= 0:
         return 0.0
@@ -214,6 +234,9 @@ def compute_categorical_stability(
     dataframes: Sequence[pd.DataFrame],
     categorical_columns: Sequence[str],
 ) -> pd.DataFrame:
+    
+    '''Compute categorical stability metrics across multiple dataframes.'''
+    
     rows = []
     for col in categorical_columns:
         jaccards = []
@@ -278,6 +301,7 @@ def compute_categorical_stability(
 
 
 def cosine_similarity(a: np.ndarray, b: np.ndarray) -> float:
+    '''Compute cosine similarity between two vectors.'''
     if a.ndim != 1 or b.ndim != 1:
         raise ValueError("cosine similarity expects 1D vectors")
     a_norm = np.linalg.norm(a)
@@ -293,12 +317,12 @@ def embed_text_documents(
     model_name: Optional[str] = None,
     random_state: int = 42,
 ) -> List[np.ndarray]:
-    """
+    '''
     Return a centroid embedding per run.
     
     For reproducibility and consistency, this function ONLY uses sentence-transformers.
     It will raise an ImportError if sentence-transformers is not available.
-    """
+    '''
     flat_docs = [doc for docs in documents_by_run for doc in docs]
     if not flat_docs:
         return [np.zeros(1, dtype=float) for _ in documents_by_run]
@@ -362,9 +386,7 @@ def compute_semantic_stability(
     embedding_method: str = "auto",
     embedding_model_name: Optional[str] = None,
 ) -> pd.DataFrame:
-    """
-    Compute semantic stability for the provided text columns.
-    """
+    '''Compute semantic stability for the provided text columns.'''
     rng = np.random.default_rng(random_state) if sample_size is not None else None
     rows = []
     for col in text_columns:
@@ -415,6 +437,8 @@ def aggregate_stability_index(
     ground_truth: Optional[Dict[str, Dict[str, List[str]]]] = None,
     type_alignment: Optional[Dict[str, float]] = None,
 ) -> Dict[str, float]:
+    
+    '''Aggregate consistency index from numeric, categorical, and semantic dataframes.'''
 
     weights = weights or {"numeric": 0.333, "categorical": 0.333, "semantic": 0.334}
     type_alignment = type_alignment or {"numeric": 1.0, "categorical": 1.0, "semantic": 1.0}
@@ -495,9 +519,7 @@ def compute_all_stability(
     domain: Optional[str] = None,
     ground_truth: Optional[Dict[str, Dict[str, List[str]]]] = None,
 ) -> Tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame, Dict[str, float]]:
-    """
-    Function to compute all metrics and a stability index.
-    """
+    """ Function to compute all metrics and a stability index."""
     numeric_cols, categorical_cols, text_cols, column_assignments = detect_column_types(
         dataframes,
         explicit_numeric=explicit_numeric,

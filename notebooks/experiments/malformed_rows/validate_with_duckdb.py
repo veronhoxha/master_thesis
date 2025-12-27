@@ -48,18 +48,7 @@ def discover_csv_files(generated_root: str) -> List[Path]:
 
 
 def validate_csv_in_duckdb(csv_path: Path) -> Dict[str, Any]:
-    """
-    Validate a CSV file in DuckDB.
-    
-    Returns:
-        {
-            'valid': bool,
-            'schema': Dict[str, str] (column_name -> dtype),
-            'row_count': int,
-            'error': str or None,
-            'sql_test_passed': bool
-        }
-    """
+    '''Validate a CSV file in DuckDB.'''
     
     result = {
         'valid': False,

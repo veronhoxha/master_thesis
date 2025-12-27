@@ -1,3 +1,5 @@
+''' Visualize malformed rows found in LLM-generated datasets. '''
+
 ### IMPORTS ###
 
 import argparse
@@ -57,9 +59,6 @@ FONT_CONFIG = {
     'text_color_light': '#808080',
 }
 
-"""
-Plot bad lines by error type, shot, and domain for each LLM.
-"""
 
 def format_domain_name(domain: str) -> str:
     if domain.lower() == 'hatecrime':
@@ -67,12 +66,13 @@ def format_domain_name(domain: str) -> str:
     return domain.title()
 
 def format_error_type(error_type: str) -> str:
-    """Format error type labels by removing underscores and applying title case."""
+    '''Format error type labels by removing underscores and applying title case.'''
     if not error_type or error_type == 'Other':
         return error_type
     return error_type.replace('_', ' ').title()
 
 def plot_faceted_by_llm(df):
+    '''Plot bad rows by error type, shot, and domain for each LLM.'''
     
     agg_data = df.groupby(['llm', 'domain', 'shot', 'error_type'])['bad_rows_count'].sum().reset_index()
 
@@ -551,9 +551,7 @@ def plot_faceted_by_llm(df):
 
 
 def load_bad_lines_dataframe(csv_path: Path | None = None) -> pd.DataFrame:
-    """
-    Load the bad-lines CSV.
-    """
+    '''Load the bad-lines CSV.'''
     default_path = (
         PROJECT_ROOT
         / "analysis"

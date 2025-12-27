@@ -1,10 +1,10 @@
-"""
-Analyze Bad Lines in raw CSV Files produced by the LLM's
+'''
+Analyze Bad Lines in raw CSV Files produced by the LLMs
 
 This script analyzes lines that pandas skips due to CSV parsing errors.
 Useful for understanding what LLMs produce that causes bad CSV formatting.
 
-For each raw_finals CSV file, it:
+For each CSV file, it:
 
 1. Reads line by line
 2. Attempts to parse each line
@@ -12,7 +12,7 @@ For each raw_finals CSV file, it:
 4. Analyzes patterns (unmatched quotes, empty lines, etc.)
 5. Generates statistics and examples
 
-"""
+'''
 
 ### IMPORTS ###
 
@@ -43,9 +43,7 @@ def find_project_root():
 
 
 def extract_metadata_from_path(csv_path: Path, generated_root: Path) -> Dict[str, Any]:
-    """
-    Extract metadata from file path.
-    """
+    '''Extract metadata from file path.'''
     
     try:
         relative = csv_path.relative_to(generated_root)
@@ -85,7 +83,7 @@ def extract_metadata_from_path(csv_path: Path, generated_root: Path) -> Dict[str
 
 
 def discover_raw_finals_files(generated_root: Path):
-    """Find all raw_finals CSV files (not cleaned versions)."""
+    '''Find all raw_finals CSV files (not cleaned versions).'''
     csv_files = []
     for csv_file in generated_root.rglob("*raw_finals_of_all_chunks*.csv"):
         if "_clean.csv" not in csv_file.name:
@@ -94,14 +92,7 @@ def discover_raw_finals_files(generated_root: Path):
 
 
 def detect_csv_error(line: str, expected_cols: int = None, actual_error: str = None, pandas_error_msg: str = None) -> Dict[str, Any]:
-    """
-    Try to detect what's wrong with a CSV line.
-    
-    Args:
-        line: The CSV line to analyze
-        expected_cols: Expected number of columns
-        actual_error: Actual error message from pandas if available
-    """
+    '''Try to detect what's wrong with a CSV line.'''
     
     result = {
         'error_type': 'unknown',
@@ -366,9 +357,7 @@ def detect_csv_error(line: str, expected_cols: int = None, actual_error: str = N
 
 
 def count_expected_csv_rows(csv_path: Path) -> int:
-    """
-    Count expected CSV rows.
-    """
+    '''Count expected CSV rows.'''
     logical_rows = 0
     try:
         with open(csv_path, 'r', encoding='utf-8', errors='ignore') as f:
@@ -392,9 +381,7 @@ def count_expected_csv_rows(csv_path: Path) -> int:
 
 
 def analyze_file_for_bad_lines(csv_path: Path) -> Tuple[List[Dict], int]:
-    """
-    Analyze a CSV file for bad lines by testing with pandas.
-    """
+    '''Analyze a CSV file for bad lines by testing with pandas.'''
     
     bad_lines = []
     expected_cols = None
@@ -691,12 +678,8 @@ def analyze_file_for_bad_lines(csv_path: Path) -> Tuple[List[Dict], int]:
 
 
 def calculate_statistics_by_dimensions(all_bad_lines: List[Dict], file_summaries: List[Dict]) -> Dict[str, Any]:
-    """
-    Calculate statistics broken down by domain, shot, LLM, run, and error type.
+    '''Calculate statistics broken down by domain, shot, LLM, run, and error type.'''
     
-    Returns:
-        Dictionary with various breakdowns and averages
-    """
     stats = {}
     
     df_summary = pd.DataFrame(file_summaries)
@@ -883,7 +866,7 @@ def calculate_statistics_by_dimensions(all_bad_lines: List[Dict], file_summaries
 
 def main():
     
-    """Main analysis script."""
+    '''Main analysis script.'''
     
     PROJECT_ROOT = find_project_root()
     GENERATED_DIR = PROJECT_ROOT / "data" / "generated"

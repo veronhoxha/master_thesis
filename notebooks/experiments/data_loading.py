@@ -37,6 +37,7 @@ class RunGroup:
 
 
 def split_base_and_run(name: str) -> Optional[Tuple[str, str]]:
+    '''Split a run directory name into base model and run suffix.'''
     lower = name.lower()
     for suffix in ("-run1", "-run2", "-run3"):
         if lower.endswith(suffix):
@@ -44,6 +45,7 @@ def split_base_and_run(name: str) -> Optional[Tuple[str, str]]:
     return None
 
 def discover_run_groups(generated_root: str = GENERATED_DIR) -> List[RunGroup]:
+    '''Discover the run groups.'''
     entries = [d for d in os.listdir(generated_root) if os.path.isdir(os.path.join(generated_root, d))]
     buckets: Dict[str, List[str]] = {}
     for name in entries:
@@ -62,6 +64,7 @@ def discover_run_groups(generated_root: str = GENERATED_DIR) -> List[RunGroup]:
 
 
 def find_present_subdirs(path: str, names: Sequence[str]) -> List[str]:
+    '''Find which of the given subdirectory names are present under the given path.'''
     present = []
     for n in names:
         p = os.path.join(path, n)
@@ -140,6 +143,8 @@ def load_all_csvs_under(path: str) -> pd.DataFrame:
 def load_group_dataframes(
     generated_root: str = GENERATED_DIR,
 ) -> Dict[Tuple[str, str, str], List[pd.DataFrame]]:
+    
+    '''Load dataframes for each run group, domain, and shot combination.'''
 
     groups = discover_run_groups(generated_root)
     result: Dict[Tuple[str, str, str], List[pd.DataFrame]] = {}
