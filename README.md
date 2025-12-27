@@ -31,7 +31,7 @@ All code is avaliable in the `notebooks/` folder and is organized by workflow st
 - `notebooks/preprocessing/lending_preprocess.ipynb` – Cleans the lending dataset and saves the cleaned CSV datasets.
 - `notebooks/preprocessing/hatecrime_preprocess.ipynb` – Cleans the hate crime dataset and saves the cleaned CSV datasets.
 - `notebooks/preprocessing/genderpaygap_preprocess.ipynb` – Cleans the employment dataset and saves the cleaned CSV datasets.
-- `notebooks/preprocessing/file_format_converter_csv_to_parquet.py` / `file_format_converter_csv_to_json.py` – Converters for in different formats.
+- `notebooks/preprocessing/file_format_converter_csv_to_parquet.py` / `file_format_converter_csv_to_json.py` – Converters for different formats.
 - `notebooks/preprocessing/raw_and_preprocessed_data_samples.py` – Getting samples from both the raw and cleaned datasets for documentation purposes in GitHub.
 
 #### Core Experiments & Analyses
@@ -47,8 +47,8 @@ All code is avaliable in the `notebooks/` folder and is organized by workflow st
 - `notebooks/experiments/malformed_rows/validate_with_duckdb.py` – Executes DuckDB SQL validation for every cleaned CSV to confirm schema conformance compared to Pandas parser.
 - `notebooks/experiments/malformed_rows/duckdb_vs_pandas_comparison.py` – Compares DuckDB row counts with pandas row counts to verify results.
 - `notebooks/experiments/consistency_analysis.ipynb` – Main notebook for measuring numeric/categorical/semantic consistency across runs.
-- `notebooks/experiments/consistency_metrics.py` – Library of reusable functions of stability metrics.
-- `notebooks/experiments/bias/functions.py` – Core bias functions (disparate impact, base-rate parity).
+- `notebooks/experiments/consistency_metrics.py` – Library of reusable functions of consistency metrics.
+- `notebooks/experiments/bias/functions.py` – Core bias functions (disparate impact, base rate parity).
 - `notebooks/experiments/bias/bias.ipynb` – Main bias notebook where we identify the results.
 - `notebooks/experiments/bias/plots.ipynb` – Visualization plots for bias metrics results.
 
@@ -111,7 +111,7 @@ Prerequisite: Python **3.13** (project developed/tested with 3.13.x, other versi
 
 4. **Populate `data/raw/`**  
    Download the full datasets referenced in below if you plan to regenerate preprocessed files and re-run the analyses. Sample files alone are not sufficient for the complete experiments.
-   Real dataset names:  `hate_crime.csv`, `uk_gender_pay_gap_data_2024_to_2025`, `year_2024.csv` (please use same namings when downloading the raw datasets).
+   Real dataset names:  `hate_crime.csv`, `uk_gender_pay_gap_data_2024_to_2025.csv`, `year_2024.csv` (please use same namings when downloading the raw datasets).
 
   - Source of data for hate crime: https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads
 
@@ -135,8 +135,8 @@ To reproduce the full thesis pipeline:
     Execute the files under the `notebooks/experiments/` folder.
 
 ## Contributors
-- **Veron Hoxha** . Contact: `veho@itu.dk` / `veronhoxha@yahoo.com`
-- **Estref Katillari** . Contact: `ekat@itu.dk` / `estrefkatillari00@gmail.com`
+- **Veron Hoxha** - Contact: `veho@itu.dk` / `veronhoxha@yahoo.com`
+- **Estref Katillari** - Contact: `ekat@itu.dk` / `estrefkatillari00@gmail.com`
 
 ## License
 This project is licensed under the MIT License.
