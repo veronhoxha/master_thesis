@@ -16,3 +16,4 @@
 /notebooks/experiments/*md
 notebooks/experiments/bias/__pycache__/
 notebooks/experiments/malformed_rows/__pycache__/
+notebooks/experiments/bias/__pycache__/

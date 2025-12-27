@@ -58,7 +58,7 @@ def list_generated_datasets(generated_dir: Path):
         # extract domain and shot from the filename.
         rest_parts = rest.split("_")
         if len(rest_parts) < 4:
-            print(f"Skipping (unexpected tail): {filename}")
+            print(f"Skipping: {filename}")
             continue
 
         domain = rest_parts[0]
@@ -152,10 +152,10 @@ def print_unique_sensitive_values(SENSITIVE_ATTRIBUTES, real_data_by_domain, llm
             llm_vals = sorted(llm_df[attr].dropna().unique().tolist()) \
                        if attr in llm_df.columns else "Not in LLM datasets"
 
-            print(f"  • Real unique values ({len(real_vals) if isinstance(real_vals, list) else '-' }):")
+            print(f"Real unique values ({len(real_vals) if isinstance(real_vals, list) else '-' }):")
             print(f"      {real_vals}")
 
-            print(f"  • LLM unique values ({len(llm_vals) if isinstance(llm_vals, list) else '-' }):")
+            print(f"LLM unique values ({len(llm_vals) if isinstance(llm_vals, list) else '-' }):")
             print(f"      {llm_vals}")
 
         print("\n")
@@ -467,7 +467,7 @@ ATTRIBUTE_ALIASES = {
                 "hispanic or latino",
                 "hispanic",
                 "hisp/latino",
-                "hisp/other",         # better here than non-hisp
+                "hisp/other",       
                 "hisp/chicano",
                 "histpanic",        
                 "hispanic/latino",
@@ -510,15 +510,14 @@ ATTRIBUTE_ALIASES = {
 
 
 
-
 def _norm_val(x):
     '''Normalize strings for matching (case-insensitive, trims quotes/spaces).'''
     if pd.isna(x):
         return None
     s = str(x).strip()
-    s = s.strip("\"'“”‘’")          # strip surrounding quotes
-    s = s.lower()                   # lowercase
-    s = re.sub(r"\s+", " ", s)      # collapse multiple spaces
+    s = s.strip("\"'“”‘’")         
+    s = s.lower()                  
+    s = re.sub(r"\s+", " ", s)     
     return s
 
 
@@ -575,7 +574,6 @@ def apply_mappings_to_all_datasets(metadata_table, ATTRIBUTE_ALIASES):
 
 
         metadata_table.at[idx, "data"] = df
-
 
 
 
@@ -695,7 +693,7 @@ def print_unique_outcome_values(OUTCOME_ATTRIBUTES, real_data_by_domain, llm_dat
 
 
 
-# Dictionary for the mapping of outcome values.
+# dictionary for the mapping of outcome values.
 OUTCOME_ALIASES = {
     "lending": {
         # Map action_taken (real + LLM) -> loan_approved (1 = approved/originated, 0 = not approved)
@@ -727,7 +725,6 @@ OUTCOME_ALIASES = {
                 "1", "1.0",
             ],
             0: [
-                # clear denials
                 "application denied",
                 "denied",
                 "loan denied",
@@ -744,7 +741,6 @@ OUTCOME_ALIASES = {
                 "deny",
                 "deny application",
                 "deny by institution",
-                # withdrawn / incomplete
                 "application withdrawn",
                 "application withdraw",
                 "application withdrawn by applicant",
@@ -758,7 +754,6 @@ OUTCOME_ALIASES = {
                 "approved but not accepted",
                 "approved but not accepted by applicant",
                 "approved not accepted",
-                # preapproval denials / not materialized
                 "preapproval request denied",
                 "preapproval denied",
                 "preapproval request approved but not accepted",
@@ -956,7 +951,7 @@ def apply_outcome_mappings_all(real_data_by_domain, metadata_table, OUTCOME_ALIA
         real_df[new_col] = real_df[outcome_attr].apply(
             lambda x: raw_to_canonical.get(normalize_outcome_value(x), np.nan)
         )
-        real_data_by_domain[domain] = real_df  # write back (optional, mostly for clarity)
+        real_data_by_domain[domain] = real_df  
 
     for idx, row in metadata_table.iterrows():
         domain = row["domain"]
@@ -992,18 +987,18 @@ def base_rate_parity_employment(df, pairs):
     bp_values = []
 
     for male_col, female_col in pairs:
-        # Drop rows with missing values in either column
+        # drop rows with missing values in either column
         valid = df[[male_col, female_col]].dropna()
 
-        # Positive outcome for each group
+        # positive outcome for each group
         p_male   = (valid[male_col] > valid[female_col]).mean()
         p_female = (valid[female_col] > valid[male_col]).mean()
 
-        # Base rate parity for this pair
+        # base rate parity for this pair
         bp = abs(p_male - p_female)
         bp_values.append(bp)
 
-    # Average base rate parity across all pairs
+    # average base rate parity across all pairs
     bp_avg = float(np.mean(bp_values)) if bp_values else np.nan
 
     return bp_avg, bp_values
@@ -1054,7 +1049,7 @@ def mean_difference_employment(df, pairs):
         if np.isnan(male_mean) or np.isnan(female_mean):
             md = np.nan
         else:
-            md = abs(male_mean - female_mean)   # exactly as in the formula
+            md = abs(male_mean - female_mean) 
 
         md_values.append(md)
 
@@ -1086,12 +1081,12 @@ def base_rate_parity(df, sensitive_attrs, outcome_col, positive_label):
 
         per_attr_probs[S] = probs
 
-        # Need at least 2 groups to form pairwise disparities
+        # need at least 2 groups to form pairwise disparities
         if len(probs) < 2:
             per_attr_bp[S] = np.nan
             continue
 
-        # Compute max pairwise disparity
+        # cmpute max pairwise disparity
         vals = probs.values
         max_disp = 0.0
         for i in range(len(vals)):
@@ -1102,7 +1097,7 @@ def base_rate_parity(df, sensitive_attrs, outcome_col, positive_label):
 
         per_attr_bp[S] = max_disp
 
-    # Overall base rate parity = mean over sensitive attributes
+    # overall base rate parity = mean over sensitive attributes
     overall_bp = np.nanmean(list(per_attr_bp.values()))
 
     return overall_bp, per_attr_bp, per_attr_probs
@@ -1117,7 +1112,7 @@ def disparate_impact_multiclass(df, sensitive_attrs, outcome_col, positive_label
     per_attr_probs = {}
 
     for S in sensitive_attrs:
-        # Drop rows with missing values in S or Y
+        # drop rows with missing values in S or Y
         sub = df[[S, outcome_col]].dropna()
 
         if sub.empty:
@@ -1138,7 +1133,7 @@ def disparate_impact_multiclass(df, sensitive_attrs, outcome_col, positive_label
 
         deviations = []
 
-        # Ordered pairs (gi, gj), i != j
+        # ordered pairs (gi, gj), i != j
         for i in range(len(vals)):
             for j in range(len(vals)):
                 if i == j:
@@ -1168,7 +1163,7 @@ def base_rate_multiclass(df, sensitive_attrs, outcome_col, positive_label):
     per_attr_rates = {}
 
     for S in sensitive_attrs:
-        # Keep only rows where S and Y are not NaN
+        # keep only rows where S and Y are not NaN
         sub = df[[S, outcome_col]].dropna()
         if sub.empty:
             per_attr_br[S] = np.nan
@@ -1177,10 +1172,10 @@ def base_rate_multiclass(df, sensitive_attrs, outcome_col, positive_label):
 
         N = len(sub)
 
-        # Count positives per group
+        # count positives per group
         pos = sub[sub[outcome_col] == positive_label].groupby(S).size()
 
-        # Ensure all groups appear (groups with 0 positives get BR=0)
+        # ensure all groups appear (groups with 0 positives get BR=0)
         groups = sub[S].unique()
         base_rates = pos.reindex(groups, fill_value=0) / N
 
@@ -1191,7 +1186,7 @@ def base_rate_multiclass(df, sensitive_attrs, outcome_col, positive_label):
             per_attr_br[S] = np.nan
             continue
 
-        # Compute max pairwise absolute difference in base rates
+        # compute max pairwise absolute difference in base rates
         max_disp = 0.0
         for i in range(len(vals)):
             for j in range(i + 1, len(vals)):
