@@ -110,8 +110,16 @@ Prerequisite: Python **3.13** (project developed/tested with 3.13.x, other versi
    Keep `.env` private.
 
 4. **Populate `data/raw/`**  
-   Download the full datasets referenced in `data/raw/README.md` if you plan to regenerate preprocessed files and re-run the analyses. Sample files alone are not sufficient for the complete experiments.
+   Download the full datasets referenced in below if you plan to regenerate preprocessed files and re-run the analyses. Sample files alone are not sufficient for the complete experiments.
    Real dataset names:  `hate_crime.csv`, `uk_gender_pay_gap_data_2024_to_2025`, `year_2024.csv` (please use same namings when downloading the raw datasets).
+
+  - Source of data for hate crime: https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads
+
+  - Source of the data for employment: https://gender-pay-gap.service.gov.uk/viewing/download
+
+  - Source of data for lending: https://ffiec.cfpb.gov/data-browser/data/2024?category=nationwide
+
+
 
 ## Usage
 To reproduce the full thesis pipeline:
