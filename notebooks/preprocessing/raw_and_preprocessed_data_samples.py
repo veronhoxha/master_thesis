@@ -1,7 +1,18 @@
+### IMPORTS ###
+
 import pandas as pd
+
+# WARNINGS
+import warnings
+warnings.filterwarnings("ignore", category=DeprecationWarning, module="pkg_resources")
+
+
+###########################
 
 
 def sample_large_csv(path, sample_size=200, out_path="sample.csv", chunksize=100000):
+    '''Samples a large CSV file in chunks to create a smaller representative sample.'''
+    
     sample_list = []
 
     # reading the dataset in chunks
@@ -28,6 +39,8 @@ datasets_pre = {
 
 
 def make_samples(datasets, folder="raw"):
+    '''Creates sample CSV files from the given datasets.'''
+    
     for name, path in datasets.items():
         out_path = f"../../data/{folder}/sample_{name}.csv"
         try:

@@ -1,12 +1,21 @@
+### IMPORTS ###
+
 import pandas as pd
 import numpy as np
 import os
 import json
 
+
+# WARNINGS
+import warnings
+warnings.filterwarnings("ignore", category=DeprecationWarning, module="pkg_resources")
+
+
+###########################
+
+
 def convert_csv_to_json(input_folder, output_folder, chunksize=100_000):
-    """
-    Convert CSV files to JSON format with proper handling of all data types.
-    """
+    """Convert CSV files to JSON format with proper handling of all data types."""
     os.makedirs(output_folder, exist_ok=True)
     
     for filename in os.listdir(input_folder):
@@ -47,9 +56,7 @@ def convert_csv_to_json(input_folder, output_folder, chunksize=100_000):
                 print(f"✗ Error converting {filename}: {str(e)}")
 
 def clean_record(record):
-    """
-    Clean a single record by handling NaN, infinity, and other special values.
-    """
+    """Clean a single record by handling NaN, infinity, and other special values."""
     cleaned = {}
     
     for key, value in record.items():

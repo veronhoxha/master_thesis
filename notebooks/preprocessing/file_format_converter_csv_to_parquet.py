@@ -1,5 +1,15 @@
+### IMPORTS ###
+
 import pandas as pd
 import os
+
+# WARNINGS
+import warnings
+warnings.filterwarnings("ignore", category=DeprecationWarning, module="pkg_resources")
+
+
+###########################
+
 
 folders = [
     ("../../data/raw/", "../../data/raw/"),
