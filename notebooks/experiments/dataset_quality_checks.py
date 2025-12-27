@@ -80,6 +80,7 @@ class GeneratedDatasetInfo:
 
 
 def load_ground_truth_types(path: Path) -> Dict[str, Dict[str, List[str]]]:
+    '''Load ground truth column types from JSON file.'''
     if not path.exists():
         return {}
     with path.open("r", encoding="utf-8") as fh:
@@ -187,6 +188,7 @@ DATASET_CONFIGS: Dict[str, DatasetConfig] = {
 
 
 def simplify_dtype(dtype: Any) -> str:
+    '''Simplify pandas dtype to one of: 'numeric', 'datetime', 'bool', 'object'.'''
     if pd.api.types.is_datetime64_any_dtype(dtype):
         return "datetime"
     if pd.api.types.is_bool_dtype(dtype):
@@ -201,6 +203,7 @@ def to_numeric(series: pd.Series) -> pd.Series:
 
 
 def to_datetime(series: pd.Series, format: Optional[str] = None) -> pd.Series:
+    '''Parse a pandas Series to datetime.'''
     if series.dtype == "datetime64[ns]" or series.dtype == "datetime64[ns, UTC]":
         return series
     if pd.api.types.is_datetime64_any_dtype(series.dtype):
@@ -221,6 +224,7 @@ def to_datetime(series: pd.Series, format: Optional[str] = None) -> pd.Series:
 
 
 def list_generated_datasets(config: DatasetConfig) -> List[GeneratedDatasetInfo]:
+    '''List all generated datasets for a given domain configuration.'''
     if not GENERATED_DIR.exists():
         return []
     datasets: List[GeneratedDatasetInfo] = []
@@ -260,6 +264,7 @@ def list_generated_datasets(config: DatasetConfig) -> List[GeneratedDatasetInfo]
 
 
 def load_dataframe(path: Path) -> pd.DataFrame:
+    '''Load a CSV file into a pandas DataFrame with multiple fallback options.'''
     readers = (
         {"encoding": "utf-8", "on_bad_lines": "skip", "low_memory": False},
         {"encoding": "utf-8", "low_memory": False},
@@ -275,6 +280,7 @@ def load_dataframe(path: Path) -> pd.DataFrame:
 
 
 def build_real_profile(config: DatasetConfig, df: pd.DataFrame) -> RealProfile:
+    '''Build a RealProfile from the real dataset DataFrame and configuration.'''
     domain_types = GROUND_TRUTH_TYPES.get(config.domain, {})
     numeric_cols = set(domain_types.get("numeric", []))
     categorical_cols = set(domain_types.get("categorical", []))
@@ -332,6 +338,8 @@ def compute_schema_checks(
     mismatches: List[Dict[str, Any]] = []
     matches = 0
     expected_columns = real_profile.simplified_dtypes
+    
+    '''Compare the schema of the generated datasets against the real profile.'''
 
     for col, expected in expected_columns.items():
         observed = generated_types.get(col)
@@ -386,6 +394,9 @@ def compute_numeric_validity(
     generated_df: pd.DataFrame,
 ) -> Dict[str, Any]:
     results: Dict[str, Dict[str, Any]] = {}
+    
+    '''Check numeric columns in the generated dataset against real profile ranges and constraints.'''
+    
     for col, (min_val, max_val) in real_profile.numeric_ranges.items():
         if col not in generated_df.columns:
             continue
@@ -446,6 +457,9 @@ def compute_categorical_sanity(
     generated_df: pd.DataFrame,
 ) -> Dict[str, Any]:
     results: Dict[str, Dict[str, Any]] = {}
+    
+    '''Check categorical columns in the generated dataset against allowed values from real profile.'''
+    
     for col, allowed_values in real_profile.categorical_allowed.items():
         if col not in generated_df.columns:
             continue
@@ -478,6 +492,8 @@ def compute_categorical_sanity(
 
 
 def compute_missingness(df: pd.DataFrame) -> Dict[str, Any]:
+    '''Compute percetange of missing values.'''
+    
     if df.empty:
         return {
             "overall_missing_pct": 0.0,
@@ -492,6 +508,8 @@ def compute_missingness(df: pd.DataFrame) -> Dict[str, Any]:
 
 
 def compute_duplicates(df: pd.DataFrame, primary_key: Optional[Sequence[str]]) -> Dict[str, Any]:
+    '''Compute duplicate rows in the dataset.'''
+    
     row_count = int(len(df))
     duplicates_total = int(df.duplicated().sum())
     duplicate_pct = (duplicates_total / row_count * 100.0) if row_count else 0.0
@@ -510,6 +528,8 @@ def compute_duplicates(df: pd.DataFrame, primary_key: Optional[Sequence[str]]) -
 
 
 def compute_outliers(df: pd.DataFrame, numeric_columns: Iterable[str]) -> Dict[str, Dict[str, Any]]:
+    '''Compute outliers in numeric columns.'''
+    
     outliers: Dict[str, Dict[str, Any]] = {}
     for col in numeric_columns:
         if col not in df.columns:
@@ -541,6 +561,9 @@ def compute_date_validation(
     generated_df: pd.DataFrame,
 ) -> Dict[str, Any]:
     results: Dict[str, Any] = {}
+    
+    '''Check date columns in the generated dataset against real profile date ranges.'''
+    
     for col in config.date_columns:
         if col not in generated_df.columns:
             continue
@@ -575,6 +598,8 @@ def evaluate_row_constraints(
 ) -> Dict[str, Dict[str, Any]]:
     violations: Dict[str, Dict[str, Any]] = {}
     total_rows = int(len(generated_df)) or 1
+    
+    '''Evaluate domain-specific row constraints in the generated dataset.'''
 
     if config.domain == "hatecrime":
         if {"adult_victim_count", "juvenile_victim_count", "victim_count"}.issubset(generated_df.columns):
@@ -653,6 +678,8 @@ def compute_numeric_distribution_similarity(
     numeric_cols: Iterable[str],
 ) -> Dict[str, Dict[str, float]]:
     results: Dict[str, Dict[str, float]] = {}
+    
+    '''Compute distribution similarity metrics for numeric columns between real and generated datasets.'''
 
     for col in numeric_cols:
         if col not in real_df.columns or col not in gen_df.columns:
@@ -683,6 +710,8 @@ def compute_categorical_distribution_similarity(
 ) -> Dict[str, Dict[str, float]]:
     results: Dict[str, Dict[str, float]] = {}
 
+    '''Compute distribution similarity metrics for categorical columns between real and generated datasets.'''
+    
     for col in categorical_cols:
         if col not in real_df.columns or col not in gen_df.columns:
             continue
@@ -711,6 +740,8 @@ def compute_text_quality(
     text_cols: Iterable[str],
 ) -> Dict[str, Dict[str, float]]:
     results: Dict[str, Dict[str, float]] = {}
+    
+    '''Compute text quality metrics for text columns between real and generated datasets.'''
 
     for col in text_cols:
         if col not in real_df.columns or col not in gen_df.columns:
@@ -767,6 +798,8 @@ def quality_checks_for_dataset(
         for col, t in real_profile.simplified_dtypes.items()
         if t == "object" and col not in numeric_cols and col not in categorical_cols
     ]
+    
+    '''Compute various quality metrics for the generated dataset.'''
 
     numeric_validity = compute_numeric_validity(config, real_profile, generated_df)
     categorical_sanity = compute_categorical_sanity(real_profile, generated_df)
@@ -860,6 +893,8 @@ def run_quality_checks(
 
     summaries: List[Dict[str, Any]] = []
     real_metrics_records: List[Dict[str, Any]] = []
+    
+    '''Run quality checks across specified domains, models, and shots.'''
 
     for domain, config in DATASET_CONFIGS.items():
         if domain_filter and domain not in domain_filter:
@@ -1153,6 +1188,8 @@ def inspect_type_correctness_runs(
     verbose: bool = False,
 ) -> pd.DataFrame:
     from dataset_quality_checks import DATASET_CONFIGS, list_generated_datasets
+    
+    '''Inspect type correctness across multiple runs for a given model/domain/shot.'''
 
     config = DATASET_CONFIGS.get(domain)
     if not config:
