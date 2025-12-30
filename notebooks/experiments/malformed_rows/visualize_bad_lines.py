@@ -41,18 +41,17 @@ BAD_LINES_BY_LLM_PATH = PROJECT_ROOT / "analysis" / "bad_lines" / "bad_lines_by_
 
 
 FONT_CONFIG = {
-    'suptitle_size': 36, 
-    # 'suptitle_weight': 'bold',
-    'title_size': 33,  
+    'suptitle_size': 36,
+    'title_size': 33,
     'title_weight': 'normal',
-    'label_size': 24,  
+    'label_size': 24,
     'xlabel_size': 29,
     'ylabel_size': 29,
     'tick_size': 24,
     'xtick_label_size': 30,
     'ytick_label_size': 30,
     'bar_label_size': 15,
-    'legend_size': 24, 
+    'legend_size': 24,
     'legend_title_size': 24,
     'text_color_dark': '#080808',
     'text_color_medium': '#080808',
@@ -65,15 +64,17 @@ def format_domain_name(domain: str) -> str:
         return 'Hate Crime'
     return domain.title()
 
+
 def format_error_type(error_type: str) -> str:
     '''Format error type labels by removing underscores and applying title case.'''
     if not error_type or error_type == 'Other':
         return error_type
     return error_type.replace('_', ' ').title()
 
+
 def plot_faceted_by_llm(df):
     '''Plot bad rows by error type, shot, and domain for each LLM.'''
-    
+
     agg_data = df.groupby(['llm', 'domain', 'shot', 'error_type'])['bad_rows_count'].sum().reset_index()
 
     shot_order = ['zero', 'one', 'few']
@@ -91,20 +92,20 @@ def plot_faceted_by_llm(df):
         domains = [d for d in domain_order if d in subset['domain'].unique()]
         remaining = [d for d in subset['domain'].unique() if d not in domains]
         domains.extend(sorted(remaining))
-        
+
         n_domains = len(domains)
         n_cols = 3
         n_rows = (n_domains + n_cols - 1) // n_cols
-        
+
         fig, axes = plt.subplots(
-            n_rows, 
-            n_cols, 
-            figsize=(18, 6 * n_rows), 
-            sharex=True, 
+            n_rows,
+            n_cols,
+            figsize=(18, 6 * n_rows),
+            sharex=True,
             sharey=False
         )
         axes = axes.flatten()
-        
+
         y_max = 2000
         y_ticks = [0, 500, 1000, 1500, 2000]
 
@@ -127,22 +128,22 @@ def plot_faceted_by_llm(df):
                 zorder=2,
                 width=0.7
             )
-            
+
             ax.set_ylim(bottom=0, top=y_max)
             ax.set_yticks(y_ticks)
 
             ax.set_title(
-                format_domain_name(domain), 
-                fontsize=FONT_CONFIG['title_size'], 
-                fontweight=FONT_CONFIG['title_weight'], 
-                color='black', 
+                format_domain_name(domain),
+                fontsize=FONT_CONFIG['title_size'],
+                fontweight=FONT_CONFIG['title_weight'],
+                color='black',
                 pad=25
             )
 
             if i % n_cols == 0:
                 ax.set_ylabel(
-                    'Number of Bad Rows', 
-                    fontsize=FONT_CONFIG['ylabel_size'], 
+                    'Number of Bad Rows',
+                    fontsize=FONT_CONFIG['ylabel_size'],
                     color='black'
                 )
             else:
@@ -150,42 +151,42 @@ def plot_faceted_by_llm(df):
 
             if i == 0:
                 ax.tick_params(
-                    axis='y', 
-                    colors='black', 
-                    labelsize=FONT_CONFIG['ytick_label_size'], 
-                    left=True, 
+                    axis='y',
+                    colors='black',
+                    labelsize=FONT_CONFIG['ytick_label_size'],
+                    left=True,
                     labelleft=True
                 )
             else:
                 ax.tick_params(
-                    axis='y', 
-                    colors='black', 
-                    labelsize=FONT_CONFIG['ytick_label_size'], 
-                    left=True, 
+                    axis='y',
+                    colors='black',
+                    labelsize=FONT_CONFIG['ytick_label_size'],
+                    left=True,
                     labelleft=False
                 )
 
             ax.set_xticks(range(len(shot_order)))
             ax.set_xticklabels(
-                [s.lower() for s in shot_order], 
-                fontsize=FONT_CONFIG['xtick_label_size'], 
+                [s.lower() for s in shot_order],
+                fontsize=FONT_CONFIG['xtick_label_size'],
                 color='black'
             )
             ax.tick_params(
-                colors='black', 
-                width=0.5, 
-                length=3, 
-                bottom=True, 
+                colors='black',
+                width=0.5,
+                length=3,
+                bottom=True,
                 labelbottom=True
             )
             ax.set_xlim(-0.5, len(shot_order) - 0.5)
 
             ax.grid(
-                True, 
-                axis='y', 
-                alpha=1.0, 
-                linestyle='-', 
-                linewidth=0.7, 
+                True,
+                axis='y',
+                alpha=1.0,
+                linestyle='-',
+                linewidth=0.7,
                 zorder=0
             )
             ax.set_axisbelow(True)
@@ -194,17 +195,6 @@ def plot_faceted_by_llm(df):
             for spine in ['bottom', 'left']:
                 ax.spines[spine].set_color(FONT_CONFIG['text_color_light'])
                 ax.spines[spine].set_linewidth(0.5)
-
-            # for container in ax.containers:
-            #     labels = [int(v.get_height()) if v.get_height() > 0 else '' for v in container]
-            #     ax.bar_label(
-            #         container, 
-            #         labels=labels, 
-            #         padding=2, 
-            #         fontsize=FONT_CONFIG['bar_label_size'], 
-            #         color='black', 
-            #         zorder=3
-            #     )
 
             if ax.get_legend():
                 ax.get_legend().remove()
@@ -227,9 +217,9 @@ def plot_faceted_by_llm(df):
         all_handles = []
         all_labels = []
         seen_labels = set()
-        
+
         visible_axes = [ax for ax in axes[:n_domains]]
-        
+
         for ax in axes:
             if ax.containers:
                 try:
@@ -242,14 +232,14 @@ def plot_faceted_by_llm(df):
                             seen_labels.add(formatted_lbl)
                 except Exception:
                     pass
-        
+
         if all_handles and all_labels:
             if visible_axes:
                 bboxes = [ax.get_position() for ax in visible_axes]
                 leftmost = min(bb.x0 for bb in bboxes)
                 rightmost = max(bb.x1 for bb in bboxes)
                 center_x = (leftmost + rightmost) / 2
-                
+
                 fig.legend(
                     all_handles, all_labels,
                     title="Error Type",
@@ -281,11 +271,10 @@ def plot_faceted_by_llm(df):
             title_x = (leftmost + rightmost) / 2
         else:
             title_x = 0.5
-            
+
         fig.suptitle(
             f"{llm}",
             fontsize=FONT_CONFIG['suptitle_size'],
-            # fontweight=FONT_CONFIG['suptitle_weight'],
             x=title_x,
             y=0.995,
             color='black'
@@ -295,25 +284,25 @@ def plot_faceted_by_llm(df):
 
         fig.text(
             center_x_label,
-            0.04, 
+            0.04,
             "Shot Type",
             ha="center",
             va="center",
             fontsize=FONT_CONFIG['xlabel_size'],
             color="black"
         )
-        
+
         llm_name_clean = llm.replace('/', '_').replace('-', '_').replace('.', '_')
         filename = f"bad_rows_by_error_type_shot_domain_{llm_name_clean}.png"
         filepath = FIGURES_DIR / filename
         fig.savefig(filepath, bbox_inches='tight', dpi=300)
-        
+
         plt.show()
-    
+
     print("\n" + "=" * 80)
     print("SUMMARY: Total Bad Lines Found Per LLM")
     print("=" * 80)
-    
+
     llm_summary = agg_data.groupby('llm')['bad_rows_count'].sum().reset_index()
     llm_summary.columns = ['llm', 'total_bad_rows']
 
@@ -327,9 +316,9 @@ def plot_faceted_by_llm(df):
         llm_summary['total_bad_rows_llm'] = np.nan
         llm_summary['total_rows_llm'] = np.nan
         llm_summary['bad_rows_pct_llm'] = np.nan
-    
+
     total_all_bad = llm_summary['total_bad_rows'].sum()
-    
+
     for _, row in llm_summary.iterrows():
         llm_name = row['llm']
         total_bad = row['total_bad_rows']
@@ -344,7 +333,7 @@ def plot_faceted_by_llm(df):
                 else np.nan
             )
         )
-            
+
         if (
             not pd.isna(total_rows_llm)
             and total_rows_llm > 0
@@ -363,9 +352,8 @@ def plot_faceted_by_llm(df):
             )
         else:
             print(f"{llm_name}: {int(total_bad):,} bad rows ({pct:.1f}% of all bad lines)")
-    
-    print(f"\nTotal bad lines across all LLMs: {int(total_all_bad)}")
 
+    print(f"\nTotal bad lines across all LLMs: {int(total_all_bad)}")
 
     stats_df = df
     has_run_info = {'llm', 'run'}.issubset(stats_df.columns)
@@ -402,66 +390,84 @@ def plot_faceted_by_llm(df):
     if has_run_info:
         run_levels = _sorted_runs(pd.Index(stats_df['run'].unique()))
 
-        print("\n" + "=" * 80)
-        print("AVERAGE BAD ROWS PER LLM (MEAN PER RUN ACROSS ALL DOMAINS)")
-        print("=" * 80)
+        if 'domain' not in stats_df.columns:
+            stats_df = stats_df.copy()
+            stats_df['domain'] = 'all_domains'
+        if 'shot' not in stats_df.columns:
+            stats_df = stats_df.copy()
+            stats_df['shot'] = 'all_shots'
 
-        llm_run_totals = (
-            stats_df.groupby(['llm', 'run'])['bad_rows_count']
+        domain_shot_run_totals = (
+            stats_df.groupby(['llm', 'domain', 'shot', 'run'], as_index=False)['bad_rows_count']
             .sum()
-            .unstack('run')
-            .reindex(columns=run_levels, fill_value=0)
-            .fillna(0)
         )
 
-        llm_run_stats = llm_run_totals.copy()
-        llm_run_stats['avg_bad_rows_per_run'] = llm_run_totals.mean(axis=1)
-        llm_run_stats['std_bad_rows_per_run'] = llm_run_totals.std(axis=1, ddof=1)
-        llm_run_stats['min_bad_rows_per_run'] = llm_run_totals.min(axis=1)
-        llm_run_stats['max_bad_rows_per_run'] = llm_run_totals.max(axis=1)
-        llm_run_stats['num_runs'] = llm_run_totals.shape[1]
+        llm_levels = pd.Index(stats_df['llm'].unique())
+        domain_levels = pd.Index(stats_df['domain'].unique())
+        shot_levels = pd.Index(stats_df['shot'].unique())
+        run_levels_idx = pd.Index(run_levels)
 
-        llm_run_stats = (
-            llm_run_stats[['avg_bad_rows_per_run', 'std_bad_rows_per_run',
-                           'min_bad_rows_per_run', 'max_bad_rows_per_run', 'num_runs']]
+        full_index = pd.MultiIndex.from_product(
+            [llm_levels, domain_levels, shot_levels, run_levels_idx],
+            names=['llm', 'domain', 'shot', 'run']
+        )
+
+        domain_shot_run_totals = (
+            domain_shot_run_totals
+            .set_index(['llm', 'domain', 'shot', 'run'])
+            .reindex(full_index, fill_value=0)
             .reset_index()
-            .sort_values('avg_bad_rows_per_run', ascending=False)
         )
 
+        domain_shot_avg = (
+            domain_shot_run_totals.groupby(['llm', 'domain', 'shot'], as_index=False)['bad_rows_count']
+            .mean()
+            .rename(columns={'bad_rows_count': 'avg_bad_rows_per_run'})
+        )
+
+        domain_shot_stats = (
+            domain_shot_run_totals.groupby(['llm', 'domain', 'shot'])['bad_rows_count']
+            .agg(
+                avg_bad_rows_per_run='mean',
+                std_bad_rows_per_run=lambda x: x.std(ddof=1),
+                min_bad_rows_per_run='min',
+                max_bad_rows_per_run='max',
+                num_runs='size'  
+            )
+            .reset_index()
+        )
+
+        llm_overall = (
+            domain_shot_avg.groupby('llm', as_index=False)['avg_bad_rows_per_run']
+            .mean()
+            .rename(columns={'avg_bad_rows_per_run': 'avg_bad_rows_per_run_over_domain_shot'})
+            .sort_values('avg_bad_rows_per_run_over_domain_shot', ascending=False)
+        )
+
+        print("\n" + "=" * 80)
+        print("AVERAGE BAD ROWS PER LLM (MEAN OVER DOMAIN-SHOT OF MEAN PER RUN)")
+        print("=" * 80)
         print(
-            llm_run_stats.to_string(
+            llm_overall.to_string(
                 index=False,
-                formatters={
-                    'avg_bad_rows_per_run': '{:,.2f}'.format,
-                    'std_bad_rows_per_run': (lambda x: '{:,.2f}'.format(x) if not pd.isna(x) else 'nan'),
-                    'min_bad_rows_per_run': '{:,.0f}'.format,
-                    'max_bad_rows_per_run': '{:,.0f}'.format,
-                    'num_runs': '{:d}'.format
-                }
+                formatters={'avg_bad_rows_per_run_over_domain_shot': '{:,.2f}'.format}
             )
         )
 
-        if has_domain_info:
+        if has_domain_info or 'domain' in stats_df.columns:
             print("\n" + "=" * 80)
-            print("AVERAGE BAD ROWS PER LLM BY DOMAIN")
+            print("AVERAGE BAD ROWS PER LLM BY DOMAIN (MEAN OVER SHOT OF MEAN PER RUN)")
             print("=" * 80)
 
-            domain_run_totals = (
-                stats_df.groupby(['llm', 'domain', 'run'])['bad_rows_count']
-                .sum()
-                .unstack('run')
-                .reindex(columns=run_levels, fill_value=0)
-                .fillna(0)
+            llm_domain_avg = (
+                domain_shot_avg.groupby(['llm', 'domain'], as_index=False)['avg_bad_rows_per_run']
+                .mean()
+                .rename(columns={'avg_bad_rows_per_run': 'avg_bad_rows_per_run'})
             )
 
-            domain_avg = (
-                domain_run_totals.mean(axis=1)
-                .reset_index(name='avg_bad_rows_per_run')
-            )
-
-            for llm in llm_run_stats['llm']:
+            for llm in llm_overall['llm']:
                 subset = (
-                    domain_avg[domain_avg['llm'] == llm]
+                    llm_domain_avg[llm_domain_avg['llm'] == llm]
                     .sort_values('domain')
                 )
                 if subset.empty:
@@ -473,28 +479,21 @@ def plot_faceted_by_llm(df):
                         formatters={'avg_bad_rows_per_run': '{:,.2f}'.format}
                     )
                 )
-
+                
         if 'shot' in stats_df.columns:
             print("\n" + "=" * 80)
-            print("AVERAGE BAD ROWS PER LLM BY SHOT")
+            print("AVERAGE BAD ROWS PER LLM BY SHOT (MEAN OVER DOMAIN OF MEAN PER RUN)")
             print("=" * 80)
 
-            shot_run_totals = (
-                stats_df.groupby(['llm', 'shot', 'run'])['bad_rows_count']
-                .sum()
-                .unstack('run')
-                .reindex(columns=run_levels, fill_value=0)
-                .fillna(0)
+            llm_shot_avg = (
+                domain_shot_avg.groupby(['llm', 'shot'], as_index=False)['avg_bad_rows_per_run']
+                .mean()
+                .rename(columns={'avg_bad_rows_per_run': 'avg_bad_rows_per_run'})
             )
 
-            shot_avg = (
-                shot_run_totals.mean(axis=1)
-                .reset_index(name='avg_bad_rows_per_run')
-            )
-
-            for llm in llm_run_stats['llm']:
+            for llm in llm_overall['llm']:
                 subset = (
-                    shot_avg[shot_avg['llm'] == llm]
+                    llm_shot_avg[llm_shot_avg['llm'] == llm]
                     .sort_values('shot')
                 )
                 if subset.empty:
@@ -507,43 +506,39 @@ def plot_faceted_by_llm(df):
                     )
                 )
 
-        if has_domain_shot_info:
+
+        if has_domain_shot_info or ('domain' in stats_df.columns and 'shot' in stats_df.columns):
             print("\n" + "=" * 80)
-            print("AVERAGE BAD ROWS PER LLM BY DOMAIN AND SHOT")
+            print("AVERAGE BAD ROWS PER LLM BY DOMAIN AND SHOT (MEAN PER RUN)")
             print("=" * 80)
 
-            domain_shot_run_totals = (
-                stats_df.groupby(['llm', 'domain', 'shot', 'run'])['bad_rows_count']
-                .sum()
-                .unstack('run')
-                .reindex(columns=run_levels, fill_value=0)
-                .fillna(0)
+            domain_shot_stats_print = domain_shot_stats.copy()
+            domain_shot_stats_print['shot'] = pd.Categorical(
+                domain_shot_stats_print['shot'],
+                categories=shot_order,
+                ordered=True
             )
 
-            domain_shot_avg = (
-                domain_shot_run_totals.mean(axis=1)
-                .reset_index(name='avg_bad_rows_per_run')
-            )
-
-            if 'shot' in domain_shot_avg.columns:
-                domain_shot_avg['shot'] = pd.Categorical(
-                    domain_shot_avg['shot'],
-                    categories=shot_order,
-                    ordered=True
-                )
-
-            for llm in llm_run_stats['llm']:
+            for llm in llm_overall['llm']:
                 subset = (
-                    domain_shot_avg[domain_shot_avg['llm'] == llm]
+                    domain_shot_stats_print[domain_shot_stats_print['llm'] == llm]
                     .sort_values(['domain', 'shot'])
                 )
                 if subset.empty:
                     continue
                 print(f"\n{llm}:")
                 print(
-                    subset[['domain', 'shot', 'avg_bad_rows_per_run']].to_string(
+                    subset[['domain', 'shot', 'avg_bad_rows_per_run', 'std_bad_rows_per_run',
+                            'min_bad_rows_per_run', 'max_bad_rows_per_run', 'num_runs']]
+                    .to_string(
                         index=False,
-                        formatters={'avg_bad_rows_per_run': '{:,.2f}'.format}
+                        formatters={
+                            'avg_bad_rows_per_run': '{:,.2f}'.format,
+                            'std_bad_rows_per_run': (lambda x: '{:,.2f}'.format(x) if not pd.isna(x) else 'nan'),
+                            'min_bad_rows_per_run': '{:,.0f}'.format,
+                            'max_bad_rows_per_run': '{:,.0f}'.format,
+                            'num_runs': '{:d}'.format
+                        }
                     )
                 )
 
